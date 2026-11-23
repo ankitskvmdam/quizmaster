@@ -1,0 +1,2 @@
+- { slug: current-affairs, name: Current Affairs, kind: current_affairs, position: 1 }
+- { slug: maths-reasoning, name: Maths & Reasoning, kind: topics, position: 2 }

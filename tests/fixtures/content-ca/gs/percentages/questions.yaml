@@ -1,0 +1,2 @@
+- { slug: fx-pct-1, difficulty: easy, stem: "10% of 50?", options: { A: "5", B: "10" }, answer: A, explanation: "50 × 0.1" }
+- { slug: fx-pct-2, difficulty: easy, stem: "20% of 50?", options: { A: "10", B: "5" }, answer: A, explanation: "50 × 0.2" }

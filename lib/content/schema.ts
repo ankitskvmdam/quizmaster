@@ -24,6 +24,7 @@ export const topicFile = z
     name: z.string().min(1),
     description: z.string().default(''),
     position: z.number().int(),
+    section: slug.optional(),
   })
   .strict()
 
@@ -71,3 +72,48 @@ export const testFile = z
   .refine((t) => t.kind !== 'pyq' || t.year !== undefined, { message: 'a pyq test needs a year', path: ['year'] })
 
 export type QuestionShape = z.infer<typeof questionShape>
+
+// ---------------------------------------------------------------------------
+// Sections and monthly current affairs
+// ---------------------------------------------------------------------------
+export const RESERVED_TOPIC_SLUGS = ['current-affairs'] as const
+
+export const sectionsFile = z.array(
+  z
+    .object({
+      slug,
+      name: z.string().min(1),
+      kind: z.enum(['topics', 'current_affairs']),
+      position: z.number().int(),
+    })
+    .strict(),
+)
+
+export const categoriesFile = z.array(z.object({ slug, name: z.string().min(1) }).strict()).min(1)
+
+const isoDate = z
+  .union([z.string(), z.date()])
+  .transform((d) => (d instanceof Date ? d.toISOString().slice(0, 10) : d))
+  .pipe(z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'must be a date like 2026-01-14'))
+
+export const caNotesFile = z.array(
+  z
+    .object({
+      slug,
+      category: slug,
+      date: isoDate.optional(),
+      note: text.pipe(z.string().min(1)),
+      angle: text.optional(),
+    })
+    .strict(),
+)
+
+export const caQuestionsFile = z.array(questionShape.extend({ category: slug }))
+
+export const caTestFile = z
+  .object({
+    title: z.string().min(1),
+    duration_min: z.number().positive(),
+    questions: z.array(slug).min(1),
+  })
+  .strict()

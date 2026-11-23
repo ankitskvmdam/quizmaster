@@ -1,0 +1,1 @@
+- { slug: inv-q1, category: appointments, difficulty: easy, stem: "Q?", options: { A: "a", B: "b" }, answer: A, explanation: "x" }

@@ -1,0 +1,2 @@
+- { slug: fx-ca-2099-02-001, category: appointments, difficulty: easy, stem: "Who was appointed K?", options: { A: "J", B: "Other" }, answer: A, explanation: "J was appointed." }
+- { slug: fx-ca-2099-02-002, category: sports, difficulty: easy, stem: "Who set a record?", options: { A: "L", B: "Other" }, answer: A, explanation: "L did." }
