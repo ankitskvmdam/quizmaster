@@ -1,7 +1,7 @@
 # QuizMaster
 
-An invite-only web app for learning and practising General Studies maths and reasoning (CSAT / SSC style): short
-lessons with maths, and multiple-choice tests taken against the clock or as untimed practice.
+An invite-only web app for learning and practising BPSC-level General Studies: a syllabus tree of short notes with
+practice MCQs per subject (History, Civics, Geography, Economics), plus book gists with an end-of-chapter quiz.
 
 - **Stack:** Next.js 16 (App Router) · Supabase (Postgres, Auth) · Tailwind CSS v4 · shadcn/ui · KaTeX
 - **Design:** [`DESIGN_DIRECTION.md`](DESIGN_DIRECTION.md) · **Spec:** [`docs/superpowers/specs/`](docs/superpowers/specs/)
@@ -10,11 +10,11 @@ lessons with maths, and multiple-choice tests taken against the clock or as unti
 
 | Tab | What it does |
 |---|---|
-| **Study** | Home: continue a lesson or resume a test, progress per topic, recent attempts, quick practice |
-| **Subjects** | Subject → topic → lessons. Mark lessons done; practise a topic |
+| **Study** | Home: continue a note, chapter or test, progress per subject, recent attempts, quick practice |
+| **Courses** | Course → subject → sections (any depth) → notes. Mark notes done; practise any branch; read book chapters and take their quizzes |
 | **Tests** | Mock tests: start timed (with negative marking) or practise with explanations as you go |
 | **Past tests** | Previous-year papers, and every attempt you've taken with a full review |
-| **New** | Build a custom test from topics; a feed of recently added lessons and tests |
+| **New** | Build a custom test from subjects and sections; a feed of recently added notes, books and tests |
 
 Answers never reach the browser during a timed test. Scoring, deadlines and answer checks run in Postgres functions
 (`supabase/migrations/0002_attempts.sql`). Signed-in users can't read `questions.correct_key` or `explanation_md`.
@@ -29,7 +29,7 @@ cp .env.example .env.local        # then fill it in from the next command
 npm run db:start                  # local Supabase; prints the anon and service-role keys
 npm run db:reset                  # applies migrations
 npm run invite -- you@example.com # only invited emails can sign up
-npm run content:push              # loads content/ into the database
+npm run dev:seed                  # demo@quizmaster.test / Demo1234 + the mock content (local only)
 npm run dev                       # http://localhost:3000
 ```
 
@@ -59,127 +59,58 @@ does. Case doesn't matter.
 
 ## Content
 
-Everything lives in `content/` as Markdown and YAML, and `npm run content:push` copies it into Supabase.
+Content lives in files and `npm run content:push` copies it into Supabase. **The full format — nodes, notes,
+questions, books, chapter gists and quizzes, plus rules for AI-written content — is in
+[`docs/content-format.md`](docs/content-format.md).**
 
 ```
-content/
-  gs/                                 # a subject (folder name = slug)
-    subject.yaml                      # slug, name, description, position
-    percentages/                      # a topic
-      topic.yaml                      # slug, name, description, position
-      01-basics.md                    # a lesson: frontmatter (slug, title, position) + Markdown
-      questions.yaml                  # the topic's question bank
-  tests/
-    gs-percentages-mock-1.yaml        # kind: mock
-    sample-pyq-2024.yaml              # kind: pyq (needs year)
+content/        # real content; pushed to production. Today: the General Studies skeleton (no notes yet)
+content-mock/   # [MOCK] notes, questions and a sample book for local screens only. Never push it to the cloud
 ```
 
-**A question** (`questions.yaml` is a list of these):
+**Glossary.** The app says *course → subject → section*; the database keeps older names: a course is a row in
+`subjects`, and subjects and sections are rows in `topics` (a subject is a topic with no parent; `path` is its folder
+path, e.g. `history/ancient/india`). Books live in `books`, `book_chapters` and `chapter_topics` (a chapter's
+`covers` tags); a chapter quiz is a `tests` row of kind `chapter`.
 
-```yaml
-- slug: pct-001            # unique across all content
-  difficulty: easy         # easy | medium | hard
-  stem: What is $15\%$ of $240$?
-  options: { A: "32", B: "36", C: "38", D: "42" }   # A, B, … in order, 2–6 options
-  answer: B
-  explanation: |
-    $\dfrac{15}{100} \times 240 = 36$.
-  source: Optional, e.g. "CSAT 2023 Q12"
-  tags: [optional]
-```
+**Tests and previous-year papers** (`content/tests/*.yaml`, kind `mock` or `pyq`) still work as before; inline
+questions name their node as `topic: <course>/<path>`, e.g. `gs/history/modern/india`.
 
-**A test:**
-
-```yaml
-slug: gs-percentages-mock-1
-title: Percentages mock 1
-kind: mock                 # mock | pyq
-subject: gs
-year: 2024                 # required for pyq
-duration_min: 15           # omit for practice-only
-marks: { correct: 2, wrong: -0.66 }
-questions:
-  - pct-001                # a question slug from any bank…
-  - slug: pyq-2024-01      # …or a question written inline (needs topic: <subject>/<topic>)
-    topic: gs/percentages
-    # …same fields as a bank question
-```
-
-**Writing lessons:** use `##` and `###` headings, `$…$` and `$$…$$` for maths (inside YAML double quotes, write `\\%`
-for a percent sign in maths). A blockquote that starts with bold text becomes a callout: `> **Example**`,
-`> **Shortcut**`, and `> **Trap**` (shown in amber).
-
-### Monthly current affairs
-
-General Studies has two sections, declared in `content/gs/sections.yaml`: **Current Affairs**, organised by month, and
-**Maths & Reasoning**, the topics above. Current affairs live under `content/gs/current-affairs/`:
-
-```
-content/gs/current-affairs/
-  categories.yaml          # display order: slug + name (National, Appointments, Awards & Honours, …)
-  2026-01/                 # one folder per month, named YYYY-MM
-    notes.yaml             # short notes, one fact each
-    questions.yaml         # MCQs, each with a category
-    test.yaml              # optional: the month's fixed test paper
-```
-
-**A note:** one fact. Put the answer-worthy part in bold. The optional `angle` is a one-line exam hint.
-
-```yaml
-- slug: cea-appointed            # unique within the month
-  category: appointments         # a slug from categories.yaml
-  date: 2026-01-14               # optional; must fall inside the month
-  note: "**Asha Verma** appointed Chief Economic Adviser."
-  angle: "Succeeds R. Kumar · 3-year term"
-```
-
-**A question:** the same shape as a topic question, plus `category`. Slugs must be unique across all content; use the
-form `ca-2026-01-001`. Every answer should come from a note in the same month.
-
-**The month paper (`test.yaml`):**
-
-```yaml
-title: January 2026 test
-duration_min: 25
-questions: [ca-2026-01-001, ca-2026-01-004, …]   # only questions from this month
-```
-
-The paper is the same for everyone, appears on the month page and in the Tests list, and is marked +1 / −0.33.
-
-**How it behaves:**
-
-- **A pushed month goes live straight away.**
-- **Revision periods are built from the months.** Learners get calendar quarters, halves and years, plus "last 3/6/12
-  months", with practice and timed revision tests (1 min per question, +1 / −0.33). You never write a compilation.
-- **`--prune` hides removed content but keeps history.** It unpublishes a month folder you removed, and deletes notes
-  you removed from a month that's still there. It also *retires* questions you removed: they're never drawn into new
-  tests, but past reviews still show them.
-- **An attempted month paper keeps its question list.** Once someone has taken it, `content:push` refuses to change
-  the list unless you pass `--force`.
+**Current affairs** code is kept but dormant (no section is pushed); it will move to month-wise books later.
 
 **Pushing:**
 
 ```bash
-npm run content:push -- --dry     # check everything and show what would change; writes nothing
-npm run content:push              # create/update by slug; unchanged rows are left alone
-npm run content:push -- --prune   # also unpublish lessons/tests/subjects you deleted from the files
+npm run content:push -- --dry                 # check everything and show what would change; writes nothing
+npm run content:push                          # create/update by slug; unchanged rows are left alone
+npm run content:push -- --prune               # also unpublish lessons/tests/books you deleted from the files
+npm run content:push -- content-mock          # push another folder (local mock content)
 ```
 
-The push checks every file first: unknown answers, missing questions, duplicate slugs. If there's a problem, it lists
-every one and writes nothing. It never deletes. `--prune` only unpublishes, because attempts may refer to old
-questions.
+The push checks every file first: unknown answers, missing questions, duplicate slugs, bad `covers` paths, chapters
+without `## Gist` / `## Key facts`. If there's a problem, it lists every one and writes nothing. It never deletes;
+`--prune` only unpublishes, because attempts may refer to old questions. A test or chapter quiz someone has attempted
+keeps its question list unless you pass `--force`.
+
+**Starting over** (deletes all content and every attempt; keeps users, profiles and the invite list):
+
+```bash
+npm run content:wipe            # shows row counts only
+npm run content:wipe -- --yes   # deletes
+```
 
 ## Tests
 
 ```bash
 npm test          # unit tests (Vitest)
-npm run db:test   # database tests (pgTAP): RLS, answer hiding, scoring, deadlines, the allowlist hook
+npm run db:test   # database tests (pgTAP): RLS, answer hiding, scoring, deadlines, the allowlist hook, trees, books
+npm run test:integration   # content push/wipe against local Supabase — runs `supabase db reset` first (wipes local data, incl. the demo user; run `npm run dev:seed` after)
 npm run typecheck && npm run lint && npm run build
 ```
 
 ## Deploying with Supabase cloud
 
-1. Create a project, then `npx supabase link --project-ref <ref>` and `npx supabase db push` to apply the migrations.
+1. Create a project, then `npx supabase link --project-ref <ref>` and `npx supabase db push --linked` to apply the migrations.
 2. **Auth → Hooks:** add a *Before User Created* hook of type Postgres function → `public.hook_check_allowlist`.
 3. **Auth → Providers → Email:** keep *Confirm email* on. Set the minimum password length to 8, with letters and
    digits required.
@@ -187,4 +118,5 @@ npm run typecheck && npm run lint && npm run build
 5. **Auth → Email templates:** paste `supabase/templates/confirmation.html` into *Confirm signup* and
    `supabase/templates/recovery.html` into *Reset password*. They link to `/auth/confirm` with a token hash.
 6. Set the four environment variables on your host (e.g. Vercel), with `NEXT_PUBLIC_SITE_URL` as the real URL.
-7. Run `npm run invite` and `npm run content:push` with `.env.local` pointing at the cloud project.
+7. Put the cloud URL and service-role key in a git-ignored `.env.cloud` (never on the host), then run the CLIs with it,
+   e.g. `npx tsx --env-file=.env.cloud scripts/content-push.ts`. Never push `content-mock/` to the cloud.
