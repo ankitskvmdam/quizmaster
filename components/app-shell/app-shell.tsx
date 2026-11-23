@@ -4,6 +4,7 @@ import { ThemeSwitcher } from '@/components/theme-switcher'
 import { AppMark } from './app-mark'
 import { AccountMenu } from './account-menu'
 import { BottomDock } from './bottom-dock'
+import { SearchButton } from './search-button'
 import type { ContentLang } from '@/lib/lang'
 
 /** Header + centred content + the bottom dock. */
@@ -14,6 +15,7 @@ export function AppShell({ user, children }: { user: { displayName: string; emai
       <header className="mx-auto flex max-w-[72rem] items-center justify-between px-4 py-4 sm:px-6">
         <AppMark compact />
         <div className="flex items-center gap-2">
+          <SearchButton />
           <ThemeSwitcher />
           <AccountMenu displayName={user.displayName} email={user.email} contentLang={user.contentLang} />
         </div>
