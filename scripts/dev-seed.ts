@@ -1,10 +1,9 @@
 /**
  * Local development only: (re)create the demo account and push content.
- *   npm run dev:seed                     demo account + content-mock/ (falls back to content/)
+ *   npm run dev:seed                     demo account + content/
  *   npm run dev:seed -- <folder>         demo account + that folder
  * Demo account: demo@quizmaster.test / Demo1234
  */
-import { existsSync } from 'node:fs'
 import path from 'node:path'
 import { createAdminClient } from '../lib/supabase/admin'
 import { loadContent } from '../lib/content/load'
@@ -32,7 +31,7 @@ async function main(args: string[]) {
     console.log(`${DEMO.email} already exists (password ${DEMO.password})`)
   }
 
-  const folder = path.resolve(args[0] ?? (existsSync('content-mock') ? 'content-mock' : 'content'))
+  const folder = path.resolve(args[0] ?? 'content')
   const summary = await pushContent(await loadContent(folder), db, { dry: false, prune: false })
   console.log(`Pushed ${path.relative(process.cwd(), folder)}:`)
   console.table(summary)

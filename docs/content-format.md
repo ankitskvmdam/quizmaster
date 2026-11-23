@@ -161,5 +161,6 @@ each chapter's gist and key facts with its `covers` tags, and the learner's per-
 
 The `/book-to-content` Claude Code skill (`.claude/skills/book-to-content/SKILL.md`) turns a book PDF in `resources/`
 into chapters and quizzes in this format: English first, then a translation (Hindi by default) under
-`translations/<lang>/…`, mirroring the English files. The app doesn't show translations yet, and the push doesn't
-read them. Run the skill in its own session; a whole book is a long job.
+`content/translations/<lang>/…`, mirroring the English files. The push reads Hindi (`hi`) translations and checks
+them against the English (answers, option letters, difficulty and slugs must match). Run the skill in its own
+session; a whole book is a long job.

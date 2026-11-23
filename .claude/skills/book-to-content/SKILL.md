@@ -242,11 +242,17 @@ Write only inside `content/<course>/<subject>/books/<book-slug>/`.
 **Start this only when every chapter exists in English and the dry run passes.** The English files are the source of
 truth; translate from them, not from the book.
 
-The app doesn't display other languages yet, so translations go in a parallel tree that the push doesn't read:
+Translations go in a parallel tree inside the content folder, with the same file names as the English:
 
 ```
-translations/<lang>/<course>/<subject>/books/<book-slug>/   # same file names as the English
+content/translations/<lang>/<course>/<subject>/books/<book-slug>/
 ```
+
+The push reads it and attaches the text as the Hindi version of each item. `npm run content:push -- --dry` checks
+every translated file against its English original. It rejects a translation with no English file, a question slug
+that isn't in the matching English file, or any changed answer, option letters, difficulty, source, tags, slug,
+number or `covers`. A chapter must still have `## Gist` and `## Key facts` (keep these two headings in English). A
+quiz's Hindi title is made automatically from the chapter's Hindi title.
 
 - **Translate only these fields:**
   - in `book.yaml`: `title` and `description`;

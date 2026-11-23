@@ -29,7 +29,7 @@ cp .env.example .env.local        # then fill it in from the next command
 npm run db:start                  # local Supabase; prints the anon and service-role keys
 npm run db:reset                  # applies migrations
 npm run invite -- you@example.com # only invited emails can sign up
-npm run dev:seed                  # demo@quizmaster.test / Demo1234 + the mock content (local only)
+npm run dev:seed                  # demo@quizmaster.test / Demo1234 + content/ (local only)
 npm run dev                       # http://localhost:3000
 ```
 
@@ -63,11 +63,11 @@ Content lives in files and `npm run content:push` copies it into Supabase. **The
 questions, books, chapter gists and quizzes, plus rules for AI-written content — is in
 [`docs/content-format.md`](docs/content-format.md).** To make content from a book PDF, put the PDF in `resources/` (git-ignored) and run
 `/book-to-content resources/<book>.pdf` in a new Claude Code session: it writes English chapters and quizzes, then a
-translation under `translations/<lang>/`.
+translation under `content/translations/<lang>/`.
 
 ```
-content/        # real content; pushed to production. Today: the General Studies skeleton (no notes yet)
-content-mock/   # [MOCK] notes, questions and a sample book for local screens only. Never push it to the cloud
+content/                  # real content, pushed to production: General Studies (History has the Spectrum book)
+content/translations/hi/  # Hindi versions of the same files (checked against the English on every push)
 ```
 
 **Glossary.** The app says *course → subject → section*; the database keeps older names: a course is a row in
@@ -86,7 +86,7 @@ questions name their node as `topic: <course>/<path>`, e.g. `gs/history/modern/i
 npm run content:push -- --dry                 # check everything and show what would change; writes nothing
 npm run content:push                          # create/update by slug; unchanged rows are left alone
 npm run content:push -- --prune               # also unpublish lessons/tests/books you deleted from the files
-npm run content:push -- content-mock          # push another folder (local mock content)
+npm run content:push -- <folder>              # push another content folder
 ```
 
 The push checks every file first: unknown answers, missing questions, duplicate slugs, bad `covers` paths, chapters
@@ -121,4 +121,4 @@ npm run typecheck && npm run lint && npm run build
    `supabase/templates/recovery.html` into *Reset password*. They link to `/auth/confirm` with a token hash.
 6. Set the four environment variables on your host (e.g. Vercel), with `NEXT_PUBLIC_SITE_URL` as the real URL.
 7. Put the cloud URL and service-role key in a git-ignored `.env.cloud` (never on the host), then run the CLIs with it,
-   e.g. `npx tsx --env-file=.env.cloud scripts/content-push.ts`. Never push `content-mock/` to the cloud.
+   e.g. `npx tsx --env-file=.env.cloud scripts/content-push.ts`.
