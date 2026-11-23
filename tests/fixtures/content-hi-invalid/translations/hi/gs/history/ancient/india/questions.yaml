@@ -1,0 +1,4 @@
+- { slug: fx-tree-1, difficulty: easy, stem: "क?", options: { A: क, B: ख }, answer: B, explanation: "x" }
+- { slug: fx-tree-2, difficulty: hard, stem: "ख?", options: { A: क, B: ख }, answer: A, explanation: "x" }
+- { slug: fx-tree-404, difficulty: easy, stem: "ग?", options: { A: क, B: ख }, answer: A, explanation: "x" }
+- { slug: fx-ch-2, difficulty: easy, stem: "घ?", options: { A: क, B: ख }, answer: A, explanation: "x" }

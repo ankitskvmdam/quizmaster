@@ -1,0 +1,2 @@
+- { slug: fx-ch-1, difficulty: easy, stem: "Who founded the Maurya empire?", options: { A: Chandragupta, B: Ashoka }, answer: A, explanation: "Chandragupta Maurya." }
+- { slug: fx-ch-2, difficulty: easy, stem: "Which war changed Ashoka?", options: { A: Kalinga, B: Panipat }, answer: A, explanation: "The Kalinga war." }

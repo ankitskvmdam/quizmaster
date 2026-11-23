@@ -21,6 +21,7 @@ import {
   topicFile,
   type QuestionShape,
 } from './schema'
+import { applyTranslations, hasGistShape, TRANSLATIONS_DIR, type Source } from './translate'
 
 export type Issue = { file: string; message: string }
 
@@ -32,7 +33,9 @@ export class ContentError extends Error {
   }
 }
 
-export type SubjectItem = { slug: string; name: string; description: string; position: number; published: boolean }
+/** Hindi twins (*_hi) come from translations/hi/ and are absent when that text isn't translated. */
+type Hi<K extends string> = { [P in K]?: string | null }
+export type SubjectItem = { slug: string; name: string; description: string; position: number; published: boolean } & Hi<'name_hi' | 'description_hi'>
 /** sectionSlug is left out (undefined) when the subject has no sections.yaml. */
 export type TopicItem = {
   subjectSlug: string
@@ -43,7 +46,7 @@ export type TopicItem = {
   path: string // "history/ancient/india"
   parentPath: string | null
   sectionSlug?: string
-}
+} & Hi<'name_hi' | 'description_hi'>
 export type BookItem = {
   subjectSlug: string
   topicPath: string // the subject node the book sits on, e.g. "history"
@@ -54,7 +57,7 @@ export type BookItem = {
   description: string
   position: number
   published: boolean
-}
+} & Hi<'title_hi' | 'description_hi'>
 export type ChapterItem = {
   bookRef: string // "<course>/<subject path>/<book>"
   slug: string
@@ -63,7 +66,7 @@ export type ChapterItem = {
   gist_md: string
   position: number
   covers: string[] // full tree paths
-}
+} & Hi<'title_hi' | 'gist_md_hi'>
 export type SectionItem = { subjectSlug: string; slug: string; name: string; kind: 'topics' | 'current_affairs'; position: number }
 export type CategoryItem = { slug: string; name: string; position: number }
 export type CaNoteItem = {
@@ -83,7 +86,7 @@ export type LessonItem = {
   position: number
   published: boolean
   body_md: string
-}
+} & Hi<'title_hi' | 'body_md_hi'>
 export type QuestionItem = {
   slug: string
   topicRef: string | null // "<subject>/<topic>" for topic questions
@@ -97,6 +100,9 @@ export type QuestionItem = {
   difficulty: 'easy' | 'medium' | 'hard'
   source: string | null
   tags: string[]
+  stem_md_hi?: string | null
+  options_hi?: { key: string; text_md: string }[] | null
+  explanation_md_hi?: string | null
 }
 export type TestItem = {
   slug: string
@@ -111,7 +117,7 @@ export type TestItem = {
   questionSlugs: string[]
   caMonthRef: string | null // set for a month's fixed paper
   chapterRef: string | null // set for a chapter's quiz
-}
+} & Hi<'title_hi'>
 export type ContentBundle = {
   subjects: SubjectItem[]
   sections: SectionItem[]
@@ -147,6 +153,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
   const testSlugs = new Set<string>()
   const pendingCovers: { file: string; slug: string; covers: string[]; subjectSlug: string }[] = []
   const questionFiles = new Map<string, string>() // slug → file, for duplicate detection
+  const sources = new Map<string, Source>() // English file → its item, for translations
 
   function check<T>(schema: z.ZodType<T>, data: unknown, file: string): T | null {
     const r = schema.safeParse(data)
@@ -302,7 +309,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
 
   // Subjects → topics → lessons and question banks
   for (const subjectDir of await dirs(root)) {
-    if (subjectDir === TESTS_DIR) continue
+    if (subjectDir === TESTS_DIR || subjectDir === TRANSLATIONS_DIR) continue
     const sPath = path.join(root, subjectDir)
     // A course is described by course.yaml (subject.yaml is the older name and still works).
     const sFile = (await exists(path.join(sPath, 'course.yaml'))) ? path.join(sPath, 'course.yaml') : path.join(sPath, 'subject.yaml')
@@ -310,6 +317,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     if (!subject) continue
     if (subject.slug !== subjectDir) issues.push({ file: rel(sFile), message: `slug "${subject.slug}" must match its folder "${subjectDir}"` })
     bundle.subjects.push(subject)
+    sources.set(rel(sFile), { kind: 'course', item: subject })
 
     // Optional sections.yaml: which folders are current-affairs sections, and where topics belong.
     const secFile = path.join(sPath, 'sections.yaml')
@@ -342,7 +350,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           issues.push({ file: rel(tFile), message: 'this subject has several topic sections; set `section:` in topic.yaml' })
         }
       }
-      bundle.topics.push({ subjectSlug: subject!.slug, ...topic, path: nodePath, parentPath, ...(sectionSlug ? { sectionSlug } : {}) })
+      const topicItem: TopicItem = { subjectSlug: subject!.slug, ...topic, path: nodePath, parentPath, ...(sectionSlug ? { sectionSlug } : {}) }
+      bundle.topics.push(topicItem)
+      sources.set(rel(tFile), { kind: 'topic', item: topicItem })
 
       const childDirs = await dirs(tPath)
       const lessonSlugs = new Set<string>()
@@ -361,10 +371,13 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             continue
           }
           lessonSlugs.add(fm.slug)
-          bundle.lessons.push({ subjectSlug: subject!.slug, topicPath: nodePath, ...fm, body_md: parsed.content.replace(/^\s*\n/, '') })
+          const lessonItem: LessonItem = { subjectSlug: subject!.slug, topicPath: nodePath, ...fm, body_md: parsed.content.replace(/^\s*\n/, '') }
+          bundle.lessons.push(lessonItem)
+          sources.set(rel(f), { kind: 'lesson', item: lessonItem })
         } else if (name === 'questions.yaml') {
           const qs = check(questionsFile, await readYaml(f), rel(f))
           for (const q of qs ?? []) addQuestion(q, topicRefs_(`${subject!.slug}/${nodePath}`), rel(f))
+          sources.set(rel(f), { kind: 'questions' })
         }
       }
 
@@ -386,7 +399,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
         const bFile = path.join(bDir, 'book.yaml')
         const book = check(bookFile, await readYaml(bFile), rel(bFile))
         if (!book) continue
-        bundle.books.push({
+        const bookItem: BookItem = {
           subjectSlug: subject!.slug,
           topicPath: subjectPath,
           slug: bookSlug,
@@ -396,7 +409,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           description: book.description,
           position: book.position,
           published: book.published,
-        })
+        }
+        bundle.books.push(bookItem)
+        sources.set(rel(bFile), { kind: 'book', item: bookItem })
         const bookRef = `${subject!.slug}/${subjectPath}/${bookSlug}`
         const numbers = new Map<number, string>()
         const names = await files(bDir)
@@ -406,7 +421,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           const fm = check(chapterFrontmatter, parsed.data, rel(f))
           if (!fm) continue
           const body = parsed.content.replace(/^\s*\n/, '')
-          if (!/^## Gist\s*$/m.test(body) || !/^## Key facts\s*$/m.test(body) || !/^## Key facts[\s\S]*^\s*- \S/m.test(body)) {
+          if (!hasGistShape(body)) {
             issues.push({ file: rel(f), message: `${fm.slug}: a chapter needs a "## Gist" section and a "## Key facts" section with at least one bullet` })
             continue
           }
@@ -418,7 +433,10 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           numbers.set(fm.number, fm.slug)
           const covers = fm.covers.map((c) => `${subjectPath}/${c}`.replace(/\/$/, ''))
           pendingCovers.push({ file: rel(f), slug: fm.slug, covers, subjectSlug: subject!.slug })
-          bundle.chapters.push({ bookRef, slug: fm.slug, number: fm.number, title: fm.title, gist_md: body, position: fm.number, covers })
+          const chapterItem: ChapterItem = { bookRef, slug: fm.slug, number: fm.number, title: fm.title, gist_md: body, position: fm.number, covers }
+          bundle.chapters.push(chapterItem)
+          const chapterSource: Source = { kind: 'chapter', item: chapterItem, quiz: null }
+          sources.set(rel(f), chapterSource)
 
           const quizName = name.replace(/\.md$/, '.quiz.yaml')
           if (names.includes(quizName)) {
@@ -426,10 +444,11 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             const chapterRef = `${bookRef}/${fm.slug}`
             const qs = check(questionsFile, await readYaml(qf), rel(qf)) ?? []
             for (const q of qs) addQuestion(q, { topicRef: null, caMonthRef: null, categorySlug: null, chapterRef }, rel(qf))
+            sources.set(rel(qf), { kind: 'questions' })
             if (qs.length) {
               const slug = `book-${subjectPath.replace(/\//g, '-')}-${bookSlug}-${fm.slug}`
               testSlugs.add(slug)
-              bundle.tests.push({
+              const quiz: TestItem = {
                 slug,
                 title: `${fm.title} quiz`,
                 kind: 'chapter',
@@ -442,7 +461,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
                 questionSlugs: qs.map((q) => q.slug),
                 caMonthRef: null,
                 chapterRef,
-              })
+              }
+              bundle.tests.push(quiz)
+              chapterSource.quiz = quiz
             }
           }
         }
@@ -502,7 +523,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     if (new Set(questionSlugs).size !== questionSlugs.length) {
       issues.push({ file: rel(f), message: `${t.slug}: lists the same question more than once` })
     }
-    bundle.tests.push({
+    const testItem: TestItem = {
       slug: t.slug,
       title: t.title,
       kind: t.kind,
@@ -515,7 +536,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
       questionSlugs,
       caMonthRef: null,
       chapterRef: null,
-    })
+    }
+    bundle.tests.push(testItem)
+    sources.set(rel(f), { kind: 'test', item: testItem })
   }
 
   for (const ref of pendingRefs) {
@@ -523,6 +546,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
       issues.push({ file: ref.file, message: `question "${ref.slug}" does not exist` })
     }
   }
+
+  // Hindi text from translations/hi/, checked against the English it mirrors.
+  await applyTranslations(root, bundle, sources, questionFiles, issues)
 
   if (issues.length) throw new ContentError(issues)
   return bundle
