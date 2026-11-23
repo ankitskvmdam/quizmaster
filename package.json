@@ -16,7 +16,8 @@
     "db:types": "supabase gen types typescript --local > lib/supabase/database.types.ts",
     "invite": "tsx --env-file=.env.local scripts/invite.ts",
     "content:push": "tsx --env-file=.env.local scripts/content-push.ts",
-    "test:integration": "supabase db reset && vitest run --config vitest.integration.mts"
+    "test:integration": "supabase db reset && vitest run --config vitest.integration.mts",
+    "content:wipe": "tsx --env-file=.env.local scripts/content-wipe.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
