@@ -131,19 +131,8 @@ export type ContentBundle = {
   tests: TestItem[]
 }
 
-/**
- * A plain line right under a list item, with no blank line between, is folded into that item by Markdown ("lazy
- * continuation"): "2. Two.\nWhich of the above…" renders as one list item. Returns that line, or null.
- */
-export function foldedIntoList(md: string): string | null {
-  const lines = md.split('\n')
-  const isItem = (l: string) => /^\s*(\d+[.)]|[-*+])\s/.test(l)
-  for (let i = 1; i < lines.length; i++) {
-    const cur = lines[i]
-    if (isItem(lines[i - 1]) && cur.trim() && !isItem(cur) && !/^\s/.test(cur) && !cur.trim().startsWith('|')) return cur.trim()
-  }
-  return null
-}
+import { foldedIntoList } from './markdown-checks'
+export { foldedIntoList }
 
 const TESTS_DIR = 'tests'
 const BOOKS_DIR = 'books'
@@ -307,6 +296,10 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           issues.push({ file: rel(tFile), message: 'the paper lists the same question more than once' })
         }
         const slug = `ca-${sectionSlug}-${month}`
+        if (testSlugs.has(slug)) {
+          issues.push({ file: rel(tFile), message: `${slug}: duplicate test slug (another month paper already uses it)` })
+          continue
+        }
         testSlugs.add(slug)
         bundle.tests.push({
           slug,
@@ -450,6 +443,11 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             continue
           }
           numbers.set(fm.number, fm.slug)
+          const repeated = fm.covers.find((c, i) => fm.covers.indexOf(c) !== i)
+          if (repeated) {
+            issues.push({ file: rel(f), message: `${fm.slug}: covers lists "${repeated}" more than once` })
+            continue
+          }
           const covers = fm.covers.map((c) => `${subjectPath}/${c}`.replace(/\/$/, ''))
           pendingCovers.push({ file: rel(f), slug: fm.slug, covers, subjectSlug: subject!.slug })
           const chapterItem: ChapterItem = { bookRef, slug: fm.slug, number: fm.number, title: fm.title, gist_md: body, position: fm.number, covers }
@@ -466,6 +464,11 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             sources.set(rel(qf), { kind: 'questions' })
             if (qs.length) {
               const slug = `book-${subjectPath.replace(/\//g, '-')}-${bookSlug}-${fm.slug}`
+              // Derived slugs can collide ("a-b"/"c" vs "a"/"b-c"); a collision would re-point an existing quiz.
+              if (testSlugs.has(slug)) {
+                issues.push({ file: rel(qf), message: `${slug}: duplicate test slug (another chapter quiz or test already uses it); rename the book or chapter` })
+                continue
+              }
               testSlugs.add(slug)
               const quiz: TestItem = {
                 slug,

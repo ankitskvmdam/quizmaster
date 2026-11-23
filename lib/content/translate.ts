@@ -3,6 +3,7 @@ import path from 'node:path'
 import matter from 'gray-matter'
 import { parse as parseYaml } from 'yaml'
 import type { z } from 'zod'
+import { foldedIntoList, numbersIn } from './markdown-checks'
 import { bookFile, chapterFrontmatter, lessonFrontmatter, questionsFile, subjectFile, testFile, topicFile, type QuestionShape } from './schema'
 import type { BookItem, ChapterItem, ContentBundle, Issue, LessonItem, SubjectItem, TestItem, TopicItem } from './load'
 
@@ -86,7 +87,13 @@ export async function applyTranslations(
       }
       return true
     }
+    const seenInFile = new Set<string>()
     function question(q: QuestionShape) {
+      if (seenInFile.has(q.slug)) {
+        issues.push({ file, message: `${q.slug}: appears more than once in this file` })
+        return
+      }
+      seenInFile.add(q.slug)
       const en = questions.get(q.slug)
       if (!en || questionFiles.get(q.slug) !== key) {
         issues.push({ file, message: `${q.slug}: is not a question in the English ${key}` })
@@ -101,6 +108,22 @@ export async function applyTranslations(
         ['tags', q.tags, en.tags],
       ])
       if (!ok) return
+      // Dates and figures must survive translation: a swapped or stale number would mark a right answer wrong.
+      const numberChecks: [string, string | undefined, string][] = [
+        ['stem', q.stem, en.stem_md],
+        ...en.options.map((o): [string, string | undefined, string] => [`option ${o.key}`, q.options[o.key], o.text_md]),
+        ['explanation', q.explanation, en.explanation_md],
+      ]
+      const changed = numberChecks.filter(([, hi, enText]) => numbersIn(hi) !== numbersIn(enText))
+      for (const [label, , enText] of changed) {
+        issues.push({ file, message: `${q.slug}: ${label} numbers must match the English (${numbersIn(enText) || 'none'})` })
+      }
+      if (changed.length) return
+      const folded = foldedIntoList(q.stem)
+      if (folded) {
+        issues.push({ file, message: `${q.slug}: stem: put a blank line between the last list item and "${folded}"` })
+        return
+      }
       en.stem_md_hi = q.stem
       en.options_hi = keys.map((k) => ({ key: k, text_md: q.options[k] }))
       en.explanation_md_hi = q.explanation
