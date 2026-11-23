@@ -92,3 +92,19 @@ describe('flattenLessons', () => {
     expect(flattenLessons(buildTree(input)).map((l) => l.slug)).toEqual(['mauryas', 'guptas', 'rome', 'delhi'])
   })
 })
+
+describe('chapters tagged to a node', () => {
+  it('lists the book chapters that cover a node or anything under it, in book and chapter order', () => {
+    const t = buildTree(input)
+    const tagged = (p: string) => t.byPath.get(p)!.taggedChapters.map((c) => `${c.book.slug}/${c.chapter.slug}`)
+    expect(tagged('history/ancient/india')).toEqual(['ancient-india/mauryas', 'ancient-india/guptas'])
+    expect(tagged('history/ancient')).toEqual(['ancient-india/mauryas', 'ancient-india/guptas'])
+    expect(tagged('history/medieval')).toEqual([])
+  })
+
+  it('links each tagged chapter to its book on the subject', () => {
+    const c = buildTree(input).byPath.get('history/ancient/india')!.taggedChapters[0]
+    expect(c.subjectPath).toBe('history')
+    expect(c.chapter.read).toBe(true)
+  })
+})

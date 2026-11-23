@@ -22,12 +22,16 @@ export type RawChapter = { id: string; bookId: string; slug: string; number: num
 export type TreeInput = { topics: RawTopic[]; lessons: RawLesson[]; questions: RawQuestion[]; books: RawBook[]; chapters: RawChapter[] }
 
 export type BookNode = RawBook & { chapters: RawChapter[]; chaptersRead: number }
+/** A book chapter tagged (covers) to a node or something under it; the book lives on the subject at subjectPath. */
+export type TaggedChapter = { chapter: RawChapter; book: BookNode; subjectPath: string }
 
 export type TreeNode = RawTopic & {
   depth: number
   children: TreeNode[]
   lessons: RawLesson[]
   books: BookNode[]
+  /** Book chapters that cover this node or anything under it, in book then chapter order. */
+  taggedChapters: TaggedChapter[]
   /** Rolled up over the node and everything under it. */
   lessonCount: number
   doneCount: number
@@ -49,7 +53,7 @@ export function buildTree(input: TreeInput): Tree {
   const byId = new Map<string, TreeNode>()
   const byPath = new Map<string, TreeNode>()
   for (const t of input.topics) {
-    const node: TreeNode = { ...t, depth: t.path.split('/').length, children: [], lessons: [], books: [], lessonCount: 0, doneCount: 0, questionCount: 0 }
+    const node: TreeNode = { ...t, depth: t.path.split('/').length, children: [], lessons: [], books: [], taggedChapters: [], lessonCount: 0, doneCount: 0, questionCount: 0 }
     byId.set(t.id, node)
     byPath.set(t.path, node)
   }
@@ -90,6 +94,15 @@ export function buildTree(input: TreeInput): Tree {
     ).length
   }
   roots.forEach(rollUp)
+
+  // Chapters tagged into each subtree (books sit on subjects, so a section finds its material this way).
+  const allChapters = roots.flatMap((root) => root.books.flatMap((book) => book.chapters.map((chapter) => ({ chapter, book, subjectPath: root.path }))))
+  const tag = (n: TreeNode) => {
+    n.children.forEach(tag)
+    const ids = subtreeIds(n)
+    n.taggedChapters = allChapters.filter((c) => c.chapter.coverIds.some((id) => ids.has(id)))
+  }
+  roots.forEach(tag)
 
   const ancestors = (path: string) => {
     const out: TreeNode[] = []
