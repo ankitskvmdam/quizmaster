@@ -8,6 +8,7 @@ import { getCourse, listCourses, type Course } from './courses'
 import { flattenLessons, type TreeNode } from '@/lib/courses/tree'
 import { listMyAttempts, type AttemptRow } from './tests'
 import { pick } from '@/lib/lang'
+import { selectAll } from '@/lib/content/select-all'
 import { getContentLang } from './user'
 
 function fail(what: string, error: { message: string }): never {
@@ -122,11 +123,21 @@ export type TopicProgress = {
 
 export async function getTopicProgress(): Promise<TopicProgress[]> {
   const supabase = await createClient()
-  const [courses, { data: answers, error: aErr }] = await Promise.all([
+  // Every checked answer, paged: a plain select stops at 1,000 rows and would skew accuracy for active learners.
+  const [courses, answers] = await Promise.all([
     allCourses(),
-    supabase.from('attempt_answers').select('is_correct, questions(topic_id, chapter_id)').not('is_correct', 'is', null),
+    selectAll(
+      (f, t) =>
+        supabase
+          .from('attempt_answers')
+          .select('is_correct, questions(topic_id, chapter_id)')
+          .not('is_correct', 'is', null)
+          .order('attempt_id')
+          .order('question_id')
+          .range(f, t),
+      'Could not load answers',
+    ),
   ])
-  if (aErr) fail('answers', aErr)
 
   // Which subject each topic and chapter belongs to.
   const subjectOf = new Map<string, string>()
