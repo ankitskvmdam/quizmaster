@@ -74,7 +74,7 @@ async function readExisting(db: Db) {
     questions: questions.map((q): QuestionItem & { id: string } => ({
       id: q.id,
       slug: q.slug,
-      topicRef: topicRef.get(q.topic_id)!,
+      topicRef: q.topic_id ? topicRef.get(q.topic_id)! : '', // current-affairs questions handled in the CA push (Task 5)
       stem_md: q.stem_md,
       options: q.options as QuestionItem['options'],
       correctKey: q.correct_key,
