@@ -1,6 +1,8 @@
 import 'server-only'
 import { createClient } from '@/lib/supabase/server'
-import { isNewItem, nextLesson } from '@/lib/home'
+import { isNewItem, nextCaCategory, nextLesson } from '@/lib/home'
+import { formatMonth } from '@/lib/periods'
+import { getCaOverview } from './current-affairs'
 import { getDoneLessonIds } from './content'
 import { listMyAttempts, type AttemptRow } from './tests'
 
@@ -49,6 +51,7 @@ async function orderedLessons(): Promise<OrderedLesson[]> {
 export type Continue =
   | { type: 'attempt'; attemptId: string; testTitle: string; mode: 'timed' | 'practice'; deadlineAt: string | null }
   | { type: 'lesson'; href: string; title: string; topicName: string; first: boolean }
+  | { type: 'ca'; href: string; categoryName: string; monthLabel: string }
   | null
 
 export async function getContinue(): Promise<Continue> {
@@ -64,6 +67,18 @@ export async function getContinue(): Promise<Continue> {
   if (open[0]) {
     const a = open[0]
     return { type: 'attempt', attemptId: a.id, testTitle: a.tests?.title ?? 'Test', mode: a.mode, deadlineAt: a.deadline_at }
+  }
+
+  // Fresh current affairs first, once the person has started reading them.
+  const ca = await getCaOverview()
+  const nextCa = ca ? nextCaCategory(ca.months, ca.readKeys) : null
+  if (ca && nextCa) {
+    return {
+      type: 'ca',
+      href: `/subjects/${ca.subjectSlug}/current-affairs/${nextCa.month}/${nextCa.category.slug}`,
+      categoryName: nextCa.category.name,
+      monthLabel: formatMonth(nextCa.month),
+    }
   }
 
   const { data: last, error: lErr } = await supabase
@@ -131,7 +146,7 @@ export async function getRecentAttempts(limit = 5): Promise<AttemptRow[]> {
 }
 
 export type FeedItem = {
-  type: 'lesson' | 'test'
+  type: 'lesson' | 'test' | 'month'
   title: string
   href: string
   where: string
@@ -183,6 +198,18 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
       isNew: isNewItem(t.published_at, attempted.has(t.id), now),
     })),
   ]
+  const ca = await getCaOverview()
+  for (const m of ca?.months ?? []) {
+    if (!m.publishedAt) continue
+    items.push({
+      type: 'month',
+      title: `${formatMonth(m.month)} current affairs`,
+      href: `/subjects/${ca!.subjectSlug}/current-affairs/${m.month}`,
+      where: `${ca!.subjectName} · ${ca!.sectionName}`,
+      publishedAt: m.publishedAt,
+      isNew: isNewItem(m.publishedAt, m.read > 0, now),
+    })
+  }
   return items.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt)).slice(0, limit)
 }
 
@@ -201,4 +228,20 @@ export async function getBuilderTopics(): Promise<BuilderTopic[]> {
       .map((t) => ({ id: t.id, name: t.name, subjectName: s.name, questionCount: t.questions.length }))
       .filter((t) => t.questionCount > 0),
   )
+}
+
+
+export type CaProgressRow = { month: string; label: string; href: string; read: number; total: number }
+
+/** Up to three latest months of current affairs: categories read out of categories with notes. */
+export async function getCaProgress(limit = 3): Promise<CaProgressRow[]> {
+  const ca = await getCaOverview()
+  if (!ca) return []
+  return ca.months.slice(0, limit).map((m) => ({
+    month: m.month,
+    label: formatMonth(m.month),
+    href: `/subjects/${ca.subjectSlug}/current-affairs/${m.month}`,
+    read: m.read,
+    total: m.categories.length,
+  }))
 }

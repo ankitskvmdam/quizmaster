@@ -1,0 +1,4 @@
+- { slug: x1, category: appointments, note: "**X1**" }
+- { slug: x1, category: appointments, note: "**X1 again**" }
+- { slug: x2, category: weather, note: "**Rain**" }
+- { slug: x3, category: appointments, date: 2099-02-03, note: "**Late**" }

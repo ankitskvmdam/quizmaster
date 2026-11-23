@@ -16,6 +16,7 @@ export type TestRow = {
   marksWrong: number
   maxScore: number
   bestScore: number | null
+  isCurrentAffairs: boolean
 }
 
 /** Official tests of one kind, with the caller's best submitted score on each. */
@@ -23,7 +24,7 @@ export async function listTests(kind: 'mock' | 'pyq'): Promise<TestRow[]> {
   const supabase = await createClient()
   let query = supabase
     .from('tests')
-    .select('id, slug, title, year, duration_sec, marks_correct, marks_wrong, published_at, test_questions(count)')
+    .select('id, slug, title, year, duration_sec, marks_correct, marks_wrong, published_at, ca_month_id, test_questions(count)')
     .eq('kind', kind)
     .is('created_by', null)
   query = kind === 'pyq'
@@ -61,6 +62,7 @@ export async function listTests(kind: 'mock' | 'pyq'): Promise<TestRow[]> {
       marksWrong: Number(t.marks_wrong),
       maxScore: questionCount * Number(t.marks_correct),
       bestScore: best.get(t.id) ?? null,
+      isCurrentAffairs: t.ca_month_id !== null,
     }
   })
 }

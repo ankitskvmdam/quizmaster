@@ -4,6 +4,7 @@ import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { parseBuilder } from '@/lib/builder'
+import { isMonthKey, monthToDate } from '@/lib/periods'
 
 export type ActionResult = { error: string } | undefined
 
@@ -72,4 +73,47 @@ export async function startQuickPractice(): Promise<ActionResult> {
     topicIds = all.map((t) => t.id)
   }
   return startCustom(topicIds, 10, null, 'practice')
+}
+
+// ---------------------------------------------------------------------------
+// Current affairs
+// ---------------------------------------------------------------------------
+type CaRange = { from: string; to: string; categories?: string[] }
+
+async function startCaSet(range: CaRange, count: number, mode: 'timed' | 'practice'): Promise<ActionResult> {
+  if (!isMonthKey(range.from) || !isMonthKey(range.to)) return { error: 'Choose a valid period' }
+  const supabase = await createClient()
+  const created = await supabase.rpc('create_period_test', {
+    p_from: monthToDate(range.from),
+    p_to: monthToDate(range.to),
+    ...(range.categories?.length ? { p_categories: range.categories } : {}),
+    p_count: count,
+    ...(mode === 'timed' ? { p_seconds_per_question: 60 } : {}),
+  })
+  if (created.error) return { error: message(created.error) }
+  const started = await supabase.rpc('start_attempt', { p_test_id: created.data, p_mode: mode })
+  if (started.error) return { error: message(started.error) }
+  redirect(`/attempt/${started.data}`)
+}
+
+/** Untimed practice over a month or period, optionally limited to categories. */
+export async function startCaPractice(range: CaRange & { count: number }): Promise<ActionResult> {
+  return startCaSet(range, range.count, 'practice')
+}
+
+/** A timed revision test over a period: 25 or 50 questions, 1 minute each, +1 / −0.33. */
+export async function startCaRevision(range: CaRange & { count: 25 | 50 }): Promise<ActionResult> {
+  if (range.count !== 25 && range.count !== 50) return { error: 'Choose 25 or 50 questions' }
+  return startCaSet(range, range.count, 'timed')
+}
+
+export async function markCategoryRead(monthId: string, categorySlug: string, read: boolean): Promise<ActionResult> {
+  const supabase = await createClient()
+  const { error } = read
+    ? await supabase
+        .from('ca_progress')
+        .upsert({ month_id: monthId, category_slug: categorySlug }, { onConflict: 'user_id,month_id,category_slug', ignoreDuplicates: true })
+    : await supabase.from('ca_progress').delete().eq('month_id', monthId).eq('category_slug', categorySlug)
+  if (error) return { error: 'Could not save your progress. Try again.' }
+  revalidatePath('/', 'layout')
 }

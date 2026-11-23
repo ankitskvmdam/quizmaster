@@ -1,0 +1,9 @@
+- slug: n1
+  category: appointments
+  date: 2099-01-14
+  note: "**A** appointed …"
+  angle: Succeeds B
+- { slug: n2, category: appointments, date: 2099-01-20, note: "**C** named chair of D." }
+- { slug: n3, category: awards, note: "**E** wins the F prize." }
+- { slug: n4, category: sports, date: 2099-01-30, note: "**G** wins the H cup." }
+- { slug: n5, category: obituaries, note: "**P**, author of Q, dies." }

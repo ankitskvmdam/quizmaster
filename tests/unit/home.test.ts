@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { greeting, isNewItem, nextLesson, type LessonRef } from '@/lib/home'
+import { greeting, isNewItem, nextCaCategory, nextLesson, type LessonRef } from '@/lib/home'
 
 describe('greeting', () => {
   it('follows the local hour', () => {
@@ -49,5 +49,28 @@ describe('isNewItem', () => {
   })
   it('is not new without a publish date', () => {
     expect(isNewItem(null, false, now)).toBe(false)
+  })
+})
+
+describe('nextCaCategory', () => {
+  const months = [
+    { monthId: 'feb', month: '2099-02', categories: [{ slug: 'appointments', name: 'Appointments' }, { slug: 'sports', name: 'Sports' }] },
+    { monthId: 'jan', month: '2099-01', categories: [{ slug: 'awards', name: 'Awards' }] },
+  ]
+  it('picks the first unread category of the newest month', () => {
+    expect(nextCaCategory(months, new Set(['jan/awards', 'feb/appointments']))).toEqual({
+      monthId: 'feb',
+      month: '2099-02',
+      category: { slug: 'sports', name: 'Sports' },
+    })
+  })
+  it('stays quiet until the person has read something', () => {
+    expect(nextCaCategory(months, new Set())).toBeNull()
+  })
+  it('stays quiet when the newest month is fully read', () => {
+    expect(nextCaCategory(months, new Set(['feb/appointments', 'feb/sports']))).toBeNull()
+  })
+  it('stays quiet with no months', () => {
+    expect(nextCaCategory([], new Set(['x/y']))).toBeNull()
   })
 })

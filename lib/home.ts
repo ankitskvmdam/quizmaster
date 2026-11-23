@@ -27,3 +27,16 @@ export function isNewItem(publishedAt: string | null, seen: boolean, now: number
   if (!publishedAt || seen) return false
   return now - Date.parse(publishedAt) <= FOURTEEN_DAYS
 }
+
+export type CaMonthCategories = { monthId: string; month: string; categories: { slug: string; name: string }[] }
+
+/**
+ * The next current-affairs category to read: the first unread category of the newest month, but only once the
+ * person has started reading current affairs (readKeys are "monthId/categorySlug"). Months come newest first.
+ */
+export function nextCaCategory(months: CaMonthCategories[], readKeys: Set<string>) {
+  if (readKeys.size === 0 || months.length === 0) return null
+  const newest = months[0]
+  const category = newest.categories.find((c) => !readKeys.has(`${newest.monthId}/${c.slug}`))
+  return category ? { monthId: newest.monthId, month: newest.month, category } : null
+}

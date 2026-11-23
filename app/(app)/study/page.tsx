@@ -1,10 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { Suspense, type ReactNode } from 'react'
-import { ArrowRight, BookOpen, Dumbbell, History, PartyPopper, Timer } from 'lucide-react'
+import { ArrowRight, BookOpen, CalendarDays, Dumbbell, History, PartyPopper, Timer } from 'lucide-react'
 import { getUser } from '@/lib/queries/user'
 import { firstName } from '@/lib/names'
-import { getContinue, getRecentAttempts, getTopicProgress } from '@/lib/queries/home'
+import { getCaProgress, getContinue, getRecentAttempts, getTopicProgress } from '@/lib/queries/home'
 import { startQuickPractice } from '@/app/(app)/actions'
 import { formatPercent } from '@/lib/format'
 import { Greeting } from '@/components/study/greeting'
@@ -49,21 +49,46 @@ async function ContinuePanel() {
       </Panel>
     )
   }
-  const isAttempt = c.type === 'attempt'
+  const view =
+    c.type === 'attempt'
+      ? {
+          icon: <Timer />,
+          eyebrow: c.mode === 'timed' ? 'Timed test in progress' : 'Practice in progress',
+          title: c.testTitle,
+          sub: null,
+          href: `/attempt/${c.attemptId}`,
+          cta: 'Resume test',
+        }
+      : c.type === 'ca'
+        ? {
+            icon: <CalendarDays />,
+            eyebrow: `Current affairs · ${c.monthLabel}`,
+            title: c.categoryName,
+            sub: 'Next category to read',
+            href: c.href,
+            cta: 'Read notes',
+          }
+        : {
+            icon: <BookOpen />,
+            eyebrow: c.first ? 'Start here' : 'Continue',
+            title: c.first ? `Start with ${c.topicName}` : c.title,
+            sub: c.first ? `First lesson: ${c.title}` : c.topicName,
+            href: c.href,
+            cta: 'Continue lesson',
+          }
   return (
     <Panel className="flex flex-col gap-5 border-transparent bg-tint sm:flex-row sm:items-center">
       <IconTile size="lg" className="bg-panel">
-        {isAttempt ? <Timer /> : <BookOpen />}
+        {view.icon}
       </IconTile>
       <div className="flex-1">
-        <Eyebrow>{isAttempt ? (c.mode === 'timed' ? 'Timed test in progress' : 'Practice in progress') : c.first ? 'Start here' : 'Continue'}</Eyebrow>
-        <p className="mt-1 text-xl font-semibold">{isAttempt ? c.testTitle : c.first ? `Start with ${c.topicName}` : c.title}</p>
-        {!isAttempt && !c.first && <p className="text-sm text-muted-foreground">{c.topicName}</p>}
-        {!isAttempt && c.first && <p className="text-sm text-muted-foreground">First lesson: {c.title}</p>}
+        <Eyebrow>{view.eyebrow}</Eyebrow>
+        <p className="mt-1 text-xl font-semibold">{view.title}</p>
+        {view.sub && <p className="text-sm text-muted-foreground">{view.sub}</p>}
       </div>
       <Button size="lg" asChild>
-        <Link href={isAttempt ? `/attempt/${c.attemptId}` : c.href}>
-          {isAttempt ? 'Resume test' : 'Continue lesson'}
+        <Link href={view.href}>
+          {view.cta}
           <ArrowRight />
         </Link>
       </Button>
@@ -72,10 +97,30 @@ async function ContinuePanel() {
 }
 
 async function ProgressPanel() {
-  const r = await safely(getTopicProgress)
+  const [r, ca] = await Promise.all([safely(getTopicProgress), safely(() => getCaProgress(3))])
   return (
     <Panel className="flex h-full flex-col gap-4">
       <h2 className="text-lg font-semibold">Your progress</h2>
+      {ca.ok && ca.data.length > 0 && (
+        <ul className="flex flex-col gap-4 border-b border-hairline pb-4">
+          {ca.data.map((m) => (
+            <li key={m.month} className="flex flex-col gap-2">
+              <div className="flex items-baseline justify-between gap-3">
+                <Link href={m.href} className="focus-ring rounded font-medium hover:underline">
+                  {m.label}
+                </Link>
+                <span className="text-[13px] text-muted-foreground">
+                  <Mono>
+                    {m.read}/{m.total}
+                  </Mono>{' '}
+                  categories read
+                </span>
+              </div>
+              <ProgressBar value={m.read} max={m.total} label={`${m.label}: categories read`} />
+            </li>
+          ))}
+        </ul>
+      )}
       {!r.ok ? (
         <SectionRetry />
       ) : r.data.length === 0 ? (

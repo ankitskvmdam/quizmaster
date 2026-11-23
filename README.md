@@ -109,6 +109,54 @@ questions:
 for a percent sign in maths). A blockquote that starts with bold text becomes a callout: `> **Example**`,
 `> **Shortcut**`, and `> **Trap**` (shown in amber).
 
+### Monthly current affairs
+
+General Studies has two sections, declared in `content/gs/sections.yaml`: **Current Affairs**, organised by month, and
+**Maths & Reasoning**, the topics above. Current affairs live under `content/gs/current-affairs/`:
+
+```
+content/gs/current-affairs/
+  categories.yaml          # display order: slug + name (National, Appointments, Awards & Honours, …)
+  2026-01/                 # one folder per month, named YYYY-MM
+    notes.yaml             # short notes, one fact each
+    questions.yaml         # MCQs, each with a category
+    test.yaml              # optional: the month's fixed test paper
+```
+
+**A note:** one fact. Put the answer-worthy part in bold. The optional `angle` is a one-line exam hint.
+
+```yaml
+- slug: cea-appointed            # unique within the month
+  category: appointments         # a slug from categories.yaml
+  date: 2026-01-14               # optional; must fall inside the month
+  note: "**Asha Verma** appointed Chief Economic Adviser."
+  angle: "Succeeds R. Kumar · 3-year term"
+```
+
+**A question:** the same shape as a topic question, plus `category`. Slugs must be unique across all content; use the
+form `ca-2026-01-001`. Every answer should come from a note in the same month.
+
+**The month paper (`test.yaml`):**
+
+```yaml
+title: January 2026 test
+duration_min: 25
+questions: [ca-2026-01-001, ca-2026-01-004, …]   # only questions from this month
+```
+
+The paper is the same for everyone, appears on the month page and in the Tests list, and is marked +1 / −0.33.
+
+**How it behaves:**
+
+- **A pushed month goes live straight away.**
+- **Revision periods are built from the months.** Learners get calendar quarters, halves and years, plus "last 3/6/12
+  months", with practice and timed revision tests (1 min per question, +1 / −0.33). You never write a compilation.
+- **`--prune` hides removed content but keeps history.** It unpublishes a month folder you removed, and deletes notes
+  you removed from a month that's still there. It also *retires* questions you removed: they're never drawn into new
+  tests, but past reviews still show them.
+- **An attempted month paper keeps its question list.** Once someone has taken it, `content:push` refuses to change
+  the list unless you pass `--force`.
+
 **Pushing:**
 
 ```bash

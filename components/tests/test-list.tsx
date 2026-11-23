@@ -3,6 +3,7 @@ import type { TestRow } from '@/lib/queries/tests'
 import { formatMarks, formatMinutes, formatScore } from '@/lib/format'
 import { DataTable } from '@/components/data-table'
 import { Mono } from '@/components/surfaces'
+import { Badge } from '@/components/badge'
 import { StartActions } from './start-actions'
 
 function Marking({ t }: { t: TestRow }) {
@@ -56,7 +57,12 @@ export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode 
           <tbody>
             {tests.map((t) => (
               <tr key={t.id}>
-                <td className="font-medium">{t.title}</td>
+                <td className="font-medium">
+                  <span className="flex flex-wrap items-center gap-2">
+                    {t.title}
+                    {t.isCurrentAffairs && <Badge tone="primary">Current affairs</Badge>}
+                  </span>
+                </td>
                 <td className="num">{t.questionCount}</td>
                 <td className="num">{t.durationSec ? formatMinutes(t.durationSec) : '—'}</td>
                 <td className="num">
@@ -74,7 +80,10 @@ export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode 
       <ul className="-my-3 flex flex-col md:hidden">
         {tests.map((t, i) => (
           <li key={t.id} className={i > 0 ? 'border-t border-hairline py-4' : 'py-4'}>
-            <p className="font-medium">{t.title}</p>
+            <p className="flex flex-wrap items-center gap-2 font-medium">
+              {t.title}
+              {t.isCurrentAffairs && <Badge tone="primary">Current affairs</Badge>}
+            </p>
             <p className="mt-1 text-[13px] text-muted-foreground">
               <Mono>{t.questionCount}</Mono> questions · {t.durationSec ? <Mono>{formatMinutes(t.durationSec)}</Mono> : 'untimed'} ·{' '}
               <Marking t={t} /> · best <Best t={t} />

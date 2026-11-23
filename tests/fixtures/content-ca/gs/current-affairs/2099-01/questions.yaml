@@ -1,0 +1,6 @@
+- { slug: fx-ca-2099-01-001, category: appointments, difficulty: easy, stem: "Who was appointed X?", options: { A: "A", B: "Other" }, answer: A, explanation: "A was appointed." }
+- { slug: fx-ca-2099-01-002, category: appointments, difficulty: easy, stem: "Who succeeded B?", options: { A: "A", B: "Other" }, answer: A, explanation: "A succeeds B." }
+- { slug: fx-ca-2099-01-003, category: appointments, difficulty: easy, stem: "Who chairs D?", options: { A: "C", B: "Other" }, answer: A, explanation: "C chairs D." }
+- { slug: fx-ca-2099-01-004, category: awards, difficulty: easy, stem: "Who won the F prize?", options: { A: "E", B: "Other" }, answer: A, explanation: "E won it." }
+- { slug: fx-ca-2099-01-005, category: awards, difficulty: easy, stem: "Which prize did E win?", options: { A: "F prize", B: "Other" }, answer: A, explanation: "The F prize." }
+- { slug: fx-ca-2099-01-006, category: sports, difficulty: easy, stem: "Who won the H cup?", options: { A: "G", B: "Other" }, answer: A, explanation: "G won it." }

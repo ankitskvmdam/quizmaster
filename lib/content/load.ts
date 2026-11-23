@@ -3,8 +3,15 @@ import path from 'node:path'
 import matter from 'gray-matter'
 import { parse as parseYaml } from 'yaml'
 import type { z } from 'zod'
+import { isMonthKey, formatMonth } from '@/lib/periods'
 import {
   OPTION_KEYS,
+  RESERVED_TOPIC_SLUGS,
+  caNotesFile,
+  caQuestionsFile,
+  caTestFile,
+  categoriesFile,
+  sectionsFile,
   lessonFrontmatter,
   questionsFile,
   subjectFile,
@@ -24,7 +31,26 @@ export class ContentError extends Error {
 }
 
 export type SubjectItem = { slug: string; name: string; description: string; position: number; published: boolean }
-export type TopicItem = { subjectSlug: string; slug: string; name: string; description: string; position: number }
+/** sectionSlug is left out (undefined) when the subject has no sections.yaml. */
+export type TopicItem = {
+  subjectSlug: string
+  slug: string
+  name: string
+  description: string
+  position: number
+  sectionSlug?: string
+}
+export type SectionItem = { subjectSlug: string; slug: string; name: string; kind: 'topics' | 'current_affairs'; position: number }
+export type CategoryItem = { slug: string; name: string; position: number }
+export type CaNoteItem = {
+  slug: string
+  categorySlug: string
+  happenedOn: string | null
+  body_md: string
+  angle_md: string | null
+  position: number
+}
+export type MonthItem = { subjectSlug: string; sectionSlug: string; month: string; notes: CaNoteItem[] }
 export type LessonItem = {
   subjectSlug: string
   topicSlug: string
@@ -36,7 +62,9 @@ export type LessonItem = {
 }
 export type QuestionItem = {
   slug: string
-  topicRef: string // "<subject>/<topic>"
+  topicRef: string | null // "<subject>/<topic>" for topic questions
+  caMonthRef: string | null // "<subject>/<section>/<YYYY-MM>" for current-affairs questions
+  categorySlug: string | null
   stem_md: string
   options: { key: string; text_md: string }[]
   correctKey: string
@@ -56,9 +84,13 @@ export type TestItem = {
   marksWrong: number
   published: boolean
   questionSlugs: string[]
+  caMonthRef: string | null // set for a month's fixed paper
 }
 export type ContentBundle = {
   subjects: SubjectItem[]
+  sections: SectionItem[]
+  categories: CategoryItem[]
+  months: MonthItem[]
   topics: TopicItem[]
   lessons: LessonItem[]
   questions: QuestionItem[]
@@ -71,7 +103,8 @@ const TESTS_DIR = 'tests'
 export async function loadContent(root: string): Promise<ContentBundle> {
   const issues: Issue[] = []
   const rel = (p: string) => path.relative(root, p).split(path.sep).join('/')
-  const bundle: ContentBundle = { subjects: [], topics: [], lessons: [], questions: [], tests: [] }
+  const bundle: ContentBundle = { subjects: [], sections: [], categories: [], months: [], topics: [], lessons: [], questions: [], tests: [] }
+  const testSlugs = new Set<string>()
   const questionFiles = new Map<string, string>() // slug → file, for duplicate detection
 
   function check<T>(schema: z.ZodType<T>, data: unknown, file: string): T | null {
@@ -92,7 +125,10 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     }
   }
 
-  function addQuestion(q: QuestionShape, topicRef: string, file: string) {
+  type QuestionRefs = { topicRef: string | null; caMonthRef: string | null; categorySlug: string | null }
+  const topicRefs_ = (topicRef: string): QuestionRefs => ({ topicRef, caMonthRef: null, categorySlug: null })
+
+  function addQuestion(q: QuestionShape, refs: QuestionRefs, file: string) {
     const keys = Object.keys(q.options)
     const expected = OPTION_KEYS.slice(0, keys.length)
     let ok = true
@@ -113,7 +149,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     if (!ok) return
     bundle.questions.push({
       slug: q.slug,
-      topicRef,
+      ...refs,
       stem_md: q.stem,
       options: keys.map((key) => ({ key, text_md: q.options[key] })),
       correctKey: q.answer,
@@ -129,6 +165,99 @@ export async function loadContent(root: string): Promise<ContentBundle> {
   const files = (p: string) =>
     readdir(p, { withFileTypes: true }).then((es) => es.filter((e) => e.isFile()).map((e) => e.name).sort())
 
+  const exists = (p: string) =>
+    readFile(p).then(
+      () => true,
+      () => false,
+    )
+
+  /** A current-affairs section folder: categories.yaml plus one folder per month (YYYY-MM). */
+  async function loadCurrentAffairs(subjectSlug: string, sectionSlug: string, dir: string) {
+    const catFile = path.join(dir, 'categories.yaml')
+    const cats = check(categoriesFile, await readYaml(catFile), rel(catFile)) ?? []
+    const catSlugs = new Set(cats.map((c) => c.slug))
+    cats.forEach((c, i) => {
+      if (!bundle.categories.some((x) => x.slug === c.slug)) bundle.categories.push({ ...c, position: i + 1 })
+    })
+
+    for (const month of await dirs(dir)) {
+      const mPath = path.join(dir, month)
+      if (!isMonthKey(month)) {
+        issues.push({ file: rel(mPath), message: `"${month}" is not a month folder; name it like 2026-01` })
+        continue
+      }
+      const monthRef = `${subjectSlug}/${sectionSlug}/${month}`
+
+      // Notes
+      const nFile = path.join(mPath, 'notes.yaml')
+      const notes: CaNoteItem[] = []
+      if (!(await exists(nFile))) {
+        issues.push({ file: rel(mPath), message: 'a month needs a notes.yaml' })
+      } else {
+        const seen = new Set<string>()
+        ;(check(caNotesFile, await readYaml(nFile), rel(nFile)) ?? []).forEach((n, i) => {
+          if (seen.has(n.slug)) return issues.push({ file: rel(nFile), message: `${n.slug}: duplicate note slug in ${month}` })
+          seen.add(n.slug)
+          if (!catSlugs.has(n.category)) return issues.push({ file: rel(nFile), message: `${n.slug}: unknown category "${n.category}"` })
+          if (n.date && n.date.slice(0, 7) !== month) {
+            return issues.push({ file: rel(nFile), message: `${n.slug}: date ${n.date} is outside ${formatMonth(month)}` })
+          }
+          notes.push({
+            slug: n.slug,
+            categorySlug: n.category,
+            happenedOn: n.date ?? null,
+            body_md: n.note,
+            angle_md: n.angle ?? null,
+            position: i + 1,
+          })
+        })
+      }
+      bundle.months.push({ subjectSlug, sectionSlug, month, notes })
+
+      // Questions
+      const qFile = path.join(mPath, 'questions.yaml')
+      const monthQuestions = new Set<string>()
+      if (await exists(qFile)) {
+        for (const q of check(caQuestionsFile, await readYaml(qFile), rel(qFile)) ?? []) {
+          const { category, ...shape } = q
+          if (!catSlugs.has(category)) {
+            issues.push({ file: rel(qFile), message: `${q.slug}: unknown category "${category}"` })
+            continue
+          }
+          monthQuestions.add(q.slug)
+          addQuestion(shape, { topicRef: null, caMonthRef: monthRef, categorySlug: category }, rel(qFile))
+        }
+      }
+
+      // The month's fixed paper
+      const tFile = path.join(mPath, 'test.yaml')
+      if (await exists(tFile)) {
+        const t = check(caTestFile, await readYaml(tFile), rel(tFile))
+        if (!t) continue
+        const outside = t.questions.filter((s) => !monthQuestions.has(s))
+        for (const s of outside) issues.push({ file: rel(tFile), message: `question "${s}" is not in this month` })
+        if (new Set(t.questions).size !== t.questions.length) {
+          issues.push({ file: rel(tFile), message: 'the paper lists the same question more than once' })
+        }
+        const slug = `ca-${sectionSlug}-${month}`
+        testSlugs.add(slug)
+        bundle.tests.push({
+          slug,
+          title: t.title,
+          kind: 'mock',
+          subjectSlug,
+          year: null,
+          durationSec: Math.round(t.duration_min * 60),
+          marksCorrect: 1,
+          marksWrong: -0.33,
+          published: true,
+          questionSlugs: t.questions,
+          caMonthRef: monthRef,
+        })
+      }
+    }
+  }
+
   // Subjects → topics → lessons and question banks
   for (const subjectDir of await dirs(root)) {
     if (subjectDir === TESTS_DIR) continue
@@ -139,13 +268,38 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     if (subject.slug !== subjectDir) issues.push({ file: rel(sFile), message: `slug "${subject.slug}" must match its folder "${subjectDir}"` })
     bundle.subjects.push(subject)
 
+    // Optional sections.yaml: which folders are current-affairs sections, and where topics belong.
+    const secFile = path.join(sPath, 'sections.yaml')
+    const sections = (await exists(secFile)) ? (check(sectionsFile, await readYaml(secFile), rel(secFile)) ?? []) : []
+    for (const sec of sections) bundle.sections.push({ subjectSlug: subject.slug, ...sec })
+    const caSections = new Set(sections.filter((s) => s.kind === 'current_affairs').map((s) => s.slug))
+    const topicSections = sections.filter((s) => s.kind === 'topics').map((s) => s.slug)
+
     for (const topicDir of await dirs(sPath)) {
+      if (caSections.has(topicDir)) {
+        await loadCurrentAffairs(subject.slug, topicDir, path.join(sPath, topicDir))
+        continue
+      }
       const tPath = path.join(sPath, topicDir)
       const tFile = path.join(tPath, 'topic.yaml')
-      const topic = check(topicFile, await readYaml(tFile), rel(tFile))
-      if (!topic) continue
+      const parsedTopic = check(topicFile, await readYaml(tFile), rel(tFile))
+      if (!parsedTopic) continue
+      const { section, ...topic } = parsedTopic
       if (topic.slug !== topicDir) issues.push({ file: rel(tFile), message: `slug "${topic.slug}" must match its folder "${topicDir}"` })
-      bundle.topics.push({ subjectSlug: subject.slug, ...topic })
+      if ((RESERVED_TOPIC_SLUGS as readonly string[]).includes(topic.slug)) {
+        issues.push({ file: rel(tFile), message: `"${topic.slug}" is a reserved name and can't be a topic` })
+        continue
+      }
+      let sectionSlug: string | undefined
+      if (section) {
+        if (!topicSections.includes(section)) issues.push({ file: rel(tFile), message: `section "${section}" is not a topics section in sections.yaml` })
+        sectionSlug = section
+      } else if (topicSections.length === 1) {
+        sectionSlug = topicSections[0]
+      } else if (topicSections.length > 1) {
+        issues.push({ file: rel(tFile), message: 'this subject has several topic sections; set `section:` in topic.yaml' })
+      }
+      bundle.topics.push({ subjectSlug: subject.slug, ...topic, ...(sectionSlug ? { sectionSlug } : {}) })
 
       const lessonSlugs = new Set<string>()
       for (const name of await files(tPath)) {
@@ -162,7 +316,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           bundle.lessons.push({ subjectSlug: subject.slug, topicSlug: topic.slug, ...fm, body_md: parsed.content.replace(/^\s*\n/, '') })
         } else if (name === 'questions.yaml') {
           const qs = check(questionsFile, await readYaml(f), rel(f))
-          for (const q of qs ?? []) addQuestion(q, `${subject.slug}/${topic.slug}`, rel(f))
+          for (const q of qs ?? []) addQuestion(q, topicRefs_(`${subject.slug}/${topic.slug}`), rel(f))
         }
       }
     }
@@ -171,7 +325,6 @@ export async function loadContent(root: string): Promise<ContentBundle> {
   // Tests (after all question banks, so references can resolve)
   const topicRefs = new Set(bundle.topics.map((t) => `${t.subjectSlug}/${t.slug}`))
   const subjectSlugs = new Set(bundle.subjects.map((s) => s.slug))
-  const testSlugs = new Set<string>()
   const testsPath = path.join(root, TESTS_DIR)
   const testNames = await files(testsPath).catch(() => [] as string[])
   const pendingRefs: { file: string; slug: string }[] = []
@@ -198,7 +351,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           continue
         }
         const { topic, ...shape } = q
-        addQuestion(shape, topic, rel(f))
+        addQuestion(shape, topicRefs_(topic), rel(f))
         questionSlugs.push(q.slug)
       }
     }
@@ -216,6 +369,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
       marksWrong: t.marks.wrong,
       published: t.published,
       questionSlugs,
+      caMonthRef: null,
     })
   }
 
