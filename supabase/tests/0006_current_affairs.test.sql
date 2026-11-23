@@ -11,6 +11,7 @@ insert into auth.users (id, email) values
 insert into public.subjects (id, slug, name) values ('a0000000-0000-0000-0000-0000000000c1', 'zz-ca-gs', 'CA subject');
 insert into public.sections (id, subject_id, slug, name, kind, position) values
   ('e0000000-0000-0000-0000-0000000000c1', 'a0000000-0000-0000-0000-0000000000c1', 'current-affairs', 'Current Affairs', 'current_affairs', 1);
+insert into public.topics (id, subject_id, slug, name) values ('b0000000-0000-0000-0000-0000000000c1', 'a0000000-0000-0000-0000-0000000000c1', 'zz-ca-topic', 'CA topic');
 insert into public.ca_categories (slug, name, position) values ('zz-appointments', 'Appointments', 1)
   on conflict (slug) do nothing;
 insert into public.ca_months (id, section_id, month, published) values
@@ -28,7 +29,7 @@ insert into public.ca_progress (user_id, month_id, category_slug)
 select throws_ok($$insert into public.ca_months (section_id, month) values ('e0000000-0000-0000-0000-0000000000c1', '2099-03-15')$$,
   '23514', null, 'a month must be stored as the first of the month');
 select throws_ok($$insert into public.questions (slug, topic_id, ca_month_id, ca_category_slug, stem_md, options, correct_key)
-  select 'zz-both', t.id, 'f0000000-0000-0000-0000-0000000000c1', 'zz-appointments', 'x', '[]', 'A' from public.topics t limit 1$$,
+  values ('zz-both', 'b0000000-0000-0000-0000-0000000000c1', 'f0000000-0000-0000-0000-0000000000c1', 'zz-appointments', 'x', '[]', 'A')$$,
   '23514', null, 'a question belongs to a topic or a month, not both');
 select throws_ok($$insert into public.questions (slug, stem_md, options, correct_key) values ('zz-neither', 'x', '[]', 'A')$$,
   '23514', null, 'a question belongs to a topic or a month');
