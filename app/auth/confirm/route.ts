@@ -1,21 +1,24 @@
 import { NextResponse, type NextRequest } from 'next/server'
-import type { EmailOtpType } from '@supabase/supabase-js'
 import { createClient } from '@/lib/supabase/server'
-import { safeNext } from '@/lib/safe-next'
+import { readConfirmParams } from '@/lib/confirm-params'
 
-const OTP_TYPES: EmailOtpType[] = ['signup', 'email', 'recovery', 'invite', 'magiclink', 'email_change']
-
-/** Email links land here: verify the one-time token, which signs the person in, then go on. */
+/**
+ * Email links land here. Verify the one-time token (our templates) or exchange the code (Supabase's default
+ * templates); either signs the person in. If neither works the email is usually already confirmed (an email
+ * scanner may have opened the link first), so send them to sign in with a gentle note, not an error.
+ */
 export async function GET(request: NextRequest) {
-  const { searchParams } = request.nextUrl
-  const tokenHash = searchParams.get('token_hash')
-  const type = searchParams.get('type') as EmailOtpType | null
-  const next = safeNext(searchParams.get('next'))
+  const p = readConfirmParams(request.nextUrl.searchParams)
+  const supabase = await createClient()
 
-  if (tokenHash && type && OTP_TYPES.includes(type)) {
-    const supabase = await createClient()
-    const { error } = await supabase.auth.verifyOtp({ type, token_hash: tokenHash })
-    if (!error) return NextResponse.redirect(new URL(next, request.url))
+  if (p.kind === 'otp') {
+    const { error } = await supabase.auth.verifyOtp({ type: p.type, token_hash: p.tokenHash })
+    if (!error) return NextResponse.redirect(new URL(p.next, request.url))
+  } else if (p.kind === 'code') {
+    const { error } = await supabase.auth.exchangeCodeForSession(p.code)
+    if (!error) return NextResponse.redirect(new URL(p.next, request.url))
   }
-  return NextResponse.redirect(new URL('/login?error=link', request.url))
+
+  const isReset = p.next === '/reset-password'
+  return NextResponse.redirect(new URL(isReset ? '/login?error=link' : '/login?notice=confirmed', request.url))
 }

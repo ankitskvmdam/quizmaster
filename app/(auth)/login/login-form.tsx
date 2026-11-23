@@ -7,7 +7,7 @@ import { FormField, describedBy } from '@/components/form-field'
 import { SubmitButton } from '@/components/submit-button'
 import { Input } from '@/components/ui/input'
 
-export function LoginForm({ next, notice }: { next: string; notice?: string }) {
+export function LoginForm({ next, notice, info }: { next: string; notice?: string; info?: string }) {
   const [state, action] = useActionState<AuthState, FormData>(signIn, null)
   const err = state && !state.ok ? state : null
   const emailError = err?.field === 'email' ? err.message : null
@@ -16,6 +16,11 @@ export function LoginForm({ next, notice }: { next: string; notice?: string }) {
   return (
     <AuthForm action={action}>
       <input type="hidden" name="next" value={next} />
+      {info && !err && (
+        <p role="status" className="rounded-lg border border-transparent bg-tint px-3.5 py-2.5 text-sm text-tint-foreground">
+          {info}
+        </p>
+      )}
       <FormError message={err?.field === null ? err.message : notice} />
       <FormField id="email" label="Email" error={emailError}>
         <Input
