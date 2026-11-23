@@ -5,6 +5,7 @@ import './globals.css'
 import { BRAND } from '@/lib/brand'
 import { themeHeadScript } from '@/lib/theme'
 import { TooltipProvider } from '@/components/ui/tooltip'
+import { AuthHashHandler } from '@/components/auth-hash-handler'
 
 const hanken = Hanken_Grotesk({ variable: '--font-hanken', subsets: ['latin'] })
 const jetbrains = JetBrains_Mono({ variable: '--font-jetbrains', subsets: ['latin'] })
@@ -22,6 +23,7 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
       </head>
       <body className="min-h-dvh">
         <TooltipProvider>{children}</TooltipProvider>
+        <AuthHashHandler />
       </body>
     </html>
   )

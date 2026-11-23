@@ -247,3 +247,8 @@
 .katex {
   font-size: 1.05em;
 }
+
+/* Hide the Netlify deploy badge/preview frame. */
+#nl-badge-frame {
+  display: none !important;
+}

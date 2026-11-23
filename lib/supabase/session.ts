@@ -2,6 +2,7 @@ import { NextResponse, type NextRequest } from 'next/server'
 import { createServerClient } from '@supabase/ssr'
 import type { Database } from './database.types'
 import { supabaseEnv } from './env'
+import { forwardToConfirm } from '@/lib/auth-links'
 
 const PUBLIC_PATHS = ['/login', '/signup', '/forgot-password', '/reset-password']
 const GUEST_ONLY = ['/login', '/signup', '/forgot-password']
@@ -12,6 +13,10 @@ export function isPublicPath(pathname: string) {
 
 /** Refreshes the session cookie and keeps signed-out people on the auth pages. */
 export async function updateSession(request: NextRequest): Promise<NextResponse> {
+  // Email-link parameters that landed on another page (e.g. the Site URL root) go to /auth/confirm.
+  const forward = forwardToConfirm(request.nextUrl.pathname, request.nextUrl.searchParams)
+  if (forward) return NextResponse.redirect(new URL(forward, request.url))
+
   let response = NextResponse.next({ request })
   const { url, key } = supabaseEnv()
 
