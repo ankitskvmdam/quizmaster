@@ -242,3 +242,8 @@
 :root:not([data-theme="dark"]) .glass-surface {
   --input-bg: rgb(255 255 255 / 0.45);
 }
+
+/* KaTeX defaults to 1.21em, which shouts next to body text. */
+.katex {
+  font-size: 1.05em;
+}
