@@ -69,7 +69,7 @@ select is((select count(*) from public.books where topic_id = 'b0000000-0000-000
   'unpublished books are hidden');
 select is((select count(*) from public.book_chapters where book_id = 'c1000000-0000-0000-0000-0000000000e2'), 0::bigint,
   'chapters of an unpublished book are hidden');
-select is((select count(*) from public.chapter_topics), 1::bigint, 'chapter tags of visible books are readable');
+select is((select count(*) from public.chapter_topics where chapter_id in ('c2000000-0000-0000-0000-0000000000e1', 'c2000000-0000-0000-0000-0000000000e2')), 1::bigint, 'chapter tags of visible books are readable');
 select throws_ok($$select correct_key from public.questions where chapter_id is not null$$, '42501', null,
   'chapter quiz answers stay hidden');
 select lives_ok($$select id, chapter_id from public.questions$$, 'the chapter link is readable');
