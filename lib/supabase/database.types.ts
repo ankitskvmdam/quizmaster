@@ -278,8 +278,17 @@ isOneToOne: false
 "get_attempt_review":
 { Args: { "p_attempt_id": string }; Returns: Json
                            },
+"hook_check_allowlist":
+{ Args: { "event": Json }; Returns: Json
+                           },
+"replace_test_questions":
+{ Args: { "p_question_ids": (string)[],"p_test_id": string }; Returns: undefined
+                           },
 "save_answer":
 { Args: { "p_attempt_id": string,"p_marked"?: boolean,"p_question_id": string,"p_selected_key": string }; Returns: Json
+                           },
+"set_marked":
+{ Args: { "p_attempt_id": string,"p_marked": boolean,"p_question_id": string }; Returns: undefined
                            },
 "start_attempt":
 { Args: { "p_mode": Database["public"]['Enums']["attempt_mode"],"p_test_id": string }; Returns: string

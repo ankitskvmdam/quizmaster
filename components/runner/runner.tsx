@@ -5,9 +5,10 @@ import { useRouter } from 'next/navigation'
 import { ListOrdered, LogOut, Send } from 'lucide-react'
 import type { AttemptPayload, QuestionResult } from '@/lib/runner/types'
 import { paletteCounts } from '@/lib/runner/palette'
-import { remainingSeconds, timerAnnouncement } from '@/lib/runner/timer'
+import { isStalePayload, remainingSeconds, timerAnnouncement } from '@/lib/runner/timer'
+import { callSafely, OFFLINE_MESSAGE } from '@/lib/runner/safe-call'
 import { formatMinutes } from '@/lib/format'
-import { saveAnswer, submitAttempt } from '@/app/attempt/[id]/actions'
+import { saveAnswer, serverNow, setMarked, submitAttempt, type SaveResult } from '@/app/attempt/[id]/actions'
 import { GlowBackdrop } from '@/components/glow-backdrop'
 import { Panel } from '@/components/surfaces'
 import { ConfirmDialog } from '@/components/confirm-dialog'
@@ -62,7 +63,7 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
     submittedRef.current = true
     setSubmitError(null)
     startSubmit(async () => {
-      const r = await submitAttempt(attempt.id)
+      const r = await callSafely(() => submitAttempt(attempt.id), { error: OFFLINE_MESSAGE })
       if (r?.error) {
         submittedRef.current = false
         setSubmitError(r.error)
@@ -90,6 +91,23 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
     }
   }, [clock, mode, doSubmit])
 
+  // ---- A page restored from cache (Back button, sleeping tab) shows old answers and an old clock: reload it.
+  useEffect(() => {
+    const mountedAt = Date.now()
+    const check = async () => {
+      const now = await callSafely(serverNow, null)
+      if (now && isStalePayload(initial.server_now, now, Date.now() - mountedAt)) router.refresh()
+    }
+    void check()
+    const onShow = () => document.visibilityState === 'visible' && void check()
+    document.addEventListener('visibilitychange', onShow)
+    window.addEventListener('pageshow', onShow)
+    return () => {
+      document.removeEventListener('visibilitychange', onShow)
+      window.removeEventListener('pageshow', onShow)
+    }
+  }, [initial.server_now, router])
+
   // ---- Ask before leaving with the attempt open.
   useEffect(() => {
     const onBeforeUnload = (e: BeforeUnloadEvent) => {
@@ -115,18 +133,19 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
     [questions.length],
   )
 
-  /** Saves optimistically; on failure restores what was there and says why. */
-  async function persist(i: number, next: { selected: string | null; marked: boolean }) {
-    const before = states[i]
-    update(i, next)
+const offline: SaveResult = { ok: false, error: OFFLINE_MESSAGE }
+
+  /** Saves an answer optimistically; on failure puts back what was there (unless a newer choice replaced it) and says why. */
+  async function persist(i: number, selected: string | null) {
+    const before = states[i].selected
+    update(i, { selected })
     setError(null)
-    const r = await saveAnswer(attempt.id, questions[i].id, next.selected, next.marked)
+    const r = await callSafely(() => saveAnswer(attempt.id, questions[i].id, selected, states[i].marked), offline)
     if (!r.ok) {
-      update(i, { selected: before.selected, marked: before.marked })
+      setStates((prev) => prev.map((s, j) => (j === i && s.selected === selected ? { ...s, selected: before } : s)))
       setError(r.error)
       if (r.timeUp) doSubmit()
     }
-    return r
   }
 
   const q = states[current]
@@ -134,17 +153,20 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
   function select(key: string) {
     if (q.result) return
     if (mode === 'practice') update(current, { selected: key }) // saved when checked
-    else void persist(current, { selected: key, marked: q.marked })
+    else void persist(current, key)
   }
 
-  function toggleMark() {
-    if (q.result) return
-    const marked = !q.marked
-    if (mode === 'practice') {
-      update(current, { marked })
-      void saveAnswer(attempt.id, questions[current].id, null, marked)
-    } else {
-      void persist(current, { selected: q.selected, marked })
+  /** Marking is its own write: it never touches the saved answer, even from a stale tab. */
+  async function toggleMark() {
+    const i = current
+    const marked = !states[i].marked
+    update(i, { marked })
+    setError(null)
+    const r = await callSafely(() => setMarked(attempt.id, questions[i].id, marked), offline)
+    if (!r.ok) {
+      setStates((prev) => prev.map((s, j) => (j === i && s.marked === marked ? { ...s, marked: !marked } : s)))
+      setError(r.error)
+      if (r.timeUp) doSubmit()
     }
   }
 
@@ -152,7 +174,7 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
     if (!q.selected || checking) return
     setChecking(true)
     setError(null)
-    const r = await saveAnswer(attempt.id, questions[current].id, q.selected, q.marked)
+    const r = await callSafely(() => saveAnswer(attempt.id, questions[current].id, q.selected, q.marked), offline)
     setChecking(false)
     if (!r.ok) {
       setError(r.error)
@@ -177,7 +199,7 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
         select((byNumber ?? byLetter)!.key)
       } else if (k === 'n') go(current + 1)
       else if (k === 'p') go(current - 1)
-      else if (k === 'm') toggleMark()
+      else if (k === 'm') void toggleMark()
     }
   })
   useEffect(() => {
@@ -240,7 +262,7 @@ export function Runner({ initial }: { initial: AttemptPayload }) {
               isLast={isLast}
               onSelect={select}
               onToggleMark={toggleMark}
-              onClear={() => void persist(current, { selected: null, marked: q.marked })}
+              onClear={() => void persist(current, null)}
               onCheck={check}
               onPrev={() => go(current - 1)}
               onNext={() => go(current + 1)}

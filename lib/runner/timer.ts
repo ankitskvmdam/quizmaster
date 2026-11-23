@@ -22,3 +22,12 @@ export function remainingSeconds(deadlineIso: string, serverNowIso: string, load
   const serverNow = Date.parse(serverNowIso) + (browserNow - loadedAt)
   return Math.max(0, Math.round((Date.parse(deadlineIso) - serverNow) / 1000))
 }
+
+/**
+ * True when the page's data was rendered well before it was shown (e.g. restored by the Back button):
+ * the server's clock moved on further than the browser has been showing this page.
+ */
+export function isStalePayload(payloadServerNow: string, freshServerNow: string, browserElapsedMs: number, toleranceMs = 10_000) {
+  const serverElapsed = Date.parse(freshServerNow) - Date.parse(payloadServerNow)
+  return serverElapsed - browserElapsedMs > toleranceMs
+}

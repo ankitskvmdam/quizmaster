@@ -17,5 +17,6 @@ export default async function AttemptPage({ params }: PageProps<'/attempt/[id]'>
   }
   const payload = data as unknown as AttemptPayload
   if (payload.attempt.submitted_at) redirect(`/past/attempts/${id}`)
-  return <Runner initial={payload} />
+  // Keyed by the server time, so a refreshed payload remounts the runner with fresh state.
+  return <Runner key={payload.server_now} initial={payload} />
 }

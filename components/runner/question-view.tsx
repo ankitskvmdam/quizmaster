@@ -113,7 +113,7 @@ export function QuestionView({
 
       <div className="flex flex-wrap items-center justify-between gap-3 border-t border-hairline pt-5">
         <div className="flex flex-wrap gap-1">
-          <Button variant="ghost" size="sm" aria-pressed={marked} onClick={onToggleMark} disabled={locked}>
+          <Button variant="ghost" size="sm" aria-pressed={marked} onClick={onToggleMark}>
             <Flag className={marked ? 'fill-current text-review-fg' : undefined} />
             {marked ? 'Marked for review' : 'Mark for review'}
           </Button>

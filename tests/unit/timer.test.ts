@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { remainingSeconds, timerAnnouncement, timerTone } from '@/lib/runner/timer'
+import { isStalePayload, remainingSeconds, timerAnnouncement, timerTone } from '@/lib/runner/timer'
 
 describe('timerTone', () => {
   it('is normal above five minutes, amber at five, red at one', () => {
@@ -30,5 +30,19 @@ describe('remainingSeconds', () => {
   })
   it('never goes below zero', () => {
     expect(remainingSeconds('2026-11-23T10:00:00Z', '2026-11-23T10:00:00Z', 0, 5_000)).toBe(0)
+  })
+})
+
+describe('isStalePayload', () => {
+  const rendered = '2026-11-23T10:00:00Z'
+  it('is fresh when the server has moved on about as much as the browser has', () => {
+    // mounted 2s after render, browser has been up 1s since mount
+    expect(isStalePayload(rendered, '2026-11-23T10:00:03Z', 1_000)).toBe(false)
+  })
+  it('is stale when the page came from a cache long after it was rendered (Back button)', () => {
+    expect(isStalePayload(rendered, '2026-11-23T10:05:00Z', 1_000)).toBe(true)
+  })
+  it('ignores a wrong browser clock, since it only compares elapsed times', () => {
+    expect(isStalePayload(rendered, '2026-11-23T10:00:08Z', 6_000)).toBe(false)
   })
 })

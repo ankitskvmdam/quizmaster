@@ -38,3 +38,18 @@ export async function submitAttempt(attemptId: string): Promise<{ error: string 
   revalidatePath('/', 'layout')
   redirect(`/past/attempts/${attemptId}`)
 }
+
+export async function setMarked(attemptId: string, questionId: string, marked: boolean): Promise<SaveResult> {
+  const supabase = await createClient()
+  const { error } = await supabase.rpc('set_marked', { p_attempt_id: attemptId, p_question_id: questionId, p_marked: marked })
+  if (error) {
+    const timeUp = error.message === 'Time is up for this attempt' || error.message === 'This attempt has been submitted'
+    return { ok: false, error: humane(error), timeUp }
+  }
+  return { ok: true, result: null }
+}
+
+/** The server's clock, for spotting a page restored from the browser's cache (compared with a 10s tolerance). */
+export async function serverNow(): Promise<string> {
+  return new Date().toISOString()
+}

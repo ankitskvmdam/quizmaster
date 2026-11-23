@@ -1,7 +1,7 @@
 -- Attempt, scoring, review and custom-test functions (Task 3).
 begin;
 create extension if not exists pgtap with schema extensions;
-select plan(27);
+select plan(30);
 
 -- Fixtures
 insert into public.allowed_emails (email) values ('u1@test.dev'), ('u2@test.dev');
@@ -54,6 +54,13 @@ select lives_ok($$select public.save_answer((select id from ids where name = 'ti
   'a timed answer can be saved');
 select lives_ok($$select public.save_answer((select id from ids where name = 'timed'), 'c0000000-0000-0000-0000-000000000003', null, true)$$,
   'a question can be marked for review without an answer');
+select lives_ok($$select public.set_marked((select id from ids where name = 'timed'), 'c0000000-0000-0000-0000-000000000001', true)$$,
+  'a question can be marked on its own');
+select is((select selected_key from public.attempt_answers where attempt_id = (select id from ids where name = 'timed') and question_id = 'c0000000-0000-0000-0000-000000000001'), 'B',
+  'marking never touches a saved answer (a stale tab cannot erase it)');
+select public.save_answer((select id from ids where name = 'timed'), 'c0000000-0000-0000-0000-000000000001', 'B', false);
+select is((select marked from public.attempt_answers where attempt_id = (select id from ids where name = 'timed') and question_id = 'c0000000-0000-0000-0000-000000000001'), true,
+  'saving an answer never clears a mark');
 select throws_ok($$select public.save_answer((select id from ids where name = 'timed'), 'c0000000-0000-0000-0000-000000000004', 'A')$$,
   'P0001', 'Question is not part of this test', 'answers to questions outside the test are rejected');
 select throws_ok($$select public.save_answer((select id from ids where name = 'timed'), 'c0000000-0000-0000-0000-000000000001', 'Z')$$,
