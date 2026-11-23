@@ -98,7 +98,7 @@ select throws_ok($$select public.start_attempt('d0000000-0000-0000-0000-00000000
   'P0001', 'This test can only be taken as practice', 'a test with no duration cannot be timed');
 insert into ids values ('practice', public.start_attempt('d0000000-0000-0000-0000-000000000001', 'practice'));
 select is(public.save_answer((select id from ids where name = 'practice'), 'c0000000-0000-0000-0000-000000000001', 'A'),
-  '{"is_correct": false, "correct_key": "B", "explanation_md": "Because B"}'::jsonb,
+  '{"is_correct": false, "correct_key": "B", "explanation_md": "Because B", "explanation_md_hi": null}'::jsonb,
   'practice reveals the answer and explanation after checking');
 select throws_ok($$select public.save_answer((select id from ids where name = 'practice'), 'c0000000-0000-0000-0000-000000000001', 'B')$$,
   'P0001', 'This question has already been checked', 'a checked practice question is locked');
