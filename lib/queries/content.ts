@@ -40,13 +40,16 @@ export type TopicCard = {
   lessonCount: number
   doneCount: number
   questionCount: number
+  sectionId: string | null
 }
+
+export type SectionInfo = { id: string; slug: string; name: string; kind: 'topics' | 'current_affairs'; position: number }
 
 export async function getSubject(slug: string) {
   const supabase = await createClient()
   const { data, error } = await supabase
     .from('subjects')
-    .select('id, slug, name, description, topics(id, slug, name, description, position, lessons(id), questions(id))')
+    .select('id, slug, name, description, sections(id, slug, name, kind, position), topics(id, section_id, slug, name, description, position, lessons(id), questions(id, retired))')
     .eq('slug', slug)
     .maybeSingle()
   if (error) fail('subject', error)
@@ -61,9 +64,11 @@ export async function getSubject(slug: string) {
       description: t.description,
       lessonCount: t.lessons.length,
       doneCount: t.lessons.filter((l) => done.has(l.id)).length,
-      questionCount: t.questions.length,
+      questionCount: t.questions.filter((q) => !q.retired).length,
+      sectionId: t.section_id,
     }))
-  return { subject: { id: data.id, slug: data.slug, name: data.name, description: data.description }, topics }
+  const sections: SectionInfo[] = [...data.sections].sort((a, b) => a.position - b.position)
+  return { subject: { id: data.id, slug: data.slug, name: data.name, description: data.description }, topics, sections }
 }
 
 export async function getTopic(subjectSlug: string, topicSlug: string) {
