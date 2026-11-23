@@ -161,7 +161,7 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
 - Create: `supabase/migrations/0008_current_affairs_fns.sql`, `supabase/tests/0007_period_tests.test.sql`
 
 **Interfaces:**
-- `create_period_test(p_from date, p_to date, p_categories text[] default null, p_count int default 10, p_duration_sec int default null) returns uuid`, `security definer`, `search_path = public`, execute granted to `authenticated` only.
+- `create_period_test(p_from date, p_to date, p_categories text[] default null, p_count int default 10, p_seconds_per_question int default null) returns uuid`, `security definer`, `search_path = public`, execute granted to `authenticated` only.
   - Errors, raised as `P0001` with these exact messages:
     - not signed in;
     - `p_from > p_to` → `'Choose a valid period'`;
@@ -169,7 +169,7 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
     - `p_count` outside 5..50 → `'Choose between 5 and 50 questions'`;
     - nothing available → `'There are no questions for this period yet'`.
   - Draws from questions where `ca_month_id` is in a published month with `month between p_from and p_to`, `not retired`, and `p_categories is null or ca_category_slug = any(p_categories)`. Random order, up to `p_count`; fewer is allowed if fewer exist (Review Focus 3).
-  - Inserts a test with `kind 'custom'`, `created_by = auth.uid()`, `subject_id` of the section's subject, `marks_correct 1`, `marks_wrong -0.33`, `duration_sec = p_duration_sec`, `published true`, `published_at now()`.
+  - Inserts a test with `kind 'custom'`, `created_by = auth.uid()`, `subject_id` of the section's subject, `marks_correct 1`, `marks_wrong -0.33`, `duration_sec = p_seconds_per_question * <questions actually drawn>` (null = practice only), `published true`, `published_at now()`.
   - Title: `'Current affairs: ' ||` the range label (`to_char` gives 'Jan 2026', 'Jan–Mar 2026' or 'Nov 2026–Jan 2027', matching `formatRange`), then `' · ' ||` the category names joined with `', '` when there are 1–3 categories, or `' · N categories'` when there are more.
 - `create_custom_test` is recreated to skip `retired` questions.
 - `get_attempt` and `get_attempt_review` are recreated with `left join topics tp`, `left join ca_months m on m.id = q.ca_month_id` and `left join ca_categories c on c.slug = q.ca_category_slug`. The label is `topic_name = coalesce(tp.name, c.name || ' · ' || to_char(m.month, 'Mon YYYY'))`. Everything else in both functions stays identical to the current versions in `0002_attempts.sql` and `0004_independent_marks.sql`.
@@ -224,7 +224,7 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
   - A note `date` must fall inside its month.
 
 - [ ] **Step 1: Write the fixtures and the failing tests** (`content-ca.test.ts`).
-  - **Valid fixture:** `gs` with `sections.yaml` (current-affairs at position 1, maths-reasoning at 2), one topic `percentages` with no `section` field, `current-affairs/categories.yaml` (appointments, awards, sports), month `2099-01` (4 notes, 6 questions, `test.yaml` with 5 slugs) and month `2099-02` (2 notes, 2 questions, no `test.yaml`).
+  - **Valid fixture:** `gs` with `sections.yaml` (current-affairs at position 1, maths-reasoning at 2), one topic `percentages` with no `section` field and 2 questions, `current-affairs/categories.yaml` (appointments, awards, sports), month `2099-01` (4 notes, 6 questions, `test.yaml` with 5 slugs) and month `2099-02` (2 notes, 2 questions, no `test.yaml`).
   - The valid fixture loads to:
     - `sections.length === 2`
     - `topics[0].sectionSlug === 'maths-reasoning'`
@@ -247,7 +247,7 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
 - Test: extend `tests/unit/content-plan.test.ts` if helpers are extracted; the end-to-end checks are below.
 
 **Interfaces:**
-- `PushSummary` gains `sections`, `categories`, `months`, `notes` (same `Counts` shape, plus `retired` on `questions`).
+- `PushSummary` gains `sections`, `categories`, `months`, `notes`; `Counts` gains `removed` (notes deleted) and `retired` (questions retired), 0 elsewhere.
 - Push order:
   1. subjects
   2. sections (upsert on `subject_id,slug`)
@@ -263,10 +263,10 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
   - deletes notes missing from a pushed month;
   - sets `retired = true` on questions missing from the files (never deletes them).
 
-- [ ] **Step 1:** Push the valid fixture into local: `npm run content:push -- tests/fixtures/content-ca`. Expected: counts show sections 2, categories 3, months 2, notes 6, questions 8 (topic questions plus CA questions) and tests 1 created. A second run reports everything unchanged.
+- [ ] **Step 1:** Push the valid fixture into local: `npm run content:push -- tests/fixtures/content-ca`. Expected: counts show sections 2, categories 3, months 2, notes 6, questions 10 (2 topic + 8 CA) and tests 1 created. A second run reports everything unchanged.
 - [ ] **Step 2:** On a scratch copy of the fixture, edit one note's text and move one question to `awards`, then push. Expected: notes 1 updated, questions 1 updated, everything else unchanged.
 - [ ] **Step 3:** On a scratch copy, remove one note, one question and month folder `2099-02`, then push with `--prune`.
-  - Expected summary: notes 1 + 2 removed, questions retired 1 + 2, months unpublished 1.
+  - Expected summary: notes removed 3 (1 + the 2 of 2099-02), questions retired 3 (1 + the 2 of 2099-02), months unpublished 1.
   - SQL check: the retired questions keep `retired = true`.
 - [ ] **Step 4:** Start the fixture month paper as a user and submit it via SQL helpers. Then change its `test.yaml` order and push without `--force`. Expected: the existing "has attempts" refusal.
 - [ ] **Step 5:** Push the real `content/`. Expected: sections 2 created, categories 16 created, topics 1 updated (`section_id`), and no months (there is no real month content yet).
@@ -288,8 +288,8 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
 - `getPeriod(subjectSlug, period: Period)` returns `{period, months: MonthKey[] (published, within), categories: {slug, name, noteCount, questionCount}[]}`.
 - `getPeriodNotes(subjectSlug, period, categorySlug)` returns `{category, groups: {month: MonthKey, notes: …}[]}`.
 - Actions, which return `ActionResult` like the existing ones:
-  - `startCaPractice({from, to, categories?: string[], count: number})` creates with `p_duration_sec null`, starts in `'practice'` and redirects.
-  - `startCaRevision({from, to, categories?: string[], count: 25 | 50})` creates with `count * 60` seconds, starts in `'timed'` and redirects.
+  - `startCaPractice({from, to, categories?: string[], count: number})` creates with `p_seconds_per_question null`, starts in `'practice'` and redirects.
+  - `startCaRevision({from, to, categories?: string[], count: 25 | 50})` creates with `p_seconds_per_question 60`, starts in `'timed'` and redirects.
   - `markCategoryRead(monthId: string, categorySlug: string, read: boolean)` upserts or deletes `ca_progress` and revalidates.
 
 - [ ] **Step 1:** Implement the queries and actions using `lib/periods.ts`. Months and dates are converted only through `monthToDate` and `dateToMonth`.
@@ -329,7 +329,7 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
   - `notFound()` unless `isMonthKey(month)` and the month exists and is published.
   - Header: eyebrow "General Studies · Current Affairs", title `formatMonth`.
   - Paper panel: "January 2026 test · 25 questions · 25 min · +1 / −0.33", Start timed (the existing `StartActions`, with its confirm dialog) and Practice. Hidden when there's no paper.
-  - Category rows: name, `Mono` counts, a read tick (`Badge` correct), "Read" (link) and "Practice" (`startCaPractice` with that category and `count: min(10, questionCount)`, but at least 5 as the requested count; the function returns fewer when fewer exist). Practice is hidden when `questionCount === 0`.
+  - Category rows: name, `Mono` counts, a read tick (`Badge` correct), "Read" (link) and "Practice" (`startCaPractice` with that category and `count: 10`; the function returns fewer when fewer exist). Practice is hidden when `questionCount === 0`.
   - A "Practise the whole month" button (25, untimed).
 - [ ] **Step 2:** Category notes page.
   - Reader column (~70ch), `GlowBackdrop still`, eyebrow "January 2026 · Appointments".
@@ -359,7 +359,7 @@ tests/fixtures/content-ca/**                     # gs with sections, 1 topic, cu
 - [ ] **Step 3:** Chrome check:
   - `period?from=2099-01&to=2099-02` shows both months' counts.
   - `period?from=2098-01&to=2099-06` is clamped to 12 months ending 2099-06, with a label like "Jul 2098–Jun 2099" (Review Focus 5).
-  - Timed revision with 25 starts a runner titled "Current affairs: Jan–Feb 2099" containing 8 questions (all available) and the right clock (25:00 for the requested 25).
+  - Timed revision with 25 starts a runner titled "Current affairs: Jan–Feb 2099" containing 8 questions (all available) and a clock of 08:00 (1 min per question drawn).
   - Views at 360, 768 and 1280.
 - [ ] **Step 4:** Commit `feat(ca): period overview, notes and revision tests`.
 
