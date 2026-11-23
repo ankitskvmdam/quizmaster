@@ -4,7 +4,9 @@ import { dateToMonth, monthToDate } from '@/lib/periods'
 import {
   ContentError,
   type CaNoteItem,
+  type BookItem,
   type CategoryItem,
+  type ChapterItem,
   type ContentBundle,
   type LessonItem,
   type QuestionItem,
@@ -21,7 +23,7 @@ const chunk = <T,>(xs: T[], n: number): T[][] => Array.from({ length: Math.ceil(
 type Db = SupabaseClient<Database>
 type Counts = { created: number; updated: number; unchanged: number; unpublished: number; removed: number; retired: number }
 export type PushSummary = Record<
-  'subjects' | 'sections' | 'topics' | 'lessons' | 'categories' | 'months' | 'notes' | 'questions' | 'tests',
+  'subjects' | 'sections' | 'topics' | 'books' | 'chapters' | 'lessons' | 'categories' | 'months' | 'notes' | 'questions' | 'tests',
   Counts
 >
 
@@ -45,19 +47,23 @@ type NoteRow = CaNoteItem & { monthRef: string }
 type QuestionRow = QuestionItem & { retired: boolean }
 
 const monthKey = (m: { subjectSlug: string; sectionSlug: string; month: string }) => `${m.subjectSlug}/${m.sectionSlug}/${m.month}`
-const lessonKey = (l: LessonItem) => `${l.subjectSlug}/${l.topicSlug}/${l.slug}`
-const topicKey = (t: TopicItem) => `${t.subjectSlug}/${t.slug}`
+const lessonKey = (l: LessonItem) => `${l.subjectSlug}/${l.topicPath}/${l.slug}`
+const topicKey = (t: TopicItem) => `${t.subjectSlug}/${t.path}`
+const bookKey = (b: BookItem) => `${b.subjectSlug}/${b.topicPath}/${b.slug}`
+const chapterKey = (c: ChapterItem) => `${c.bookRef}/${c.slug}`
+/** "gs/history/ancient" → ["gs", "history/ancient"] */
+const splitRef = (ref: string) => [ref.slice(0, ref.indexOf('/')), ref.slice(ref.indexOf('/') + 1)] as const
 const sectionKey = (s: SectionItem) => `${s.subjectSlug}/${s.slug}`
 const noteKey = (n: NoteRow) => `${n.monthRef}/${n.slug}`
 
 /** Everything in the database that came from content files, keyed by slugs (never ids). */
 async function readExisting(db: Db) {
   // Every read is paged: the API returns at most 1000 rows per request (see selectAll).
-  const [subjects, sections, topics, lessons, categories, months, notes, questions, tests] = await Promise.all([
+  const [subjects, sections, topics, lessons, categories, months, notes, questions, tests, books, chapters, chapterTopics] = await Promise.all([
     selectAll((f, t) => db.from('subjects').select('id, slug, name, description, position, published').order('id').range(f, t), 'read subjects'),
     selectAll((f, t) => db.from('sections').select('id, subject_id, slug, name, kind, position').order('id').range(f, t), 'read sections'),
     selectAll(
-      (f, t) => db.from('topics').select('id, subject_id, section_id, slug, name, description, position').order('id').range(f, t),
+      (f, t) => db.from('topics').select('id, subject_id, section_id, parent_id, path, slug, name, description, position').order('id').range(f, t),
       'read topics',
     ),
     selectAll(
@@ -75,7 +81,7 @@ async function readExisting(db: Db) {
       (f, t) =>
         db
           .from('questions')
-          .select('id, slug, topic_id, ca_month_id, ca_category_slug, retired, stem_md, options, correct_key, explanation_md, difficulty, source, tags')
+          .select('id, slug, topic_id, ca_month_id, ca_category_slug, chapter_id, retired, stem_md, options, correct_key, explanation_md, difficulty, source, tags')
           .order('id')
           .range(f, t),
       'read questions',
@@ -84,12 +90,22 @@ async function readExisting(db: Db) {
       (f, t) =>
         db
           .from('tests')
-          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id')
+          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id, chapter_id')
           .is('created_by', null)
           .not('slug', 'is', null)
           .order('id')
           .range(f, t),
       'read tests',
+    ),
+    selectAll(
+      (f, t) =>
+        db.from('books').select('id, topic_id, slug, title, author, edition, description, position, published, published_at').order('id').range(f, t),
+      'read books',
+    ),
+    selectAll((f, t) => db.from('book_chapters').select('id, book_id, slug, number, title, gist_md, position').order('id').range(f, t), 'read chapters'),
+    selectAll(
+      (f, t) => db.from('chapter_topics').select('chapter_id, topic_id').order('chapter_id').order('topic_id').range(f, t),
+      'read chapter tags',
     ),
   ])
   // Only official tests' question lists: custom tests (every practice set learners start) are never compared.
@@ -114,7 +130,10 @@ async function readExisting(db: Db) {
 
   const subjectSlug = new Map(subj.map((s) => [s.id, s.slug]))
   const section = new Map(secs.map((s) => [s.id, s]))
-  const topicRef = new Map(tops.map((t) => [t.id, `${subjectSlug.get(t.subject_id)}/${t.slug}`]))
+  const topicRef = new Map(tops.map((t) => [t.id, `${subjectSlug.get(t.subject_id)}/${t.path}`]))
+  const topicPath = new Map(tops.map((t) => [t.id, t.path]))
+  const bookRef = new Map(books.map((b) => [b.id, `${topicRef.get(b.topic_id)}/${b.slug}`]))
+  const chapterRef = new Map(chapters.map((c) => [c.id, `${bookRef.get(c.book_id)}/${c.slug}`]))
   const monthRef = new Map(
     mons.map((m) => {
       const s = section.get(m.section_id)!
@@ -140,14 +159,42 @@ async function readExisting(db: Db) {
       name: t.name,
       description: t.description,
       position: t.position,
+      path: t.path,
+      parentPath: t.parent_id ? (topicPath.get(t.parent_id) ?? null) : null,
       ...(t.section_id ? { sectionSlug: section.get(t.section_id)?.slug } : {}),
     })),
+    books: books.map((b): BookItem & { id: string; published_at: string | null } => {
+      const [subjectSlug_, path_] = splitRef(topicRef.get(b.topic_id)!)
+      return {
+        id: b.id,
+        subjectSlug: subjectSlug_,
+        topicPath: path_,
+        slug: b.slug,
+        title: b.title,
+        author: b.author,
+        edition: b.edition,
+        description: b.description,
+        position: b.position,
+        published: b.published,
+        published_at: b.published_at,
+      }
+    }),
+    chapters: chapters.map((c): ChapterItem & { id: string } => ({
+      id: c.id,
+      bookRef: bookRef.get(c.book_id)!,
+      slug: c.slug,
+      number: c.number,
+      title: c.title,
+      gist_md: c.gist_md,
+      position: c.position,
+      covers: chapterTopics.filter((ct) => ct.chapter_id === c.id).map((ct) => topicPath.get(ct.topic_id)!),
+    })),
     lessons: (lessons as Rows['lessons']['Row'][]).map((l): LessonItem & { id: string; published_at: string | null } => {
-      const [s, t] = topicRef.get(l.topic_id)!.split('/')
+      const [s, t] = splitRef(topicRef.get(l.topic_id)!)
       return {
         id: l.id,
         subjectSlug: s,
-        topicSlug: t,
+        topicPath: t,
         slug: l.slug,
         title: l.title,
         position: l.position,
@@ -177,6 +224,7 @@ async function readExisting(db: Db) {
       topicRef: q.topic_id ? topicRef.get(q.topic_id)! : null,
       caMonthRef: q.ca_month_id ? monthRef.get(q.ca_month_id)! : null,
       categorySlug: q.ca_category_slug,
+      chapterRef: q.chapter_id ? (chapterRef.get(q.chapter_id) ?? null) : null,
       stem_md: q.stem_md,
       options: q.options as QuestionItem['options'],
       correctKey: q.correct_key,
@@ -203,12 +251,13 @@ async function readExisting(db: Db) {
         .sort((a, b) => a.position - b.position)
         .map((tq) => questionSlug.get(tq.question_id)!),
       caMonthRef: t.ca_month_id ? (monthRef.get(t.ca_month_id) ?? null) : null,
+      chapterRef: t.chapter_id ? (chapterRef.get(t.chapter_id) ?? null) : null,
     })),
   }
 }
 
 /**
- * Upserts the bundle by slug. With prune: unpublishes subjects, lessons, tests and months the files dropped,
+ * Upserts the bundle by slug. With prune: unpublishes subjects, lessons, books, tests and months the files dropped,
  * deletes notes dropped from a pushed month, and retires questions the files dropped (never deletes them).
  */
 export async function pushContent(
@@ -233,6 +282,9 @@ export async function pushContent(
   const sectionPlan = planChanges(existing.sections.map(strip), bundle.sections, sectionKey, (s) => s)
   const topicPlan = planChanges(existing.topics.map(strip), bundle.topics, topicKey, (t) => t)
   const lessonPlan = planChanges(existing.lessons.map(strip), bundle.lessons, lessonKey, (l) => l)
+  const bookPlan = planChanges(existing.books.map(strip), bundle.books, bookKey, (b) => b)
+  // Tag order doesn't matter.
+  const chapterPlan = planChanges(existing.chapters.map(strip), bundle.chapters, chapterKey, (c) => ({ ...c, covers: [...c.covers].sort() }))
   const categoryPlan = planChanges(existing.categories, bundle.categories, (c) => c.slug, (c) => c)
   const monthPlan = planChanges(existing.months.map(strip), desiredMonths, monthKey, (m) => m)
   const notePlan = planChanges(existing.notes.map(strip), desiredNotes, noteKey, (n) => n)
@@ -273,17 +325,20 @@ export async function pushContent(
     ? {
         subjects: subjectPlan.missing.filter((s) => s.published),
         lessons: lessonPlan.missing.filter((l) => l.published),
+        books: bookPlan.missing.filter((b) => b.published),
         tests: testPlan.missing.filter((t) => t.published),
         months: monthPlan.missing.filter((m) => m.published),
         notes: notePlan.missing.filter((n) => pushedMonths.has(n.monthRef)),
         questions: questionPlan.missing.filter((q) => !q.retired),
       }
-    : { subjects: [], lessons: [], tests: [], months: [], notes: [], questions: [] }
+    : { subjects: [], lessons: [], books: [], tests: [], months: [], notes: [], questions: [] }
 
   const summary: PushSummary = {
     subjects: counts(subjectPlan, { unpublished: prune.subjects.length }),
     sections: counts(sectionPlan),
     topics: counts(topicPlan),
+    books: counts(bookPlan, { unpublished: prune.books.length }),
+    chapters: counts(chapterPlan),
     lessons: counts(lessonPlan, { unpublished: prune.lessons.length }),
     categories: counts(categoryPlan),
     months: counts(monthPlan, { unpublished: prune.months.length }),
@@ -320,25 +375,90 @@ export async function pushContent(
     (await selectAll((f, t) => db.from('sections').select('id, subject_id, slug').order('id').range(f, t), 'read sections')).map((s) => [`${subjectSlugOf.get(s.subject_id)}/${s.slug}`, s.id]),
   )
 
-  // Topics
-  const topicRows = [...topicPlan.create, ...topicPlan.update]
-  if (topicRows.length) {
+  // Topics: parents first (by depth), so every child can point at its parent.
+  const topicRows = [...topicPlan.create, ...topicPlan.update].sort((a, b) => a.path.split('/').length - b.path.split('/').length)
+  const readTopicIds = async () =>
+    new Map(
+      (await selectAll((f, t) => db.from('topics').select('id, path, subject_id').order('id').range(f, t), 'read topics')).map((t) => [
+        `${subjectSlugOf.get(t.subject_id)}/${t.path}`,
+        t.id,
+      ]),
+    )
+  let topicId = await readTopicIds()
+  const depths = [...new Set(topicRows.map((t) => t.path.split('/').length))].sort((a, b) => a - b)
+  for (const depth of depths) {
     must(
       await db.from('topics').upsert(
-        topicRows.map(({ subjectSlug, sectionSlug, ...t }) => ({
-          ...t,
-          subject_id: subjectId.get(subjectSlug)!,
-          section_id: sectionSlug ? (sectionId.get(`${subjectSlug}/${sectionSlug}`) ?? null) : null,
-          updated_at: now,
-        })),
-        { onConflict: 'subject_id,slug' },
+        topicRows
+          .filter((t) => t.path.split('/').length === depth)
+          .map(({ subjectSlug, sectionSlug, parentPath, ...t }) => ({
+            ...t,
+            subject_id: subjectId.get(subjectSlug)!,
+            parent_id: parentPath ? topicId.get(`${subjectSlug}/${parentPath}`)! : null,
+            section_id: sectionSlug ? (sectionId.get(`${subjectSlug}/${sectionSlug}`) ?? null) : null,
+            updated_at: now,
+          })),
+        { onConflict: 'subject_id,path' },
       ),
       'write topics',
     )
+    topicId = await readTopicIds()
   }
-  const topicId = new Map(
-    (await selectAll((f, t) => db.from('topics').select('id, slug, subject_id').order('id').range(f, t), 'read topics')).map((t) => [`${subjectSlugOf.get(t.subject_id)}/${t.slug}`, t.id]),
+
+  // Books (on subject nodes; published_at kept from the first time)
+  const bookPublishedAt = new Map(existing.books.map((b) => [bookKey(b), b.published_at]))
+  const bookRows = [...bookPlan.create, ...bookPlan.update]
+  if (bookRows.length) {
+    must(
+      await db.from('books').upsert(
+        bookRows.map(({ subjectSlug, topicPath, ...b }) => ({
+          ...b,
+          topic_id: topicId.get(`${subjectSlug}/${topicPath}`)!,
+          published_at: bookPublishedAt.get(bookKey({ subjectSlug, topicPath, ...b })) ?? (b.published ? now : null),
+          updated_at: now,
+        })),
+        { onConflict: 'topic_id,slug' },
+      ),
+      'write books',
+    )
+  }
+  const topicRefOf = new Map([...topicId.entries()].map(([ref, id]) => [id, ref]))
+  const bookId = new Map(
+    (await selectAll((f, t) => db.from('books').select('id, topic_id, slug').order('id').range(f, t), 'read books')).map((b) => [
+      `${topicRefOf.get(b.topic_id)}/${b.slug}`,
+      b.id,
+    ]),
   )
+
+  // Chapters, then their syllabus tags (replaced for every written chapter)
+  const chapterRows = [...chapterPlan.create, ...chapterPlan.update]
+  if (chapterRows.length) {
+    must(
+      await db.from('book_chapters').upsert(
+        chapterRows.map(({ bookRef, covers: _covers, ...c }) => ({ ...c, book_id: bookId.get(bookRef)!, updated_at: now })),
+        { onConflict: 'book_id,slug' },
+      ),
+      'write chapters',
+    )
+  }
+  const bookRefOf = new Map([...bookId.entries()].map(([ref, id]) => [id, ref]))
+  const chapterId = new Map(
+    (await selectAll((f, t) => db.from('book_chapters').select('id, book_id, slug').order('id').range(f, t), 'read chapters')).map((c) => [
+      `${bookRefOf.get(c.book_id)}/${c.slug}`,
+      c.id,
+    ]),
+  )
+  for (const c of chapterRows) {
+    const id = chapterId.get(chapterKey(c))!
+    const [courseSlug] = splitRef(c.bookRef)
+    must(await db.from('chapter_topics').delete().eq('chapter_id', id), 'clear chapter tags')
+    if (c.covers.length) {
+      must(
+        await db.from('chapter_topics').insert(c.covers.map((p) => ({ chapter_id: id, topic_id: topicId.get(`${courseSlug}/${p}`)! }))),
+        'write chapter tags',
+      )
+    }
+  }
 
   // Categories
   const categoryRows = [...categoryPlan.create, ...categoryPlan.update]
@@ -397,10 +517,10 @@ export async function pushContent(
   if (lessonRows.length) {
     must(
       await db.from('lessons').upsert(
-        lessonRows.map(({ subjectSlug, topicSlug, ...l }) => ({
+        lessonRows.map(({ subjectSlug, topicPath, ...l }) => ({
           ...l,
-          topic_id: topicId.get(`${subjectSlug}/${topicSlug}`)!,
-          published_at: lessonPublishedAt.get(lessonKey({ subjectSlug, topicSlug, ...l })) ?? (l.published ? now : null),
+          topic_id: topicId.get(`${subjectSlug}/${topicPath}`)!,
+          published_at: lessonPublishedAt.get(lessonKey({ subjectSlug, topicPath, ...l })) ?? (l.published ? now : null),
           updated_at: now,
         })),
         { onConflict: 'topic_id,slug' },
@@ -419,6 +539,7 @@ export async function pushContent(
           topic_id: q.topicRef ? topicId.get(q.topicRef)! : null,
           ca_month_id: q.caMonthRef ? monthId.get(q.caMonthRef)! : null,
           ca_category_slug: q.categorySlug,
+          chapter_id: q.chapterRef ? chapterId.get(q.chapterRef)! : null,
           retired: false,
           stem_md: q.stem_md,
           options: q.options as unknown as Json[],
@@ -458,6 +579,7 @@ export async function pushContent(
             published: t.published,
             published_at: testPublishedAt.get(t.slug) ?? (t.published ? now : null),
             ca_month_id: t.caMonthRef ? monthId.get(t.caMonthRef)! : null,
+            chapter_id: t.chapterRef ? chapterId.get(t.chapterRef)! : null,
             updated_at: now,
           })),
           { onConflict: 'slug' },
@@ -484,12 +606,15 @@ export async function pushContent(
   }
   for (const l of prune.lessons) {
     must(
-      await db.from('lessons').update({ published: false }).eq('topic_id', topicId.get(`${l.subjectSlug}/${l.topicSlug}`)!).eq('slug', l.slug),
+      await db.from('lessons').update({ published: false }).eq('topic_id', topicId.get(`${l.subjectSlug}/${l.topicPath}`)!).eq('slug', l.slug),
       'unpublish lessons',
     )
   }
   if (prune.tests.length) {
     must(await db.from('tests').update({ published: false }).in('slug', prune.tests.map((t) => t.slug)), 'unpublish tests')
+  }
+  for (const b of prune.books) {
+    must(await db.from('books').update({ published: false }).eq('id', bookId.get(bookKey(b))!), 'unpublish books')
   }
   for (const m of prune.months) {
     must(await db.from('ca_months').update({ published: false }).eq('id', monthId.get(monthKey(m))!), 'unpublish months')
