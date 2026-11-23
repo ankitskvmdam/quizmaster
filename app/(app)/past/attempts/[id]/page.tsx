@@ -12,6 +12,8 @@ import { EmptyState } from '@/components/empty-state'
 import { ModeBadge } from '@/components/tests/attempt-list'
 import { ReviewQuestion } from '@/components/review/review-question'
 import { cn } from '@/lib/utils'
+import { localizeReview } from '@/lib/lang'
+import { getContentLang } from '@/lib/queries/user'
 
 export const metadata: Metadata = { title: 'Review' }
 
@@ -33,7 +35,7 @@ export default async function ReviewPage({ params, searchParams }: PageProps<'/p
     if (error.code === 'P0001') notFound()
     throw new Error('Could not load this review')
   }
-  const { attempt, test, questions } = data as unknown as ReviewPayload
+  const { attempt, test, questions } = localizeReview(await getContentLang(), data as unknown as ReviewPayload)
   const filter = (FILTERS.find((f) => f.value === sp.filter)?.value ?? 'all') as ReviewFilter
   const shown = filterReview(questions, filter)
   const answered = attempt.n_correct + attempt.n_wrong

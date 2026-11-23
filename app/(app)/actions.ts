@@ -5,6 +5,7 @@ import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { parseBuilder } from '@/lib/builder'
 import { isMonthKey, monthToDate } from '@/lib/periods'
+import { parseContentLang } from '@/lib/lang'
 
 export type ActionResult = { error: string } | undefined
 
@@ -127,5 +128,16 @@ export async function markChapterRead(chapterId: string, read: boolean): Promise
     ? await supabase.from('chapter_progress').upsert({ chapter_id: chapterId }, { onConflict: 'user_id,chapter_id', ignoreDuplicates: true })
     : await supabase.from('chapter_progress').delete().eq('chapter_id', chapterId)
   if (error) return { error: 'Could not save your progress. Try again.' }
+  revalidatePath('/', 'layout')
+}
+
+/** Show content in Hindi or English from now on (English is always the fallback for untranslated text). */
+export async function setContentLang(lang: string): Promise<ActionResult> {
+  const supabase = await createClient()
+  const { data } = await supabase.auth.getClaims()
+  const id = data?.claims?.sub
+  if (!id) return { error: 'Sign in again to change this.' }
+  const { error } = await supabase.from('profiles').update({ content_lang: parseContentLang(lang) }).eq('id', id)
+  if (error) return { error: message(error) }
   revalidatePath('/', 'layout')
 }

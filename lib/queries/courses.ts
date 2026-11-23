@@ -3,6 +3,8 @@ import { cache } from 'react'
 import { createClient } from '@/lib/supabase/server'
 import { selectAll } from '@/lib/content/select-all'
 import { buildTree, type Tree } from '@/lib/courses/tree'
+import { pick } from '@/lib/lang'
+import { getContentLang } from './user'
 
 function fail(what: string, error: { message: string } | null): never {
   throw new Error(`Could not load ${what}${error ? `: ${error.message}` : ''}`)
@@ -12,16 +14,16 @@ export type CourseCard = { slug: string; name: string; description: string; subj
 
 /** Every published course (the `subjects` table holds courses). */
 export async function listCourses(): Promise<CourseCard[]> {
-  const supabase = await createClient()
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
   const { data, error } = await supabase
     .from('subjects')
-    .select('slug, name, description, topics(id, parent_id, lessons(id), books(id))')
+    .select('slug, name, description, name_hi, description_hi, topics(id, parent_id, lessons(id), books(id))')
     .order('position')
   if (error) fail('courses', error)
   return data.map((c) => ({
     slug: c.slug,
-    name: c.name,
-    description: c.description,
+    name: pick(lang, c.name, c.name_hi),
+    description: pick(lang, c.description, c.description_hi),
     subjectCount: c.topics.filter((t) => t.parent_id === null).length,
     lessonCount: c.topics.reduce((n, t) => n + t.lessons.length, 0),
     bookCount: c.topics.reduce((n, t) => n + t.books.length, 0),
@@ -32,22 +34,26 @@ export type Course = { id: string; slug: string; name: string; description: stri
 
 /** A course and its whole syllabus tree with the signed-in person's progress. Cached per request. */
 export const getCourse = cache(async (courseSlug: string): Promise<Course | null> => {
-  const supabase = await createClient()
-  const { data: course, error } = await supabase.from('subjects').select('id, slug, name, description').eq('slug', courseSlug).maybeSingle()
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
+  const { data: course, error } = await supabase
+    .from('subjects')
+    .select('id, slug, name, description, name_hi, description_hi')
+    .eq('slug', courseSlug)
+    .maybeSingle()
   if (error) fail('course', error)
   if (!course) return null
 
   const [topics, lessons, done, books] = await Promise.all([
     selectAll(
       (f, t) =>
-        supabase.from('topics').select('id, parent_id, path, slug, name, description, position').eq('subject_id', course.id).order('id').range(f, t),
+        supabase.from('topics').select('id, parent_id, path, slug, name, description, position, name_hi, description_hi').eq('subject_id', course.id).order('id').range(f, t),
       'read topics',
     ),
     selectAll(
       (f, t) =>
         supabase
           .from('lessons')
-          .select('id, topic_id, slug, title, position, topics!inner(subject_id)')
+          .select('id, topic_id, slug, title, title_hi, position, topics!inner(subject_id)')
           .eq('topics.subject_id', course.id)
           .order('id')
           .range(f, t),
@@ -58,7 +64,7 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       (f, t) =>
         supabase
           .from('books')
-          .select('id, topic_id, slug, title, author, edition, description, position, topics!inner(subject_id)')
+          .select('id, topic_id, slug, title, title_hi, author, edition, description, description_hi, position, topics!inner(subject_id)')
           .eq('topics.subject_id', course.id)
           .order('id')
           .range(f, t),
@@ -69,7 +75,7 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
   const topicIds = topics.map((t) => t.id)
   const [chapters, tags, read, topicQuestions, chapterQuestions] = await Promise.all([
     bookIds.length
-      ? selectAll((f, t) => supabase.from('book_chapters').select('id, book_id, slug, number, title').in('book_id', bookIds).order('id').range(f, t), 'read chapters')
+      ? selectAll((f, t) => supabase.from('book_chapters').select('id, book_id, slug, number, title, title_hi').in('book_id', bookIds).order('id').range(f, t), 'read chapters')
       : [],
     bookIds.length
       ? selectAll(
@@ -103,8 +109,16 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
   const doneIds = new Set(done.map((d) => d.lesson_id))
   const readIds = new Set(read.map((r) => r.chapter_id))
   const tree = buildTree({
-    topics: topics.map((t) => ({ id: t.id, parentId: t.parent_id, path: t.path, slug: t.slug, name: t.name, description: t.description, position: t.position })),
-    lessons: lessons.map((l) => ({ id: l.id, topicId: l.topic_id, slug: l.slug, title: l.title, position: l.position, done: doneIds.has(l.id) })),
+    topics: topics.map((t) => ({
+      id: t.id,
+      parentId: t.parent_id,
+      path: t.path,
+      slug: t.slug,
+      name: pick(lang, t.name, t.name_hi),
+      description: pick(lang, t.description, t.description_hi),
+      position: t.position,
+    })),
+    lessons: lessons.map((l) => ({ id: l.id, topicId: l.topic_id, slug: l.slug, title: pick(lang, l.title, l.title_hi), position: l.position, done: doneIds.has(l.id) })),
     questions: [
       ...topicQuestions.map((q) => ({ topicId: q.topic_id, chapterId: null })),
       ...chapterQuestions.map((q) => ({ topicId: null, chapterId: q.chapter_id })),
@@ -113,10 +127,10 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       id: b.id,
       topicId: b.topic_id,
       slug: b.slug,
-      title: b.title,
+      title: pick(lang, b.title, b.title_hi),
       author: b.author,
       edition: b.edition,
-      description: b.description,
+      description: pick(lang, b.description, b.description_hi),
       position: b.position,
     })),
     chapters: chapters.map((c) => ({
@@ -124,26 +138,26 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       bookId: c.book_id,
       slug: c.slug,
       number: c.number,
-      title: c.title,
+      title: pick(lang, c.title, c.title_hi),
       read: readIds.has(c.id),
       coverIds: tags.filter((t) => t.chapter_id === c.id).map((t) => t.topic_id),
     })),
   })
-  return { id: course.id, slug: course.slug, name: course.name, description: course.description, tree }
+  return { id: course.id, slug: course.slug, name: pick(lang, course.name, course.name_hi), description: pick(lang, course.description, course.description_hi), tree }
 })
 
 export async function getLessonBody(lessonId: string) {
-  const supabase = await createClient()
-  const { data, error } = await supabase.from('lessons').select('id, title, body_md').eq('id', lessonId).single()
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
+  const { data, error } = await supabase.from('lessons').select('id, title, body_md, title_hi, body_md_hi').eq('id', lessonId).single()
   if (error) fail('lesson', error)
-  return data
+  return { id: data.id, title: pick(lang, data.title, data.title_hi), body_md: pick(lang, data.body_md, data.body_md_hi) }
 }
 
 /** A chapter's gist and its quiz (the kind='chapter' test) with the person's best score. */
 export async function getChapterDetail(chapterId: string) {
-  const supabase = await createClient()
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
   const [{ data: ch, error }, { data: quiz }] = await Promise.all([
-    supabase.from('book_chapters').select('id, title, gist_md').eq('id', chapterId).single(),
+    supabase.from('book_chapters').select('id, title, gist_md, title_hi, gist_md_hi').eq('id', chapterId).single(),
     supabase.from('tests').select('id, test_questions(count)').eq('chapter_id', chapterId).eq('kind', 'chapter').maybeSingle(),
   ])
   if (error) fail('chapter', error)
@@ -154,7 +168,9 @@ export async function getChapterDetail(chapterId: string) {
     bestScore = scores.length ? Math.max(...scores) : null
   }
   return {
-    ...ch,
+    id: ch.id,
+    title: pick(lang, ch.title, ch.title_hi),
+    gist_md: pick(lang, ch.gist_md, ch.gist_md_hi),
     quiz: quiz ? { testId: quiz.id, questionCount: quiz.test_questions[0]?.count ?? 0, bestScore } : null,
   }
 }

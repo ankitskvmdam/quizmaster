@@ -1,13 +1,17 @@
 'use client'
 
 import { useState, useTransition } from 'react'
-import { LogOut } from 'lucide-react'
+import { Languages, LogOut } from 'lucide-react'
+import { setContentLang } from '@/app/(app)/actions'
+import { CONTENT_LANGS, type ContentLang } from '@/lib/lang'
 import { signOut } from '@/app/(auth)/actions'
 import {
   DropdownMenu,
   DropdownMenuContent,
   DropdownMenuItem,
   DropdownMenuLabel,
+  DropdownMenuRadioGroup,
+  DropdownMenuRadioItem,
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from '@/components/ui/dropdown-menu'
@@ -19,10 +23,26 @@ export function initials(name: string) {
   return letters.toUpperCase()
 }
 
-/** The user's initials in the header: who is signed in, and sign out. */
-export function AccountMenu({ displayName, email }: { displayName: string; email: string }) {
+/** The user's initials in the header: who is signed in, the content language, and sign out. */
+export function AccountMenu({ displayName, email, contentLang }: { displayName: string; email: string; contentLang: ContentLang }) {
   const [confirming, setConfirming] = useState(false)
   const [pending, start] = useTransition()
+  const [lang, setLang] = useState(contentLang)
+  const [switching, startSwitch] = useTransition()
+  const [langError, setLangError] = useState<string | null>(null)
+
+  const chooseLang = (value: string) => {
+    const previous = lang
+    setLang(value as ContentLang)
+    setLangError(null)
+    startSwitch(async () => {
+      const r = await setContentLang(value)
+      if (r?.error) {
+        setLang(previous)
+        setLangError(r.error)
+      }
+    })
+  }
 
   return (
     <>
@@ -38,6 +58,23 @@ export function AccountMenu({ displayName, email }: { displayName: string; email
             <span className="text-sm font-semibold">{displayName}</span>
             <span className="truncate text-[13px] text-muted-foreground">{email}</span>
           </DropdownMenuLabel>
+          <DropdownMenuSeparator />
+          <DropdownMenuLabel className="flex items-center gap-2 text-[13px] font-normal text-muted-foreground">
+            <Languages className="size-4" aria-hidden />
+            Content language
+          </DropdownMenuLabel>
+          <DropdownMenuRadioGroup value={lang} onValueChange={chooseLang}>
+            {CONTENT_LANGS.map((l) => (
+              <DropdownMenuRadioItem key={l.value} value={l.value} disabled={switching} onSelect={(e) => e.preventDefault()}>
+                {l.label}
+              </DropdownMenuRadioItem>
+            ))}
+          </DropdownMenuRadioGroup>
+          {langError && (
+            <p role="alert" className="px-2 py-1 text-[13px] text-wrong-fg">
+              {langError}
+            </p>
+          )}
           <DropdownMenuSeparator />
           <DropdownMenuItem onSelect={() => setConfirming(true)}>
             <LogOut aria-hidden />

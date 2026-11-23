@@ -1,14 +1,16 @@
 /** Mirrors the JSON returned by the get_attempt database function (0002_attempts.sql). */
 export type Option = { key: string; text_md: string }
 
-export type QuestionResult = { is_correct: boolean; correct_key: string; explanation_md: string }
+export type QuestionResult = { is_correct: boolean; correct_key: string; explanation_md: string; explanation_md_hi?: string | null }
 
 export type AttemptQuestion = {
   id: string
   position: number
   topic_name: string
   stem_md: string
+  stem_md_hi?: string | null
   options: Option[]
+  options_hi?: unknown
   selected_key: string | null
   marked: boolean
   result: QuestionResult | null
@@ -26,6 +28,7 @@ export type AttemptPayload = {
   test: {
     id: string
     title: string
+    title_hi?: string | null
     kind: 'mock' | 'pyq' | 'custom'
     duration_sec: number | null
     marks_correct: number
@@ -40,11 +43,14 @@ export type ReviewQuestion = {
   position: number
   topic_name: string
   stem_md: string
+  stem_md_hi?: string | null
   options: Option[]
+  options_hi?: unknown
   selected_key: string | null
   marked: boolean
   correct_key: string
   explanation_md: string
+  explanation_md_hi?: string | null
   is_correct: boolean
 }
 

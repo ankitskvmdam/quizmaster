@@ -4,9 +4,10 @@ import { ThemeSwitcher } from '@/components/theme-switcher'
 import { AppMark } from './app-mark'
 import { AccountMenu } from './account-menu'
 import { BottomDock } from './bottom-dock'
+import type { ContentLang } from '@/lib/lang'
 
 /** Header + centred content + the bottom dock. */
-export function AppShell({ user, children }: { user: { displayName: string; email: string }; children: ReactNode }) {
+export function AppShell({ user, children }: { user: { displayName: string; email: string; contentLang: ContentLang }; children: ReactNode }) {
   return (
     <div className="isolate min-h-dvh">
       <GlowBackdrop />
@@ -14,7 +15,7 @@ export function AppShell({ user, children }: { user: { displayName: string; emai
         <AppMark compact />
         <div className="flex items-center gap-2">
           <ThemeSwitcher />
-          <AccountMenu displayName={user.displayName} email={user.email} />
+          <AccountMenu displayName={user.displayName} email={user.email} contentLang={user.contentLang} />
         </div>
       </header>
       <main className="mx-auto max-w-[72rem] px-4 pt-2 pb-32 sm:px-6">{children}</main>
