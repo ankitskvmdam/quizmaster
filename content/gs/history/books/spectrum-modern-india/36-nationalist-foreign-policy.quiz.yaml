@@ -1,0 +1,349 @@
+# Chapter 36 — The Evolution of Nationalist Foreign Policy (book pp. 619-627)
+# ---------- EASY ----------
+- slug: smi-36-e01
+  difficulty: easy
+  stem: "At the time of independence, India was a member of how many international organisations?"
+  options: { A: "600", B: "51", C: "36", D: "29" }
+  answer: B
+  explanation: "At independence India was a member of 51 international organisations and a signatory to about 600 treaties."
+  source: "Spectrum (2019-20), p. 619"
+  tags: [ssc]
+
+- slug: smi-36-e02
+  difficulty: easy
+  stem: "Which Congress president of 1897 said, 'Our true policy is a peaceful policy'?"
+  options: { A: "Dadabhai Naoroji", B: "Lajpat Rai", C: "C. Sankaran Nair", D: "Jawaharlal Nehru" }
+  answer: C
+  explanation: "Opposing aggressive imperialism, C. Sankaran Nair, Congress president in 1897, said this."
+  source: "Spectrum (2019-20), p. 620"
+  tags: [ssc]
+
+- slug: smi-36-e03
+  difficulty: easy
+  stem: "On which date was Panchsheel first formally enunciated, in the Agreement on Trade and Intercourse between the Tibet region of China and India?"
+  options: { A: "June 18, 1954", B: "December 31, 1953", C: "April 1955", D: "April 29, 1954" }
+  answer: D
+  explanation: "Panchsheel was first formally enunciated on April 29, 1954, in the preamble to the India–Tibet region trade agreement."
+  source: "Spectrum (2019-20), p. 623"
+  tags: [ssc]
+
+- slug: smi-36-e04
+  difficulty: easy
+  stem: "The first Non-Aligned Movement (NAM) summit was held in 1961 at"
+  options: { A: "Belgrade", B: "Bandung", C: "Brussels", D: "New Delhi" }
+  answer: A
+  explanation: "The first NAM summit, the conference of non-aligned powers, was held in Belgrade in 1961."
+  source: "Spectrum (2019-20), p. 627"
+  tags: [ssc]
+
+- slug: smi-36-e05
+  difficulty: easy
+  stem: "In 1927, Jawaharlal Nehru attended the Congress of Oppressed Nationalities on behalf of the Indian National Congress at"
+  options: { A: "The Hague", B: "Brussels", C: "Belgrade", D: "Washington" }
+  answer: B
+  explanation: "Nehru attended the Congress of Oppressed Nationalities at Brussels in 1927 on behalf of the INC."
+  source: "Spectrum (2019-20), p. 621"
+  tags: [ssc]
+
+- slug: smi-36-e06
+  difficulty: easy
+  stem: "The Indian National Congress sent a medical mission to China under"
+  options: { A: "T.N. Kaul", B: "C. Sankaran Nair", C: "Dr Atal", D: "Lajpat Rai", E: "More than one of the above" }
+  answer: C
+  explanation: "Alongside condemning the Japanese attack on China in 1939, the Congress sent a medical mission under Dr Atal to China."
+  source: "Spectrum (2019-20), p. 622"
+  tags: [bpsc]
+
+- slug: smi-36-e07
+  difficulty: easy
+  stem: "According to the book, the term 'non-alignment' gained currency after which conference?"
+  options: { A: "Belgrade Conference", B: "Brussels Congress of Oppressed Nationalities", C: "Washington Conference on Naval Armaments", D: "Bandung Conference" }
+  answer: D
+  explanation: "The term 'non-alignment' got currency in the post-Bandung Conference (1955) period."
+  source: "Spectrum (2019-20), p. 626"
+  tags: [ssc]
+
+- slug: smi-36-e08
+  difficulty: easy
+  stem: "Which Chinese premier visited India in June 1954 and, with Nehru, elaborated Panchsheel in a joint statement?"
+  options: { A: "Zhou Enlai", B: "Sukarno", C: "Sun Yat-sen", D: "Tito" }
+  answer: A
+  explanation: "Chinese premier Zhou Enlai visited India in June 1954 and issued a joint statement with Nehru on Panchsheel."
+  source: "Spectrum (2019-20), p. 623"
+  tags: [ssc]
+
+- slug: smi-36-e09
+  difficulty: easy
+  stem: "From which year was there an Indian high commissioner in London?"
+  options: { A: "1885", B: "1920", C: "1919", D: "1947" }
+  answer: B
+  explanation: "The book notes that from 1920 there was an Indian high commissioner in London."
+  source: "Spectrum (2019-20), p. 619"
+  tags: [ssc]
+
+- slug: smi-36-e10
+  difficulty: easy
+  stem: "At which session in 1939 did the Congress dissociate itself from the British policy that supported fascism in Europe?"
+  options: { A: "Lucknow", B: "Haripura", C: "Lahore", D: "Tripuri", E: "More than one of the above" }
+  answer: D
+  explanation: "In 1939, at the Tripuri session, the Congress dissociated itself from the British policy which supported fascism in Europe."
+  source: "Spectrum (2019-20), p. 622"
+  tags: [bpsc]
+
+# ---------- MEDIUM ----------
+- slug: smi-36-m01
+  difficulty: medium
+  stem: |
+    Arrange the following British expeditions, opposed by the nationalists, in chronological order:
+
+    1. Annexation of Burma
+    2. Invasion of Tibet under Curzon
+    3. Second Afghan War
+    4. Dispatch of troops to suppress Col. Arabi's uprising in Egypt
+
+    Select the correct answer using the codes given below:
+  options: { A: "3-4-1-2", B: "4-3-1-2", C: "3-1-4-2", D: "4-3-2-1", E: "None of the above" }
+  answer: A
+  explanation: "Second Afghan War (1878-80), troops to Egypt (1882), annexation of Burma (1885), invasion of Tibet (1903)."
+  source: "Spectrum (2019-20), p. 620"
+  tags: [bpsc]
+
+- slug: smi-36-m02
+  difficulty: medium
+  stem: |
+    Match List I (pioneering leader of NAM) with List II (country):
+
+    | List I | List II |
+    |---|---|
+    | a. Josip Broz Tito | 1. Ghana |
+    | b. Gamal Abdel Nasser | 2. Indonesia |
+    | c. Sukarno | 3. Egypt |
+    | d. Kwame Nkrumah | 4. Yugoslavia |
+  options: { A: "a-4, b-2, c-3, d-1", B: "a-3, b-4, c-2, d-1", C: "a-4, b-3, c-2, d-1", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: C
+  explanation: "Tito — Yugoslavia, Nasser — Egypt, Sukarno — Indonesia, Nkrumah — Ghana; with Nehru they are the five pioneers of NAM."
+  source: "Spectrum (2019-20), p. 626"
+  tags: [bpsc]
+
+- slug: smi-36-m03
+  difficulty: medium
+  stem: "The UN General Assembly resolution on peaceful co-existence, adopted unanimously on December 11, 1957, was presented by India, Yugoslavia and"
+  options: { A: "Egypt", B: "Indonesia", C: "Ghana", D: "Sweden" }
+  answer: D
+  explanation: "The tenets of Panchsheel were incorporated in a resolution presented by India, Yugoslavia and Sweden."
+  source: "Spectrum (2019-20), p. 625"
+  tags: [ssc]
+
+- slug: smi-36-m04
+  difficulty: medium
+  stem: "How many Afro-Asian countries took part in the Bandung Conference of April 1955?"
+  options: { A: "36", B: "29", C: "51", D: "25" }
+  answer: B
+  explanation: "The Declaration of the April 1955 Bandung Conference of 29 Afro-Asian countries incorporated Panchsheel in its Ten Principles."
+  source: "Spectrum (2019-20), p. 625"
+  tags: [ssc]
+
+- slug: smi-36-m05
+  difficulty: medium
+  stem: "The famous socialist H.M. Hyndman was a close friend of"
+  options: { A: "Dadabhai Naoroji", B: "Lajpat Rai", C: "Jawaharlal Nehru", D: "Mahatma Gandhi" }
+  answer: A
+  explanation: "Dadabhai Naoroji, who attended the Hague session of the International Socialist Congress, was a close friend of H.M. Hyndman."
+  source: "Spectrum (2019-20), p. 621"
+  tags: [ssc]
+
+- slug: smi-36-m06
+  difficulty: medium
+  stem: "In 1925, the Congress condemned the dispatch of the Indian Army to suppress the Chinese nationalist army under"
+  options: { A: "Col. Arabi", B: "Zhou Enlai", C: "Sun Yat-sen", D: "Sukarno" }
+  answer: C
+  explanation: "In 1925 the Congress condemned the sending of the Indian Army against the Chinese nationalist army under Sun Yat-sen."
+  source: "Spectrum (2019-20), p. 621"
+  tags: [ssc]
+
+- slug: smi-36-m07
+  difficulty: medium
+  stem: "Which of the following is NOT one of the five principles of Panchsheel?"
+  options: { A: "Mutual non-aggression", B: "Non-alignment with power blocs", C: "Equality and mutual benefit", D: "Peaceful co-existence" }
+  answer: B
+  explanation: "The five principles are mutual respect for territorial integrity and sovereignty, mutual non-aggression, mutual non-interference, equality and mutual benefit, and peaceful co-existence."
+  source: "Spectrum (2019-20), p. 623"
+  tags: [ssc]
+
+- slug: smi-36-m08
+  difficulty: medium
+  stem: "According to the boxed 'Historical Perspective on Panchsheel', who first enunciated the five principles, on December 31, 1953, while receiving the Indian delegation to the Tibetan trade talks?"
+  options: { A: "Jawaharlal Nehru", B: "T.N. Kaul", C: "Sukarno", D: "Zhou Enlai", E: "More than one of the above" }
+  answer: D
+  explanation: "The article says the credit should go to Zhou, who enunciated them on December 31, 1953; Kaul picked them up and Nehru propagated them."
+  source: "Spectrum (2019-20), p. 624"
+  tags: [bpsc]
+
+- slug: smi-36-m09
+  difficulty: medium
+  stem: "In 1921-22, India participated in the"
+  options: { A: "Washington Conference on Naval Armaments", B: "Bandung Conference", C: "Congress of Oppressed Nationalities", D: "Hague session of the International Socialist Congress" }
+  answer: A
+  explanation: "The book lists India's participation in the Washington Conference on Naval Armaments in 1921-22 among its pre-independence diplomatic engagements."
+  source: "Spectrum (2019-20), p. 619"
+  tags: [ssc]
+
+- slug: smi-36-m10
+  difficulty: medium
+  stem: "Nehru laid the foundations of India's foreign policy in his address to the Constituent Assembly on"
+  options: { A: "August 15, 1947", B: "January 26, 1950", C: "December 4, 1947", D: "April 29, 1954" }
+  answer: C
+  explanation: "In his address to the Constituent Assembly on December 4, 1947, Nehru laid the foundations of India's foreign policy."
+  source: "Spectrum (2019-20), p. 622"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-36-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Congress stand on the Palestine issue:
+
+    1. The Congress lent support to the Palestinians.
+    2. It expressed sympathy with the Jews.
+    3. It supported the partition of Palestine as the only practical solution.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The Congress supported the Palestinians and sympathised with the Jews, but opposed partition and wanted direct Jewish-Arab settlement without Western intervention."
+  source: "Spectrum (2019-20), p. 622"
+  tags: [bpsc]
+
+- slug: smi-36-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Congress of Oppressed Nationalities, Brussels (1927):
+
+    1. It was organised by political exiles and revolutionaries from Asia, Africa and Latin America.
+    2. Nehru attended it in his personal capacity and not on behalf of the Indian National Congress.
+    3. Nehru was one of its honorary presidents, along with Einstein and George Lansbury among others.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Nehru attended on behalf of the Indian National Congress; statements 1 and 3 are stated in the book."
+  source: "Spectrum (2019-20), p. 621"
+  tags: [bpsc]
+
+- slug: smi-36-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the five criteria of non-alignment laid down by the Preparatory Committee of the first non-aligned conference:
+
+    1. A country should not be a member of multilateral military alliances concluded in the context of super-power conflicts.
+    2. A country that has conceded military bases to a foreign power can never qualify as non-aligned.
+    3. A country should not be a member of any bilateral or regional defence arrangement.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Military bases and bilateral/regional defence arrangements were allowed provided they were not in the context of super-power conflicts or politics."
+  source: "Spectrum (2019-20), p. 626"
+  tags: [bpsc]
+
+- slug: smi-36-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about India's international engagement before independence:
+
+    1. India signed the Versailles Treaty, largely as a result of having contributed more than a million soldiers to the First World War.
+    2. In the 1920s, India was a founding member of the League of Nations and the International Labour Organisation.
+    3. At independence, India was a signatory to some 600 treaties.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated on p. 619 as evidence of India's diplomatic engagement under colonial rule."
+  source: "Spectrum (2019-20), p. 619"
+  tags: [bpsc]
+
+- slug: smi-36-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the pan-Asian feeling among nationalists during 1880-1914:
+
+    1. Japan was an inspiration as an example of industrial development.
+    2. The nationalists welcomed Japan's participation in the international suppression of the I-Ho-Tuan uprising.
+    3. The defeat of Czarist Russia by Japan exploded the myth of European superiority.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The nationalists condemned, not welcomed, Japan's participation in suppressing the I-Ho-Tuan uprising."
+  source: "Spectrum (2019-20), pp. 620-621"
+  tags: [bpsc]
+
+- slug: smi-36-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements based on the boxed 'Historical Perspective on Panchsheel':
+
+    1. T.N. Kaul, then in the external affairs ministry, took the initiative to mention the principles at the outset of his draft text of the agreement.
+    2. As a compromise, Zhou suggested the five principles could appear in the preamble rather than prominently in the main text.
+    3. In the classical language, the word 'sheel' means 'principle'.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The box says that in classical usage 'sheel' means 'character', not 'principle'; the term was taken from Indonesian usage."
+  source: "Spectrum (2019-20), p. 624"
+  tags: [bpsc]
+
+- slug: smi-36-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the global situation India faced after independence, as described in the book:
+
+    1. The USSR followed the US with its own nuclear test in 1949.
+    2. China was aligned with the Soviet Union till the mid-fifties.
+    3. It was the Soviet Union that tried hardest to incorporate the newly independent countries into its strategic grouping.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The Soviet Union then lacked the economic or military capability to influence the new nations; it was the West that tried to bring them into its strategic grouping."
+  source: "Spectrum (2019-20), pp. 625-626"
+  tags: [bpsc]
+
+- slug: smi-36-h08
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Non-alignment is not to be confused with neutrality.
+
+    **Reason (R):** A neutral state remains passive and has no opinions on issues, whereas non-alignment involves positive and constructive opinions on international issues, in war as well as peace.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book distinguishes the two exactly this way: neutrality is passivity, mainly in war, while non-alignment is active in both war and peace."
+  source: "Spectrum (2019-20), p. 627"
+  tags: [bpsc]
+
+- slug: smi-36-h09
+  difficulty: hard
+  stem: |
+    Which of the following pairs are correctly matched, as per the book?
+
+    1. Dadabhai Naoroji — attended the Hague session of the International Socialist Congress
+    2. Lajpat Rai — contacts with American socialists during his visit to the USA (1914-1918)
+    3. Mahatma Gandhi — close relations with Tolstoy and Romain Rolland
+    4. C. Sankaran Nair — attended the Congress of Oppressed Nationalities at Brussels on behalf of the INC
+
+    Select the correct answer using the codes given below:
+  options: { A: "1 and 2 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: B
+  explanation: "It was Jawaharlal Nehru who attended the Brussels congress (1927) on behalf of the INC; the other three pairs are stated in the book."
+  source: "Spectrum (2019-20), pp. 621-622"
+  tags: [bpsc]
+
+- slug: smi-36-h10
+  difficulty: hard
+  stem: "On which date did Nehru and Zhou Enlai issue their joint statement in Delhi that brought Panchsheel to world attention?"
+  options: { A: "June 18, 1954", B: "April 29, 1954", C: "December 31, 1953", D: "December 11, 1957" }
+  answer: A
+  explanation: "Panchsheel first received world attention when Nehru and Zhou issued a joint statement in Delhi on June 18, 1954."
+  source: "Spectrum (2019-20), p. 624"
+  tags: [ssc]

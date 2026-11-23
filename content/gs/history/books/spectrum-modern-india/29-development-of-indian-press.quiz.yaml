@@ -1,0 +1,335 @@
+# Chapter 29 — Development of Indian Press (book pp. 557-562)
+# ---------- EASY ----------
+- slug: smi-29-e01
+  difficulty: easy
+  stem: "Who earned the epithet 'liberator of the Indian press'?"
+  options: { A: "Lord Wellesley", B: "Lord Hastings", C: "Metcalfe", D: "Lord Ripon" }
+  answer: C
+  explanation: "Metcalfe (governor-general 1835-36) repealed the 1823 ordinance through the Press Act of 1835 and was called the 'liberator of the Indian press'."
+  source: "Spectrum (2019-20), p. 558"
+  tags: [ssc]
+
+- slug: smi-29-e02
+  difficulty: easy
+  stem: "The Censorship of Press Act, 1799 was enacted by"
+  options: { A: "Lord Wellesley", B: "Lord Cornwallis", C: "Lord Hastings", D: "John Adams" }
+  answer: A
+  explanation: "Lord Wellesley enacted the Censorship of Press Act, 1799, anticipating a French invasion of India."
+  source: "Spectrum (2019-20), p. 557"
+  tags: [ssc]
+
+- slug: smi-29-e03
+  difficulty: easy
+  stem: "The Vernacular Press Act was repealed in 1882 by"
+  options: { A: "Lord Lytton", B: "Lord Ripon", C: "Lord Dufferin", D: "Lord Curzon" }
+  answer: B
+  explanation: "There was strong opposition to the Vernacular Press Act and Ripon finally repealed it in 1882."
+  source: "Spectrum (2019-20), p. 560"
+  tags: [ssc]
+
+- slug: smi-29-e04
+  difficulty: easy
+  stem: "Which newspaper turned overnight into an English newspaper to escape the Vernacular Press Act?"
+  options: { A: "Som Prakash", B: "Bharat Mihir", C: "Dacca Prakash", D: "Amrita Bazar Patrika", E: "More than one of the above" }
+  answer: D
+  explanation: "The Amrita Bazar Patrika turned overnight into an English newspaper to escape the VPA; the other three faced proceedings under it."
+  source: "Spectrum (2019-20), p. 560"
+  tags: [bpsc]
+
+- slug: smi-29-e05
+  difficulty: easy
+  stem: "Tilak's newspaper 'Maharatta' was published in which language?"
+  options: { A: "Marathi", B: "English", C: "Hindi", D: "Gujarati" }
+  answer: B
+  explanation: "Tilak ran Kesari in Marathi and Maharatta in English."
+  source: "Spectrum (2019-20), p. 559"
+  tags: [ssc]
+
+- slug: smi-29-e06
+  difficulty: easy
+  stem: "As early as which year did Raja Rammohan Roy protest against a resolution restricting the freedom of the press?"
+  options: { A: "1799", B: "1818", C: "1835", D: "1824" }
+  answer: D
+  explanation: "The book states that as early as 1824, Raja Rammohan Roy protested against a resolution restricting press freedom."
+  source: "Spectrum (2019-20), p. 558"
+  tags: [ssc]
+
+- slug: smi-29-e07
+  difficulty: easy
+  stem: "The Vernacular Press Act, 1878 came to be nicknamed"
+  options: { A: "the gagging Act", B: "the Black Act", C: "the liberator Act", D: "the sedition Act" }
+  answer: A
+  explanation: "The VPA came to be nicknamed 'the gagging Act'."
+  source: "Spectrum (2019-20), p. 560"
+  tags: [ssc]
+
+- slug: smi-29-e08
+  difficulty: easy
+  stem: "The Licensing Regulations, 1823, which made starting or using a press without licence a penal offence, were enacted by acting governor-general"
+  options: { A: "Lord Hastings", B: "Charles Metcalfe", C: "John Adams", D: "Lord Wellesley", E: "More than one of the above" }
+  answer: C
+  explanation: "The acting governor-general John Adams, who had reactionary views, enacted the Licensing Regulations, 1823."
+  source: "Spectrum (2019-20), p. 557"
+  tags: [bpsc]
+
+- slug: smi-29-e09
+  difficulty: easy
+  stem: "The Press Committee on whose recommendation the Press Acts of 1908 and 1910 were repealed in 1921 was chaired by"
+  options: { A: "Tej Bahadur Sapru", B: "Motilal Nehru", C: "Surendranath Banerjea", D: "Gopal Krishna Gokhale" }
+  answer: A
+  explanation: "In 1921, on the recommendations of a Press Committee chaired by Tej Bahadur Sapru, the Press Acts of 1908 and 1910 were repealed."
+  source: "Spectrum (2019-20), p. 562"
+  tags: [ssc]
+
+- slug: smi-29-e10
+  difficulty: easy
+  stem: "Which newspaper of Raja Rammohan Roy had to stop publication because of the Licensing Regulations, 1823?"
+  options: { A: "Som Prakash", B: "Mirat-ul-Akbar", C: "Bengal Gazette", D: "Indian Mirror" }
+  answer: B
+  explanation: "The 1823 restrictions were directed chiefly against Indian-language papers, and Rammohan Roy's Mirat-ul-Akbar had to stop publication."
+  source: "Spectrum (2019-20), p. 557"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-29-m01
+  difficulty: medium
+  stem: |
+    Match List I (newspaper) with List II (person under whom it was run):
+
+    | List I | List II |
+    |---|---|
+    | a. Amrita Bazar Patrika | 1. G.P. Verma |
+    | b. Hindustan and Advocate | 2. N.N. Sen |
+    | c. Indian Mirror | 3. G. Subramaniya Aiyar |
+    | d. Swadesamitran | 4. Sisir Kumar Ghosh and Motilal Ghosh |
+  options: { A: "a-4, b-2, c-1, d-3", B: "a-3, b-1, c-2, d-4", C: "a-4, b-1, c-2, d-3", D: "a-1, b-4, c-3, d-2", E: "None of the above" }
+  answer: C
+  explanation: "Amrita Bazar Patrika was under Sisir Kumar and Motilal Ghosh, Hindustan and Advocate under G.P. Verma, Indian Mirror under N.N. Sen, and Swadesamitran (with The Hindu) under G. Subramaniya Aiyar."
+  source: "Spectrum (2019-20), pp. 558-559"
+  tags: [bpsc]
+
+- slug: smi-29-m02
+  difficulty: medium
+  stem: |
+    Arrange the following press laws in chronological order:
+
+    1. Registration Act
+    2. Licensing Regulations of John Adams
+    3. Vernacular Press Act
+    4. Metcalfe Act
+  options: { A: "2-4-1-3", B: "4-2-1-3", C: "2-4-3-1", D: "2-1-4-3" }
+  answer: A
+  explanation: "Licensing Regulations 1823, Metcalfe Act 1835, Registration Act 1867, Vernacular Press Act 1878."
+  source: "Spectrum (2019-20), pp. 557-559"
+  tags: [ssc]
+
+- slug: smi-29-m03
+  difficulty: medium
+  stem: "Which Act replaced Metcalfe's Act of 1835 and was regulatory rather than restrictive in nature?"
+  options: { A: "Licensing Act, 1857", B: "Registration Act, 1867", C: "Vernacular Press Act, 1878", D: "Indian Press Act, 1910", E: "None of the above" }
+  answer: B
+  explanation: "The Registration Act, 1867 replaced Metcalfe's Act; it required printer, publisher and place to be printed, and a copy given to local government within one month."
+  source: "Spectrum (2019-20), p. 558"
+  tags: [bpsc]
+
+- slug: smi-29-m04
+  difficulty: medium
+  stem: "Pre-censorship of the press was dispensed with in 1818 under"
+  options: { A: "Lord Wellesley", B: "John Adams", C: "Charles Metcalfe", D: "Lord Hastings" }
+  answer: D
+  explanation: "Wellesley's 1799 restrictions were relaxed under Lord Hastings, who had progressive views, and pre-censorship was dispensed with in 1818."
+  source: "Spectrum (2019-20), p. 557"
+  tags: [ssc]
+
+- slug: smi-29-m05
+  difficulty: medium
+  stem: "In 1898 the government amended Section 124A and added another section making it a criminal offence to bring the Government of India into contempt or to create hatred among different classes. That section was"
+  options: { A: "Section 124B", B: "Section 153A", C: "Section 144", D: "Section 295A", E: "None of the above" }
+  answer: B
+  explanation: "In 1898 Section 124A was amended and Section 153A added, which led to nation-wide protests."
+  source: "Spectrum (2019-20), p. 561"
+  tags: [bpsc]
+
+- slug: smi-29-m06
+  difficulty: medium
+  stem: "Tilak started the Ganapati festival and the Shivaji festival in which years respectively?"
+  options: { A: "1893 and 1896", B: "1896 and 1893", C: "1893 and 1897", D: "1895 and 1898" }
+  answer: A
+  explanation: "The Ganapati festivals started in 1893 and the Shivaji festivals in 1896."
+  source: "Spectrum (2019-20), p. 561"
+  tags: [ssc]
+
+- slug: smi-29-m07
+  difficulty: medium
+  stem: "Which Act, aimed against Extremist nationalist activity, empowered magistrates to confiscate press property publishing material likely to incite murder or acts of violence?"
+  options: { A: "Vernacular Press Act, 1878", B: "Indian Press Act, 1910", C: "Newspaper (Incitement to Offences) Act, 1908", D: "Indian Press (Emergency Powers) Act, 1931", E: "None of the above" }
+  answer: C
+  explanation: "The Newspaper (Incitement to Offences) Act, 1908 empowered magistrates to confiscate such press property."
+  source: "Spectrum (2019-20), p. 562"
+  tags: [bpsc]
+
+- slug: smi-29-m08
+  difficulty: medium
+  stem: "The Indian Press (Emergency Powers) Act, 1931 gave sweeping powers to provincial governments to suppress propaganda for the"
+  options: { A: "Non-Cooperation Movement", B: "Khilafat Movement", C: "Quit India Movement", D: "Civil Disobedience Movement" }
+  answer: D
+  explanation: "The 1931 Act targeted Civil Disobedience propaganda and was amplified in 1932 to cover all activities undermining government authority."
+  source: "Spectrum (2019-20), p. 562"
+  tags: [ssc]
+
+- slug: smi-29-m09
+  difficulty: medium
+  stem: "Rand, the chairman of the Plague Committee in Poona, was murdered by"
+  options: { A: "the Savarkar brothers", B: "the Ali brothers", C: "the Chapekar brothers", D: "the Natu brothers" }
+  answer: C
+  explanation: "Popular unrest against harsh plague measures resulted in the murder of the Plague Committee chairman by the Chapekar brothers."
+  source: "Spectrum (2019-20), p. 561"
+  tags: [ssc]
+
+- slug: smi-29-m10
+  difficulty: medium
+  stem: "According to the book, the newspapers 'Tribune' and 'Akbhar-i-am' belonged to which region?"
+  options: { A: "Punjab", B: "Bombay", C: "Bengal", D: "Madras", E: "More than one of the above" }
+  answer: A
+  explanation: "The book lists Tribune and Akbhar-i-am in Punjab; Indu Prakash, Dhyan Prakash and Kal in Bombay; and Som Prakash and Banganivasi in Bengal."
+  source: "Spectrum (2019-20), p. 559"
+  tags: [bpsc]
+
+# ---------- HARD ----------
+- slug: smi-29-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Vernacular Press Act, 1878:
+
+    1. The district magistrate could require the printer and publisher of a vernacular newspaper to enter into a bond and deposit security.
+    2. The magistrate's action could be challenged by appeal in the High Court.
+    3. A vernacular newspaper could get exemption from the Act by submitting proofs to a government censor.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The magistrate's action was final and no appeal could be made in a court of law; this was one of the Act's worst features. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 560"
+  tags: [bpsc]
+
+- slug: smi-29-h02
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Tilak was awarded rigorous imprisonment of eighteen months after the murder of Rand.
+
+    **Reason (R):** Tilak had published the poem 'Shivaji's Utterances' in Kesari and given a speech justifying Afzal Khan's killing by Shivaji, which the prosecution portrayed as incitement to kill British officials.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "Tilak was arrested on the basis of the poem and the Shivaji festival speech, held guilty and given eighteen months' rigorous imprisonment."
+  source: "Spectrum (2019-20), p. 561"
+  tags: [bpsc]
+
+- slug: smi-29-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about Bal Gangadhar Tilak:
+
+    1. In 1896 he organised an all-Maharashtra campaign for boycott of foreign cloth in opposition to the excise duty on cotton.
+    2. In 1896-97 he initiated a no-tax campaign urging farmers to withhold revenue if their crop had failed.
+    3. He opposed the government's measures to check plague in Poona in 1897.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Tilak supported government measures to check plague; popular resentment was against harsh methods such as segregation and house searches. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 561"
+  tags: [bpsc]
+
+- slug: smi-29-h04
+  difficulty: hard
+  stem: "As described in the book, Section 124A of the Indian Penal Code provided that anyone trying to cause disaffection against the British Government was to be transported for life or for any term, or imprisoned for up to"
+  options: { A: "two years", B: "five years", C: "seven years", D: "three years" }
+  answer: D
+  explanation: "Section 124A provided for transportation for life or any term, or imprisonment up to three years."
+  source: "Spectrum (2019-20), p. 559"
+  tags: [ssc]
+
+- slug: smi-29-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indian Press Act, 1910:
+
+    1. It revived the worst features of the Vernacular Press Act.
+    2. The local government could demand security at registration from the printer/publisher and forfeit it or deregister an offending newspaper.
+    3. The printer of a newspaper had to submit two copies of each issue to the local government free of charge.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book's description of the Indian Press Act, 1910."
+  source: "Spectrum (2019-20), p. 562"
+  tags: [bpsc]
+
+- slug: smi-29-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** In 1883 Surendranath Banerjea became the first Indian journalist to be imprisoned.
+
+    **Reason (R):** In an angry editorial in The Bengalee he had criticised a judge of the Calcutta High Court for being insensitive to the religious sentiments of Bengalis in one of his judgements.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says Banerjea, the first Indian journalist to be imprisoned (1883), was jailed for this editorial in The Bengalee criticising a Calcutta High Court judge."
+  source: "Spectrum (2019-20), p. 560"
+  tags: [bpsc]
+
+- slug: smi-29-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. The Metcalfe Act of 1835 required a printer/publisher to give a precise account of the premises of a publication.
+    2. The Licensing Act of 1857 replaced the registration procedure laid down by the Metcalfe Act.
+    3. The Licensing Regulations of 1823 were directed chiefly against Indian-language newspapers or those edited by Indians.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The 1857 Licensing Act imposed licensing in addition to (not in place of) the Metcalfe Act's registration procedure. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 557-558"
+  tags: [bpsc]
+
+- slug: smi-29-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the nationalist press in the early phase of the national movement:
+
+    1. The Indian National Congress in its early days relied solely on the press to propagate its resolutions and proceedings.
+    2. The newspapers were established mainly as profit-making business ventures.
+    3. Writings hostile to the government were often prefaced with sentiments of loyalty, or quoted critical writings of socialists or Irish nationalists from English newspapers.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The newspapers were not profit-making ventures but were seen as rendering national and public service. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 558-559"
+  tags: [bpsc]
+
+- slug: smi-29-h09
+  difficulty: hard
+  stem: "Lenin hailed the strike by Bombay textile and railway workshop workers as 'the entrance of the Indian working class on the political stage'. The strike was in protest against"
+  options: { A: "the Vernacular Press Act", B: "Tilak's transportation to Mandalay", C: "the partition of Bengal", D: "the Indian Press Act, 1910" }
+  answer: B
+  explanation: "Tilak was tried for sedition and transported to Mandalay (Burma) for six years, which led to countrywide protests including the Bombay strikes hailed by Lenin."
+  source: "Spectrum (2019-20), p. 562"
+  tags: [ssc]
+
+- slug: smi-29-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. During the Second World War, pre-censorship was imposed under the Defence of India Rules.
+    2. The Indian Press (Emergency Powers) Act, 1931 was amplified in 1932 to include all activities calculated to undermine government authority.
+    3. The Defence of India Rules were first imposed during the Second World War.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Defence of India Rules were already imposed during the First World War to repress political agitation. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 562"
+  tags: [bpsc]

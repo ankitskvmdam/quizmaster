@@ -10,7 +10,7 @@ import { Badge } from '@/components/badge'
 export function MonthCard({ subjectSlug, m }: { subjectSlug: string; m: MonthSummary }) {
   const label = formatMonth(m.month)
   return (
-    <Link href={`/subjects/${subjectSlug}/current-affairs/${m.month}`} className="focus-ring group rounded-panel">
+    <Link href={`/courses/${subjectSlug}/current-affairs/${m.month}`} className="focus-ring group rounded-panel">
       <Panel className="flex h-full flex-col gap-3 transition-colors group-hover:border-primary/40">
         <div className="flex items-start justify-between gap-3">
           <div className="flex items-center gap-3">

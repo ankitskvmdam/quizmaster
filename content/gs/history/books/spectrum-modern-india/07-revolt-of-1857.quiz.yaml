@@ -1,0 +1,395 @@
+# Chapter 7 — The Revolt of 1857 (book pp. 167-187)
+# ---------- EASY ----------
+- slug: smi-07-e01
+  difficulty: easy
+  stem: "On which date did the Revolt of 1857 begin at Meerut?"
+  options: { A: "April 24, 1857", B: "May 10, 1857", C: "June 4, 1857", D: "May 9, 1857" }
+  answer: B
+  explanation: "The revolt began at Meerut, 58 km from Delhi, on May 10, 1857."
+  source: "Spectrum (2019-20), p. 172"
+  tags: [ssc]
+
+- slug: smi-07-e02
+  difficulty: easy
+  stem: "Kunwar Singh, who led the Revolt of 1857 in Bihar, was the zamindar of"
+  options: { A: "Arrah", B: "Dinapore", C: "Jagdishpur", D: "Benaras", E: "More than one of the above" }
+  answer: C
+  explanation: "In Bihar the revolt was led by Kunwar Singh, the zamindar of Jagdishpur."
+  source: "Spectrum (2019-20), p. 175"
+  tags: [bpsc]
+
+- slug: smi-07-e03
+  difficulty: easy
+  stem: "Mangal Pande, who fired at the sergeant major of his unit at Barrackpore, belonged to the"
+  options: { A: "19th Native Infantry", B: "3rd Native Cavalry", C: "7th Awadh Regiment", D: "34th Native Infantry" }
+  answer: D
+  explanation: "Mangal Pande was a young sepoy of the 34th Native Infantry; he was executed on April 8, 1857."
+  source: "Spectrum (2019-20), p. 172"
+  tags: [ssc]
+
+- slug: smi-07-e04
+  difficulty: easy
+  stem: "Who took over the leadership of the revolt at Lucknow?"
+  options: { A: "Begum Hazrat Mahal", B: "Rani Laxmibai", C: "Maulvi Ahmadullah", D: "Khan Bahadur" }
+  answer: A
+  explanation: "Begum Hazrat Mahal took over the reins at Lucknow, where the rebellion broke out on June 4, 1857."
+  source: "Spectrum (2019-20), p. 174"
+  tags: [ssc]
+
+- slug: smi-07-e05
+  difficulty: easy
+  stem: "At Delhi, the nominal leadership of the revolt was with Bahadur Shah, but the real command lay with a court of soldiers headed by"
+  options: { A: "Nana Saheb", B: "Khan Bahadur", C: "Tantia Tope", D: "General Bakht Khan", E: "More than one of the above" }
+  answer: D
+  explanation: "The real command at Delhi lay with a court of soldiers headed by General Bakht Khan, who had led the Bareilly troops to Delhi."
+  source: "Spectrum (2019-20), p. 174"
+  tags: [bpsc]
+
+- slug: smi-07-e06
+  difficulty: easy
+  stem: "After the fall of Delhi, Bahadur Shah Zafar was exiled to"
+  options: { A: "Mandalay", B: "Rangoon", C: "the Andaman Islands", D: "Nepal" }
+  answer: B
+  explanation: "The emperor was exiled to Rangoon, where he died in 1862."
+  source: "Spectrum (2019-20), p. 176"
+  tags: [ssc]
+
+- slug: smi-07-e07
+  difficulty: easy
+  stem: "Who interpreted the 1857 revolt as a 'planned war of national independence' in the book 'The Indian War of Independence, 1857'?"
+  options: { A: "R.C. Majumdar", B: "S.N. Sen", C: "V.D. Savarkar", D: "Tara Chand" }
+  answer: C
+  explanation: "V.D. Savarkar, in The Indian War of Independence, 1857, called the revolt the first war of Indian independence."
+  source: "Spectrum (2019-20), p. 180"
+  tags: [ssc]
+
+- slug: smi-07-e08
+  difficulty: easy
+  stem: "Lord Canning announced the Queen's Proclamation of November 1, 1858 at a durbar held at"
+  options: { A: "Allahabad", B: "Calcutta", C: "Delhi", D: "Lucknow" }
+  answer: A
+  explanation: "The Crown's assumption of the Government of India was announced by Lord Canning at a durbar at Allahabad."
+  source: "Spectrum (2019-20), p. 182"
+  tags: [ssc]
+
+- slug: smi-07-e09
+  difficulty: easy
+  stem: "Shah Mal, who organised the peasants of 84 villages (chaurasi desh) during the revolt, belonged to"
+  options: { A: "Pargana Baraut (Baghpat)", B: "Faizabad", C: "Bareilly", D: "Jagdishpur" }
+  answer: A
+  explanation: "Shah Mal was a local villager of Pargana Baraut (Baghpat, Uttar Pradesh)."
+  source: "Spectrum (2019-20), p. 176"
+  tags: [ssc]
+
+- slug: smi-07-e10
+  difficulty: easy
+  stem: "Maulvi Ahmadullah, a native of Madras, was a leader of the 1857 revolt at"
+  options: { A: "Bareilly", B: "Faizabad", C: "Kanpur", D: "Jhansi" }
+  answer: B
+  explanation: "Maulvi Ahmadullah moved from Madras to Faizabad, where he fought a stiff battle against the British."
+  source: "Spectrum (2019-20), p. 175"
+  tags: [ssc]
+
+- slug: smi-07-e11
+  difficulty: easy
+  stem: "Jhansi was recaptured by the British under"
+  options: { A: "Sir Colin Campbell", B: "Henry Havelock", C: "James Outram", D: "Sir Hugh Rose" }
+  answer: D
+  explanation: "The Rani of Jhansi died in battle in June 1858 and Jhansi was recaptured by Sir Hugh Rose."
+  source: "Spectrum (2019-20), p. 177"
+  tags: [ssc]
+
+- slug: smi-07-e12
+  difficulty: easy
+  stem: "Who was placed in command of the revolt at Bareilly?"
+  options: { A: "Rao Sahib", B: "Azimullah", C: "Khan Bahadur", D: "Tantia Tope" }
+  answer: C
+  explanation: "At Bareilly, Khan Bahadur, a descendant of the former ruler of Rohilkhand, was placed in command and raised an army of 40,000."
+  source: "Spectrum (2019-20), p. 175"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-07-m01
+  difficulty: medium
+  stem: "Kunwar Singh joined the rebel sepoys when they reached"
+  options: { A: "Dinapore from Arrah", B: "Arrah from Dinapore", C: "Patna from Dinapore", D: "Jagdishpur from Arrah", E: "None of the above" }
+  answer: B
+  explanation: "Kunwar Singh unhesitatingly joined the sepoys when they reached Arrah from Dinapore (Danapur)."
+  source: "Spectrum (2019-20), p. 175"
+  tags: [bpsc]
+
+- slug: smi-07-m02
+  difficulty: medium
+  stem: |
+    Match List I (centre of the revolt) with List II (leader):
+
+    | List I | List II |
+    |---|---|
+    | a. Kanpur | 1. Kunwar Singh |
+    | b. Bareilly | 2. Maulvi Ahmadullah |
+    | c. Faizabad | 3. Khan Bahadur |
+    | d. Bihar | 4. Nana Saheb |
+  options: { A: "a-4, b-2, c-3, d-1", B: "a-3, b-4, c-2, d-1", C: "a-4, b-3, c-1, d-2", D: "a-4, b-3, c-2, d-1", E: "None of the above" }
+  answer: D
+  explanation: "Kanpur — Nana Saheb; Bareilly — Khan Bahadur; Faizabad — Maulvi Ahmadullah; Bihar — Kunwar Singh."
+  source: "Spectrum (2019-20), pp. 174-175"
+  tags: [bpsc]
+
+- slug: smi-07-m03
+  difficulty: medium
+  stem: |
+    Arrange the following events of 1857 in chronological order:
+    1. Outbreak of the rebellion at Lucknow
+    2. Execution of Mangal Pande
+    3. Surrender of Sir Hugh Wheeler at Kanpur
+    4. Outbreak of the revolt at Meerut
+  options: { A: "2, 4, 1, 3", B: "4, 2, 1, 3", C: "2, 4, 3, 1", D: "2, 1, 4, 3", E: "None of the above" }
+  answer: A
+  explanation: "Mangal Pande was executed on April 8, Meerut rose on May 10, Lucknow on June 4, and Wheeler surrendered at Kanpur on June 27, 1857."
+  source: "Spectrum (2019-20), pp. 172-174"
+  tags: [bpsc]
+
+- slug: smi-07-m04
+  difficulty: medium
+  stem: |
+    Match List I (British officer) with List II (role in 1857 as given in the book):
+
+    | List I | List II |
+    |---|---|
+    | a. Lieutenant Willoughby | 1. Suppressed the rebellion at Benaras |
+    | b. Brigadier Inglis | 2. Officer-in-charge of the magazine at Delhi |
+    | c. Colonel Neill | 3. Shot the Mughal royal princes |
+    | d. Lieutenant Hudson | 4. Commanded the besieged Lucknow residency garrison |
+  options: { A: "a-2, b-1, c-4, d-3", B: "a-3, b-4, c-1, d-2", C: "a-2, b-4, c-1, d-3", D: "a-2, b-4, c-3, d-1", E: "None of the above" }
+  answer: C
+  explanation: "Willoughby resisted at the Delhi magazine, Inglis held the Lucknow residency after Henry Lawrence's death, Neill crushed Benaras, and Hudson shot the princes."
+  source: "Spectrum (2019-20), pp. 173-177"
+  tags: [bpsc]
+
+- slug: smi-07-m05
+  difficulty: medium
+  stem: "Which unit at Berhampore (West Bengal) refused to use the Enfield rifle and mutinied in February 1857, before the Meerut outbreak?"
+  options: { A: "19th Native Infantry", B: "34th Native Infantry", C: "3rd Native Cavalry", D: "7th Awadh Regiment" }
+  answer: A
+  explanation: "The 19th Native Infantry at Berhampore refused the Enfield rifle, mutinied in February 1857 and was disbanded in March 1857."
+  source: "Spectrum (2019-20), p. 172"
+  tags: [ssc]
+
+- slug: smi-07-m06
+  difficulty: medium
+  stem: "On May 9, 1857, the eighty-five men of the 3rd Native Cavalry at Meerut who had refused the greased cartridges were dismissed and"
+  options: { A: "sentenced to death", B: "transported for life", C: "sent to Burma", D: "sentenced to 10 years' imprisonment" }
+  answer: D
+  explanation: "They were dismissed, sentenced to 10 years' imprisonment and put in fetters, which sparked the mutiny of May 10."
+  source: "Spectrum (2019-20), p. 172"
+  tags: [ssc]
+
+- slug: smi-07-m07
+  difficulty: medium
+  stem: "According to the book, how many taluqdars in Awadh had their estates confiscated before the revolt?"
+  options: { A: "12,000", B: "21,000", C: "40,000", D: "1,00,000", E: "More than one of the above" }
+  answer: B
+  explanation: "In Awadh, the storm centre of the revolt, 21,000 taluqdars had their estates confiscated."
+  source: "Spectrum (2019-20), p. 169"
+  tags: [bpsc]
+
+- slug: smi-07-m08
+  difficulty: medium
+  stem: "Which law declared that a change of religion did not debar a son from inheriting the property of his 'heathen' father?"
+  options: { A: "General Service Enlistment Act, 1856", B: "Religious Disabilities Act, 1856", C: "Indian Civil Service Act, 1861", D: "Act for the Better Government of India, 1858" }
+  answer: B
+  explanation: "The Religious Disabilities Act, 1856 modified Hindu customs in this way, adding to fears of interference."
+  source: "Spectrum (2019-20), p. 170"
+  tags: [ssc]
+
+- slug: smi-07-m09
+  difficulty: medium
+  stem: "Which outside event, dated 1854-56 in the book, made the British appear beatable on the eve of the revolt?"
+  options: { A: "First Afghan War", B: "Punjab Wars", C: "Crimean War", D: "First Burma War" }
+  answer: C
+  explanation: "The book lists the First Afghan War (1838-42), Punjab Wars (1845-49) and Crimean Wars (1854-56) as outside events with psychological repercussions."
+  source: "Spectrum (2019-20), p. 170"
+  tags: [ssc]
+
+- slug: smi-07-m10
+  difficulty: medium
+  stem: "Which historian, in 'Eighteen Fifty-Seven', held that the revolt began as a fight for religion but ended as a war of independence?"
+  options: { A: "R.C. Majumdar", B: "K. Datta", C: "S.N. Sen", D: "Tara Chand", E: "More than one of the above" }
+  answer: C
+  explanation: "Dr S.N. Sen, in Eighteen Fifty-Seven, considered the revolt as beginning as a fight for religion and ending as a war of independence."
+  source: "Spectrum (2019-20), p. 180"
+  tags: [bpsc]
+
+- slug: smi-07-m11
+  difficulty: medium
+  stem: "The Army Amalgamation Scheme, which moved the Company's European troops to the services of the Crown, was introduced in"
+  options: { A: "1858", B: "1859", C: "1862", D: "1861" }
+  answer: D
+  explanation: "The Army Amalgamation Scheme, 1861 moved the Company's European troops to the services of the Crown."
+  source: "Spectrum (2019-20), p. 183"
+  tags: [ssc]
+
+- slug: smi-07-m12
+  difficulty: medium
+  stem: "Who led the British siege of Delhi in 1857 and later died of his wounds?"
+  options: { A: "John Nicholson", B: "Lieutenant Hudson", C: "Lieutenant Willoughby", D: "Simon Fraser" }
+  answer: A
+  explanation: "John Nicholson, leader of the siege, was badly wounded and later died; Delhi was captured on September 20, 1857."
+  source: "Spectrum (2019-20), p. 176"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-07-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about Kunwar Singh:
+    1. He was an old man in his seventies when the revolt broke out.
+    2. He nursed a grudge against the British, who had deprived him of his estates.
+    3. He was captured and exiled to Rangoon along with Bahadur Shah Zafar.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The book says Kunwar Singh was dead by 1859; only Bahadur Shah was exiled to Rangoon."
+  source: "Spectrum (2019-20), pp. 175, 177"
+  tags: [bpsc]
+
+- slug: smi-07-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about Nana Saheb:
+    1. He was the adopted son of the last Peshwa, Baji Rao II, and had been refused the family title.
+    2. He proclaimed himself the Peshwa, acknowledged Bahadur Shah as Emperor of India and declared himself to be his governor.
+    3. After his defeat at Kanpur, he escaped to Nepal in early 1859.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three statements are given in the book."
+  source: "Spectrum (2019-20), pp. 174, 177"
+  tags: [bpsc]
+
+- slug: smi-07-h03
+  difficulty: hard
+  stem: |
+    Match List I (historian/official) with List II (view on the revolt):
+
+    | List I | List II |
+    |---|---|
+    | a. Percival Spear | 1. Neither First, nor National, nor War of Independence |
+    | b. Stanley Wolpert | 2. Had a single leader of ability arisen among them, we must have been lost beyond redemption |
+    | c. John Lawrence | 3. Far more than a mutiny, yet much less than a first war of independence |
+    | d. R.C. Majumdar | 4. The passions of the mutineers were centred on their grievances, not on larger ideals |
+  options: { A: "a-4, b-3, c-2, d-1", B: "a-3, b-4, c-2, d-1", C: "a-4, b-3, c-1, d-2", D: "a-2, b-3, c-4, d-1", E: "None of the above" }
+  answer: A
+  explanation: "Spear spoke of grievances not ideals, Wolpert of 'more than a mutiny, less than a war of independence', John Lawrence of a single able leader, and Majumdar of 'neither First, nor National'."
+  source: "Spectrum (2019-20), pp. 181-182"
+  tags: [bpsc]
+
+- slug: smi-07-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The eastern, southern and western parts of India remained more or less unaffected by the Revolt of 1857.
+
+    **Reason (R):** The earlier uprisings in those regions had been brutally suppressed by the Company.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says these regions remained unaffected 'probably because the earlier uprisings in those regions had been brutally suppressed by the Company'."
+  source: "Spectrum (2019-20), p. 177"
+  tags: [bpsc]
+
+- slug: smi-07-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the changes after the revolt:
+    1. The Queen's Proclamation declared that the era of annexations and expansion had ended.
+    2. The Indian states were henceforth to recognise the paramountcy of the British Crown.
+    3. The Act for the Better Government of India (1858) made the Secretary of State for India a member of the Governor-General's council.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The Secretary of State for India was a member of the British cabinet."
+  source: "Spectrum (2019-20), pp. 182-183"
+  tags: [bpsc]
+
+- slug: smi-07-h06
+  difficulty: hard
+  stem: |
+    With reference to Hindu-Muslim unity in the revolt, consider the following statements:
+    1. Nana Saheb had Azimullah, a Muslim and an expert in political propaganda, as an aide.
+    2. Rani Laxmibai had the solid support of Afghan soldiers.
+    3. Cow slaughter was banned immediately in areas where the revolt was successful.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three are given in the book as examples of Hindu-Muslim cooperation during the revolt."
+  source: "Spectrum (2019-20), p. 179"
+  tags: [bpsc]
+
+- slug: smi-07-h07
+  difficulty: hard
+  stem: "Who described the revolt of 1857 as a last-ditch stand of feudalism against commercial capitalism?"
+  options: { A: "Jawaharlal Nehru", B: "M.N. Roy", C: "R.P. Dutt", D: "Eric Stokes" }
+  answer: B
+  explanation: "M.N. Roy saw it as feudalism's last-ditch stand; Nehru called it essentially a feudal uprising and R.P. Dutt stressed the peasant revolt against foreign rule."
+  source: "Spectrum (2019-20), p. 180"
+  tags: [ssc]
+
+- slug: smi-07-h08
+  difficulty: hard
+  stem: "Who considered the revolt 'in the main a military outbreak, which was taken advantage of by certain discontented princes and landlords'?"
+  options: { A: "S.N. Sen", B: "R.C. Majumdar", C: "Tara Chand", D: "K. Datta" }
+  answer: D
+  explanation: "Dr K. Datta held this view and called the revolt 'never all-Indian in character, but localised, restricted and poorly organised'."
+  source: "Spectrum (2019-20), p. 179"
+  tags: [ssc]
+
+- slug: smi-07-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about the 'White Mutiny':
+    1. It arose when European Company troops resented having to transfer their allegiance from the Company to the Queen.
+    2. With the transfer of power, the batta paid to Company troops was stopped.
+    3. The soldiers' demand for free and clear release with free passage home was rejected.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The demand for free release with free passage home was accepted and the men opted to return home."
+  source: "Spectrum (2019-20), p. 184"
+  tags: [bpsc]
+
+- slug: smi-07-h10
+  difficulty: hard
+  stem: "According to one estimate cited in the book, the Revolt of 1857 affected not more than"
+  options: { A: "one-tenth of the area and one-fourth of the population", B: "one-third of the area and one-fourth of the population", C: "one-half of the area and one-third of the population", D: "one-fourth of the area and one-tenth of the population" }
+  answer: D
+  explanation: "By one estimate, not more than one-fourth of the total area and one-tenth of the total population was affected."
+  source: "Spectrum (2019-20), p. 178"
+  tags: [ssc]
+
+- slug: smi-07-h11
+  difficulty: hard
+  stem: "Of the about 1,50,000 men who died fighting the English in Awadh, how many were civilians, according to the estimate in the book?"
+  options: { A: "About 50,000", B: "About 75,000", C: "Over 1,00,000", D: "Over 1,25,000" }
+  answer: C
+  explanation: "One estimate says over 1,00,000 of the roughly 1,50,000 who died fighting in Awadh were civilians, showing the revolt's popular character."
+  source: "Spectrum (2019-20), p. 174"
+  tags: [ssc]
+
+- slug: smi-07-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about the revolt at Lucknow:
+    1. Birjis Qadir, son of Begum Hazrat Mahal, was proclaimed the nawab.
+    2. The early attempts of Sir Henry Havelock and Sir James Outram succeeded in recovering Lucknow.
+    3. The city was recovered by the British in March 1858, but guerrilla activity continued till September of that year.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 3 are correct. Havelock's and Outram's early attempts met with no success; Sir Colin Campbell later evacuated the Europeans."
+  source: "Spectrum (2019-20), pp. 174-175"
+  tags: [bpsc]

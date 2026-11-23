@@ -1,0 +1,484 @@
+# Chapter 6 — People's Resistance Against British Before 1857 (book pp. 136-166)
+# ---------- EASY ----------
+- slug: smi-06-e01
+  difficulty: easy
+  stem: "The disastrous famine of which year was a major cause of the Sanyasi Revolt?"
+  options: { A: "1757", B: "1770", C: "1764", D: "1783" }
+  answer: B
+  explanation: "The book says the disastrous famine of 1770 and the harsh British economic order compelled the sanyasis to fight the British."
+  source: "Spectrum (2019-20), p. 139"
+  tags: [ssc]
+
+- slug: smi-06-e02
+  difficulty: easy
+  stem: "The Kol Mutiny of 1831 in Chhotanagpur was led by"
+  options: { A: "Birsa Munda", B: "Chakra Bisoi", C: "Buddho Bhagat", D: "Tirath Singh", E: "More than one of the above" }
+  answer: C
+  explanation: "In 1831, under the leadership of Buddho Bhagat, the Kol rebels killed or burnt about a thousand outsiders."
+  source: "Spectrum (2019-20), p. 156"
+  tags: [bpsc]
+
+- slug: smi-06-e03
+  difficulty: easy
+  stem: "The Santhal Rebellion of 1855-56 was led by"
+  options: { A: "Sidhu and Kanhu", B: "Jatra Bhagat and Balram Bhagat", C: "Ratna Nayak and Dharni Dhar Nayak", D: "Buddho Bhagat and Birsa Munda", E: "More than one of the above" }
+  answer: A
+  explanation: "Under the two brothers Sidhu and Kanhu, the Santhals proclaimed an end to Company rule."
+  source: "Spectrum (2019-20), p. 157"
+  tags: [bpsc]
+
+- slug: smi-06-e04
+  difficulty: easy
+  stem: "The Wahabi Movement in India was founded by"
+  options: { A: "Shah Waliullah", B: "Titu Mir", C: "Haji Shariat-Allah", D: "Syed Ahmed of Rai Bareilly" }
+  answer: D
+  explanation: "The Wahabi Movement was founded by Syed Ahmed of Rai Bareilly, who was inspired by Abdul Wahab and Shah Waliullah of Delhi."
+  source: "Spectrum (2019-20), p. 150"
+  tags: [ssc]
+
+- slug: smi-06-e05
+  difficulty: easy
+  stem: "The Kuka Movement was founded in 1840 in western Punjab by"
+  options: { A: "Baba Ram Singh", B: "Bhagat Jawahar Mal", C: "Dadu Mian", D: "Karam Shah" }
+  answer: B
+  explanation: "Bhagat Jawahar Mal (Sian Saheb) founded the Kuka Movement in 1840; Baba Ram Singh was a major leader after him."
+  source: "Spectrum (2019-20), p. 151"
+  tags: [ssc]
+
+- slug: smi-06-e06
+  difficulty: easy
+  stem: "Who led the army of Paikas in the Paika Rebellion of 1817 in Odisha?"
+  options: { A: "Chakra Bisoi", B: "Doora Bisayi", C: "Dhananjaya Bhanj", D: "Bakshi Jagabandhu Bidyadhar" }
+  answer: D
+  explanation: "Bakshi Jagabandhu Bidyadhar, former military chief of the Raja of Khurda, led the Paikas against the Company."
+  source: "Spectrum (2019-20), p. 149"
+  tags: [ssc]
+
+- slug: smi-06-e07
+  difficulty: easy
+  stem: "Velu Thampi, who issued the Kundara Proclamation against the British, was the Dalawa (Prime Minister) of"
+  options: { A: "Travancore", B: "Kottayam", C: "Vizianagaram", D: "Mysore" }
+  answer: A
+  explanation: "Velu Thampi, Prime Minister (Dalawa) of Travancore, rose against the Company and addressed the Kundara gathering."
+  source: "Spectrum (2019-20), p. 146"
+  tags: [ssc]
+
+- slug: smi-06-e08
+  difficulty: easy
+  stem: "Veerapandiya Kattabomman, who led the poligars against the British, was the poligar of"
+  options: { A: "Sivaganga", B: "Ramanathapuram", C: "Panjalankurichi", D: "Yedaragunta" }
+  answer: C
+  explanation: "Kattabomman Nayakan, the poligar of Panjalankurichi, led the insurrection between 1795 and 1799."
+  source: "Spectrum (2019-20), p. 144"
+  tags: [ssc]
+
+- slug: smi-06-e09
+  difficulty: easy
+  stem: "Who was popularly known as 'Kerala Simham' (Lion of Kerala)?"
+  options: { A: "Velu Thampi", B: "Kerala Varma Pazhassi Raja", C: "Vira Varma", D: "Marathu Pandian" }
+  answer: B
+  explanation: "Kerala Varma Pazhassi Raja, de facto head of Kottayam in Malabar, was known as Kerala Simham or 'Pyche raja'."
+  source: "Spectrum (2019-20), p. 142"
+  tags: [ssc]
+
+- slug: smi-06-e10
+  difficulty: easy
+  stem: "The Vellore Mutiny of 1806 was caused by"
+  options: { A: "the General Service Enlistment Act", B: "an order to go to Burma", C: "refusal to pay foreign service allowance", D: "the replacement of the turban by a leather cockade" }
+  answer: D
+  explanation: "In 1806 the replacement of the turban by a leather cockade caused a mutiny at Vellore."
+  source: "Spectrum (2019-20), p. 162"
+  tags: [ssc]
+
+- slug: smi-06-e11
+  difficulty: easy
+  stem: "Titu Mir (Mir Nithar Ali) is associated with the"
+  options: { A: "Narkelberia uprising", B: "Faraizi revolt", C: "Pagal Panthi movement", D: "Moplah uprisings" }
+  answer: A
+  explanation: "Titu Mir inspired Muslim tenants in West Bengal in the Narkelberia uprising, which later merged into the Wahabi movement."
+  source: "Spectrum (2019-20), p. 152"
+  tags: [ssc]
+
+- slug: smi-06-e12
+  difficulty: easy
+  stem: "After the rising of the Pahariyas of the Raj Mahal Hills in 1778, the British brought peace by declaring their territory a"
+  options: { A: "Jungle Mahal", B: "damni-kol area", C: "reserved forest", D: "palayam", E: "More than one of the above" }
+  answer: B
+  explanation: "The British were forced to usher in peace by declaring the Pahariyas' territory as damni-kol area."
+  source: "Spectrum (2019-20), p. 155"
+  tags: [bpsc]
+
+- slug: smi-06-e13
+  difficulty: easy
+  stem: "Who led the uprising in Palamau in 1800?"
+  options: { A: "Durjan Singh", B: "Jagannath Singh", C: "Bhukhan Singh", D: "Buddho Bhagat", E: "More than one of the above" }
+  answer: C
+  explanation: "In 1800 Bhukhan Singh, a Chero chief, rose in rebellion in Palamau; the rising calmed down after his death in 1802."
+  source: "Spectrum (2019-20), p. 144"
+  tags: [bpsc]
+
+- slug: smi-06-e14
+  difficulty: easy
+  stem: "The Khasis, Garos, Khamptis and Singphos organised themselves against the British under"
+  options: { A: "Nirang Phidu", B: "Gomdhar Konwar", C: "Chakra Bisoi", D: "Tirath Singh" }
+  answer: D
+  explanation: "These tribes organised themselves under Tirath Singh to drive away outsiders; the revolt was suppressed by 1833."
+  source: "Spectrum (2019-20), p. 160"
+  tags: [ssc]
+
+- slug: smi-06-e15
+  difficulty: easy
+  stem: "The Pagal Panthi sect of Mymensingh district was founded by"
+  options: { A: "Karam Shah", B: "Titu Mir", C: "Haji Shariat-Allah", D: "Dadu Mian" }
+  answer: A
+  explanation: "The Pagal Panthi was founded by Karam Shah; the tribal peasants later organised under his son Tipu."
+  source: "Spectrum (2019-20), p. 152"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-06-m01
+  difficulty: medium
+  stem: "For the Wahabi Movement, which of the following correctly gives its base of operations in the north-western tribal belt and its important centre within India?"
+  options: { A: "Patna — Sithana", B: "Sithana — Patna", C: "Sithana — Delhi", D: "Rai Bareilly — Patna", E: "None of the above" }
+  answer: B
+  explanation: "Sithana in the north-western tribal belt was the base for operations; in India its important centre was at Patna."
+  source: "Spectrum (2019-20), p. 151"
+  tags: [bpsc]
+
+- slug: smi-06-m02
+  difficulty: medium
+  stem: |
+    Match List I (uprising) with List II (leader):
+
+    | List I | List II |
+    |---|---|
+    | a. Kol Mutiny | 1. Chittur Singh |
+    | b. Santhal Rebellion | 2. Chakra Bisoi |
+    | c. Khond Uprisings | 3. Sidhu and Kanhu |
+    | d. Ramosi Risings | 4. Buddho Bhagat |
+  options: { A: "a-4, b-3, c-1, d-2", B: "a-3, b-4, c-2, d-1", C: "a-4, b-3, c-2, d-1", D: "a-2, b-3, c-4, d-1", E: "None of the above" }
+  answer: C
+  explanation: "Kol Mutiny — Buddho Bhagat; Santhal Rebellion — Sidhu and Kanhu; Khonds — Chakra Bisoi; Ramosis — Chittur Singh (1822)."
+  source: "Spectrum (2019-20), pp. 156-158"
+  tags: [bpsc]
+
+- slug: smi-06-m03
+  difficulty: medium
+  stem: |
+    Arrange the following tribal uprisings in chronological order of their beginning:
+    1. Santhal Rebellion
+    2. Pahariyas' Rebellion
+    3. Kol Mutiny
+    4. Khond Uprisings
+  options: { A: "2, 4, 3, 1", B: "3, 2, 4, 1", C: "2, 3, 1, 4", D: "2, 3, 4, 1", E: "None of the above" }
+  answer: D
+  explanation: "Pahariyas (1778), Kol Mutiny (1831), Khond uprisings (from 1837), Santhal Rebellion (1855)."
+  source: "Spectrum (2019-20), pp. 155-157"
+  tags: [bpsc]
+
+- slug: smi-06-m04
+  difficulty: medium
+  stem: "During their rebellion of 1855-56, the Santhals declared as autonomous the area between"
+  options: { A: "Bhagalpur and Rajmahal", B: "Ranchi and Hazaribagh", C: "Barabhum and Ghatsila", D: "Singhbhum and Palamau", E: "More than one of the above" }
+  answer: A
+  explanation: "The Santhals proclaimed an end to Company rule and declared the area between Bhagalpur and Rajmahal autonomous."
+  source: "Spectrum (2019-20), p. 157"
+  tags: [bpsc]
+
+- slug: smi-06-m05
+  difficulty: medium
+  stem: "Durjan Singh, who led the most significant Chuar uprising in 1798, had been dispossessed of the zamindari of"
+  options: { A: "Ghatsila", B: "Barabhum", C: "Raipur", D: "Dhadka", E: "More than one of the above" }
+  answer: C
+  explanation: "Durjan Singh, zamindar of Raipur, was dispossessed under the Bengal Regulations; his 1,500 Chuar followers tried to halt the auction of Raipur."
+  source: "Spectrum (2019-20), p. 156"
+  tags: [bpsc]
+
+- slug: smi-06-m06
+  difficulty: medium
+  stem: "The Ho tribals revolted in the 1820s under whose organisation, and against the British occupation of which area?"
+  options: { A: "Raja of Parahat — Singhbhum", B: "Raja of Barabhum — Manbhum", C: "Raja of Khurda — Singhbhum", D: "Raja of Parahat — Palamau", E: "None of the above" }
+  answer: A
+  explanation: "The Raja of Parahat organised his Ho tribals to revolt against the occupation of Singhbhum (now in Jharkhand)."
+  source: "Spectrum (2019-20), p. 157"
+  tags: [bpsc]
+
+- slug: smi-06-m07
+  difficulty: medium
+  stem: "Whom did Warren Hastings involve as izaradar of Gorakhpur and Bahraich, whose oppression led to the uprising of 1781?"
+  options: { A: "Colonel Jones", B: "Major Alexander Hannay", C: "George Russell", D: "General Erskine" }
+  answer: B
+  explanation: "Major Alexander Hannay secured the izara of Gorakhpur and Bahraich for 22 lakh rupees; his exactions caused the 1781 rising and he was dismissed."
+  source: "Spectrum (2019-20), p. 141"
+  tags: [ssc]
+
+- slug: smi-06-m08
+  difficulty: medium
+  stem: "After the 'Massacre of Benares' (1799), Wazir Ali Khan was granted asylum by"
+  options: { A: "the Raja of Nayagarh", B: "the Nawab of Arcot", C: "the Raja of Pudukottai", D: "the ruler of Jaipur" }
+  answer: D
+  explanation: "Wazir Ali fled to Butwal and was granted asylum by the ruler of Jaipur, who extradited him on condition he would not be hanged."
+  source: "Spectrum (2019-20), p. 143"
+  tags: [ssc]
+
+- slug: smi-06-m09
+  difficulty: medium
+  stem: "Kuka leader Baba Ram Singh, founder of the Namdhari Sikh sect, was deported in 1872 to"
+  options: { A: "the Andaman Islands", B: "Mandalay", C: "Rangoon", D: "Aden" }
+  answer: C
+  explanation: "After British steps to crush the Kukas (1863-72), Ram Singh was deported to Rangoon in 1872."
+  source: "Spectrum (2019-20), p. 151"
+  tags: [ssc]
+
+- slug: smi-06-m10
+  difficulty: medium
+  stem: "Haji Shariat-Allah, founder of the Faraizi sect, belonged to"
+  options: { A: "Mymensingh", B: "24 Parganas", C: "Midnapore", D: "Faridpur" }
+  answer: D
+  explanation: "The Faraizis followed a Muslim sect founded by Haji Shariat-Allah of Faridpur in Eastern Bengal."
+  source: "Spectrum (2019-20), p. 152"
+  tags: [ssc]
+
+- slug: smi-06-m11
+  difficulty: medium
+  stem: "The General Service Enlistment Act (1856), which ordered recruits to be ready for service within and outside India, was passed under"
+  options: { A: "Lord Dalhousie", B: "Lord Canning", C: "Lord Wellesley", D: "Lord William Bentinck" }
+  answer: B
+  explanation: "High-caste Hindu sepoys objected on religious grounds to Lord Canning's General Service Enlistment Act (1856)."
+  source: "Spectrum (2019-20), p. 162"
+  tags: [ssc]
+
+- slug: smi-06-m12
+  difficulty: medium
+  stem: "The revolt of the Moamarias, followers of Aniruddhadeva, which began in 1769, was a challenge to the authority of"
+  options: { A: "the Ahom kings of Assam", B: "the King of Darrang", C: "the Burmese", D: "the Khasi chiefs" }
+  answer: A
+  explanation: "The Moamaria revolt of 1769 was a potent challenge to the Ahom kings; the Ahom ruler had to request British help."
+  source: "Spectrum (2019-20), p. 140"
+  tags: [ssc]
+
+- slug: smi-06-m13
+  difficulty: medium
+  stem: "In 1844 the people of Surat protested against the government's decision to raise the salt duty from"
+  options: { A: "25 paise to 50 paise", B: "one rupee to two rupees", C: "50 paise to one rupee", D: "50 paise to two rupees" }
+  answer: C
+  explanation: "The salt duty was raised from 50 paise to one rupee; facing a popular movement, the government withdrew the additional levy."
+  source: "Spectrum (2019-20), p. 150"
+  tags: [ssc]
+
+- slug: smi-06-m14
+  difficulty: medium
+  stem: "The British bound down hereditary chieftains through contractual obligations called 'Ikarnamahs' in"
+  options: { A: "Kutch", B: "Okha Mandal", C: "Palamau", D: "Bundelkhand" }
+  answer: D
+  explanation: "To stop the disturbances in Bundelkhand (1808-12), the British bound the hereditary chieftains by Ikarnamahs."
+  source: "Spectrum (2019-20), p. 146"
+  tags: [ssc]
+
+- slug: smi-06-m15
+  difficulty: medium
+  stem: "In 1824 sepoys rose in revolt at which place when asked to go to Burma, since crossing the sea meant loss of caste?"
+  options: { A: "Barrackpore", B: "Vellore", C: "Sholapur", D: "Meerut" }
+  answer: A
+  explanation: "In 1824 the sepoys at Barrackpore revolted when asked to go to Burma, because crossing the sea would mean loss of caste."
+  source: "Spectrum (2019-20), p. 162"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-06-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Kol Mutiny (1831):
+    1. The Kols were inhabitants of Chhotanagpur, which covered Ranchi, Singhbhum, Hazaribagh, Palamau and western Manbhum.
+    2. The trouble began with large-scale transfers of land from Kol headmen to outsiders.
+    3. The Kol rebels killed or burnt about ten thousand outsiders.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The book says the Kol rebels killed or burnt about a thousand outsiders, not ten thousand."
+  source: "Spectrum (2019-20), p. 156"
+  tags: [bpsc]
+
+- slug: smi-06-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Santhal Rebellion:
+    1. The Santhals were mainly a hunting people who had always lived on the hilltops of the Rajmahal hills.
+    2. It began against zamindars and money-lenders, who had police support, and later turned into an anti-British movement.
+    3. The Santhals proclaimed an end to Company rule.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 2 and 3 are correct. The book calls the Santhals an agricultural people who had fled to settle in the plains of the Rajmahal hills."
+  source: "Spectrum (2019-20), p. 157"
+  tags: [bpsc]
+
+- slug: smi-06-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** After 1849 the English dominion in India became the sole target of the Wahabis' attacks.
+
+    **Reason (R):** The Sikh kingdom of Punjab, against which the Wahabis had declared jihad, was defeated and incorporated into the Company's dominion in 1849.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says that after the defeat of the Sikh ruler and the incorporation of Punjab in 1849, the English became the Wahabis' sole target, so R explains A."
+  source: "Spectrum (2019-20), p. 151"
+  tags: [bpsc]
+
+- slug: smi-06-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Ho and Munda uprisings:
+    1. The first Ho revolt continued till 1827, when the Ho tribals were forced to submit.
+    2. In 1831 the Hos, joined by the Mundas of Chotanagpur, protested against the newly introduced farming revenue policy and the entry of Bengalis.
+    3. Though the revolt was extinguished in 1832, the Ho operations continued till 1837.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book's account of the Ho and Munda uprisings (1820-1837)."
+  source: "Spectrum (2019-20), p. 157"
+  tags: [bpsc]
+
+- slug: smi-06-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Chuar uprisings:
+    1. In 1768, when Jagannath Singh, zamindar of Ghatsila, rose with thousands of Chuars, the Company government capitulated.
+    2. The 1771 rising of the Chuar sardars Shyam Ganjan, Subla Singh and Dubraj also forced the Company to capitulate.
+    3. Some historians consider the term 'Chuar' derogatory and call it the Revolt of the Jungle Mahal.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1 and 3 are correct. The 1771 rising of the Chuar sardars was suppressed."
+  source: "Spectrum (2019-20), p. 156"
+  tags: [bpsc]
+
+- slug: smi-06-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Paika Rebellion:
+    1. The Paiks enjoyed rent-free land tenures on a hereditary basis for military service and policing.
+    2. The spark was the arrival of a body of Khonds from Gumsur into Khurda territory in March 1817.
+    3. The rebellion failed to secure any relief for the people of the province.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 2 are correct. The book says the rebellion won large remissions of arrears, reduced assessments and a new settlement on fixed tenures."
+  source: "Spectrum (2019-20), pp. 148-149"
+  tags: [bpsc]
+
+- slug: smi-06-h07
+  difficulty: hard
+  stem: "Whose betrayal led to the capture of Kattabomman after he fled into the Pudukottai forests?"
+  options: { A: "Marathu Pandian", B: "Oomathurai", C: "Ettappan, Raja of Pudukottai", D: "Subramania Pillai" }
+  answer: C
+  explanation: "Ettappan, the Raja of Pudukottai, made an agreement with the British, which led to Kattabomman's capture and hanging."
+  source: "Spectrum (2019-20), p. 144"
+  tags: [ssc]
+
+- slug: smi-06-h08
+  difficulty: hard
+  stem: "The poligars of North Arcot rebelled between 1803 and 1805 when they were deprived of their right to collect"
+  options: { A: "chauth", B: "kaval fees", C: "sardeshmukhi", D: "salt duty" }
+  answer: B
+  explanation: "The North Arcot poligars rose when deprived of the right to collect kaval fees; kaval or 'watch' was a hereditary village police office."
+  source: "Spectrum (2019-20), p. 145"
+  tags: [ssc]
+
+- slug: smi-06-h09
+  difficulty: hard
+  stem: |
+    Arrange the following sepoy mutinies in chronological order:
+    1. Mutiny of an Indian regiment at Sholapur
+    2. Vellore Mutiny
+    3. Mutiny of the 47th Native Infantry
+    4. Mutiny of the 34th Native Infantry
+  options: { A: "2, 3, 1, 4", B: "3, 2, 1, 4", C: "2, 1, 3, 4", D: "2, 3, 4, 1" }
+  answer: A
+  explanation: "Vellore (1806), 47th N.I. (1824), Sholapur (1838), 34th N.I. (1844)."
+  source: "Spectrum (2019-20), pp. 162-163"
+  tags: [ssc]
+
+- slug: smi-06-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements about the tribal revolts of the north-eastern frontier under British rule:
+    1. They were not forest-based or agrarian revolts, as these tribals were generally in control of land and forest.
+    2. They continued for a longer time than the non-frontier tribal movements.
+    3. Sanskritisation movements were widespread among the north-eastern frontier tribals in the colonial period.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. Sanskritisation movements were almost totally absent in the north-east frontier region in the colonial period."
+  source: "Spectrum (2019-20), p. 154"
+  tags: [bpsc]
+
+- slug: smi-06-h11
+  difficulty: hard
+  stem: "The struggle in Gumsur, which continued after the death of Dhananjay Bhanj, ended in February 1837 with the arrest of"
+  options: { A: "Strikara Bhanj", B: "Jagannath Deo", C: "Narayan Deo", D: "Doora Bisayi" }
+  answer: D
+  explanation: "The struggle lasted till February 1837, when Doora Bisayi, a formidable leader, was arrested and the Gumsur zamindari was forfeited."
+  source: "Spectrum (2019-20), p. 144"
+  tags: [ssc]
+
+- slug: smi-06-h12
+  difficulty: hard
+  stem: |
+    Match the urban protests (List I) with the tax that provoked them (List II):
+
+    | List I | List II |
+    |---|---|
+    | a. Benares, 1810 | 1. Salt duty |
+    | b. Surat, 1814 | 2. House tax |
+    | c. Bareilly, 1816 | 3. Police tax |
+  options: { A: "a-1, b-2, c-3", B: "a-2, b-3, c-1", C: "a-3, b-1, c-2", D: "a-2, b-1, c-3", E: "None of the above" }
+  answer: D
+  explanation: "Benares (1810) protested a house tax, Surat (1814) the salt duty, and Bareilly (1816) the police tax and municipal taxes."
+  source: "Spectrum (2019-20), p. 137"
+  tags: [bpsc]
+
+- slug: smi-06-h13
+  difficulty: hard
+  stem: |
+    Consider the following statements about the peasants and the Revolt of 1857:
+    1. Peasant participation was active in all areas affected by the revolt.
+    2. In Avadh, land was restored to the taluqdars, and the peasants could not avail of the 1859 Bengal Rent Act.
+    3. In some regions, peasants had to pay an additional cess as punishment for taking part in the revolt.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 2 and 3 are correct. Peasant participation was active only in some areas, mainly western Uttar Pradesh."
+  source: "Spectrum (2019-20), p. 153"
+  tags: [bpsc]
+
+- slug: smi-06-h14
+  difficulty: hard
+  stem: "How many rebellions took place among the Moplahs of Malabar between 1836 and 1854?"
+  options: { A: "Twelve", B: "Eighteen", C: "Twenty-two", D: "Thirty-two" }
+  answer: C
+  explanation: "Twenty-two rebellions took place between 1836 and 1854, though none proved successful."
+  source: "Spectrum (2019-20), p. 153"
+  tags: [ssc]
+
+- slug: smi-06-h15
+  difficulty: hard
+  stem: |
+    Consider the following statements from the book's table of tribal movements:
+    1. The Kharwar Rebellion of the 1870s in Bihar was directed against revenue settlement activities.
+    2. The Tana Bhagat movement among the Mundas and Oraons, led by Jatra Bhagat and Balram Bhagat, began as a Sanskritisation movement.
+    3. The Adivasi Mahasabha, formed in 1937, was replaced by the Regional Jharkhand Party in 1949.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1, 2 and 3", C: "2 and 3 only", D: "1 only", E: "None of the above" }
+  answer: B
+  explanation: "All three statements are given in the book's table of tribal movements."
+  source: "Spectrum (2019-20), pp. 159-160"
+  tags: [bpsc]

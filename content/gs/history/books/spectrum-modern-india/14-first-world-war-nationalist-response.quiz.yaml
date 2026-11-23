@@ -1,0 +1,352 @@
+# Chapter 14 — First World War and Nationalist Response (book pp. 294-304)
+# ---------- EASY ----------
+- slug: smi-14-e01
+  difficulty: easy
+  stem: "When did Tilak set up his Indian Home Rule League?"
+  options: { A: "September 1916", B: "April 1916", C: "June 1914", D: "August 1917" }
+  answer: B
+  explanation: "Tilak set up his Indian Home Rule League in April 1916; Besant's league followed in September 1916."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [ssc]
+
+- slug: smi-14-e02
+  difficulty: easy
+  stem: "Annie Besant set up her All-India Home Rule League in September 1916 at"
+  options: { A: "Poona", B: "Bombay", C: "Madras", D: "Belgaum" }
+  answer: C
+  explanation: "Besant's All-India Home Rule League was set up in September 1916 in Madras."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [ssc]
+
+- slug: smi-14-e03
+  difficulty: easy
+  stem: "Where was the headquarters of Tilak's Home Rule League?"
+  options: { A: "Poona", B: "Belgaum", C: "Bombay", D: "Madras" }
+  answer: A
+  explanation: "Poona was the headquarters of Tilak's league; his first Home Rule meeting was held at Belgaum."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [ssc]
+
+- slug: smi-14-e04
+  difficulty: easy
+  stem: "Who was the organising secretary of Annie Besant's All-India Home Rule League?"
+  options: { A: "C.P. Ramaswamy Aiyar", B: "Joseph Baptista", C: "G.S. Khaparde", D: "George Arundale" }
+  answer: D
+  explanation: "Besant's league had George Arundale as its organising secretary."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [ssc]
+
+- slug: smi-14-e05
+  difficulty: easy
+  stem: "Who presided over the Lucknow session of the Indian National Congress in 1916?"
+  options: { A: "Pherozshah Mehta", B: "Ambika Charan Majumdar", C: "Madan Mohan Malaviya", D: "Gopal Krishna Gokhale" }
+  answer: B
+  explanation: "The Lucknow session, which readmitted the Extremists, was presided over by the Moderate Ambika Charan Majumdar."
+  source: "Spectrum (2019-20), p. 300"
+  tags: [ssc]
+
+- slug: smi-14-e06
+  difficulty: easy
+  stem: "Through which newspapers did Annie Besant campaign for self-government?"
+  options: { A: "New India and Commonweal", B: "Kesari and Maharatta", C: "Al Hilal and Comrade", D: "Bande Mataram and Talwar" }
+  answer: A
+  explanation: "Besant campaigned through her newspapers New India and Commonweal and through meetings and conferences."
+  source: "Spectrum (2019-20), p. 296"
+  tags: [ssc]
+
+- slug: smi-14-e07
+  difficulty: easy
+  stem: "On which date did Edwin Montagu make his statement in the House of Commons known as the August Declaration?"
+  options: { A: "August 20, 1916", B: "August 15, 1918", C: "August 20, 1917", D: "August 1, 1917" }
+  answer: C
+  explanation: "Montagu made the statement on August 20, 1917 in the British House of Commons."
+  source: "Spectrum (2019-20), p. 303"
+  tags: [ssc]
+
+- slug: smi-14-e08
+  difficulty: easy
+  stem: "Tilak went abroad in September 1918 in connection with a libel case against Valentine Chirol, the author of"
+  options: { A: "The Indian Sociologist", B: "Comrade", C: "New India", D: "Indian Unrest" }
+  answer: D
+  explanation: "Chirol's book Indian Unrest had featured Tilak as responsible for agitational politics in India."
+  source: "Spectrum (2019-20), p. 299"
+  tags: [ssc]
+
+- slug: smi-14-e09
+  difficulty: easy
+  stem: "In 1920, Gandhi became president of the All India Home Rule League and renamed it"
+  options: { A: "Swaraj Party", B: "Swarajya Sabha", C: "Satyagraha Sabha", D: "Servants of India Society", E: "More than one of the above" }
+  answer: B
+  explanation: "Gandhi renamed the organisation Swarajya Sabha; within a year it joined the Indian National Congress."
+  source: "Spectrum (2019-20), p. 299"
+  tags: [bpsc]
+
+- slug: smi-14-e10
+  difficulty: easy
+  stem: "Who renounced his knighthood in protest against the arrest of Annie Besant in 1917?"
+  options: { A: "Sir S. Subramaniya Aiyar", B: "Tej Bahadur Sapru", C: "Pherozshah Mehta", D: "C.P. Ramaswamy Aiyar", E: "More than one of the above" }
+  answer: A
+  explanation: "In a dramatic gesture, Sir S. Subramaniya Aiyar renounced his knighthood, while Tilak advocated passive resistance."
+  source: "Spectrum (2019-20), p. 298"
+  tags: [bpsc]
+
+# ---------- MEDIUM ----------
+- slug: smi-14-m01
+  difficulty: medium
+  stem: "How many branches did Tilak's league and Besant's league respectively have?"
+  options: { A: "200 and 6", B: "6 and 52", C: "6 and 200", D: "60 and 200" }
+  answer: C
+  explanation: "Tilak's league had six branches; Besant's more loosely organised league had 200."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [ssc]
+
+- slug: smi-14-m02
+  difficulty: medium
+  stem: "Tilak's Home Rule League was restricted to"
+  options: { A: "Maharashtra including Bombay city, Gujarat and Sindh", B: "Madras, Karnataka and Bombay city", C: "Maharashtra, Punjab and Delhi", D: "Maharashtra (excluding Bombay city), Karnataka, Central Provinces and Berar", E: "None of the above" }
+  answer: D
+  explanation: "Tilak's league covered Maharashtra (excluding Bombay city), Karnataka, Central Provinces and Berar; Besant's covered the rest including Bombay city."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [bpsc]
+
+- slug: smi-14-m03
+  difficulty: medium
+  stem: |
+    Match List I with List II:
+
+    | List I | List II |
+    |---|---|
+    | a. Al Hilal | 1. Valentine Chirol |
+    | b. Comrade | 2. Annie Besant |
+    | c. New India | 3. Mohammad Ali |
+    | d. Indian Unrest | 4. Maulana Azad |
+  options: { A: "a-4, b-3, c-2, d-1", B: "a-3, b-4, c-2, d-1", C: "a-4, b-3, c-1, d-2", D: "a-4, b-2, c-3, d-1", E: "None of the above" }
+  answer: A
+  explanation: "Al Hilal was Maulana Azad's, Comrade Mohammad Ali's, New India Annie Besant's, and Indian Unrest was a book by Valentine Chirol."
+  source: "Spectrum (2019-20), pp. 296, 299, 301"
+  tags: [bpsc]
+
+- slug: smi-14-m04
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Setting up of Annie Besant's All-India Home Rule League
+    2. Setting up of Tilak's Indian Home Rule League
+    3. Arrest of Annie Besant, B.P. Wadia and George Arundale
+    4. Montagu's August Declaration
+  options: { A: "1, 2, 3, 4", B: "2, 1, 3, 4", C: "2, 1, 4, 3", D: "1, 2, 4, 3", E: "None of the above" }
+  answer: B
+  explanation: "Tilak's league (April 1916), Besant's league (September 1916), Besant's arrest (June 1917), Montagu's statement (August 20, 1917)."
+  source: "Spectrum (2019-20), pp. 297-298, 303"
+  tags: [bpsc]
+
+- slug: smi-14-m05
+  difficulty: medium
+  stem: "Who led the Bombay division of Annie Besant's Home Rule League?"
+  options: { A: "Motilal Nehru", B: "K.M. Munshi", C: "Mohammad Ali Jinnah", D: "Bhulabhai Desai" }
+  answer: C
+  explanation: "Some leaders who joined became heads of local branches of Besant's league; Mohammad Ali Jinnah led the Bombay division."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [ssc]
+
+- slug: smi-14-m06
+  difficulty: medium
+  stem: "Under the Lucknow Pact (1916), the Congress accepted the Muslim League's position on"
+  options: { A: "a university at Aligarh with powers to affiliate colleges", B: "support to Turkey in the Balkan wars", C: "reversal of the annulment of the partition of Bengal", D: "separate electorates" }
+  answer: D
+  explanation: "The Congress accepted the League's position on separate electorates, to continue till any one community demanded joint electorates."
+  source: "Spectrum (2019-20), p. 301"
+  tags: [ssc]
+
+- slug: smi-14-m07
+  difficulty: medium
+  stem: "Montagu's remark that Shiva 'cut his wife into fifty-two pieces only to discover that he had fifty-two wives' referred to the"
+  options: { A: "internment of Mrs Besant", B: "case instituted against Tilak", C: "Lucknow Pact", D: "internment of the Ali brothers" }
+  answer: A
+  explanation: "Montagu said this is what happens to the Government of India when it interns Mrs Besant."
+  source: "Spectrum (2019-20), p. 298"
+  tags: [ssc]
+
+- slug: smi-14-m08
+  difficulty: medium
+  stem: "According to the book, Annie Besant, the Irish theosophist, had been based in India since"
+  options: { A: "1893", B: "1896", C: "1905", D: "1914" }
+  answer: B
+  explanation: "The book describes Annie Besant as the Irish theosophist based in India since 1896."
+  source: "Spectrum (2019-20), p. 296"
+  tags: [ssc]
+
+- slug: smi-14-m09
+  difficulty: medium
+  stem: "Which session of the Muslim League committed it to 'working with other groups for a system of self-government suited to India'?"
+  options: { A: "Lucknow session, 1916", B: "Calcutta session, 1911", C: "Bombay session, 1915", D: "Calcutta session, 1912", E: "More than one of the above" }
+  answer: D
+  explanation: "The Calcutta session of the Muslim League (1912) made this commitment, bringing its goal closer to the Congress's."
+  source: "Spectrum (2019-20), p. 301"
+  tags: [bpsc]
+
+- slug: smi-14-m10
+  difficulty: medium
+  stem: "During the First World War, the number of white soldiers in India went down at one point to only"
+  options: { A: "5,000", B: "10,000", C: "15,000", D: "50,000" }
+  answer: C
+  explanation: "The war drained India of troops; the number of white soldiers fell at one point to only 15,000."
+  source: "Spectrum (2019-20), p. 295"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-14-h01
+  difficulty: hard
+  stem: |
+    Consider the following joint demands of the Congress and the Muslim League under the Lucknow Pact:
+
+    1. Half the members of the viceroy's and provincial governors' executive councils should be Indians.
+    2. The term of the legislative council should be five years.
+    3. The salaries of the Secretary of State for India should be drawn from Indian funds.
+
+    Which of the above were among the joint demands?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The pact demanded that the Secretary of State's salary be paid by the British treasury, not from Indian funds."
+  source: "Spectrum (2019-20), p. 302"
+  tags: [bpsc]
+
+- slug: smi-14-h02
+  difficulty: hard
+  stem: |
+    **Assertion (A):** After Montagu's statement of August 1917, the nationalist demand for self-government could no longer be termed seditious.
+
+    **Reason (R):** The statement made the attainment of self-government for Indians a government policy.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says the demand could not be called seditious since self-government now became government policy, unlike Morley's 1909 stand."
+  source: "Spectrum (2019-20), p. 303"
+  tags: [bpsc]
+
+- slug: smi-14-h03
+  difficulty: hard
+  stem: |
+    Which of the following are given in the book as reasons why the Home Rule agitation faded out by 1919?
+
+    1. Lack of effective organisation
+    2. Communal riots during 1917-18
+    3. Tilak's going abroad in September 1918 in connection with a libel case
+    4. Annie Besant's deportation to England in 1918
+
+    Select the correct answer using the codes given below.
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Besant was not deported; she was released in September 1917 and later vacillated over the reforms. The other three are listed reasons."
+  source: "Spectrum (2019-20), pp. 298-299"
+  tags: [bpsc]
+
+- slug: smi-14-h04
+  difficulty: hard
+  stem: |
+    According to the book, which of the following did NOT join the Home Rule agitation?
+
+    1. Anglo-Indians
+    2. Most of the Muslims
+    3. Non-brahmins from the South
+    4. Members of Gokhale's Servants of India Society
+
+    Select the correct answer using the codes given below.
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1, 2, 3 and 4", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Some members of Gokhale's Servants of India Society joined; Anglo-Indians, most Muslims and southern non-brahmins stayed away fearing high-caste Hindu majority rule."
+  source: "Spectrum (2019-20), pp. 297-298"
+  tags: [bpsc]
+
+- slug: smi-14-h05
+  difficulty: hard
+  stem: |
+    Consider the following as reasons for the shift in the Muslim League's attitude before the Lucknow Pact:
+
+    1. Britain's refusal to help Turkey in its wars in the Balkans and with Italy
+    2. The annulment of the partition of Bengal in 1911
+    3. The government's refusal to set up a university at Aligarh with powers to affiliate colleges all over India
+
+    Which of the above are mentioned in the book?
+  options: { A: "1, 2 and 3", B: "1 and 2 only", C: "2 and 3 only", D: "1 and 3 only", E: "None of the above" }
+  answer: A
+  explanation: "All three are listed by the book, along with the younger members' bolder politics and wartime repression."
+  source: "Spectrum (2019-20), pp. 300-301"
+  tags: [bpsc]
+
+- slug: smi-14-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Home Rule campaign attracted the hitherto 'politically backward' regions of Gujarat and Sindh.
+
+    **Reason (R):** The Russian Revolution of 1917 proved to be an added advantage for the Home Rule campaign.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "Both are stated in the book, but the wider appeal to Gujarat and Sindh is not attributed by the book to the Russian Revolution."
+  source: "Spectrum (2019-20), p. 297"
+  tags: [bpsc]
+
+- slug: smi-14-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Lucknow session of the Congress (1916):
+
+    1. The death of Gokhale and Pherozshah Mehta, who had led the Moderate opposition to the Extremists, facilitated the reunion.
+    2. To allay Moderate suspicions, Tilak declared he supported a reform of administration and not an overthrow of the government.
+    3. The session was presided over by Tilak after the Extremists were readmitted.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The session was presided over by the Moderate Ambika Charan Majumdar; statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 300"
+  tags: [bpsc]
+
+- slug: smi-14-h08
+  difficulty: hard
+  stem: |
+    Consider the following as Indian objections to Montagu's statement of August 1917:
+
+    1. No specific time frame was given.
+    2. The government alone was to decide the nature and timing of the advance towards responsible government.
+    3. The statement made no mention of responsible government.
+
+    Which of the above are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The statement did speak of the progressive realisation of responsible government; the objections were only about the time frame and the government deciding alone."
+  source: "Spectrum (2019-20), p. 303"
+  tags: [bpsc]
+
+- slug: smi-14-h09
+  difficulty: hard
+  stem: |
+    Which of the following are mentioned in the book as positive gains of the Home Rule Movement?
+
+    1. It shifted the emphasis from the educated elite to the masses.
+    2. It created an organisational link between the town and the country.
+    3. Montagu's August 1917 declaration and the Montford reforms were influenced by it.
+    4. It drew most Muslims into the national movement for the first time.
+
+    Select the correct answer using the codes given below.
+  options: { A: "1 and 2 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: B
+  explanation: "The book says most Muslims did not join the agitation; the other three are listed as positive gains."
+  source: "Spectrum (2019-20), pp. 298-299"
+  tags: [bpsc]
+
+- slug: smi-14-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements about the nationalist response to the First World War:
+
+    1. The Moderates supported the empire in the war as a matter of duty.
+    2. The Extremists, including Tilak who had been released in June 1915, supported the war effort hoping for self-government in return.
+    3. The revolutionaries decided to use the opportunity to wage a war on British rule.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "1 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Tilak was released in June 1914, not 1915; the rest of statement 2 and statements 1 and 3 match the book."
+  source: "Spectrum (2019-20), p. 294"
+  tags: [bpsc]

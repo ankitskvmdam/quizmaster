@@ -16,7 +16,7 @@ export function PeriodPicker({ subjectSlug, months }: { subjectSlug: string; mon
   // months arrive newest first
   const [n, setN] = useState<N>('3')
   const [end, setEnd] = useState<MonthKey>(months[0])
-  const base = `/subjects/${subjectSlug}/current-affairs/period`
+  const base = `/courses/${subjectSlug}/current-affairs/period`
   const rolling = rollingPeriod(end, Number(n) as 3 | 6 | 12)
   const blocks = calendarPeriods(months)
 

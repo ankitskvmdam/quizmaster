@@ -1,0 +1,508 @@
+# Chapter 24 — Post-War National Scenario (book pp. 462-490)
+# ---------- EASY ----------
+- slug: smi-24-e01
+  difficulty: easy
+  stem: "Who became the Prime Minister of Britain when the Labour Party formed the government in July 1945?"
+  options: { A: "Winston Churchill", B: "Clement Attlee", C: "Stafford Cripps", D: "Pethick Lawrence" }
+  answer: B
+  explanation: "In July 1945 the Labour Party formed the government in Britain and Clement Attlee became the new prime minister."
+  source: "Spectrum (2019-20), p. 463"
+  tags: [ssc]
+
+- slug: smi-24-e02
+  difficulty: easy
+  stem: "On which date did the Cabinet Mission reach Delhi?"
+  options: { A: "March 24, 1946", B: "February 18, 1946", C: "March 15, 1946", D: "June 6, 1946" }
+  answer: A
+  explanation: "The Cabinet Mission reached Delhi on March 24, 1946 and held prolonged discussions with Indian leaders."
+  source: "Spectrum (2019-20), p. 472"
+  tags: [ssc]
+
+- slug: smi-24-e03
+  difficulty: easy
+  stem: "Where was the first trial of the INA prisoners held in November 1945?"
+  options: { A: "Lahore Fort", B: "Fort William, Calcutta", C: "Red Fort, Delhi", D: "Fort St. George, Madras" }
+  answer: C
+  explanation: "The British held the first INA trial at the Red Fort in Delhi in November 1945."
+  source: "Spectrum (2019-20), p. 464"
+  tags: [ssc]
+
+- slug: smi-24-e04
+  difficulty: easy
+  stem: "INA Day was celebrated on"
+  options: { A: "November 5, 1945", B: "November 21, 1945", C: "December 1, 1945", D: "November 12, 1945" }
+  answer: D
+  explanation: "The book mentions celebrations of INA Day on November 12, 1945 and INA week from November 5 to 11."
+  source: "Spectrum (2019-20), p. 465"
+  tags: [ssc]
+
+- slug: smi-24-e05
+  difficulty: easy
+  stem: "The strike by the Royal Indian Navy ratings on February 18, 1946 took place in"
+  options: { A: "Karachi", B: "Bombay", C: "Madras", D: "Calcutta" }
+  answer: B
+  explanation: "The third upsurge of the winter of 1945-46 was the strike by RIN ratings in Bombay on February 18, 1946."
+  source: "Spectrum (2019-20), p. 466"
+  tags: [ssc]
+
+- slug: smi-24-e06
+  difficulty: easy
+  stem: "Which leaders persuaded the RIN ratings to surrender on February 23, 1946?"
+  options: { A: "Gandhi and Nehru", B: "Nehru and Liaquat Ali Khan", C: "Patel and Jinnah", D: "Maulana Azad and Jinnah" }
+  answer: C
+  explanation: "Patel and Jinnah persuaded the ratings to surrender with an assurance that national parties would prevent victimisation."
+  source: "Spectrum (2019-20), p. 468"
+  tags: [ssc]
+
+- slug: smi-24-e07
+  difficulty: easy
+  stem: "Who was the chairman of the Cabinet Mission of 1946?"
+  options: { A: "Stafford Cripps", B: "A.V. Alexander", C: "Clement Attlee", D: "Pethick Lawrence" }
+  answer: D
+  explanation: "Pethick Lawrence, Secretary of State for India, was the chairman of the three-member Cabinet Mission."
+  source: "Spectrum (2019-20), p. 470"
+  tags: [ssc]
+
+- slug: smi-24-e08
+  difficulty: easy
+  stem: "The Congress-dominated Interim Government headed by Nehru was sworn in on"
+  options: { A: "August 16, 1946", B: "September 2, 1946", C: "October 26, 1946", D: "December 9, 1946" }
+  answer: B
+  explanation: "Fearing mass action by the Congress, an Interim Government headed by Nehru was sworn in on September 2, 1946."
+  source: "Spectrum (2019-20), p. 476"
+  tags: [ssc]
+
+- slug: smi-24-e09
+  difficulty: easy
+  stem: "The 'Objectives Resolution' passed by the Constituent Assembly was drafted by"
+  options: { A: "B.R. Ambedkar", B: "Rajendra Prasad", C: "Jawaharlal Nehru", D: "Vallabhbhai Patel" }
+  answer: C
+  explanation: "With the League absent, the Assembly (first met December 9, 1946) passed a general Objectives Resolution drafted by Jawaharlal Nehru."
+  source: "Spectrum (2019-20), p. 477"
+  tags: [ssc]
+
+- slug: smi-24-e10
+  difficulty: easy
+  stem: "Which Muslim League member held the Finance portfolio in the Interim Government of 1946?"
+  options: { A: "Liaquat Ali Khan", B: "Ibrahim Ismail Chundrigar", C: "Abdur Rab Nishtar", D: "Ghazanfar Ali Khan" }
+  answer: A
+  explanation: "Liaquat Ali Khan was Finance member; the book says he restricted the efficient functioning of other ministries."
+  source: "Spectrum (2019-20), p. 477"
+  tags: [ssc]
+
+- slug: smi-24-e11
+  difficulty: easy
+  stem: "Which portfolio did Rajendra Prasad hold in the Interim Government (1946-47)?"
+  options: { A: "Education", B: "Agriculture and Food", C: "Labour", D: "Railway", E: "More than one of the above" }
+  answer: B
+  explanation: "In the list of 14 ministers of the Interim Government, Rajendra Prasad held Agriculture and Food."
+  source: "Spectrum (2019-20), p. 477"
+  tags: [bpsc]
+
+- slug: smi-24-e12
+  difficulty: easy
+  stem: "Jagjivan Ram was in charge of which department in the Interim Government (1946-47)?"
+  options: { A: "Works, Mines and Power", B: "Commerce", C: "Health", D: "Labour", E: "More than one of the above" }
+  answer: D
+  explanation: "The book lists Jagjivan Ram as the Labour member of the Interim Government."
+  source: "Spectrum (2019-20), p. 477"
+  tags: [bpsc]
+
+- slug: smi-24-e13
+  difficulty: easy
+  stem: "At which session of the Muslim League was the 'Pakistan Resolution' passed on March 24, 1940?"
+  options: { A: "Karachi", B: "Lucknow", C: "Dacca", D: "Lahore" }
+  answer: D
+  explanation: "The Pakistan Resolution was passed at the Lahore session of the Muslim League on March 24, 1940."
+  source: "Spectrum (2019-20), p. 488"
+  tags: [ssc]
+
+- slug: smi-24-e14
+  difficulty: easy
+  stem: "The first session of the All-India Hindu Mahasabha (April 1915) was presided over by"
+  options: { A: "Maharaja of Kasim Bazar", B: "Raja Shiv Prasad of Bhinga", C: "U.N. Mukherjee", D: "Lal Chand" }
+  answer: A
+  explanation: "The All-India Hindu Mahasabha held its first session in April 1915 with the Maharaja of Kasim Bazar as president."
+  source: "Spectrum (2019-20), p. 484"
+  tags: [ssc]
+
+- slug: smi-24-e15
+  difficulty: easy
+  stem: "The Muslim delegation (Shimla delegation) that met Viceroy Lord Minto in 1906 was led by"
+  options: { A: "Agha Khan", B: "Nawab Salimullah of Dacca", C: "Syed Ahmed Khan", D: "Nawab Mohsin-ul-Mulk" }
+  answer: A
+  explanation: "In 1906 the Agha Khan led the Shimla delegation to Lord Minto demanding separate electorates for Muslims."
+  source: "Spectrum (2019-20), p. 485"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-24-m01
+  difficulty: medium
+  stem: |
+    Arrange the following events in chronological order:
+
+    1. Arrival of the Cabinet Mission in Delhi
+    2. Strike by the Royal Indian Navy ratings in Bombay
+    3. Muslim League joining the Interim Government
+    4. First INA trial at the Red Fort
+
+    Select the correct answer:
+  options: { A: "4, 2, 1, 3", B: "2, 4, 1, 3", C: "4, 1, 2, 3", D: "2, 4, 3, 1", E: "None of the above" }
+  answer: A
+  explanation: "Red Fort trial (November 1945), RIN strike (February 18, 1946), Cabinet Mission in Delhi (March 24, 1946), League joins Interim Government (October 26, 1946)."
+  source: "Spectrum (2019-20), pp. 464-476"
+  tags: [bpsc]
+
+- slug: smi-24-m02
+  difficulty: medium
+  stem: |
+    Match List I (member of the Interim Government) with List II (portfolio):
+
+    | List I | List II |
+    |---|---|
+    | a. Vallabhbhai Patel | 1. Railway |
+    | b. C. Rajagopalachari | 2. Works, Mines and Power |
+    | c. C.H. Bhabha | 3. Home, Information and Broadcasting |
+    | d. Asaf Ali | 4. Education |
+  options: { A: "a-3, b-2, c-4, d-1", B: "a-3, b-4, c-2, d-1", C: "a-4, b-3, c-2, d-1", D: "a-3, b-4, c-1, d-2", E: "None of the above" }
+  answer: B
+  explanation: "Patel held Home, Information and Broadcasting; Rajagopalachari Education; C.H. Bhabha Works, Mines and Power; Asaf Ali Railway."
+  source: "Spectrum (2019-20), p. 477"
+  tags: [bpsc]
+
+- slug: smi-24-m03
+  difficulty: medium
+  stem: "Under the Cabinet Mission Plan, how many members of the 389-member constituent assembly were to be sent by the princely states?"
+  options: { A: "292", B: "4", C: "93", D: "102" }
+  answer: C
+  explanation: "Provincial assemblies were to send 292, chief commissioner's provinces 4 and princely states 93 members."
+  source: "Spectrum (2019-20), p. 473"
+  tags: [ssc]
+
+- slug: smi-24-m04
+  difficulty: medium
+  stem: "Under the Cabinet Mission Plan's grouping of provincial assemblies, Bihar was placed in"
+  options: { A: "Section B", B: "Section C", C: "Section A", D: "None of the sections", E: "More than one of the above" }
+  answer: C
+  explanation: "Section A comprised the Hindu-majority provinces of Madras, Bombay, Central Provinces, United Provinces, Bihar and Orissa."
+  source: "Spectrum (2019-20), p. 473"
+  tags: [bpsc]
+
+- slug: smi-24-m05
+  difficulty: medium
+  stem: "Which office did A.V. Alexander hold when he came to India as a member of the Cabinet Mission?"
+  options: { A: "Secretary of State for India", B: "President of the Board of Trade", C: "Prime Minister", D: "First Lord of the Admiralty" }
+  answer: D
+  explanation: "The Mission comprised Pethick Lawrence (Secretary of State), Stafford Cripps (President of the Board of Trade) and A.V. Alexander (First Lord of Admiralty)."
+  source: "Spectrum (2019-20), p. 470"
+  tags: [ssc]
+
+- slug: smi-24-m06
+  difficulty: medium
+  stem: "In the elections of 1945-46, the Congress share of non-Muslim votes and the Muslim League share of Muslim votes were respectively"
+  options: { A: "86.6 per cent and 91 per cent", B: "91 per cent and 57 per cent", C: "57 per cent and 86.6 per cent", D: "91 per cent and 86.6 per cent" }
+  answer: D
+  explanation: "The Congress got 91 per cent of non-Muslim votes and the League 86.6 per cent of Muslim votes."
+  source: "Spectrum (2019-20), pp. 469-470"
+  tags: [ssc]
+
+- slug: smi-24-m07
+  difficulty: medium
+  stem: "In the provincial elections of 1945-46, the Congress failed to get a majority in"
+  options: { A: "NWFP, Sindh and Punjab", B: "Bengal, Assam and Punjab", C: "Bengal, Sindh and Punjab", D: "Bengal, Sindh and NWFP", E: "None of the above" }
+  answer: C
+  explanation: "Congress won a majority in most provinces except Bengal, Sindh and Punjab; NWFP and Assam were Congress-majority provinces."
+  source: "Spectrum (2019-20), p. 469"
+  tags: [bpsc]
+
+- slug: smi-24-m08
+  difficulty: medium
+  stem: "After the 1946 elections, which coalition assumed power in Punjab under Khizr Hayat Khan?"
+  options: { A: "Unionist-League-Akali", B: "Unionist-Congress-Akali", C: "Congress-Akali-Sikh League", D: "League-Unionist" }
+  answer: B
+  explanation: "In Punjab a Unionist-Congress-Akali coalition under Khizr Hayat Khan assumed power."
+  source: "Spectrum (2019-20), p. 470"
+  tags: [ssc]
+
+- slug: smi-24-m09
+  difficulty: medium
+  stem: "Wavell's 'Breakdown Plan' (May 1946) envisaged"
+  options: { A: "an immediate transfer of power over the whole country to the Congress", B: "withdrawal of the British Army and officials to the Muslim provinces of the North-West and North-East, handing the rest to the Congress", C: "a League-led interim government at the Centre", D: "dominion status with every province free to stay out of the Union" }
+  answer: B
+  explanation: "Wavell's plan, a middle course between 'repression' and 'scuttle', envisaged withdrawal to the Muslim provinces of the North-West and North-East and handing over the rest to the Congress."
+  source: "Spectrum (2019-20), p. 475"
+  tags: [ssc]
+
+- slug: smi-24-m10
+  difficulty: medium
+  stem: "On July 29, 1946 the Muslim League withdrew its acceptance of the Cabinet Mission's long-term plan in response to"
+  options: { A: "Nehru's statement of July 10, 1946 on the Constituent Assembly", B: "the swearing-in of the Interim Government", C: "Attlee's speech of March 15, 1946", D: "the Mission's clarification that grouping was compulsory", E: "None of the above" }
+  answer: A
+  explanation: "The League withdrew in response to Nehru's July 10 statement that the Congress was bound by nothing except entering the Constituent Assembly."
+  source: "Spectrum (2019-20), p. 475"
+  tags: [bpsc]
+
+- slug: smi-24-m11
+  difficulty: medium
+  stem: "The upsurge in Calcutta on February 11, 1946 was a protest against"
+  options: { A: "the seven-year sentence given to INA officer Rashid Ali", B: "the firing on a student procession at Dalhousie Square", C: "the opening of the INA trial at the Red Fort", D: "the arrest of a naval rating for scrawling 'Quit India'" }
+  answer: A
+  explanation: "The second upsurge, on February 11, 1946 in Calcutta, was against the seven-year sentence to INA officer Rashid Ali."
+  source: "Spectrum (2019-20), p. 466"
+  tags: [ssc]
+
+- slug: smi-24-m12
+  difficulty: medium
+  stem: "The notion that since two religious communities have different religious interests, they also have different secular (economic, political, cultural) interests is termed in the book as"
+  options: { A: "Communal nationalism", B: "Liberal communalism", C: "Extreme communalism", D: "Militant nationalism" }
+  answer: B
+  explanation: "Liberal communalism is the second stage; extreme communalism holds that the interests are incompatible."
+  source: "Spectrum (2019-20), p. 478"
+  tags: [ssc]
+
+- slug: smi-24-m13
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Establishment of the Rashtriya Swayamsevak Sangh
+    2. Communal Award
+    3. Founding of the Punjab Hindu Sabha
+    4. First session of the All-India Hindu Mahasabha
+
+    Select the correct answer:
+  options: { A: "4, 3, 1, 2", B: "3, 1, 4, 2", C: "3, 4, 2, 1", D: "3, 4, 1, 2", E: "None of the above" }
+  answer: D
+  explanation: "Punjab Hindu Sabha (1909), Hindu Mahasabha first session (1915), RSS (1925), Communal Award (1932)."
+  source: "Spectrum (2019-20), pp. 484-487"
+  tags: [bpsc]
+
+- slug: smi-24-m14
+  difficulty: medium
+  stem: "In 1887, who was propped up by the government along with Syed Ahmed Khan as an anti-Congress front?"
+  options: { A: "Badruddin Tyabji", B: "Hamid Ali Khan", C: "Raja Shiv Prasad of Bhinga", D: "Mir Musharraf Hussain" }
+  answer: C
+  explanation: "Syed Ahmed Khan and Raja Shiv Prasad of Bhinga were propped up; Tyabji, Musharraf Hussain and Hamid Ali Khan joined the Congress."
+  source: "Spectrum (2019-20), p. 485"
+  tags: [ssc]
+
+- slug: smi-24-m15
+  difficulty: medium
+  stem: "In the 1920s, in retaliation to the Arya Samaj's Shuddhi and Sangathan movements, Muslims started the"
+  options: { A: "Wahabi and Khilafat movements", B: "Jamaat-i-ulema and Khudai Khidmatgar movements", C: "Tabligh and Tanzeem movements", D: "Ahrar and Faraizi movements" }
+  answer: C
+  explanation: "The Muslims started the Tabligh and Tanzeem movements in retaliation to Shuddhi and Sangathan."
+  source: "Spectrum (2019-20), p. 486"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-24-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the factors behind the change in the British government's attitude in 1945:
+
+    1. The USA and the USSR, which emerged as superpowers, both favoured freedom for India.
+    2. The last elections had been held in 1937, both for the Centre and for the provinces.
+    3. There was an anti-imperialist wave in Vietnam and Indonesia resisting the replanting of French and Dutch rule.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 3 are in the book; the last elections were in 1934 for the Centre and 1937 for the provinces."
+  source: "Spectrum (2019-20), p. 463"
+  tags: [bpsc]
+
+- slug: smi-24-h02
+  difficulty: hard
+  stem: "Which one of the following was NOT among the three accused put together in the dock at the first INA trial in November 1945?"
+  options: { A: "Prem Kumar Sehgal", B: "Shah Nawaz Khan", C: "Gurbaksh Singh Dhillon", D: "Rashid Ali" }
+  answer: D
+  explanation: "The first trial put a Hindu (Sehgal), a Muslim (Shah Nawaz Khan) and a Sikh (Dhillon) together; Rashid Ali's sentence sparked the February 1946 upsurge."
+  source: "Spectrum (2019-20), p. 464"
+  tags: [ssc]
+
+- slug: smi-24-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the INA agitation:
+
+    1. The defence of INA prisoners was organised by Bhulabhai Desai, Tej Bahadur Sapru, Kailash Nath Katju, Jawaharlal Nehru and Asaf Ali.
+    2. The first post-War Congress session, held at Bombay in September 1945, adopted a resolution supporting the INA cause.
+    3. The Muslim League and the Hindu Mahasabha stayed away from supporting the INA cause.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The book lists the Muslim League and the Hindu Mahasabha among those who supported the INA cause, so statement 3 is wrong."
+  source: "Spectrum (2019-20), p. 465"
+  tags: [bpsc]
+
+- slug: smi-24-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The elections of 1945-46 witnessed communal voting, in contrast to the anti-British unity shown in the upsurges.
+
+    **Reason (R):** There were separate electorates and a limited franchise — less than 10 per cent of the population could vote for the provinces and less than 1 per cent for the Central Assembly.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book attributes the communal voting to separate electorates and the limited franchise, so R explains A."
+  source: "Spectrum (2019-20), p. 470"
+  tags: [bpsc]
+
+- slug: smi-24-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the limitations of the three upsurges of 1945-46:
+
+    1. They were short-lived and confined to a few urban centres, while the general INA agitation reached the remotest villages.
+    2. The communal unity witnessed was more a unity among the people than an organisational unity.
+    3. A Maratha battalion in Bombay rounded up the ratings and restored them to their barracks.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The book says the unity was more organisational than among the people (Muslim ratings went to the League, others to Congress and Socialists)."
+  source: "Spectrum (2019-20), pp. 468-469"
+  tags: [bpsc]
+
+- slug: smi-24-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements about concessions the British made after the upsurges:
+
+    1. Indian soldiers were withdrawn from Indo-China and Indonesia by February 1947.
+    2. The government announced that all INA members would be brought to trial irrespective of the charges against them.
+    3. The decision to send the Cabinet Mission was taken in January 1946.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 and 3 only", C: "2 and 3 only", D: "1 only", E: "None of the above" }
+  answer: B
+  explanation: "Only INA members accused of murder or brutal treatment of fellow prisoners were to be tried, so statement 2 is wrong."
+  source: "Spectrum (2019-20), p. 468"
+  tags: [bpsc]
+
+- slug: smi-24-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the RIN revolt of February 1946:
+
+    1. Some 1100 ratings of HMIS Talwar went on strike.
+    2. The rebel ratings hoisted the tricolour, crescent, and hammer and sickle flags on the mast of the rebel fleet.
+    3. One of their demands was the withdrawal of Indian troops from Indonesia.
+    4. The Royal Indian Air Force went on sympathetic strike at Karachi, Madras and Visakhapatnam.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Karachi, Madras and Visakhapatnam saw strikes in military establishments; the RIAF struck at Bombay, Poona, Calcutta, Jessore and Ambala."
+  source: "Spectrum (2019-20), p. 467"
+  tags: [bpsc]
+
+- slug: smi-24-h08
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The RIN revolt was seen as an event marking the end of British rule.
+
+    **Reason (R):** The revolt destroyed the British infrastructure of repression, so the British could not regain control of the situation.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "The book says the British infrastructure to repress remained intact and they soon controlled the situation, so R is false."
+  source: "Spectrum (2019-20), pp. 468-469"
+  tags: [bpsc]
+
+- slug: smi-24-h09
+  difficulty: hard
+  stem: |
+    Consider the following provisions of the Cabinet Mission Plan:
+
+    1. Communal questions in the central legislature were to be decided by a simple majority of both communities present and voting.
+    2. Provinces were to have full autonomy and residual powers.
+    3. After 10 years, a province was to be free to call for a reconsideration of the group or the union constitution.
+    4. A province was free to come out of a group even before the first general elections.
+
+    Which of the provisions given above are correctly stated?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 3 and 4 only", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "A province could come out of a group only after the first general elections, so 4 is wrong."
+  source: "Spectrum (2019-20), p. 474"
+  tags: [bpsc]
+
+- slug: smi-24-h10
+  difficulty: hard
+  stem: "While rejecting the demand for a full-fledged Pakistan, the Cabinet Mission noted that the non-Muslim population of such a Pakistan would be"
+  options: { A: "38 per cent in the North-West and 48 per cent in the North-East", B: "48 per cent in the North-West and 38 per cent in the North-East", C: "38 per cent in both the North-West and the North-East", D: "48 per cent in both the North-West and the North-East" }
+  answer: A
+  explanation: "The Mission said Pakistan would include a large non-Muslim population: 38 per cent in the North-West and 48 per cent in the North-East."
+  source: "Spectrum (2019-20), p. 473"
+  tags: [ssc]
+
+- slug: smi-24-h11
+  difficulty: hard
+  stem: |
+    Consider the following statements about reactions to the Cabinet Mission Plan:
+
+    1. The Congress objected that provinces should have the option of not joining a group in the first place.
+    2. The Congress objected that members from princely states could only be nominated by the princes, not elected.
+    3. The League wanted sections B and C to develop into solid entities with a view to future secession into Pakistan.
+    4. The Congress read the grouping clause as compulsory, while the League read it as optional.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 3 and 4 only", E: "None of the above" }
+  answer: B
+  explanation: "Statement 4 is reversed: the Congress saw grouping as optional and the League as compulsory."
+  source: "Spectrum (2019-20), pp. 474-475"
+  tags: [bpsc]
+
+- slug: smi-24-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Interim Government:
+
+    1. Jogendra Nath Mandal, a Muslim League nominee, held the Law portfolio.
+    2. The Muslim League joined the Interim Government on October 26, 1946 after giving up 'direct action'.
+    3. Wavell overruled the ministers on the release of INA prisoners in his very last cabinet meeting in March 1947.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The League was allowed to join without giving up 'direct action', so statement 2 is wrong."
+  source: "Spectrum (2019-20), pp. 476-477"
+  tags: [bpsc]
+
+- slug: smi-24-h13
+  difficulty: hard
+  stem: "Garhmukteshwar, listed with Calcutta, Bombay, Noakhali and Bihar among the worst-hit areas of the communal riots from August 16, 1946, was in"
+  options: { A: "Bengal", B: "Bihar", C: "United Provinces", D: "Punjab", E: "More than one of the above" }
+  answer: C
+  explanation: "The book names Garhmukteshwar (United Provinces) among the worst-hit areas, along with Calcutta, Bombay, Noakhali and Bihar."
+  source: "Spectrum (2019-20), p. 476"
+  tags: [bpsc]
+
+- slug: smi-24-h14
+  difficulty: hard
+  stem: |
+    Consider the following statements about the evolution of the two-nation theory:
+
+    1. In 1906 Lord Minto assured Muslims of special communal representation in excess of their population.
+    2. Separate electorates were awarded under the Morley-Minto Reforms of 1909.
+    3. The idea of a separate Muslim nation was first proposed in the early 1930s by the poet Iqbal and later developed by Rahmat Ali.
+    4. The Communal Award of 1932 accepted all Muslim communal demands contained in the 14 points.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "1, 2 and 4 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: B
+  explanation: "Statement 3 is reversed: Rahmat Ali proposed the idea in the early 1930s and the poet Iqbal developed it."
+  source: "Spectrum (2019-20), pp. 485-487"
+  tags: [bpsc]
+
+- slug: smi-24-h15
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The communalists attended all three Round Table Conferences held in London.
+
+    **Reason (R):** The Congress stayed away from two of the three Round Table Conferences.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "The book states both facts side by side, but the Congress's absence does not explain why the communalists attended."
+  source: "Spectrum (2019-20), p. 487"
+  tags: [bpsc]

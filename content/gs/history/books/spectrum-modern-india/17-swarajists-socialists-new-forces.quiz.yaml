@@ -1,0 +1,412 @@
+# Chapter 17 — Emergence of Swarajists, Socialist Ideas, Revolutionary Activities and Other New Forces (book pp. 340-356)
+# ---------- EASY ----------
+- slug: smi-17-e01
+  difficulty: easy
+  stem: "Who was the president of the Congress-Khilafat Swarajya Party when it was formed?"
+  options: { A: "C.R. Das", B: "Motilal Nehru", C: "Hakim Ajmal Khan", D: "Vithalbhai Patel" }
+  answer: A
+  explanation: "The party was announced with C.R. Das as president and Motilal Nehru as one of the secretaries."
+  source: "Spectrum (2019-20), p. 341"
+  tags: [ssc]
+
+- slug: smi-17-e02
+  difficulty: easy
+  stem: "At which Congress session (December 1922) was the Swarajists' proposal of 'ending or mending' the councils defeated?"
+  options: { A: "Belgaum", B: "Gaya", C: "Lahore", D: "Ahmedabad" }
+  answer: B
+  explanation: "The council-entry proposal was defeated at the Gaya session in December 1922."
+  source: "Spectrum (2019-20), p. 341"
+  tags: [ssc]
+
+- slug: smi-17-e03
+  difficulty: easy
+  stem: "Gandhi presided over a Congress session only once. Which session was it?"
+  options: { A: "Gaya, 1922", B: "Nagpur, 1920", C: "Belgaum, 1924", D: "Lahore, 1929" }
+  answer: C
+  explanation: "The book notes that Gandhi presided over the Congress, for the only time, at the Belgaum session of December 1924."
+  source: "Spectrum (2019-20), p. 343"
+  tags: [ssc]
+
+- slug: smi-17-e04
+  difficulty: easy
+  stem: "Who was elected Speaker of the Central Legislative Assembly in 1925?"
+  options: { A: "Motilal Nehru", B: "Madan Mohan Malaviya", C: "Lala Lajpat Rai", D: "Vithalbhai Patel" }
+  answer: D
+  explanation: "Vithalbhai Patel's election as Speaker in 1925 is listed among the Swarajists' achievements."
+  source: "Spectrum (2019-20), p. 344"
+  tags: [ssc]
+
+- slug: smi-17-e05
+  difficulty: easy
+  stem: "The Communist Party of India was formed in 1920 at"
+  options: { A: "Tashkent", B: "Kanpur", C: "Moscow", D: "Meerut" }
+  answer: A
+  explanation: "The CPI was formed in 1920 in Tashkent by M.N. Roy, Abani Mukherji and others after the second Congress of the Comintern."
+  source: "Spectrum (2019-20), p. 346"
+  tags: [ssc]
+
+- slug: smi-17-e06
+  difficulty: easy
+  stem: "Who was the first president of the All India Trade Union Congress (AITUC), founded in 1920?"
+  options: { A: "Dewan Chaman Lal", B: "Lala Lajpat Rai", C: "Bal Gangadhar Tilak", D: "S.A. Dange" }
+  answer: B
+  explanation: "Lala Lajpat Rai was the AITUC's first president and Dewan Chaman Lal its general secretary."
+  source: "Spectrum (2019-20), p. 347"
+  tags: [ssc]
+
+- slug: smi-17-e07
+  difficulty: easy
+  stem: "In 1923, the first May Day in India was celebrated in"
+  options: { A: "Bombay", B: "Calcutta", C: "Madras", D: "Kanpur" }
+  answer: C
+  explanation: "The book states that the first May Day in India was celebrated in Madras in 1923."
+  source: "Spectrum (2019-20), p. 347"
+  tags: [ssc]
+
+- slug: smi-17-e08
+  difficulty: easy
+  stem: "The Self-respect movement (1925) in Madras was led by"
+  options: { A: "K. Aiyappan", B: "Bhaskar Rao Jadhav", C: "B.R. Ambedkar", D: "E.V. Ramaswamy Naicker" }
+  answer: D
+  explanation: "The Self-respect movement (1925) was under 'Periyar', E.V. Ramaswamy Naicker."
+  source: "Spectrum (2019-20), p. 348"
+  tags: [ssc]
+
+- slug: smi-17-e09
+  difficulty: easy
+  stem: "The Hindustan Republican Association (HRA) was founded in October 1924 at"
+  options: { A: "Kanpur", B: "Lucknow", C: "Lahore", D: "Delhi" }
+  answer: A
+  explanation: "The HRA was founded in October 1924 in Kanpur by Ramprasad Bismil, Jogesh Chandra Chatterjee and Sachin Sanyal."
+  source: "Spectrum (2019-20), p. 349"
+  tags: [ssc]
+
+- slug: smi-17-e10
+  difficulty: easy
+  stem: "Kakori, where the HRA held up the 8-Down train in August 1925, is a village near"
+  options: { A: "Kanpur", B: "Lucknow", C: "Allahabad", D: "Gorakhpur" }
+  answer: B
+  explanation: "The book describes Kakori as an obscure village near Lucknow."
+  source: "Spectrum (2019-20), pp. 349-350"
+  tags: [ssc]
+
+- slug: smi-17-e11
+  difficulty: easy
+  stem: "Which revolutionary became the first martyr on the 64th day of his hunger strike in jail?"
+  options: { A: "Bhagat Singh", B: "Sukhdev", C: "Jatin Das", D: "Batukeshwar Dutt" }
+  answer: C
+  explanation: "Protesting jail conditions, Jatin Das became the first martyr on the 64th day of his fast."
+  source: "Spectrum (2019-20), p. 351"
+  tags: [ssc]
+
+- slug: smi-17-e12
+  difficulty: easy
+  stem: "The book 'The Philosophy of the Bomb' was written by"
+  options: { A: "Bhagat Singh", B: "Sachin Sanyal", C: "Ramprasad Bismil", D: "Bhagwaticharan Vohra" }
+  answer: D
+  explanation: "The famous statement of the revolutionary position is in The Philosophy of the Bomb by Bhagwaticharan Vohra."
+  source: "Spectrum (2019-20), p. 354"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-17-m01
+  difficulty: medium
+  stem: "In the council-entry debate after 1922, Rajendra Prasad belonged to which group?"
+  options: { A: "No-changers", B: "Swarajists", C: "Responsivists", D: "Liberals", E: "More than one of the above" }
+  answer: A
+  explanation: "The No-changers were led by C. Rajagopalachari, Vallabhbhai Patel, Rajendra Prasad and M.A. Ansari."
+  source: "Spectrum (2019-20), p. 341"
+  tags: [bpsc]
+
+- slug: smi-17-m02
+  difficulty: medium
+  stem: "Which of the following leaders was a Swarajist rather than a No-changer?"
+  options: { A: "C. Rajagopalachari", B: "Ajmal Khan", C: "Vallabhbhai Patel", D: "M.A. Ansari" }
+  answer: B
+  explanation: "The Swarajist section was led by C.R. Das, Motilal Nehru and Ajmal Khan; the others were No-changers."
+  source: "Spectrum (2019-20), pp. 340-341"
+  tags: [ssc]
+
+- slug: smi-17-m03
+  difficulty: medium
+  stem: "Which of the following was NOT among the Responsivists within the Swarajist Party?"
+  options: { A: "Lala Lajpat Rai", B: "Madan Mohan Malaviya", C: "N.C. Kelkar", D: "Motilal Nehru" }
+  answer: D
+  explanation: "The Responsivists were Lajpat Rai, Malaviya and N.C. Kelkar; communal elements attacked Motilal Nehru as anti-Hindu."
+  source: "Spectrum (2019-20), p. 343"
+  tags: [ssc]
+
+- slug: smi-17-m04
+  difficulty: medium
+  stem: "In the November 1923 elections, the Swarajists won a clear majority in the provincial assembly of"
+  options: { A: "Bengal", B: "United Provinces", C: "Central Provinces", D: "Punjab" }
+  answer: C
+  explanation: "The Swarajists won 42 of 141 elected seats and a clear majority in the Central Provinces assembly."
+  source: "Spectrum (2019-20), p. 343"
+  tags: [ssc]
+
+- slug: smi-17-m05
+  difficulty: medium
+  stem: |
+    Arrange the following activities of the HRA/HSRA in chronological order:
+
+    1. Bomb thrown in the Central Legislative Assembly
+    2. Kakori robbery
+    3. Murder of Saunders in Lahore
+    4. Reorganisation as HSRA at Ferozshah Kotla
+
+    Select the correct answer using the code given below:
+  options: { A: "2-3-4-1", B: "4-2-3-1", C: "2-4-1-3", D: "2-4-3-1", E: "None of the above" }
+  answer: D
+  explanation: "Kakori (August 1925), Ferozshah Kotla (September 1928), Saunders (December 1928), Assembly bomb (April 1929)."
+  source: "Spectrum (2019-20), pp. 349-350"
+  tags: [bpsc]
+
+- slug: smi-17-m06
+  difficulty: medium
+  stem: |
+    Match List I (revolutionary) with List II (action) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Gopinath Saha | 1. Fired at the governor at a university convocation |
+    | b. Bina Das | 2. Died while conducting a raid |
+    | c. Pritilata Waddedar | 3. Tried along with Surya Sen and given a life sentence |
+    | d. Kalpana Dutt | 4. Attempt on the life of Charles Tegart |
+  options: { A: "a-4, b-2, c-1, d-3", B: "a-4, b-1, c-2, d-3", C: "a-3, b-1, c-2, d-4", D: "a-4, b-1, c-3, d-2", E: "None of the above" }
+  answer: B
+  explanation: "Gopinath Saha targeted Tegart (1924); Bina Das fired at the governor (1932); Pritilata died in a raid; Kalpana Dutt got a life sentence."
+  source: "Spectrum (2019-20), pp. 351, 353"
+  tags: [bpsc]
+
+- slug: smi-17-m07
+  difficulty: medium
+  stem: "S.A. Dange, Muzaffar Ahmed, Shaukat Usmani and Nalini Gupta were jailed in 1924 in the"
+  options: { A: "Meerut Conspiracy Case", B: "Kanpur Bolshevik Conspiracy Case", C: "Lahore Conspiracy Case", D: "Kakori Conspiracy Case" }
+  answer: B
+  explanation: "These communists were jailed in the Kanpur Bolshevik Conspiracy Case (1924); the Meerut case came in 1929."
+  source: "Spectrum (2019-20), p. 346"
+  tags: [ssc]
+
+- slug: smi-17-m08
+  difficulty: medium
+  stem: "Which strike of the 1920s involved 1,50,000 workers and went on for five months?"
+  options: { A: "Kharagpur Railway Workshops", B: "Tata Iron and Steel Works, Jamshedpur", C: "Buckingham Carnatic Mills", D: "Bombay Textile Mills" }
+  answer: D
+  explanation: "The Bombay Textile Mills strike involved 1,50,000 workers and lasted five months."
+  source: "Spectrum (2019-20), p. 347"
+  tags: [ssc]
+
+- slug: smi-17-m09
+  difficulty: medium
+  stem: "Among the caste movements of the 1920s, the book mentions a movement in Bihar for improvement in social status by the"
+  options: { A: "Kurmis", B: "Bhumihars", C: "Yadavs", D: "Kayasthas", E: "More than one of the above" }
+  answer: C
+  explanation: "The book lists 'Yadavs in Bihar for improvement in social status' among the caste movements."
+  source: "Spectrum (2019-20), p. 348"
+  tags: [bpsc]
+
+- slug: smi-17-m10
+  difficulty: medium
+  stem: "After C.R. Das's death (1925), the Bengal Congress split into two factions. The Yugantar group backed"
+  options: { A: "Surya Sen", B: "J.M. Sengupta", C: "Subhash Bose", D: "Motilal Nehru" }
+  answer: C
+  explanation: "One faction was led by J.M. Sengupta (joined by the Anushilan group), the other by Subhash Bose (backed by Yugantar)."
+  source: "Spectrum (2019-20), p. 351"
+  tags: [ssc]
+
+- slug: smi-17-m11
+  difficulty: medium
+  stem: "The main leadership of the Swarajist Party withdrew from the legislatures in"
+  options: { A: "March 1926", B: "December 1924", C: "November 1923", D: "April 1929" }
+  answer: A
+  explanation: "The main leadership reiterated faith in mass civil disobedience and withdrew in March 1926; they finally walked out in 1930."
+  source: "Spectrum (2019-20), p. 343"
+  tags: [ssc]
+
+- slug: smi-17-m12
+  difficulty: medium
+  stem: "The Public Safety Bill, defeated in 1928 with Swarajist efforts, was aimed at"
+  options: { A: "empowering the government to deport undesirable and subversive foreigners", B: "abolishing dyarchy in the provinces", C: "banning the All India Trade Union Congress", D: "censoring nationalist newspapers" }
+  answer: A
+  explanation: "The bill aimed to deport undesirable and subversive foreigners, as the government feared Comintern-sent activists spreading communism."
+  source: "Spectrum (2019-20), p. 344"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-17-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Swarajist manifesto of October 1923:
+
+    1. It took a strong anti-imperialist line, saying the reforms were only a blind to further British interests.
+    2. It said that if the demand for self-government was rejected, the Swarajists would adopt uniform, continuous and consistent obstruction.
+    3. It proposed using the councils as organs for the gradual transformation of colonial rule.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The book says the Swarajists had no intention of using the councils for gradual transformation of colonial rule."
+  source: "Spectrum (2019-20), pp. 341-342"
+  tags: [bpsc]
+
+- slug: smi-17-h02
+  difficulty: hard
+  stem: |
+    **Assertion (A):** After his release in February 1924, Gandhi gradually moved towards a reconciliation with the Swarajists.
+
+    **Reason (R):** Gandhi felt that public opposition to the programme of council entry would be counter-productive.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book gives this as one of the reasons for Gandhi's reconciliation with the Swarajists."
+  source: "Spectrum (2019-20), p. 342"
+  tags: [bpsc]
+
+- slug: smi-17-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the decline of the Swarajists:
+
+    1. They lost many Muslims' support by not backing the tenants' cause against the zamindars in Bengal.
+    2. The death of C.R. Das in 1925 weakened the party further.
+    3. In the 1926 elections they won 40 seats at the Centre but were routed in the United Provinces, the Central Provinces and Punjab.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book."
+  source: "Spectrum (2019-20), pp. 343-344"
+  tags: [bpsc]
+
+- slug: smi-17-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. A compromise reached at Delhi in September 1923 allowed the Swarajists to contest elections as a group within the Congress.
+    2. In the November 1923 elections, the Swarajists won an absolute majority of elected seats in the Central Legislative Assembly on their own.
+    3. Both Swarajists and No-changers wanted to avoid a 1907-type split.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "2 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 3 are correct. The Swarajists won 42 of 141 elected seats and gained a majority only with Liberals and independents."
+  source: "Spectrum (2019-20), pp. 341-343"
+  tags: [bpsc]
+
+- slug: smi-17-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the book's critique of the No-changers' constructive work:
+
+    1. National education benefited only the urban lower middle classes and the rich peasants.
+    2. Popularising khadi was an uphill task because it was costlier than imported cloth.
+    3. The campaign against untouchability laid special emphasis on the economic grievances of landless agricultural labourers.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 2 are correct. The book says no emphasis was laid on the economic grievances of the landless and agricultural labourers."
+  source: "Spectrum (2019-20), p. 345"
+  tags: [bpsc]
+
+- slug: smi-17-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements about the communist movement in the 1920s:
+
+    1. M.N. Roy was the first to be elected to the leadership of the Comintern.
+    2. The Indian Communist Conference at Kanpur in 1925 formalised the foundation of the CPI.
+    3. The communist groups and workers' and peasants' parties remained part of the national movement and worked along with the Congress.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three statements are made in the book."
+  source: "Spectrum (2019-20), pp. 346-347"
+  tags: [bpsc]
+
+- slug: smi-17-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the All India Trade Union Congress (AITUC):
+
+    1. It was founded in 1920.
+    2. Dewan Chaman Lal was its general secretary.
+    3. Tilak opposed its formation as a divisive class organisation.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The book calls Tilak one of the moving spirits of the AITUC."
+  source: "Spectrum (2019-20), p. 347"
+  tags: [bpsc]
+
+- slug: smi-17-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the HRA/HSRA, which dominated revolutionary activity in Punjab-United Provinces-Bihar:
+
+    1. The HRA aimed to establish a Federal Republic of United States of India whose basic principle would be adult franchise.
+    2. Bismil, Ashfaqullah, Roshan Singh and Rajendra Lahiri were hanged after the Kakori robbery.
+    3. At Ferozshah Kotla, the HSRA decided to work under a single supreme commander, Bhagat Singh.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The reorganisation was under Chandra Shekhar Azad's leadership and the HSRA chose collective leadership."
+  source: "Spectrum (2019-20), pp. 349-350"
+  tags: [bpsc]
+
+- slug: smi-17-h09
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Bhagat Singh and Batukeshwar Dutt threw bombs in the Central Legislative Assembly on April 8, 1929.
+
+    **Reason (R):** The aim was to kill the members responsible for passing the Public Safety Bill.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "The bombs were deliberately harmless, meant to 'make the deaf hear'; the aim was to get arrested and use the trial for propaganda."
+  source: "Spectrum (2019-20), pp. 350-351"
+  tags: [bpsc]
+
+- slug: smi-17-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Chittagong Armoury Raid:
+
+    1. It was conducted in April 1930 by 65 activists under the banner of the Indian Republican Army—Chittagong Branch.
+    2. Surya Sen, its leader, was the secretary of the Chittagong District Congress Committee.
+    3. Surya Sen was arrested in February 1933 and hanged in January 1934.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three statements are given in the book."
+  source: "Spectrum (2019-20), p. 352"
+  tags: [bpsc]
+
+- slug: smi-17-h11
+  difficulty: hard
+  stem: |
+    Consider the following statements about the new phase of the revolutionary movement in Bengal:
+
+    1. Santi Ghosh and Suniti Chandheri, school girls of Comilla, shot dead the district magistrate in December 1931.
+    2. Rituals like oath-taking were dropped, which facilitated participation by Muslims.
+    3. The movement succeeded in evolving broad socio-economic goals.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The book lists failure to evolve broader socio-economic goals as a drawback."
+  source: "Spectrum (2019-20), p. 353"
+  tags: [bpsc]
+
+- slug: smi-17-h12
+  difficulty: hard
+  stem: "Bhagat Singh helped establish the Punjab Naujawan Bharat Sabha, an open wing of the revolutionaries, in"
+  options: { A: "1924", B: "1926", C: "1928", D: "1929" }
+  answer: B
+  explanation: "The Punjab Naujawan Bharat Sabha was established in 1926 to do political work among youth, peasants and workers."
+  source: "Spectrum (2019-20), p. 354"
+  tags: [ssc]

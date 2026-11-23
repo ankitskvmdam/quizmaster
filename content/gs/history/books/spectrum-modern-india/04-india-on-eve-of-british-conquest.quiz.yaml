@@ -1,0 +1,423 @@
+# Chapter 4 — India on the Eve of British Conquest (book pp. 59-80)
+# ---------- EASY ----------
+- slug: smi-04-e01
+  difficulty: easy
+  stem: "Nadir Shah defeated the Mughal army at Karnal in"
+  options: { A: "1737", B: "1739", C: "1748", D: "1761" }
+  answer: B
+  explanation: "Nadir Shah conquered Lahore and defeated the Mughal army at Karnal on February 13, 1739."
+  source: "Spectrum (2019-20), p. 60"
+  tags: [ssc]
+
+- slug: smi-04-e02
+  difficulty: easy
+  stem: "The Third Battle of Panipat (1761) was fought between the Marathas and"
+  options: { A: "Nadir Shah", B: "Najib-ud-Daula", C: "Ahmad Shah Abdali", D: "Shah Alam II" }
+  answer: C
+  explanation: "In 1761 Ahmad Shah Abdali defeated the Marathas in the Third Battle of Panipat."
+  source: "Spectrum (2019-20), p. 60"
+  tags: [ssc]
+
+- slug: smi-04-e03
+  difficulty: easy
+  stem: "Which Mughal emperor was given the title 'Rangeela' because of his luxurious lifestyle?"
+  options: { A: "Muhammad Shah", B: "Jahandar Shah", C: "Farrukhsiyar", D: "Ahmad Shah" }
+  answer: A
+  explanation: "Raushan Akhtar, known as Muhammad Shah (1719-48), was called 'Rangeela' due to his luxurious lifestyle."
+  source: "Spectrum (2019-20), p. 63"
+  tags: [ssc]
+
+- slug: smi-04-e04
+  difficulty: easy
+  stem: "Khafi Khan gave the title 'Shah-i-Bekhabar' to"
+  options: { A: "Jahandar Shah", B: "Farrukhsiyar", C: "Muhammad Shah", D: "Bahadur Shah I" }
+  answer: D
+  explanation: "The book states that Khafi Khan gave the title Shah-i-Bekhabar to Bahadur Shah I."
+  source: "Spectrum (2019-20), p. 62"
+  tags: [ssc]
+
+- slug: smi-04-e05
+  difficulty: easy
+  stem: "Who were known as the 'King Makers' in the later Mughal period?"
+  options: { A: "Nizam-ul-Mulk and Mubariz Khan", B: "The Sayyid brothers, Abdulla Khan and Hussain Ali", C: "Saadat Khan and Safdar Jang", D: "Udham Bai and Javid Khan" }
+  answer: B
+  explanation: "The Sayyid brothers, Abdulla Khan and Hussain Ali, were known as the 'King Makers'."
+  source: "Spectrum (2019-20), p. 62"
+  tags: [ssc]
+
+- slug: smi-04-e06
+  difficulty: easy
+  stem: "Who founded the independent principality of Awadh?"
+  options: { A: "Safdar Jang", B: "Murshid Kuli Khan", C: "Saadat Khan Burhan-ul-Mulk", D: "Kilich Khan" }
+  answer: C
+  explanation: "Saadat Khan, popularly known as Burhan-ul-Mulk, founded the independent principality of Awadh."
+  source: "Spectrum (2019-20), p. 70"
+  tags: [ssc]
+
+- slug: smi-04-e07
+  difficulty: easy
+  stem: "After the Revolt of 1857, Bahadur Shah II was sent by the English to"
+  options: { A: "Rangoon", B: "Allahabad", C: "Calcutta", D: "Lahore" }
+  answer: A
+  explanation: "Bahadur Shah Zafar, the last Mughal emperor, was captured and sent to Rangoon, where he died in 1862."
+  source: "Spectrum (2019-20), p. 64"
+  tags: [ssc]
+
+- slug: smi-04-e08
+  difficulty: easy
+  stem: "In the 18th century, Azimabad (Patna) was a famous centre for"
+  options: { A: "Sanskrit education", B: "ship-building", C: "woollen manufactures", D: "Persian education", E: "More than one of the above" }
+  answer: D
+  explanation: "The book names Azimabad (Patna) as a famous centre for Persian education, Persian being the court language."
+  source: "Spectrum (2019-20), p. 76"
+  tags: [bpsc]
+
+- slug: smi-04-e09
+  difficulty: easy
+  stem: "Who built the Bada Imambara at Lucknow in 1784?"
+  options: { A: "Saadat Khan", B: "Safdar Jang", C: "Asaf-ud-Daula", D: "Sawai Jai Singh" }
+  answer: C
+  explanation: "At Lucknow, Asaf-ud-Daula built the Bada Imambara in 1784."
+  source: "Spectrum (2019-20), p. 78"
+  tags: [ssc]
+
+- slug: smi-04-e10
+  difficulty: easy
+  stem: "Ranjit Singh was the son of Mahan Singh, the leader of which Sikh misl?"
+  options: { A: "Sukarchakiya", B: "Bhangi", C: "Ahluwalia", D: "Ramgarhia" }
+  answer: A
+  explanation: "Ranjit Singh was the son of Mahan Singh, leader of the Sukarchakiya misl."
+  source: "Spectrum (2019-20), p. 72"
+  tags: [ssc]
+
+- slug: smi-04-e11
+  difficulty: easy
+  stem: "Martanda Varma established an independent state of Kerala with its capital at"
+  options: { A: "Cochin", B: "Calicut", C: "Quilon", D: "Travancore" }
+  answer: D
+  explanation: "Martanda Varma established an independent state of Kerala with Travancore as his capital."
+  source: "Spectrum (2019-20), p. 71"
+  tags: [ssc]
+
+- slug: smi-04-e12
+  difficulty: easy
+  stem: "The Zamorin of Calicut used which seafaring group for his navy?"
+  options: { A: "The Siddis", B: "The Kunjali Maraikkars", C: "The Angrias", D: "The Bangash Pathans" }
+  answer: B
+  explanation: "The Zamorin of Calicut used the Muslim Kunjali Maraikkars, well known for their seafaring ability, for his navy."
+  source: "Spectrum (2019-20), p. 76"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-04-m01
+  difficulty: medium
+  stem: |
+    Arrange the following Mughal emperors in the chronological order of their reigns:
+
+    1. Farrukhsiyar
+    2. Ahmad Shah
+    3. Jahandar Shah
+    4. Alamgir II
+    5. Muhammad Shah
+  options: { A: "1, 3, 5, 2, 4", B: "3, 1, 2, 5, 4", C: "3, 1, 5, 4, 2", D: "3, 1, 5, 2, 4", E: "None of the above" }
+  answer: D
+  explanation: "Jahandar Shah (1712-13), Farrukhsiyar (1713-19), Muhammad Shah (1719-48), Ahmad Shah (1748-54), Alamgir II (1754-58)."
+  source: "Spectrum (2019-20), pp. 62-63"
+  tags: [bpsc]
+
+- slug: smi-04-m02
+  difficulty: medium
+  stem: |
+    Match List I (successor state) with List II (founder) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Hyderabad | 1. Murshid Quli Khan |
+    | b. Bengal | 2. Saadat Khan Burhan-ul-Mulk |
+    | c. Awadh | 3. Nizam-ul-Mulk |
+  options: { A: "a-3, b-1, c-2", B: "a-1, b-3, c-2", C: "a-2, b-1, c-3", D: "a-3, b-2, c-1", E: "None of the above" }
+  answer: A
+  explanation: "Hyderabad (1724) was founded by Nizam-ul-Mulk, Bengal (1717) by Murshid Quli Khan and Awadh (1722) by Saadat Khan Burhan-ul-Mulk."
+  source: "Spectrum (2019-20), p. 80"
+  tags: [bpsc]
+
+- slug: smi-04-m03
+  difficulty: medium
+  stem: "Sarfaraz Khan, Nawab of Bengal, was killed at Gheria in 1740 by"
+  options: { A: "Shuja-ud-din", B: "Murshid Kuli Khan", C: "Alivardi Khan, deputy governor of Bihar", D: "Safdar Jang, Nawab of Awadh", E: "More than one of the above" }
+  answer: C
+  explanation: "Sarfaraz Khan was killed in 1740 by Alivardi Khan, the deputy governor of Bihar, at Gheria; Alivardi then made himself independent by paying yearly tribute."
+  source: "Spectrum (2019-20), p. 71"
+  tags: [bpsc]
+
+- slug: smi-04-m04
+  difficulty: medium
+  stem: "Which Mughal emperor was the first in Mughal history to be killed by his own nobles?"
+  options: { A: "Jahandar Shah", B: "Farrukhsiyar", C: "Rafi-ud-Darajat", D: "Alamgir II" }
+  answer: B
+  explanation: "Farrukhsiyar was dethroned by the Sayyid brothers in 1719 and later blinded and killed — the first time nobles killed a Mughal emperor."
+  source: "Spectrum (2019-20), p. 62"
+  tags: [ssc]
+
+- slug: smi-04-m05
+  difficulty: medium
+  stem: "Kilich Khan (Nizam-ul-Mulk) defeated and killed Mubariz Khan, the Mughal viceroy of the Deccan, in the Battle of"
+  options: { A: "Karnal", B: "Gheria", C: "Shakr-Kheda", D: "Panipat" }
+  answer: C
+  explanation: "Kilich Khan defeated and later killed Mubariz Khan in the Battle of Shakr-Kheda (1724) and assumed control of the Deccan."
+  source: "Spectrum (2019-20), p. 70"
+  tags: [ssc]
+
+- slug: smi-04-m06
+  difficulty: medium
+  stem: "In the book's classification of 18th-century regional states, Mysore and the Rajput states are examples of"
+  options: { A: "Successor States", B: "New States", C: "Rebel States", D: "Independent Kingdoms" }
+  answer: D
+  explanation: "Independent Kingdoms arose from the destabilisation of Mughal control, e.g. Mysore and the Rajput states; Awadh, Bengal and Hyderabad were Successor States, and Maratha, Sikh and Jat states were New States."
+  source: "Spectrum (2019-20), p. 70"
+  tags: [ssc]
+
+- slug: smi-04-m07
+  difficulty: medium
+  stem: "The izara system, to improve the financial condition of the empire, was introduced during the reign of Jahandar Shah by"
+  options: { A: "Zulfikar Khan", B: "Hussain Ali", C: "Nizam-ul-Mulk", D: "Javid Khan" }
+  answer: A
+  explanation: "Jahandar Shah became emperor with Zulfikar Khan's help; Zulfikar Khan, appointed prime minister, introduced the izara system."
+  source: "Spectrum (2019-20), p. 62"
+  tags: [ssc]
+
+- slug: smi-04-m08
+  difficulty: medium
+  stem: "Which Mughal emperor gave the title of 'Raja' to Rammohan Rai?"
+  options: { A: "Shah Alam II", B: "Akbar II", C: "Bahadur Shah II", D: "Alamgir II" }
+  answer: B
+  explanation: "Akbar II (1806-37) gave the title of Raja to Rammohan Rai; in 1835 coins bearing Mughal emperors' names were stopped."
+  source: "Spectrum (2019-20), p. 64"
+  tags: [ssc]
+
+- slug: smi-04-m09
+  difficulty: medium
+  stem: "Sawai Jai Singh built astronomical observatories at five places. Which of the following was NOT one of them?"
+  options: { A: "Mathura", B: "Ujjain", C: "Benares", D: "Agra" }
+  answer: D
+  explanation: "The five observatories were at Delhi, Jaipur, Benares, Mathura and Ujjain."
+  source: "Spectrum (2019-20), p. 78"
+  tags: [ssc]
+
+- slug: smi-04-m10
+  difficulty: medium
+  stem: "The Tripartite Treaty of 1838 was signed by Ranjit Singh with"
+  options: { A: "Dost Mohammad and the English Company", B: "Shah Shuja and the English Company", C: "Shah Shuja and the Marathas", D: "Ahmad Shah Abdali and the English Company" }
+  answer: B
+  explanation: "In 1838 Ranjit Singh signed the Tripartite Treaty with Shah Shuja and the English Company, agreeing to give British troops passage to place Shah Shuja on the Kabul throne."
+  source: "Spectrum (2019-20), p. 72"
+  tags: [ssc]
+
+- slug: smi-04-m11
+  difficulty: medium
+  stem: "Under whom did the Jat power of Bharatpur reach its zenith?"
+  options: { A: "Churaman", B: "Badan Singh", C: "Suraj Mal", D: "Ajit Singh" }
+  answer: C
+  explanation: "Churaman and Badan Singh set up the Jat state of Bharatpur, but Jat power reached its zenith under Suraj Mal (died 1763)."
+  source: "Spectrum (2019-20), pp. 71-72"
+  tags: [ssc]
+
+- slug: smi-04-m12
+  difficulty: medium
+  stem: "In 18th-century Bihar and Bengal, the centres of higher education were called"
+  options: { A: "Pathshalas", B: "Maktabs", C: "Madrasahs", D: "Chatuspathis or Tols", E: "More than one of the above" }
+  answer: D
+  explanation: "Chatuspathis or Tols, as they were called in Bihar and Bengal, were centres of higher education; pathshalas and maktabs were elementary schools."
+  source: "Spectrum (2019-20), p. 76"
+  tags: [bpsc]
+
+# ---------- HARD ----------
+- slug: smi-04-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about Nadir Shah's invasion of India:
+
+    1. He took away the Peacock Throne and the Kohinoor diamond.
+    2. He gained the Mughal territory to the west of the Indus, including Kabul.
+    3. After his death in 1747, Ahmad Shah Abdali was elected his successor.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book: the Peacock Throne and Kohinoor were taken, lands west of the Indus including Kabul were gained, and Abdali was elected Nadir's successor after 1747."
+  source: "Spectrum (2019-20), p. 60"
+  tags: [bpsc]
+
+- slug: smi-04-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about Ahmad Shah Abdali:
+
+    1. In 1757 he recognised the Rohilla chief Najib-ud-Daula as Mir Bakhshi of the empire.
+    2. In 1758 Najib-ud-Daula was expelled from Delhi by Peshwa Baji Rao I.
+    3. Abdali's last invasion of India came in 1767.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "2 and 3 only", D: "3 only", E: "None of the above" }
+  answer: A
+  explanation: "Najib-ud-Daula was expelled in 1758 by the Maratha chief Raghunath Rao, not Baji Rao I; statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 60"
+  tags: [bpsc]
+
+- slug: smi-04-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about Shah Alam II:
+
+    1. His reign saw both the Third Battle of Panipat and the Battle of Buxar.
+    2. In 1772 the English took him to Delhi, where he lived till 1803.
+    3. In 1803 he again accepted English protection after the English defeated Daulat Rao Scindia.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "It was the Marathas who took Shah Alam II to Delhi in 1772; statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 63"
+  tags: [bpsc]
+
+- slug: smi-04-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Panipat was a favoured battlefield for the rulers of Delhi facing invaders from the north-west.
+
+    **Reason (R):** The flat ground around Panipat was suitable for cavalry movement, the main mode of warfare at the time.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book lists the flat ground suited to cavalry among the reasons Panipat was a favourite battlefield, along with its nearness to Delhi and position on the Grand Trunk Road."
+  source: "Spectrum (2019-20), p. 61"
+  tags: [bpsc]
+
+- slug: smi-04-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about Farrukhsiyar:
+
+    1. He abolished jaziya and the pilgrimage tax.
+    2. He gave farmans to the British in 1717.
+    3. He was dethroned by the Sayyid brothers with the help of Peshwa Baji Rao I.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The Sayyid brothers dethroned Farrukhsiyar in 1719 with the help of Peshwa Balaji Vishwanath, not Baji Rao I."
+  source: "Spectrum (2019-20), p. 62"
+  tags: [bpsc]
+
+- slug: smi-04-h06
+  difficulty: hard
+  stem: |
+    Match List I (person/title) with List II (Mughal emperor connected with it):
+
+    | List I | List II |
+    |---|---|
+    | a. Udham Bai, 'Qibla-i-Alam' | 1. Jahandar Shah |
+    | b. Title 'Shah Jahan II' | 2. Ahmad Shah |
+    | c. Zulfikar Khan as prime minister | 3. Muhammad Shah |
+    | d. Killing of the Sayyid brothers | 4. Rafi-ud-Daula |
+  options: { A: "a-2, b-1, c-4, d-3", B: "a-3, b-4, c-1, d-2", C: "a-2, b-4, c-3, d-1", D: "a-2, b-4, c-1, d-3", E: "None of the above" }
+  answer: D
+  explanation: "Udham Bai ran affairs for Ahmad Shah; Rafi-ud-Daula took the title Shah Jahan II; Zulfikar Khan was Jahandar Shah's PM; Muhammad Shah killed the Sayyid brothers with Nizam-ul-Mulk's help."
+  source: "Spectrum (2019-20), pp. 62-63"
+  tags: [bpsc]
+
+- slug: smi-04-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about 18th-century Indian society:
+
+    1. The evil of dowry was especially widespread in Bengal and Rajputana.
+    2. Raja Sawai Jai Singh of Amber and the Maratha general Prashuram Bhau tried to promote widow remarriage but failed.
+    3. The Hindu elementary schools were called maktabs.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Hindu elementary schools were pathshalas; maktabs were the Muslim ones. Statements 1 and 2 are stated in the book."
+  source: "Spectrum (2019-20), pp. 76, 78"
+  tags: [bpsc]
+
+- slug: smi-04-h08
+  difficulty: hard
+  stem: |
+    With reference to the founding of Hyderabad state, consider the following statements:
+
+    1. It was Zulfikar Khan who first conceived the idea of an independent state in the Deccan.
+    2. Kilich Khan became viceroy of the Deccan in 1725 and conferred on himself the title Asaf-Jah.
+    3. Kilich Khan was disgusted with the emperor for appointing Mubariz Khan as full-fledged viceroy of the Deccan.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three are in the book: Zulfikar Khan's idea died with him in 1713; Kilich Khan, angered by Mubariz Khan's appointment, defeated him and became viceroy as Asaf-Jah in 1725."
+  source: "Spectrum (2019-20), p. 70"
+  tags: [bpsc]
+
+- slug: smi-04-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about slavery in 18th-century India as described in the book:
+
+    1. European trading companies purchased slaves from the markets of Bengal, Assam and Bihar.
+    2. The offspring of marriages among slaves were also treated as slaves.
+    3. Abyssinian slaves were sold at Surat, Madras and Calcutta.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The book says offspring of slave marriages were considered free citizens; statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 78"
+  tags: [bpsc]
+
+- slug: smi-04-h10
+  difficulty: hard
+  stem: |
+    Match List I (literary figure) with List II (work or genre):
+
+    | List I | List II |
+    |---|---|
+    | a. Warris Shah | 1. Risalo |
+    | b. Shah Abdul Latif | 2. Sittar poetry |
+    | c. Tayumanavar | 3. Heer Ranjha |
+    | d. Kanchan Nambiar | 4. Malayalam poetry |
+  options: { A: "a-1, b-3, c-2, d-4", B: "a-3, b-2, c-1, d-4", C: "a-3, b-1, c-2, d-4", D: "a-3, b-1, c-4, d-2" }
+  answer: C
+  explanation: "Warris Shah composed Heer Ranjha (Punjabi), Shah Abdul Latif the Sindhi Risalo, Tayumanavar was an exponent of Tamil sittar poetry, and Kanchan Nambiar a Malayalam poet."
+  source: "Spectrum (2019-20), p. 79"
+  tags: [ssc]
+
+- slug: smi-04-h11
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. Ali Muhammad Khan set up Rohilakhand, taking advantage of the collapse of authority after Nadir Shah's invasion.
+    2. Rohilakhand lay between Kumaon in the north and the Ganga in the south.
+    3. Mohammad Khan Bangash set up an independent kingdom around Farrukhabad, to the west of Delhi.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Mohammad Khan Bangash's kingdom around Farrukhabad lay to the east of Delhi; statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 73"
+  tags: [bpsc]
+
+- slug: smi-04-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about trade in 18th-century India:
+
+    1. Patna was one of the important centres of the textile industry.
+    2. Tea and porcelain were imported from Arabia.
+    3. India's exports exceeded its imports, and trade was balanced by the import of silver and gold.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Tea and porcelain came from China; Arabia supplied coffee, gold, drugs and honey. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 74-75"
+  tags: [bpsc]

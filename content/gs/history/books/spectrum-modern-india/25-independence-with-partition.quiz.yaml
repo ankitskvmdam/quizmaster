@@ -1,0 +1,339 @@
+# Chapter 25 — Independence with Partition (book pp. 491-500)
+# ---------- EASY ----------
+- slug: smi-25-e01
+  difficulty: easy
+  stem: "On which date did Clement Attlee announce the British intention of leaving India?"
+  options: { A: "February 20, 1947", B: "March 10, 1947", C: "June 3, 1947", D: "July 18, 1947" }
+  answer: A
+  explanation: "Attlee made the announcement on February 20, 1947, fixing a deadline for the transfer of power."
+  source: "Spectrum (2019-20), p. 491"
+  tags: [ssc]
+
+- slug: smi-25-e02
+  difficulty: easy
+  stem: "What deadline for the transfer of power was fixed in Attlee's statement of February 1947?"
+  options: { A: "August 15, 1947", B: "June 30, 1948", C: "October 1947", D: "August 14, 1947" }
+  answer: B
+  explanation: "A deadline of June 30, 1948 was fixed even if Indian politicians had not agreed on the constitution by then."
+  source: "Spectrum (2019-20), p. 491"
+  tags: [ssc]
+
+- slug: smi-25-e03
+  difficulty: easy
+  stem: "According to Attlee's statement of February 20, 1947, who was to replace Wavell as the viceroy?"
+  options: { A: "Lord Linlithgow", B: "Pethick Lawrence", C: "Lord Mountbatten", D: "Stafford Cripps" }
+  answer: C
+  explanation: "Attlee's statement announced that Mountbatten would replace Wavell as the viceroy."
+  source: "Spectrum (2019-20), p. 491"
+  tags: [ssc]
+
+- slug: smi-25-e04
+  difficulty: easy
+  stem: "The immediate transfer of power on the basis of dominion status, a major innovation of the Mountbatten Plan, was actually suggested by"
+  options: { A: "Jawaharlal Nehru", B: "Vallabhbhai Patel", C: "J.B. Kripalani", D: "V.P. Menon" }
+  answer: D
+  explanation: "The book says the dominion-status innovation was actually suggested by V.P. Menon."
+  source: "Spectrum (2019-20), p. 493"
+  tags: [ssc]
+
+- slug: smi-25-e05
+  difficulty: easy
+  stem: "The Indian Independence Act, 1947 received royal assent on"
+  options: { A: "July 5, 1947", B: "July 18, 1947", C: "August 14, 1947", D: "August 15, 1947" }
+  answer: B
+  explanation: "Parliament passed the Act on July 5, 1947; it got royal assent on July 18, 1947 and was implemented on August 15, 1947."
+  source: "Spectrum (2019-20), p. 495"
+  tags: [ssc]
+
+- slug: smi-25-e06
+  difficulty: easy
+  stem: "Who became the first Governor-General of Pakistan?"
+  options: { A: "Liaquat Ali Khan", B: "Lord Mountbatten", C: "Abdur Rab Nishtar", D: "M.A. Jinnah" }
+  answer: D
+  explanation: "M.A. Jinnah became the first Governor-General of Pakistan, while India asked Mountbatten to continue."
+  source: "Spectrum (2019-20), p. 496"
+  tags: [ssc]
+
+- slug: smi-25-e07
+  difficulty: easy
+  stem: "The Boundary Commission Award of 1947 was prepared under"
+  options: { A: "Radcliffe", B: "V.P. Menon", C: "Mountbatten", D: "Stafford Cripps" }
+  answer: A
+  explanation: "The book refers to the Boundary Commission Award (under Radcliffe), ready by August 12, 1947."
+  source: "Spectrum (2019-20), p. 496"
+  tags: [ssc]
+
+- slug: smi-25-e08
+  difficulty: easy
+  stem: "Who took charge of the new States Department in July 1947?"
+  options: { A: "Jawaharlal Nehru", B: "Vallabhbhai Patel", C: "V.P. Menon", D: "J.B. Kripalani" }
+  answer: B
+  explanation: "In July 1947 Vallabhbhai Patel took charge of the new States Department and led the incorporation of the states."
+  source: "Spectrum (2019-20), p. 497"
+  tags: [ssc]
+
+- slug: smi-25-e09
+  difficulty: easy
+  stem: "Which Congress president told the viceroy in April 1947, '...rather than have a battle, we shall let them have their Pakistan...'?"
+  options: { A: "Maulana Azad", B: "Jawaharlal Nehru", C: "J.B. Kripalani", D: "Vallabhbhai Patel" }
+  answer: C
+  explanation: "In April 1947 the Congress president, Kripalani, conveyed this to the viceroy, provided Bengal and Punjab were fairly partitioned."
+  source: "Spectrum (2019-20), p. 493"
+  tags: [ssc]
+
+- slug: smi-25-e10
+  difficulty: easy
+  stem: "As per the Indian Independence Act, 1947, Pakistan became independent on"
+  options: { A: "August 14, 1947", B: "August 15, 1947", C: "July 18, 1947", D: "June 3, 1947" }
+  answer: A
+  explanation: "Pakistan became independent on August 14 while India got its freedom on August 15, 1947."
+  source: "Spectrum (2019-20), p. 496"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-25-m01
+  difficulty: medium
+  stem: "Under the Mountbatten Plan of June 3, 1947, the fate of which areas was to be decided by referendums?"
+  options: { A: "NWFP and Sylhet", B: "Sindh and Baluchistan", C: "Punjab and Bengal", D: "Sindh and NWFP" }
+  answer: A
+  explanation: "Referendums in NWFP and Sylhet were to decide these areas; Sindh would take its own decision and the Punjab and Bengal assemblies would vote."
+  source: "Spectrum (2019-20), p. 493"
+  tags: [ssc]
+
+- slug: smi-25-m02
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Passing of the Indian Independence Act by the British Parliament
+    2. Kripalani's communication to the viceroy accepting Pakistan if Bengal and Punjab were partitioned
+    3. Attlee's statement fixing a deadline for British withdrawal
+    4. Announcement of the Mountbatten Plan
+
+    Select the correct answer:
+  options: { A: "3, 4, 2, 1", B: "2, 3, 4, 1", C: "3, 2, 1, 4", D: "3, 2, 4, 1", E: "None of the above" }
+  answer: D
+  explanation: "Attlee's statement (February 20, 1947), Kripalani's message (April 1947), Mountbatten Plan (June 3, 1947), Act passed (July 5, 1947)."
+  source: "Spectrum (2019-20), pp. 491-495"
+  tags: [bpsc]
+
+- slug: smi-25-m03
+  difficulty: medium
+  stem: "Jawaharlal Nehru presided over the sessions of the All India State People's Conference held at"
+  options: { A: "Udaipur and Mysore", B: "Gwalior and Hyderabad", C: "Udaipur and Gwalior", D: "Jaipur and Gwalior", E: "None of the above" }
+  answer: C
+  explanation: "Nehru presided over the AISPC sessions at Udaipur (1945) and Gwalior (April 1947)."
+  source: "Spectrum (2019-20), p. 497"
+  tags: [bpsc]
+
+- slug: smi-25-m04
+  difficulty: medium
+  stem: "By August 15, 1947, all princely states had signed the instrument of accession except"
+  options: { A: "Kashmir, Hyderabad and Junagarh", B: "Kashmir, Hyderabad and Mysore", C: "Hyderabad, Junagarh and Travancore-Cochin", D: "Kashmir, Junagarh and Mysore" }
+  answer: A
+  explanation: "In Phase I, all states except Kashmir, Hyderabad and Junagarh signed the instrument of accession."
+  source: "Spectrum (2019-20), p. 497"
+  tags: [ssc]
+
+- slug: smi-25-m05
+  difficulty: medium
+  stem: "The principal bait offered to the princes in the second phase of integration of states was"
+  options: { A: "seats in the Constituent Assembly", B: "a generous privy purse", C: "the right to secede", D: "control over their own defence" }
+  answer: B
+  explanation: "The principal bait was a generous privy purse; some princes were also made governors and rajpramukhs."
+  source: "Spectrum (2019-20), p. 497"
+  tags: [ssc]
+
+- slug: smi-25-m06
+  difficulty: medium
+  stem: "According to Attlee's statement of February 20, 1947, British powers and obligations vis-a-vis the princely states would"
+  options: { A: "be transferred to the Indian Union", B: "be transferred to whichever dominion a state joined", C: "lapse with the transfer of power and not be transferred to any successor government", D: "continue until a new constitution was framed" }
+  answer: C
+  explanation: "These powers would lapse with the transfer of power but would not pass to any successor government in British India."
+  source: "Spectrum (2019-20), p. 491"
+  tags: [ssc]
+
+- slug: smi-25-m07
+  difficulty: medium
+  stem: |
+    Match List I (person) with List II (view quoted in the book):
+
+    | List I | List II |
+    |---|---|
+    | a. M.A. Jinnah | 1. The process of devolving power by stages was inherently divisive |
+    | b. Sardar Patel | 2. 'I alone with the help of my Secretary and my typewriter won Pakistan' |
+    | c. R.J. Moore | 3. The acceptance of partition was only in a resolution of the AICC |
+    | d. Maulana Azad | 4. 'We would have had Pakistan cells in every office' |
+  options: { A: "a-2, b-4, c-3, d-1", B: "a-4, b-2, c-1, d-3", C: "a-2, b-1, c-4, d-3", D: "a-2, b-4, c-1, d-3", E: "None of the above" }
+  answer: D
+  explanation: "Jinnah claimed he won Pakistan with his secretary and typewriter; Patel spoke of Pakistan cells; R.J. Moore on divisive devolution; Azad on the AICC resolution."
+  source: "Spectrum (2019-20), pp. 498-499"
+  tags: [bpsc]
+
+- slug: smi-25-m08
+  difficulty: medium
+  stem: "Which one of the following was NOT a reason given in the book for the Congress accepting dominion status in 1947?"
+  options: { A: "It would ensure a peaceful and quick transfer of power", B: "It was important for the Congress to assume authority to check the explosive situation", C: "It would allow continuity in the bureaucracy and the army", D: "It was in keeping with the spirit of the Lahore Congress (1929)" }
+  answer: D
+  explanation: "The Congress accepted dominion status despite its being against the Lahore Congress (1929) spirit."
+  source: "Spectrum (2019-20), pp. 494-495"
+  tags: [ssc]
+
+- slug: smi-25-m09
+  difficulty: medium
+  stem: "Under the Indian Independence Act, 1947, until a new constitution was adopted the governments of the two dominions were to be carried on in accordance with"
+  options: { A: "the Government of India Act, 1919", B: "the Government of India Act, 1935", C: "the Indian Councils Act, 1909", D: "the Cabinet Mission Plan" }
+  answer: B
+  explanation: "For the transitional period the dominions were governed in accordance with the Government of India Act, 1935."
+  source: "Spectrum (2019-20), p. 496"
+  tags: [ssc]
+
+- slug: smi-25-m10
+  difficulty: medium
+  stem: "Mountbatten's 'Plan Balkan' was quickly abandoned after a violent reaction to it from"
+  options: { A: "M.A. Jinnah", B: "Vallabhbhai Patel", C: "Jawaharlal Nehru", D: "Mahatma Gandhi" }
+  answer: C
+  explanation: "Plan Balkan, which envisaged transfer of power to separate provinces, was abandoned after Nehru reacted violently to it."
+  source: "Spectrum (2019-20), p. 496"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-25-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about Attlee's statement of February 20, 1947:
+
+    1. Power was to be transferred by June 30, 1948 even if Indian politicians had not agreed on the constitution by then.
+    2. Power could be relinquished in some areas to the existing provincial governments if the constituent assembly was not fully representative.
+    3. The statement was, in essence, a reversion of the Cabinet Mission Plan.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The book calls the statement, with its hints of partition and Balkanisation, a reversion of the Cripps Offer, not the Cabinet Mission Plan."
+  source: "Spectrum (2019-20), pp. 491-492"
+  tags: [bpsc]
+
+- slug: smi-25-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Mountbatten Plan of June 3, 1947:
+
+    1. Punjab and Bengal would be partitioned only if a two-thirds majority of either the Hindu or the Muslim group of legislators voted for it.
+    2. Sindh would take its own decision.
+    3. Independence for Bengal was ruled out.
+    4. Accession of Hyderabad to Pakistan was ruled out.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1, 3 and 4 only", D: "2, 3 and 4 only", E: "None of the above" }
+  answer: D
+  explanation: "A simple majority of either group voting for partition was enough, so statement 1 is wrong."
+  source: "Spectrum (2019-20), pp. 493-494"
+  tags: [bpsc]
+
+- slug: smi-25-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the implementation of the Mountbatten Plan:
+
+    1. The referendum in Sylhet resulted in the incorporation of that district in East Bengal.
+    2. The referendum in NWFP went in favour of Pakistan, with the Provincial Congress refraining from it.
+    3. A single boundary commission was constituted to demarcate the boundaries of both Punjab and Bengal.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Two boundary commissions were constituted, one for each province, so statement 3 is wrong."
+  source: "Spectrum (2019-20), p. 495"
+  tags: [bpsc]
+
+- slug: smi-25-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Though the Boundary Commission Award was ready by August 12, 1947, Mountbatten decided to make it public only after August 15.
+
+    **Reason (R):** Mountbatten wanted the British to escape all responsibility for the disturbances.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says the award was delayed so that the British could escape all responsibility for disturbances, so R explains A."
+  source: "Spectrum (2019-20), p. 496"
+  tags: [bpsc]
+
+- slug: smi-25-h05
+  difficulty: hard
+  stem: |
+    **Assertion (A):** India requested Lord Mountbatten to continue as its Governor-General after independence.
+
+    **Reason (R):** The Indian Independence Act required each dominion to have the last British viceroy as its first governor-general.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "The Act only provided a governor-general for each dominion; Pakistan chose Jinnah, so R is false."
+  source: "Spectrum (2019-20), pp. 495-496"
+  tags: [bpsc]
+
+- slug: smi-25-h06
+  difficulty: hard
+  stem: |
+    Arrange the following steps of Congress concessions to the League's demand in chronological order:
+
+    1. Gandhi accepted the right of self-determination of Muslim-majority provinces
+    2. CWC resolution stating that Punjab must be partitioned if the country was divided
+    3. Autonomy of Muslim-majority provinces accepted
+    4. Congress accepted, without demur, that grouping was compulsory
+
+    Select the correct answer:
+  options: { A: "3, 1, 4, 2", B: "1, 3, 4, 2", C: "3, 1, 2, 4", D: "3, 4, 1, 2", E: "None of the above" }
+  answer: A
+  explanation: "Cripps Mission (1942), Gandhi-Jinnah talks (1944), grouping accepted as compulsory (December 1946), CWC resolution (March 1947)."
+  source: "Spectrum (2019-20), p. 499"
+  tags: [bpsc]
+
+- slug: smi-25-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indian Independence Act, 1947:
+
+    1. It was passed by the British Parliament on July 5, 1947 and was based on the Mountbatten Plan.
+    2. The constituent assembly of each new dominion was to exercise the powers of the legislature of that dominion.
+    3. The existing Central Legislative Assembly and Council of States were to continue as the legislature until a new constitution was adopted.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The Act provided that the existing Central Legislative Assembly and Council of States were to be automatically dissolved."
+  source: "Spectrum (2019-20), p. 495"
+  tags: [bpsc]
+
+- slug: smi-25-h08
+  difficulty: hard
+  stem: "In the second phase of integration, which states retained their old boundaries for some years while undergoing internal constitutional changes?"
+  options: { A: "Kathiawar Union, Rajasthan and Himachal Pradesh", B: "Hyderabad, Mysore and Travancore-Cochin", C: "Hyderabad, Junagarh and Kashmir", D: "Mysore, Vindhya and Rajasthan", E: "None of the above" }
+  answer: B
+  explanation: "Hyderabad, Mysore and Travancore-Cochin kept their old boundaries for some years; others were merged into units like the Kathiawar Union."
+  source: "Spectrum (2019-20), p. 497"
+  tags: [bpsc]
+
+- slug: smi-25-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about the first phase of integration of princely states:
+
+    1. The princes surrendered only defence, external affairs and communication, which had been part of British paramountcy.
+    2. There was no change in the internal political structure of the states.
+    3. The phase was accomplished within a year, with a generous privy purse as the principal bait.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The privy purse bait and completion within a year belong to the second phase, so statement 3 is wrong."
+  source: "Spectrum (2019-20), p. 497"
+  tags: [bpsc]
+
+- slug: smi-25-h10
+  difficulty: hard
+  stem: "Which one of the following was NOT among Nehru's statements that the book cites as wishful thinking about partition?"
+  options: { A: "'Partition is only temporary.'", B: "'Partition would be peaceful—once Pakistan was conceded, what was there to fight for?'", C: "'The British were neither the foes of the Hindus nor friends of the Muslims.'", D: "'Once the British left, Hindu-Muslim differences would be patched up and a free, united India would be built up.'" }
+  answer: C
+  explanation: "The remark that the British were neither foes of the Hindus nor friends of the Muslims is quoted from Wali Khan, not Nehru."
+  source: "Spectrum (2019-20), pp. 498-499"
+  tags: [bpsc]

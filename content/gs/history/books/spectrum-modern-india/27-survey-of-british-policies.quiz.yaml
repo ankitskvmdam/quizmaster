@@ -1,0 +1,336 @@
+# Chapter 27 — Survey of British Policies in India (book pp. 532-540)
+# ---------- EASY ----------
+- slug: smi-27-e01
+  difficulty: easy
+  stem: "The Vernacular Press Act, 1878 was imposed by"
+  options: { A: "Lytton", B: "Ripon", C: "Metcalfe", D: "Curzon" }
+  answer: A
+  explanation: "Lytton, fearing the nationalist press's influence on public opinion, restricted the Indian language press through the Vernacular Press Act, 1878."
+  source: "Spectrum (2019-20), p. 535"
+  tags: [ssc]
+
+- slug: smi-27-e02
+  difficulty: easy
+  stem: "In which year did Metcalfe lift the restrictions imposed on the Indian press?"
+  options: { A: "1823", B: "1835", C: "1857", D: "1878" }
+  answer: B
+  explanation: "The book states that in 1835 Metcalfe lifted the restrictions imposed on the Indian press."
+  source: "Spectrum (2019-20), p. 535"
+  tags: [ssc]
+
+- slug: smi-27-e03
+  difficulty: easy
+  stem: "In which year did the Queen adopt the title 'Kaiser-i-Hind' (Queen Empress of India)?"
+  options: { A: "1858", B: "1872", C: "1876", D: "1885" }
+  answer: C
+  explanation: "The Queen adopted the title Kaiser-i-Hind in 1876 to emphasise British sovereignty over the whole of India."
+  source: "Spectrum (2019-20), p. 539"
+  tags: [ssc]
+
+- slug: smi-27-e04
+  difficulty: easy
+  stem: "The first-ever demand for regulating the conditions of factory workers in India came from"
+  options: { A: "The Indian National Congress", B: "Bombay mill-owners", C: "Christian missionaries", D: "The Lancashire textile capitalist lobby" }
+  answer: D
+  explanation: "Ironically, the Lancashire textile lobby, fearing a rival Indian textile industry built on cheap labour, first demanded such regulation."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [ssc]
+
+- slug: smi-27-e05
+  difficulty: easy
+  stem: "The Indian Factory Act, 1881 prohibited the employment of children below the age of"
+  options: { A: "7 years", B: "9 years", C: "12 years", D: "14 years" }
+  answer: A
+  explanation: "The 1881 Act prohibited employment of children under 7 years; the 1891 Act raised the minimum age to 9."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [ssc]
+
+- slug: smi-27-e06
+  difficulty: easy
+  stem: "Who said, 'All experience teaches us that where a dominant race rules another, the mildest form of government is despotism'?"
+  options: { A: "Elgin", B: "Charles Wood", C: "Hamilton", D: "Lytton" }
+  answer: B
+  explanation: "The book quotes Charles Wood, the Secretary of State for India."
+  source: "Spectrum (2019-20), p. 533"
+  tags: [ssc]
+
+- slug: smi-27-e07
+  difficulty: easy
+  stem: "Till which year did the British follow a policy of non-interference in the social, religious and cultural life of India?"
+  options: { A: "1793", B: "1857", C: "1813", D: "1833" }
+  answer: C
+  explanation: "Till 1813 the British followed non-interference; after 1813 measures were taken to transform Indian society."
+  source: "Spectrum (2019-20), p. 536"
+  tags: [ssc]
+
+- slug: smi-27-e08
+  difficulty: easy
+  stem: "Who made it clear that the Indian princes ruled their states merely as agents of the British Crown?"
+  options: { A: "Lord Lytton", B: "Lord Dalhousie", C: "Lord Canning", D: "Lord Curzon" }
+  answer: D
+  explanation: "The book says it was later made clear by Lord Curzon that the princes ruled merely as agents of the British Crown."
+  source: "Spectrum (2019-20), p. 539"
+  tags: [ssc]
+
+- slug: smi-27-e09
+  difficulty: easy
+  stem: "The Radicals among British officials in India were strongly supported by"
+  options: { A: "Raja Rammohan Roy", B: "Ishwar Chandra Vidyasagar", C: "B.M. Malabari", D: "Dadabhai Naoroji" }
+  answer: A
+  explanation: "The Radicals, who came to India after 1820, were strongly supported by Raja Rammohan Roy and like-minded reformers."
+  source: "Spectrum (2019-20), p. 537"
+  tags: [ssc]
+
+- slug: smi-27-e10
+  difficulty: easy
+  stem: "The Vernacular Press Act was repealed under public protest in"
+  options: { A: "1880", B: "1882", C: "1885", D: "1908" }
+  answer: B
+  explanation: "The Vernacular Press Act of 1878 had to be repealed in 1882."
+  source: "Spectrum (2019-20), p. 535"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-27-m01
+  difficulty: medium
+  stem: "Under the Indian Factory Act, 1891, the maximum working hours for women were fixed at"
+  options: { A: "7 hours a day", B: "9 hours a day", C: "11 hours a day", D: "12 hours a day" }
+  answer: C
+  explanation: "The 1891 Act fixed 11 hours a day for women with a one-and-a-half hour interval; children got 7 hours and men's hours were unregulated."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [ssc]
+
+- slug: smi-27-m02
+  difficulty: medium
+  stem: |
+    Match List I (person) with List II (view quoted in the book):
+
+    | List I | List II |
+    |---|---|
+    | a. Anil Seal | 1. 'We could only govern by maintaining the fact that we were the dominant race' |
+    | b. Hamilton | 2. 'The British and the princes needed one another; India's need for either was highly doubtful' |
+    | c. Elgin | 3. 'Systems of nomination, representation and election were all means of enlisting Indians to work for imperial ends' |
+    | d. F.G. Hutchins | 4. Of unity and divergence between Hindus and Muslims, divergence 'is least risky' |
+  options: { A: "a-3, b-1, c-4, d-2", B: "a-2, b-4, c-1, d-3", C: "a-4, b-3, c-1, d-2", D: "a-3, b-4, c-1, d-2", E: "None of the above" }
+  answer: D
+  explanation: "Anil Seal on nomination and election, Hamilton (1897) on Hindu-Muslim friction, Elgin on the dominant race, and F.G. Hutchins on the British and the princes."
+  source: "Spectrum (2019-20), pp. 533, 535, 539"
+  tags: [bpsc]
+
+- slug: smi-27-m03
+  difficulty: medium
+  stem: "Who were the early representatives of the Conservative school of thought among British administrators?"
+  options: { A: "Warren Hastings and Edmund Burke", B: "Munro and Elphinstone", C: "Metcalfe and Munro", D: "Bentham and Macaulay", E: "More than one of the above" }
+  answer: A
+  explanation: "Early Conservatives were Warren Hastings and Edmund Burke; Munro, Metcalfe and Elphinstone were later representatives."
+  source: "Spectrum (2019-20), p. 537"
+  tags: [bpsc]
+
+- slug: smi-27-m04
+  difficulty: medium
+  stem: "Which school of thought, sharply critical of Indian society and culture, became influential especially after 1800?"
+  options: { A: "Conservatives", B: "Paternalistic Imperialists", C: "Radicals", D: "Utilitarians" }
+  answer: B
+  explanation: "The Paternalistic Imperialists became influential after 1800 and used their criticism to justify India's enslavement; the Radicals came after 1820."
+  source: "Spectrum (2019-20), p. 537"
+  tags: [ssc]
+
+- slug: smi-27-m05
+  difficulty: medium
+  stem: "The first commission to investigate factory conditions in India was appointed in"
+  options: { A: "1872", B: "1881", C: "1891", D: "1875" }
+  answer: D
+  explanation: "The first commission was appointed in 1875, although the first Factory Act was not passed before 1881."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [ssc]
+
+- slug: smi-27-m06
+  difficulty: medium
+  stem: "The Indian Factory Act, 1891 changed the age range of 'children' covered by factory law to"
+  options: { A: "7 to 12 years", B: "7 to 14 years", C: "9 to 14 years", D: "9 to 12 years" }
+  answer: C
+  explanation: "The 1891 Act raised the minimum age from 7 to 9 and the maximum from 12 to 14 years."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [ssc]
+
+- slug: smi-27-m07
+  difficulty: medium
+  stem: "The post-1857 British policy of using princely states as a bulwark of the empire while subordinating them completely to British authority is called the policy of"
+  options: { A: "Ring fence", B: "Subsidiary alliance", C: "Subordinate union", D: "Doctrine of lapse", E: "More than one of the above" }
+  answer: C
+  explanation: "The book calls the two-point policy of perpetuating and completely subordinating the princely states the policy of subordinate union."
+  source: "Spectrum (2019-20), pp. 538-539"
+  tags: [bpsc]
+
+- slug: smi-27-m08
+  difficulty: medium
+  stem: "In the wake of the swadeshi and anti-partition movement, fresh restrictions were imposed on the press in"
+  options: { A: "1905 and 1907", B: "1910 and 1919", C: "1908 and 1910", D: "1882 and 1908" }
+  answer: C
+  explanation: "After about two decades of relative freedom following 1882, restrictions were imposed again in 1908 and 1910."
+  source: "Spectrum (2019-20), p. 535"
+  tags: [ssc]
+
+- slug: smi-27-m09
+  difficulty: medium
+  stem: "After which year did the British decide to use the middle and upper educated classes among Muslims against the rising tide of nationalism?"
+  options: { A: "1858", B: "1870", C: "1885", D: "1905" }
+  answer: B
+  explanation: "After an immediate spell of repression against Muslims after 1857, the authorities decided after 1870 to use educated Muslims against nationalism."
+  source: "Spectrum (2019-20), p. 532"
+  tags: [ssc]
+
+- slug: smi-27-m10
+  difficulty: medium
+  stem: "According to the book, why did Christian missionaries support the Radicals?"
+  options: { A: "They believed the Radicals' scientific approach would undermine native culture and beliefs", B: "Law and order and British supremacy were essential for their propaganda", C: "They hoped Christian converts would be better customers of British goods", D: "The Radicals favoured non-interference in Indian religion" }
+  answer: A
+  explanation: "Missionaries backed the Radicals because their scientific approach would undermine native beliefs; options B and C are their reasons for backing the Imperialists and business."
+  source: "Spectrum (2019-20), p. 538"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-27-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indian Factory Act, 1881:
+
+    1. It dealt primarily with child labour between 7 and 12 years of age.
+    2. It restricted working hours for children to 9 hours per day.
+    3. It provided a weekly holiday for all workers.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The 1881 Act gave children four holidays a month; a weekly holiday for all came with the 1891 Act."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [bpsc]
+
+- slug: smi-27-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indian Factory Act, 1891:
+
+    1. It reduced the maximum working hours for children to 7 hours a day.
+    2. It fixed the maximum working hours for men at 12 hours a day.
+    3. It applied to British-owned tea and coffee plantations.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Men's working hours were left unregulated, and factory laws did not apply to British-owned tea and coffee plantations."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [bpsc]
+
+- slug: smi-27-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The factory laws of 1881 and 1891 did not apply to British-owned tea and coffee plantations.
+
+    **Reason (R):** On plantations, a labourer's breach of contract was a criminal offence and the planter could have the defaulting labourer arrested.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "Both are stated in the book, but the criminal-contract laws were a separate way the government helped planters; they do not explain why factory laws excluded plantations."
+  source: "Spectrum (2019-20), p. 534"
+  tags: [bpsc]
+
+- slug: smi-27-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the new ideas that shaped British policy in India after 1813:
+
+    1. The rising industrial interests wanted to make India a big market for their goods and so required its partial modernisation.
+    2. In literature the new trend was represented by Wordsworth, Byron, Shelley and Charles Dickens.
+    3. The Doctrine of Progress held that man has the capacity to remodel nature and society on just and rational lines.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book's account of the Industrial Revolution, the new trend in literature, and the Doctrine of Progress."
+  source: "Spectrum (2019-20), p. 536"
+  tags: [bpsc]
+
+- slug: smi-27-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about British policy towards princely states after 1857:
+
+    1. The policy of annexation was abandoned, partly to reward the states for their loyalty during the revolt.
+    2. The states' right to adopt an heir was to be respected.
+    3. The British refrained from interfering in the internal affairs of the states.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Under paramountcy the British interfered in internal affairs through residents and by appointing and dismissing ministers and officials."
+  source: "Spectrum (2019-20), p. 539"
+  tags: [bpsc]
+
+- slug: smi-27-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** After 1858, the British came to side with the socially orthodox and conservative elements of Indian society.
+
+    **Reason (R):** Indians shifted rapidly towards modernisation and demanded a rule based on the modern principles of liberty, equality and justice.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book links the two: as Indians, being apt pupils, demanded modern rights, the British abandoned hesitant modernisation and sided with orthodox elements."
+  source: "Spectrum (2019-20), p. 538"
+  tags: [bpsc]
+
+- slug: smi-27-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Christian missionaries in India:
+
+    1. They supported the Imperialists, since law and order and British supremacy were essential for their propaganda.
+    2. They sought business support by holding out the hope that Christian converts would be better customers of their goods.
+    3. They opposed the Radicals, whose scientific approach threatened all religion.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The missionaries supported the Radicals, believing their scientific approach would undermine native culture and beliefs."
+  source: "Spectrum (2019-20), p. 538"
+  tags: [bpsc]
+
+- slug: smi-27-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about British foreign policy in India:
+
+    1. One of its aims was to keep other European imperialist powers at arm's length in Asia and Africa.
+    2. It led to conflicts with European powers such as Russia and France.
+    3. The money spent on it came mainly from the British exchequer.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The book says that while the interests served were British, the money spent and the blood shed was Indian."
+  source: "Spectrum (2019-20), p. 540"
+  tags: [bpsc]
+
+- slug: smi-27-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about British administrative policies after 1857:
+
+    1. The lands of most Awadh taluqdars confiscated before 1857 were restored to them.
+    2. The British withdrew support to social reforms, which they felt had aroused the wrath of orthodox sections.
+    3. Spending on social services was raised by cutting expenditure on the army and civil administration.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Disproportionately large spending on the army, civil administration and wars left little for social services."
+  source: "Spectrum (2019-20), p. 533"
+  tags: [bpsc]
+
+- slug: smi-27-h10
+  difficulty: hard
+  stem: "Fearing that too much modernisation might create forces hostile to its interests, the government opted for partial modernisation. The book calls this"
+  options: { A: "Divide and rule", B: "Paternalistic imperialism", C: "Subordinate union", D: "Colonial modernisation", E: "More than one of the above" }
+  answer: D
+  explanation: "Introducing modernisation in some respects and blocking it in others is termed 'colonial modernisation'."
+  source: "Spectrum (2019-20), p. 538"
+  tags: [bpsc]

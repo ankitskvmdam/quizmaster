@@ -1,0 +1,500 @@
+# Chapter 19 — Civil Disobedience Movement and Round Table Conferences (book pp. 366-400)
+# ---------- EASY ----------
+- slug: smi-19-e01
+  difficulty: easy
+  stem: "Which document was approved at the Calcutta session of the Congress in December 1928?"
+  options: { A: "The Nehru Report", B: "The Delhi Manifesto", C: "The Simon Commission Report", D: "The Karachi Resolution" }
+  answer: A
+  explanation: "The Nehru Report was approved at the Calcutta session (December 1928), though younger leaders were unhappy with dominion status as the goal."
+  source: "Spectrum (2019-20), p. 366"
+  tags: [ssc]
+
+- slug: smi-19-e02
+  difficulty: easy
+  stem: "Who presided over the Lahore session of the Congress in December 1929?"
+  options: { A: "Motilal Nehru", B: "Subhash Bose", C: "Jawaharlal Nehru", D: "Mahatma Gandhi" }
+  answer: C
+  explanation: "Jawaharlal Nehru was nominated president of the Lahore session, mainly due to Gandhi's backing."
+  source: "Spectrum (2019-20), p. 368"
+  tags: [ssc]
+
+- slug: smi-19-e03
+  difficulty: easy
+  stem: "Which date was fixed by the Lahore Congress as the first Independence (Swarajya) Day?"
+  options: { A: "December 31, 1929", B: "January 26, 1930", C: "January 31, 1930", D: "March 12, 1930" }
+  answer: B
+  explanation: "The Lahore session fixed January 26, 1930 as the first Independence Day, to be celebrated everywhere."
+  source: "Spectrum (2019-20), p. 369"
+  tags: [ssc]
+
+- slug: smi-19-e04
+  difficulty: easy
+  stem: "How many members of Sabarmati Ashram accompanied Gandhi on the Dandi March?"
+  options: { A: "71", B: "80", C: "300", D: "78" }
+  answer: D
+  explanation: "Gandhi marched with a band of seventy-eight members of Sabarmati Ashram, covering 240 miles to Dandi."
+  source: "Spectrum (2019-20), pp. 371-372"
+  tags: [ssc]
+
+- slug: smi-19-e05
+  difficulty: easy
+  stem: "Which two districts were the first in Bihar to start the salt satyagraha in 1930?"
+  options: { A: "Champaran and Saran", B: "Patna and Gaya", C: "Munger and Bhagalpur", D: "Hazaribagh and Ranchi", E: "More than one of the above" }
+  answer: A
+  explanation: "The book states that Champaran and Saran were the first two districts in Bihar to start salt satyagraha."
+  source: "Spectrum (2019-20), p. 374"
+  tags: [bpsc]
+
+- slug: smi-19-e06
+  difficulty: easy
+  stem: "In Patna, Nakhas Pond was chosen as a site to make salt and break the salt law under the leadership of"
+  options: { A: "Bonga Majhi", B: "Gopalbandhu Chaudhuri", C: "Ambika Kant Sinha", D: "Somra Majhi", E: "More than one of the above" }
+  answer: C
+  explanation: "In Patna, Nakhas Pond was chosen to make salt and break the salt law under Ambika Kant Sinha."
+  source: "Spectrum (2019-20), p. 374"
+  tags: [bpsc]
+
+- slug: smi-19-e07
+  difficulty: easy
+  stem: "Who organised the volunteer brigade 'Khudai Khidmatgars', popularly known as the 'Red-Shirts'?"
+  options: { A: "K. Kelappan", B: "Khan Abdul Gaffar Khan", C: "Surya Sen", D: "Muhammad Ali Jinnah" }
+  answer: B
+  explanation: "Khan Abdul Gaffar Khan (Badshah Khan, Frontier Gandhi) organised the Khudai Khidmatgars, pledged to freedom and non-violence."
+  source: "Spectrum (2019-20), p. 375"
+  tags: [ssc]
+
+- slug: smi-19-e08
+  difficulty: easy
+  stem: "In April 1930, C. Rajagopalachari led a salt march from Thiruchirapalli to"
+  options: { A: "Dandi", B: "Calicut", C: "Dharasana", D: "Vedaranniyam" }
+  answer: D
+  explanation: "Rajaji organised a march from Thiruchirapalli to Vedaranniyam on the Tanjore coast to break the salt law."
+  source: "Spectrum (2019-20), p. 373"
+  tags: [ssc]
+
+- slug: smi-19-e09
+  difficulty: easy
+  stem: "After Gandhi's arrest, who led the raid on the Dharasana Salt Works along with Imam Sahib and Manilal on May 21, 1930?"
+  options: { A: "Sarojini Naidu", B: "Kasturba Gandhi", C: "Chandraprabha Saikiani", D: "Rani Gaidinliu" }
+  answer: A
+  explanation: "Sarojini Naidu, Imam Sahib and Manilal took up the unfinished task of leading the raid on Dharasana Salt Works."
+  source: "Spectrum (2019-20), p. 375"
+  tags: [ssc]
+
+- slug: smi-19-e10
+  difficulty: easy
+  stem: "Which Naga spiritual leader raised the banner of revolt against foreign rule at the age of thirteen?"
+  options: { A: "Haipou Jadonang", B: "Chandraprabha Saikiani", C: "Rani Gaidinliu", D: "Begum Jahanara Shahnawaz" }
+  answer: C
+  explanation: "Rani Gaidinliu, who followed her cousin Haipou Jadonang, raised the banner of revolt at thirteen."
+  source: "Spectrum (2019-20), p. 376"
+  tags: [ssc]
+
+- slug: smi-19-e11
+  difficulty: easy
+  stem: "The resolutions on Fundamental Rights and the National Economic Programme were adopted at which Congress session?"
+  options: { A: "Lahore, 1929", B: "Karachi, 1931", C: "Calcutta, 1928", D: "Faizpur, 1936" }
+  answer: B
+  explanation: "The Karachi session (March 1931) adopted resolutions on Fundamental Rights and the National Economic Programme."
+  source: "Spectrum (2019-20), p. 381"
+  tags: [ssc]
+
+- slug: smi-19-e12
+  difficulty: easy
+  stem: "The First Round Table Conference was officially opened on November 12, 1930 by"
+  options: { A: "Ramsay MacDonald", B: "Lord Irwin", C: "Samuel Hoare", D: "King George V" }
+  answer: D
+  explanation: "It was opened officially by King George V and chaired by Ramsay MacDonald."
+  source: "Spectrum (2019-20), p. 382"
+  tags: [ssc]
+
+- slug: smi-19-e13
+  difficulty: easy
+  stem: "Who was nominated by the Indian National Congress as its sole representative at the Second Round Table Conference?"
+  options: { A: "Jawaharlal Nehru", B: "Madan Mohan Malaviya", C: "Mahatma Gandhi", D: "Sarojini Naidu" }
+  answer: C
+  explanation: "The Congress nominated Gandhi as its sole representative at the Second RTC."
+  source: "Spectrum (2019-20), p. 384"
+  tags: [ssc]
+
+- slug: smi-19-e14
+  difficulty: easy
+  stem: "The Communal Award of August 16, 1932 was announced by"
+  options: { A: "Ramsay MacDonald", B: "Lord Willingdon", C: "Lord Irwin", D: "Samuel Hoare" }
+  answer: A
+  explanation: "The Communal Award was announced by British Prime Minister Ramsay MacDonald on August 16, 1932."
+  source: "Spectrum (2019-20), p. 389"
+  tags: [ssc]
+
+- slug: smi-19-e15
+  difficulty: easy
+  stem: "Which weekly did Gandhi start in January 1933 while in jail?"
+  options: { A: "Young India", B: "Harijan", C: "Navajivan", D: "Pukhtoon" }
+  answer: B
+  explanation: "While in jail, Gandhi set up the All India Anti-Untouchability League (September 1932) and started the weekly Harijan in January 1933."
+  source: "Spectrum (2019-20), p. 393"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-19-m01
+  difficulty: medium
+  stem: |
+    Arrange the following events in chronological order:
+
+    1. Delhi Manifesto
+    2. Irwin's Declaration
+    3. Start of the Dandi March
+    4. Hoisting of the tricolour on the banks of the Ravi by Jawaharlal Nehru
+  options: { A: "1, 2, 4, 3", B: "2, 1, 3, 4", C: "1, 2, 3, 4", D: "2, 1, 4, 3", E: "None of the above" }
+  answer: D
+  explanation: "Irwin's Declaration (October 31, 1929), Delhi Manifesto (November 2, 1929), flag on the Ravi (December 31, 1929), Dandi March began (March 12, 1930)."
+  source: "Spectrum (2019-20), pp. 367-372"
+  tags: [bpsc]
+
+- slug: smi-19-m02
+  difficulty: medium
+  stem: |
+    Match List I (region) with List II (leader of salt satyagraha there) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Tamil Nadu | 1. K. Kelappan |
+    | b. Malabar | 2. Ambika Kant Sinha |
+    | c. Orissa | 3. C. Rajagopalachari |
+    | d. Patna | 4. Gopalbandhu Chaudhuri |
+  options: { A: "a-3, b-4, c-1, d-2", B: "a-3, b-1, c-4, d-2", C: "a-1, b-3, c-4, d-2", D: "a-3, b-1, c-2, d-4", E: "None of the above" }
+  answer: B
+  explanation: "Rajagopalachari led in Tamil Nadu, K. Kelappan in Malabar, Gopalbandhu Chaudhuri in Orissa and Ambika Kant Sinha at Nakhas Pond, Patna."
+  source: "Spectrum (2019-20), pp. 373-374"
+  tags: [bpsc]
+
+- slug: smi-19-m03
+  difficulty: medium
+  stem: "Which of the following was listed among the 'specific peasant demands' in Gandhi's eleven demands?"
+  options: { A: "Reduce rupee-sterling exchange ratio to 1s 4d", B: "Introduce textile protection", C: "Abolish salt tax and government's salt monopoly", D: "Introduce total prohibition" }
+  answer: C
+  explanation: "The peasant demands were a 50 per cent cut in land revenue and abolition of the salt tax; 1s 4d and textile protection were bourgeois demands, prohibition a general one."
+  source: "Spectrum (2019-20), pp. 370-371"
+  tags: [ssc]
+
+- slug: smi-19-m04
+  difficulty: medium
+  stem: "After Gandhi's arrest in May 1930, the Congress Working Committee sanctioned the no-chowkidara-tax campaign in"
+  options: { A: "zamindari areas", B: "ryotwari areas", C: "the Central Provinces", D: "the North-West Frontier Province" }
+  answer: A
+  explanation: "The CWC sanctioned non-payment of revenue in ryotwari areas, no-chowkidara tax in zamindari areas and forest law violation in the Central Provinces."
+  source: "Spectrum (2019-20), p. 373"
+  tags: [ssc]
+
+- slug: smi-19-m05
+  difficulty: medium
+  stem: "Which industrial town saw the fiercest response to Gandhi's arrest, where textile workers set up a virtual parallel government?"
+  options: { A: "Ahmedabad", B: "Peshawar", C: "Bombay", D: "Sholapur" }
+  answer: D
+  explanation: "In Sholapur textile workers struck from May 7, 1930 and set up a virtual parallel government, dislodged only by martial law."
+  source: "Spectrum (2019-20), p. 375"
+  tags: [ssc]
+
+- slug: smi-19-m06
+  difficulty: medium
+  stem: "During the Civil Disobedience Movement in Bihar, administration collapsed in the Barhee region of which district?"
+  options: { A: "Saran", B: "Munger", C: "Champaran", D: "Hazaribagh", E: "More than one of the above" }
+  answer: B
+  explanation: "By November 1930 sales of foreign cloth and liquor fell sharply and administration collapsed in parts such as the Barhee region of Munger."
+  source: "Spectrum (2019-20), p. 374"
+  tags: [bpsc]
+
+- slug: smi-19-m07
+  difficulty: medium
+  stem: "Bonga Majhi and Somra Majhi, influenced by Gandhism, led a movement combining socio-religious reform along 'sanskritising' lines in"
+  options: { A: "Hazaribagh", B: "Midnapur", C: "Champaran", D: "Kheda", E: "More than one of the above" }
+  answer: A
+  explanation: "In the Chhotanagpur tribal belt, Bonga Majhi and Somra Majhi led such a movement in Hazaribagh, asking followers to give up meat and liquor and use khadi."
+  source: "Spectrum (2019-20), pp. 374-375"
+  tags: [bpsc]
+
+- slug: smi-19-m08
+  difficulty: medium
+  stem: "Which of the following demands of Gandhi was turned down by the viceroy in the Gandhi-Irwin Pact?"
+  options: { A: "Right to make salt in coastal villages for personal consumption", B: "Release of political prisoners not convicted of violence", C: "Public inquiry into police excesses", D: "Withdrawal of emergency ordinances" }
+  answer: C
+  explanation: "Irwin turned down a public inquiry into police excesses and commutation of Bhagat Singh's death sentence; the other three were agreed to."
+  source: "Spectrum (2019-20), p. 379"
+  tags: [ssc]
+
+- slug: smi-19-m09
+  difficulty: medium
+  stem: "Where did a section of the Garhwal Rifles soldiers refuse to fire on an unarmed crowd in 1930?"
+  options: { A: "Sholapur", B: "Peshawar", C: "Dharasana", D: "Calicut" }
+  answer: B
+  explanation: "In Peshawar, after mass demonstrations in April 1930, a section of the Garhwal Rifles refused to fire on an unarmed crowd."
+  source: "Spectrum (2019-20), p. 375"
+  tags: [ssc]
+
+- slug: smi-19-m10
+  difficulty: medium
+  stem: "Under the Poona Pact, seats reserved for the depressed classes in the provincial legislatures were increased to"
+  options: { A: "71", B: "78", C: "18", D: "147" }
+  answer: D
+  explanation: "The Poona Pact raised the depressed classes' reserved seats from 71 to 147 in provincial legislatures and to 18 per cent of the Central Legislature."
+  source: "Spectrum (2019-20), p. 392"
+  tags: [ssc]
+
+- slug: smi-19-m11
+  difficulty: medium
+  stem: "In Assam, a successful student strike in May 1930 was organised against the"
+  options: { A: "Cunningham Circular", B: "Lothian Committee", C: "Rowlatt Act", D: "Arms Act" }
+  answer: A
+  explanation: "Assam saw a successful student strike against the Cunningham Circular, which banned students' participation in politics."
+  source: "Spectrum (2019-20), p. 374"
+  tags: [ssc]
+
+- slug: smi-19-m12
+  difficulty: medium
+  stem: "At the end of the Second Round Table Conference, Ramsay MacDonald announced two Muslim-majority provinces. They were"
+  options: { A: "Punjab and Sindh", B: "NWFP and Bengal", C: "NWFP and Sindh", D: "Sindh and Baluchistan", E: "None of the above" }
+  answer: C
+  explanation: "MacDonald announced two Muslim-majority provinces, NWFP and Sindh, along with an Indian Consultative Committee and three expert committees."
+  source: "Spectrum (2019-20), p. 387"
+  tags: [bpsc]
+
+- slug: smi-19-m13
+  difficulty: medium
+  stem: "The recommendations of the Third Round Table Conference were published in a White Paper in"
+  options: { A: "August 1932", B: "March 1933", C: "February 1935", D: "July 1935" }
+  answer: B
+  explanation: "The recommendations came out in a White Paper in March 1933; a draft Bill followed in February 1935 and the Act was enforced in July 1935."
+  source: "Spectrum (2019-20), p. 387"
+  tags: [ssc]
+
+- slug: smi-19-m14
+  difficulty: medium
+  stem: "Which of the following was part of the Karachi Resolution on National Economic Programme rather than the Resolution on Fundamental Rights?"
+  options: { A: "Universal adult franchise", B: "Free and compulsory primary education", C: "Neutrality of state in religious matters", D: "State ownership and control of key industries, mines and means of transport", E: "None of the above" }
+  answer: D
+  explanation: "State ownership of key industries, mines and transport was in the Economic Programme; the other three were guaranteed in the Fundamental Rights resolution."
+  source: "Spectrum (2019-20), pp. 381-382"
+  tags: [bpsc]
+
+- slug: smi-19-m15
+  difficulty: medium
+  stem: "Gandhi's Harijan tour of the country (November 1933 to July 1934) started from"
+  options: { A: "Wardha", B: "Sabarmati", C: "Yeravada", D: "Poona" }
+  answer: A
+  explanation: "After his release Gandhi shifted to the Satyagraha Ashram at Wardha and started his 20,000 km Harijan tour from there."
+  source: "Spectrum (2019-20), p. 393"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-19-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Lahore session of the Congress (December 1929):
+
+    1. Jawaharlal Nehru was made president mainly due to Gandhi's backing, though 15 out of 18 Provincial Congress Committees had opposed him.
+    2. It decided that the Round Table Conference was to be boycotted.
+    3. The tricolour flag was hoisted at midnight on the banks of the river Sutlej.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 2 are correct. The flag was hoisted on the banks of the river Ravi on December 31, 1929."
+  source: "Spectrum (2019-20), pp. 368-369"
+  tags: [bpsc]
+
+- slug: smi-19-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Civil Disobedience Movement in Bihar and Chhotanagpur:
+
+    1. Manufacture of salt on a large scale was not practicable in landlocked Bihar, so a no-chaukidari tax agitation replaced the salt satyagraha.
+    2. Most big zamindars actively participated in the movement.
+    3. The Santhals were reported to be taking up illegal distillation of liquor under the banner of Gandhi.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1 and 3 are correct. Most big zamindars stayed loyal to the government; it was small landlords and better-off tenants who participated."
+  source: "Spectrum (2019-20), pp. 374-375"
+  tags: [bpsc]
+
+- slug: smi-19-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Bengal provided the largest number of arrests during the Civil Disobedience Movement.
+
+    **Reason (R):** Muslim participation in the movement in Bengal was very high.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "Bengal did provide the largest number of arrests and the highest violence, but the book notes there was little participation of Muslims there."
+  source: "Spectrum (2019-20), p. 374"
+  tags: [bpsc]
+
+- slug: smi-19-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Gandhi-Irwin Pact:
+
+    1. The government conceded the right to make salt in coastal villages for personal consumption, but not for sale.
+    2. The government agreed to return all confiscated lands, including those already sold to third parties.
+    3. Gandhi agreed to participate in the next Round Table Conference.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 3 are correct. Only lands not yet sold to third parties were to be returned."
+  source: "Spectrum (2019-20), p. 379"
+  tags: [bpsc]
+
+- slug: smi-19-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements comparing the Civil Disobedience Movement with the Non-Cooperation Movement:
+
+    1. The number of people imprisoned was about three times more in the Civil Disobedience Movement.
+    2. A major labour upsurge coincided with the Civil Disobedience Movement.
+    3. Forms of protest involving the intelligentsia, such as lawyers giving up practice, declined.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 3 are correct; the book says no major labour upsurge coincided with the Civil Disobedience Movement."
+  source: "Spectrum (2019-20), pp. 380-381"
+  tags: [bpsc]
+
+- slug: smi-19-h06
+  difficulty: hard
+  stem: |
+    Consider the following provisions said to be part of the Communal Award (1932):
+
+    1. Separate electorates for the depressed classes were to be provided for a period of 20 years.
+    2. Except in the NWFP, 3 per cent seats were to be reserved for women in all provinces.
+    3. Seven seats in the province of Bombay were to be allocated for the Marathas.
+    4. The existing seats of the provincial legislatures were to be halved.
+
+    Which of the above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2, 3 and 4", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1, 2 and 3 are correct. Under the Award, the existing seats of the provincial legislatures were to be doubled, not halved."
+  source: "Spectrum (2019-20), pp. 390-391"
+  tags: [bpsc]
+
+- slug: smi-19-h07
+  difficulty: hard
+  stem: |
+    Match List I (group represented at the First Round Table Conference) with List II (representative) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Depressed Classes | 1. Henry Gidney |
+    | b. Women | 2. N.M. Joshi |
+    | c. Labour | 3. Rettamalai Srinivasan |
+    | d. Anglo-Indians | 4. Radhabai Subbarayan |
+  options: { A: "a-3, b-4, c-2, d-1", B: "a-3, b-2, c-4, d-1", C: "a-4, b-3, c-2, d-1", D: "a-3, b-4, c-1, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Depressed classes: Ambedkar and Rettamalai Srinivasan; women: Begum Jahanara Shahnawaz and Radhabai Subbarayan; labour: N.M. Joshi and B. Shiva Rao; Anglo-Indians: Henry Gidney."
+  source: "Spectrum (2019-20), p. 383"
+  tags: [bpsc]
+
+- slug: smi-19-h08
+  difficulty: hard
+  stem: "At the Second Round Table Conference, V.V. Giri was one of the representatives of"
+  options: { A: "Industry", B: "Labour", C: "the Liberals", D: "the Justice Party" }
+  answer: B
+  explanation: "Labour at the Second RTC was represented by N.M. Joshi, B. Shiva Rao and V.V. Giri; industry by G.D. Birla, Purshottamdas Thakurdas and Maneckji Dadabhoy."
+  source: "Spectrum (2019-20), p. 385"
+  tags: [ssc]
+
+- slug: smi-19-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about the circumstances of the Second Round Table Conference (1931):
+
+    1. Lord Irwin had been replaced by Lord Willingdon as viceroy.
+    2. Just before it began, the Labour government in England had been replaced by a National Government.
+    3. The Secretary of State for India at the time was Wedgewood Benn.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1 and 2 are correct. MacDonald's Conservative-dominated cabinet had Samuel Hoare as Secretary of State; Wedgewood Benn had become Secretary of State in 1929."
+  source: "Spectrum (2019-20), pp. 367, 385-386"
+  tags: [bpsc]
+
+- slug: smi-19-h10
+  difficulty: hard
+  stem: |
+    Which of the following were conditions put forward in the Delhi Manifesto (November 2, 1929) for attending the Round Table Conference?
+
+    1. The conference should formulate a constitution for implementing dominion status, and the basic principle of dominion status should be immediately accepted.
+    2. The Congress should have majority representation at the conference.
+    3. There should be a general amnesty for political prisoners and a policy of conciliation.
+
+    Select the correct answer using the code given below:
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three were conditions of the Delhi Manifesto; Viceroy Irwin rejected them."
+  source: "Spectrum (2019-20), p. 368"
+  tags: [bpsc]
+
+- slug: smi-19-h11
+  difficulty: hard
+  stem: "The second phase of the Civil Disobedience Movement (1932) coincided with upsurges in which two princely states?"
+  options: { A: "Kashmir and Alwar", B: "Hyderabad and Mysore", C: "Baroda and Bhopal", D: "Patiala and Rewa" }
+  answer: A
+  explanation: "The book notes that this phase of the movement coincided with upsurges in Kashmir and Alwar."
+  source: "Spectrum (2019-20), p. 389"
+  tags: [ssc]
+
+- slug: smi-19-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about the views of Gandhi and Ambedkar:
+
+    1. Ambedkar advocated a parliamentary system of government for independent India.
+    2. In Gandhi's perception, it was purity of means that determined the end.
+    3. Ambedkar viewed the untouchables as an integral part of the Hindu whole.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. It was Gandhi who saw untouchables as part of the Hindu whole; Ambedkar called them a 'political minority'."
+  source: "Spectrum (2019-20), pp. 396, 398-399"
+  tags: [bpsc]
+
+- slug: smi-19-h13
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The peasants of Gujarat were disappointed with the Gandhi-Irwin Pact.
+
+    **Reason (R):** The viceroy turned down the demand for commutation of the death sentence of Bhagat Singh and his comrades.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "Both are true, but Gujarat's peasants were disappointed because their lands were not restored immediately, not because of the Bhagat Singh issue."
+  source: "Spectrum (2019-20), pp. 379-380"
+  tags: [bpsc]
+
+- slug: smi-19-h14
+  difficulty: hard
+  stem: "On his way to the Karachi session (1931), Gandhi was greeted with black flag demonstrations organised by"
+  options: { A: "the Khudai Khidmatgars", B: "the Hindu Mahasabha", C: "the Muslim League", D: "the Punjab Naujawan Bharat Sabha" }
+  answer: D
+  explanation: "The Punjab Naujawan Bharat Sabha protested his failure to secure commutation of the death sentence of Bhagat Singh and his comrades."
+  source: "Spectrum (2019-20), p. 381"
+  tags: [ssc]
+
+- slug: smi-19-h15
+  difficulty: hard
+  stem: |
+    Consider the following statements about the truce period (March-December 1931):
+
+    1. In the United Provinces, the Congress led a movement for rent reduction and against summary evictions.
+    2. In the NWFP, severe repression was unleashed against the Khudai Khidmatgars.
+    3. In September 1931, there was a firing incident on political prisoners in Hijli Jail.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1, 2 and 3", B: "1 and 2 only", C: "2 and 3 only", D: "1 and 3 only", E: "None of the above" }
+  answer: A
+  explanation: "All three are stated in the book as activities that kept the spirit of defiance alive during the truce."
+  source: "Spectrum (2019-20), p. 388"
+  tags: [bpsc]

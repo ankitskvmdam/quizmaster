@@ -1,0 +1,330 @@
+# Chapter 33 — Challenges Before the New-born Nation (book pp. 590-602)
+# ---------- EASY ----------
+- slug: smi-33-e01
+  difficulty: easy
+  stem: "Who presided over the session of the Constituent Assembly held at 11 p.m. on August 14, 1947?"
+  options: { A: "Jawaharlal Nehru", B: "Rajendra Prasad", C: "Lord Mountbatten", D: "C. Rajagopalachari", E: "More than one of the above" }
+  answer: B
+  explanation: "The Constituent Assembly met at 11 p.m. on August 14, 1947 with Rajendra Prasad presiding."
+  source: "Spectrum (2019-20), p. 590"
+  tags: [bpsc]
+
+- slug: smi-33-e02
+  difficulty: easy
+  stem: "On August 15, 1947, Nehru hoisted the national flag above which gate of the Red Fort?"
+  options: { A: "Delhi Gate", B: "Kashmiri Gate", C: "Ajmeri Gate", D: "Lahori Gate" }
+  answer: D
+  explanation: "Nehru hoisted the Indian national flag above the Lahori Gate of the Red Fort in Delhi."
+  source: "Spectrum (2019-20), p. 591"
+  tags: [ssc]
+
+- slug: smi-33-e03
+  difficulty: easy
+  stem: "Who was the Minister of Labour in the first Council of Ministers of independent India?"
+  options: { A: "Jagjivan Ram", B: "C.H. Bhabha", C: "K.C. Neogy", D: "Rafi Ahmad Kidwai", E: "More than one of the above" }
+  answer: A
+  explanation: "Jagjivan Ram was the Minister of Labour; Bhabha held Commerce, Neogy Relief and Rehabilitation and Kidwai Communications."
+  source: "Spectrum (2019-20), p. 591"
+  tags: [bpsc]
+
+- slug: smi-33-e04
+  difficulty: easy
+  stem: "Who was the chairman of the Boundary Commission that drew the India-Pakistan boundaries in 1947?"
+  options: { A: "Lord Mountbatten", B: "Claude Auchinleck", C: "Sir Cyril Radcliffe", D: "Lockhart" }
+  answer: C
+  explanation: "The British government appointed the Boundary Commission under the chairmanship of Sir Cyril Radcliffe."
+  source: "Spectrum (2019-20), p. 593"
+  tags: [ssc]
+
+- slug: smi-33-e05
+  difficulty: easy
+  stem: "Mahatma Gandhi was shot dead on January 30, 1948 at his prayer meeting at"
+  options: { A: "Teen Murti House", B: "Birla mansion, New Delhi", C: "Parliament House", D: "Sabarmati Ashram" }
+  answer: B
+  explanation: "Gandhi was shot dead by Nathuram Godse during his prayer meeting at Birla mansion, New Delhi."
+  source: "Spectrum (2019-20), p. 597"
+  tags: [ssc]
+
+- slug: smi-33-e06
+  difficulty: easy
+  stem: "The ban imposed on the RSS on February 4, 1948 was lifted in"
+  options: { A: "February 1948", B: "January 1950", C: "July 1949", D: "April 1950" }
+  answer: C
+  explanation: "The ban was lifted in July 1949, when the RSS accepted the conditions laid down by the government."
+  source: "Spectrum (2019-20), p. 598"
+  tags: [ssc]
+
+- slug: smi-33-e07
+  difficulty: easy
+  stem: "On which date did Nehru and Liaquat Ali Khan sign the Delhi Pact on Minorities?"
+  options: { A: "January 26, 1950", B: "January 30, 1948", C: "December 1949", D: "April 8, 1950" }
+  answer: D
+  explanation: "The Delhi Pact on Minorities (Liaquat-Nehru Pact) was signed on April 8, 1950."
+  source: "Spectrum (2019-20), p. 599"
+  tags: [ssc]
+
+- slug: smi-33-e08
+  difficulty: easy
+  stem: "Ulhasnagar in Maharashtra was especially developed to settle refugees from"
+  options: { A: "Sindh", B: "East Bengal", C: "West Punjab", D: "North-West Frontier Province" }
+  answer: A
+  explanation: "Ulhasnagar ('city of joy') was especially developed to settle refugees from Sindh."
+  source: "Spectrum (2019-20), p. 600"
+  tags: [ssc]
+
+- slug: smi-33-e09
+  difficulty: easy
+  stem: "Who was the Minister of Finance in the first Council of Ministers of independent India?"
+  options: { A: "John Mathai", B: "R.K. Shanmukham Chetty", C: "C.H. Bhabha", D: "Narhar Vishnu Gadgil" }
+  answer: B
+  explanation: "R.K. Shanmukham Chetty held Finance; John Mathai held Railways and Transport, Bhabha Commerce and Gadgil Works, Mines and Power."
+  source: "Spectrum (2019-20), p. 591"
+  tags: [ssc]
+
+- slug: smi-33-e10
+  difficulty: easy
+  stem: "With which slogan did the CPI denounce Indian independence as 'fake' in December 1947?"
+  options: { A: "Do or die", B: "Inquilab Zindabad", C: "Ye azadi jhooti hai", D: "Nij khamare dhan tolo" }
+  answer: C
+  explanation: "In December 1947 the CPI denounced independence as fake with the slogan 'ye azadi jhooti hai'."
+  source: "Spectrum (2019-20), p. 601"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-33-m01
+  difficulty: medium
+  stem: |
+    Match List I (minister in the first Council of Ministers) with List II (portfolio):
+
+    | List I | List II |
+    |---|---|
+    | a. Maulana Abul Kalam Azad | 1. Health |
+    | b. John Mathai | 2. Defence |
+    | c. Sardar Baldev Singh | 3. Railways and Transport |
+    | d. Amrit Kaur | 4. Education |
+  options: { A: "a-4, b-3, c-2, d-1", B: "a-4, b-2, c-3, d-1", C: "a-3, b-4, c-2, d-1", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Azad held Education, John Mathai Railways and Transport, Baldev Singh Defence and Amrit Kaur Health."
+  source: "Spectrum (2019-20), p. 591"
+  tags: [bpsc]
+
+- slug: smi-33-m02
+  difficulty: medium
+  stem: "Who was the first minister to resign from Nehru's cabinet, in April 1950?"
+  options: { A: "B.R. Ambedkar", B: "K.C. Neogy", C: "Mohanlal Saxena", D: "Shyama Prasad Mookherjee" }
+  answer: D
+  explanation: "Shyama Prasad Mookherjee (Hindu Mahasabha), Minister of Industries and Supplies, was the first to resign, in April 1950; Ambedkar resigned in 1951."
+  source: "Spectrum (2019-20), p. 592"
+  tags: [ssc]
+
+- slug: smi-33-m03
+  difficulty: medium
+  stem: "B.R. Ambedkar, the first Law Minister of independent India, belonged to the"
+  options: { A: "Hindu Mahasabha", B: "Indian National Congress", C: "Scheduled Castes Federation", D: "Congress Socialist Party" }
+  answer: C
+  explanation: "The book notes that Ambedkar belonged to the Scheduled Castes Federation and resigned in 1951."
+  source: "Spectrum (2019-20), p. 592"
+  tags: [ssc]
+
+- slug: smi-33-m04
+  difficulty: medium
+  stem: "Within what period was Radcliffe required to draw the boundaries and decide disputed points?"
+  options: { A: "Three weeks", B: "Six weeks", C: "Three months", D: "Six months" }
+  answer: B
+  explanation: "Radcliffe, with limited knowledge of India and out-of-date maps, had to draw the boundaries within six weeks."
+  source: "Spectrum (2019-20), p. 593"
+  tags: [ssc]
+
+- slug: smi-33-m05
+  difficulty: medium
+  stem: "The report of the Boundary Commission was ready by ____, but Mountbatten made it public only after ____ 1947."
+  options: { A: "August 15; August 17", B: "August 10; August 14", C: "August 12; August 15", D: "August 14; August 17" }
+  answer: C
+  explanation: "The report was ready by August 12, but Mountbatten deliberately published it after August 15 so that the blame for the consequences would not fall on the British."
+  source: "Spectrum (2019-20), p. 594"
+  tags: [ssc]
+
+- slug: smi-33-m06
+  difficulty: medium
+  stem: "The killing of Muslims in Bihar in October 1946 was followed by violence at which place in the United Provinces, where Hindu pilgrims killed a thousand Muslims?"
+  options: { A: "Delhi", B: "Garhmukteswar", C: "Khulna", D: "Calcutta", E: "More than one of the above" }
+  answer: B
+  explanation: "The Bihar violence of October 1946 was followed by violence in Garhmukteswar in the United Provinces."
+  source: "Spectrum (2019-20), p. 594"
+  tags: [bpsc]
+
+- slug: smi-33-m07
+  difficulty: medium
+  stem: "The partition council for dividing the civil government was helped at the operational level by a steering committee consisting of"
+  options: { A: "Auchinleck and Lockhart", B: "Nehru and Liaquat Ali Khan", C: "Radcliffe and Mountbatten", D: "H.M. Patel and Mohammad Ali" }
+  answer: D
+  explanation: "The partition council, presided over by the governor-general, was helped by a steering committee of H.M. Patel and Mohammad Ali."
+  source: "Spectrum (2019-20), p. 596"
+  tags: [ssc]
+
+- slug: smi-33-m08
+  difficulty: medium
+  stem: "The joint defence council set up to divide the armed forces between India and Pakistan was headed, as Supreme Commander, by"
+  options: { A: "Lockhart", B: "Lord Mountbatten", C: "Auchinleck", D: "Sir Cyril Radcliffe" }
+  answer: C
+  explanation: "The joint defence council was headed by Auchinleck as Supreme Commander; the post was later abolished because of differences between the two sides."
+  source: "Spectrum (2019-20), p. 597"
+  tags: [ssc]
+
+- slug: smi-33-m09
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Third Party Congress of the CPI at Calcutta
+    2. Russia's announcement of the 'A. Zhdanov thesis'
+    3. Failure of the proposed railway strike
+    4. Adoption of the CPI's 'Political Thesis' at its Second Congress
+  options: { A: "2, 4, 3, 1", B: "4, 2, 3, 1", C: "2, 3, 4, 1", D: "2, 4, 1, 3", E: "None of the above" }
+  answer: A
+  explanation: "Zhdanov thesis (September 1947), Political Thesis (February-March 1948), failed railway strike (May 9, 1949), Third Party Congress (October 1951)."
+  source: "Spectrum (2019-20), pp. 601-602"
+  tags: [bpsc]
+
+- slug: smi-33-m10
+  difficulty: medium
+  stem: "According to the book, Sindhi Hindu refugees settled in all of the following EXCEPT"
+  options: { A: "West Bengal", B: "Gujarat", C: "Rajasthan", D: "Madhya Pradesh" }
+  answer: A
+  explanation: "Sindhi Hindus settled in Gujarat, Maharashtra, Rajasthan and Madhya Pradesh; West Bengal took in refugees from East Pakistan."
+  source: "Spectrum (2019-20), p. 600"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-33-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the first government of independent India:
+
+    1. Sardar Patel served as deputy prime minister till his death in December 1950.
+    2. C. Rajagopalachari served as Governor-General till January 26, 1950.
+    3. Narasimha Gopalaswami Ayyangar, a minister without portfolio, acted as a link between the union government and the East Punjab cabinet.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three statements are given in the book's account of the first government."
+  source: "Spectrum (2019-20), pp. 591-592"
+  tags: [bpsc]
+
+- slug: smi-33-h02
+  difficulty: hard
+  stem: "The book classifies the challenges before independent India as immediate, medium term and long term. Which of the following is listed as a medium-term challenge?"
+  options: { A: "Integration of the princely states", B: "Abolition of the feudal set-up in agriculture", C: "Rehabilitation of refugees from Pakistan", D: "Poverty alleviation", E: "More than one of the above" }
+  answer: B
+  explanation: "Medium-term challenges were framing the Constitution, building a democratic order, elections and abolishing the feudal set-up; princely states and refugees were immediate, poverty alleviation long term."
+  source: "Spectrum (2019-20), p. 592"
+  tags: [bpsc]
+
+- slug: smi-33-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the partition of Punjab and Bengal:
+
+    1. East Punjab, India's share, received 62,000 square miles of territory.
+    2. East Bengal received 49,400 square miles of territory and 39.10 million people.
+    3. West Bengal became part of India with 28,000 square miles of territory and a population of 21.2 million.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "West Punjab (Pakistan) received 62,000 square miles; East Punjab got 37,000 square miles. Statements 2 and 3 are correct."
+  source: "Spectrum (2019-20), p. 593"
+  tags: [bpsc]
+
+- slug: smi-33-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the partition violence:
+
+    1. The governor-general assembled a boundary force of 50,000 men.
+    2. Nehru insisted on using British troops to control the riots.
+    3. According to an estimate, around 180,000 people were killed.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Nehru decided NOT to allow British troops into the matter, which proved devastating. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 594"
+  tags: [bpsc]
+
+- slug: smi-33-h05
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The regions of Bengal experienced less violence than Punjab during partition.
+
+    **Reason (R):** The Radcliffe line did not pass through Bengal.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "Bengal too was partitioned along the Radcliffe line; the book credits its lower violence to Gandhi's presence and his fasts."
+  source: "Spectrum (2019-20), pp. 593-594"
+  tags: [bpsc]
+
+- slug: smi-33-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Indian government withheld Pakistan's share of the sterling balance, some Rs. 550 million.
+
+    **Reason (R):** The Indian government was angry with Pakistan for having attempted to seize Kashmir by force.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "Citing Ramachandra Guha, the book says India was not keen to release the money because it was angry over Pakistan's attempt to seize Kashmir; Gandhi's fast forced the payment."
+  source: "Spectrum (2019-20), p. 596"
+  tags: [bpsc]
+
+- slug: smi-33-h07
+  difficulty: hard
+  stem: |
+    The ban on the RSS was lifted in 1949 when it accepted conditions laid down by the government. Which of the following were among those conditions?
+
+    1. It would restrict itself to cultural activities and not meddle with politics.
+    2. It would publicly profess loyalty to the Indian Constitution and the national flag.
+    3. It would organise itself on democratic principles.
+    4. It would merge with the Hindu Mahasabha.
+
+    Select the correct answer using the code given below:
+  options: { A: "1 and 2 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: B
+  explanation: "The conditions were cultural work only, renouncing violence and secrecy, loyalty to the Constitution and tri-colour, and democratic organisation; merging with the Hindu Mahasabha was not one."
+  source: "Spectrum (2019-20), p. 598"
+  tags: [bpsc]
+
+- slug: smi-33-h08
+  difficulty: hard
+  stem: |
+    Which of the following were provisions of the Delhi Pact on Minorities (Liaquat-Nehru Pact)?
+
+    1. Appointment of ministers from minority communities at central and provincial levels in both countries.
+    2. Setting up of minority commissions and Commissions of Inquiry into the causes of the riots.
+    3. An agency to recover and rehabilitate 'abducted' women.
+    4. Deputing two central ministers, one from each government, to remain in the affected regions.
+
+    Select the correct answer using the code given below:
+  options: { A: "1 and 2 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: D
+  explanation: "All four are provisions of the pact as described in the book."
+  source: "Spectrum (2019-20), pp. 599-600"
+  tags: [bpsc]
+
+- slug: smi-33-h09
+  difficulty: hard
+  stem: "A fresh outbreak of violence in December 1949 and January 1950, which made a large number of peasants leave East Pakistan, took place in"
+  options: { A: "Khulna", B: "Dacca", C: "Chittagong", D: "Sylhet" }
+  answer: A
+  explanation: "During December 1949 and January 1950 a fresh outbreak of violence in Khulna led many peasants to leave East Pakistan."
+  source: "Spectrum (2019-20), p. 599"
+  tags: [ssc]
+
+- slug: smi-33-h10
+  difficulty: hard
+  stem: "Which of the following communist leaders was NOT among those who, in September 1950, criticised the CPI for its faulty strategies?"
+  options: { A: "Ajoy Ghosh", B: "S.A. Dange", C: "B.T. Ranadive", D: "S.V. Ghate" }
+  answer: C
+  explanation: "Ajoy Ghosh, S.A. Dange and S.V. Ghate criticised the party; the insurrectionary line itself was named after general secretary B.T. Ranadive."
+  source: "Spectrum (2019-20), pp. 601-602"
+  tags: [ssc]

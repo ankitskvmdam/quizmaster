@@ -1,0 +1,426 @@
+# Chapter 12 — Era of Militant Nationalism (1905-1909) (book pp. 257-281)
+# ---------- EASY ----------
+- slug: smi-12-e01
+  difficulty: easy
+  stem: "According to the book, how many persons were killed by severe famines between 1896 and 1900?"
+  options: { A: "50 lakh", B: "90 lakh", C: "1 crore", D: "78 lakh" }
+  answer: B
+  explanation: "Severe famines killed 90 lakh persons between 1896 and 1900, exposing the exploitative character of colonial rule."
+  source: "Spectrum (2019-20), p. 258"
+  tags: [ssc]
+
+- slug: smi-12-e02
+  difficulty: easy
+  stem: "The British government's decision to partition Bengal was made public in"
+  options: { A: "December 1903", B: "July 1905", C: "October 1905", D: "December 1905" }
+  answer: A
+  explanation: "The decision to partition Bengal was made public in December 1903; it was announced in July 1905 and came into force in October 1905."
+  source: "Spectrum (2019-20), p. 261"
+  tags: [ssc]
+
+- slug: smi-12-e03
+  difficulty: easy
+  stem: "Under the partition of Bengal, which city became the capital of the new province of Eastern Bengal and Assam?"
+  options: { A: "Calcutta", B: "Shillong", C: "Dacca", D: "Chittagong" }
+  answer: C
+  explanation: "Bengal retained Calcutta as its capital, while Dacca became the capital of Eastern Bengal and Assam."
+  source: "Spectrum (2019-20), p. 261"
+  tags: [ssc]
+
+- slug: smi-12-e04
+  difficulty: easy
+  stem: "The formal proclamation of the Swadeshi Movement was made with the passage of the Boycott Resolution at the Calcutta Townhall on"
+  options: { A: "16 October 1905", B: "15 August 1906", C: "30 December 1905", D: "7 August 1905", E: "More than one of the above" }
+  answer: D
+  explanation: "On August 7, 1905, the Boycott Resolution passed at a massive meeting in the Calcutta Townhall formally proclaimed the Swadeshi Movement."
+  source: "Spectrum (2019-20), pp. 262-263"
+  tags: [bpsc]
+
+- slug: smi-12-e05
+  difficulty: easy
+  stem: "The partition of Bengal formally came into force, and was observed as a day of mourning, on"
+  options: { A: "7 August 1905", B: "16 October 1905", C: "15 August 1906", D: "12 December 1911" }
+  answer: B
+  explanation: "October 16, 1905, the day the partition formally came into force, was observed as a day of mourning throughout Bengal."
+  source: "Spectrum (2019-20), p. 263"
+  tags: [ssc]
+
+- slug: smi-12-e06
+  difficulty: easy
+  stem: "'Amar Sonar Bangla', sung by crowds during the anti-partition movement and later the national anthem of Bangladesh, was composed by"
+  options: { A: "Rabindranath Tagore", B: "Bankim Chandra Chatterjee", C: "Dwijendralal Ray", D: "Mukunda Das" }
+  answer: A
+  explanation: "Amar Sonar Bangla was composed by Rabindranath Tagore and was later adopted by Bangladesh as its national anthem."
+  source: "Spectrum (2019-20), pp. 263, 267"
+  tags: [ssc]
+
+- slug: smi-12-e07
+  difficulty: easy
+  stem: "Who was the principal of the Bengal National College set up during the Swadeshi Movement?"
+  options: { A: "Bipin Chandra Pal", B: "Rabindranath Tagore", C: "Ashwini Kumar Dutta", D: "Aurobindo Ghosh" }
+  answer: D
+  explanation: "Bengal National College, inspired by Tagore's Shantiniketan, was set up with Aurobindo Ghosh as its principal."
+  source: "Spectrum (2019-20), p. 266"
+  tags: [ssc]
+
+- slug: smi-12-e08
+  difficulty: easy
+  stem: "The Swadeshi Steam Navigation Company at Tuticorin was founded by"
+  options: { A: "Subramania Bharati", B: "Subramania Siva", C: "V.O. Chidambaram Pillai", D: "G. Subramaniya Aiyar" }
+  answer: C
+  explanation: "V.O. Chidambaram Pillai's Swadeshi Steam Navigation Company at Tuticorin challenged the British Indian Steam Navigation Company."
+  source: "Spectrum (2019-20), p. 267"
+  tags: [ssc]
+
+- slug: smi-12-e09
+  difficulty: easy
+  stem: "The Swadesh Bandhab Samiti of Barisal was associated with"
+  options: { A: "Ashwini Kumar Dutta", B: "Surendranath Banerjea", C: "Prithwishchandra Ray", D: "K.K. Mitra" }
+  answer: A
+  explanation: "The Swadesh Bandhab Samiti of Ashwini Kumar Dutta in Barisal was a popular and powerful means of mass mobilisation."
+  source: "Spectrum (2019-20), p. 265"
+  tags: [ssc]
+
+- slug: smi-12-e10
+  difficulty: easy
+  stem: "The Simla Deputation of Muslim elites that met Lord Minto in October 1906 was led by"
+  options: { A: "Nawab Salimullah of Dacca", B: "the Agha Khan", C: "Nawab Mohsin-ul-Mulk", D: "Nawab Waqar-ul-Mulk", E: "More than one of the above" }
+  answer: B
+  explanation: "The Simla Deputation, led by the Agha Khan, met Lord Minto in October 1906 and demanded separate electorates for Muslims."
+  source: "Spectrum (2019-20), p. 276"
+  tags: [bpsc]
+
+- slug: smi-12-e11
+  difficulty: easy
+  stem: "Who was the first Indian to be appointed to the viceroy's executive council, in 1909?"
+  options: { A: "Gopal Krishna Gokhale", B: "Rashbehari Ghosh", C: "Pherozshah Mehta", D: "Satyendra Sinha", E: "More than one of the above" }
+  answer: D
+  explanation: "Under the 1909 reforms one Indian was to be on the viceroy's executive council; Satyendra Sinha was the first, appointed in 1909."
+  source: "Spectrum (2019-20), p. 278"
+  tags: [bpsc]
+
+- slug: smi-12-e12
+  difficulty: easy
+  stem: "After being convicted of sedition in 1909, Tilak served his six-year sentence in"
+  options: { A: "Andaman Cellular Jail", B: "Yerawada Jail, Poona", C: "Mandalay Jail, Burma", D: "Alipore Jail, Calcutta" }
+  answer: C
+  explanation: "Tilak was sentenced to six years' transportation and sent to Mandalay (Burma) jail."
+  source: "Spectrum (2019-20), p. 275"
+  tags: [ssc]
+
+- slug: smi-12-e13
+  difficulty: easy
+  stem: "Whose political message was 'India for the Indians'?"
+  options: { A: "Swami Dayananda Saraswati", B: "Swami Vivekananda", C: "Bankim Chandra Chatterjee", D: "Aurobindo Ghosh" }
+  answer: A
+  explanation: "The book says Dayananda's political message was 'India for the Indians'."
+  source: "Spectrum (2019-20), p. 259"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-12-m01
+  difficulty: medium
+  stem: "Under the partition of Bengal (1905), the province of Bengal (with Calcutta as capital) was to comprise"
+  options: { A: "Eastern Bengal and Assam", B: "Western Bengal and Assam", C: "Western Bengal and the provinces of Bihar and Orissa", D: "Western Bengal only", E: "None of the above" }
+  answer: C
+  explanation: "The plan created Bengal (Western Bengal plus Bihar and Orissa) and a separate province of Eastern Bengal and Assam."
+  source: "Spectrum (2019-20), p. 261"
+  tags: [bpsc]
+
+- slug: smi-12-m02
+  difficulty: medium
+  stem: "Tilak was tried for sedition in 1909 for what he had written in his Kesari in 1908 about a bomb thrown by Bengal revolutionaries at"
+  options: { A: "Alipore", B: "Muzaffarpur", C: "Dacca", D: "Midnapore", E: "None of the above" }
+  answer: B
+  explanation: "Tilak's Kesari writings concerned the Muzaffarpur bomb, which killed two innocent European women; he was sentenced to six years' transportation."
+  source: "Spectrum (2019-20), p. 275"
+  tags: [bpsc]
+
+- slug: smi-12-m03
+  difficulty: medium
+  stem: "When the partition of Bengal was annulled in 1911, which territorial change was made?"
+  options: { A: "Bihar and Orissa were taken out of Bengal and Assam was made a separate province", B: "Bihar, Orissa and Assam were merged into one province", C: "Orissa was joined to the Madras Presidency", D: "Eastern Bengal was merged with Assam", E: "None of the above" }
+  answer: A
+  explanation: "On annulment, Bihar and Orissa were taken out of Bengal and Assam was made a separate province; the capital was shifted to Delhi."
+  source: "Spectrum (2019-20), p. 269"
+  tags: [bpsc]
+
+- slug: smi-12-m04
+  difficulty: medium
+  stem: |
+    Match List I (region) with List II (leader who spread the Swadeshi Movement there):
+
+    | List I | List II |
+    |---|---|
+    | a. Poona and Bombay | 1. Syed Haider Raza |
+    | b. Punjab | 2. Chidambaram Pillai |
+    | c. Delhi | 3. Lala Lajpat Rai and Ajit Singh |
+    | d. Madras | 4. Tilak |
+  options: { A: "a-4, b-3, c-2, d-1", B: "a-3, b-4, c-1, d-2", C: "a-4, b-1, c-3, d-2", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: D
+  explanation: "Poona and Bombay — Tilak; Punjab — Lajpat Rai and Ajit Singh; Delhi — Syed Haider Raza; Madras — Chidambaram Pillai."
+  source: "Spectrum (2019-20), p. 263"
+  tags: [bpsc]
+
+- slug: smi-12-m05
+  difficulty: medium
+  stem: |
+    Arrange the following events in chronological order:
+
+    1. Setting up of the National Council of Education
+    2. Passage of the Boycott Resolution at the Calcutta Townhall
+    3. Split of the Congress at Surat
+    4. Partition decision made public
+  options: { A: "4, 1, 2, 3", B: "2, 4, 1, 3", C: "4, 2, 1, 3", D: "4, 2, 3, 1", E: "None of the above" }
+  answer: C
+  explanation: "Partition made public (December 1903), Boycott Resolution (7 August 1905), National Council of Education (15 August 1906), Surat split (December 1907)."
+  source: "Spectrum (2019-20), pp. 261-266, 272"
+  tags: [bpsc]
+
+- slug: smi-12-m06
+  difficulty: medium
+  stem: "Which of the following pairs (Congress session — president/presidential choice) is correctly matched as per the book?"
+  options: { A: "Benaras, 1905 — Dadabhai Naoroji", B: "Calcutta, 1906 — Gopal Krishna Gokhale", C: "Surat, 1907 — Rashbehari Ghosh (Moderates' choice)", D: "Calcutta, 1906 — Lala Lajpat Rai" }
+  answer: C
+  explanation: "Benaras 1905 was presided over by Gokhale and Calcutta 1906 by Dadabhai Naoroji; for Surat 1907 the Moderates wanted Rashbehari Ghosh as president."
+  source: "Spectrum (2019-20), pp. 272-274"
+  tags: [ssc]
+
+- slug: smi-12-m07
+  difficulty: medium
+  stem: "Why did the Moderates want the 1907 Congress session to be held at Surat rather than Nagpur?"
+  options: { A: "Surat was the home town of Gokhale", B: "To exclude Tilak from the presidency, since a leader from the host province could not be president", C: "Nagpur was under martial law", D: "Surat had the largest number of Moderate delegates" }
+  answer: B
+  explanation: "Surat was in Tilak's home province of Bombay, and a leader from the host province could not be session president."
+  source: "Spectrum (2019-20), p. 274"
+  tags: [ssc]
+
+- slug: smi-12-m08
+  difficulty: medium
+  stem: "The Muslim League was initially floated by Nawab Salimullah of Dacca along with"
+  options: { A: "the Agha Khan and Sir Syed Ahmed Khan", B: "Barrister Abdul Rasul and Liaqat Hussain", C: "Maulana Azad and Guznavi", D: "Nawabs Mohsin-ul-Mulk and Waqar-ul-Mulk" }
+  answer: D
+  explanation: "The Muslim League was initially floated by Nawab Salimullah of Dacca along with Nawabs Mohsin-ul-Mulk and Waqar-ul-Mulk."
+  source: "Spectrum (2019-20), p. 276"
+  tags: [ssc]
+
+- slug: smi-12-m09
+  difficulty: medium
+  stem: "In September 1905, more than 250 Bengali clerks walked out in protest against a derogatory work regulation at"
+  options: { A: "Burn Company, Howrah", B: "East Indian Railway", C: "a jute mill in Calcutta", D: "the Rawalpindi arsenal" }
+  answer: A
+  explanation: "More than 250 Bengali clerks of the Burn Company, Howrah, walked out in September 1905."
+  source: "Spectrum (2019-20), p. 268"
+  tags: [ssc]
+
+- slug: smi-12-m10
+  difficulty: medium
+  stem: "Who was the first recipient of a scholarship offered by the Indian Society of Oriental Art, founded in 1907?"
+  options: { A: "Abanindranath Tagore", B: "Nandalal Bose", C: "Jagdish Chandra Bose", D: "Raja Ravi Varma" }
+  answer: B
+  explanation: "Nandalal Bose, who left a major imprint on Indian art, was the first recipient of the Indian Society of Oriental Art scholarship."
+  source: "Spectrum (2019-20), p. 267"
+  tags: [ssc]
+
+- slug: smi-12-m11
+  difficulty: medium
+  stem: "During the Swadeshi Movement, 'Sudesha Geetham' was written in Tamil Nadu by"
+  options: { A: "V.O. Chidambaram Pillai", B: "Subramania Siva", C: "Syed Abu Mohammad", D: "Subramania Bharati" }
+  answer: D
+  explanation: "In Tamil Nadu, Subramania Bharati wrote Sudesha Geetham."
+  source: "Spectrum (2019-20), p. 267"
+  tags: [ssc]
+
+- slug: smi-12-m12
+  difficulty: medium
+  stem: "In July 1906, a strike of workers in which concern resulted in the formation of a Railwaymen's Union?"
+  options: { A: "East Indian Railway", B: "Burn Company", C: "Great Indian Peninsula Railway", D: "British Indian Steam Navigation Company" }
+  answer: A
+  explanation: "In July 1906 a strike of workers in the East Indian Railway resulted in the formation of a Railwaymen's Union."
+  source: "Spectrum (2019-20), p. 268"
+  tags: [ssc]
+
+- slug: smi-12-m13
+  difficulty: medium
+  stem: "The younger nationalists dismissed the Moderates' 'Three P's' as 'political mendicancy'. The Three P's were"
+  options: { A: "Prayer, persuasion and patience", B: "Petition, protest and passive resistance", C: "Prayer, petition and protest", D: "Patience, petition and propaganda" }
+  answer: C
+  explanation: "The methods of peaceful and constitutional agitation were popularly known as the Three P's — prayer, petition and protest."
+  source: "Spectrum (2019-20), p. 259"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-12-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the partition of Bengal:
+
+    1. The official reason was that Bengal, with a population of 78 million (about a quarter of British India), had become too big to administer.
+    2. Under the plan, Bengal proper was to have 17 million Bengalis and 37 million Hindi and Oriya speakers.
+    3. The eastern half was to be a Muslim-majority area with 25 million Muslims out of 31 million.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The eastern half was to have 18 million Muslims out of a total of 31 million."
+  source: "Spectrum (2019-20), pp. 261-262"
+  tags: [bpsc]
+
+- slug: smi-12-h02
+  difficulty: hard
+  stem: "Which of the following was NOT among the laws brought in between 1907 and 1911 to suppress anti-government activity?"
+  options: { A: "Seditious Meetings Act", B: "Indian Newspapers (Incitement to Offences) Act", C: "Explosive Substances Act", D: "Vernacular Press Act" }
+  answer: D
+  explanation: "The Vernacular Press Act dates from 1878 (Lytton); the Seditious Meetings Act (1907), Newspapers Act (1908) and Explosive Substances Act (1908) were among the repressive laws."
+  source: "Spectrum (2019-20), pp. 275, 281"
+  tags: [ssc]
+
+- slug: smi-12-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Morley-Minto Reforms (Indian Councils Act 1909):
+
+    1. Separate electorates for Muslims were established for the first time for election to the central council.
+    2. The legislatures could vote upon the budget as a whole.
+    3. Elected members were to be indirectly elected through an electoral college system.
+    4. The income qualification for Muslim voters was kept lower than that for Hindus.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 3 only", B: "2, 3 and 4 only", C: "1, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Legislatures could vote separate items of the budget, but the budget as a whole could not be voted upon; the other three statements are correct."
+  source: "Spectrum (2019-20), pp. 277-278"
+  tags: [bpsc]
+
+- slug: smi-12-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Moderates wanted the 1907 session of the Congress to be held at Surat instead of Nagpur.
+
+    **Reason (R):** A leader from the host province could not be session president, and Surat lay in Tilak's home province of Bombay.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The Moderates chose Surat precisely to exclude Tilak from the presidency under the host-province rule."
+  source: "Spectrum (2019-20), p. 274"
+  tags: [bpsc]
+
+- slug: smi-12-h05
+  difficulty: hard
+  stem: |
+    With reference to the differences between the Moderates and the Extremists, consider the following statements:
+
+    1. The ideological inspiration of the Moderates was western liberal thought and European history.
+    2. The Extremists rejected England's 'providential mission' theory as an illusion.
+    3. The Extremists insisted on the use of constitutional methods only.
+    4. The Moderates professed loyalty to the British Crown.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 3 and 4 only", D: "1, 2 and 4 only", E: "None of the above" }
+  answer: D
+  explanation: "It was the Moderates who insisted on constitutional methods only; the Extremists used extra-constitutional methods like boycott and passive resistance."
+  source: "Spectrum (2019-20), p. 271"
+  tags: [bpsc]
+
+- slug: smi-12-h06
+  difficulty: hard
+  stem: "Among the Extremist leaders, for whom did swaraj mean complete independence from foreign rule, as against 'some sort of self-government'?"
+  options: { A: "Bal Gangadhar Tilak", B: "Aurobindo Ghosh", C: "Lala Lajpat Rai", D: "Bipin Chandra Pal" }
+  answer: B
+  explanation: "The book says that for Tilak swaraj meant some sort of self-government, while for Aurobindo it meant complete independence from foreign rule."
+  source: "Spectrum (2019-20), p. 272"
+  tags: [ssc]
+
+- slug: smi-12-h07
+  difficulty: hard
+  stem: "The Age of Consent Bill, opposed by Tilak, would have raised the marriageable age for girls"
+  options: { A: "from 10 years to 12 years", B: "from 12 years to 14 years", C: "from 10 years to 14 years", D: "from 12 years to 16 years" }
+  answer: A
+  explanation: "The Age of Consent Bill would have raised the marriageable age for girls from 10 to 12 years; Tilak objected that such reforms must not come under alien rule."
+  source: "Spectrum (2019-20), p. 272"
+  tags: [ssc]
+
+- slug: smi-12-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the government's 'carrot and stick' strategy towards the nationalists:
+
+    1. The policy of 'rallying them' was associated with John Morley, the Secretary of State.
+    2. In the first stage the Extremists were repressed mildly, mainly to frighten the Moderates.
+    3. The ultimate aim was to isolate the Moderates so that they could be suppressed with full might.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The aim was to isolate the EXTREMISTS: with the Moderates placated, the Extremists could be suppressed and the Moderates then ignored."
+  source: "Spectrum (2019-20), p. 276"
+  tags: [bpsc]
+
+- slug: smi-12-h09
+  difficulty: hard
+  stem: |
+    According to Sumit Sarkar, the 27 elected non-official seats in the Imperial Legislative Council under the 1909 reforms were distributed as follows. Match List I with List II:
+
+    | List I (category) | List II (seats) |
+    |---|---|
+    | a. Muslims (separate electorate) | 1. 13 |
+    | b. British capitalists | 2. 2 |
+    | c. Landlords | 3. 4 |
+    | d. General electorate | 4. 8 |
+  options: { A: "a-3, b-4, c-2, d-1", B: "a-4, b-3, c-2, d-1", C: "a-4, b-2, c-3, d-1", D: "a-1, b-3, c-2, d-4", E: "None of the above" }
+  answer: B
+  explanation: "Of the 27 elected seats, 8 were reserved for Muslims, 4 for British capitalists, 2 for landlords and 13 came under the general electorate."
+  source: "Spectrum (2019-20), p. 277"
+  tags: [bpsc]
+
+- slug: smi-12-h10
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The partition of Bengal was annulled in 1911 mainly to please the Muslim political elite.
+
+    **Reason (R):** The capital was shifted to Delhi as a sop to the Muslims, since Delhi was associated with Muslim glory.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: D
+  explanation: "The annulment was mainly to curb revolutionary terrorism and came as a rude shock to the Muslim elite; shifting the capital to Delhi was meant as a sop to them."
+  source: "Spectrum (2019-20), p. 269"
+  tags: [bpsc]
+
+- slug: smi-12-h11
+  difficulty: hard
+  stem: "Which of the following was NOT a reason given in the book for the Swadeshi Movement fizzling out by 1908?"
+  options: { A: "Severe government repression", B: "Failure to create an effective organisation or party structure", C: "The boycott of foreign goods failed at the practical and popular level", D: "Internal squabbles among leaders, magnified by the Surat split" }
+  answer: C
+  explanation: "The book says the boycott of foreign goods met with great success at the practical and popular level; the other three are listed causes of decline."
+  source: "Spectrum (2019-20), pp. 265, 269"
+  tags: [ssc]
+
+- slug: smi-12-h12
+  difficulty: hard
+  stem: |
+    Arrange the following international developments, which inspired Indian militant nationalists, in chronological order:
+
+    1. Japan's victory over Russia
+    2. Defeat of the Italian army by the Ethiopians
+    3. Beginning of Japan's remarkable progress
+    4. The Boer wars in which the British faced reverses
+  options: { A: "3, 2, 4, 1", B: "3, 4, 2, 1", C: "2, 3, 4, 1", D: "3, 2, 1, 4", E: "None of the above" }
+  answer: A
+  explanation: "Japan's progress after 1868, Ethiopia's defeat of Italy (1896), the Boer wars (1899-1902) and Japan's victory over Russia (1905)."
+  source: "Spectrum (2019-20), p. 259"
+  tags: [bpsc]
+
+- slug: smi-12-h13
+  difficulty: hard
+  stem: |
+    Consider the following measures that, according to the book, showed the government taking away existing rights:
+
+    1. In 1898, repressive laws under IPC Section 124A were amplified with new provisions under Section 156A.
+    2. In 1899, the number of Indian members in the Calcutta Corporation was reduced.
+    3. In 1904, the Indian Universities Act ensured greater government control over universities.
+    4. In 1910, the Official Secrets Act curbed the freedom of the press.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2, 3 and 4", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The Official Secrets Act that curbed press freedom was passed in 1904, not 1910; the other three are correct."
+  source: "Spectrum (2019-20), p. 258"
+  tags: [bpsc]

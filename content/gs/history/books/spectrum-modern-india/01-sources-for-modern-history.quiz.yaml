@@ -1,0 +1,374 @@
+# Chapter 1 — Sources for the History of Modern India (book pp. 1-12)
+# ---------- EASY ----------
+- slug: smi-01-e01
+  difficulty: easy
+  stem: "Who was appointed the first Surveyor General of Bengal in 1767?"
+  options: { A: "Alexander Burnes", B: "James Rennell", C: "William Moorcroft", D: "George Forster" }
+  answer: B
+  explanation: "James Rennell became the first Surveyor General of Bengal in 1767, after which the Survey of India began scientific mapping."
+  source: "Spectrum (2019-20), p. 3"
+  tags: [ssc]
+
+- slug: smi-01-e02
+  difficulty: easy
+  stem: "Where is the National Archives of India located?"
+  options: { A: "Kolkata", B: "Mumbai", C: "Pune", D: "New Delhi" }
+  answer: D
+  explanation: "The National Archives of India, which holds most Government of India archives, is in New Delhi."
+  source: "Spectrum (2019-20), p. 2"
+  tags: [ssc]
+
+- slug: smi-01-e03
+  difficulty: easy
+  stem: "What was the name of the first newspaper published in India by James Augustus Hickey in 1780?"
+  options: { A: "The Bengal Gazette or Calcutta General Advertiser", B: "The Calcutta Gazette", C: "The Madras Courier", D: "The Bombay Herald" }
+  answer: A
+  explanation: "Hickey published The Bengal Gazette or Calcutta General Advertiser in 1780, the first newspaper in India."
+  source: "Spectrum (2019-20), p. 8"
+  tags: [ssc]
+
+- slug: smi-01-e04
+  difficulty: easy
+  stem: "The Peshwa Daftar, the most valuable single source for Maratha history, is housed in"
+  options: { A: "Maharashtra Secretariat Record Office, Mumbai", B: "Rajasthan State Archives, Bikaner", C: "Alienation Office, Pune", D: "National Archives of India, New Delhi" }
+  answer: C
+  explanation: "The book states the Peshwa Daftar is housed in the Alienation Office, Pune."
+  source: "Spectrum (2019-20), p. 4"
+  tags: [ssc]
+
+- slug: smi-01-e05
+  difficulty: easy
+  stem: "Who wrote the novel 'Anandamath' (1882)?"
+  options: { A: "Icharam Suryaram Desai", B: "Rabindranath Tagore", C: "Bankim Chandra Chatterji", D: "Vaikom Muhammad Basheer" }
+  answer: C
+  explanation: "Anandamath (1882), known for the lyric 'Vandemataram', was written by the Bengali novelist Bankim Chandra Chatterji."
+  source: "Spectrum (2019-20), p. 10"
+  tags: [ssc]
+
+- slug: smi-01-e06
+  difficulty: easy
+  stem: "The Company Paintings that emerged under the patronage of the East India Company are also referred to as"
+  options: { A: "Patna Kalam", B: "Kalighat painting", C: "Bengal School", D: "Mughal miniature", E: "More than one of the above" }
+  answer: A
+  explanation: "The book says Company Paintings are also referred to as 'Patna Kalam'."
+  source: "Spectrum (2019-20), pp. 10-11"
+  tags: [bpsc]
+
+- slug: smi-01-e07
+  difficulty: easy
+  stem: "From which city did Lala Hardayal publish the journal 'Ghadar'?"
+  options: { A: "London", B: "Paris", C: "Berlin", D: "San Francisco" }
+  answer: D
+  explanation: "Ghadar was published by Lala Hardayal from San Francisco to rouse nationalism among Indians abroad."
+  source: "Spectrum (2019-20), p. 9"
+  tags: [ssc]
+
+- slug: smi-01-e08
+  difficulty: easy
+  stem: "Shyamji Krishnavarma published 'Indian Sociologist' from"
+  options: { A: "Paris", B: "London", C: "Berlin", D: "San Francisco" }
+  answer: B
+  explanation: "Indian Sociologist was published from London by Shyamji Krishnavarma."
+  source: "Spectrum (2019-20), p. 9"
+  tags: [ssc]
+
+- slug: smi-01-e09
+  difficulty: easy
+  stem: "The Bengal School of art was led by"
+  options: { A: "Abanindranath Tagore", B: "Raja Ravi Varma", C: "E.B. Havell", D: "Nandalal Bose" }
+  answer: A
+  explanation: "The book describes the rise of the Bengal School led by Abanindranath Tagore, nephew of Rabindranath Tagore."
+  source: "Spectrum (2019-20), p. 11"
+  tags: [ssc]
+
+- slug: smi-01-e10
+  difficulty: easy
+  stem: "Who painted 'Relief of Lucknow' in 1859?"
+  options: { A: "Joseph Noel Paton", B: "Abanindranath Tagore", C: "Thomas Jones Barker", D: "Raja Ravi Varma" }
+  answer: C
+  explanation: "Relief of Lucknow, commemorating British heroes of 1857, was painted by Thomas Jones Barker in 1859."
+  source: "Spectrum (2019-20), p. 11"
+  tags: [ssc]
+
+- slug: smi-01-e11
+  difficulty: easy
+  stem: "Kalighat painting, which depicted mythological figures and everyday life, came to the fore in the 19th century in"
+  options: { A: "Patna", B: "Lucknow", C: "Madras", D: "Calcutta" }
+  answer: D
+  explanation: "Kalighat painting came to the fore in Calcutta and captured its social changes."
+  source: "Spectrum (2019-20), p. 11"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-01-m01
+  difficulty: medium
+  stem: |
+    Match List I (newspaper) with List II (associated person) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Kesari | 1. Surendranath Banerjea |
+    | b. Bengalee | 2. Gopal Krishna Gokhale |
+    | c. Sudharak | 3. Dadabhai Naoroji |
+    | d. Voice of India | 4. Bal Gangadhar Tilak |
+  options: { A: "a-1, b-4, c-2, d-3", B: "a-4, b-1, c-2, d-3", C: "a-4, b-1, c-3, d-2", D: "a-2, b-1, c-4, d-3", E: "None of the above" }
+  answer: B
+  explanation: "Kesari was under Tilak, Bengalee under Surendranath Banerjea, Sudharak under Gokhale and Voice of India under Dadabhai Naoroji (p. 9). Note: Ch 29 (p. 559) names Gopal Ganesh Agarkar for Sudharak."
+  source: "Spectrum (2019-20), p. 9"
+  tags: [bpsc]
+
+- slug: smi-01-m02
+  difficulty: medium
+  stem: "In which year was the 'Home Political' series of records started to deal exclusively with political and communal issues?"
+  options: { A: "1885", B: "1905", C: "1907", D: "1919" }
+  answer: C
+  explanation: "Nationalist-movement papers were earlier in the home department's public series; a separate Home Political series began in 1907."
+  source: "Spectrum (2019-20), p. 3"
+  tags: [ssc]
+
+- slug: smi-01-m03
+  difficulty: medium
+  stem: "The records of the Reforms Office are especially useful for studying constitutional developments during"
+  options: { A: "1920-1937", B: "1858-1892", C: "1909-1919", D: "1937-1947" }
+  answer: A
+  explanation: "The book notes the Reforms Office records are very useful for analysing constitutional developments from 1920 to 1937."
+  source: "Spectrum (2019-20), p. 3"
+  tags: [ssc]
+
+- slug: smi-01-m04
+  difficulty: medium
+  stem: "In which year did the Danes sell Tranquebar and Serampore to the English East India Company?"
+  options: { A: "1757", B: "1818", C: "1835", D: "1845" }
+  answer: D
+  explanation: "The Danish archives were moved to Copenhagen when the Danes sold Tranquebar and Serampore to the English in 1845."
+  source: "Spectrum (2019-20), p. 5"
+  tags: [ssc]
+
+- slug: smi-01-m05
+  difficulty: medium
+  stem: "The earliest available judicial archives in India are those of the"
+  options: { A: "Mayor's Court at Fort St. George, Madras", B: "Mayor's Court at Fort William, Calcutta", C: "Mayor's Court at Bombay", D: "Supreme Court of Bengal" }
+  answer: A
+  explanation: "The archives of the Mayor's Court at Fort St. George, beginning from AD 1689 and housed in the Madras Record Office, are the earliest available judicial archives."
+  source: "Spectrum (2019-20), p. 5"
+  tags: [ssc]
+
+- slug: smi-01-m06
+  difficulty: medium
+  stem: "Which of the following pairs of journal, place of publication and publisher is NOT correctly matched?"
+  options: { A: "Bande Matram — Paris — Madam Cama", B: "Talwar — Berlin — Virendranath Chattopadhyay", C: "Indian Sociologist — London — Shyamji Krishnavarma", D: "Ghadar — Berlin — Lala Hardayal" }
+  answer: D
+  explanation: "Ghadar was published from San Francisco, not Berlin; Talwar was the journal published from Berlin."
+  source: "Spectrum (2019-20), p. 9"
+  tags: [ssc]
+
+- slug: smi-01-m07
+  difficulty: medium
+  stem: "The 'Khalsa Darbar records' (1800-1849) are the archives of"
+  options: { A: "the Dogra rulers of Jammu and Kashmir", B: "the Kingdom of Lahore", C: "the Peshwas of Pune", D: "the princely state of Patiala" }
+  answer: B
+  explanation: "The archives of the Kingdom of Lahore are popularly known as the Khalsa Darbar records, covering 1800 to 1849."
+  source: "Spectrum (2019-20), p. 3"
+  tags: [ssc]
+
+- slug: smi-01-m08
+  difficulty: medium
+  stem: "Who wrote the Malayalam novels 'Chemmeen' (1956) and 'Tottiyude Makan' (1948)?"
+  options: { A: "Vaikom Muhammad Basheer", B: "G.V. Krishna Rao", C: "Thakazhi Siva Sankara Pillai", D: "Icharam Suryaram Desai" }
+  answer: C
+  explanation: "Both are by Thakazhi Siva Sankara Pillai; Basheer wrote Balyakalasakhi and G.V. Krishna Rao wrote the Telugu Keelubommalu."
+  source: "Spectrum (2019-20), p. 10"
+  tags: [ssc]
+
+- slug: smi-01-m09
+  difficulty: medium
+  stem: |
+    Arrange the following early newspapers in chronological order of their appearance:
+
+    1. The Madras Courier
+    2. The Bengal Gazette or Calcutta General Advertiser
+    3. The Bombay Herald
+    4. The Calcutta Gazette
+  options: { A: "2, 4, 1, 3", B: "2, 1, 4, 3", C: "4, 2, 1, 3", D: "2, 4, 3, 1", E: "None of the above" }
+  answer: A
+  explanation: "Bengal Gazette (1780), Calcutta Gazette (1784), Madras Courier (1788), Bombay Herald (1789)."
+  source: "Spectrum (2019-20), p. 8"
+  tags: [bpsc]
+
+- slug: smi-01-m10
+  difficulty: medium
+  stem: "The early records of Fort William (Bengal Presidency) were lost during the"
+  options: { A: "Battle of Plassey, 1757", B: "sack of Calcutta, 1756", C: "Battle of Buxar, 1764", D: "Revolt of 1857" }
+  answer: B
+  explanation: "The early Fort William records were lost during the sack of Calcutta in 1756; post-Plassey records survive almost completely."
+  source: "Spectrum (2019-20), p. 4"
+  tags: [ssc]
+
+- slug: smi-01-m11
+  difficulty: medium
+  stem: "'Hind ane Britannia', one of the earliest Indian novels with political overtones, was written by"
+  options: { A: "Bankim Chandra Chatterji", B: "Vaikom Muhammad Basheer", C: "G.V. Krishna Rao", D: "Icharam Suryaram Desai" }
+  answer: D
+  explanation: "Icharam Suryaram Desai (1853-1912), a scholar of medieval Gujarati literature, wrote Hind ane Britannia as his first novel."
+  source: "Spectrum (2019-20), p. 10"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-01-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the archives of European powers other than the British:
+
+    1. The French archives of Chandernagore and Pondicherry were taken to Paris before the French relinquished these settlements.
+    2. The Dutch records of Cochin and Malabar are kept in the Madras Record Office.
+    3. The remaining Danish records relating to Tranquebar (1777-1845) are housed in the State Archives of West Bengal.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The remaining Danish records on Tranquebar are in the Madras Record Office; it is the Dutch records of Chinsura that are in the West Bengal archives."
+  source: "Spectrum (2019-20), p. 5"
+  tags: [bpsc]
+
+- slug: smi-01-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the 'Patna Kalam' (Company Paintings):
+
+    1. It emerged under the patronage of the East India Company.
+    2. It depicted trades, festivals, dances and the attire of people as they existed at the time.
+    3. It continued to be popular in the 19th century until photography was introduced in India in the 1840s.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book: Company paintings (Patna Kalam) arose under Company patronage, showed everyday scenes, and stayed popular until photography came in the 1840s."
+  source: "Spectrum (2019-20), pp. 10-11"
+  tags: [bpsc]
+
+- slug: smi-01-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** James Augustus Hickey's press was seized within two years of starting his newspaper.
+
+    **Reason (R):** Hickey's newspaper was outspoken in its criticism of government officials.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says Hickey's press was seized within two years 'owing to his outspoken criticism of government officials', so R explains A."
+  source: "Spectrum (2019-20), p. 8"
+  tags: [bpsc]
+
+- slug: smi-01-h04
+  difficulty: hard
+  stem: "According to the book, which of the following is held in the British Museum rather than in the India Office Records, London?"
+  options: { A: "Minutes of the Court of Directors of the East India Company", B: "Collections of papers of British viceroys and secretaries of state", C: "Minutes and correspondence of the Board of Control", D: "Records of the Secretary of State and the India Council" }
+  answer: B
+  explanation: "The India Office Records hold the Court of Directors' minutes, Board of Control papers and Secretary of State/India Council records; the British Museum holds the papers of viceroys, secretaries of state and other senior officials."
+  source: "Spectrum (2019-20), p. 6"
+  tags: [bpsc]
+
+- slug: smi-01-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. Nearly one-third of the founding fathers of the Indian National Congress in 1885 were journalists.
+    2. The Hindu and Swadesamitran were brought out under the editorship of G. Subramaniya Iyer.
+    3. The Indian Mirror was brought out under Surendranath Banerjea.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The Indian Mirror was under N.N. Sen; Surendranath Banerjea brought out the Bengalee."
+  source: "Spectrum (2019-20), pp. 8-9"
+  tags: [bpsc]
+
+- slug: smi-01-h06
+  difficulty: hard
+  stem: |
+    With reference to the Bengal School of art, consider the following statements:
+
+    1. Abanindranath Tagore, who led it, was a nephew of Rabindranath Tagore.
+    2. E.B. Havell joined the art school in Calcutta as its principal.
+    3. Ananda Kentish Coomaraswamy was the son of an important Tamil political leader in Sri Lanka.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "The book states all three facts about Abanindranath Tagore, E.B. Havell and Ananda Coomaraswamy."
+  source: "Spectrum (2019-20), pp. 11-12"
+  tags: [bpsc]
+
+- slug: smi-01-h07
+  difficulty: hard
+  stem: |
+    Consider the following pairs (collection — where it is housed):
+
+    1. Archives of the princely states of Rajasthan — Bikaner
+    2. State papers of Dogra rule in Jammu and Kashmir — Srinagar
+    3. Archives of the Bombay Presidency — Maharashtra Secretariat Record Office, Mumbai
+
+    Which of the pairs given above is/are correctly matched?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The Dogra rule papers (from 1846) are housed at Jammu, not Srinagar; the other two pairs are correct."
+  source: "Spectrum (2019-20), p. 4"
+  tags: [bpsc]
+
+- slug: smi-01-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about Bankim Chandra Chatterji:
+
+    1. His novel Anandamath was published in 1882.
+    2. Anandamath depicts the Sanyasi Revolt of the 1760s.
+    3. Anandamath was his last novel and the grand finale of his career.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "His last novel was Rajasimha, which the book calls the grand finale of his career; statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 10"
+  tags: [bpsc]
+
+- slug: smi-01-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about judicial records:
+
+    1. The pre-Plassey records of the Mayor's Court at Fort William are preserved in the record room of the Calcutta High Court.
+    2. The archives of the Supreme Court of Bengal (1774-1861) are kept in the record room of the Calcutta High Court.
+    3. The Mayor's Court at Bombay was established in 1728.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The pre-Plassey records of the Fort William Mayor's Court have been lost; only those for 1757-73 survive in the Calcutta High Court. Statements 2 and 3 are correct."
+  source: "Spectrum (2019-20), p. 5"
+  tags: [bpsc]
+
+- slug: smi-01-h10
+  difficulty: hard
+  stem: "Which painting of the 1857 period shows English women and children huddled in a circle, looking helpless and innocent, and who painted it?"
+  options: { A: "Relief of Lucknow — Thomas Jones Barker", B: "In Memoriam — Joseph Noel Paton", C: "Relief of Lucknow — Joseph Noel Paton", D: "In Memoriam — Thomas Jones Barker" }
+  answer: B
+  explanation: "In Memoriam by Joseph Noel Paton shows English women and children huddled together; Relief of Lucknow (1859) is by Thomas Jones Barker."
+  source: "Spectrum (2019-20), p. 11"
+  tags: [ssc]
+
+- slug: smi-01-h11
+  difficulty: hard
+  stem: |
+    Match List I (traveller) with List II (travel account):
+
+    | List I | List II |
+    |---|---|
+    | a. Alexander Burnes | 1. Narrative of a Visit to the Court of Sinde |
+    | b. James Burnes | 2. Travels and Adventures in the Province of Assam |
+    | c. C.J.C. Davidson | 3. Travels Into Bokhara |
+    | d. John Butler | 4. Diary of the Travels and Adventures in Upper India |
+  options: { A: "a-3, b-1, c-4, d-2", B: "a-1, b-3, c-4, d-2", C: "a-3, b-1, c-2, d-4", D: "a-3, b-4, c-1, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Alexander Burnes wrote Travels Into Bokhara, James Burnes the Court of Sinde narrative, Davidson the Upper India diary and John Butler the Assam account."
+  source: "Spectrum (2019-20), pp. 7-8"
+  tags: [bpsc]

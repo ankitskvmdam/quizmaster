@@ -1,0 +1,335 @@
+# Chapter 30 — Development of Education (book pp. 563-573)
+# ---------- EASY ----------
+- slug: smi-30-e01
+  difficulty: easy
+  stem: "The Calcutta Madrasah, for the study of Muslim law, was established in 1781 by"
+  options: { A: "Warren Hastings", B: "Jonathan Duncan", C: "Lord Wellesley", D: "Lord Cornwallis" }
+  answer: A
+  explanation: "The Calcutta Madrasah was established by Warren Hastings in 1781 for the study of Muslim law and related subjects."
+  source: "Spectrum (2019-20), p. 563"
+  tags: [ssc]
+
+- slug: smi-30-e02
+  difficulty: easy
+  stem: "The Sanskrit College at Benaras (1791) was established by"
+  options: { A: "Warren Hastings", B: "Jonathan Duncan", C: "William Jones", D: "Lord Wellesley" }
+  answer: B
+  explanation: "Jonathan Duncan, the resident, set up the Sanskrit College at Benaras in 1791 for the study of Hindu law and philosophy."
+  source: "Spectrum (2019-20), p. 563"
+  tags: [ssc]
+
+- slug: smi-30-e03
+  difficulty: easy
+  stem: "Which document is considered the 'Magna Carta of English Education in India'?"
+  options: { A: "Macaulay's Minute, 1835", B: "Charter Act of 1813", C: "Wood's Despatch, 1854", D: "Hunter Commission Report, 1883" }
+  answer: C
+  explanation: "Charles Wood's Despatch of 1854, the first comprehensive plan for education in India, is called the 'Magna Carta of English Education in India'."
+  source: "Spectrum (2019-20), p. 565"
+  tags: [ssc]
+
+- slug: smi-30-e04
+  difficulty: easy
+  stem: "The Education Commission appointed in 1882 to review progress since the Despatch of 1854 was chaired by"
+  options: { A: "Thomas Raleigh", B: "Michael Saddler", C: "Philip Hartog", D: "W.W. Hunter" }
+  answer: D
+  explanation: "In 1882 the Government appointed a commission under W.W. Hunter to review the progress of education since 1854."
+  source: "Spectrum (2019-20), pp. 566-567"
+  tags: [ssc]
+
+- slug: smi-30-e05
+  difficulty: easy
+  stem: "After Wood's Despatch, an Agriculture Institute was started at"
+  options: { A: "Roorkee", B: "Pusa", C: "Poona", D: "Guindy", E: "More than one of the above" }
+  answer: B
+  explanation: "An Agriculture Institute at Pusa (Bihar) and an Engineering Institute at Roorkee were started."
+  source: "Spectrum (2019-20), p. 566"
+  tags: [bpsc]
+
+- slug: smi-30-e06
+  difficulty: easy
+  stem: "The detailed national scheme for basic education under the Wardha Scheme (1937) was formulated by a committee headed by"
+  options: { A: "Zakir Hussain", B: "Mahatma Gandhi", C: "Gopal Krishna Gokhale", D: "John Sergeant" }
+  answer: A
+  explanation: "In the light of the Wardha conference resolutions, the Zakir Hussain committee formulated the national scheme for basic education."
+  source: "Spectrum (2019-20), p. 570"
+  tags: [ssc]
+
+- slug: smi-30-e07
+  difficulty: easy
+  stem: "Who called the Indian Universities Act, 1904 a 'retrograde measure'?"
+  options: { A: "Bal Gangadhar Tilak", B: "Surendranath Banerjea", C: "Gopal Krishna Gokhale", D: "Dadabhai Naoroji" }
+  answer: C
+  explanation: "Nationalists saw the 1904 Act as an attempt to strengthen imperialism; Gokhale called it a 'retrograde measure'."
+  source: "Spectrum (2019-20), p. 568"
+  tags: [ssc]
+
+- slug: smi-30-e08
+  difficulty: easy
+  stem: "The Bethune School at Calcutta, the first fruit of the movement for women's education, was founded in"
+  options: { A: "1835", B: "1854", C: "1857", D: "1849" }
+  answer: D
+  explanation: "J.E.D. Bethune founded the Bethune School at Calcutta in 1849."
+  source: "Spectrum (2019-20), p. 566"
+  tags: [ssc]
+
+- slug: smi-30-e09
+  difficulty: easy
+  stem: "William Adam's reports of 1835, 1836 and 1838 pointed out defects in vernacular education in"
+  options: { A: "Bengal and Bihar", B: "Bombay and Sind", C: "Madras and Mysore", D: "North-West Provinces and Punjab", E: "More than one of the above" }
+  answer: A
+  explanation: "William Adam's reports (1835, 1836, 1838) dealt with vernacular education in Bengal and Bihar."
+  source: "Spectrum (2019-20), p. 571"
+  tags: [bpsc]
+
+- slug: smi-30-e10
+  difficulty: easy
+  stem: "Fort William College, for training the Company's civil servants in Indian languages and customs, was set up in 1800 by"
+  options: { A: "Warren Hastings", B: "Lord Cornwallis", C: "Lord Wellesley", D: "Lord Minto" }
+  answer: C
+  explanation: "Wellesley set up Fort William College in 1800; it was closed in 1802."
+  source: "Spectrum (2019-20), p. 563"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-30-m01
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Sergeant Plan
+    2. Hartog Committee
+    3. Wardha Scheme of Basic Education
+    4. Saddler University Commission
+  options: { A: "4-3-2-1", B: "4-2-3-1", C: "2-4-3-1", D: "4-2-1-3" }
+  answer: B
+  explanation: "Saddler Commission 1917-19, Hartog Committee 1929, Wardha Scheme 1937, Sergeant Plan 1944."
+  source: "Spectrum (2019-20), pp. 568-570"
+  tags: [ssc]
+
+- slug: smi-30-m02
+  difficulty: medium
+  stem: |
+    Match List I (commission) with List II (its main focus as given in the book):
+
+    | List I | List II |
+    |---|---|
+    | a. Hunter Commission | 1. Problems of Calcutta University |
+    | b. Raleigh Commission | 2. Deterioration of standards and development of education |
+    | c. Saddler Commission | 3. Conditions and prospects of universities in India |
+    | d. Hartog Committee | 4. Mainly primary and secondary education |
+  options: { A: "a-4, b-1, c-3, d-2", B: "a-3, b-4, c-1, d-2", C: "a-2, b-3, c-1, d-4", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: D
+  explanation: "Hunter mostly confined itself to primary and secondary education, Raleigh to universities, Saddler to Calcutta University, and Hartog to falling standards and development of education."
+  source: "Spectrum (2019-20), pp. 567-569"
+  tags: [bpsc]
+
+- slug: smi-30-m03
+  difficulty: medium
+  stem: "Which one of the following was NOT among the seven new universities that came up between 1916 and 1921?"
+  options: { A: "Patna", B: "Dacca", C: "Allahabad", D: "Osmania", E: "More than one of the above" }
+  answer: C
+  explanation: "The seven were Mysore, Patna, Benaras, Aligarh, Dacca, Lucknow and Osmania; Allahabad University dates from 1887."
+  source: "Spectrum (2019-20), pp. 567, 569"
+  tags: [bpsc]
+
+- slug: smi-30-m04
+  difficulty: medium
+  stem: "Wood's Despatch (1854) recommended which media of instruction?"
+  options: { A: "English for higher studies and vernaculars at school level", B: "English at all levels", C: "Vernaculars for higher studies and English at school level", D: "Classical languages for higher studies and vernaculars at school level" }
+  answer: A
+  explanation: "Wood's Despatch recommended English as the medium for higher studies and vernaculars at the school level."
+  source: "Spectrum (2019-20), p. 566"
+  tags: [ssc]
+
+- slug: smi-30-m05
+  difficulty: medium
+  stem: "The Charter Act of 1813 directed the Company to sanction how much annually for education, and when was the amount actually made available?"
+  options: { A: "Five lakh rupees; 1835", B: "One lakh rupees; 1823", C: "One lakh rupees; 1813", D: "Ten lakh rupees; 1823" }
+  answer: B
+  explanation: "The Act directed one lakh rupees annually, but the amount was not made available till 1823 because of controversy over how it should be spent."
+  source: "Spectrum (2019-20), p. 564"
+  tags: [ssc]
+
+- slug: smi-30-m06
+  difficulty: medium
+  stem: "The British plan to educate a small upper and middle class who would act as interpreters between the government and the masses and pass Western knowledge down to them was called"
+  options: { A: "the downward filtration theory", B: "learning through activity", C: "the grants-in-aid system", D: "the basic education scheme", E: "None of the above" }
+  answer: A
+  explanation: "Creating a class 'Indian in blood and colour but English in tastes' to carry knowledge to the masses was called the downward filtration theory."
+  source: "Spectrum (2019-20), p. 565"
+  tags: [bpsc]
+
+- slug: smi-30-m07
+  difficulty: medium
+  stem: "The Sergeant Plan (1944) recommended universal, free and compulsory elementary education for which age group?"
+  options: { A: "3-6 years", B: "6-14 years", C: "6-11 years", D: "11-17 years" }
+  answer: C
+  explanation: "The plan proposed pre-primary education for ages 3-6, free compulsory elementary education for 6-11, and high school for selected children aged 11-17."
+  source: "Spectrum (2019-20), pp. 570-571"
+  tags: [ssc]
+
+- slug: smi-30-m08
+  difficulty: medium
+  stem: "Which progressive state introduced compulsory primary education throughout its territories in 1906?"
+  options: { A: "Mysore", B: "Travancore", C: "Baroda", D: "Hyderabad", E: "More than one of the above" }
+  answer: C
+  explanation: "In 1906 Baroda introduced compulsory primary education; national leaders, notably Gokhale, urged the same for British India."
+  source: "Spectrum (2019-20), p. 568"
+  tags: [bpsc]
+
+- slug: smi-30-m09
+  difficulty: medium
+  stem: "The Hunter Commission recommended that control of primary education be transferred to"
+  options: { A: "provincial education departments", B: "the newly set up district and municipal boards", C: "the universities", D: "missionary societies" }
+  answer: B
+  explanation: "The Hunter Commission recommended transferring control of primary education to newly set up district and municipal boards."
+  source: "Spectrum (2019-20), p. 567"
+  tags: [ssc]
+
+- slug: smi-30-m10
+  difficulty: medium
+  stem: "Which one of the following pairs is correctly matched?"
+  options: { A: "Calcutta College of Engineering — 1847", B: "Medical college in Calcutta — 1856", C: "Poona College of Engineering — 1835", D: "Engineering College at Roorkee — 1847", E: "None of the above" }
+  answer: D
+  explanation: "Roorkee Engineering College was set up in 1847, Calcutta College of Engineering in 1856, the Calcutta medical college in 1835 and Poona College of Engineering in 1858."
+  source: "Spectrum (2019-20), p. 572"
+  tags: [bpsc]
+
+# ---------- HARD ----------
+- slug: smi-30-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about Wood's Despatch (1854):
+
+    1. It asked the government to assume responsibility for mass education, repudiating the downward filtration theory at least on paper.
+    2. It recommended a system of grants-in-aid to encourage private enterprise.
+    3. It laid down that education in government institutions should include religious instruction.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Wood's Despatch laid down that education in government institutions should be secular. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), pp. 565-566"
+  tags: [bpsc]
+
+- slug: smi-30-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Raleigh Commission and the Indian Universities Act, 1904:
+
+    1. The Raleigh Commission was precluded from reporting on primary or secondary education.
+    2. The Act increased the number of fellows of a university, most of whom were to be elected.
+    3. Five lakh rupees were to be sanctioned per annum for five years for improving higher education.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The Act reduced the number of fellows and their term, and most fellows were to be nominated by the Government. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 567-568"
+  tags: [bpsc]
+
+- slug: smi-30-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Hunter Commission (1882-83) mostly confined its recommendations to primary and secondary education.
+
+    **Reason (R):** The Raleigh Commission had already reported on the condition of universities in India.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "The Hunter Commission did focus on primary and secondary education, which earlier schemes had neglected; the Raleigh Commission came later, in 1902."
+  source: "Spectrum (2019-20), pp. 566-567"
+  tags: [bpsc]
+
+- slug: smi-30-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Wardha Scheme of Basic Education (1937):
+
+    1. It was based on Gandhi's ideas published in a series of articles in the weekly Harijan.
+    2. Teaching was to be in English from Class II onwards.
+    3. The first seven years of schooling were to be part of a free and compulsory nationwide system, through the mother tongue.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Teaching was to be in Hindi from Class II to VII and in English only after Class VIII. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 570"
+  tags: [bpsc]
+
+- slug: smi-30-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Saddler University Commission (1917-19):
+
+    1. It recommended a 12-year school course, with students entering university after an intermediate stage for a three-year degree.
+    2. It recommended that a university should function as scattered affiliated colleges rather than as a unitary residential-teaching body.
+    3. It recommended a separate board of secondary and intermediate education.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The commission wanted a university to be a centralised, unitary residential-teaching autonomous body rather than scattered affiliated colleges. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 568-569"
+  tags: [bpsc]
+
+- slug: smi-30-h06
+  difficulty: hard
+  stem: "The Sergeant Plan proposed to liquidate adult illiteracy, and to reach the level of educational attainment then prevailing in England, within how many years respectively?"
+  options: { A: "20 years; 40 years", B: "40 years; 20 years", C: "10 years; 30 years", D: "20 years; 50 years" }
+  answer: A
+  explanation: "The Sergeant Plan aimed to liquidate adult illiteracy in 20 years and reach England's level of attainment within 40 years."
+  source: "Spectrum (2019-20), p. 571"
+  tags: [ssc]
+
+- slug: smi-30-h07
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The traditional system of Indian learning gradually declined under British rule.
+
+    **Reason (R):** After 1844 it was declared that applicants for government employment should possess knowledge of English.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says traditional learning declined for want of support, and especially after 1844 when English became a requirement for government jobs."
+  source: "Spectrum (2019-20), p. 573"
+  tags: [bpsc]
+
+- slug: smi-30-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. By 1857 there were only three medical colleges in India, at Calcutta, Bombay and Madras.
+    2. The engineering college at Roorkee was open only to Europeans and Eurasians.
+    3. The agriculture college established by Curzon at Pusa acted as the parent institution of similar institutions in other provinces.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1, 2 and 3", C: "2 and 3 only", D: "1 and 3 only", E: "None of the above" }
+  answer: B
+  explanation: "All three are stated in the book's sections on technical education and its evaluation of British policy."
+  source: "Spectrum (2019-20), pp. 572-573"
+  tags: [bpsc]
+
+- slug: smi-30-h09
+  difficulty: hard
+  stem: |
+    Consider the following recommendations:
+
+    1. Hasty expansion and compulsion in primary education
+    2. Diverting average students to vocational courses after Class VIII
+    3. Restricting admissions to improve university standards
+
+    Which of the above were recommendations of the Hartog Committee (1929)?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The Hartog Committee stressed primary education but said there need be no hasty expansion or compulsion. Recommendations 2 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 569-570"
+  tags: [bpsc]
+
+- slug: smi-30-h10
+  difficulty: hard
+  stem: "The purpose of James Thomson's scheme of vernacular village education in the North-West Provinces (1843-53) was to"
+  options: { A: "prepare students for the new universities", B: "train personnel for the newly set up Revenue and Public Works Department", C: "train teachers for normal schools", D: "spread Western literature among the masses" }
+  answer: B
+  explanation: "Thomson's village schools taught useful subjects such as mensuration and agriculture to train personnel for the new Revenue and Public Works Department."
+  source: "Spectrum (2019-20), p. 565"
+  tags: [ssc]

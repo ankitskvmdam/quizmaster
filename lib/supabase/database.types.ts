@@ -83,6 +83,46 @@ isOneToOne: false
       referencedColumns: ["id"]
     }
                   ]
+                },"book_chapters": {
+                  Row: {
+                    "book_id": string,"gist_md": string,"gist_md_hi": string | null,"id": string,"number": number,"position": number,"slug": string,"title": string,"title_hi": string | null,"updated_at": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "book_id": string,"gist_md": string,"gist_md_hi"?: string | null,"id"?: string,"number": number,"position"?: number,"slug": string,"title": string,"title_hi"?: string | null,"updated_at"?: string
+                  }
+                  Update: {
+                    "book_id"?: string,"gist_md"?: string,"gist_md_hi"?: string | null,"id"?: string,"number"?: number,"position"?: number,"slug"?: string,"title"?: string,"title_hi"?: string | null,"updated_at"?: string
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "book_chapters_book_id_fkey"
+      columns: ["book_id"]
+isOneToOne: false
+      referencedRelation: "books"
+      referencedColumns: ["id"]
+    }
+                  ]
+                },"books": {
+                  Row: {
+                    "author": string | null,"created_at": string,"description": string,"description_hi": string | null,"edition": string | null,"id": string,"position": number,"published": boolean,"published_at": string | null,"slug": string,"title": string,"title_hi": string | null,"topic_id": string,"updated_at": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "author"?: string | null,"created_at"?: string,"description"?: string,"description_hi"?: string | null,"edition"?: string | null,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug": string,"title": string,"title_hi"?: string | null,"topic_id": string,"updated_at"?: string
+                  }
+                  Update: {
+                    "author"?: string | null,"created_at"?: string,"description"?: string,"description_hi"?: string | null,"edition"?: string | null,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string,"title"?: string,"title_hi"?: string | null,"topic_id"?: string,"updated_at"?: string
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "books_topic_id_fkey"
+      columns: ["topic_id"]
+isOneToOne: false
+      referencedRelation: "topics"
+      referencedColumns: ["id"]
+    }
+                  ]
                 },"ca_categories": {
                   Row: {
                     "name": string,"position": number,"slug": string
@@ -169,6 +209,52 @@ isOneToOne: false
       referencedColumns: ["id"]
     }
                   ]
+                },"chapter_progress": {
+                  Row: {
+                    "chapter_id": string,"read_at": string,"user_id": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "chapter_id": string,"read_at"?: string,"user_id"?: string
+                  }
+                  Update: {
+                    "chapter_id"?: string,"read_at"?: string,"user_id"?: string
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "chapter_progress_chapter_id_fkey"
+      columns: ["chapter_id"]
+isOneToOne: false
+      referencedRelation: "book_chapters"
+      referencedColumns: ["id"]
+    }
+                  ]
+                },"chapter_topics": {
+                  Row: {
+                    "chapter_id": string,"topic_id": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "chapter_id": string,"topic_id": string
+                  }
+                  Update: {
+                    "chapter_id"?: string,"topic_id"?: string
+                  }
+                  Relationships: [
+                    {
+      foreignKeyName: "chapter_topics_chapter_id_fkey"
+      columns: ["chapter_id"]
+isOneToOne: false
+      referencedRelation: "book_chapters"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "chapter_topics_topic_id_fkey"
+      columns: ["topic_id"]
+isOneToOne: false
+      referencedRelation: "topics"
+      referencedColumns: ["id"]
+    }
+                  ]
                 },"lesson_progress": {
                   Row: {
                     "completed_at": string,"lesson_id": string,"user_id": string
@@ -191,14 +277,14 @@ isOneToOne: false
                   ]
                 },"lessons": {
                   Row: {
-                    "body_md": string,"created_at": string,"id": string,"position": number,"published": boolean,"published_at": string | null,"slug": string,"title": string,"topic_id": string,"updated_at": string
+                    "body_md": string,"body_md_hi": string | null,"created_at": string,"id": string,"position": number,"published": boolean,"published_at": string | null,"slug": string,"title": string,"title_hi": string | null,"topic_id": string,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "body_md"?: string,"created_at"?: string,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug": string,"title": string,"topic_id": string,"updated_at"?: string
+                    "body_md"?: string,"body_md_hi"?: string | null,"created_at"?: string,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug": string,"title": string,"title_hi"?: string | null,"topic_id": string,"updated_at"?: string
                   }
                   Update: {
-                    "body_md"?: string,"created_at"?: string,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string,"title"?: string,"topic_id"?: string,"updated_at"?: string
+                    "body_md"?: string,"body_md_hi"?: string | null,"created_at"?: string,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string,"title"?: string,"title_hi"?: string | null,"topic_id"?: string,"updated_at"?: string
                   }
                   Relationships: [
                     {
@@ -211,28 +297,28 @@ isOneToOne: false
                   ]
                 },"profiles": {
                   Row: {
-                    "created_at": string,"display_name": string | null,"id": string
+                    "content_lang": string,"created_at": string,"display_name": string | null,"id": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "created_at"?: string,"display_name"?: string | null,"id": string
+                    "content_lang"?: string,"created_at"?: string,"display_name"?: string | null,"id": string
                   }
                   Update: {
-                    "created_at"?: string,"display_name"?: string | null,"id"?: string
+                    "content_lang"?: string,"created_at"?: string,"display_name"?: string | null,"id"?: string
                   }
                   Relationships: [
                     
                   ]
                 },"questions": {
                   Row: {
-                    "ca_category_slug": string | null,"ca_month_id": string | null,"correct_key": string,"created_at": string,"difficulty": Database["public"]['Enums']["difficulty"],"explanation_md": string,"id": string,"options": NonNullable<Json>,"retired": boolean,"slug": string,"source": string | null,"stem_md": string,"tags": (string)[],"topic_id": string | null,"updated_at": string
+                    "ca_category_slug": string | null,"ca_month_id": string | null,"chapter_id": string | null,"correct_key": string,"created_at": string,"difficulty": Database["public"]['Enums']["difficulty"],"explanation_md": string,"explanation_md_hi": string | null,"id": string,"options": NonNullable<Json>,"options_hi": Json | null,"retired": boolean,"slug": string,"source": string | null,"stem_md": string,"stem_md_hi": string | null,"tags": (string)[],"topic_id": string | null,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"correct_key": string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"id"?: string,"options": NonNullable<Json>,"retired"?: boolean,"slug": string,"source"?: string | null,"stem_md": string,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
+                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"correct_key": string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"explanation_md_hi"?: string | null,"id"?: string,"options": NonNullable<Json>,"options_hi"?: Json | null,"retired"?: boolean,"slug": string,"source"?: string | null,"stem_md": string,"stem_md_hi"?: string | null,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
                   }
                   Update: {
-                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"correct_key"?: string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"id"?: string,"options"?: NonNullable<Json>,"retired"?: boolean,"slug"?: string,"source"?: string | null,"stem_md"?: string,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
+                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"correct_key"?: string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"explanation_md_hi"?: string | null,"id"?: string,"options"?: NonNullable<Json>,"options_hi"?: Json | null,"retired"?: boolean,"slug"?: string,"source"?: string | null,"stem_md"?: string,"stem_md_hi"?: string | null,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
                   }
                   Relationships: [
                     {
@@ -246,6 +332,12 @@ isOneToOne: false
       columns: ["ca_month_id"]
 isOneToOne: false
       referencedRelation: "ca_months"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "questions_chapter_id_fkey"
+      columns: ["chapter_id"]
+isOneToOne: false
+      referencedRelation: "book_chapters"
       referencedColumns: ["id"]
     },{
       foreignKeyName: "questions_topic_id_fkey"
@@ -277,14 +369,14 @@ isOneToOne: false
                   ]
                 },"subjects": {
                   Row: {
-                    "created_at": string,"description": string,"id": string,"name": string,"position": number,"published": boolean,"slug": string,"updated_at": string
+                    "created_at": string,"description": string,"description_hi": string | null,"id": string,"name": string,"name_hi": string | null,"position": number,"published": boolean,"slug": string,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "created_at"?: string,"description"?: string,"id"?: string,"name": string,"position"?: number,"published"?: boolean,"slug": string,"updated_at"?: string
+                    "created_at"?: string,"description"?: string,"description_hi"?: string | null,"id"?: string,"name": string,"name_hi"?: string | null,"position"?: number,"published"?: boolean,"slug": string,"updated_at"?: string
                   }
                   Update: {
-                    "created_at"?: string,"description"?: string,"id"?: string,"name"?: string,"position"?: number,"published"?: boolean,"slug"?: string,"updated_at"?: string
+                    "created_at"?: string,"description"?: string,"description_hi"?: string | null,"id"?: string,"name"?: string,"name_hi"?: string | null,"position"?: number,"published"?: boolean,"slug"?: string,"updated_at"?: string
                   }
                   Relationships: [
                     
@@ -317,14 +409,14 @@ isOneToOne: false
                   ]
                 },"tests": {
                   Row: {
-                    "ca_month_id": string | null,"created_at": string,"created_by": string | null,"duration_sec": number | null,"id": string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct": number,"marks_wrong": number,"published": boolean,"published_at": string | null,"slug": string | null,"subject_id": string | null,"title": string,"updated_at": string,"year": number | null
+                    "ca_month_id": string | null,"chapter_id": string | null,"created_at": string,"created_by": string | null,"duration_sec": number | null,"id": string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct": number,"marks_wrong": number,"published": boolean,"published_at": string | null,"slug": string | null,"subject_id": string | null,"title": string,"title_hi": string | null,"updated_at": string,"year": number | null
                   }
                   ComputedFields: never
                   Insert: {
-                    "ca_month_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"id"?: string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title": string,"updated_at"?: string,"year"?: number | null
+                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"id"?: string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title": string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
                   }
                   Update: {
-                    "ca_month_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"id"?: string,"kind"?: Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title"?: string,"updated_at"?: string,"year"?: number | null
+                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"id"?: string,"kind"?: Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title"?: string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
                   }
                   Relationships: [
                     {
@@ -332,6 +424,12 @@ isOneToOne: false
       columns: ["ca_month_id"]
 isOneToOne: false
       referencedRelation: "ca_months"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "tests_chapter_id_fkey"
+      columns: ["chapter_id"]
+isOneToOne: false
+      referencedRelation: "book_chapters"
       referencedColumns: ["id"]
     },{
       foreignKeyName: "tests_subject_id_fkey"
@@ -343,17 +441,23 @@ isOneToOne: false
                   ]
                 },"topics": {
                   Row: {
-                    "created_at": string,"description": string,"id": string,"name": string,"position": number,"section_id": string | null,"slug": string,"subject_id": string,"updated_at": string
+                    "created_at": string,"description": string,"description_hi": string | null,"id": string,"name": string,"name_hi": string | null,"parent_id": string | null,"path": string,"position": number,"section_id": string | null,"slug": string,"subject_id": string,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "created_at"?: string,"description"?: string,"id"?: string,"name": string,"position"?: number,"section_id"?: string | null,"slug": string,"subject_id": string,"updated_at"?: string
+                    "created_at"?: string,"description"?: string,"description_hi"?: string | null,"id"?: string,"name": string,"name_hi"?: string | null,"parent_id"?: string | null,"path": string,"position"?: number,"section_id"?: string | null,"slug": string,"subject_id": string,"updated_at"?: string
                   }
                   Update: {
-                    "created_at"?: string,"description"?: string,"id"?: string,"name"?: string,"position"?: number,"section_id"?: string | null,"slug"?: string,"subject_id"?: string,"updated_at"?: string
+                    "created_at"?: string,"description"?: string,"description_hi"?: string | null,"id"?: string,"name"?: string,"name_hi"?: string | null,"parent_id"?: string | null,"path"?: string,"position"?: number,"section_id"?: string | null,"slug"?: string,"subject_id"?: string,"updated_at"?: string
                   }
                   Relationships: [
                     {
+      foreignKeyName: "topics_parent_id_fkey"
+      columns: ["parent_id"]
+isOneToOne: false
+      referencedRelation: "topics"
+      referencedColumns: ["id"]
+    },{
       foreignKeyName: "topics_section_id_fkey"
       columns: ["section_id"]
 isOneToOne: false
@@ -431,10 +535,13 @@ isOneToOne: false
                            },
 "submit_expired_attempts":
 { Args: Record<PropertyKey, never>; Returns: number
+                           },
+"topic_subtree":
+{ Args: { "p_topic_id": string }; Returns: string[]
                            }
           }
           Enums: {
-            "attempt_mode": "timed"|"practice","difficulty": "easy"|"medium"|"hard","section_kind": "topics"|"current_affairs","test_kind": "mock"|"pyq"|"custom"
+            "attempt_mode": "timed"|"practice","difficulty": "easy"|"medium"|"hard","section_kind": "topics"|"current_affairs","test_kind": "mock"|"pyq"|"custom"|"chapter"
           }
           CompositeTypes: {
             [_ in never]: never
@@ -554,7 +661,7 @@ export const Constants = {
           }
         },"public": {
           Enums: {
-            "attempt_mode": ["timed", "practice"],"difficulty": ["easy", "medium", "hard"],"section_kind": ["topics", "current_affairs"],"test_kind": ["mock", "pyq", "custom"]
+            "attempt_mode": ["timed", "practice"],"difficulty": ["easy", "medium", "hard"],"section_kind": ["topics", "current_affairs"],"test_kind": ["mock", "pyq", "custom", "chapter"]
           }
         }
 } as const

@@ -1,0 +1,304 @@
+# Chapter 32 — The Movement of the Working Class (book pp. 585-589)
+# Short chapter: 27 questions (9/9/9) are all the text supports without repeating facts.
+# ---------- EASY ----------
+- slug: smi-32-e01
+  difficulty: easy
+  stem: "In which year was the All India Trade Union Congress (AITUC) founded?"
+  options: { A: "1918", B: "1920", C: "1922", D: "1926" }
+  answer: B
+  explanation: "The AITUC was founded on October 31, 1920."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [ssc]
+
+- slug: smi-32-e02
+  difficulty: easy
+  stem: "Who was the first president of the AITUC?"
+  options: { A: "C.R. Das", B: "N.M. Joshi", C: "Lala Lajpat Rai", D: "V.V. Giri" }
+  answer: C
+  explanation: "Lala Lajpat Rai, the Congress president for that year, was elected the first president of the AITUC."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [ssc]
+
+- slug: smi-32-e03
+  difficulty: easy
+  stem: "Who started a workingmen's club and the newspaper 'Bharat Shramjeevi' in 1870?"
+  options: { A: "Sorabjee Shapoorji Bengalee", B: "Narain Meghajee Lokhanday", C: "Bipin Chandra Pal", D: "Sasipada Banerjea" }
+  answer: D
+  explanation: "In 1870 Sasipada Banerjea started a workingmen's club and the newspaper Bharat Shramjeevi."
+  source: "Spectrum (2019-20), p. 586"
+  tags: [ssc]
+
+- slug: smi-32-e04
+  difficulty: easy
+  stem: "Which newspaper was started in 1880 by Narain Meghajee Lokhanday?"
+  options: { A: "Deenbandhu", B: "Bharat Shramjeevi", C: "Kesari", D: "Maharatta" }
+  answer: A
+  explanation: "In 1880 Narain Meghajee Lokhanday started Deenbandhu and set up the Bombay Mill and Millhands Association."
+  source: "Spectrum (2019-20), p. 586"
+  tags: [ssc]
+
+- slug: smi-32-e05
+  difficulty: easy
+  stem: "The six-month-long strike in the Bombay textile mills in 1928 was led by the"
+  options: { A: "All India Trade Union Federation", B: "Ahmedabad Textile Labour Association", C: "Bombay Mill and Millhands Association", D: "Girni Kamgar Union" }
+  answer: D
+  explanation: "In 1928 there was a six-month-long strike in Bombay textile mills led by the Girni Kamgar Union."
+  source: "Spectrum (2019-20), p. 588"
+  tags: [ssc]
+
+- slug: smi-32-e06
+  difficulty: easy
+  stem: "Which labour organisation did Gandhi help organise in 1918?"
+  options: { A: "All India Trade Union Federation", B: "Ahmedabad Textile Labour Association", C: "Bombay Mill and Millhands Association", D: "All India Trade Union Congress" }
+  answer: B
+  explanation: "Gandhi helped organise the Ahmedabad Textile Labour Association (1918)."
+  source: "Spectrum (2019-20), p. 588"
+  tags: [ssc]
+
+- slug: smi-32-e07
+  difficulty: easy
+  stem: "Which session of the Indian National Congress (1922) welcomed the formation of the AITUC and formed a committee to assist it?"
+  options: { A: "Nagpur", B: "Calcutta", C: "Gaya", D: "Lahore", E: "More than one of the above" }
+  answer: C
+  explanation: "The Gaya session of the Congress (1922) welcomed the formation of the AITUC and formed a committee to assist it."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [bpsc]
+
+- slug: smi-32-e08
+  difficulty: easy
+  stem: "In 1931, the corporatist trend led by N.M. Joshi broke away from the AITUC to set up the"
+  options: { A: "All India Trade Union Federation", B: "Girni Kamgar Union", C: "Bombay Mill and Millhands Association", D: "Ahmedabad Textile Labour Association" }
+  answer: A
+  explanation: "N.M. Joshi's corporatist group broke away in 1931 to set up the All India Trade Union Federation."
+  source: "Spectrum (2019-20), p. 589"
+  tags: [ssc]
+
+- slug: smi-32-e09
+  difficulty: easy
+  stem: "In 1945, the dock workers of Bombay and Calcutta refused to load ships taking supplies to troops fighting in"
+  options: { A: "Burma", B: "Malaya", C: "Indonesia", D: "Vietnam" }
+  answer: C
+  explanation: "In 1945 the dock workers of Bombay and Calcutta refused to load ships taking supplies to the warring troops in Indonesia."
+  source: "Spectrum (2019-20), p. 589"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-32-m01
+  difficulty: medium
+  stem: "Who was the first general secretary of the AITUC?"
+  options: { A: "V.V. Giri", B: "J.M. Sengupta", C: "N.M. Joshi", D: "Dewan Chaman Lal" }
+  answer: D
+  explanation: "Lala Lajpat Rai was the first president and Dewan Chaman Lal the first general secretary of the AITUC."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [ssc]
+
+- slug: smi-32-m02
+  difficulty: medium
+  stem: "C.R. Das presided over which sessions of the AITUC?"
+  options: { A: "First and second", B: "Third and fourth", C: "Second and third", D: "Fifth and sixth" }
+  answer: B
+  explanation: "The Congress and Swarajist leader C.R. Das presided over the third and fourth sessions of the AITUC."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [ssc]
+
+- slug: smi-32-m03
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Passing of the Trade Disputes Act
+    2. Passing of the Trade Union Act
+    3. Communists rejoining the AITUC
+    4. Six-month-long strike in the Bombay textile mills
+
+    Select the correct answer using the code given below:
+  options: { A: "2, 4, 1, 3", B: "4, 2, 1, 3", C: "2, 1, 4, 3", D: "2, 4, 3, 1", E: "None of the above" }
+  answer: A
+  explanation: "Trade Union Act (1926), Bombay textile strike (1928), Trade Disputes Act (1929), communists rejoin the AITUC (1935)."
+  source: "Spectrum (2019-20), pp. 588-589"
+  tags: [bpsc]
+
+- slug: smi-32-m04
+  difficulty: medium
+  stem: "During the Swadeshi upsurge, strikes in Tuticorin and Tirunelvelli were led by"
+  options: { A: "Ashwini Coomar Banerjea and Premtosh Bose", B: "Subramaniya Siva and Chidambaram Pillai", C: "Bipin Chandra Pal and G. Subramanya Aiyar", D: "Prabhat Kumar Roy Chaudhuri and Apurba Kumar Ghosh" }
+  answer: B
+  explanation: "Subramaniya Siva and Chidambaram Pillai led strikes in Tuticorin and Tirunelvelli and were arrested; the other names organised strikes in Bengal or demanded pro-labour reforms."
+  source: "Spectrum (2019-20), p. 586"
+  tags: [ssc]
+
+- slug: smi-32-m05
+  difficulty: medium
+  stem: "In the Ahmedabad mill workers' case (1918), Gandhi's protest secured a wage hike of ____, and the arbitrator's award later ensured a raise of ____."
+  options: { A: "35 per cent; 27.5 per cent", B: "25 per cent; 35 per cent", C: "27.5 per cent; 35 per cent", D: "27.5 per cent; 30 per cent" }
+  answer: C
+  explanation: "Through a protest Gandhi secured a 27.5 per cent wage hike; later the arbitrator's award ensured a 35 per cent raise."
+  source: "Spectrum (2019-20), p. 588"
+  tags: [ssc]
+
+- slug: smi-32-m06
+  difficulty: medium
+  stem: "Which of the following is NOT mentioned in the book as an international event that lent a new dimension to the Indian working class movement after the First World War?"
+  options: { A: "Establishment of a socialist republic in the Soviet Union", B: "Formation of the Comintern", C: "Setting up of the International Labour Organisation", D: "Formation of the League of Nations" }
+  answer: D
+  explanation: "The book names the Soviet socialist republic, the Comintern and the ILO; it does not mention the League of Nations."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [ssc]
+
+- slug: smi-32-m07
+  difficulty: medium
+  stem: "Which newspapers had campaigned for months for the first strike by the Great Indian Peninsular Railways in 1899?"
+  options: { A: "Tilak's Kesari and Maharatta", B: "Sasipada Banerjea's Bharat Shramjeevi", C: "Lokhanday's Deenbandhu", D: "The AITUC's journals" }
+  answer: A
+  explanation: "The 1899 GIP Railways strike got widespread support; Tilak's Kesari and Maharatta had campaigned for it for months."
+  source: "Spectrum (2019-20), p. 586"
+  tags: [ssc]
+
+- slug: smi-32-m08
+  difficulty: medium
+  stem: |
+    Match List I with List II:
+
+    | List I | List II |
+    |---|---|
+    | a. Sorabjee Shapoorji Bengalee | 1. Organised strikes during the Swadeshi upsurge |
+    | b. Lala Lajpat Rai | 2. Convicted in the Meerut Conspiracy Case |
+    | c. Ashwini Coomar Banerjea | 3. Labour-welfare bill in the Bombay Legislative Council (1878) |
+    | d. Muzaffar Ahmed | 4. First to link capitalism with imperialism |
+  options: { A: "a-3, b-1, c-4, d-2", B: "a-4, b-3, c-1, d-2", C: "a-3, b-4, c-2, d-1", D: "a-3, b-4, c-1, d-2", E: "None of the above" }
+  answer: D
+  explanation: "Bengalee tried to pass a labour bill in 1878; Lajpat Rai linked capitalism with imperialism; Ashwini Coomar Banerjea organised Swadeshi-era strikes; Muzaffar Ahmed was convicted in the Meerut case."
+  source: "Spectrum (2019-20), pp. 586-588"
+  tags: [bpsc]
+
+- slug: smi-32-m09
+  difficulty: medium
+  stem: "According to the book, the strikes organised during the Swadeshi upsurge were in the"
+  options: { A: "cotton mills, coal mines and docks", B: "government press, railways and jute industry", C: "tea gardens, railways and coal mines", D: "jute industry, docks and cotton mills" }
+  answer: B
+  explanation: "Strikes during the Swadeshi upsurge were organised in the government press, railways and the jute industry."
+  source: "Spectrum (2019-20), p. 586"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-32-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the attitude of the early nationalists (especially the Moderates) towards labour:
+
+    1. They differentiated between labour in Indian-owned factories and that in British-owned factories.
+    2. They believed labour legislation would affect the competitive edge of Indian-owned industries.
+    3. They supported the Factory Acts of 1881 and 1891.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "For these very reasons the Moderates did not support the Factory Acts of 1881 and 1891. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), pp. 585-586"
+  tags: [bpsc]
+
+- slug: smi-32-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Trade Union Act, 1926:
+
+    1. It recognised trade unions as legal associations.
+    2. It laid down conditions for the registration and regulation of trade union activities.
+    3. It secured civil and criminal immunity for trade unions from prosecution for legitimate activities.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1, 2 and 3", B: "1 and 2 only", C: "2 and 3 only", D: "1 only", E: "None of the above" }
+  answer: A
+  explanation: "All three are provisions of the Trade Union Act, 1926; it also put some restrictions on the unions' political activities."
+  source: "Spectrum (2019-20), p. 588"
+  tags: [bpsc]
+
+- slug: smi-32-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Trade Disputes Act, 1929:
+
+    1. It made compulsory the appointment of Courts of Inquiry and Consultation Boards for settling industrial disputes.
+    2. It made strikes in public utility services illegal unless each worker planning to strike gave one month's advance notice.
+    3. It permitted sympathetic strikes but forbade coercive trade union activity.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The Act forbade trade union activity of a coercive or purely political nature and even sympathetic strikes. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 588"
+  tags: [bpsc]
+
+- slug: smi-32-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Meerut Conspiracy Case:
+
+    1. In March 1929, the government arrested 31 labour leaders.
+    2. The trial lasted about a year and a half.
+    3. Philip Spratt and Ben Bradley were among those convicted.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The trial lasted three and a half years. Statements 1 and 3 are correct; the trial got worldwide publicity but weakened the movement."
+  source: "Spectrum (2019-20), pp. 588-589"
+  tags: [bpsc]
+
+- slug: smi-32-h05
+  difficulty: hard
+  stem: |
+    **Assertion (A):** In 1935, the communists rejoined the AITUC.
+
+    **Reason (R):** In 1931, the corporatist trend led by N.M. Joshi had broken away from the AITUC.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "Both events are stated in the book, but the 1931 breakaway of N.M. Joshi's group does not explain why the communists rejoined in 1935."
+  source: "Spectrum (2019-20), p. 589"
+  tags: [bpsc]
+
+- slug: smi-32-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Indian working class movement became intertwined with the political struggle for national emancipation.
+
+    **Reason (R):** The Indian working class faced both imperialist political rule and economic exploitation by foreign and native capitalists.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says that because workers faced these two antagonistic forces, their movement inevitably became intertwined with the national struggle."
+  source: "Spectrum (2019-20), p. 585"
+  tags: [bpsc]
+
+- slug: smi-32-h07
+  difficulty: hard
+  stem: "The communists described the Second World War as a 'people's war' and supported it after"
+  options: { A: "the Quit India Movement began in 1942", B: "the Comintern was formed", C: "Russia joined the war on behalf of the Allies in 1941", D: "the Congress ministries resigned in 1939", E: "More than one of the above" }
+  answer: C
+  explanation: "Workers first opposed the War, but after 1941, when Russia joined the Allies, the communists called it a 'people's war' and kept away from Quit India."
+  source: "Spectrum (2019-20), p. 589"
+  tags: [bpsc]
+
+- slug: smi-32-h08
+  difficulty: hard
+  stem: "In its beginning, the AITUC was influenced by the social democratic ideas of the"
+  options: { A: "Comintern", B: "International Labour Organisation", C: "Congress Socialist Party", D: "British Labour Party" }
+  answer: D
+  explanation: "In the beginning the AITUC was influenced by the social democratic ideas of the British Labour Party; Gandhian ideas of trusteeship and class collaboration also had great influence."
+  source: "Spectrum (2019-20), p. 587"
+  tags: [ssc]
+
+- slug: smi-32-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. During the 1937 elections, the AITUC supported the Congress candidates.
+    2. Bipin Chandra Pal and G. Subramanya Aiyar demanded better conditions for workers.
+    3. During 1946, workers went on a strike in support of the Naval Ratings.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three statements are made in the book."
+  source: "Spectrum (2019-20), pp. 586, 589"
+  tags: [bpsc]

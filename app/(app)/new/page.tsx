@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { BookOpen, CalendarDays, ClipboardList, Sparkles } from 'lucide-react'
+import { BookOpen, CalendarDays, ClipboardList, Library, Sparkles } from 'lucide-react'
 import { getBuilderTopics, getFeed } from '@/lib/queries/home'
 import { formatDate } from '@/lib/format'
 import { PageHeader } from '@/components/page-header'
@@ -38,14 +38,14 @@ export default async function NewPage() {
         <Panel>
           {feed.length === 0 ? (
             <EmptyState icon={<Sparkles />} title="Nothing new yet">
-              New lessons and tests appear here as they are added.
+              New notes, books and tests appear here as they are added.
             </EmptyState>
           ) : (
             <ul className="-my-2 flex flex-col">
               {feed.map((item, i) => (
                 <li key={`${item.type}-${item.href}-${item.title}`} className={cn(i > 0 && 'border-t border-hairline')}>
                   <Link href={item.href} className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3 hover:bg-soft">
-                    <IconTile size="sm">{item.type === 'lesson' ? <BookOpen /> : item.type === 'month' ? <CalendarDays /> : <ClipboardList />}</IconTile>
+                    <IconTile size="sm">{item.type === 'lesson' ? <BookOpen /> : item.type === 'book' ? <Library /> : item.type === 'month' ? <CalendarDays /> : <ClipboardList />}</IconTile>
                     <div className="min-w-0 flex-1">
                       <p className="flex items-center gap-2 font-medium">
                         <span className="truncate">{item.title}</span>

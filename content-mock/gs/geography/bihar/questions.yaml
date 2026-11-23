@@ -1,0 +1,18 @@
+- slug: mock-rivers-1
+  difficulty: easy
+  stem: "Which river is called the \"Sorrow of Bihar\"?"
+  options: { A: "Gandak", B: "Kosi", C: "Son", D: "Bagmati" }
+  answer: B
+  explanation: "The Kosi, for its frequent floods."
+- slug: mock-rivers-2
+  difficulty: easy
+  stem: "Which river divides Bihar into north and south?"
+  options: { A: "Ganga", B: "Son", C: "Kosi", D: "Punpun" }
+  answer: A
+  explanation: "The Ganga."
+- slug: mock-rivers-3
+  difficulty: medium
+  stem: "The Son river rises near"
+  options: { A: "Gangotri", B: "Amarkantak", C: "Mahabaleshwar", D: "Netarhat" }
+  answer: B
+  explanation: "Amarkantak."

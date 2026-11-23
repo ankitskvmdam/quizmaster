@@ -1,0 +1,336 @@
+# Chapter 2 — Major Approaches to the History of Modern India (book pp. 13-20)
+# ---------- EASY ----------
+- slug: smi-02-e01
+  difficulty: easy
+  stem: "The Subaltern school of historiography began in the early 1980s under the editorship of"
+  options: { A: "Ranajit Guha", B: "Sumit Sarkar", C: "Bipan Chandra", D: "A.R. Desai" }
+  answer: A
+  explanation: "The book says the subaltern school began in the early 1980s under the editorship of Ranajit Guha."
+  source: "Spectrum (2019-20), p. 16"
+  tags: [ssc]
+
+- slug: smi-02-e02
+  difficulty: easy
+  stem: "Who wrote 'India Today', one of the two classic books that heralded the Marxist approach in India?"
+  options: { A: "A.R. Desai", B: "Rajni Palme Dutt", C: "Sumit Sarkar", D: "R.C. Dutt" }
+  answer: B
+  explanation: "The Marxist approach was heralded by Rajni Palme Dutt's India Today and A.R. Desai's Social Background of Indian Nationalism."
+  source: "Spectrum (2019-20), p. 15"
+  tags: [ssc]
+
+- slug: smi-02-e03
+  difficulty: easy
+  stem: "'Social Background of Indian Nationalism' (1948) was written by"
+  options: { A: "Rajni Palme Dutt", B: "Tara Chand", C: "A.R. Desai", D: "R.C. Majumdar" }
+  answer: C
+  explanation: "A.R. Desai's Social Background of Indian Nationalism was first published in 1948."
+  source: "Spectrum (2019-20), p. 15"
+  tags: [ssc]
+
+- slug: smi-02-e04
+  difficulty: easy
+  stem: "'The High Caste Hindu Woman' (1887), a work on the women's question that attracted international attention, was written by"
+  options: { A: "Katherine Mayo", B: "Sarojini Naidu", C: "Annie Besant", D: "Pandita Ramabai", E: "More than one of the above" }
+  answer: D
+  explanation: "The book names The High Caste Hindu Woman (1887) by Pandita Ramabai and Mother India (1927) by Katherine Mayo."
+  source: "Spectrum (2019-20), p. 19"
+  tags: [bpsc]
+
+- slug: smi-02-e05
+  difficulty: easy
+  stem: "Who wrote 'Mother India' (1927)?"
+  options: { A: "Katherine Mayo", B: "Pandita Ramabai", C: "Percival Spear", D: "Vincent Smith" }
+  answer: A
+  explanation: "Mother India (1927) by Katherine Mayo is one of the two colonial-period works on the women's question named in the book."
+  source: "Spectrum (2019-20), p. 19"
+  tags: [ssc]
+
+- slug: smi-02-e06
+  difficulty: easy
+  stem: "Which of the following historians is cited by the book as an example of the colonial historiographical trend?"
+  options: { A: "Tara Chand", B: "R.C. Majumdar", C: "James Mill", D: "Ranajit Guha" }
+  answer: C
+  explanation: "The histories of James Mill, Mountstuart Elphinstone and Vincent Smith are given as examples of colonial historiography."
+  source: "Spectrum (2019-20), p. 14"
+  tags: [ssc]
+
+- slug: smi-02-e07
+  difficulty: easy
+  stem: "Rajni Palme Dutt's 'India Today' was originally written for"
+  options: { A: "the Fabian Society", B: "the Communist Party of Great Britain", C: "the Indian National Congress", D: "the Left Book Club in England" }
+  answer: D
+  explanation: "India Today was originally written for the famous Left Book Club in England."
+  source: "Spectrum (2019-20), p. 15"
+  tags: [ssc]
+
+- slug: smi-02-e08
+  difficulty: easy
+  stem: "The study of historical interpretation is known as"
+  options: { A: "Epigraphy", B: "Historiography", C: "Numismatics", D: "Archaeology" }
+  answer: B
+  explanation: "The book defines historiography as the study of historical interpretation."
+  source: "Spectrum (2019-20), p. 13"
+  tags: [ssc]
+
+- slug: smi-02-e09
+  difficulty: easy
+  stem: "Which historian described R.P. Dutt's paradigm as a 'simplistic version of the Marxian class approach'?"
+  options: { A: "Bipan Chandra", B: "Ranajit Guha", C: "Sumit Sarkar", D: "A.R. Desai" }
+  answer: C
+  explanation: "Sumit Sarkar, another noted Marxist historian, critiqued Dutt's paradigm in these words."
+  source: "Spectrum (2019-20), p. 16"
+  tags: [ssc]
+
+- slug: smi-02-e10
+  difficulty: easy
+  stem: "Patrick O'Brian, Hopkins and Cain are proponents of which interpretation of colonialism?"
+  options: { A: "Cambridge School", B: "Subaltern", C: "Marxist", D: "Liberal and Neo-liberal" }
+  answer: D
+  explanation: "The book names Patrick O'Brian, Hopkins and Cain as proponents of the Liberal and Neo-liberal interpretation."
+  source: "Spectrum (2019-20), p. 18"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-02-m01
+  difficulty: medium
+  stem: |
+    Match List I (approach) with List II (historian) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Colonial | 1. Ranajit Guha |
+    | b. Nationalist | 2. A.R. Desai |
+    | c. Marxist | 3. Tara Chand |
+    | d. Subaltern | 4. Vincent Smith |
+  options: { A: "a-4, b-3, c-2, d-1", B: "a-4, b-2, c-3, d-1", C: "a-3, b-4, c-2, d-1", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Vincent Smith is a colonial historian, Tara Chand a nationalist historian, A.R. Desai a Marxist and Ranajit Guha led the subaltern school."
+  source: "Spectrum (2019-20), p. 19"
+  tags: [bpsc]
+
+- slug: smi-02-m02
+  difficulty: medium
+  stem: "Which school, criticised for reducing nationalism to 'animal politics', held that the fundamental contradiction under colonial rule was among the Indians themselves?"
+  options: { A: "Communalist approach", B: "Cambridge School", C: "Subaltern school", D: "Liberal and Neo-liberal school" }
+  answer: B
+  explanation: "The Cambridge School saw nationalism arising from conflict among Indians for British-given benefits and was criticised for reducing it to 'animal politics'."
+  source: "Spectrum (2019-20), p. 18"
+  tags: [ssc]
+
+- slug: smi-02-m03
+  difficulty: medium
+  stem: "According to subaltern historians, the basic contradiction in Indian society in the colonial epoch was between"
+  options: { A: "colonialism and the Indian people", B: "Hindus and Muslims", C: "the elite, both Indian and foreign, and the subaltern groups", D: "the bourgeoisie and the working class" }
+  answer: C
+  explanation: "Subaltern historians held the basic contradiction was between the elite (Indian and foreign) and the subaltern groups, not between colonialism and the Indian people."
+  source: "Spectrum (2019-20), p. 16"
+  tags: [ssc]
+
+- slug: smi-02-m04
+  difficulty: medium
+  stem: "The book says the only accounts of the national movement before 1947 came from nationalist leaders rather than historians. Who among the following is instead described as a noted nationalist historian of modern India?"
+  options: { A: "R.G. Pradhan", B: "Pattabhi Sitaramayya", C: "A.C. Mazumdar", D: "R.C. Majumdar" }
+  answer: D
+  explanation: "R.G. Pradhan, A.C. Mazumdar, J.L. Nehru and Pattabhi Sitaramayya were leaders who wrote accounts; R.C. Majumdar and Tara Chand are named as nationalist historians."
+  source: "Spectrum (2019-20), p. 15"
+  tags: [ssc]
+
+- slug: smi-02-m05
+  difficulty: medium
+  stem: "According to the Liberal and Neo-liberal interpretation, capital investment in overseas markets such as railways in India"
+  options: { A: "might have discouraged domestic investment and delayed the development of 'new' industries in Britain", B: "brought great benefit to the British people as a whole", C: "was the main cause of the rise of Indian nationalism", D: "produced conflict among Indians for British benefits" }
+  answer: A
+  explanation: "This school argues colonial exploitation did not benefit the British people as a whole, as overseas investment may have delayed 'new' industries in Britain."
+  source: "Spectrum (2019-20), p. 18"
+  tags: [ssc]
+
+- slug: smi-02-m06
+  difficulty: medium
+  stem: |
+    Arrange the following works in chronological order of their first publication, as given in the book:
+
+    1. Mother India (Katherine Mayo)
+    2. Social Background of Indian Nationalism (A.R. Desai)
+    3. The High Caste Hindu Woman (Pandita Ramabai)
+    4. India Today (Rajni Palme Dutt), in England
+  options: { A: "1, 3, 4, 2", B: "3, 1, 4, 2", C: "3, 4, 1, 2", D: "3, 1, 2, 4", E: "None of the above" }
+  answer: B
+  explanation: "The High Caste Hindu Woman (1887), Mother India (1927), India Today in England (1940), Social Background of Indian Nationalism (1948)."
+  source: "Spectrum (2019-20), pp. 15, 19"
+  tags: [bpsc]
+
+- slug: smi-02-m07
+  difficulty: medium
+  stem: "Who wrote that the subaltern trend 'dismisses all previous historical writing, including that based on a Marxist perspective, as elite historiography'?"
+  options: { A: "Percival Spear", B: "Sumit Sarkar", C: "Bipan Chandra", D: "Ranajit Guha" }
+  answer: C
+  explanation: "The book quotes this criticism of the subaltern trend from Bipan Chandra."
+  source: "Spectrum (2019-20), p. 17"
+  tags: [ssc]
+
+- slug: smi-02-m08
+  difficulty: medium
+  stem: "The notion of Social Darwinism, under which the English considered themselves superior to the 'natives' and the fittest to rule, is a characteristic of which approach?"
+  options: { A: "Communalist approach", B: "Cambridge School", C: "Nationalist approach", D: "Colonial approach" }
+  answer: D
+  explanation: "Social Darwinism is listed among the characteristics common to the works of colonial historians."
+  source: "Spectrum (2019-20), p. 14"
+  tags: [ssc]
+
+- slug: smi-02-m09
+  difficulty: medium
+  stem: "Which one of the following was NOT among the nationalists who developed a detailed critique of colonialism's economic effects in the last quarter of the 19th century?"
+  options: { A: "Tara Chand", B: "G.V. Joshi", C: "K.T. Telang", D: "D.E. Wacha", E: "None of the above" }
+  answer: A
+  explanation: "The critique was developed by Dadabhai Naoroji, M.G. Ranade, G.V. Joshi, R.C. Dutt, K.T. Telang, G.K. Gokhale and D.E. Wacha; Tara Chand is named as a later nationalist historian."
+  source: "Spectrum (2019-20), p. 15"
+  tags: [bpsc]
+
+- slug: smi-02-m10
+  difficulty: medium
+  stem: "In how many phases did A.R. Desai trace the growth of the national movement, each based on particular social classes?"
+  options: { A: "Three", B: "Four", C: "Six", D: "Five" }
+  answer: D
+  explanation: "A.R. Desai traces the growth of the national movement in five phases, each supported by particular social classes."
+  source: "Spectrum (2019-20), p. 16"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-02-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the nationalist approach to Indian history:
+
+    1. Nationalist historians of modern India did not exist before 1947.
+    2. Before 1947, nationalist historiography mainly dealt with the ancient and medieval periods.
+    3. The nationalist approach developed independently, without reference to the colonial approach.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are from the book; the nationalist approach developed as a response to and in confrontation with the colonial approach."
+  source: "Spectrum (2019-20), p. 15"
+  tags: [bpsc]
+
+- slug: smi-02-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Marxist approach:
+
+    1. It sees the primary contradiction as between the interests of the colonial masters and the subject people.
+    2. Sumit Sarkar praised R.P. Dutt's paradigm for fully integrating anti-imperialist and class contradictions.
+    3. Marxist historians tend to see the national movement as a structured bourgeois movement and miss its all-class character.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 3 are in the book; Sumit Sarkar criticised Dutt's paradigm as a 'simplistic version of the Marxian class approach'."
+  source: "Spectrum (2019-20), pp. 15-16"
+  tags: [bpsc]
+
+- slug: smi-02-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about subaltern historiography:
+
+    1. It accepts the Marxist theory of the nature of exploitation by the nationalist movement.
+    2. It holds that Indian society of the time could not be seen in terms of class alone.
+    3. It asserts that there were two streams: the real anti-imperialist stream of the subalterns and the 'bogus' national movement of the elite.
+
+    Which of the statements given above is/are correct?
+  options: { A: "2 and 3 only", B: "1 and 2 only", C: "3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Subaltern historians do not subscribe to the Marxist theory; statements 2 and 3 are stated in the book."
+  source: "Spectrum (2019-20), pp. 16-17"
+  tags: [bpsc]
+
+- slug: smi-02-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Subaltern historians argue that Indian society of the colonial period could not be seen in terms of class alone.
+
+    **Reason (R):** Capitalism in India was just nascent at the time.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says subalterns reject a class-only reading 'as capitalism in the country was just nascent at the time', so R explains A."
+  source: "Spectrum (2019-20), p. 16"
+  tags: [bpsc]
+
+- slug: smi-02-h05
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Cambridge School holds that Indian nationalism arose from conflict among Indians for the benefits given by the British rulers.
+
+    **Reason (R):** The Cambridge School considers the fundamental contradiction under colonial rule to be between imperialism and the Indian people.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "For the Cambridge School the fundamental contradiction was not between imperialism and the Indian people but among the Indians themselves."
+  source: "Spectrum (2019-20), p. 18"
+  tags: [bpsc]
+
+- slug: smi-02-h06
+  difficulty: hard
+  stem: |
+    Which of the following are listed by the book as characteristics common to colonial historians?
+
+    1. 'Orientalist' representation of India
+    2. The opinion that the British brought unity to India
+    3. Establishing Pax Britannica to bring law, order and peace
+    4. India viewed as a dynamic society that needed no outside guidance
+
+    Select the correct answer using the code given below.
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2, 3 and 4", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Colonial historians viewed India as a stagnant society needing British guidance ('White Man's burden'), so statement 4 is wrong."
+  source: "Spectrum (2019-20), p. 14"
+  tags: [bpsc]
+
+- slug: smi-02-h07
+  difficulty: hard
+  stem: "The term 'colonial approach' is used in two senses. In which sense do most historians today write about colonial historiography?"
+  options: { A: "The history of the colonial countries", B: "Works influenced by the colonial ideology of domination", C: "Histories written by Indians in colonial times", D: "Histories of the colonising European nations" }
+  answer: B
+  explanation: "One sense is the history of colonial countries; the other, used by most historians today, refers to works influenced by the colonial ideology of domination."
+  source: "Spectrum (2019-20), p. 14"
+  tags: [ssc]
+
+- slug: smi-02-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the communalist approach:
+
+    1. Its historians relied completely on the colonial historiography of medieval India and colonial era textbooks.
+    2. It viewed India's medieval history as one long story of Hindu-Muslim conflict.
+    3. This view stayed confined to historians' writings and was not taken up by political leaders.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The book says the view took a more virulent form in the hands of communal political leaders, so statement 3 is wrong."
+  source: "Spectrum (2019-20), p. 17"
+  tags: [bpsc]
+
+- slug: smi-02-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about feminist historiography in India:
+
+    1. The shift in writing women's history began with the women's movement of the 1970s.
+    2. Women's history soon broadened into the more complex shape of gender history.
+    3. An attempt was made to research and compile an archive of women's writing.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1, 2 and 3", C: "2 and 3 only", D: "1 and 3 only", E: "None of the above" }
+  answer: B
+  explanation: "All three statements are made in the book's section on feminist historiography."
+  source: "Spectrum (2019-20), pp. 18-19"
+  tags: [bpsc]
+
+- slug: smi-02-h10
+  difficulty: hard
+  stem: "According to Percival Spear, histories of India have become very frequent for a two-fold reason. What is it?"
+  options: { A: "Changes in the Indian scene requiring reinterpretation of facts, and changes in historians' attitudes about the essentials of Indian history", B: "Discovery of new archives, and the growth of the publishing industry", C: "The end of colonial rule, and the rise of the Marxist school", D: "Demand from universities, and the rise of nationalism" }
+  answer: A
+  explanation: "Spear attributes it to changes in the Indian scene requiring a reinterpretation of facts and changes in historians' attitudes about the essential elements of Indian history."
+  source: "Spectrum (2019-20), p. 13"
+  tags: [ssc]

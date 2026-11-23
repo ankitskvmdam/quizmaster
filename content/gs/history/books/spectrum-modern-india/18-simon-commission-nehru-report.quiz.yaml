@@ -1,0 +1,337 @@
+# Chapter 18 — Simon Commission and the Nehru Report (book pp. 357-365)
+# ---------- EASY ----------
+- slug: smi-18-e01
+  difficulty: easy
+  stem: "The Simon Commission was set up in November 1927 under the prime ministership of"
+  options: { A: "Stanley Baldwin", B: "Ramsay MacDonald", C: "Lloyd George", D: "Winston Churchill" }
+  answer: A
+  explanation: "The commission was set up by the British government under Stanley Baldwin's prime ministership on November 8, 1927."
+  source: "Spectrum (2019-20), p. 357"
+  tags: [ssc]
+
+- slug: smi-18-e02
+  difficulty: easy
+  stem: "On which date did the Simon Commission land in Bombay, met by a countrywide hartal?"
+  options: { A: "November 8, 1927", B: "February 3, 1928", C: "November 17, 1928", D: "May 1930" }
+  answer: B
+  explanation: "The commission landed in Bombay on February 3, 1928, when a countrywide hartal was organised."
+  source: "Spectrum (2019-20), p. 358"
+  tags: [ssc]
+
+- slug: smi-18-e03
+  difficulty: easy
+  stem: "Who presided over the Madras session of the Congress (December 1927) that decided to boycott the Simon Commission?"
+  options: { A: "Motilal Nehru", B: "Jawaharlal Nehru", C: "M.A. Ansari", D: "Subhash Bose" }
+  answer: C
+  explanation: "The Madras session met under the presidency of M.A. Ansari and resolved to boycott the commission 'at every stage and in every form'."
+  source: "Spectrum (2019-20), p. 358"
+  tags: [ssc]
+
+- slug: smi-18-e04
+  difficulty: easy
+  stem: "Lala Lajpat Rai, injured in a lathi-charge during the anti-Simon protests, died on"
+  options: { A: "October 30, 1928", B: "December 17, 1928", C: "February 3, 1928", D: "November 17, 1928" }
+  answer: D
+  explanation: "Lajpat Rai received severe blows on his chest in October 1928 and died on November 17, 1928."
+  source: "Spectrum (2019-20), p. 360"
+  tags: [ssc]
+
+- slug: smi-18-e05
+  difficulty: easy
+  stem: "The sub-committee appointed by the All Parties Conference in 1928 to draft a constitution was chaired by"
+  options: { A: "Motilal Nehru", B: "Jawaharlal Nehru", C: "Tej Bahadur Sapru", D: "Subhash Bose" }
+  answer: A
+  explanation: "The All Parties Conference (February 1928) appointed a sub-committee under the chairmanship of Motilal Nehru."
+  source: "Spectrum (2019-20), p. 361"
+  tags: [ssc]
+
+- slug: smi-18-e06
+  difficulty: easy
+  stem: "How many fundamental rights did the Nehru Report recommend?"
+  options: { A: "14", B: "19", C: "21", D: "12" }
+  answer: B
+  explanation: "The Nehru Report recommended nineteen fundamental rights, including equal rights for women and universal adult suffrage."
+  source: "Spectrum (2019-20), p. 362"
+  tags: [ssc]
+
+- slug: smi-18-e07
+  difficulty: easy
+  stem: "How many members did the Indian Statutory Commission (Simon Commission) have?"
+  options: { A: "Five", B: "Six", C: "Seven", D: "Nine" }
+  answer: C
+  explanation: "It was an all-white, seven-member commission."
+  source: "Spectrum (2019-20), p. 357"
+  tags: [ssc]
+
+- slug: smi-18-e08
+  difficulty: easy
+  stem: "Jinnah gave his Fourteen Points in"
+  options: { A: "December 1927", B: "August 1928", C: "December 1928", D: "March 1929" }
+  answer: D
+  explanation: "After his amendments were rejected, Jinnah returned to the Shafi faction and gave the fourteen points in March 1929."
+  source: "Spectrum (2019-20), p. 364"
+  tags: [ssc]
+
+- slug: smi-18-e09
+  difficulty: easy
+  stem: "Jawaharlal Nehru and Subhash Bose, unhappy with the dominion status goal of the Nehru Report, jointly set up the"
+  options: { A: "Hindustani Sewa Dal", B: "Independence for India League", C: "Swarajist Party", D: "Punjab Naujawan Bharat Sabha" }
+  answer: B
+  explanation: "Nehru and Bose rejected the modified goal and jointly set up the Independence for India League."
+  source: "Spectrum (2019-20), p. 365"
+  tags: [ssc]
+
+- slug: smi-18-e10
+  difficulty: easy
+  stem: "Which Secretary of State for India was responsible for the appointment of the Simon Commission?"
+  options: { A: "Lord Irwin", B: "Edwin Montagu", C: "Lord Birkenhead", D: "Lord Reading" }
+  answer: C
+  explanation: "The Conservative Secretary of State, Lord Birkenhead, was responsible for appointing the Simon Commission."
+  source: "Spectrum (2019-20), p. 358"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-18-m01
+  difficulty: medium
+  stem: |
+    Match List I (commission) with List II (subject of inquiry) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Lee Commission | 1. Crisis of Indian agriculture |
+    | b. Muddiman Commission | 2. Working of the 1919 Act and further reforms |
+    | c. Linlithgow Commission | 3. Failure to recruit enough British officers |
+    | d. Simon Commission | 4. Deadlock within the diarchic dispensation |
+  options: { A: "a-3, b-4, c-1, d-2", B: "a-4, b-3, c-1, d-2", C: "a-3, b-4, c-2, d-1", D: "a-1, b-4, c-3, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Lee: recruitment of British officers; Muddiman: deadlock in dyarchy; Linlithgow: agricultural crisis; Simon: whether India was ready for further reforms."
+  source: "Spectrum (2019-20), p. 357"
+  tags: [bpsc]
+
+- slug: smi-18-m02
+  difficulty: medium
+  stem: "The 1927 Muslim League session at Lahore, which supported the government on the Simon Commission, was held under"
+  options: { A: "Muhammad Ali Jinnah", B: "Ali Imam", C: "Shuab Qureshi", D: "Muhammad Shafi" }
+  answer: D
+  explanation: "The League held two sessions in 1927: Jinnah's at Calcutta opposed the commission; Muhammad Shafi's at Lahore supported the government."
+  source: "Spectrum (2019-20), p. 358"
+  tags: [ssc]
+
+- slug: smi-18-m03
+  difficulty: medium
+  stem: "Which of the following decided NOT to boycott the Simon Commission?"
+  options: { A: "Justice Party", B: "Indian National Congress", C: "Muslim League faction under Jinnah", D: "Hindu Mahasabha", E: "More than one of the above" }
+  answer: A
+  explanation: "The Unionists in Punjab and the Justice Party in the south did not boycott; the Congress, Jinnah's League faction and the Hindu Mahasabha did."
+  source: "Spectrum (2019-20), p. 358"
+  tags: [bpsc]
+
+- slug: smi-18-m04
+  difficulty: medium
+  stem: "During the anti-Simon demonstrations, Jawaharlal Nehru and G.B. Pant were beaten up by the police in"
+  options: { A: "Lahore", B: "Allahabad", C: "Lucknow", D: "Bombay" }
+  answer: C
+  explanation: "The book notes that Jawaharlal Nehru and G.B. Pant were beaten up in Lucknow."
+  source: "Spectrum (2019-20), p. 360"
+  tags: [ssc]
+
+- slug: smi-18-m05
+  difficulty: medium
+  stem: "Dr Ambedkar submitted a memorandum to the Simon Commission on the rights of the depressed classes on behalf of the"
+  options: { A: "Satyashodhak Samaj", B: "Bahishkrita Hitakarini Sabha", C: "Justice Party", D: "Unionist Party" }
+  answer: B
+  explanation: "On behalf of the Bahishkrita Hitakarini Sabha, Ambedkar submitted a memorandum on safeguards for the depressed classes."
+  source: "Spectrum (2019-20), p. 359"
+  tags: [ssc]
+
+- slug: smi-18-m06
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Publication of the Simon Commission report
+    2. All Parties Conference at Calcutta to consider the Nehru Report
+    3. Appointment of the Simon Commission
+    4. All Parties Conference appointing the Motilal Nehru sub-committee
+
+    Select the correct answer using the code given below:
+  options: { A: "3-4-1-2", B: "4-3-2-1", C: "3-4-2-1", D: "3-2-4-1", E: "None of the above" }
+  answer: C
+  explanation: "Appointment (November 1927), sub-committee (February 1928), Calcutta conference (December 1928), report (May 1930)."
+  source: "Spectrum (2019-20), pp. 357, 360-361, 364"
+  tags: [bpsc]
+
+- slug: smi-18-m07
+  difficulty: medium
+  stem: "Which of the following was a recommendation of the Simon Commission report?"
+  options: { A: "Universal franchise", B: "Parliamentary responsibility at the Centre", C: "Abolition of separate communal electorates", D: "Abolition of dyarchy and representative government in the provinces" }
+  answer: D
+  explanation: "It proposed abolishing dyarchy with autonomous representative provincial governments; it rejected central responsibility and universal franchise and kept separate electorates."
+  source: "Spectrum (2019-20), pp. 360-361"
+  tags: [ssc]
+
+- slug: smi-18-m08
+  difficulty: medium
+  stem: "According to the Nehru Report, the Senate at the Centre was to have"
+  options: { A: "200 members and a tenure of 7 years", B: "500 members and a tenure of 5 years", C: "200 members and a tenure of 5 years", D: "250 members and a tenure of 6 years" }
+  answer: A
+  explanation: "The report proposed a 200-member Senate (7 years) elected by provincial councils and a 500-member House of Representatives (5 years)."
+  source: "Spectrum (2019-20), p. 362"
+  tags: [ssc]
+
+- slug: smi-18-m09
+  difficulty: medium
+  stem: "Which of the following was NOT among the 'Delhi Proposals' of Muslim leaders (December 1927)?"
+  options: { A: "Joint electorates with reserved seats for Muslims", B: "One-third representation to Muslims in the Central Legislative Assembly", C: "Formation of Sindh, Baluchistan and NWFP as Muslim-majority provinces", D: "Retention of separate electorates" }
+  answer: D
+  explanation: "The Delhi Proposals asked for joint electorates in place of separate electorates; separate electorates were later part of Jinnah's Fourteen Points."
+  source: "Spectrum (2019-20), p. 363"
+  tags: [ssc]
+
+- slug: smi-18-m10
+  difficulty: medium
+  stem: "Which of the following was NOT one of Jinnah's three amendments to the Nehru Report at the Calcutta All Parties Conference (December 1928)?"
+  options: { A: "One-third representation to Muslims in the central legislature", B: "Separation of Sindh from Bombay", C: "Reservation for Muslims in Bengal and Punjab in proportion to population till adult suffrage", D: "Residual powers to the provinces" }
+  answer: B
+  explanation: "Jinnah's three amendments were one-third central representation, proportional reservation in Bengal and Punjab, and residual powers to provinces."
+  source: "Spectrum (2019-20), p. 364"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-18-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about Dr Ambedkar's evidence before the Simon Commission:
+
+    1. He argued for universal adult franchise for men and women, provincial autonomy and dyarchy at the Centre.
+    2. He said the depressed classes should be regarded as a distinct and independent minority.
+    3. He demanded separate electorates for the depressed classes even if universal adult franchise was granted.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. He wanted reserved seats if universal franchise was granted and a separate electorate only if it was not."
+  source: "Spectrum (2019-20), p. 359"
+  tags: [bpsc]
+
+- slug: smi-18-h02
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Indian response to the Simon Commission was immediate and nearly unanimous opposition.
+
+    **Reason (R):** Indians were excluded from the commission, implying that foreigners would decide India's fitness for self-government.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says what angered Indians most was their exclusion and the notion that foreigners would decide India's fitness for self-government."
+  source: "Spectrum (2019-20), p. 358"
+  tags: [bpsc]
+
+- slug: smi-18-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Simon Commission report:
+
+    1. The governor-general was to have complete power to appoint the members of the cabinet.
+    2. NWFP and Baluchistan were to get local legislatures and the right to be represented at the Centre.
+    3. It recommended that federalism be introduced immediately.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The report accepted federalism but not in the near future, suggesting a Consultative Council of Greater India."
+  source: "Spectrum (2019-20), p. 361"
+  tags: [bpsc]
+
+- slug: smi-18-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Nehru Report:
+
+    1. It proposed reservation of seats for Muslims at the Centre and in provinces where they were in a minority, but not in Punjab and Bengal.
+    2. It called for complete dissociation of the State from religion.
+    3. It recommended linguistic provinces.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are among the main recommendations of the Nehru Report listed in the book."
+  source: "Spectrum (2019-20), p. 362"
+  tags: [bpsc]
+
+- slug: smi-18-h05
+  difficulty: hard
+  stem: |
+    Which of the following were concessions made to Hindu communalists in the Nehru Report?
+
+    1. Sindh to be detached from Bombay only after dominion status was granted, subject to weightage for the Hindu minority in Sindh.
+    2. A broadly unitary structure, with residual powers resting with the Centre.
+    3. Retention of separate electorates in Punjab and Bengal.
+
+    Select the correct answer using the code given below:
+  options: { A: "1 and 2 only", B: "2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 2 are concessions listed in the book. The report proposed joint electorates everywhere, not separate electorates."
+  source: "Spectrum (2019-20), pp. 363-364"
+  tags: [bpsc]
+
+- slug: smi-18-h06
+  difficulty: hard
+  stem: |
+    Consider the following with reference to Jinnah's Fourteen Points:
+
+    1. One-third of any cabinet at the Centre or in the provinces to be Muslims.
+    2. No bill to be passed if three-fourths of a minority community considered it against their interests.
+    3. Joint electorates with reservation of seats for Muslims.
+
+    Which of the above were part of the Fourteen Points?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Points 1 and 2 were in the Fourteen Points. Jinnah's eighth point demanded separate electorates."
+  source: "Spectrum (2019-20), p. 364"
+  tags: [bpsc]
+
+- slug: smi-18-h07
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Nehru Report recommended dominion status as the form of government desired by Indians.
+
+    **Reason (R):** The Nehru Report confined itself to British India, envisaging a future federal link-up with the princely states.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "Both are stated in the book, but its scope being limited to British India does not explain the choice of dominion status."
+  source: "Spectrum (2019-20), p. 362"
+  tags: [bpsc]
+
+- slug: smi-18-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. The appointment of the Simon Commission gave a stimulus to radical forces demanding major socio-economic reforms on socialist lines.
+    2. The Hindustani Sewa Dal, which emerged during the youth upsurge, was based in Karnataka.
+    3. At the Madras session of 1927, Nehru got a snap resolution passed declaring complete independence as the Congress goal.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three statements are made in the book."
+  source: "Spectrum (2019-20), pp. 358, 360"
+  tags: [bpsc]
+
+- slug: smi-18-h09
+  difficulty: hard
+  stem: "Which of the following is NOT named in the book as a member of the Motilal Nehru committee that drafted the Nehru Report?"
+  options: { A: "Ali Imam", B: "M.S. Aney", C: "M.A. Ansari", D: "G.R. Pradhan", E: "More than one of the above" }
+  answer: C
+  explanation: "The committee included Tej Bahadur Sapru, Subhash Bose, M.S. Aney, Mangal Singh, Ali Imam, Shuab Qureshi and G.R. Pradhan; M.A. Ansari was the Madras session president."
+  source: "Spectrum (2019-20), p. 361"
+  tags: [bpsc]
+
+- slug: smi-18-h10
+  difficulty: hard
+  stem: "The Simon Commission report granted reserved seats to the depressed classes, but on what condition?"
+  options: { A: "Candidates had first to get their competence endorsed by the governor of the province", B: "Only after universal adult franchise was introduced", C: "Only through separate electorates", D: "Only if nominated by the Bahishkrita Hitakarini Sabha" }
+  answer: A
+  explanation: "Candidates first had to get their competence endorsed by the provincial governor, which displeased Ambedkar; the report remained a dead letter."
+  source: "Spectrum (2019-20), p. 359"
+  tags: [ssc]
