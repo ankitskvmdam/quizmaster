@@ -8,22 +8,22 @@ insert into public.allowed_emails (email) values ('u1@test.dev'), ('u2@test.dev'
 insert into auth.users (id, email) values
   ('11111111-1111-1111-1111-111111111111', 'u1@test.dev'),
   ('22222222-2222-2222-2222-222222222222', 'u2@test.dev');
-insert into public.subjects (id, slug, name) values ('a0000000-0000-0000-0000-000000000001', 'gs', 'General Studies');
+insert into public.subjects (id, slug, name) values ('a0000000-0000-0000-0000-000000000001', 'zz-test-gs', 'Test subject');
 insert into public.topics (id, subject_id, slug, name, position) values
   ('b0000000-0000-0000-0000-000000000001', 'a0000000-0000-0000-0000-000000000001', 'percentages', 'Percentages', 1),
   ('b0000000-0000-0000-0000-000000000002', 'a0000000-0000-0000-0000-000000000001', 'ratios', 'Ratios', 2);
 insert into public.questions (id, slug, topic_id, stem_md, options, correct_key, explanation_md) values
-  ('c0000000-0000-0000-0000-000000000001', 'q1', 'b0000000-0000-0000-0000-000000000001', 'Q1',
+  ('c0000000-0000-0000-0000-000000000001', 'zz-q1', 'b0000000-0000-0000-0000-000000000001', 'Q1',
    '[{"key":"A","text_md":"a"},{"key":"B","text_md":"b"},{"key":"C","text_md":"c"},{"key":"D","text_md":"d"}]', 'B', 'Because B'),
-  ('c0000000-0000-0000-0000-000000000002', 'q2', 'b0000000-0000-0000-0000-000000000001', 'Q2',
+  ('c0000000-0000-0000-0000-000000000002', 'zz-q2', 'b0000000-0000-0000-0000-000000000001', 'Q2',
    '[{"key":"A","text_md":"a"},{"key":"B","text_md":"b"},{"key":"C","text_md":"c"},{"key":"D","text_md":"d"}]', 'A', 'Because A'),
-  ('c0000000-0000-0000-0000-000000000003', 'q3', 'b0000000-0000-0000-0000-000000000001', 'Q3',
+  ('c0000000-0000-0000-0000-000000000003', 'zz-q3', 'b0000000-0000-0000-0000-000000000001', 'Q3',
    '[{"key":"A","text_md":"a"},{"key":"B","text_md":"b"},{"key":"C","text_md":"c"},{"key":"D","text_md":"d"}]', 'C', 'Because C'),
-  ('c0000000-0000-0000-0000-000000000004', 'q4', 'b0000000-0000-0000-0000-000000000002', 'Q4',
+  ('c0000000-0000-0000-0000-000000000004', 'zz-q4', 'b0000000-0000-0000-0000-000000000002', 'Q4',
    '[{"key":"A","text_md":"a"},{"key":"B","text_md":"b"}]', 'A', 'Because A');
 insert into public.tests (id, slug, title, kind, subject_id, duration_sec, marks_correct, marks_wrong, published_at) values
-  ('d0000000-0000-0000-0000-000000000001', 'mock-1', 'Mock 1', 'mock', 'a0000000-0000-0000-0000-000000000001', 600, 2, -0.66, now()),
-  ('d0000000-0000-0000-0000-000000000002', 'practice-only', 'Practice only', 'mock', 'a0000000-0000-0000-0000-000000000001', null, 1, 0, now());
+  ('d0000000-0000-0000-0000-000000000001', 'zz-mock-1', 'Mock 1', 'mock', 'a0000000-0000-0000-0000-000000000001', 600, 2, -0.66, now()),
+  ('d0000000-0000-0000-0000-000000000002', 'zz-practice-only', 'Practice only', 'mock', 'a0000000-0000-0000-0000-000000000001', null, 1, 0, now());
 insert into public.test_questions (test_id, question_id, position) values
   ('d0000000-0000-0000-0000-000000000001', 'c0000000-0000-0000-0000-000000000001', 1),
   ('d0000000-0000-0000-0000-000000000001', 'c0000000-0000-0000-0000-000000000002', 2),
