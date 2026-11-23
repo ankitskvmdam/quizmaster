@@ -1,0 +1,9 @@
+slug: broken
+title: Broken test
+kind: mock
+subject: gs
+duration_min: 10
+marks: { correct: 1, wrong: 0 }
+questions:
+  - dup-001
+  - nope-001

@@ -1,0 +1,60 @@
+# A sample in the previous-year-paper format. These are original questions, not from an official paper.
+slug: sample-pyq-2024
+title: Sample CSAT-style paper 2024
+kind: pyq
+subject: gs
+year: 2024
+duration_min: 10
+marks: { correct: 2.5, wrong: -0.83 }
+questions:
+  - slug: pyq-2024-01
+    topic: gs/percentages
+    difficulty: medium
+    source: Sample (not an official paper)
+    stem: A shopkeeper marks his goods $40\%$ above cost price and then gives a $25\%$ discount. What is his profit or loss?
+    options: { A: "$5\\%$ profit", B: "$5\\%$ loss", C: "$15\\%$ profit", D: "$10\\%$ profit" }
+    answer: A
+    explanation: |
+      Selling price $= 1.4 \times 0.75 = 1.05$ times cost, so he makes a $5\%$ profit.
+
+  - slug: pyq-2024-02
+    topic: gs/percentages
+    difficulty: medium
+    source: Sample (not an official paper)
+    stem: Two numbers are $20\%$ and $50\%$ more than a third number. The first is what percent of the second?
+    options: { A: "$75\\%$", B: "$80\\%$", C: "$70\\%$", D: "$60\\%$" }
+    answer: B
+    explanation: |
+      Let the third number be $100$. The two numbers are $120$ and $150$, and $\dfrac{120}{150} \times 100 = 80\%$.
+
+  - slug: pyq-2024-03
+    topic: gs/percentages
+    difficulty: hard
+    source: Sample (not an official paper)
+    stem: A man spends $75\%$ of his income. His income rises by $20\%$ and his spending by $10\%$. By what percent do his savings rise?
+    options: { A: "$10\\%$", B: "$25\\%$", C: "$37.5\\%$", D: "$50\\%$" }
+    answer: D
+    explanation: |
+      Let income be $100$: spending $75$, savings $25$.
+      New income $120$, new spending $82.5$, new savings $37.5$.
+      Savings rose by $12.5$, and $\dfrac{12.5}{25} \times 100 = 50\%$.
+
+  - slug: pyq-2024-04
+    topic: gs/percentages
+    difficulty: hard
+    source: Sample (not an official paper)
+    stem: In a class, $60\%$ of the students are boys. $25\%$ of the boys and $50\%$ of the girls passed. What percentage of the class failed?
+    options: { A: "$35\\%$", B: "$60\\%$", C: "$65\\%$", D: "$70\\%$" }
+    answer: C
+    explanation: |
+      Passed $= 0.6 \times 25\% + 0.4 \times 50\% = 15\% + 20\% = 35\%$. So $65\%$ failed.
+
+  - slug: pyq-2024-05
+    topic: gs/percentages
+    difficulty: medium
+    source: Sample (not an official paper)
+    stem: The price of an item is cut by $10\%$ and its sales rise by $20\%$. What is the effect on revenue?
+    options: { A: "$8\\%$ increase", B: "$10\\%$ increase", C: "$8\\%$ decrease", D: "$2\\%$ increase" }
+    answer: A
+    explanation: |
+      Revenue is price × quantity: $0.9 \times 1.2 = 1.08$, an $8\%$ increase.

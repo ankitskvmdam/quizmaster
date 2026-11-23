@@ -1,0 +1,127 @@
+# Percentages question bank. Every answer is worked out in its explanation.
+
+# --- easy ---------------------------------------------------------------
+- slug: pct-001
+  difficulty: easy
+  stem: What is $15\%$ of $240$?
+  options: { A: "32", B: "36", C: "38", D: "42" }
+  answer: B
+  explanation: |
+    $\dfrac{15}{100} \times 240 = 0.15 \times 240 = 36$.
+
+- slug: pct-002
+  difficulty: easy
+  stem: $45$ is what percent of $180$?
+  options: { A: "$20\\%$", B: "$22.5\\%$", C: "$25\\%$", D: "$30\\%$" }
+  answer: C
+  explanation: |
+    $\dfrac{45}{180} \times 100 = \dfrac{1}{4} \times 100 = 25\%$.
+
+- slug: pct-003
+  difficulty: easy
+  stem: Write $\dfrac{3}{8}$ as a percentage.
+  options: { A: "$33.3\\%$", B: "$35\\%$", C: "$37.5\\%$", D: "$38\\%$" }
+  answer: C
+  explanation: |
+    $\dfrac{1}{8} = 12.5\%$, so $\dfrac{3}{8} = 3 \times 12.5\% = 37.5\%$.
+
+- slug: pct-004
+  difficulty: easy
+  stem: A price rises from ₹400 to ₹460. What is the percentage increase?
+  options: { A: "$12\\%$", B: "$13\\%$", C: "$15\\%$", D: "$60\\%$" }
+  answer: C
+  explanation: |
+    The increase is $460 - 400 = 60$. Against the original: $\dfrac{60}{400} \times 100 = 15\%$.
+
+- slug: pct-005
+  difficulty: easy
+  stem: $20\%$ of a number is $36$. What is the number?
+  options: { A: "160", B: "172", C: "180", D: "200" }
+  answer: C
+  explanation: |
+    $36 \div 0.2 = 180$. Check: $20\%$ of $180$ is $36$.
+
+# --- medium -------------------------------------------------------------
+- slug: pct-006
+  difficulty: medium
+  stem: A number is increased by $20\%$ and then decreased by $20\%$. What is the net change?
+  options: { A: "No change", B: "$4\\%$ decrease", C: "$4\\%$ increase", D: "$2\\%$ decrease" }
+  answer: B
+  explanation: |
+    $1.2 \times 0.8 = 0.96$, so the number ends $4\%$ lower.
+    With the formula: $20 - 20 + \dfrac{20 \times (-20)}{100} = -4$.
+
+- slug: pct-007
+  difficulty: medium
+  stem: A's salary is $25\%$ more than B's. By what percent is B's salary less than A's?
+  options: { A: "$20\\%$", B: "$25\\%$", C: "$15\\%$", D: "$22.5\\%$" }
+  answer: A
+  explanation: |
+    Let B $= 100$, so A $= 125$. B is $25$ less than A, and $\dfrac{25}{125} \times 100 = 20\%$.
+
+- slug: pct-008
+  difficulty: medium
+  stem: The price of sugar rises by $25\%$. By what percent must a family cut its consumption to spend the same amount?
+  options: { A: "$25\\%$", B: "$20\\%$", C: "$18\\%$", D: "$15\\%$" }
+  answer: B
+  explanation: |
+    Cut $= \dfrac{r}{100 + r} \times 100 = \dfrac{25}{125} \times 100 = 20\%$.
+
+- slug: pct-009
+  difficulty: medium
+  stem: In an election between two candidates, the winner gets $58\%$ of the valid votes and wins by $1{,}920$ votes. How many valid votes were cast?
+  options: { A: "10,000", B: "11,520", C: "12,000", D: "13,200" }
+  answer: C
+  explanation: |
+    The loser gets $42\%$, so the margin is $58\% - 42\% = 16\%$ of the valid votes.
+    $16\% = 1{,}920$, so $100\% = 1{,}920 \div 0.16 = 12{,}000$.
+
+- slug: pct-010
+  difficulty: medium
+  stem: A student needs $40\%$ to pass. She scores $178$ marks and fails by $22$ marks. What are the maximum marks?
+  options: { A: "450", B: "500", C: "550", D: "600" }
+  answer: B
+  explanation: |
+    The pass mark is $178 + 22 = 200$, which is $40\%$ of the maximum. So the maximum is $200 \div 0.4 = 500$.
+
+- slug: pct-011
+  difficulty: medium
+  stem: A town of $50{,}000$ people grows by $10\%$ every year. What is its population after $2$ years?
+  options: { A: "60,000", B: "60,500", C: "61,000", D: "55,000" }
+  answer: B
+  explanation: |
+    $50{,}000 \times 1.1^2 = 50{,}000 \times 1.21 = 60{,}500$.
+    Adding $10\% + 10\% = 20\%$ gives $60{,}000$, which misses the growth on the first year's growth.
+
+# --- hard ---------------------------------------------------------------
+- slug: pct-012
+  difficulty: hard
+  stem: Successive discounts of $20\%$ and $10\%$ are equal to a single discount of
+  options: { A: "$30\\%$", B: "$28\\%$", C: "$27\\%$", D: "$26\\%$" }
+  answer: B
+  explanation: |
+    The price is multiplied by $0.8 \times 0.9 = 0.72$, so the buyer pays $72\%$: a single discount of $28\%$.
+
+- slug: pct-013
+  difficulty: hard
+  stem: The length of a rectangle increases by $20\%$ and its breadth decreases by $10\%$. What happens to its area?
+  options: { A: "$10\\%$ increase", B: "$8\\%$ increase", C: "$8\\%$ decrease", D: "$2\\%$ increase" }
+  answer: B
+  explanation: |
+    Area is length × breadth, so the factors multiply: $1.2 \times 0.9 = 1.08$, an $8\%$ increase.
+
+- slug: pct-014
+  difficulty: hard
+  stem: After a $12\%$ increase followed by a $25\%$ increase, a value becomes $2{,}800$. What was the original value?
+  options: { A: "1,960", B: "2,000", C: "2,100", D: "2,240" }
+  answer: B
+  explanation: |
+    Combined factor: $1.12 \times 1.25 = 1.4$. Original $= 2{,}800 \div 1.4 = 2{,}000$.
+
+- slug: pct-015
+  difficulty: hard
+  stem: $x$ is $25\%$ of $y$, and $y$ is $40\%$ of $z$. What percent of $z$ is $x$?
+  options: { A: "$10\\%$", B: "$15\\%$", C: "$65\\%$", D: "$16\\%$" }
+  answer: A
+  explanation: |
+    $x = 0.25y$ and $y = 0.4z$, so $x = 0.25 \times 0.4 \times z = 0.1z$, which is $10\%$ of $z$.
