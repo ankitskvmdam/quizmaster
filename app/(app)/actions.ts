@@ -3,6 +3,7 @@
 import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
+import { parseBuilder } from '@/lib/builder'
 
 export type ActionResult = { error: string } | undefined
 
@@ -49,4 +50,26 @@ async function startCustom(
   const started = await supabase.rpc('start_attempt', { p_test_id: created.data, p_mode: mode })
   if (started.error) return { error: message(started.error) }
   redirect(`/attempt/${started.data}`)
+}
+
+/** The New tab's test builder. */
+export async function createCustomTest(_prev: ActionResult, formData: FormData): Promise<ActionResult> {
+  const parsed = parseBuilder(formData)
+  if (!parsed.ok) return { error: parsed.error }
+  const { topicIds, count, durationSec, mode } = parsed.value
+  return startCustom(topicIds, count, durationSec, mode)
+}
+
+/** Ten untimed questions from topics the person has read; from every topic if they haven't read any yet. */
+export async function startQuickPractice(): Promise<ActionResult> {
+  const supabase = await createClient()
+  const { data: read, error } = await supabase.from('lesson_progress').select('lessons(topic_id)')
+  if (error) return { error: 'Something went wrong. Try again.' }
+  let topicIds = [...new Set(read.map((r) => r.lessons?.topic_id).filter((t): t is string => Boolean(t)))]
+  if (!topicIds.length) {
+    const { data: all, error: tErr } = await supabase.from('topics').select('id')
+    if (tErr) return { error: 'Something went wrong. Try again.' }
+    topicIds = all.map((t) => t.id)
+  }
+  return startCustom(topicIds, 10, null, 'practice')
 }
