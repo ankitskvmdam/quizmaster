@@ -1,291 +1,217 @@
 ---
 name: book-to-content
-description: Turn a book PDF (in resources/) into QuizMaster study material — per-chapter gist, key facts and easy/medium/hard MCQs in English, then a translation (Hindi by default). Use when the owner asks to "create content from a book", "process this PDF", or "translate a book's content".
-argument-hint: <pdf path> [subject] [exams] [translate-to]
+description: One command turns a book PDF in resources/ into finished QuizMaster content — per-chapter gist, key facts and easy/medium/hard MCQs in English, then a checked Hindi translation, validated and loaded into the LOCAL database on a new git branch. Use when the owner says "create content from a book", "process this PDF", "/book-to-content <pdf>", or asks to translate a book's content.
+argument-hint: <pdf path> [subject/group, e.g. history/modern] [book-slug]
 ---
 
-# Book PDF → QuizMaster content
+# Book PDF → QuizMaster content (one command)
 
-Turns one book into chapter gists, key facts and practice questions for exam preparation (BPSC prelims, SSC
-CGL/CHSL general awareness), written straight into this repo's content format. It works in two phases: **first
-everything in English, then the translation.**
+`/book-to-content resources/<book>.pdf` runs the whole pipeline without stopping:
 
-**Run it in its own session.** A whole book is a long job, so don't run it inside a session that is doing other work.
-Either open a new Claude Code session in this repo and run `/book-to-content resources/<book>.pdf`, or have the main
-session start a background agent whose prompt is "Follow `.claude/skills/book-to-content/SKILL.md` for <pdf>…".
+1. **Set up:** work out the book, the subject, the slugs and the chapter list.
+2. **English:** a gist, key facts and leveled questions for every chapter, from the book only.
+3. **Hindi:** translate the English files, checked against them field by field and number by number.
+4. **Finish:** final checks, load into the **local** database, commit on a new branch, and report.
 
-## Inputs (ask only for what you can't infer)
+It never touches production and never pushes git. The owner reviews locally, then asks for production separately.
 
-| Input | Default |
+**Work like an orchestrator.** You (the session that got the command) plan, brief, check and report. Parallel
+sub-agents do the chapter work in batches (Agent tool, `general-purpose`), so a 40-chapter book finishes in about an
+hour instead of many. If you have no Agent tool, do the batches yourself, one after another, in the same way.
+
+**Don't stop to ask.** Decide anything the book leaves open, write it in the report, and carry on. Stop only if the PDF
+can't be read at all.
+
+The binding file format is `docs/content-format.md`. Read it first.
+
+## Step 0: Set up
+
+| Decide | How |
 |---|---|
-| PDF | `resources/<file>.pdf` (`resources/` is git-ignored: books are copyrighted and never committed) |
-| Book title, author, edition | read from the title page |
-| Course / subject / note group the book covers | `gs` / ask, e.g. `history` / e.g. `modern` |
-| Book slug | short kebab-case, e.g. `spectrum-modern-india` |
-| Exams | BPSC prelims and SSC CGL/CHSL |
-| Questions per chapter | 30: 10 easy, 10 medium, 10 hard (more for long or dense chapters, keeping about a third at each level) |
-| Gist length | 300–500 words |
-| Translation language | Hindi (`hi`) |
+| Book title, author, editor, edition | from the title page and the imprint page |
+| Subject and note group (`covers`) | from the argument, else from the book's subject: e.g. modern Indian history → `history/modern`. If the group folder is missing, create its `topic.yaml` |
+| Book slug | the argument, else short kebab-case from publisher and title (e.g. `spectrum-modern-india`) |
+| Question slug prefix | 2–4 letters (e.g. `smi`). Make sure no existing question slug starts with it: `grep -r "slug: <prefix>-" content` |
+| Exams | BPSC prelims and SSC CGL/CHSL general awareness |
+| Language | English first, then Hindi (`hi`) |
 
-The subject and the note group must already exist (`content/<course>/<subject>/<group>/topic.yaml`). If the group is
-missing, create its `topic.yaml` (see `docs/content-format.md`) and say so in the report.
+**Workspace:** `.superpowers/sdd/book-<book-slug>/` (git-ignored). It holds `progress.md`, the briefs, the extracted
+text and the report. If `progress.md` already exists, **resume**: never redo a chapter it marks done.
 
-**Read `docs/content-format.md` first.** It is the binding spec for every file you write.
+**Read the PDF as text.** The Read tool may fail on PDFs (no `pdftoppm`). Use `pdftotext`, which works in Git Bash:
 
-## Phase 1: English
+- **Find the page offset:** extract the contents pages, e.g.
+  `pdftotext -layout -enc UTF-8 -f 1 -l 40 "<pdf>" ".superpowers/sdd/book-<slug>/front.txt"`, then read that file with
+  the Read tool. Compare the printed page numbers with the PDF page numbers (Spectrum: PDF = printed + 32).
+- **Extract every chapter to its own file:**
+  `pdftotext -layout -enc UTF-8 -f <first PDF page> -l <last> "<pdf>" ".superpowers/sdd/book-<slug>/text/NN.txt"`.
+- **Read text files whole, with the Read tool.** Never pipe them through `grep`, `sed` or `awk` filters: the first
+  Spectrum run silently lost every line containing ₹, £, an em dash or an accented letter that way.
+- **Scanned pages** (empty text): read those pages as images. If a page can't be read either way, record it and
+  never guess its content.
 
-### How to work through the book
+Write `progress.md` with the chapter list (number, title, printed pages, PDF pages), the offset and the slugs, plus
+`book.yaml` in `content/<course>/<subject>/books/<book-slug>/`. Skip appendices that are only reference tables, and
+say so in the report.
 
-Start with the table of contents. List the chapters with their page ranges in the progress file, along with the
-offset between PDF page and printed page. Then handle **one chapter at a time**: read the chapter in full, write its
-gist and questions, validate them, and only then move to the next chapter.
+## Step 1: English
 
-- Don't write anything for a chapter you haven't actually read in this session.
-- Don't fill gaps from general knowledge. The owner revises from your output instead of the book, so anything that
-  differs from the book is a mistake they'll carry into the exam.
-- Read the PDF with the Read tool's `pages` parameter, at most 20 pages per call.
-  - If the text is garbled or the pages are scanned, read the pages as images.
-  - If pages are unreadable, record which ones. Never guess their content.
-- Always cite the **printed** page number, not the PDF page number.
+Copy the **English brief** below into `.superpowers/sdd/book-<slug>/brief-en.md`, with the paths, slugs and prefix
+filled in. Then start parallel sub-agents, each with a disjoint batch of chapters: about 3–4 chapters each, at most
+about 10 agents, with long chapters alone. Each prompt is: "Follow `<brief-en.md>` for chapters <list>. Return the
+per-chapter summary it asks for."
 
-### The gist
+Write chapter 1 yourself first, or have the first agent do it and check it before starting the rest. The other agents
+then use it as the model for depth and style.
 
-Write a last-day-revision gist of 300–500 words. Prioritise what examiners ask about:
-- names, dates, places and numbers;
-- definitions, articles and acts;
-- causes and consequences;
-- firsts and superlatives;
-- anything connected to Bihar.
+When all agents are done:
+- run `npm run content:push -- --dry` and fix what it reports;
+- spot-check about 10 hard questions against the extracted text;
+- check that correct answers are spread evenly over the letters and that the difficulty split is close to a third each.
 
-Keep the specific facts: "the chapter discusses several reforms" is useless, but each reform named with its year is
-what's needed. After the gist, list the key terms and must-remember facts.
+### English brief (template)
 
-### The questions
+> You turn chapters of a book into QuizMaster content for BPSC prelims and SSC CGL/CHSL candidates. The book:
+> <title>, <author>, <edition>. Its text is extracted per chapter in `.superpowers/sdd/book-<slug>/text/NN.txt`
+> (printed page = PDF page − <offset>). Write to `content/<course>/<subject>/books/<book-slug>/`. The format spec is
+> `docs/content-format.md`; chapter 1 (`01-*.md` and `01-*.quiz.yaml`) is the model for depth and style. Touch only
+> your chapters' files and your notes file `.superpowers/sdd/book-<slug>/notes-en-<batch>.md`. Never run git; never
+> run `content:push` without `--dry`. Ignore dry-run issues about other agents' chapters.
+>
+> **Accuracy.** Read the whole chapter text before writing anything. Use only the book: no general knowledge, no
+> filling gaps. The owner revises from your output instead of the book, so anything that differs from the book is a
+> mistake they'll carry into the exam. Where the book contradicts itself, use the main text and add a key-fact bullet
+> "Book inconsistency: … — verify". Where a fact has since changed (a law, an office holder, a figure), follow the
+> book and add a bullet "⚠ May be outdated: …".
+>
+> **Gist** (`NN-<chapter-slug>.md`, 300–500 words; up to about 1,100 for very long chapters, in parts).
+> - Frontmatter: `slug`, `number`, `title` (as in the book), `covers: [<group>]`.
+> - `## Gist`, starting with `*Book pages X–Y.*` (printed pages), then a last-day-revision summary that keeps the
+>   specific facts: names, dates, places, numbers, definitions, articles and acts, causes and consequences, firsts
+>   and superlatives, and anything about Bihar. "The chapter discusses several reforms" is useless; each reform named
+>   with its year is what's needed.
+> - `## Key facts`: one must-remember fact or key term per bullet, with the answer-worthy part in **bold**.
+>
+> **Questions** (`NN-<chapter-slug>.quiz.yaml`): 30 per chapter, 10 easy, 10 medium and 10 hard. Write more for long
+> or dense chapters (about a third at each level) so every major section is covered, and fewer only for very short
+> chapters, without repeating a fact.
+> - **Easy:** one fact stated plainly; the SSC one-liner.
+> - **Medium:** two facts combined, a distinction between similar items, distractors from the same chapter, or match
+>   and chronological-order questions.
+> - **Hard:** multi-statement ("Which of the statements given above is/are correct?"), assertion-reason, details most
+>   readers skim, or options that all look right to a careless reader.
+>
+> **Exam tags and formats.** Tag each question `tags: [ssc]` or `tags: [bpsc]`. SSC questions are short and factual,
+> with four options A–D. BPSC questions follow the current (67th–71st) paper format: five options, where E is "More
+> than one of the above" for single-fact questions or "None of the above" for statement, match and order questions;
+> assertion-reason keeps the usual four. Wherever the chapter touches Bihar, write BPSC questions on it.
+>
+> **Answers.** Exactly one defensible answer, taken from the chapter. Plausible distractors: real names, dates and
+> terms from the same topic. Spread the correct answers evenly over the letters.
+>
+> **Fields:**
+> - `slug`: `<prefix>-NN-e01`, `-m01`, `-h01`, …
+> - `difficulty`;
+> - `stem`;
+> - `options: { A: "…", B: "…" }`;
+> - `answer`;
+> - `explanation`: one or two lines, from the book;
+> - `source: "<short book name> (<edition>), p. <printed page>"`;
+> - `tags`.
+>
+> **YAML and Markdown.** Quote strings that contain `:`, `#` or quotes. Statement, assertion-reason and match questions
+> use `stem: |` with:
+> - numbered statements on separate lines;
+> - **a blank line after the last statement** and between the Assertion and Reason lines (otherwise Markdown merges
+>   them, and the dry run rejects it);
+> - a Markdown table for match lists.
+>
+> `$` starts maths, so write "Rs.".
+>
+> **Per chapter:** recheck every answer against the text, fix or drop any ambiguous question, run
+> `npm run content:push -- --dry` and fix your issues. Then append to your notes file:
+> `Ch NN — done — E/M/H counts — unreadable pages — unsure slugs — outdated flags`.
+> Return those lines.
 
-The difficulty label matters. The app uses it to measure how deep a candidate's knowledge really goes.
+## Step 2: Hindi
 
-- **Easy:** direct recall of a single fact stated plainly in the chapter, like a typical SSC one-liner.
-- **Medium:** needs one of these:
-  - two facts combined;
-  - a distinction between similar items;
-  - plausible distractors drawn from the same chapter;
-  - match-the-following or chronological order.
-- **Hard:** one of these:
-  - multi-statement questions ("Which of the statements given above is/are correct?");
-  - assertion-reason;
-  - details most readers skim past;
-  - options that all look reasonable to someone who read carelessly.
+Start only after Step 1 passes the dry run. The English files are the source of truth: translate from them, never from
+the PDF, and never change an English file.
 
-**Tag each question with its best-fit exam,** `ssc` or `bpsc`. SSC questions are short and factual, with four options.
-BPSC questions use more statement-based formats and give heavy weight to Bihar: wherever the chapter touches Bihar,
-write BPSC questions on it. If web search is available (`ToolSearch "select:WebSearch"`), look once at recent
-previous-year papers for each exam and match their option style. If it isn't, say so in the report.
+Copy the **Hindi brief** below into `.superpowers/sdd/book-<slug>/brief-hi.md` and start parallel sub-agents on
+disjoint chapter batches, as in Step 1. Each reads `.claude/skills/book-to-content/hindi-glossary.md`. If the book
+brings new recurring terms, add them to that glossary at the end, so the next book uses the same Hindi.
 
-**Every question needs exactly one defensible answer, taken from the chapter itself.**
-- Make wrong options believable: real names, dates and terms from the same topic, never absurd ones.
-- Spread correct answers evenly across A, B, C and D.
-- Never ask about the same fact twice.
+When all agents are done, run these. Both must pass. The checker may flag only options that are pure acronyms or
+codes.
+- `node .claude/skills/book-to-content/check-translation.cjs content/<course>/<subject>/books/<book-slug>`
+- `npm run content:push -- --dry`
 
-**Outdated facts** (a figure, an office holder, a law that has since changed): follow the book, but flag it.
+### Hindi brief (template)
 
-**Before finishing a chapter,** recheck every answer against the book's text. Fix or drop any question whose answer
-is ambiguous or unsupported.
+> You translate chapters of a QuizMaster book into Hindi for BPSC and SSC Hindi-medium candidates.
+> - English (final, never edit): `content/<course>/<subject>/books/<book-slug>/`
+> - Hindi output: `content/translations/hi/<course>/<subject>/books/<book-slug>/`, with **exactly the same file names**.
+> - For your chapters, write `NN-*.md` and `NN-*.quiz.yaml`; batch 1 also writes `book.yaml`.
+> - Notes: `.superpowers/sdd/book-<slug>/notes-hi-<batch>.md`. Touch nothing else. Never run git; never push without
+>   `--dry`.
+>
+> **What to translate.** Copy each English file and translate only the text.
+> - In `book.yaml`: `title` and `description`. Keep `position`, `author` and `edition`.
+> - In chapters: `title` and the body. Keep `slug`, `number` and `covers`. Keep `## Gist` and `## Key facts` in English
+>   exactly. `*Book pages X–Y.*` → `*पुस्तक पृष्ठ X–Y.*`; `⚠ May be outdated:` → `⚠ संभवतः पुराना तथ्य:`.
+>   Keep the same number of paragraphs and of key-fact bullets, in the same order, with the bold on the same facts.
+> - In quizzes: only `stem`, each option's text and `explanation`. Keep byte-identical:
+>   - every `slug`, `difficulty`, `answer`, `source` and `tags`;
+>   - the option letters and their order, and the question order (no question may be dropped);
+>   - the YAML layout, the blank lines in `stem: |` blocks, table pipes, match codes like `a-3, b-2` and statement
+>     numbers.
+>
+>   Inside double-quoted strings use ‘ ’ instead of `"`.
+>
+> **Accuracy first.** Never add, drop or soften a fact. Every digit sequence must survive unchanged: use Western
+> digits (1857, not १८५७), and don't turn digits into words or words into digits. If a sentence is ambiguous, translate
+> it literally and note the slug.
+>
+> **Terminology.** Follow `.claude/skills/book-to-content/hindi-glossary.md`: standard Hindi exam terms, the English in
+> brackets on first use in each chapter, proper names in Devanagari, and the fixed question phrasings.
+>
+> **Per chapter:**
+> 1. Run `node .claude/skills/book-to-content/check-translation.cjs content/<course>/<subject>/books/<book-slug> <NN>`.
+>    It must say `No problems.` (acronym or code options excepted).
+> 2. Run `npm run content:push -- --dry` and fix the issues in your files.
+> 3. Append `Ch NN — done — <questions> — unsure: …` to your notes file.
+>
+> Return those lines plus any terminology the owner should review.
 
-### Files (English)
+## Step 3: Finish
 
-Write only inside `content/<course>/<subject>/books/<book-slug>/`.
+1. Run both checks once more on the whole book: `check-translation.cjs` and `npm run content:push -- --dry`.
+2. **Load locally:** check that `.env.local` points at `127.0.0.1` or `localhost`, then run `npm run content:push`.
+   Never use `.env.cloud`, and never touch production.
+3. **Commit** on a new branch `content/<book-slug>`, adding only the English book folder and its Hindi mirror (plus
+   `hindi-glossary.md` if you extended it). Message: `content: <title> — <N> chapters, <Q> questions, English + Hindi`.
+   Don't push.
+4. **Report.** Write `.superpowers/sdd/book-<slug>/report.md` and return the same, short:
+   - chapters and E/M/H counts, and the answer-letter spread;
+   - pages that couldn't be read;
+   - questions to review (by slug);
+   - the book's own errors found;
+   - outdated-fact flags;
+   - translation terms to review;
+   - whether web search was used;
+   - the final check outputs;
+   - the branch name.
 
-- **`book.yaml`:** `title`, `author`, `edition`, `description`, `position`.
-- **`NN-<chapter-slug>.md`:** `NN` is the chapter number, two digits. The file has:
-  - frontmatter: `slug`, `number`, `title` (as in the book), `covers: [<group>]`;
-  - a body with `## Gist`, whose first line is `*Book pages X–Y.*`, followed by the gist;
-  - then `## Key facts`, one fact per bullet with the answer-worthy part in **bold**. Flag outdated items as bullets
-    starting `⚠ May be outdated:`.
-- **`NN-<chapter-slug>.quiz.yaml`:** a list of questions ordered easy → medium → hard. Each question has:
-  - `slug`: `<prefix>-NN-e01` / `m01` / `h01`. Pick a short book prefix, e.g. `smi`; slugs must be unique across
-    all content;
-  - `difficulty`: `easy`, `medium` or `hard`;
-  - `stem`, `options` (A–D), `answer`;
-  - `explanation`: one or two lines, from the book;
-  - `source`: `"<Book short name> (<edition>), p. <printed page>"`;
-  - `tags`: `[ssc]` or `[bpsc]`.
+   End with: "Review it locally at /courses/<course>/<subject>/books/<book-slug>. Say 'push to prod' when it looks
+   right."
 
-  Formatting rules:
-  - Multi-statement, assertion-reason and match questions use `stem: |` with Markdown: numbered statements on
-    separate lines, and a table or two lists for matching.
-  - Leave a blank line after the last numbered statement (before "Which of the statements…") and between the
-    Assertion and Reason lines; otherwise Markdown merges them. The dry run rejects a line folded into a list.
-  - `---
-name: book-to-content
-description: Turn a book PDF (in resources/) into QuizMaster study material — per-chapter gist, key facts and easy/medium/hard MCQs in English, then a translation (Hindi by default). Use when the owner asks to "create content from a book", "process this PDF", or "translate a book's content".
-argument-hint: <pdf path> [subject] [exams] [translate-to]
----
+## Notes from the first run (Spectrum, Nov 2026)
 
-# Book PDF → QuizMaster content
-
-Turns one book into chapter gists, key facts and practice questions for exam preparation (BPSC prelims, SSC
-CGL/CHSL general awareness), written straight into this repo's content format. It works in two phases: **first
-everything in English, then the translation.**
-
-**Run it in its own session.** A whole book is a long job, so don't run it inside a session that is doing other work.
-Either open a new Claude Code session in this repo and run `/book-to-content resources/<book>.pdf`, or have the main
-session start a background agent whose prompt is "Follow `.claude/skills/book-to-content/SKILL.md` for <pdf>…".
-
-## Inputs (ask only for what you can't infer)
-
-| Input | Default |
-|---|---|
-| PDF | `resources/<file>.pdf` (`resources/` is git-ignored: books are copyrighted and never committed) |
-| Book title, author, edition | read from the title page |
-| Course / subject / note group the book covers | `gs` / ask, e.g. `history` / e.g. `modern` |
-| Book slug | short kebab-case, e.g. `spectrum-modern-india` |
-| Exams | BPSC prelims and SSC CGL/CHSL |
-| Questions per chapter | 30: 10 easy, 10 medium, 10 hard (more for long or dense chapters, keeping about a third at each level) |
-| Gist length | 300–500 words |
-| Translation language | Hindi (`hi`) |
-
-The subject and the note group must already exist (`content/<course>/<subject>/<group>/topic.yaml`). If the group is
-missing, create its `topic.yaml` (see `docs/content-format.md`) and say so in the report.
-
-**Read `docs/content-format.md` first.** It is the binding spec for every file you write.
-
-## Phase 1: English
-
-### How to work through the book
-
-Start with the table of contents. List the chapters with their page ranges in the progress file, along with the
-offset between PDF page and printed page. Then handle **one chapter at a time**: read the chapter in full, write its
-gist and questions, validate them, and only then move to the next chapter.
-
-- Don't write anything for a chapter you haven't actually read in this session.
-- Don't fill gaps from general knowledge. The owner revises from your output instead of the book, so anything that
-  differs from the book is a mistake they'll carry into the exam.
-- Read the PDF with the Read tool's `pages` parameter, at most 20 pages per call.
-  - If the text is garbled or the pages are scanned, read the pages as images.
-  - If pages are unreadable, record which ones. Never guess their content.
-- Always cite the **printed** page number, not the PDF page number.
-
-### The gist
-
-Write a last-day-revision gist of 300–500 words. Prioritise what examiners ask about:
-- names, dates, places and numbers;
-- definitions, articles and acts;
-- causes and consequences;
-- firsts and superlatives;
-- anything connected to Bihar.
-
-Keep the specific facts: "the chapter discusses several reforms" is useless, but each reform named with its year is
-what's needed. After the gist, list the key terms and must-remember facts.
-
-### The questions
-
-The difficulty label matters. The app uses it to measure how deep a candidate's knowledge really goes.
-
-- **Easy:** direct recall of a single fact stated plainly in the chapter, like a typical SSC one-liner.
-- **Medium:** needs one of these:
-  - two facts combined;
-  - a distinction between similar items;
-  - plausible distractors drawn from the same chapter;
-  - match-the-following or chronological order.
-- **Hard:** one of these:
-  - multi-statement questions ("Which of the statements given above is/are correct?");
-  - assertion-reason;
-  - details most readers skim past;
-  - options that all look reasonable to someone who read carelessly.
-
-**Tag each question with its best-fit exam,** `ssc` or `bpsc`. SSC questions are short and factual, with four options.
-BPSC questions use more statement-based formats and give heavy weight to Bihar: wherever the chapter touches Bihar,
-write BPSC questions on it. If web search is available (`ToolSearch "select:WebSearch"`), look once at recent
-previous-year papers for each exam and match their option style. If it isn't, say so in the report.
-
-**Every question needs exactly one defensible answer, taken from the chapter itself.**
-- Make wrong options believable: real names, dates and terms from the same topic, never absurd ones.
-- Spread correct answers evenly across A, B, C and D.
-- Never ask about the same fact twice.
-
-**Outdated facts** (a figure, an office holder, a law that has since changed): follow the book, but flag it.
-
-**Before finishing a chapter,** recheck every answer against the book's text. Fix or drop any question whose answer
-is ambiguous or unsupported.
-
-### Files (English)
-
-Write only inside `content/<course>/<subject>/books/<book-slug>/`.
-
-- **`book.yaml`:** `title`, `author`, `edition`, `description`, `position`.
-- **`NN-<chapter-slug>.md`:** `NN` is the chapter number, two digits. The file has:
-  - frontmatter: `slug`, `number`, `title` (as in the book), `covers: [<group>]`;
-  - a body with `## Gist`, whose first line is `*Book pages X–Y.*`, followed by the gist;
-  - then `## Key facts`, one fact per bullet with the answer-worthy part in **bold**. Flag outdated items as bullets
-    starting `⚠ May be outdated:`.
-- **`NN-<chapter-slug>.quiz.yaml`:** a list of questions ordered easy → medium → hard. Each question has:
-  - `slug`: `<prefix>-NN-e01` / `m01` / `h01`. Pick a short book prefix, e.g. `smi`; slugs must be unique across
-    all content;
-  - `difficulty`: `easy`, `medium` or `hard`;
-  - `stem`, `options` (A–D), `answer`;
-  - `explanation`: one or two lines, from the book;
-  - `source`: `"<Book short name> (<edition>), p. <printed page>"`;
-  - `tags`: `[ssc]` or `[bpsc]`.
-
-  Formatting rules:
-  - Multi-statement, assertion-reason and match questions use `stem: |` with Markdown: numbered statements on
-    separate lines, and a table or two lists for matching.
- starts maths, so write "Rs.".
-  - Quote any YAML string containing `:`, `#` or quotes.
-  - The app hides `answer` and `explanation` until the learner answers. That serves as the answer key.
-
-**After every chapter, run `npm run content:push -- --dry` and fix everything it reports.** Never push without
-`--dry`, and never commit: the owner reviews and pushes.
-
-## Phase 2: Translation (after Phase 1 is complete and validated)
-
-**Start this only when every chapter exists in English and the dry run passes.** The English files are the source of
-truth; translate from them, not from the book.
-
-Translations go in a parallel tree inside the content folder, with the same file names as the English:
-
-```
-content/translations/<lang>/<course>/<subject>/books/<book-slug>/
-```
-
-The push reads it and attaches the text as the Hindi version of each item. `npm run content:push -- --dry` checks
-every translated file against its English original. It rejects a translation with no English file, a question slug
-that isn't in the matching English file, or any changed answer, option letters, difficulty, source, tags, slug,
-number or `covers`. A chapter must still have `## Gist` and `## Key facts` (keep these two headings in English). A
-quiz's Hindi title is made automatically from the chapter's Hindi title.
-
-- **Translate only these fields:**
-  - in `book.yaml`: `title` and `description`;
-  - in chapter files: `title` and the body;
-  - in quiz files: `stem`, `options` and `explanation`.
-- **Keep everything else byte-identical:**
-  - slugs and numbers;
-  - `covers`, `answer`, `difficulty`, `source` and `tags`;
-  - the `## Gist` / `## Key facts` headings, so files stay machine-readable;
-  - option letters and their order. The correct answer must stay under the same letter.
-- **Terminology:** use the standard Hindi terms used in BPSC and SSC Hindi-medium papers and in NCERT Hindi. On first
-  use, put the English term in brackets after a technical term or the name of an act, e.g.
-  स्थायी बंदोबस्त (Permanent Settlement).
-- **Names:** keep proper names recognisable.
-- **Accuracy:** don't add, drop or soften facts. A translation that changes a date or a name is a wrong answer in the
-  exam.
-- **Order:** translate chapter by chapter, and record each one in the progress file.
-
-## Progress and report
-
-Keep `.superpowers/sdd/book-<book-slug>/progress.md` (git-ignored). It holds:
-- the chapter list with page ranges and the page offset;
-- one line per finished chapter: question counts per level, unreadable pages, and slugs you're unsure about;
-- one line per translated chapter.
-
-If your context is summarised mid-run, re-read this file and continue from the first unfinished chapter or
-translation. Never redo finished work.
-
-At the end, write `.superpowers/sdd/book-<book-slug>/report.md` and return the same short report:
-- chapters completed, with counts per level;
-- chapters translated;
-- unreadable pages;
-- questions you weren't sure about, by slug;
-- outdated-fact flags;
-- whether web search was available;
-- the final dry-run result.
+- **Volume:** 39 chapters, 1,410 English questions, plus a Hindi translation of all of it. About 11 parallel agents
+  per phase worked well.
+- **Translation choices to keep:**
+  - "million" stays मिलियन so the figures match the book;
+  - spelled-out English numbers stay as words, so trap questions still work;
+  - the book's garbled spellings are replaced with the standard form, e.g. Sarabji → सोराबजी.
+- **Errors in the book itself:** list them in the report and in key facts, never in a question's answer.
