@@ -1,0 +1,63 @@
+# Modern — practice questions (Lota Rebellion note)
+# ---------- EASY ----------
+- slug: note-lota-e01
+  difficulty: easy
+  stem: "The Lota Rebellion in Bihar is chiefly associated with prisoners of which jail?"
+  options: { A: "Patna jail", B: "Bhagalpur jail", C: "Muzaffarpur jail", D: "Gaya jail", E: "None of the above" }
+  answer: C
+  explanation: "The protest broke out among the prisoners of the Muzaffarpur jail in Tirhut, whose townspeople and ryots came out in their support."
+  source: "Heritage Times (M. Sajjad); Sanskriti IAS BPSC notes"
+  tags: [bpsc]
+
+- slug: note-lota-e02
+  difficulty: easy
+  stem: "In the Lota Rebellion, prisoners protested because their lotas made of which metal were replaced with earthen vessels?"
+  options: { A: "Brass", B: "Iron", C: "Silver", D: "Aluminium", E: "None of the above" }
+  answer: A
+  explanation: "The jail authorities withdrew the prisoners' brass lotas and gave them earthen vessels instead."
+  source: "Heritage Times (M. Sajjad); Sanskriti IAS BPSC notes"
+  tags: [bpsc]
+
+# ---------- MEDIUM ----------
+- slug: note-lota-m01
+  difficulty: medium
+  stem: "What was the immediate cause of the Lota Rebellion in Bihar?"
+  options: { A: "A new tax on the food given to prisoners", B: "The transfer of prisoners to jails outside Bihar", C: "Forced labour for prisoners on roads outside the jail", D: "The replacement of the prisoners' brass lotas with earthen vessels", E: "More than one of the above" }
+  answer: D
+  explanation: "The prisoners rose against the order replacing their brass lotas with earthen vessels, which they saw as an attack on their religion and caste."
+  source: "Heritage Times (M. Sajjad); EduRev BPSC notes"
+  tags: [bpsc]
+
+- slug: note-lota-m02
+  difficulty: medium
+  stem: "How did the British authorities finally respond to the Lota Rebellion?"
+  options: { A: "They crushed it with troops and kept the earthen vessels", B: "They withdrew the order and allowed brass lotas again", C: "They closed the Muzaffarpur jail", D: "They allowed brass lotas only to Hindu prisoners", E: "None of the above" }
+  answer: B
+  explanation: "Faced with the protest of the prisoners and the people, the government withdrew its order and brass lotas were allowed again."
+  source: "Heritage Times (M. Sajjad); Sanskriti IAS BPSC notes"
+  tags: [bpsc]
+
+# ---------- HARD ----------
+- slug: note-lota-h01
+  difficulty: hard
+  stem: "The protest against replacing brass lotas with earthen vessels in jails, before the Revolt of 1857, was reported from which jail(s) of present-day Bihar?"
+  options: { A: "Muzaffarpur", B: "Arrah", C: "Patna", D: "Purnia", E: "More than one of the above" }
+  answer: E
+  explanation: "Accounts name both Muzaffarpur (Tirhut) and Arrah (Shahabad); the Muzaffarpur protest drew the most popular support."
+  source: "Heritage Times (M. Sajjad); EduRev BPSC notes"
+  tags: [bpsc]
+
+- slug: note-lota-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Lota Rebellion:
+    1. The prisoners saw the replacement of their brass lotas as an attack on their religious and caste sentiments.
+    2. Townspeople and ryots of Muzaffarpur came out in support of the prisoners.
+    3. It broke out after the Revolt of 1857 had begun at Meerut.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The Lota Rebellion took place before the Revolt of 1857, not after it began."
+  source: "Heritage Times (M. Sajjad); Sanskriti IAS BPSC notes"
+  tags: [bpsc]
