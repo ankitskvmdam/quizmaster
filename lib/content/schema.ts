@@ -52,7 +52,9 @@ export const questionShape = z
 
 export const questionsFile = z.array(questionShape)
 
-const inlineQuestion = questionShape.extend({ topic: z.string().regex(/^[a-z0-9-]+\/[a-z0-9-]+$/, 'must be "<subject>/<topic>"') })
+const inlineQuestion = questionShape.extend({
+  topic: z.string().regex(/^[a-z0-9-]+(\/[a-z0-9-]+)+$/, 'must be "<course>/<path in the tree>"'),
+})
 
 export const testFile = z
   .object({
@@ -76,7 +78,7 @@ export type QuestionShape = z.infer<typeof questionShape>
 // ---------------------------------------------------------------------------
 // Sections and monthly current affairs
 // ---------------------------------------------------------------------------
-export const RESERVED_TOPIC_SLUGS = ['current-affairs'] as const
+export const RESERVED_TOPIC_SLUGS = ['current-affairs', 'books'] as const
 
 export const sectionsFile = z.array(
   z
@@ -115,5 +117,30 @@ export const caTestFile = z
     title: z.string().min(1),
     duration_min: z.number().positive(),
     questions: z.array(slug).min(1),
+  })
+  .strict()
+
+
+// ---------------------------------------------------------------------------
+// Books with chapter gists
+// ---------------------------------------------------------------------------
+export const bookFile = z
+  .object({
+    title: z.string().min(1),
+    author: z.string().optional(),
+    edition: text.optional(),
+    description: z.string().default(''),
+    position: z.number().int(),
+    published: z.boolean().default(true),
+  })
+  .strict()
+
+/** covers: tree paths relative to the subject, e.g. "ancient/india" (or "" / "." for the whole subject). */
+export const chapterFrontmatter = z
+  .object({
+    slug,
+    number: z.number().int().positive(),
+    title: z.string().min(1),
+    covers: z.array(z.string().regex(/^[a-z0-9-]+(\/[a-z0-9-]+)*$/, 'must be a path like ancient/india')).min(1),
   })
   .strict()

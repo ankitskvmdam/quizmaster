@@ -6,9 +6,9 @@ describe('loadContent (valid)', () => {
     const b = await loadContent('tests/fixtures/content-valid')
     expect(b.subjects.map((s) => s.slug)).toEqual(['gs'])
     expect(b.topics).toEqual([
-      { subjectSlug: 'gs', slug: 'percentages', name: 'Percentages', description: 'Parts of a hundred.', position: 1 },
+      { subjectSlug: 'gs', slug: 'percentages', name: 'Percentages', description: 'Parts of a hundred.', position: 1, path: 'percentages', parentPath: null },
     ])
-    expect(b.lessons.map((l) => [l.topicSlug, l.slug, l.published])).toEqual([
+    expect(b.lessons.map((l) => [l.topicPath, l.slug, l.published])).toEqual([
       ['percentages', 'basics', true],
       ['percentages', 'change', false],
     ])

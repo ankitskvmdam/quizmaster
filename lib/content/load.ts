@@ -10,6 +10,8 @@ import {
   caNotesFile,
   caQuestionsFile,
   caTestFile,
+  bookFile,
+  chapterFrontmatter,
   categoriesFile,
   sectionsFile,
   lessonFrontmatter,
@@ -38,7 +40,29 @@ export type TopicItem = {
   name: string
   description: string
   position: number
+  path: string // "history/ancient/india"
+  parentPath: string | null
   sectionSlug?: string
+}
+export type BookItem = {
+  subjectSlug: string
+  topicPath: string // the subject node the book sits on, e.g. "history"
+  slug: string
+  title: string
+  author: string | null
+  edition: string | null
+  description: string
+  position: number
+  published: boolean
+}
+export type ChapterItem = {
+  bookRef: string // "<course>/<subject path>/<book>"
+  slug: string
+  number: number
+  title: string
+  gist_md: string
+  position: number
+  covers: string[] // full tree paths
 }
 export type SectionItem = { subjectSlug: string; slug: string; name: string; kind: 'topics' | 'current_affairs'; position: number }
 export type CategoryItem = { slug: string; name: string; position: number }
@@ -53,7 +77,7 @@ export type CaNoteItem = {
 export type MonthItem = { subjectSlug: string; sectionSlug: string; month: string; notes: CaNoteItem[] }
 export type LessonItem = {
   subjectSlug: string
-  topicSlug: string
+  topicPath: string
   slug: string
   title: string
   position: number
@@ -65,6 +89,7 @@ export type QuestionItem = {
   topicRef: string | null // "<subject>/<topic>" for topic questions
   caMonthRef: string | null // "<subject>/<section>/<YYYY-MM>" for current-affairs questions
   categorySlug: string | null
+  chapterRef: string | null // "<course>/<subject path>/<book>/<chapter>" for chapter quiz questions
   stem_md: string
   options: { key: string; text_md: string }[]
   correctKey: string
@@ -76,7 +101,7 @@ export type QuestionItem = {
 export type TestItem = {
   slug: string
   title: string
-  kind: 'mock' | 'pyq'
+  kind: 'mock' | 'pyq' | 'chapter'
   subjectSlug: string
   year: number | null
   durationSec: number | null
@@ -85,6 +110,7 @@ export type TestItem = {
   published: boolean
   questionSlugs: string[]
   caMonthRef: string | null // set for a month's fixed paper
+  chapterRef: string | null // set for a chapter's quiz
 }
 export type ContentBundle = {
   subjects: SubjectItem[]
@@ -92,19 +118,34 @@ export type ContentBundle = {
   categories: CategoryItem[]
   months: MonthItem[]
   topics: TopicItem[]
+  books: BookItem[]
+  chapters: ChapterItem[]
   lessons: LessonItem[]
   questions: QuestionItem[]
   tests: TestItem[]
 }
 
 const TESTS_DIR = 'tests'
+const BOOKS_DIR = 'books'
 
 /** Reads and validates the whole content folder. Throws ContentError listing every problem found. */
 export async function loadContent(root: string): Promise<ContentBundle> {
   const issues: Issue[] = []
   const rel = (p: string) => path.relative(root, p).split(path.sep).join('/')
-  const bundle: ContentBundle = { subjects: [], sections: [], categories: [], months: [], topics: [], lessons: [], questions: [], tests: [] }
+  const bundle: ContentBundle = {
+    subjects: [],
+    sections: [],
+    categories: [],
+    months: [],
+    topics: [],
+    books: [],
+    chapters: [],
+    lessons: [],
+    questions: [],
+    tests: [],
+  }
   const testSlugs = new Set<string>()
+  const pendingCovers: { file: string; slug: string; covers: string[]; subjectSlug: string }[] = []
   const questionFiles = new Map<string, string>() // slug → file, for duplicate detection
 
   function check<T>(schema: z.ZodType<T>, data: unknown, file: string): T | null {
@@ -125,8 +166,8 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     }
   }
 
-  type QuestionRefs = { topicRef: string | null; caMonthRef: string | null; categorySlug: string | null }
-  const topicRefs_ = (topicRef: string): QuestionRefs => ({ topicRef, caMonthRef: null, categorySlug: null })
+  type QuestionRefs = { topicRef: string | null; caMonthRef: string | null; categorySlug: string | null; chapterRef: string | null }
+  const topicRefs_ = (topicRef: string): QuestionRefs => ({ topicRef, caMonthRef: null, categorySlug: null, chapterRef: null })
 
   function addQuestion(q: QuestionShape, refs: QuestionRefs, file: string) {
     const keys = Object.keys(q.options)
@@ -225,7 +266,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             continue
           }
           monthQuestions.add(q.slug)
-          addQuestion(shape, { topicRef: null, caMonthRef: monthRef, categorySlug: category }, rel(qFile))
+          addQuestion(shape, { topicRef: null, caMonthRef: monthRef, categorySlug: category, chapterRef: null }, rel(qFile))
         }
       }
 
@@ -253,6 +294,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           published: true,
           questionSlugs: t.questions,
           caMonthRef: monthRef,
+          chapterRef: null,
         })
       }
     }
@@ -262,7 +304,8 @@ export async function loadContent(root: string): Promise<ContentBundle> {
   for (const subjectDir of await dirs(root)) {
     if (subjectDir === TESTS_DIR) continue
     const sPath = path.join(root, subjectDir)
-    const sFile = path.join(sPath, 'subject.yaml')
+    // A course is described by course.yaml (subject.yaml is the older name and still works).
+    const sFile = (await exists(path.join(sPath, 'course.yaml'))) ? path.join(sPath, 'course.yaml') : path.join(sPath, 'subject.yaml')
     const subject = check(subjectFile, await readYaml(sFile), rel(sFile))
     if (!subject) continue
     if (subject.slug !== subjectDir) issues.push({ file: rel(sFile), message: `slug "${subject.slug}" must match its folder "${subjectDir}"` })
@@ -275,32 +318,33 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     const caSections = new Set(sections.filter((s) => s.kind === 'current_affairs').map((s) => s.slug))
     const topicSections = sections.filter((s) => s.kind === 'topics').map((s) => s.slug)
 
-    for (const topicDir of await dirs(sPath)) {
-      if (caSections.has(topicDir)) {
-        await loadCurrentAffairs(subject.slug, topicDir, path.join(sPath, topicDir))
-        continue
-      }
-      const tPath = path.join(sPath, topicDir)
+    /** One tree node (a folder with topic.yaml): its lessons, questions, books (subjects only) and child nodes. */
+    async function loadNode(tPath: string, parentPath: string | null) {
+      const folder = path.basename(tPath)
       const tFile = path.join(tPath, 'topic.yaml')
       const parsedTopic = check(topicFile, await readYaml(tFile), rel(tFile))
-      if (!parsedTopic) continue
+      if (!parsedTopic) return
       const { section, ...topic } = parsedTopic
-      if (topic.slug !== topicDir) issues.push({ file: rel(tFile), message: `slug "${topic.slug}" must match its folder "${topicDir}"` })
+      if (topic.slug !== folder) issues.push({ file: rel(tFile), message: `slug "${topic.slug}" must match its folder "${folder}"` })
       if ((RESERVED_TOPIC_SLUGS as readonly string[]).includes(topic.slug)) {
         issues.push({ file: rel(tFile), message: `"${topic.slug}" is a reserved name and can't be a topic` })
-        continue
+        return
       }
+      const nodePath = parentPath ? `${parentPath}/${topic.slug}` : topic.slug
       let sectionSlug: string | undefined
-      if (section) {
-        if (!topicSections.includes(section)) issues.push({ file: rel(tFile), message: `section "${section}" is not a topics section in sections.yaml` })
-        sectionSlug = section
-      } else if (topicSections.length === 1) {
-        sectionSlug = topicSections[0]
-      } else if (topicSections.length > 1) {
-        issues.push({ file: rel(tFile), message: 'this subject has several topic sections; set `section:` in topic.yaml' })
+      if (parentPath === null) {
+        if (section) {
+          if (!topicSections.includes(section)) issues.push({ file: rel(tFile), message: `section "${section}" is not a topics section in sections.yaml` })
+          sectionSlug = section
+        } else if (topicSections.length === 1) {
+          sectionSlug = topicSections[0]
+        } else if (topicSections.length > 1) {
+          issues.push({ file: rel(tFile), message: 'this subject has several topic sections; set `section:` in topic.yaml' })
+        }
       }
-      bundle.topics.push({ subjectSlug: subject.slug, ...topic, ...(sectionSlug ? { sectionSlug } : {}) })
+      bundle.topics.push({ subjectSlug: subject!.slug, ...topic, path: nodePath, parentPath, ...(sectionSlug ? { sectionSlug } : {}) })
 
+      const childDirs = await dirs(tPath)
       const lessonSlugs = new Set<string>()
       for (const name of await files(tPath)) {
         const f = path.join(tPath, name)
@@ -309,21 +353,121 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           const fm = check(lessonFrontmatter, parsed.data, rel(f))
           if (!fm) continue
           if (lessonSlugs.has(fm.slug)) {
-            issues.push({ file: rel(f), message: `${fm.slug}: duplicate lesson slug in topic ${topic.slug}` })
+            issues.push({ file: rel(f), message: `${fm.slug}: duplicate lesson slug in ${nodePath}` })
+            continue
+          }
+          if (childDirs.includes(fm.slug)) {
+            issues.push({ file: rel(f), message: `${fm.slug}: lesson slug clashes with the child folder "${fm.slug}"` })
             continue
           }
           lessonSlugs.add(fm.slug)
-          bundle.lessons.push({ subjectSlug: subject.slug, topicSlug: topic.slug, ...fm, body_md: parsed.content.replace(/^\s*\n/, '') })
+          bundle.lessons.push({ subjectSlug: subject!.slug, topicPath: nodePath, ...fm, body_md: parsed.content.replace(/^\s*\n/, '') })
         } else if (name === 'questions.yaml') {
           const qs = check(questionsFile, await readYaml(f), rel(f))
-          for (const q of qs ?? []) addQuestion(q, topicRefs_(`${subject.slug}/${topic.slug}`), rel(f))
+          for (const q of qs ?? []) addQuestion(q, topicRefs_(`${subject!.slug}/${nodePath}`), rel(f))
         }
       }
+
+      for (const child of childDirs) {
+        const cPath = path.join(tPath, child)
+        if (child === BOOKS_DIR) {
+          if (parentPath === null) await loadBooks(nodePath, cPath)
+          else issues.push({ file: rel(cPath), message: `"${BOOKS_DIR}" is reserved for a subject's books; it can't be nested deeper` })
+          continue
+        }
+        await loadNode(cPath, nodePath)
+      }
+    }
+
+    /** books/<book>/book.yaml + NN-<chapter>.md (+ NN-<chapter>.quiz.yaml) on a subject node. */
+    async function loadBooks(subjectPath: string, booksDir: string) {
+      for (const bookSlug of await dirs(booksDir)) {
+        const bDir = path.join(booksDir, bookSlug)
+        const bFile = path.join(bDir, 'book.yaml')
+        const book = check(bookFile, await readYaml(bFile), rel(bFile))
+        if (!book) continue
+        bundle.books.push({
+          subjectSlug: subject!.slug,
+          topicPath: subjectPath,
+          slug: bookSlug,
+          title: book.title,
+          author: book.author ?? null,
+          edition: book.edition ?? null,
+          description: book.description,
+          position: book.position,
+          published: book.published,
+        })
+        const bookRef = `${subject!.slug}/${subjectPath}/${bookSlug}`
+        const numbers = new Map<number, string>()
+        const names = await files(bDir)
+        for (const name of names.filter((n) => n.endsWith('.md'))) {
+          const f = path.join(bDir, name)
+          const parsed = matter(await readFile(f, 'utf8'))
+          const fm = check(chapterFrontmatter, parsed.data, rel(f))
+          if (!fm) continue
+          const body = parsed.content.replace(/^\s*\n/, '')
+          if (!/^## Gist\s*$/m.test(body) || !/^## Key facts\s*$/m.test(body) || !/^## Key facts[\s\S]*^\s*- \S/m.test(body)) {
+            issues.push({ file: rel(f), message: `${fm.slug}: a chapter needs a "## Gist" section and a "## Key facts" section with at least one bullet` })
+            continue
+          }
+          const clash = numbers.get(fm.number)
+          if (clash) {
+            issues.push({ file: rel(f), message: `${fm.slug}: chapter number ${fm.number} is already used by "${clash}"` })
+            continue
+          }
+          numbers.set(fm.number, fm.slug)
+          const covers = fm.covers.map((c) => `${subjectPath}/${c}`.replace(/\/$/, ''))
+          pendingCovers.push({ file: rel(f), slug: fm.slug, covers, subjectSlug: subject!.slug })
+          bundle.chapters.push({ bookRef, slug: fm.slug, number: fm.number, title: fm.title, gist_md: body, position: fm.number, covers })
+
+          const quizName = name.replace(/\.md$/, '.quiz.yaml')
+          if (names.includes(quizName)) {
+            const qf = path.join(bDir, quizName)
+            const chapterRef = `${bookRef}/${fm.slug}`
+            const qs = check(questionsFile, await readYaml(qf), rel(qf)) ?? []
+            for (const q of qs) addQuestion(q, { topicRef: null, caMonthRef: null, categorySlug: null, chapterRef }, rel(qf))
+            if (qs.length) {
+              const slug = `book-${subjectPath.replace(/\//g, '-')}-${bookSlug}-${fm.slug}`
+              testSlugs.add(slug)
+              bundle.tests.push({
+                slug,
+                title: `${fm.title} quiz`,
+                kind: 'chapter',
+                subjectSlug: subject!.slug,
+                year: null,
+                durationSec: null,
+                marksCorrect: 1,
+                marksWrong: 0,
+                published: book.published,
+                questionSlugs: qs.map((q) => q.slug),
+                caMonthRef: null,
+                chapterRef,
+              })
+            }
+          }
+        }
+      }
+    }
+
+    for (const topicDir of await dirs(sPath)) {
+      if (caSections.has(topicDir)) {
+        await loadCurrentAffairs(subject.slug, topicDir, path.join(sPath, topicDir))
+        continue
+      }
+      await loadNode(path.join(sPath, topicDir), null)
+    }
+  }
+
+  // Chapter tags must point at nodes of the same course's tree.
+  const treePaths = new Set(bundle.topics.map((t) => `${t.subjectSlug}/${t.path}`))
+  for (const c of pendingCovers) {
+    for (const p of c.covers) {
+      if (!treePaths.has(`${c.subjectSlug}/${p}`)) issues.push({ file: c.file, message: `${c.slug}: covers "${p}", which is not in the syllabus tree` })
     }
   }
 
   // Tests (after all question banks, so references can resolve)
-  const topicRefs = new Set(bundle.topics.map((t) => `${t.subjectSlug}/${t.slug}`))
+  const topicRefs = new Set(bundle.topics.map((t) => `${t.subjectSlug}/${t.path}`))
   const subjectSlugs = new Set(bundle.subjects.map((s) => s.slug))
   const testsPath = path.join(root, TESTS_DIR)
   const testNames = await files(testsPath).catch(() => [] as string[])
@@ -370,6 +514,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
       published: t.published,
       questionSlugs,
       caMonthRef: null,
+      chapterRef: null,
     })
   }
 
