@@ -113,9 +113,12 @@ export async function pushContent(
   opts: { dry: boolean; prune: boolean },
 ): Promise<PushSummary> {
   const existing = await readExisting(db)
+  // Compare on content fields only: ids and publish dates live in the database, not the files.
   const strip = <T extends object>(x: T) => {
-    const { id: _id, published_at: _p, ...rest } = x as T & { id?: string; published_at?: string | null }
-    return rest
+    const rest = { ...x } as T & { id?: string; published_at?: string | null }
+    delete rest.id
+    delete rest.published_at
+    return rest as Omit<T, 'id' | 'published_at'>
   }
 
   const subjectPlan = planChanges(existing.subjects.map(strip), bundle.subjects, (s) => s.slug, (s) => s)
