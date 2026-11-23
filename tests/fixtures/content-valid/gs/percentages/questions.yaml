@@ -1,0 +1,17 @@
+- slug: pct-001
+  stem: What is 10% of 50?
+  options:
+    A: "4"
+    B: "5"
+    C: "6"
+    D: "10"
+  answer: B
+  explanation: $50 \times 0.1 = 5$
+  difficulty: easy
+- slug: pct-002
+  stem: 25% of what number is 20?
+  options: { A: 60, B: 80, C: 100, D: 120 }
+  answer: B
+  explanation: $20 / 0.25 = 80$
+  difficulty: medium
+  tags: [inverse]

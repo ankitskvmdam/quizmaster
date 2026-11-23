@@ -1,0 +1,16 @@
+slug: mock-1
+title: Percentages mock 1
+kind: mock
+subject: gs
+duration_min: 15
+marks: { correct: 2, wrong: -0.66 }
+questions:
+  - pct-001
+  - pct-002
+  - slug: pct-inline-001
+    topic: gs/percentages
+    stem: What is 50% of 50?
+    options: { A: "20", B: "25" }
+    answer: B
+    explanation: Half of 50.
+    difficulty: easy
