@@ -1,0 +1,228 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+@import "shadcn/tailwind.css";
+
+/* Dark mode is driven by data-theme on <html> (set before first paint by lib/theme.ts). */
+@custom-variant dark (&:where([data-theme="dark"], [data-theme="dark"] *));
+
+/* ------------------------------------------------------------------ */
+/* Tokens — the one place a palette change is made (DESIGN_DIRECTION). */
+/* ------------------------------------------------------------------ */
+:root {
+  color-scheme: light;
+
+  --canvas: #f5f7f7;
+  --glow-1: #d6eee8;
+  --glow-2: #e2f3ee;
+  --glow-3: #cfeae3;
+  --glow-4: #e8f5f1;
+
+  --panel-bg: #ffffff;
+  --panel-border: #e3e8e7;
+  --panel-shadow: 0 1px 2px rgb(27 36 35 / 0.04), 0 8px 24px rgb(27 36 35 / 0.05);
+  --soft-bg: #f0f4f3;
+
+  --foreground: #1b2423;
+  --muted-foreground: #5f6b69;
+
+  --primary: #2f7d72;
+  --primary-hover: #276a61;
+  --primary-foreground: #ffffff;
+  --tint: #e3f2ee;
+  --tint-foreground: #22594f;
+  --grad-1: #2f7d72;
+  --grad-2: #4fb3a4;
+  --grad-3: #8fd3c7;
+
+  --ring: color-mix(in oklab, var(--primary) 45%, transparent);
+  --input-bg: #ffffff;
+  --input-border: #d5dddb;
+
+  --correct-bg: #e6f4ea;
+  --correct-border: #b9dfc4;
+  --correct-fg: #1d6b3a;
+  --wrong-bg: #fdecec;
+  --wrong-border: #f3c3c3;
+  --wrong-fg: #a12a2a;
+  --review-bg: #fdf3e1;
+  --review-border: #f0d49d;
+  --review-fg: #8a5300;
+  --skipped-bg: #f0f4f3;
+  --skipped-border: #dde4e2;
+  --skipped-fg: #5f6b69;
+  --destructive-fill: #c23b3b;
+
+  --overlay: rgb(15 21 20 / 0.35);
+  --modal-shadow: 0 24px 64px rgb(15 21 20 / 0.18);
+
+  --radius: 10px;
+  --radius-panel-size: 24px;
+  --radius-card-size: 32px;
+  --radius-dock-size: 28px;
+
+  /* shadcn/ui variables, aliased to our tokens */
+  --background: var(--canvas);
+  --card: var(--panel-bg);
+  --card-foreground: var(--foreground);
+  --popover: var(--panel-bg);
+  --popover-foreground: var(--foreground);
+  --secondary: var(--soft-bg);
+  --secondary-foreground: var(--foreground);
+  --muted: var(--soft-bg);
+  --accent: var(--tint);
+  --accent-foreground: var(--tint-foreground);
+  --destructive: var(--destructive-fill);
+  --border: var(--panel-border);
+  --input: var(--input-border);
+}
+
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --canvas: #0f1514;
+  --glow-1: #12201d;
+  --glow-2: #0f1c1a;
+  --glow-3: #132422;
+  --glow-4: #101d1b;
+
+  --panel-bg: #151e1d;
+  --panel-border: rgb(255 255 255 / 0.08);
+  --panel-shadow: none;
+  --soft-bg: rgb(255 255 255 / 0.04);
+
+  --foreground: #e8efee;
+  --muted-foreground: #93a3a0;
+
+  --primary: #4fb3a4;
+  --primary-hover: #62c2b3;
+  --primary-foreground: #0f1514;
+  --tint: rgb(79 179 164 / 0.14);
+  --tint-foreground: #9fdcd2;
+  --grad-1: #4fb3a4;
+  --grad-2: #7cc9bc;
+  --grad-3: #a8ddd4;
+
+  --ring: color-mix(in oklab, var(--primary) 55%, transparent);
+  --input-bg: rgb(255 255 255 / 0.04);
+  --input-border: rgb(255 255 255 / 0.12);
+
+  --correct-bg: rgb(34 197 94 / 0.14);
+  --correct-border: rgb(34 197 94 / 0.3);
+  --correct-fg: #86d9a4;
+  --wrong-bg: rgb(239 68 68 / 0.14);
+  --wrong-border: rgb(239 68 68 / 0.32);
+  --wrong-fg: #f2a0a0;
+  --review-bg: rgb(245 158 11 / 0.14);
+  --review-border: rgb(245 158 11 / 0.3);
+  --review-fg: #f2c46d;
+  --skipped-bg: rgb(255 255 255 / 0.05);
+  --skipped-border: rgb(255 255 255 / 0.1);
+  --skipped-fg: #93a3a0;
+  --destructive-fill: #d14b4b;
+
+  --overlay: rgb(0 0 0 / 0.5);
+  --modal-shadow: 0 24px 64px rgb(0 0 0 / 0.5);
+}
+
+/* ------------------------------------------------------------------ */
+/* Tailwind names for the tokens                                       */
+/* ------------------------------------------------------------------ */
+@theme inline {
+  --font-sans: var(--font-hanken), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+  --font-heading: var(--font-sans);
+
+  --color-canvas: var(--canvas);
+  --color-panel: var(--panel-bg);
+  --color-hairline: var(--panel-border);
+  --color-soft: var(--soft-bg);
+  --color-tint: var(--tint);
+  --color-tint-foreground: var(--tint-foreground);
+  --color-primary-hover: var(--primary-hover);
+  --color-input-bg: var(--input-bg);
+  --color-overlay: var(--overlay);
+
+  --color-correct: var(--correct-bg);
+  --color-correct-border: var(--correct-border);
+  --color-correct-fg: var(--correct-fg);
+  --color-wrong: var(--wrong-bg);
+  --color-wrong-border: var(--wrong-border);
+  --color-wrong-fg: var(--wrong-fg);
+  --color-review: var(--review-bg);
+  --color-review-border: var(--review-border);
+  --color-review-fg: var(--review-fg);
+  --color-skipped: var(--skipped-bg);
+  --color-skipped-border: var(--skipped-border);
+  --color-skipped-fg: var(--skipped-fg);
+
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+
+  --radius-sm: calc(var(--radius) * 0.6);
+  --radius-md: calc(var(--radius) * 0.8);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) * 1.4);
+  --radius-2xl: calc(var(--radius) * 1.8);
+  --radius-panel: var(--radius-panel-size);
+  --radius-card: var(--radius-card-size);
+  --radius-dock: var(--radius-dock-size);
+
+  --shadow-panel: var(--panel-shadow);
+  --shadow-modal: var(--modal-shadow);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  html {
+    @apply font-sans;
+  }
+  body {
+    @apply bg-canvas text-foreground antialiased;
+  }
+  ::selection {
+    background: var(--tint);
+    color: var(--tint-foreground);
+  }
+}
+
+/* Every figure: scores, timer, counts, dates. */
+@utility figures {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
+
+/* Visible focus ring for links and custom controls. */
+@utility focus-ring {
+  outline: none;
+  &:focus-visible {
+    box-shadow: 0 0 0 3px var(--ring);
+  }
+}
+
+/* Glow backdrop drift */
+@keyframes glow-drift-a {
+  0%, 100% { transform: translate(0, 0) scale(1); }
+  50% { transform: translate(6vw, 4vh) scale(1.08); }
+}
+@keyframes glow-drift-b {
+  0%, 100% { transform: translate(0, 0) scale(1.05); }
+  50% { transform: translate(-5vw, 6vh) scale(0.95); }
+}
