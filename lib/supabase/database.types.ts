@@ -65,9 +65,9 @@ isOneToOne: false
                   ]
                 },"attempts": {
                   Row: {
-                    "deadline_at": string | null,"id": string,"mode": Database["public"]['Enums']["attempt_mode"],"n_correct": number | null,"n_skipped": number | null,"n_wrong": number | null,"score": number | null,"started_at": string,"submitted_at": string | null,"test_id": string,"user_id": string
+                    "deadline_at": string | null,"id": string,"mode": Database["public"]['Enums']["attempt_mode"],"n_correct": number | null,"n_skipped": number | null,"n_wrong": number | null,"score": number | null,"started_at": string,"submitted_at": string | null,"test_id": string,"user_id": string,"_is_expired": boolean | null
                   }
-                  ComputedFields: never
+                  ComputedFields: "_is_expired"
                   Insert: {
                     "deadline_at"?: string | null,"id"?: string,"mode": Database["public"]['Enums']["attempt_mode"],"n_correct"?: number | null,"n_skipped"?: number | null,"n_wrong"?: number | null,"score"?: number | null,"started_at"?: string,"submitted_at"?: string | null,"test_id": string,"user_id"?: string
                   }
@@ -243,7 +243,53 @@ isOneToOne: false
             [_ in never]: never
           }
           Functions: {
-            [_ in never]: never
+            "_grace":
+{ Args: Record<PropertyKey, never>; Returns: string
+                           },
+"_is_expired":
+{ Args: { "a": Omit<Database["public"]['Tables']["attempts"]['Row'], Database["public"]['Tables']["attempts"]['ComputedFields']> }; Returns: boolean
+                           },
+"_own_attempt":
+{ Args: { "p_attempt_id": string }; Returns: {
+              "deadline_at": string | null,
+"id": string,
+"mode": Database["public"]['Enums']["attempt_mode"],
+"n_correct": number | null,
+"n_skipped": number | null,
+"n_wrong": number | null,
+"score": number | null,
+"started_at": string,
+"submitted_at": string | null,
+"test_id": string,
+"user_id": string
+            }
+                          SetofOptions: {
+        from: "*"
+        to: "attempts"
+        isOneToOne: true
+        isSetofReturn: false
+      } },
+"create_custom_test":
+{ Args: { "p_count": number,"p_duration_sec"?: number,"p_topic_ids": (string)[] }; Returns: string
+                           },
+"get_attempt":
+{ Args: { "p_attempt_id": string }; Returns: Json
+                           },
+"get_attempt_review":
+{ Args: { "p_attempt_id": string }; Returns: Json
+                           },
+"save_answer":
+{ Args: { "p_attempt_id": string,"p_marked"?: boolean,"p_question_id": string,"p_selected_key": string }; Returns: Json
+                           },
+"start_attempt":
+{ Args: { "p_mode": Database["public"]['Enums']["attempt_mode"],"p_test_id": string }; Returns: string
+                           },
+"submit_attempt":
+{ Args: { "p_attempt_id": string }; Returns: Json
+                           },
+"submit_expired_attempts":
+{ Args: Record<PropertyKey, never>; Returns: number
+                           }
           }
           Enums: {
             "attempt_mode": "timed"|"practice","difficulty": "easy"|"medium"|"hard","test_kind": "mock"|"pyq"|"custom"
