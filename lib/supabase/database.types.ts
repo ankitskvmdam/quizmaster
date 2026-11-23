@@ -255,6 +255,20 @@ isOneToOne: false
       referencedColumns: ["id"]
     }
                   ]
+                },"exams": {
+                  Row: {
+                    "description": string,"description_hi": string | null,"name": string,"name_hi": string | null,"position": number,"slug": string,"updated_at": string
+                  }
+                  ComputedFields: never
+                  Insert: {
+                    "description"?: string,"description_hi"?: string | null,"name": string,"name_hi"?: string | null,"position"?: number,"slug": string,"updated_at"?: string
+                  }
+                  Update: {
+                    "description"?: string,"description_hi"?: string | null,"name"?: string,"name_hi"?: string | null,"position"?: number,"slug"?: string,"updated_at"?: string
+                  }
+                  Relationships: [
+                    
+                  ]
                 },"lesson_progress": {
                   Row: {
                     "completed_at": string,"lesson_id": string,"user_id": string
@@ -311,14 +325,14 @@ isOneToOne: false
                   ]
                 },"questions": {
                   Row: {
-                    "ca_category_slug": string | null,"ca_month_id": string | null,"chapter_id": string | null,"correct_key": string,"created_at": string,"difficulty": Database["public"]['Enums']["difficulty"],"explanation_md": string,"explanation_md_hi": string | null,"id": string,"options": NonNullable<Json>,"options_hi": Json | null,"retired": boolean,"slug": string,"source": string | null,"stem_md": string,"stem_md_hi": string | null,"tags": (string)[],"topic_id": string | null,"updated_at": string
+                    "ca_category_slug": string | null,"ca_month_id": string | null,"chapter_id": string | null,"correct_key": string,"created_at": string,"difficulty": Database["public"]['Enums']["difficulty"],"explanation_md": string,"explanation_md_hi": string | null,"id": string,"options": NonNullable<Json>,"options_hi": Json | null,"paper_test_id": string | null,"retired": boolean,"slug": string,"source": string | null,"stem_md": string,"stem_md_hi": string | null,"tags": (string)[],"topic_id": string | null,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"correct_key": string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"explanation_md_hi"?: string | null,"id"?: string,"options": NonNullable<Json>,"options_hi"?: Json | null,"retired"?: boolean,"slug": string,"source"?: string | null,"stem_md": string,"stem_md_hi"?: string | null,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
+                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"correct_key": string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"explanation_md_hi"?: string | null,"id"?: string,"options": NonNullable<Json>,"options_hi"?: Json | null,"paper_test_id"?: string | null,"retired"?: boolean,"slug": string,"source"?: string | null,"stem_md": string,"stem_md_hi"?: string | null,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
                   }
                   Update: {
-                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"correct_key"?: string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"explanation_md_hi"?: string | null,"id"?: string,"options"?: NonNullable<Json>,"options_hi"?: Json | null,"retired"?: boolean,"slug"?: string,"source"?: string | null,"stem_md"?: string,"stem_md_hi"?: string | null,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
+                    "ca_category_slug"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"correct_key"?: string,"created_at"?: string,"difficulty"?: Database["public"]['Enums']["difficulty"],"explanation_md"?: string,"explanation_md_hi"?: string | null,"id"?: string,"options"?: NonNullable<Json>,"options_hi"?: Json | null,"paper_test_id"?: string | null,"retired"?: boolean,"slug"?: string,"source"?: string | null,"stem_md"?: string,"stem_md_hi"?: string | null,"tags"?: (string)[],"topic_id"?: string | null,"updated_at"?: string
                   }
                   Relationships: [
                     {
@@ -338,6 +352,12 @@ isOneToOne: false
       columns: ["chapter_id"]
 isOneToOne: false
       referencedRelation: "book_chapters"
+      referencedColumns: ["id"]
+    },{
+      foreignKeyName: "questions_paper_test_id_fkey"
+      columns: ["paper_test_id"]
+isOneToOne: false
+      referencedRelation: "tests"
       referencedColumns: ["id"]
     },{
       foreignKeyName: "questions_topic_id_fkey"
@@ -409,14 +429,14 @@ isOneToOne: false
                   ]
                 },"tests": {
                   Row: {
-                    "ca_month_id": string | null,"chapter_id": string | null,"created_at": string,"created_by": string | null,"duration_sec": number | null,"id": string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct": number,"marks_wrong": number,"published": boolean,"published_at": string | null,"slug": string | null,"subject_id": string | null,"title": string,"title_hi": string | null,"updated_at": string,"year": number | null
+                    "ca_month_id": string | null,"chapter_id": string | null,"created_at": string,"created_by": string | null,"duration_sec": number | null,"exam_slug": string | null,"id": string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct": number,"marks_wrong": number,"paper_date": string | null,"paper_label": string | null,"published": boolean,"published_at": string | null,"slug": string | null,"subject_id": string | null,"title": string,"title_hi": string | null,"updated_at": string,"year": number | null
                   }
                   ComputedFields: never
                   Insert: {
-                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"id"?: string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title": string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
+                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"exam_slug"?: string | null,"id"?: string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"paper_date"?: string | null,"paper_label"?: string | null,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title": string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
                   }
                   Update: {
-                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"id"?: string,"kind"?: Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title"?: string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
+                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"exam_slug"?: string | null,"id"?: string,"kind"?: Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"paper_date"?: string | null,"paper_label"?: string | null,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title"?: string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
                   }
                   Relationships: [
                     {
@@ -431,6 +451,12 @@ isOneToOne: false
 isOneToOne: false
       referencedRelation: "book_chapters"
       referencedColumns: ["id"]
+    },{
+      foreignKeyName: "tests_exam_slug_fkey"
+      columns: ["exam_slug"]
+isOneToOne: false
+      referencedRelation: "exams"
+      referencedColumns: ["slug"]
     },{
       foreignKeyName: "tests_subject_id_fkey"
       columns: ["subject_id"]
@@ -528,6 +554,9 @@ isOneToOne: false
 { Args: { "p_limit"?: number,"p_query": string }; Returns: {
               "body": string,"body_hi": string,"book_slug": string,"course_slug": string,"item_slug": string,"kind": string,"node_path": string,"number": number,"rank": number,"title": string,"title_hi": string
             }[]
+                           },
+"search_fold":
+{ Args: { "t": string }; Returns: string
                            },
 "set_marked":
 { Args: { "p_attempt_id": string,"p_marked": boolean,"p_question_id": string }; Returns: undefined

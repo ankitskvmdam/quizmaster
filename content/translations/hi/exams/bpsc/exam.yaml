@@ -1,0 +1,6 @@
+slug: bpsc
+name: बीपीएससी
+description: "बिहार लोक सेवा आयोग, संयुक्त प्रतियोगी परीक्षा: प्रारंभिक सामान्य अध्ययन।"
+position: 1
+duration_min: 120
+marks: { correct: 1, wrong: -0.33 }

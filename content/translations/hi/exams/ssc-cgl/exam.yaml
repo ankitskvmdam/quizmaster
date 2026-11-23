@@ -1,0 +1,6 @@
+slug: ssc-cgl
+name: एसएससी सीजीएल
+description: "कर्मचारी चयन आयोग, संयुक्त स्नातक स्तर: टियर 1।"
+position: 2
+duration_min: 60
+marks: { correct: 2, wrong: -0.5 }

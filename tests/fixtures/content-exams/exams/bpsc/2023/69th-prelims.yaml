@@ -1,0 +1,8 @@
+slug: 69th-prelims
+title: BPSC 69th Prelims
+date: 2023-09-30
+label: Set A
+source: bpsc.bih.nic.in
+questions:
+  - { slug: fx-pyq-bpsc69-001, difficulty: medium, stem: "Which year: 1857?", options: { A: "1857", B: "1858", C: "1859", D: "1860" }, answer: A, explanation: "It was 1857." }
+  - { slug: fx-pyq-bpsc69-002, difficulty: medium, stem: "Which year: 1857?", options: { A: "1857", B: "1858", C: "1859", D: "1860" }, answer: A, explanation: "It was 1857.", topic: gs/history/ancient/india }

@@ -1,0 +1,6 @@
+slug: ssc-chsl
+name: एसएससी सीएचएसएल
+description: "कर्मचारी चयन आयोग, संयुक्त उच्चतर माध्यमिक स्तर: टियर 1।"
+position: 3
+duration_min: 60
+marks: { correct: 2, wrong: -0.5 }

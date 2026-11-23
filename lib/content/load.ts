@@ -12,6 +12,8 @@ import {
   caTestFile,
   bookFile,
   chapterFrontmatter,
+  examFile,
+  paperFile,
   categoriesFile,
   sectionsFile,
   lessonFrontmatter,
@@ -67,6 +69,7 @@ export type ChapterItem = {
   position: number
   covers: string[] // full tree paths
 } & Hi<'title_hi' | 'gist_md_hi'>
+export type ExamItem = { slug: string; name: string; description: string; position: number } & Hi<'name_hi' | 'description_hi'>
 export type SectionItem = { subjectSlug: string; slug: string; name: string; kind: 'topics' | 'current_affairs'; position: number }
 export type CategoryItem = { slug: string; name: string; position: number }
 export type CaNoteItem = {
@@ -93,6 +96,7 @@ export type QuestionItem = {
   caMonthRef: string | null // "<subject>/<section>/<YYYY-MM>" for current-affairs questions
   categorySlug: string | null
   chapterRef: string | null // "<course>/<subject path>/<book>/<chapter>" for chapter quiz questions
+  paperRef: string | null // the paper's test slug, for an untagged previous-year paper question
   stem_md: string
   options: { key: string; text_md: string }[]
   correctKey: string
@@ -108,7 +112,7 @@ export type TestItem = {
   slug: string
   title: string
   kind: 'mock' | 'pyq' | 'chapter'
-  subjectSlug: string
+  subjectSlug: string | null // null for a previous-year paper, which belongs to an exam
   year: number | null
   durationSec: number | null
   marksCorrect: number
@@ -117,9 +121,13 @@ export type TestItem = {
   questionSlugs: string[]
   caMonthRef: string | null // set for a month's fixed paper
   chapterRef: string | null // set for a chapter's quiz
+  examSlug: string | null // set for a previous-year paper
+  paperDate: string | null
+  paperLabel: string | null
 } & Hi<'title_hi'>
 export type ContentBundle = {
   subjects: SubjectItem[]
+  exams: ExamItem[]
   sections: SectionItem[]
   categories: CategoryItem[]
   months: MonthItem[]
@@ -135,6 +143,7 @@ import { foldedIntoList } from './markdown-checks'
 export { foldedIntoList }
 
 const TESTS_DIR = 'tests'
+const EXAMS_DIR = 'exams'
 const BOOKS_DIR = 'books'
 
 /** Reads and validates the whole content folder. Throws ContentError listing every problem found. */
@@ -143,6 +152,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
   const rel = (p: string) => path.relative(root, p).split(path.sep).join('/')
   const bundle: ContentBundle = {
     subjects: [],
+    exams: [],
     sections: [],
     categories: [],
     months: [],
@@ -176,8 +186,8 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     }
   }
 
-  type QuestionRefs = { topicRef: string | null; caMonthRef: string | null; categorySlug: string | null; chapterRef: string | null }
-  const topicRefs_ = (topicRef: string): QuestionRefs => ({ topicRef, caMonthRef: null, categorySlug: null, chapterRef: null })
+  type QuestionRefs = { topicRef: string | null; caMonthRef: string | null; categorySlug: string | null; chapterRef: string | null; paperRef: string | null }
+  const topicRefs_ = (topicRef: string): QuestionRefs => ({ topicRef, caMonthRef: null, categorySlug: null, chapterRef: null, paperRef: null })
 
   function addQuestion(q: QuestionShape, refs: QuestionRefs, file: string) {
     const keys = Object.keys(q.options)
@@ -281,7 +291,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             continue
           }
           monthQuestions.add(q.slug)
-          addQuestion(shape, { topicRef: null, caMonthRef: monthRef, categorySlug: category, chapterRef: null }, rel(qFile))
+          addQuestion(shape, { topicRef: null, caMonthRef: monthRef, categorySlug: category, chapterRef: null, paperRef: null }, rel(qFile))
         }
       }
 
@@ -314,6 +324,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           questionSlugs: t.questions,
           caMonthRef: monthRef,
           chapterRef: null,
+          examSlug: null,
+          paperDate: null,
+          paperLabel: null,
         })
       }
     }
@@ -321,7 +334,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
 
   // Subjects → topics → lessons and question banks
   for (const subjectDir of await dirs(root)) {
-    if (subjectDir === TESTS_DIR || subjectDir === TRANSLATIONS_DIR) continue
+    if (subjectDir === TESTS_DIR || subjectDir === TRANSLATIONS_DIR || subjectDir === EXAMS_DIR) continue
     const sPath = path.join(root, subjectDir)
     // A course is described by course.yaml (subject.yaml is the older name and still works).
     const sFile = (await exists(path.join(sPath, 'course.yaml'))) ? path.join(sPath, 'course.yaml') : path.join(sPath, 'subject.yaml')
@@ -460,7 +473,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             const qf = path.join(bDir, quizName)
             const chapterRef = `${bookRef}/${fm.slug}`
             const qs = check(questionsFile, await readYaml(qf), rel(qf)) ?? []
-            for (const q of qs) addQuestion(q, { topicRef: null, caMonthRef: null, categorySlug: null, chapterRef }, rel(qf))
+            for (const q of qs) addQuestion(q, { topicRef: null, caMonthRef: null, categorySlug: null, chapterRef, paperRef: null }, rel(qf))
             sources.set(rel(qf), { kind: 'questions' })
             if (qs.length) {
               const slug = `book-${subjectPath.replace(/\//g, '-')}-${bookSlug}-${fm.slug}`
@@ -483,6 +496,9 @@ export async function loadContent(root: string): Promise<ContentBundle> {
                 questionSlugs: qs.map((q) => q.slug),
                 caMonthRef: null,
                 chapterRef,
+                examSlug: null,
+                paperDate: null,
+                paperLabel: null,
               }
               bundle.tests.push(quiz)
               chapterSource.quiz = quiz
@@ -558,10 +574,83 @@ export async function loadContent(root: string): Promise<ContentBundle> {
       questionSlugs,
       caMonthRef: null,
       chapterRef: null,
+      examSlug: null,
+      paperDate: null,
+      paperLabel: null,
     }
     bundle.tests.push(testItem)
     sources.set(rel(f), { kind: 'test', item: testItem })
   }
+
+  // Exams and their previous-year papers: exams/<exam>/exam.yaml and exams/<exam>/<year>/<paper>.yaml
+  const examsPath = path.join(root, EXAMS_DIR)
+  for (const examDir of await dirs(examsPath).catch(() => [] as string[])) {
+    const ePath = path.join(examsPath, examDir)
+    const eFile = path.join(ePath, 'exam.yaml')
+    if (!(await exists(eFile))) {
+      issues.push({ file: rel(ePath), message: 'an exam folder needs an exam.yaml' })
+      continue
+    }
+    const exam = check(examFile, await readYaml(eFile), rel(eFile))
+    if (!exam) continue
+    if (exam.slug !== examDir) issues.push({ file: rel(eFile), message: `slug "${exam.slug}" must match its folder "${examDir}"` })
+    const examItem: ExamItem = { slug: exam.slug, name: exam.name, description: exam.description, position: exam.position }
+    bundle.exams.push(examItem)
+    sources.set(rel(eFile), { kind: 'exam', item: examItem })
+
+    for (const name of await files(ePath)) {
+      if (name !== 'exam.yaml') issues.push({ file: rel(path.join(ePath, name)), message: 'put each paper in a year folder, e.g. 2023/' })
+    }
+    for (const yearDir of await dirs(ePath)) {
+      const yPath = path.join(ePath, yearDir)
+      if (!/^\d{4}$/.test(yearDir)) {
+        issues.push({ file: rel(yPath), message: `"${yearDir}" is not a year folder; name it like 2023` })
+        continue
+      }
+      for (const name of (await files(yPath)).filter((n) => n.endsWith('.yaml'))) {
+        const f = path.join(yPath, name)
+        const paper = check(paperFile, await readYaml(f), rel(f))
+        if (!paper) continue
+        const slug = `pyq-${exam.slug}-${paper.slug}`
+        if (testSlugs.has(slug)) {
+          issues.push({ file: rel(f), message: `${slug}: duplicate test slug (another paper of ${exam.name} uses "${paper.slug}")` })
+          continue
+        }
+        testSlugs.add(slug)
+        const questionSlugs: string[] = []
+        for (const q of paper.questions) {
+          const { topic, ...shape } = q
+          if (topic && !topicRefs.has(topic)) {
+            issues.push({ file: rel(f), message: `${q.slug}: topic "${topic}" does not exist` })
+            continue
+          }
+          addQuestion(shape, { topicRef: topic ?? null, caMonthRef: null, categorySlug: null, chapterRef: null, paperRef: topic ? null : slug }, rel(f))
+          questionSlugs.push(q.slug)
+        }
+        const marks = paper.marks ?? exam.marks
+        const testItem: TestItem = {
+          slug,
+          title: paper.title,
+          kind: 'pyq',
+          subjectSlug: null,
+          year: Number(yearDir),
+          durationSec: Math.round((paper.duration_min ?? exam.duration_min) * 60),
+          marksCorrect: marks.correct,
+          marksWrong: marks.wrong,
+          published: paper.published,
+          questionSlugs,
+          caMonthRef: null,
+          chapterRef: null,
+          examSlug: exam.slug,
+          paperDate: paper.date,
+          paperLabel: paper.label,
+        }
+        bundle.tests.push(testItem)
+        sources.set(rel(f), { kind: 'paper', item: testItem })
+      }
+    }
+  }
+  bundle.exams.sort((a, b) => a.position - b.position || a.slug.localeCompare(b.slug))
 
   for (const ref of pendingRefs) {
     if (!questionFiles.has(ref.slug)) {

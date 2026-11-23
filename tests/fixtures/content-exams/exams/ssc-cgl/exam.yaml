@@ -1,0 +1,6 @@
+slug: ssc-cgl
+name: SSC CGL
+description: Combined Graduate Level, Tier 1.
+position: 2
+duration_min: 60
+marks: { correct: 2, wrong: -0.5 }

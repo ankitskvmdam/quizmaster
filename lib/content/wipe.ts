@@ -10,8 +10,9 @@ type Table = keyof Database['public']['Tables']
  */
 export const CONTENT_TABLES: Table[] = [
   'attempts', // attempt_answers cascade
-  'tests', // test_questions cascade
-  'questions',
+  'test_questions',
+  'questions', // before tests: a paper's questions point at their test
+  'tests',
   'lesson_progress',
   'lessons',
   'chapter_progress',
@@ -25,6 +26,7 @@ export const CONTENT_TABLES: Table[] = [
   'topics',
   'sections',
   'subjects',
+  'exams',
 ]
 
 /** A filter that matches every row, by a column each table is guaranteed to have. */
@@ -34,6 +36,8 @@ const KEY: Partial<Record<Table, string>> = {
   chapter_topics: 'chapter_id',
   ca_progress: 'month_id',
   ca_categories: 'slug',
+  test_questions: 'test_id',
+  exams: 'slug',
 }
 
 /** Counts content rows; with `yes`, deletes them all. Returns the counts found before deleting. */

@@ -76,6 +76,44 @@ export const testFile = z
 export type QuestionShape = z.infer<typeof questionShape>
 
 // ---------------------------------------------------------------------------
+// Exams and their previous-year papers (content/exams/<exam>/exam.yaml + <year>/<paper>.yaml)
+// ---------------------------------------------------------------------------
+const marks = z.object({ correct: z.number().positive(), wrong: z.number().max(0, 'must be 0 or negative') }).strict()
+
+export const examFile = z
+  .object({
+    slug,
+    name: z.string().min(1),
+    description: z.string().default(''),
+    position: z.number().int(),
+    duration_min: z.number().positive(), // default for its papers
+    marks, // default for its papers
+  })
+  .strict()
+
+/** A paper question: optionally tagged to a syllabus node ("<course>/<path>"), which also puts it in that practice. */
+const paperQuestion = questionShape.extend({
+  topic: z.string().regex(/^[a-z0-9-]+(\/[a-z0-9-]+)+$/, 'must be "<course>/<path in the tree>"').optional(),
+})
+
+export const paperFile = z
+  .object({
+    slug, // unique within the exam; the test slug is pyq-<exam>-<slug>
+    title: z.string().min(1),
+    date: z
+      .union([z.string(), z.date()])
+      .transform((d) => (d instanceof Date ? d.toISOString().slice(0, 10) : d))
+      .pipe(z.string().regex(/^\d{4}-\d{2}-\d{2}$/, 'must be a date like 2023-09-30')),
+    label: z.string().min(1), // e.g. "Shift 1" or "Set A"
+    duration_min: z.number().positive().optional(),
+    marks: marks.optional(),
+    source: z.string().optional(), // where the paper and its answer key came from
+    published: z.boolean().default(true),
+    questions: z.array(paperQuestion).min(1),
+  })
+  .strict()
+
+// ---------------------------------------------------------------------------
 // Sections and monthly current affairs
 // ---------------------------------------------------------------------------
 export const RESERVED_TOPIC_SLUGS = ['current-affairs', 'books'] as const
