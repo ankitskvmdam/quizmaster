@@ -10,6 +10,15 @@ describe('safeNext', () => {
     expect(safeNext('https://evil.com')).toBe('/study')
     expect(safeNext('/\\evil.com')).toBe('/study')
   })
+  it('falls back when a tab or newline would make the browser read it as //host', () => {
+    expect(safeNext('/\t/evil.com')).toBe('/study')
+    expect(safeNext('/\n/evil.com')).toBe('/study')
+    expect(safeNext('/\r\n/evil.com/phish')).toBe('/study')
+    expect(safeNext('\t//evil.com')).toBe('/study')
+  })
+  it('keeps the path, query and hash of a same-site URL', () => {
+    expect(safeNext('/past?page=2#mine')).toBe('/past?page=2#mine')
+  })
   it('falls back for missing values', () => {
     expect(safeNext(null)).toBe('/study')
     expect(safeNext(undefined, '/past')).toBe('/past')
