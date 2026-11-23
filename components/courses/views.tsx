@@ -30,7 +30,10 @@ function trail(ctx: Ctx, path: string | null, includeSelf = false) {
 // A node: books (on a subject) first, then its notes — note groups below it and its own notes — and practice over the whole branch
 // ---------------------------------------------------------------------------
 export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
-  const empty = node.children.length === 0 && node.lessons.length === 0 && node.books.length === 0
+  // A subject shows its books on the shelf; a section shows the book chapters tagged to it instead.
+  const tagged = node.books.length === 0 ? node.taggedChapters : []
+  const taggedBooks = [...new Map(tagged.map((t) => [t.book.id, t.book])).values()]
+  const empty = node.children.length === 0 && node.lessons.length === 0 && node.books.length === 0 && tagged.length === 0
   return (
     <>
       <Breadcrumbs items={trail(ctx, node.path)} current={node.name} />
@@ -54,6 +57,38 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
             </EmptyState>
           </Panel>
         )}
+
+        {taggedBooks.map((book) => {
+          const rows = tagged.filter((t) => t.book.id === book.id)
+          return (
+            <section key={book.id} aria-labelledby={`from-${book.id}`}>
+              <h2 id={`from-${book.id}`} className="mb-3 text-lg font-semibold">
+                From {book.title}
+              </h2>
+              <Panel>
+                <ol className="-my-2 flex flex-col">
+                  {rows.map(({ chapter, subjectPath }, i) => (
+                    <li key={chapter.id} className={cn(i > 0 && 'border-t border-hairline')}>
+                      <Link
+                        href={`${nodeHref(ctx, subjectPath)}/books/${book.slug}/${chapter.slug}`}
+                        className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3.5 hover:bg-soft"
+                      >
+                        <Mono className="w-6 text-sm text-muted-foreground">{String(chapter.number).padStart(2, '0')}</Mono>
+                        <span className="flex-1 font-medium">{chapter.title}</span>
+                        {chapter.read && (
+                          <span className="flex items-center gap-1 text-[13px] text-correct-fg">
+                            <Check className="size-4" aria-hidden />
+                            Read
+                          </span>
+                        )}
+                      </Link>
+                    </li>
+                  ))}
+                </ol>
+              </Panel>
+            </section>
+          )
+        })}
 
         {node.books.length > 0 && (
           <section aria-labelledby="books">
