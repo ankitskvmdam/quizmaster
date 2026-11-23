@@ -12,7 +12,7 @@ export default function NotFound() {
         title="We couldn't find that page"
         action={
           <Button asChild variant="secondary">
-            <Link href="/subjects">Browse subjects</Link>
+            <Link href="/courses">Browse courses</Link>
           </Button>
         }
       >

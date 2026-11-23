@@ -13,7 +13,7 @@ import { StartActions } from '@/components/tests/start-actions'
 import { ActionButton } from '@/components/action-button'
 import { EmptyState } from '@/components/empty-state'
 
-type Props = PageProps<'/subjects/[subject]/current-affairs/[month]'>
+type Props = PageProps<'/courses/[course]/current-affairs/[month]'>
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { month } = await params
@@ -21,11 +21,11 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 export default async function MonthPage({ params }: Props) {
-  const { subject, month } = await params
+  const { course: subject, month } = await params
   if (!isMonthKey(month)) notFound()
   const data = await getMonth(subject, month)
   if (!data) notFound()
-  const base = `/subjects/${subject}/current-affairs`
+  const base = `/courses/${subject}/current-affairs`
   const label = formatMonth(month)
 
   return (
@@ -33,7 +33,7 @@ export default async function MonthPage({ params }: Props) {
       <PageHeader
         eyebrow={
           <>
-            <Link href={`/subjects/${subject}`} className="hover:underline">
+            <Link href={`/courses/${subject}`} className="hover:underline">
               {data.section.subject.name}
             </Link>{' '}
             ·{' '}

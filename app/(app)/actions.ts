@@ -117,3 +117,15 @@ export async function markCategoryRead(monthId: string, categorySlug: string, re
   if (error) return { error: 'Could not save your progress. Try again.' }
   revalidatePath('/', 'layout')
 }
+
+// ---------------------------------------------------------------------------
+// Books
+// ---------------------------------------------------------------------------
+export async function markChapterRead(chapterId: string, read: boolean): Promise<ActionResult> {
+  const supabase = await createClient()
+  const { error } = read
+    ? await supabase.from('chapter_progress').upsert({ chapter_id: chapterId }, { onConflict: 'user_id,chapter_id', ignoreDuplicates: true })
+    : await supabase.from('chapter_progress').delete().eq('chapter_id', chapterId)
+  if (error) return { error: 'Could not save your progress. Try again.' }
+  revalidatePath('/', 'layout')
+}

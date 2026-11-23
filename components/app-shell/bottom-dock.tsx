@@ -7,7 +7,7 @@ import { cn } from '@/lib/utils'
 
 export const DOCK_ITEMS: { href: string; label: string; icon: LucideIcon }[] = [
   { href: '/study', label: 'Study', icon: House },
-  { href: '/subjects', label: 'Subjects', icon: Library },
+  { href: '/courses', label: 'Courses', icon: Library },
   { href: '/tests', label: 'Tests', icon: ClipboardList },
   { href: '/past', label: 'Past tests', icon: History },
   { href: '/new', label: 'New', icon: Sparkles },

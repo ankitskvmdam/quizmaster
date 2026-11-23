@@ -11,8 +11,8 @@ import { PeriodPicker } from '@/components/ca/period-picker'
 
 export const metadata: Metadata = { title: 'Current Affairs' }
 
-export default async function CurrentAffairsPage({ params }: PageProps<'/subjects/[subject]/current-affairs'>) {
-  const { subject } = await params
+export default async function CurrentAffairsPage({ params }: PageProps<'/courses/[course]/current-affairs'>) {
+  const { course: subject } = await params
   const section = await getCaSection(subject)
   if (!section) notFound()
   const months = await listMonths(subject)
@@ -24,7 +24,7 @@ export default async function CurrentAffairsPage({ params }: PageProps<'/subject
     <>
       <PageHeader
         eyebrow={
-          <Link href={`/subjects/${subject}`} className="hover:underline">
+          <Link href={`/courses/${subject}`} className="hover:underline">
             {section.subject.name}
           </Link>
         }

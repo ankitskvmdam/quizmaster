@@ -11,7 +11,7 @@ import { NoteCard } from '@/components/ca/note-card'
 import { ActionButton } from '@/components/action-button'
 import { Button } from '@/components/ui/button'
 
-type Props = PageProps<'/subjects/[subject]/current-affairs/period/[category]'>
+type Props = PageProps<'/courses/[course]/current-affairs/period/[category]'>
 
 export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { category } = await params
@@ -21,13 +21,13 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 }
 
 export default async function PeriodNotesPage({ params, searchParams }: Props) {
-  const { subject, category } = await params
+  const { course: subject, category } = await params
   const sp = await searchParams
   const period = parsePeriod(typeof sp.from === 'string' ? sp.from : undefined, typeof sp.to === 'string' ? sp.to : undefined)
   if (!period) notFound()
   const data = await getPeriodNotes(subject, period, category)
   if (!data) notFound()
-  const periodHref = `/subjects/${subject}/current-affairs/period?from=${period.from}&to=${period.to}`
+  const periodHref = `/courses/${subject}/current-affairs/period?from=${period.from}&to=${period.to}`
   const total = data.groups.reduce((n, g) => n + g.notes.length, 0)
 
   return (

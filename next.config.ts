@@ -5,6 +5,13 @@ const nextConfig: NextConfig = {
   // Cache Components would force a Suspense split on every page for no gain here.
   cacheComponents: false,
   partialPrefetching: false,
+  // "Subjects" became "Courses": keep old links working.
+  async redirects() {
+    return [
+      { source: "/subjects", destination: "/courses", permanent: true },
+      { source: "/subjects/:path*", destination: "/courses/:path*", permanent: true },
+    ];
+  },
   turbopack: {
     rules: {
       "*.css": {

@@ -12,20 +12,20 @@ import { ActionButton } from '@/components/action-button'
 import { Button } from '@/components/ui/button'
 import { MarkRead } from './mark-read'
 
-type Props = PageProps<'/subjects/[subject]/current-affairs/[month]/[category]'>
+type Props = PageProps<'/courses/[course]/current-affairs/[month]/[category]'>
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  const { subject, month, category } = await params
+  const { course: subject, month, category } = await params
   const data = isMonthKey(month) ? await getCategoryNotes(subject, month, category) : null
   return { title: data ? `${data.category.name} · ${formatMonth(month)}` : 'Current affairs' }
 }
 
 export default async function CategoryNotesPage({ params }: Props) {
-  const { subject, month, category } = await params
+  const { course: subject, month, category } = await params
   if (!isMonthKey(month)) notFound()
   const data = await getCategoryNotes(subject, month, category)
   if (!data) notFound()
-  const monthHref = `/subjects/${subject}/current-affairs/${month}`
+  const monthHref = `/courses/${subject}/current-affairs/${month}`
 
   return (
     <article className="mx-auto max-w-[70ch]">

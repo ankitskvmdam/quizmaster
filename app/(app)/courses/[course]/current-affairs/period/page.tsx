@@ -12,7 +12,7 @@ import { CategoryRow } from '@/components/ca/category-row'
 import { PeriodPicker } from '@/components/ca/period-picker'
 import { PeriodRevision } from '@/components/ca/period-revision'
 
-type Props = PageProps<'/subjects/[subject]/current-affairs/period'>
+type Props = PageProps<'/courses/[course]/current-affairs/period'>
 
 export async function generateMetadata({ searchParams }: Props): Promise<Metadata> {
   const sp = await searchParams
@@ -21,15 +21,15 @@ export async function generateMetadata({ searchParams }: Props): Promise<Metadat
 }
 
 export default async function PeriodPage({ params, searchParams }: Props) {
-  const { subject } = await params
+  const { course: subject } = await params
   const sp = await searchParams
   const section = await getCaSection(subject)
   if (!section) notFound()
   const period = parsePeriod(typeof sp.from === 'string' ? sp.from : undefined, typeof sp.to === 'string' ? sp.to : undefined)
-  const base = `/subjects/${subject}/current-affairs`
+  const base = `/courses/${subject}/current-affairs`
   const eyebrow = (
     <>
-      <Link href={`/subjects/${subject}`} className="hover:underline">
+      <Link href={`/courses/${subject}`} className="hover:underline">
         {section.subject.name}
       </Link>{' '}
       ·{' '}

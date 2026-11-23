@@ -40,7 +40,7 @@ async function orderedLessons(): Promise<OrderedLesson[]> {
             topicId: t.id,
             done: done.has(l.id),
             title: l.title,
-            href: `/subjects/${s.slug}/${t.slug}/${l.slug}`,
+            href: `/courses/${s.slug}/${t.slug}/${l.slug}`,
             topicName: t.name,
             topicSlug: t.slug,
           })),
@@ -75,7 +75,7 @@ export async function getContinue(): Promise<Continue> {
   if (ca && nextCa) {
     return {
       type: 'ca',
-      href: `/subjects/${ca.subjectSlug}/current-affairs/${nextCa.month}/${nextCa.category.slug}`,
+      href: `/courses/${ca.subjectSlug}/current-affairs/${nextCa.month}/${nextCa.category.slug}`,
       categoryName: nextCa.category.name,
       monthLabel: formatMonth(nextCa.month),
     }
@@ -131,7 +131,7 @@ export async function getTopicProgress(): Promise<TopicProgress[]> {
         return {
           topicId: t.id,
           name: t.name,
-          href: `/subjects/${s.slug}/${t.slug}`,
+          href: `/courses/${s.slug}/${t.slug}`,
           done: t.lessons.filter((l) => done.has(l.id)).length,
           total: t.lessons.length,
           accuracy: tl && tl.total > 0 ? tl.right / tl.total : null,
@@ -184,7 +184,7 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
     ...lessonsRes.data.map((l) => ({
       type: 'lesson' as const,
       title: l.title,
-      href: `/subjects/${l.topics?.subjects?.slug}/${l.topics?.slug}/${l.slug}`,
+      href: `/courses/${l.topics?.subjects?.slug}/${l.topics?.slug}/${l.slug}`,
       where: `${l.topics?.subjects?.name} · ${l.topics?.name}`,
       publishedAt: l.published_at!,
       isNew: isNewItem(l.published_at, done.has(l.id), now),
@@ -204,7 +204,7 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
     items.push({
       type: 'month',
       title: `${formatMonth(m.month)} current affairs`,
-      href: `/subjects/${ca!.subjectSlug}/current-affairs/${m.month}`,
+      href: `/courses/${ca!.subjectSlug}/current-affairs/${m.month}`,
       where: `${ca!.subjectName} · ${ca!.sectionName}`,
       publishedAt: m.publishedAt,
       isNew: isNewItem(m.publishedAt, m.read > 0, now),
@@ -240,7 +240,7 @@ export async function getCaProgress(limit = 3): Promise<CaProgressRow[]> {
   return ca.months.slice(0, limit).map((m) => ({
     month: m.month,
     label: formatMonth(m.month),
-    href: `/subjects/${ca.subjectSlug}/current-affairs/${m.month}`,
+    href: `/courses/${ca.subjectSlug}/current-affairs/${m.month}`,
     read: m.read,
     total: m.categories.length,
   }))
