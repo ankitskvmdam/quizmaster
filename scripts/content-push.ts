@@ -19,7 +19,8 @@ async function main(args: string[]) {
   const bundle = await loadContent(root)
   console.log(
     `Valid: ${bundle.subjects.length} subjects, ${bundle.topics.length} topics, ${bundle.lessons.length} lessons, ` +
-      `${bundle.questions.length} questions, ${bundle.tests.length} tests.`,
+      `${bundle.questions.length} questions, ${bundle.tests.length} tests, ` +
+      `${bundle.months.length} current-affairs months (${bundle.months.reduce((n, m) => n + m.notes.length, 0)} notes).`,
   )
   const summary = await pushContent(bundle, createAdminClient(), { dry, prune, force })
   console.log(dry ? '\nDry run — nothing was written:\n' : '\nPushed:\n')
