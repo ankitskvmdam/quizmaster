@@ -362,10 +362,33 @@ export async function pushContent(
       }
     : { subjects: [], lessons: [], books: [], tests: [], months: [], notes: [], questions: [] }
 
+  // Syllabus nodes the files dropped: deleted with --prune only when nothing hangs off them (no lessons, books,
+  // questions, chapter tags or remaining children), deepest first. Anything else stays, so history is never lost.
+  const removableTopics: { id: string; path: string }[] = []
+  if (opts.prune) {
+    const depth = (t: TopicItem) => t.path.split('/').length
+    const existingTopicId = new Map(existing.topics.map((t) => [topicKey(t), t.id]))
+    const removable = new Set<string>()
+    const count = async (table: 'lessons' | 'books' | 'questions' | 'chapter_topics', id: string) => {
+      const { count: n, error } = await db.from(table).select('*', { count: 'exact', head: true }).eq('topic_id', id)
+      if (error) throw new Error(`Could not check ${table}: ${error.message}`)
+      return n ?? 0
+    }
+    for (const t of [...topicPlan.missing].sort((a, b) => depth(b) - depth(a))) {
+      const id = existingTopicId.get(topicKey(t))!
+      const children = existing.topics.filter((c) => c.subjectSlug === t.subjectSlug && c.parentPath === t.path)
+      if (children.some((c) => !removable.has(c.id))) continue
+      const used = (await Promise.all((['lessons', 'books', 'questions', 'chapter_topics'] as const).map((tb) => count(tb, id)))).some((n) => n > 0)
+      if (used) continue
+      removable.add(id)
+      removableTopics.push({ id, path: t.path })
+    }
+  }
+
   const summary: PushSummary = {
     subjects: counts(subjectPlan, { unpublished: prune.subjects.length }),
     sections: counts(sectionPlan),
-    topics: counts(topicPlan),
+    topics: counts(topicPlan, { removed: removableTopics.length }),
     books: counts(bookPlan, { unpublished: prune.books.length }),
     chapters: counts(chapterPlan),
     lessons: counts(lessonPlan, { unpublished: prune.lessons.length }),
@@ -657,6 +680,9 @@ export async function pushContent(
   }
   for (const slugs of chunk(prune.questions.map((q) => q.slug), 100)) {
     must(await db.from('questions').update({ retired: true }).in('slug', slugs), 'retire questions')
+  }
+  for (const t of removableTopics) {
+    must(await db.from('topics').delete().eq('id', t.id), 'remove nodes')
   }
 
   return summary
