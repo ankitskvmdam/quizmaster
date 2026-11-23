@@ -3,14 +3,27 @@
 import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
 import { siteUrl } from '@/lib/supabase/env'
-import { emailSchema, passwordSchema } from '@/lib/validation'
+import { emailSchema, nameSchema, passwordSchema } from '@/lib/validation'
 import { mapSignUpError } from '@/lib/auth-errors'
 import { safeNext } from '@/lib/safe-next'
 
 export type AuthState =
   | null
   | { ok: true; sentTo?: string }
-  | { ok: false; field: 'email' | 'password' | null; message: string }
+  | { ok: false; field: 'name' | 'email' | 'password' | null; message: string; values?: TypedValues }
+
+/** What was typed, sent back on failure so the form can refill it (React resets forms after an action). Never the password. */
+export type TypedValues = { name?: string; email?: string }
+
+function keepTyped(formData: FormData, result: AuthState): AuthState {
+  if (!result || result.ok) return result
+  const values: TypedValues = {}
+  const name = formData.get('name')
+  const email = formData.get('email')
+  if (typeof name === 'string') values.name = name.slice(0, 200)
+  if (typeof email === 'string') values.email = email.slice(0, 320)
+  return { ...result, values }
+}
 
 const confirmUrl = (next: string) => `${siteUrl()}/auth/confirm?next=${encodeURIComponent(next)}`
 
@@ -19,6 +32,10 @@ function readEmail(formData: FormData) {
 }
 
 export async function signIn(_prev: AuthState, formData: FormData): Promise<AuthState> {
+  return keepTyped(formData, await signInInner(formData))
+}
+
+async function signInInner(formData: FormData): Promise<AuthState> {
   const email = readEmail(formData)
   const password = String(formData.get('password') ?? '')
   if (!email.success) return { ok: false, field: 'email', message: 'Enter a valid email address.' }
@@ -36,6 +53,12 @@ export async function signIn(_prev: AuthState, formData: FormData): Promise<Auth
 }
 
 export async function signUp(_prev: AuthState, formData: FormData): Promise<AuthState> {
+  return keepTyped(formData, await signUpInner(formData))
+}
+
+async function signUpInner(formData: FormData): Promise<AuthState> {
+  const name = nameSchema.safeParse(String(formData.get('name') ?? ''))
+  if (!name.success) return { ok: false, field: 'name', message: name.error.issues[0]?.message ?? 'Enter your name.' }
   const email = readEmail(formData)
   if (!email.success) return { ok: false, field: 'email', message: 'Enter a valid email address.' }
   const password = passwordSchema.safeParse(String(formData.get('password') ?? ''))
@@ -47,7 +70,7 @@ export async function signUp(_prev: AuthState, formData: FormData): Promise<Auth
   const { error } = await supabase.auth.signUp({
     email: email.data,
     password: password.data,
-    options: { emailRedirectTo: confirmUrl('/study') },
+    options: { emailRedirectTo: confirmUrl('/study'), data: { display_name: name.data } },
   })
   if (error) return { ok: false, ...mapSignUpError(error) }
   return { ok: true, sentTo: email.data }
@@ -67,6 +90,10 @@ export async function resendConfirmation(email: string): Promise<AuthState> {
 }
 
 export async function requestReset(_prev: AuthState, formData: FormData): Promise<AuthState> {
+  return keepTyped(formData, await requestResetInner(formData))
+}
+
+async function requestResetInner(formData: FormData): Promise<AuthState> {
   const email = readEmail(formData)
   if (!email.success) return { ok: false, field: 'email', message: 'Enter a valid email address.' }
   const supabase = await createClient()

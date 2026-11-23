@@ -3,6 +3,7 @@ import Link from 'next/link'
 import { Suspense, type ReactNode } from 'react'
 import { ArrowRight, BookOpen, Dumbbell, History, PartyPopper, Timer } from 'lucide-react'
 import { getUser } from '@/lib/queries/user'
+import { firstName } from '@/lib/names'
 import { getContinue, getRecentAttempts, getTopicProgress } from '@/lib/queries/home'
 import { startQuickPractice } from '@/app/(app)/actions'
 import { formatPercent } from '@/lib/format'
@@ -144,7 +145,7 @@ export default async function StudyPage() {
   const user = await getUser()
   return (
     <>
-      <Greeting name={user.displayName} />
+      <Greeting name={firstName(user.displayName)} />
       <div className="flex flex-col gap-4">
         <Section>
           <ContinuePanel />

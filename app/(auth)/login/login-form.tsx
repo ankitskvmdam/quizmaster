@@ -26,6 +26,7 @@ export function LoginForm({ next, notice, info }: { next: string; notice?: strin
         <Input
           id="email"
           name="email"
+          defaultValue={err?.values?.email}
           type="email"
           autoComplete="email"
           inputMode="email"

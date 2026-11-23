@@ -18,6 +18,7 @@ export function SignupForm() {
   if (state?.ok && state.sentTo) return <CheckEmail email={state.sentTo} />
 
   const err = state && !state.ok ? state : null
+  const nameError = err?.field === 'name' ? err.message : null
   const emailError = err?.field === 'email' ? err.message : null
   const passwordError = err?.field === 'password' ? err.message : null
 
@@ -28,10 +29,23 @@ export function SignupForm() {
       </AuthHeading>
       <AuthForm action={action}>
         <FormError message={err?.field === null ? err.message : null} />
+        <FormField id="name" label="Name" error={nameError}>
+          <Input
+            id="name"
+            name="name"
+            defaultValue={err?.values?.name}
+            autoComplete="name"
+            required
+            maxLength={60}
+            aria-invalid={Boolean(nameError) || undefined}
+            aria-describedby={describedBy('name', nameError)}
+          />
+        </FormField>
         <FormField id="email" label="Email" error={emailError}>
           <Input
             id="email"
             name="email"
+            defaultValue={err?.values?.email}
             type="email"
             autoComplete="email"
             inputMode="email"

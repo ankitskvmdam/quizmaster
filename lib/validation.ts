@@ -20,3 +20,9 @@ export const emailSchema = z
   .trim()
   .toLowerCase()
   .pipe(z.email({ message: 'Enter a valid email address.' }))
+
+/** The name asked for at sign-up: trimmed, inner spaces collapsed, 1–60 characters. */
+export const nameSchema = z
+  .string()
+  .transform((s) => s.trim().replace(/\s+/g, ' '))
+  .pipe(z.string().min(1, 'Enter your name.').max(60, 'Use 60 characters or fewer.'))
