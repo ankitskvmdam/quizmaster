@@ -10,7 +10,7 @@ export function AppMark({ href = '/study', compact = false }: { href?: string; c
         aria-hidden
         className="size-3 rounded-full bg-gradient-to-br from-[var(--grad-1)] via-[var(--grad-2)] to-[var(--grad-3)]"
       />
-      <span className={cn('figures text-[15px] font-semibold tracking-tight', compact && 'max-[380px]:sr-only')}>
+      <span className={cn('figures text-[15px] font-semibold tracking-tight', compact && 'max-[340px]:sr-only')}>
         {BRAND.name}
       </span>
     </Link>
