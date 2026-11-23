@@ -1,0 +1,324 @@
+# Chapter 20 — Debates on the Future Strategy after Civil Disobedience Movement (book pp. 401-410)
+# ---------- EASY ----------
+- slug: smi-20-e01
+  difficulty: easy
+  stem: "In the elections to the Central Legislative Assembly in November 1934, how many of the 75 seats reserved for Indians did the Congress win?"
+  options: { A: "45", B: "52", C: "60", D: "38" }
+  answer: A
+  explanation: "The Congress captured 45 out of 75 seats reserved for Indians in the November 1934 elections."
+  source: "Spectrum (2019-20), p. 404"
+  tags: [ssc]
+
+- slug: smi-20-e02
+  difficulty: easy
+  stem: "Where did the All India Congress Committee meet in May 1934 to set up a Parliamentary Board to fight elections?"
+  options: { A: "Lucknow", B: "Patna", C: "Faizpur", D: "Wardha", E: "More than one of the above" }
+  answer: B
+  explanation: "In May 1934 the AICC met at Patna to set up a Parliamentary Board to fight elections under the Congress itself."
+  source: "Spectrum (2019-20), p. 403"
+  tags: [bpsc]
+
+- slug: smi-20-e03
+  difficulty: easy
+  stem: "In which year did Gandhi announce his resignation from the Congress 'to serve it better in thought, word and deed'?"
+  options: { A: "1932", B: "1933", C: "1934", D: "1936" }
+  answer: C
+  explanation: "Gandhi announced his resignation from the Congress in October 1934."
+  source: "Spectrum (2019-20), p. 404"
+  tags: [ssc]
+
+- slug: smi-20-e04
+  difficulty: easy
+  stem: "Who described the Government of India Act, 1935 with the words 'We are provided with a car, all brakes and no engine'?"
+  options: { A: "Subhash Bose", B: "Mahatma Gandhi", C: "B.R. Tomlinson", D: "Jawaharlal Nehru" }
+  answer: D
+  explanation: "The book quotes Jawaharlal Nehru's remark that the 1935 Act was a car with all brakes and no engine."
+  source: "Spectrum (2019-20), p. 407"
+  tags: [ssc]
+
+- slug: smi-20-e05
+  difficulty: easy
+  stem: "Under the Government of India Act, 1935, which system replaced dyarchy in the provinces?"
+  options: { A: "Provincial autonomy", B: "Responsible government at the centre", C: "Direct rule by the secretary of state", D: "Federal dyarchy" }
+  answer: A
+  explanation: "The Act provided that provincial autonomy would replace dyarchy in the provinces."
+  source: "Spectrum (2019-20), p. 405"
+  tags: [ssc]
+
+- slug: smi-20-e06
+  difficulty: easy
+  stem: "Gandhi's emphasis on which item as the 'second lung of the nation' estranged a section of people from the Congress?"
+  options: { A: "Salt", B: "Prohibition", C: "The spinning wheel", D: "Village panchayats" }
+  answer: C
+  explanation: "A section was estranged from the Congress because of Gandhi's emphasis on the spinning wheel as the 'second lung of the nation'."
+  source: "Spectrum (2019-20), p. 404"
+  tags: [ssc]
+
+- slug: smi-20-e07
+  difficulty: easy
+  stem: "In February 1937, elections to the provincial assemblies were held in how many provinces?"
+  options: { A: "Nine", B: "Eleven", C: "Eight", D: "Fourteen" }
+  answer: B
+  explanation: "Elections were held in eleven provinces, from Madras and Bihar to Punjab and Sindh."
+  source: "Spectrum (2019-20), p. 409"
+  tags: [ssc]
+
+- slug: smi-20-e08
+  difficulty: easy
+  stem: "Rejecting the 1935 Act, the Congress demanded instead"
+  options: { A: "a return to the 1919 Act", B: "a Round Table Conference", C: "dominion status within one year", D: "a Constituent Assembly elected on the basis of adult franchise" }
+  answer: D
+  explanation: "The Congress demanded a Constituent Assembly elected on adult franchise to frame a constitution for independent India."
+  source: "Spectrum (2019-20), p. 408"
+  tags: [ssc]
+
+- slug: smi-20-e09
+  difficulty: easy
+  stem: "Which of the following declared itself in favour of working the Government of India Act, 1935?"
+  options: { A: "National Liberal Foundation", B: "Indian National Congress", C: "Congress Socialists", D: "All India Kisan Sabha" }
+  answer: A
+  explanation: "The Hindu Mahasabha and the National Liberal Foundation favoured working the 1935 Act; the Congress unanimously rejected it."
+  source: "Spectrum (2019-20), pp. 407-408"
+  tags: [ssc]
+
+- slug: smi-20-e10
+  difficulty: easy
+  stem: "Which viceroy said, 'We framed the Act of 1935 because we thought that was the best way... of maintaining British influence in India'?"
+  options: { A: "Lord Willingdon", B: "Lord Linlithgow", C: "Lord Irwin", D: "Lord Wavell" }
+  answer: B
+  explanation: "The remark is attributed to Lord Linlithgow, viceroy from 1936 to 1943."
+  source: "Spectrum (2019-20), p. 407"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-20-m01
+  difficulty: medium
+  stem: "Who among the following was NOT among those who advocated council entry and participation in the 1934 Central Legislature elections?"
+  options: { A: "M.A. Ansari", B: "Bhulabhai Desai", C: "Jawaharlal Nehru", D: "B.C. Roy" }
+  answer: C
+  explanation: "Council entry was urged by Ansari, Asaf Ali, Bhulabhai Desai, Satyamurthy and B.C. Roy; Nehru led the leftists who opposed it."
+  source: "Spectrum (2019-20), pp. 401-402"
+  tags: [ssc]
+
+- slug: smi-20-m02
+  difficulty: medium
+  stem: "Against Gandhi's struggle-truce-struggle (S-T-S) strategy, Nehru suggested"
+  options: { A: "Struggle-Truce-Victory", B: "Truce-Struggle-Truce", C: "Constructive work and council entry", D: "Struggle-Victory (S-V)" }
+  answer: D
+  explanation: "Nehru advocated continuous direct action and proposed a Struggle-Victory (S-V) strategy against S-T-S."
+  source: "Spectrum (2019-20), p. 403"
+  tags: [ssc]
+
+- slug: smi-20-m03
+  difficulty: medium
+  stem: "The All India Federation under the 1935 Act was conditional on states with how many seats in the Council of States agreeing to join, and with what share of the total population of Indian states?"
+  options: { A: "52 seats; 50 per cent", B: "40 seats; 50 per cent", C: "52 seats; one-third", D: "104 seats; 40 per cent", E: "None of the above" }
+  answer: A
+  explanation: "States allotted 52 seats in the Council of States, with an aggregate population of 50 per cent of all Indian states, had to agree to join."
+  source: "Spectrum (2019-20), p. 404"
+  tags: [bpsc]
+
+- slug: smi-20-m04
+  difficulty: medium
+  stem: "Under the Government of India Act, 1935, the Federal Assembly was to be a house of"
+  options: { A: "260 members", B: "375 members", C: "250 members", D: "1,585 members" }
+  answer: B
+  explanation: "The Federal Assembly was to have 375 members (one-third nominated by princes); the Council of States was to have 260."
+  source: "Spectrum (2019-20), p. 405"
+  tags: [ssc]
+
+- slug: smi-20-m05
+  difficulty: medium
+  stem: "Which of the following was a 'reserved subject' at the federal level under the 1935 Act?"
+  options: { A: "Education", B: "Agriculture", C: "Ecclesiastical affairs", D: "Public health" }
+  answer: C
+  explanation: "Reserved subjects were foreign affairs, defence, tribal areas and ecclesiastical affairs; all others were transferred."
+  source: "Spectrum (2019-20), p. 405"
+  tags: [ssc]
+
+- slug: smi-20-m06
+  difficulty: medium
+  stem: "Under the 1935 Act, what percentage of the federal budget and of the provincial budget respectively was non-votable?"
+  options: { A: "40 per cent and 80 per cent", B: "50 per cent and 40 per cent", C: "80 per cent and 14 per cent", D: "80 per cent and 40 per cent", E: "None of the above" }
+  answer: D
+  explanation: "80 per cent of the federal budget was non-votable, and 40 per cent of the provincial budget was still not votable."
+  source: "Spectrum (2019-20), pp. 405-406"
+  tags: [bpsc]
+
+- slug: smi-20-m07
+  difficulty: medium
+  stem: "What share of the British Indian population did the Government of India Act, 1935 enfranchise?"
+  options: { A: "14 per cent", B: "10 per cent", C: "30 per cent", D: "50 per cent" }
+  answer: A
+  explanation: "The Act enfranchised 14 per cent of the British Indian population."
+  source: "Spectrum (2019-20), p. 406"
+  tags: [ssc]
+
+- slug: smi-20-m08
+  difficulty: medium
+  stem: "At which two sessions did the Congress decide to fight the provincial elections and postpone the decision on office acceptance to the post-election phase?"
+  options: { A: "Lahore and Karachi", B: "Lucknow and Faizpur", C: "Haripura and Tripuri", D: "Calcutta and Lahore", E: "None of the above" }
+  answer: B
+  explanation: "The Lucknow (early 1936) and Faizpur sessions decided to fight elections and defer the office-acceptance decision."
+  source: "Spectrum (2019-20), p. 409"
+  tags: [bpsc]
+
+- slug: smi-20-m09
+  difficulty: medium
+  stem: "In the 1937 provincial elections, the Congress won how many of the 1,161 seats it contested?"
+  options: { A: "1,585", B: "617", C: "716", D: "450" }
+  answer: C
+  explanation: "The Congress won 716 out of 1,161 seats contested; the eleven provincial assemblies had 1,585 seats in all."
+  source: "Spectrum (2019-20), p. 410"
+  tags: [ssc]
+
+- slug: smi-20-m10
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Elections to the Central Legislative Assembly in which the Congress won 45 seats
+    2. AICC meeting at Patna setting up a Parliamentary Board
+    3. Elections to provincial assemblies in eleven provinces
+    4. Gandhi's announcement of his resignation from the Congress
+  options: { A: "2, 1, 4, 3", B: "4, 2, 1, 3", C: "2, 4, 3, 1", D: "2, 4, 1, 3", E: "None of the above" }
+  answer: D
+  explanation: "Patna AICC (May 1934), Gandhi's resignation (October 1934), Central Assembly elections (November 1934), provincial elections (February 1937)."
+  source: "Spectrum (2019-20), pp. 403-404, 409"
+  tags: [bpsc]
+
+# ---------- HARD ----------
+- slug: smi-20-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the federal legislature proposed by the Government of India Act, 1935:
+
+    1. Election to the Council of States was to be direct, while that to the Federal Assembly was to be indirect.
+    2. The Council of States could move a vote of no-confidence against ministers.
+    3. The Council of States was to be a permanent body with one-third of its members retiring every third year.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 3 are correct. Only members of the Federal Assembly could move a no-confidence vote; the Council of States could not."
+  source: "Spectrum (2019-20), p. 405"
+  tags: [bpsc]
+
+- slug: smi-20-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about provincial autonomy under the Government of India Act, 1935:
+
+    1. Provinces derived their legal authority directly from the British Crown.
+    2. Women got the right to vote on the same basis as men.
+    3. Provincial governments could borrow money on their own security.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book as features of provincial autonomy under the 1935 Act."
+  source: "Spectrum (2019-20), p. 406"
+  tags: [bpsc]
+
+- slug: smi-20-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The All India Federation proposed by the Government of India Act, 1935 never came into being.
+
+    **Reason (R):** The required number of princely states, with the required share of population, did not agree to join the federation.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The federation was conditional on states with 52 Council of States seats and 50 per cent of states' population joining; since these were not fulfilled, it never came up."
+  source: "Spectrum (2019-20), p. 404"
+  tags: [bpsc]
+
+- slug: smi-20-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about Jawaharlal Nehru's position in the first stage debate (1934-35):
+
+    1. He advocated a policy of 'continuous direct action' without a constitutionalist phase.
+    2. He argued that kisan sabhas and trade unions should be allowed to affiliate with the Congress.
+    3. He supported the struggle-truce-struggle strategy as the best way to recoup the strength of the masses.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. Nehru criticised the S-T-S strategy, which was the view of Gandhi and his followers."
+  source: "Spectrum (2019-20), pp. 402-403"
+  tags: [bpsc]
+
+- slug: smi-20-h05
+  difficulty: hard
+  stem: |
+    According to the book, the long-term British strategy behind the 1935 reforms included which of the following?
+
+    1. Reviving the political standing of constitutionalist liberals and moderates.
+    2. Creating powerful provincial leaders so that the Congress would be provincialised.
+    3. Placating the radical leftists through constitutional concessions and crushing the right wing through police measures.
+
+    Select the correct answer using the code given below:
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The plan was the reverse of 3: the right wing was to be placated by concessions and radical leftists crushed by police measures."
+  source: "Spectrum (2019-20), p. 407"
+  tags: [bpsc]
+
+- slug: smi-20-h06
+  difficulty: hard
+  stem: "According to reports cited in the book, about how many persons were enfranchised for the 1937 provincial elections?"
+  options: { A: "30.1 million", B: "15.5 million", C: "4.25 million", D: "917,000" }
+  answer: A
+  explanation: "About 30.1 million persons, including 4.25 million women, were enfranchised; 15.5 million, including 917,000 women, actually voted."
+  source: "Spectrum (2019-20), p. 409"
+  tags: [ssc]
+
+- slug: smi-20-h07
+  difficulty: hard
+  stem: "In the 1937 provincial elections, the Congress won a majority in which of the following provinces?"
+  options: { A: "Bengal", B: "Punjab", C: "Sindh", D: "Bihar", E: "More than one of the above" }
+  answer: D
+  explanation: "The Congress got a majority in all provinces except Bengal, Assam, Punjab, Sindh and the NWFP, so Bihar is the only one listed."
+  source: "Spectrum (2019-20), p. 410"
+  tags: [bpsc]
+
+- slug: smi-20-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the federal executive under the Government of India Act, 1935:
+
+    1. Reserved subjects were to be administered by the governor-general on the advice of executive councillors who were not responsible to the central legislature.
+    2. Ministers advising on transferred subjects were to resign on losing the confidence of the federal legislature.
+    3. Residuary powers were vested in the federal legislature.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The governor-general, not the legislature, had residuary powers."
+  source: "Spectrum (2019-20), p. 405"
+  tags: [bpsc]
+
+- slug: smi-20-h09
+  difficulty: hard
+  stem: "In the second stage debate (1937), what counter-strategy did the leftists opposed to office acceptance propose?"
+  options: { A: "Boycott of the elections altogether", B: "Entry into the councils to create deadlocks and make the Act unworkable", C: "Constructive work on Gandhian lines only", D: "Forming ministries only in Muslim-majority provinces" }
+  answer: B
+  explanation: "The leftists proposed entering the councils to create deadlocks, the older Swarajist strategy, and relying more on workers and peasants."
+  source: "Spectrum (2019-20), p. 408"
+  tags: [ssc]
+
+- slug: smi-20-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements about the 1937 elections:
+
+    1. The Congress manifesto promised scaling down of rural debts and the right to form trade unions and to strike.
+    2. Gandhi did not attend a single election meeting.
+    3. The Congress emerged as the largest party in Bengal, Assam and the NWFP.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1, 2 and 3", B: "1 and 2 only", C: "2 and 3 only", D: "1 and 3 only", E: "None of the above" }
+  answer: A
+  explanation: "All three are stated in the book: the manifesto's promises, Gandhi's absence from election meetings, and Congress being the largest party in Bengal, Assam and the NWFP."
+  source: "Spectrum (2019-20), pp. 409-410"
+  tags: [bpsc]

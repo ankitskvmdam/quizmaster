@@ -1,0 +1,422 @@
+# Chapter 15 — Emergence of Gandhi (book pp. 305-327)
+# ---------- EASY ----------
+- slug: smi-15-e01
+  difficulty: easy
+  stem: "Who requested Gandhi to look into the problems of the indigo farmers of Champaran?"
+  options: { A: "Rajkumar Shukla", B: "Rajendra Prasad", C: "Brajkishore Prasad", D: "Mazhar-ul-Haq", E: "More than one of the above" }
+  answer: A
+  explanation: "Gandhi was requested by Rajkumar Shukla, a local man, to look into the problems of Champaran's farmers."
+  source: "Spectrum (2019-20), p. 316"
+  tags: [bpsc]
+
+- slug: smi-15-e02
+  difficulty: easy
+  stem: "Mahatma Gandhi was born on October 2, 1869 at"
+  options: { A: "Rajkot", B: "Porbandar", C: "Ahmedabad", D: "Kheda" }
+  answer: B
+  explanation: "Gandhi was born in Porbandar in the princely state of Kathiawar in Gujarat."
+  source: "Spectrum (2019-20), p. 312"
+  tags: [ssc]
+
+- slug: smi-15-e03
+  difficulty: easy
+  stem: "When did Gandhi return to India from South Africa?"
+  options: { A: "January 1914", B: "October 1914", C: "January 1915", D: "April 1916" }
+  answer: C
+  explanation: "Gandhi returned to India in January 1915 and decided to tour the country for a year."
+  source: "Spectrum (2019-20), p. 316"
+  tags: [ssc]
+
+- slug: smi-15-e04
+  difficulty: easy
+  stem: "The Jallianwala Bagh massacre took place on"
+  options: { A: "April 6, 1919", B: "April 10, 1919", C: "April 18, 1919", D: "April 13, 1919" }
+  answer: D
+  explanation: "The massacre took place on April 13, 1919, which was also Baisakhi."
+  source: "Spectrum (2019-20), p. 322"
+  tags: [ssc]
+
+- slug: smi-15-e05
+  difficulty: easy
+  stem: "Who renounced his knighthood in protest against the Jallianwala Bagh massacre?"
+  options: { A: "Rabindranath Tagore", B: "Motilal Nehru", C: "Chittaranjan Das", D: "Madan Mohan Malaviya" }
+  answer: A
+  explanation: "Rabindranath Tagore renounced his knighthood in protest."
+  source: "Spectrum (2019-20), p. 323"
+  tags: [ssc]
+
+- slug: smi-15-e06
+  difficulty: easy
+  stem: "The Rowlatt Act was officially called the"
+  options: { A: "Defence of India Act", B: "Anarchical and Revolutionary Crimes Act", C: "Indemnity Act", D: "Seditious Meetings Act" }
+  answer: B
+  explanation: "The act passed in March 1919 was officially the Anarchical and Revolutionary Crimes Act, popularly the Rowlatt Act."
+  source: "Spectrum (2019-20), p. 320"
+  tags: [ssc]
+
+- slug: smi-15-e07
+  difficulty: easy
+  stem: "Gandhi set up the Phoenix Farm in Natal (1904) inspired by a reading of a work of"
+  options: { A: "Leo Tolstoy", B: "Herman Kallenbach", C: "John Ruskin", D: "C.F. Andrews" }
+  answer: C
+  explanation: "The Phoenix Farm was inspired by John Ruskin's Unto This Last, a critique of capitalism."
+  source: "Spectrum (2019-20), p. 314"
+  tags: [ssc]
+
+- slug: smi-15-e08
+  difficulty: easy
+  stem: "Which paper did Gandhi start in South Africa during his moderate phase of struggle?"
+  options: { A: "Young India", B: "New India", C: "Comrade", D: "Indian Opinion" }
+  answer: D
+  explanation: "To unite Indians in South Africa, Gandhi set up the Natal Indian Congress and started the paper Indian Opinion."
+  source: "Spectrum (2019-20), p. 312"
+  tags: [ssc]
+
+- slug: smi-15-e09
+  difficulty: easy
+  stem: "The Champaran Satyagraha (1917) is described in the book as Gandhi's"
+  options: { A: "first civil disobedience", B: "first hunger strike", C: "first non-cooperation", D: "first mass strike", E: "More than one of the above" }
+  answer: A
+  explanation: "Champaran (1917) was the first civil disobedience; Ahmedabad the first hunger strike, Kheda the first non-cooperation and the Rowlatt Satyagraha the first mass strike."
+  source: "Spectrum (2019-20), p. 316"
+  tags: [bpsc]
+
+- slug: smi-15-e10
+  difficulty: easy
+  stem: "Which social worker, sister of the mill owner Ambalal Sarabhai, asked Gandhi to intervene in the Ahmedabad mill dispute?"
+  options: { A: "Annie Besant", B: "Anusuya Sarabhai", C: "Madam Bhikaji Cama", D: "Kasturba Gandhi" }
+  answer: B
+  explanation: "The workers turned to Anusuya Sarabhai, who went to Gandhi and asked him to intervene."
+  source: "Spectrum (2019-20), p. 318"
+  tags: [ssc]
+
+- slug: smi-15-e11
+  difficulty: easy
+  stem: "The Hunter Committee was officially known as the"
+  options: { A: "Rowlatt Commission", B: "Indemnity Committee", C: "Disorders Inquiry Committee", D: "Punjab Martial Law Commission" }
+  answer: C
+  explanation: "The Disorders Inquiry Committee, announced on October 14, 1919, came to be known as the Hunter Committee after its chairman."
+  source: "Spectrum (2019-20), p. 324"
+  tags: [ssc]
+
+- slug: smi-15-e12
+  difficulty: easy
+  stem: "Which title, bestowed for his work during the Boer War, did Gandhi give up after the Jallianwala Bagh massacre?"
+  options: { A: "Rai Bahadur", B: "Knighthood", C: "Dewan Bahadur", D: "Kaiser-i-Hind" }
+  answer: D
+  explanation: "Gandhi gave up the title of Kaiser-i-Hind, bestowed by the British for his work during the Boer War."
+  source: "Spectrum (2019-20), p. 323"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-15-m01
+  difficulty: medium
+  stem: "Under the tinkathia system in Champaran, the European planters forced peasants to grow indigo on what part of their land?"
+  options: { A: "1/4", B: "3/20", C: "3/10", D: "1/20", E: "More than one of the above" }
+  answer: B
+  explanation: "The planters forced peasants to grow indigo on 3/20 part of the total land, called the tinkathia system."
+  source: "Spectrum (2019-20), p. 317"
+  tags: [bpsc]
+
+- slug: smi-15-m02
+  difficulty: medium
+  stem: "As a compromise with the Champaran planters, Gandhi agreed that the peasants be compensated for what share of the money illegally taken from them?"
+  options: { A: "50 per cent", B: "35 per cent", C: "25 per cent", D: "20 per cent", E: "More than one of the above" }
+  answer: C
+  explanation: "Gandhi got the tinkathia system abolished and, as a compromise, agreed that only 25 per cent of the money taken be compensated."
+  source: "Spectrum (2019-20), p. 317"
+  tags: [bpsc]
+
+- slug: smi-15-m03
+  difficulty: medium
+  stem: "In the Ahmedabad mill dispute (1918), Gandhi asked the workers to demand a wage increase of"
+  options: { A: "20 per cent", B: "25 per cent", C: "50 per cent", D: "35 per cent" }
+  answer: D
+  explanation: "Workers wanted 50 per cent and owners offered 20; Gandhi asked for 35 per cent, which the tribunal finally awarded."
+  source: "Spectrum (2019-20), p. 318"
+  tags: [ssc]
+
+- slug: smi-15-m04
+  difficulty: medium
+  stem: "Under the Revenue Code, Kheda's farmers were entitled to remission if the yield was less than"
+  options: { A: "one-fourth of the normal produce", B: "one-third of the normal produce", C: "one-half of the normal produce", D: "three-fourths of the normal produce" }
+  answer: A
+  explanation: "If the yield was less than one-fourth the normal produce, farmers were entitled to remission."
+  source: "Spectrum (2019-20), p. 318"
+  tags: [ssc]
+
+- slug: smi-15-m05
+  difficulty: medium
+  stem: |
+    Match List I (struggle) with List II (how the book describes it):
+
+    | List I | List II |
+    |---|---|
+    | a. Champaran Satyagraha | 1. First mass strike |
+    | b. Ahmedabad Mill Strike | 2. First non-cooperation |
+    | c. Kheda Satyagraha | 3. First hunger strike |
+    | d. Rowlatt Satyagraha | 4. First civil disobedience |
+  options: { A: "a-4, b-2, c-3, d-1", B: "a-1, b-3, c-2, d-4", C: "a-4, b-3, c-2, d-1", D: "a-3, b-4, c-2, d-1", E: "None of the above" }
+  answer: C
+  explanation: "Champaran — first civil disobedience; Ahmedabad — first hunger strike; Kheda — first non-cooperation; Rowlatt Satyagraha — first mass strike."
+  source: "Spectrum (2019-20), pp. 316-318, 321"
+  tags: [bpsc]
+
+- slug: smi-15-m06
+  difficulty: medium
+  stem: "Under the Government of India Act, 1919, the Central Legislative Assembly was to consist of"
+  options: { A: "60 members — 26 nominated and 34 elected", B: "145 members — 104 nominated and 41 elected", C: "60 members — 34 nominated and 26 elected", D: "145 members — 41 nominated and 104 elected" }
+  answer: D
+  explanation: "The lower house had 145 members (41 nominated, 104 elected); the Council of State had 60 (26 nominated, 34 elected)."
+  source: "Spectrum (2019-20), p. 309"
+  tags: [ssc]
+
+- slug: smi-15-m07
+  difficulty: medium
+  stem: "Who was the chairman of the committee that inquired into the Jallianwala Bagh massacre?"
+  options: { A: "Lord William Hunter", B: "Sir Sidney Rowlatt", C: "Sir Chimanlal Harilal Setalvad", D: "Edwin Montagu" }
+  answer: A
+  explanation: "The committee was named after its chairman, Lord William Hunter, former Solicitor-General for Scotland."
+  source: "Spectrum (2019-20), p. 324"
+  tags: [ssc]
+
+- slug: smi-15-m08
+  difficulty: medium
+  stem: "The special session of the Congress at Bombay in August 1918, which called the Montford reforms 'disappointing' and 'unsatisfactory', was presided over by"
+  options: { A: "Ambika Charan Majumdar", B: "Hasan Imam", C: "Madan Mohan Malaviya", D: "Motilal Nehru" }
+  answer: B
+  explanation: "The Congress met in a special session in August 1918 at Bombay under Hasan Imam's presidency."
+  source: "Spectrum (2019-20), p. 311"
+  tags: [ssc]
+
+- slug: smi-15-m09
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Announcement of the Hunter Committee
+    2. Champaran Satyagraha
+    3. Passing of the Rowlatt Act
+    4. Jallianwala Bagh massacre
+  options: { A: "2, 4, 3, 1", B: "3, 2, 4, 1", C: "2, 3, 1, 4", D: "2, 3, 4, 1", E: "None of the above" }
+  answer: D
+  explanation: "Champaran (1917), Rowlatt Act (March 1919), Jallianwala Bagh (April 13, 1919), Hunter Committee announced (October 14, 1919)."
+  source: "Spectrum (2019-20), pp. 316, 320, 322, 324"
+  tags: [bpsc]
+
+- slug: smi-15-m10
+  difficulty: medium
+  stem: "Under dyarchy introduced by the Government of India Act, 1919, which of the following was a 'transferred' subject?"
+  options: { A: "Education", B: "Law and order", C: "Finance", D: "Land revenue" }
+  answer: A
+  explanation: "Education was transferred to ministers; law and order, finance, land revenue and irrigation were reserved."
+  source: "Spectrum (2019-20), p. 308"
+  tags: [ssc]
+
+- slug: smi-15-m11
+  difficulty: medium
+  stem: "The satyagraha against the Rowlatt Act was scheduled to be launched on"
+  options: { A: "March 18, 1919", B: "April 6, 1919", C: "April 13, 1919", D: "April 18, 1919" }
+  answer: B
+  explanation: "Satyagraha was to be launched on April 6, 1919, but large-scale violent demonstrations broke out before it."
+  source: "Spectrum (2019-20), p. 321"
+  tags: [ssc]
+
+- slug: smi-15-m12
+  difficulty: medium
+  stem: "Who assassinated Michael O'Dwyer, the Lieutenant-Governor of Punjab during the 1919 repression?"
+  options: { A: "Bhagat Singh", B: "Saifuddin Kitchlew", C: "Udham Singh", D: "Dr Satyapal" }
+  answer: C
+  explanation: "Udham Singh, who bore the name Ram Mohammad Singh Azad, assassinated O'Dwyer and was hanged in 1940."
+  source: "Spectrum (2019-20), p. 324"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-15-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Champaran Satyagraha:
+
+    1. Gandhi was joined by Rajendra Prasad, Mazhar-ul-Haq, Mahadeo Desai, Narhari Parekh and J.B. Kripalani.
+    2. The government appointed a committee to go into the matter and nominated Gandhi as a member.
+    3. Within a decade, the planters left the area.
+    4. It was the occasion of Gandhi's first hunger strike in India.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Gandhi's first hunger strike was during the Ahmedabad Mill Strike (1918); the other three statements are from the book."
+  source: "Spectrum (2019-20), p. 317"
+  tags: [bpsc]
+
+- slug: smi-15-h02
+  difficulty: hard
+  stem: |
+    Which of the following are named in the book as popular leaders associated with the Champaran Satyagraha?
+
+    1. Brajkishore Prasad
+    2. Anugrah Narayan Sinha
+    3. Ramnavmi Prasad
+    4. Ravi Shankar Vyas
+
+    Select the correct answer using the codes given below.
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2, 3 and 4", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Ravi Shankar Vyas was one of the Gandhians who organised the Kheda Satyagraha, not Champaran."
+  source: "Spectrum (2019-20), pp. 317, 319"
+  tags: [bpsc]
+
+- slug: smi-15-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Towards the end of the nineteenth century, the European planters of Champaran demanded high rents and illegal dues from the peasants.
+
+    **Reason (R):** German synthetic dyes had replaced indigo, and the planters wanted to maximise profits before the peasants could shift to other crops.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says that when synthetic dyes replaced indigo, the planters demanded high rents and illegal dues to maximise profits before peasants switched crops."
+  source: "Spectrum (2019-20), p. 317"
+  tags: [bpsc]
+
+- slug: smi-15-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the provinces under the Government of India Act, 1919:
+
+    1. Ministers had to resign if a no-confidence motion was passed against them, while executive councillors were not responsible to the legislature.
+    2. Sixty per cent of the members of the provincial legislative councils were to be elected.
+    3. Women were given the right to vote.
+    4. If a legislative council rejected the budget, the governor could not restore it.
+
+    Which of the statements given above are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: B
+  explanation: "70 per cent of provincial council members were to be elected, and the governor could restore a rejected budget."
+  source: "Spectrum (2019-20), pp. 308-309"
+  tags: [bpsc]
+
+- slug: smi-15-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the central government under the Government of India Act, 1919:
+
+    1. Three of the eight members of the viceroy's executive council were to be Indians.
+    2. The Council of State had a tenure of five years and had only male members.
+    3. Seventy-five per cent of the budget was still not votable.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three are stated in the book; the Central Legislative Assembly had a tenure of three years."
+  source: "Spectrum (2019-20), pp. 309-310"
+  tags: [bpsc]
+
+- slug: smi-15-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Soon after his return to India in 1915, Gandhi joined the Home Rule agitation.
+
+    **Reason (R):** Gandhi was convinced that the only technique capable of meeting the nationalist aims was non-violent satyagraha.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: D
+  explanation: "Gandhi was not in favour of the Home Rule agitation, as Britain was at war; he did believe only non-violent satyagraha could meet nationalist aims."
+  source: "Spectrum (2019-20), p. 316"
+  tags: [bpsc]
+
+- slug: smi-15-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Kheda Satyagraha (1918):
+
+    1. Gandhi was mainly its spiritual head, while Vallabhbhai Patel, Narahari Parikh, Mohanlal Pandya and Ravi Shankar Vyas gave the political leadership.
+    2. The government finally agreed to suspend the tax for that year and the next, reduce the increase in rate and return the confiscated property.
+    3. The Gujarat Sabha had petitioned for suspension of the revenue assessment for the year 1919.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1, 2 and 3", B: "1 and 2 only", C: "2 only", D: "1 and 3 only", E: "None of the above" }
+  answer: A
+  explanation: "All three statements are made in the book's account of the Kheda Satyagraha."
+  source: "Spectrum (2019-20), pp. 318-319"
+  tags: [bpsc]
+
+- slug: smi-15-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Jallianwala Bagh massacre:
+
+    1. According to official British Indian sources, 379 were identified dead and about 1,100 wounded.
+    2. The Indian National Congress estimated more than 1,500 killed and about 1,000 injured.
+    3. It is precisely known that 1,650 bullets were fired into the crowd.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The Congress estimated about 1,000 killed and more than 1,500 injured — statement 2 reverses the figures."
+  source: "Spectrum (2019-20), p. 323"
+  tags: [bpsc]
+
+- slug: smi-15-h09
+  difficulty: hard
+  stem: |
+    Which of the following were Indian members of the Hunter Committee?
+
+    1. Motilal Nehru
+    2. M.R. Jayakar
+    3. Abbas Tyabji
+
+    Select the correct answer using the codes given below.
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: E
+  explanation: "All three were on the Congress's own non-official committee; the Hunter Committee's Indian members were Chimanlal Setalvad, Pandit Jagat Narayan and Sultan Ahmad Khan."
+  source: "Spectrum (2019-20), pp. 324-326"
+  tags: [bpsc]
+
+- slug: smi-15-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Rowlatt Act:
+
+    1. It was passed in March 1919 as an extension of the Defence of India Regulations Act, 1915.
+    2. Suspects were to be tried by a special cell of three high court judges, with no court of appeal above it.
+    3. It was based on the recommendations of a commission headed by Lord William Hunter.
+    4. Both the bills introduced in the Imperial Legislative Council were passed.
+
+    Which of the statements given above are correct?
+  options: { A: "1 only", B: "1, 2 and 3 only", C: "2 and 4 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The Rowlatt Commission was headed by Sir Sidney Rowlatt, and one of the two bills was dropped."
+  source: "Spectrum (2019-20), p. 320"
+  tags: [bpsc]
+
+- slug: smi-15-h11
+  difficulty: hard
+  stem: |
+    Consider the following statements about Gandhi in South Africa:
+
+    1. He formed the Passive Resistance Association to defy the law requiring Indians to carry registration certificates.
+    2. A poll tax of three pounds was imposed on all ex-indentured Indians.
+    3. The Tolstoy Farm was set up in Natal in 1904, inspired by John Ruskin's Unto This Last.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "It was the Phoenix Farm that was set up in Natal in 1904 under Ruskin's influence; Tolstoy Farm was founded in 1910."
+  source: "Spectrum (2019-20), pp. 313-314"
+  tags: [bpsc]
+
+- slug: smi-15-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about the aftermath of the Jallianwala Bagh massacre:
+
+    1. The Hunter Committee's final report, released in March 1920, unanimously condemned Dyer's actions.
+    2. The Hunter Committee did not impose any penal or disciplinary action on Dyer.
+    3. The House of Lords passed a motion in support of Dyer.
+    4. Winston Churchill called the massacre 'one of the worst outrages in the whole of our history'.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Churchill called it 'monstrous'; the 'worst outrages' remark was by former prime minister H.H. Asquith."
+  source: "Spectrum (2019-20), pp. 325-326"
+  tags: [bpsc]

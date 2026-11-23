@@ -1,0 +1,333 @@
+# Chapter 31 — Peasant Movements 1857-1947 (book pp. 574-584)
+# ---------- EASY ----------
+- slug: smi-31-e01
+  difficulty: easy
+  stem: "Digambar Biswas and Bishnu Biswas, who led the Indigo Revolt of 1859, belonged to which district?"
+  options: { A: "Burdwan", B: "Nadia", C: "Pabna", D: "24 Parganas" }
+  answer: B
+  explanation: "The book says the peasants were led by Digambar Biswas and Bishnu Biswas of Nadia district."
+  source: "Spectrum (2019-20), p. 575"
+  tags: [ssc]
+
+- slug: smi-31-e02
+  difficulty: easy
+  stem: "In which year was the Deccan Agriculturists Relief Act passed?"
+  options: { A: "1874", B: "1885", C: "1879", D: "1867" }
+  answer: C
+  explanation: "After the Deccan riots were repressed, the Deccan Agriculturists Relief Act was passed in 1879 as a conciliatory measure."
+  source: "Spectrum (2019-20), p. 577"
+  tags: [ssc]
+
+- slug: smi-31-e03
+  difficulty: easy
+  stem: "The United Provinces Kisan Sabha was set up in February 1918 by"
+  options: { A: "Gauri Shankar Mishra and Indra Narayan Dwivedi", B: "Jhinguri Singh and Durgapal Singh", C: "Baba Ramchandra and Jawaharlal Nehru", D: "Swami Sahjanand Saraswati and N.G. Ranga" }
+  answer: A
+  explanation: "The UP Kisan Sabha was set up in February 1918 by Gauri Shankar Mishra and Indra Narayan Dwivedi, with Madan Mohan Malaviya's support."
+  source: "Spectrum (2019-20), p. 578"
+  tags: [ssc]
+
+- slug: smi-31-e04
+  difficulty: easy
+  stem: "Who urged Jawaharlal Nehru in June 1920 to visit the villages of Awadh?"
+  options: { A: "Jhinguri Singh", B: "Madari Pasi", C: "Gauri Shankar Mishra", D: "Baba Ramchandra" }
+  answer: D
+  explanation: "In June 1920 Baba Ramchandra urged Nehru to visit these villages, where Nehru developed close contacts with the villagers."
+  source: "Spectrum (2019-20), p. 578"
+  tags: [ssc]
+
+- slug: smi-31-e05
+  difficulty: easy
+  stem: "Who gave Vallabhbhai Patel the title of 'Sardar'?"
+  options: { A: "Mahatma Gandhi", B: "The Congress leaders of Gujarat", C: "The peasants of Kheda", D: "The women of Bardoli" }
+  answer: D
+  explanation: "The book says the women of Bardoli gave Vallabhbhai Patel the title of 'Sardar'."
+  source: "Spectrum (2019-20), p. 580"
+  tags: [ssc]
+
+- slug: smi-31-e06
+  difficulty: easy
+  stem: "Who was the president of the All India Kisan Sabha when it was founded at Lucknow in April 1936?"
+  options: { A: "N.G. Ranga", B: "Swami Sahjanand Saraswati", C: "Indulal Yagnik", D: "Karyanand Sharma", E: "More than one of the above" }
+  answer: B
+  explanation: "The AIKS was founded with Swami Sahjanand Saraswati as president and N.G. Ranga as general secretary."
+  source: "Spectrum (2019-20), p. 581"
+  tags: [bpsc]
+
+- slug: smi-31-e07
+  difficulty: easy
+  stem: "The Tebhaga movement demanded what share of the crop for the bargardars (share-croppers)?"
+  options: { A: "One-half", B: "One-third", C: "Two-thirds", D: "Three-fourths" }
+  answer: C
+  explanation: "Tebhaga meant a two-thirds share for the bargardars instead of the earlier one-half share."
+  source: "Spectrum (2019-20), p. 583"
+  tags: [ssc]
+
+- slug: smi-31-e08
+  difficulty: easy
+  stem: "The Telangana uprising began in July 1946 in Jangaon taluq of which district?"
+  options: { A: "Warangal", B: "Khammam", C: "Nalgonda", D: "Hyderabad" }
+  answer: C
+  explanation: "It began when a deshmukh's thug murdered a village militant in Jangaon taluq of Nalgonda; it then spread to Warangal and Khammam."
+  source: "Spectrum (2019-20), p. 584"
+  tags: [ssc]
+
+- slug: smi-31-e09
+  difficulty: easy
+  stem: "The Bengal Tenancy Act, which followed the Pabna agrarian unrest, was passed in"
+  options: { A: "1885", B: "1859", C: "1879", D: "1880" }
+  answer: A
+  explanation: "The government promised legislation to protect tenants, and the Bengal Tenancy Act was passed in 1885."
+  source: "Spectrum (2019-20), p. 576"
+  tags: [ssc]
+
+- slug: smi-31-e10
+  difficulty: easy
+  stem: "The arrest of which respected priest leader sparked off large-scale riots in Malabar in August 1921?"
+  options: { A: "Shaukat Ali", B: "Ali Musaliar", C: "Maulana Azad", D: "Madari Pasi" }
+  answer: B
+  explanation: "In August 1921 the arrest of the respected priest leader Ali Musaliar sparked off large-scale Mappila riots."
+  source: "Spectrum (2019-20), p. 579"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-31-m01
+  difficulty: medium
+  stem: "In 1935, the Provincial Kisan Conference in Bihar adopted which slogan?"
+  options: { A: "Nij khamare dhan tolo", B: "No-rent, no-revenue", C: "Tebhaga", D: "Anti-zamindari", E: "More than one of the above" }
+  answer: D
+  explanation: "The book says that in Bihar, in 1935, the Provincial Kisan Conference adopted the anti-zamindari slogan."
+  source: "Spectrum (2019-20), p. 582"
+  tags: [bpsc]
+
+- slug: smi-31-m02
+  difficulty: medium
+  stem: |
+    Match List I (person) with List II (associated with):
+
+    | List I | List II |
+    |---|---|
+    | a. Madari Pasi | 1. Indigo Revolt |
+    | b. Digambar Biswas | 2. India Peasants' Institute |
+    | c. Indulal Yagnik | 3. Eka Movement |
+    | d. N.G. Ranga | 4. Periodical of the All India Kisan Sabha |
+  options: { A: "a-3, b-1, c-4, d-2", B: "a-1, b-3, c-4, d-2", C: "a-3, b-1, c-2, d-4", D: "a-3, b-4, c-1, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Madari Pasi led the Eka Movement at the grassroots, Digambar Biswas the Indigo Revolt; the AIKS periodical was under Indulal Yagnik; N.G. Ranga set up the India Peasants' Institute in 1933."
+  source: "Spectrum (2019-20), pp. 575, 579, 581-582"
+  tags: [bpsc]
+
+- slug: smi-31-m03
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Founding of the All India Kisan Sabha at Lucknow
+    2. Setting up of the United Provinces Kisan Sabha
+    3. Coming into existence of the Awadh Kisan Sabha
+    4. New direction given to the Punjab peasant movement by the Punjab Kisan Committee
+  options: { A: "2, 1, 3, 4", B: "3, 2, 1, 4", C: "2, 3, 1, 4", D: "2, 3, 4, 1", E: "None of the above" }
+  answer: C
+  explanation: "UP Kisan Sabha (February 1918), Awadh Kisan Sabha (October 1920), AIKS (April 1936), Punjab Kisan Committee (1937)."
+  source: "Spectrum (2019-20), pp. 578, 581-582"
+  tags: [bpsc]
+
+- slug: smi-31-m04
+  difficulty: medium
+  stem: "Which of the following is NOT given in the book as a factor that worsened the condition of the Deccan ryots before the riots of 1874?"
+  options: { A: "Crash in cotton prices after the end of the American Civil War", B: "Zamindars preventing tenants from acquiring occupancy rights under Act X of 1859", C: "Government's decision to raise land revenue by 50% in 1867", D: "A succession of bad harvests" }
+  answer: B
+  explanation: "Blocking occupancy rights under Act X of 1859 was a grievance of the Pabna (Eastern Bengal) tenants; the Deccan ryots suffered under the Ryotwari system and outsider moneylenders."
+  source: "Spectrum (2019-20), p. 576"
+  tags: [ssc]
+
+- slug: smi-31-m05
+  difficulty: medium
+  stem: "The Bihar Provincial Kisan Sabha developed a rift with the Congress over which issue?"
+  options: { A: "Bedakhali land", B: "Bakasht land", C: "Vethi", D: "Nazrana", E: "More than one of the above" }
+  answer: B
+  explanation: "The rift came over the 'bakasht land' issue, because of an unfavourable government resolution the sabha would not accept."
+  source: "Spectrum (2019-20), p. 582"
+  tags: [bpsc]
+
+- slug: smi-31-m06
+  difficulty: medium
+  stem: "Which of the following was NOT a centre of the Awadh Kisan Sabha's activity in January 1921?"
+  options: { A: "Rai Bareilly", B: "Faizabad", C: "Hardoi", D: "Sultanpur" }
+  answer: C
+  explanation: "The centres were Rai Bareilly, Faizabad and Sultanpur; Hardoi was a centre of the later Eka Movement."
+  source: "Spectrum (2019-20), pp. 578-579"
+  tags: [ssc]
+
+- slug: smi-31-m07
+  difficulty: medium
+  stem: "Which of the following was NOT among the vows taken by peasants at meetings of the Eka Movement?"
+  options: { A: "Pay only the recorded rent but pay it on time", B: "Not leave when evicted", C: "Abide by panchayat decisions", D: "Refuse to pay any rent until rents were reduced" }
+  answer: D
+  explanation: "Eka peasants vowed to pay only the recorded rent, on time; they did not vow to stop paying rent."
+  source: "Spectrum (2019-20), p. 579"
+  tags: [ssc]
+
+- slug: smi-31-m08
+  difficulty: medium
+  stem: "In the Bardoli Satyagraha, the land revenue had been increased by ____, and the committee that finally inquired recommended a rise of only ____."
+  options: { A: "30 per cent; 6.03 per cent", B: "50 per cent; 6.03 per cent", C: "30 per cent; 3.06 per cent", D: "22 per cent; 6.03 per cent" }
+  answer: A
+  explanation: "The authorities raised the land revenue by 30 per cent; the committee found it unjustified and recommended 6.03 per cent only."
+  source: "Spectrum (2019-20), p. 580"
+  tags: [ssc]
+
+- slug: smi-31-m09
+  difficulty: medium
+  stem: "In the Malabar region during 1937-39, the 'Karshak Sanghams' were mobilised mainly by"
+  options: { A: "Congress Socialist Party activists", B: "the Kirti Kisan Party", C: "the Andhra Mahasabha", D: "Khilafat leaders" }
+  answer: A
+  explanation: "In Malabar the peasants were mobilised mainly by Congress Socialist Party activists, and many Karshak Sanghams came into existence."
+  source: "Spectrum (2019-20), p. 581"
+  tags: [ssc]
+
+- slug: smi-31-m10
+  difficulty: medium
+  stem: "The Punjab peasant movement of 1937 took up an increase in water rates in the canal colonies of"
+  options: { A: "Amritsar and Lahore", B: "Multan and Montgomery", C: "Jullundur and Hoshiarpur", D: "Lyallpur and Shekhupura" }
+  answer: B
+  explanation: "The issues were resettlement of land revenue in Amritsar and Lahore and an increase in water rates in the canal colonies of Multan and Montgomery."
+  source: "Spectrum (2019-20), p. 582"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-31-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indigo Revolt:
+
+    1. The indigo planters in Bengal were nearly all Europeans.
+    2. A government notification of November 1860 said that ryots could not be compelled to grow indigo.
+    3. The indigo commission recommended that indigo cultivation be continued on the basis of existing contracts.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1 and 2 are from the book. Based on the commission's recommendations the government said ryots could not be compelled to grow indigo; the book records no recommendation to continue the contracts."
+  source: "Spectrum (2019-20), p. 575"
+  tags: [bpsc]
+
+- slug: smi-31-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the agrarian unrest in Eastern Bengal in the 1870s and 1880s:
+
+    1. Zamindars tried to prevent tenants from acquiring occupancy rights under Act X of 1859.
+    2. The main form of struggle was legal resistance, with very little violence.
+    3. The peasants were supported by Bankim Chandra Chatterjee, R.C. Dutt and the Indian Association under Surendranath Banerjea.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three statements are made in the book's account of the Pabna Agrarian Leagues."
+  source: "Spectrum (2019-20), p. 576"
+  tags: [bpsc]
+
+- slug: smi-31-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about peasant movements after 1857:
+
+    1. Colonialism was the main target of these movements.
+    2. Their demands were centred almost wholly on economic issues.
+    3. The peasants developed a strong awareness of their legal rights and asserted them in and outside the courts.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "3 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The book says colonialism was not the target; the movements were directed against planters, zamindars and moneylenders. Statements 2 and 3 are correct."
+  source: "Spectrum (2019-20), p. 577"
+  tags: [bpsc]
+
+- slug: smi-31-h04
+  difficulty: hard
+  stem: "Which of the following is NOT named in the book as having joined Sahjanand Saraswati in the kisan movement in Bihar?"
+  options: { A: "Karyanand Sharma", B: "Panchanan Sharma", C: "Baba Ramchandra", D: "Jamun Karjiti", E: "More than one of the above" }
+  answer: C
+  explanation: "In Bihar, Sahjanand was joined by Karyanand Sharma, Yadunandan Sharma, Rahul Sankritayan, Panchanan Sharma, Jamun Karjiti and others; Baba Ramchandra was a leader of the UP kisan movement."
+  source: "Spectrum (2019-20), pp. 578, 582"
+  tags: [bpsc]
+
+- slug: smi-31-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the All India Kisan Sabha (AIKS):
+
+    1. It was founded in Lucknow in April 1936.
+    2. N.G. Ranga was its general secretary.
+    3. The AIKS and the Congress held their sessions at Haripura in 1936.
+    4. It split on communist and non-communist lines during the Second World War.
+
+    Which of the statements given above are correct?
+  options: { A: "1, 2 and 4 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: A
+  explanation: "The AIKS and the Congress held their 1936 sessions at Faizpur, not Haripura. The other statements are correct; the split followed the communists' pro-War line."
+  source: "Spectrum (2019-20), pp. 581-583"
+  tags: [bpsc]
+
+- slug: smi-31-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** By the end of 1921, the Mappila rebellion had become isolated from the Khilafat-Non-Cooperation Movement.
+
+    **Reason (R):** After martial law was declared, the rebellion acquired communal overtones as many Hindus were seen by the Mappilas to be helping the authorities.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says the communalisation of the rebellion completed the isolation of the Mappilas from the Khilafat-Non-Cooperation Movement."
+  source: "Spectrum (2019-20), p. 580"
+  tags: [bpsc]
+
+- slug: smi-31-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Tebhaga movement:
+
+    1. In September 1946, the Bengal Provincial Kisan Sabha called for implementing the Flood Commission's tebhaga recommendation through mass struggle.
+    2. Its storm centre was south Bengal, principally among the Namasudras.
+    3. One reason it dissipated was the Muslim League ministry's Bargardari Bill.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The storm centre was north Bengal, principally among the Rajbanshis. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 583"
+  tags: [bpsc]
+
+- slug: smi-31-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Telangana movement:
+
+    1. It was the biggest peasant guerrilla war of modern Indian history, affecting 3000 villages and 3 million people.
+    2. It was at its greatest intensity between July 1946 and August 1947.
+    3. During the war, the communist-led guerrillas built a base in Telangana villages through the Andhra Mahasabha.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The movement began in July 1946 but was at its greatest intensity between August 1947 and September 1948. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), pp. 583-584"
+  tags: [bpsc]
+
+- slug: smi-31-h09
+  difficulty: hard
+  stem: "Which of the following is NOT correct about the Bardoli Satyagraha?"
+  options: { A: "The 'Bardoli Satyagraha Patrika' was brought out to mobilise public opinion", B: "Patel set up 13 chhavanis or workers' camps in the taluqa", C: "K.M. Munshi and Lalji Naranji resigned from the Bombay Legislative Council in its support", D: "Bardoli taluqa was in Kheda district" }
+  answer: D
+  explanation: "The book places Bardoli taluqa in Surat district; the other three statements are given in the book."
+  source: "Spectrum (2019-20), p. 580"
+  tags: [ssc]
+
+- slug: smi-31-h10
+  difficulty: hard
+  stem: "According to the book, which sections remained largely unaffected by the peasant activity in Punjab in the late 1930s?"
+  options: { A: "Peasants of Jullundur and Hoshiarpur", B: "Peasants of Lyallpur and Shekhupura", C: "Peasants of the canal colonies of Multan and Montgomery", D: "Muslim tenants-at-will of west Punjab and Hindu peasants of south-eastern Punjab" }
+  answer: D
+  explanation: "Activity was concentrated in Jullundur, Amritsar, Hoshiarpur, Lyallpur and Shekhupura, and the canal colony peasants struck and won concessions; the Muslim tenants of west Punjab and Hindu peasants of south-eastern Punjab stayed largely unaffected."
+  source: "Spectrum (2019-20), p. 582"
+  tags: [ssc]

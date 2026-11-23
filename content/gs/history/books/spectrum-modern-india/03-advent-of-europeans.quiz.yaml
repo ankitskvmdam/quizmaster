@@ -1,0 +1,501 @@
+# Chapter 3 — Advent of the Europeans in India (book pp. 21-58)
+# ---------- EASY ----------
+- slug: smi-03-e01
+  difficulty: easy
+  stem: "At which place did Vasco da Gama arrive in May 1498?"
+  options: { A: "Cochin", B: "Calicut", C: "Goa", D: "Cannanore" }
+  answer: B
+  explanation: "Vasco da Gama's three ships arrived at Calicut in May 1498."
+  source: "Spectrum (2019-20), p. 23"
+  tags: [ssc]
+
+- slug: smi-03-e02
+  difficulty: easy
+  stem: "Vasco da Gama's ships were led to Calicut by a Gujarati pilot named"
+  options: { A: "Mahfuz Khan", B: "Muqarrab Khan", C: "Abdul Majid", D: "Mubarak Shah" }
+  answer: C
+  explanation: "The book says the three ships under Vasco da Gama were led by a Gujarati pilot named Abdul Majid."
+  source: "Spectrum (2019-20), p. 23"
+  tags: [ssc]
+
+- slug: smi-03-e03
+  difficulty: easy
+  stem: "The Hindu ruler of Calicut who gave Vasco da Gama a friendly reception was known as"
+  options: { A: "Zamorin", B: "Peshwa", C: "Nizam", D: "Subahdar" }
+  answer: A
+  explanation: "The ruler of Calicut was the Zamorin (Samuthiri)."
+  source: "Spectrum (2019-20), p. 23"
+  tags: [ssc]
+
+- slug: smi-03-e04
+  difficulty: easy
+  stem: "From whom did Albuquerque acquire Goa in 1510?"
+  options: { A: "The Zamorin of Calicut", B: "Bahadur Shah of Gujarat", C: "The Vijayanagara ruler", D: "The Sultan of Bijapur" }
+  answer: D
+  explanation: "Albuquerque acquired Goa from the Sultan of Bijapur in 1510 with ease."
+  source: "Spectrum (2019-20), p. 26"
+  tags: [ssc]
+
+- slug: smi-03-e05
+  difficulty: easy
+  stem: "With which ship did Captain William Hawkins reach Surat in 1608?"
+  options: { A: "Dragon", B: "Hector", C: "Osiander", D: "Red Dragon" }
+  answer: B
+  explanation: "In 1608 Captain William Hawkins with his ship Hector reached Surat, carrying a letter from James I."
+  source: "Spectrum (2019-20), p. 30"
+  tags: [ssc]
+
+- slug: smi-03-e06
+  difficulty: easy
+  stem: "Where did the Dutch found their first factory in India in 1605?"
+  options: { A: "Masulipatnam", B: "Pulicat", C: "Surat", D: "Chinsura" }
+  answer: A
+  explanation: "After arriving in India, the Dutch founded their first factory at Masulipatnam in 1605."
+  source: "Spectrum (2019-20), p. 35"
+  tags: [ssc]
+
+- slug: smi-03-e07
+  difficulty: easy
+  stem: "On which date did Queen Elizabeth I issue the charter to the English East India Company?"
+  options: { A: "December 31, 1599", B: "May 1609", C: "December 31, 1600", D: "January 1, 1601" }
+  answer: C
+  explanation: "On December 31, 1600, Queen Elizabeth I granted the charter with exclusive trading rights."
+  source: "Spectrum (2019-20), p. 37"
+  tags: [ssc]
+
+- slug: smi-03-e08
+  difficulty: easy
+  stem: "Bombay was given to King Charles II as dowry when he married the Portuguese princess"
+  options: { A: "Isabella", B: "Maria", C: "Anne", D: "Catherine" }
+  answer: D
+  explanation: "Bombay was gifted to Charles II as dowry on his marriage to the Portuguese princess Catherine (of Braganza) in 1662."
+  source: "Spectrum (2019-20), p. 38"
+  tags: [ssc]
+
+- slug: smi-03-e09
+  difficulty: easy
+  stem: "The French East India Company (Compagnie des Indes Orientales) was founded in 1664 by"
+  options: { A: "Colbert", B: "Francois Martin", C: "Francois Caron", D: "Dupleix" }
+  answer: A
+  explanation: "Colbert, the famous minister of Louis XIV, laid the foundation of the company in 1664."
+  source: "Spectrum (2019-20), p. 42"
+  tags: [ssc]
+
+- slug: smi-03-e10
+  difficulty: easy
+  stem: "The decisive battle of the Third Carnatic War, won by the English on January 22, 1760, was the Battle of"
+  options: { A: "Ambur", B: "Wandiwash", C: "St. Thome", D: "Plassey" }
+  answer: B
+  explanation: "The English won the decisive battle at Wandiwash (Vandavasi) in Tamil Nadu on January 22, 1760."
+  source: "Spectrum (2019-20), p. 50"
+  tags: [ssc]
+
+- slug: smi-03-e11
+  difficulty: easy
+  stem: "In 1620, the Danes founded a factory on the eastern coast of India at"
+  options: { A: "Serampore", B: "Pulicat", C: "Tranquebar", D: "Chandernagore" }
+  answer: C
+  explanation: "In 1620 the Danes founded a factory at Tranquebar near Tanjore; their principal settlement was Serampore."
+  source: "Spectrum (2019-20), p. 53"
+  tags: [ssc]
+
+- slug: smi-03-e12
+  difficulty: easy
+  stem: "According to the book, which commodity did the Dutch carry from Bihar?"
+  options: { A: "Saltpetre", B: "Indigo", C: "Black pepper", D: "Silk", E: "More than one of the above" }
+  answer: A
+  explanation: "The Dutch carried saltpetre from Bihar; indigo came from the Yamuna valley and Central India, and silk from Bengal, Gujarat and the Coromandel."
+  source: "Spectrum (2019-20), p. 36"
+  tags: [bpsc]
+
+- slug: smi-03-e13
+  difficulty: easy
+  stem: "After the Mughal raid on Hooghly, Job Charnock returned in August 1690 to"
+  options: { A: "Balasore", B: "Kasimbazar", C: "Hijli", D: "Sutanuti" }
+  answer: D
+  explanation: "Charnock signed a treaty with the Mughals in February 1690 and returned to Sutanuti in August 1690."
+  source: "Spectrum (2019-20), p. 40"
+  tags: [ssc]
+
+- slug: smi-03-e14
+  difficulty: easy
+  stem: "Who granted Francois Martin the site on which Pondicherry was founded?"
+  options: { A: "Shaista Khan", B: "Sher Khan Lodi", C: "The Sultan of Golconda", D: "The ruler of Chandragiri" }
+  answer: B
+  explanation: "In 1673 Sher Khan Lodi, governor of Valikondapuram under the Bijapur Sultan, granted Francois Martin a site; Pondicherry was founded in 1674."
+  source: "Spectrum (2019-20), p. 43"
+  tags: [ssc]
+
+- slug: smi-03-e15
+  difficulty: easy
+  stem: "Who attacked and captured Arcot in August 1751 with a force of only 210 men?"
+  options: { A: "Stringer Lawrence", B: "Eyre Coote", C: "Robert Clive", D: "Saunders" }
+  answer: C
+  explanation: "Robert Clive, then a factor of the English company, captured Arcot in August 1751 with 210 men."
+  source: "Spectrum (2019-20), p. 46"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-03-m01
+  difficulty: medium
+  stem: |
+    Arrange the following factories in chronological order of their establishment, as given in the book:
+
+    1. French factory at Surat
+    2. Danish factory at Tranquebar
+    3. Dutch factory at Masulipatnam
+    4. English factory at Surat
+  options: { A: "3, 2, 4, 1", B: "4, 3, 2, 1", C: "3, 4, 1, 2", D: "3, 4, 2, 1", E: "None of the above" }
+  answer: D
+  explanation: "Dutch Masulipatnam (1605), English Surat (1613), Danish Tranquebar (1620), French Surat (1667)."
+  source: "Spectrum (2019-20), pp. 35, 38, 42, 53"
+  tags: [bpsc]
+
+- slug: smi-03-m02
+  difficulty: medium
+  stem: |
+    Match List I (Portuguese figure) with List II (associated act) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Francisco De Almeida | 1. Shifted headquarters from Cochin to Goa |
+    | b. Alfonso de Albuquerque | 2. Blue Water Policy (cartaze system) |
+    | c. Nino da Cunha | 3. Established a factory at Calicut in 1500 |
+    | d. Pedro Alvarez Cabral | 4. Abolition of sati |
+  options: { A: "a-2, b-1, c-4, d-3", B: "a-2, b-4, c-1, d-3", C: "a-3, b-4, c-1, d-2", D: "a-2, b-4, c-3, d-1", E: "None of the above" }
+  answer: B
+  explanation: "Almeida followed the Blue Water Policy, Albuquerque abolished sati, Nino da Cunha moved HQ to Goa, and Cabral set up the Calicut factory in 1500."
+  source: "Spectrum (2019-20), pp. 24-27"
+  tags: [bpsc]
+
+- slug: smi-03-m03
+  difficulty: medium
+  stem: "After Shah Shuja allowed the English to trade in Bengal in 1651, English factories were started at several places. Which of the following was NOT one of them, according to the book?"
+  options: { A: "Hooghly", B: "Patna", C: "Chinsura", D: "Rajmahal", E: "More than one of the above" }
+  answer: C
+  explanation: "English factories were started at Hooghly, Kasimbazar, Patna and Rajmahal; Chinsura was a Dutch factory (1653)."
+  source: "Spectrum (2019-20), p. 39"
+  tags: [bpsc]
+
+- slug: smi-03-m04
+  difficulty: medium
+  stem: "The English mission of 1715 that obtained the famous farmans from Farrukhsiyar, called the 'Magna Carta' of the Company, was led by"
+  options: { A: "John Surman", B: "Sir William Norris", C: "Sir Thomas Roe", D: "William Hedges" }
+  answer: A
+  explanation: "In 1715 an English mission led by John Surman secured three farmans from Farrukhsiyar."
+  source: "Spectrum (2019-20), p. 40"
+  tags: [ssc]
+
+- slug: smi-03-m05
+  difficulty: medium
+  stem: "Who was the first president of the eastern presidency (Calcutta) when the fortified settlement was named Fort William in 1700?"
+  options: { A: "Job Charnock", B: "William Hedges", C: "Francis Day", D: "Sir Charles Eyre" }
+  answer: D
+  explanation: "Fort William became the seat of the eastern presidency in 1700 with Sir Charles Eyre as its first president."
+  source: "Spectrum (2019-20), p. 40"
+  tags: [ssc]
+
+- slug: smi-03-m06
+  difficulty: medium
+  stem: "In 1639, Francis Day received permission from the ruler of Chandragiri to build a fortified factory at"
+  options: { A: "Masulipatnam", B: "Madras", C: "Pulicat", D: "Balasore" }
+  answer: B
+  explanation: "Francis Day obtained permission to build a fortified factory at Madras, which became Fort St. George and replaced Masulipatnam as English HQ in south India."
+  source: "Spectrum (2019-20), p. 39"
+  tags: [ssc]
+
+- slug: smi-03-m07
+  difficulty: medium
+  stem: "The 'Golden Farman' of 1632, allowing the English to trade freely in its ports on payment of 500 pagodas a year, was issued by"
+  options: { A: "Jahangir", B: "The ruler of Chandragiri", C: "The Sultan of Golconda", D: "Shah Shuja" }
+  answer: C
+  explanation: "The Golden Farman was issued by the Sultan of Golconda in 1632, for 500 pagodas a year."
+  source: "Spectrum (2019-20), p. 39"
+  tags: [ssc]
+
+- slug: smi-03-m08
+  difficulty: medium
+  stem: "The massacre at Amboyna in 1623, the climax of enmity in the East, was carried out by"
+  options: { A: "the Dutch against the English", B: "the English against the Dutch", C: "the Portuguese against the Dutch", D: "the French against the English" }
+  answer: A
+  explanation: "At Amboyna the Dutch massacred ten Englishmen and nine Japanese in 1623."
+  source: "Spectrum (2019-20), p. 36"
+  tags: [ssc]
+
+- slug: smi-03-m09
+  difficulty: medium
+  stem: "In the Second Carnatic War, the French supported the claims of"
+  options: { A: "Nasir Jang and Anwar-ud-din", B: "Nasir Jang and Chanda Sahib", C: "Muzaffar Jang and Anwar-ud-din", D: "Muzaffar Jang and Chanda Sahib", E: "None of the above" }
+  answer: D
+  explanation: "The French backed Muzaffar Jang (Deccan) and Chanda Sahib (Carnatic), while the English sided with Nasir Jang and Anwar-ud-din."
+  source: "Spectrum (2019-20), p. 46"
+  tags: [bpsc]
+
+- slug: smi-03-m10
+  difficulty: medium
+  stem: "The First Carnatic War ended in 1748 with the treaty of"
+  options: { A: "Paris", B: "Aix-La Chapelle", C: "Ryswick", D: "Tordesillas" }
+  answer: B
+  explanation: "The Treaty of Aix-La Chapelle (1748), which ended the Austrian War of Succession, returned Madras to the English."
+  source: "Spectrum (2019-20), p. 45"
+  tags: [ssc]
+
+- slug: smi-03-m11
+  difficulty: medium
+  stem: "Anwar-ud-din, the Nawab of Carnatic, was defeated and killed in 1749 at the Battle of"
+  options: { A: "Ambur", B: "St. Thome", C: "Arcot", D: "Wandiwash" }
+  answer: A
+  explanation: "The combined armies of Muzaffar Jang, Chanda Sahib and the French defeated and killed Anwar-ud-din at Ambur (near Vellore) in 1749."
+  source: "Spectrum (2019-20), p. 46"
+  tags: [ssc]
+
+- slug: smi-03-m12
+  difficulty: medium
+  stem: "The first Jesuit mission, which reached Akbar's court at Fatehpur Sikri on February 28, 1580, was led by"
+  options: { A: "Jerome Xavier and Emanuel Pinheiro", B: "Francis Xavier and Antonio Monserrate", C: "Rodolfo Aquaviva and Antonio Monserrate", D: "Rodolfo Aquaviva and Jerome Xavier" }
+  answer: C
+  explanation: "Aquaviva and Monserrate led the first mission; Jerome Xavier and Emanuel Pinheiro led the third mission at Lahore (1595)."
+  source: "Spectrum (2019-20), pp. 29-30"
+  tags: [ssc]
+
+- slug: smi-03-m13
+  difficulty: medium
+  stem: "In which year were the two rival English companies amalgamated as the 'United Company of Merchants of England Trading to the East Indies'?"
+  options: { A: "1688", B: "1698", C: "1702", D: "1708" }
+  answer: D
+  explanation: "Under pressure from the Crown and Parliament, the two companies were amalgamated in 1708."
+  source: "Spectrum (2019-20), p. 42"
+  tags: [ssc]
+
+- slug: smi-03-m14
+  difficulty: medium
+  stem: "Which of the following Dutch factories was located in present-day Bihar?"
+  options: { A: "Chinsura", B: "Patna", C: "Baranagar", D: "Kasimbazar", E: "More than one of the above" }
+  answer: B
+  explanation: "Of the Dutch factories listed, Patna is in Bihar; Chinsura, Baranagar and Kasimbazar (near Murshidabad) are in Bengal."
+  source: "Spectrum (2019-20), p. 36"
+  tags: [bpsc]
+
+- slug: smi-03-m15
+  difficulty: medium
+  stem: "According to the book, what share did the French monarch hold in the French East India Company?"
+  options: { A: "About 25 per cent", B: "About 40 per cent", C: "More than 60 per cent", D: "100 per cent" }
+  answer: C
+  explanation: "In the French company the monarch had more than 60 per cent share and nominated its directors."
+  source: "Spectrum (2019-20), p. 54"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-03-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. Under the Treaty of Tordesillas (1494), Portugal and Spain divided the non-Christian world by a line some 1,300 miles west of the Cape Verde Islands.
+    2. Pope Nicholas V gave Prince Henry of Portugal a bull in 1454 to navigate 'as far as India'.
+    3. Bartholomew Dias rounded the Cape of Good Hope in 1497.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Dias rounded the Cape of Good Hope in 1487; 1497 is when the Portuguese expedition set out for India."
+  source: "Spectrum (2019-20), p. 23"
+  tags: [bpsc]
+
+- slug: smi-03-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about Nino da Cunha:
+
+    1. He shifted the headquarters of the Portuguese government in India from Cochin to Goa.
+    2. During his time, Bahadur Shah of Gujarat ceded the island of Bassein to the Portuguese in 1534.
+    3. He tried to increase Portuguese influence in Bengal by settling Portuguese nationals there with Hooghly as their headquarters.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book's account of Nino da Cunha, who took office in November 1529."
+  source: "Spectrum (2019-20), p. 27"
+  tags: [bpsc]
+
+- slug: smi-03-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about Captain William Hawkins:
+
+    1. He conversed with Jahangir in the Turki language without an interpreter.
+    2. Jahangir appointed him a mansabdar of 400.
+    3. He married the daughter of an Armenian Christian named Mubarak Shah.
+    4. He secured a permanent English factory at Surat before leaving the Mughal court in 1611.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Hawkins left in 1611 baffled by Portuguese intrigues; the Surat factory came only in 1613 under Thomas Aldworth."
+  source: "Spectrum (2019-20), pp. 30-31, 38"
+  tags: [bpsc]
+
+- slug: smi-03-h04
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Dutch were mainly interested in building an empire in India.
+
+    **Reason (R):** The main commercial interest of the Dutch lay in the Spice Islands of Indonesia.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: D
+  explanation: "The book says the Dutch were not much interested in empire building in India; their main interest lay in the Spice Islands of Indonesia."
+  source: "Spectrum (2019-20), p. 37"
+  tags: [bpsc]
+
+- slug: smi-03-h05
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Battle of St. Thome was an eye-opener for the Europeans in India.
+
+    **Reason (R):** It revealed that even a small disciplined army could easily defeat a much larger Indian army.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "A small French army under Captain Paradise defeated Mahfuz Khan's large army on the Adyar, which showed the Europeans this lesson."
+  source: "Spectrum (2019-20), p. 45"
+  tags: [bpsc]
+
+- slug: smi-03-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements about Dupleix:
+
+    1. He was the first European to interfere in the internal politics of the Indian rulers.
+    2. He is considered the originator of the practice of subsidiary alliance, placing a French army at Hyderabad at the expense of the subahdar.
+    3. Like Clive and Lawrence, he personally led armies on the battlefield.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The book notes Dupleix was not a man of action: he planned campaigns but never led an army in battle like Lawrence or Clive."
+  source: "Spectrum (2019-20), p. 48"
+  tags: [bpsc]
+
+- slug: smi-03-h07
+  difficulty: hard
+  stem: |
+    Arrange the following events in the growth of the English in Bengal in chronological order:
+
+    1. The fortified settlement is named Fort William.
+    2. Hooghly is sacked by the imperial Mughals.
+    3. The English buy the zamindari of Sutanuti, Gobindapur and Kalikata.
+    4. Shah Shuja allows the English to trade in Bengal for Rs. 3,000 a year.
+  options: { A: "4, 3, 2, 1", B: "2, 4, 3, 1", C: "4, 2, 3, 1", D: "4, 2, 1, 3", E: "None of the above" }
+  answer: C
+  explanation: "Shah Shuja's permission (1651), sack of Hooghly (1686), purchase of the three villages (1698), Fort William named (1700)."
+  source: "Spectrum (2019-20), pp. 39-40"
+  tags: [bpsc]
+
+- slug: smi-03-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Third Carnatic War:
+
+    1. In 1758 the French army under Count de Lally captured the English forts of St. David and Vizianagaram.
+    2. At Wandiwash, Eyre Coote routed Lally's army and took Bussy prisoner.
+    3. Lally defended Pondicherry for eight months before surrendering on January 16, 1761.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1, 2 and 3", C: "2 only", D: "2 and 3 only", E: "None of the above" }
+  answer: B
+  explanation: "All three are stated in the book's account of the Third Carnatic War (1758-63)."
+  source: "Spectrum (2019-20), pp. 49-50"
+  tags: [bpsc]
+
+- slug: smi-03-h09
+  difficulty: hard
+  stem: |
+    Which of the following were terms of the farmans obtained from Farrukhsiyar?
+
+    1. In Bengal, the Company's trade was exempt from additional customs duties except the annual payment of Rs. 3,000.
+    2. In Surat, for an annual payment of Rs. 10,000, the Company was exempted from all duties.
+    3. The Company's coins minted at Madras were to have currency throughout the Mughal empire.
+    4. The Company could issue dastaks (passes) for transporting such goods.
+
+    Select the correct answer using the code given below.
+  options: { A: "1 and 2 only", B: "1, 3 and 4 only", C: "2, 3 and 4 only", D: "1, 2 and 4 only", E: "None of the above" }
+  answer: D
+  explanation: "The farmans gave currency to the Company's coins minted at Bombay, not Madras; the other three terms are correct."
+  source: "Spectrum (2019-20), pp. 40-41"
+  tags: [bpsc]
+
+- slug: smi-03-h10
+  difficulty: hard
+  stem: |
+    Which of the following are given in the book as reasons why the English succeeded against other European powers?
+
+    1. The Bank of England, the world's first central bank, sold government debt to fund Britain's wars.
+    2. The Industrial Revolution started in England and reached other European nations late.
+    3. The French company had no shareholders' meeting between 1725 and 1765 and was run like a State department.
+    4. Britain was more zealous about spreading Christianity than Portugal or Spain.
+
+    Select the correct answer using the code given below.
+  options: { A: "1, 2 and 3 only", B: "1 and 2 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: A
+  explanation: "The book says Britain was less zealous about religion than Spain, Portugal or the Dutch, which made its rule more acceptable."
+  source: "Spectrum (2019-20), pp. 54-55"
+  tags: [bpsc]
+
+- slug: smi-03-h11
+  difficulty: hard
+  stem: "In which year was the Danish East India Company established?"
+  options: { A: "1602", B: "1616", C: "1620", D: "1664" }
+  answer: B
+  explanation: "The Danish East India Company was established in 1616; its factory at Tranquebar followed in 1620."
+  source: "Spectrum (2019-20), p. 53"
+  tags: [ssc]
+
+- slug: smi-03-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about the early French company in India:
+
+    1. The Dutch captured Pondicherry in 1693.
+    2. The Treaty of Ryswick (1697) restored Pondicherry to the French.
+    3. In 1720 the company was reorganised as the 'Perpetual Company of the Indies'.
+    4. The governors Lenoir and Dumas served between 1742 and 1754.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "Lenoir and Dumas were governors between 1720 and 1742; the other three statements are from the book."
+  source: "Spectrum (2019-20), pp. 43-44"
+  tags: [bpsc]
+
+- slug: smi-03-h13
+  difficulty: hard
+  stem: "In which year did the Marathas capture Salsette and Bassein from the Portuguese?"
+  options: { A: "1683", B: "1661", C: "1759", D: "1739" }
+  answer: D
+  explanation: "The book notes the Marathas captured Salsette and Bassein from the Portuguese in 1739; they invaded Goa in 1683."
+  source: "Spectrum (2019-20), p. 32"
+  tags: [ssc]
+
+- slug: smi-03-h14
+  difficulty: hard
+  stem: "The Portuguese system of drilling groups of infantry on the Spanish model, introduced in the 1630s, was adopted first by"
+  options: { A: "the French and the English", B: "the Marathas and the Sikhs", C: "the Mughals", D: "the Dutch" }
+  answer: A
+  explanation: "Introduced as a counter to Dutch pressure, it was adopted first by the French and English and later by the Marathas and Sikhs."
+  source: "Spectrum (2019-20), p. 34"
+  tags: [ssc]
+
+- slug: smi-03-h15
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Portuguese at Hooghly:
+
+    1. They settled near Satgaon in Bengal on the basis of an imperial farman of about 1579.
+    2. They monopolised the manufacture of salt and built a custom house of their own.
+    3. The Mughal siege of Hooghly in 1632 was ordered by Jahangir.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The siege of 1632 was ordered by Shah Jahan, who told Bengal governor Qasim Khan to act against the Portuguese."
+  source: "Spectrum (2019-20), pp. 31-32"
+  tags: [bpsc]

@@ -95,6 +95,9 @@ chapters that `cover` any of those nodes.
   tags: [optional]
 ```
 
+**Multi-line stems** (statement, assertion-reason, match questions) use `stem: |`. Leave a **blank line after a
+list** and between paragraphs: a line directly under `2. …` is folded into item 2 by Markdown, and the push rejects it.
+
 ## Books
 
 `book.yaml`:

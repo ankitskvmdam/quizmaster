@@ -1,0 +1,328 @@
+# Chapter 11 — Indian National Congress: Foundation and the Moderate Phase (book pp. 247-256)
+# ---------- EASY ----------
+- slug: smi-11-e01
+  difficulty: easy
+  stem: "The first session of the Indian National Congress in December 1885 was held at"
+  options: { A: "Elphinstone College, Bombay", B: "Presidency College, Calcutta", C: "Gokuldas Tejpal Sanskrit College, Bombay", D: "Fergusson College, Poona" }
+  answer: C
+  explanation: "A.O. Hume organised the first INC session at Gokuldas Tejpal Sanskrit College in Bombay in December 1885."
+  source: "Spectrum (2019-20), p. 247"
+  tags: [ssc]
+
+- slug: smi-11-e02
+  difficulty: easy
+  stem: "Who presided over the first session of the Indian National Congress?"
+  options: { A: "Womesh Chandra Bonnerjee", B: "Dadabhai Naoroji", C: "Surendranath Banerjea", D: "Badruddin Tyabji" }
+  answer: A
+  explanation: "The first session was presided over by Womesh Chandra Bonnerjee."
+  source: "Spectrum (2019-20), p. 247"
+  tags: [ssc]
+
+- slug: smi-11-e03
+  difficulty: easy
+  stem: "How many delegates attended the first session of the Indian National Congress?"
+  options: { A: "45", B: "72", C: "100", D: "24" }
+  answer: B
+  explanation: "The first session of the INC was attended by 72 delegates."
+  source: "Spectrum (2019-20), p. 247"
+  tags: [ssc]
+
+- slug: smi-11-e04
+  difficulty: easy
+  stem: "Who was the first woman graduate of Calcutta University to address a Congress session (1890)?"
+  options: { A: "Sarojini Naidu", B: "Annie Besant", C: "Madam Cama", D: "Kadambini Ganguly", E: "More than one of the above" }
+  answer: D
+  explanation: "In 1890 Kadambini Ganguly, the first woman graduate of Calcutta University, addressed the Congress session."
+  source: "Spectrum (2019-20), p. 248"
+  tags: [bpsc]
+
+- slug: smi-11-e05
+  difficulty: easy
+  stem: "The British committee of the Indian National Congress, set up in London in 1889, had which journal as its organ?"
+  options: { A: "Voice of India", B: "India", C: "Indian Sociologist", D: "Bengalee" }
+  answer: B
+  explanation: "The British committee of the INC established in London in 1889 had 'India' as its organ."
+  source: "Spectrum (2019-20), p. 250"
+  tags: [ssc]
+
+- slug: smi-11-e06
+  difficulty: easy
+  stem: "Which viceroy called the Indian National Congress 'a factory of sedition'?"
+  options: { A: "Dufferin", B: "Curzon", C: "Ripon", D: "Lytton" }
+  answer: A
+  explanation: "Dufferin called the Congress 'a factory of sedition' as the government turned openly hostile."
+  source: "Spectrum (2019-20), p. 256"
+  tags: [ssc]
+
+- slug: smi-11-e07
+  difficulty: easy
+  stem: "Who said in 1900, 'The Congress is tottering to its fall, and one of my great ambitions while in India is to assist it to a peaceful demise'?"
+  options: { A: "Lord Dufferin", B: "Lord Ripon", C: "Lord Curzon", D: "Lord Lytton" }
+  answer: C
+  explanation: "The book quotes Lord Curzon (1900) hoping to assist the Congress to a peaceful demise."
+  source: "Spectrum (2019-20), p. 256"
+  tags: [ssc]
+
+- slug: smi-11-e08
+  difficulty: easy
+  stem: "During the early phase, Dadabhai Naoroji was president of the Indian National Congress"
+  options: { A: "once", B: "twice", C: "four times", D: "thrice" }
+  answer: D
+  explanation: "The book lists Dadabhai Naoroji as thrice president of the Congress in its early phase."
+  source: "Spectrum (2019-20), p. 247"
+  tags: [ssc]
+
+- slug: smi-11-e09
+  difficulty: easy
+  stem: "The Marxist 'conspiracy theory' that the Congress was born to abort a popular uprising was put forward by"
+  options: { A: "Bipan Chandra", B: "R.P. Dutt", C: "Lala Lajpat Rai", D: "Pattabhi Sitaramayya", E: "More than one of the above" }
+  answer: B
+  explanation: "R.P. Dutt opined that the INC was born out of a conspiracy to abort a popular uprising, with bourgeois leaders party to it."
+  source: "Spectrum (2019-20), p. 248"
+  tags: [bpsc]
+
+- slug: smi-11-e10
+  difficulty: easy
+  stem: "According to the book, legislative councils in India had no real official power till"
+  options: { A: "1920", B: "1892", C: "1909", D: "1861" }
+  answer: A
+  explanation: "The book says legislative councils in India had no real official power till 1920."
+  source: "Spectrum (2019-20), p. 251"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-11-m01
+  difficulty: medium
+  stem: "The main architects of the Indian National Conference, whose sessions were a prelude to the Congress, were"
+  options: { A: "A.O. Hume and W.C. Bonnerjee", B: "Dadabhai Naoroji and Pherozshah Mehta", C: "M.G. Ranade and K.T. Telang", D: "Surendranath Banerjea and Ananda Mohan Bose", E: "None of the above" }
+  answer: D
+  explanation: "Surendranath Banerjea and Ananda Mohan Bose were the main architects of the Indian National Conference."
+  source: "Spectrum (2019-20), p. 247"
+  tags: [bpsc]
+
+- slug: smi-11-m02
+  difficulty: medium
+  stem: "Under the Indian Councils Act 1892, the number of non-official members the governor-general could have in the Imperial Legislative Council was raised to"
+  options: { A: "six to ten", B: "twelve to twenty", C: "ten to sixteen", D: "sixteen to twenty-four" }
+  answer: C
+  explanation: "The governor-general could now have ten to sixteen non-officials instead of six to ten previously."
+  source: "Spectrum (2019-20), p. 252"
+  tags: [ssc]
+
+- slug: smi-11-m03
+  difficulty: medium
+  stem: "How many Indians were nominated to the Imperial Legislative Council in the thirty years from 1862 to 1892?"
+  options: { A: "Forty-five", B: "Seventy-two", C: "Twenty-four", D: "Sixteen" }
+  answer: A
+  explanation: "Only forty-five Indians were nominated in 1862-1892, most of them wealthy, landed and loyalist."
+  source: "Spectrum (2019-20), p. 251"
+  tags: [ssc]
+
+- slug: smi-11-m04
+  difficulty: medium
+  stem: |
+    The following leaders demanded self-government on the lines of the self-governing colonies of Canada and Australia. Arrange them in the chronological order of their demand:
+
+    1. Gopal Krishna Gokhale
+    2. Lokmanya Tilak
+    3. Dadabhai Naoroji
+  options: { A: "1, 3, 2", B: "3, 1, 2", C: "3, 2, 1", D: "1, 2, 3", E: "None of the above" }
+  answer: B
+  explanation: "Dadabhai Naoroji (1904), Gopal Krishna Gokhale (1905) and Lokmanya Tilak (1906)."
+  source: "Spectrum (2019-20), p. 252"
+  tags: [bpsc]
+
+- slug: smi-11-m05
+  difficulty: medium
+  stem: |
+    Match List I (view on early nationalists/Congress) with List II (person):
+
+    | List I | List II |
+    |---|---|
+    | a. 'The seed time of Indian nationalism' | 1. Lala Lajpat Rai |
+    | b. 'It was at best an opportunist movement' | 2. Pattabhi Sitaramayya |
+    | c. 'The brick and mortar buried six feet deep in the foundation' | 3. Mahadeo Govind Ranade |
+    | d. 'These memorials are nominally addressed to the Government' | 4. Bipan Chandra |
+  options: { A: "a-4, b-1, c-3, d-2", B: "a-1, b-4, c-2, d-3", C: "a-4, b-1, c-2, d-3", D: "a-2, b-1, c-4, d-3", E: "None of the above" }
+  answer: C
+  explanation: "Seed time — Bipan Chandra; opportunist movement — Lala Lajpat Rai; brick and mortar — Pattabhi Sitaramayya; memorials addressed to the people — Ranade to Gokhale (1891)."
+  source: "Spectrum (2019-20), pp. 254-255"
+  tags: [bpsc]
+
+- slug: smi-11-m06
+  difficulty: medium
+  stem: "The United Indian Patriotic Association, encouraged by officials to counter Congress propaganda, was organised by"
+  options: { A: "Badruddin Tyabji and Pherozshah Mehta", B: "A.O. Hume and Lord Dufferin", C: "Sisir Kumar Ghosh and Motilal Ghosh", D: "Sir Syed Ahmed Khan and Raja Shiv Prasad Singh of Benaras", E: "None of the above" }
+  answer: D
+  explanation: "Officials encouraged Sir Syed Ahmed Khan and Raja Shiv Prasad Singh of Benaras to organise the United Indian Patriotic Association."
+  source: "Spectrum (2019-20), p. 256"
+  tags: [bpsc]
+
+- slug: smi-11-m07
+  difficulty: medium
+  stem: "Apart from the arrest of Tilak in 1897, there was a great public outrage over the arrest and deportation without trial of"
+  options: { A: "the Natu brothers", B: "the Chapekar brothers", C: "the Savarkar brothers", D: "the Ghosh brothers" }
+  answer: A
+  explanation: "The book cites public outrage at Tilak's arrest (1897) and the arrest and deportation of the Natu brothers without a trial."
+  source: "Spectrum (2019-20), p. 254"
+  tags: [ssc]
+
+- slug: smi-11-m08
+  difficulty: medium
+  stem: "Dissatisfied with the Indian Councils Act 1892, the nationalists raised which slogan while demanding control over the budget?"
+  options: { A: "Swaraj is my birthright", B: "No taxation without representation", C: "India for Indians", D: "Prayer and petition" }
+  answer: B
+  explanation: "Demanding a majority of elected Indians and control over the budget, they gave the slogan 'No taxation without representation'."
+  source: "Spectrum (2019-20), p. 251"
+  tags: [ssc]
+
+- slug: smi-11-m09
+  difficulty: medium
+  stem: "The official attitude towards the Congress stiffened after which year, when the government failed to persuade it to confine itself to social issues?"
+  options: { A: "1885", B: "1892", C: "1887", D: "1890" }
+  answer: C
+  explanation: "The official attitude stiffened further after 1887, when the Congress refused to confine itself to social issues and became increasingly critical of colonial rule."
+  source: "Spectrum (2019-20), pp. 255-256"
+  tags: [ssc]
+
+- slug: smi-11-m10
+  difficulty: medium
+  stem: "It was decided in 1890 to hold a session of the Indian National Congress in London in 1892. Why was this proposal postponed?"
+  options: { A: "Lord Curzon banned the session", B: "Dadabhai Naoroji fell ill", C: "The Congress split between Moderates and Extremists", D: "The British elections of 1891", E: "None of the above" }
+  answer: D
+  explanation: "Owing to the British elections of 1891 the proposal was postponed and never revived."
+  source: "Spectrum (2019-20), p. 250"
+  tags: [bpsc]
+
+# ---------- HARD ----------
+- slug: smi-11-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indian Councils Act 1892:
+
+    1. The budget could be discussed in the councils.
+    2. The budget could be voted upon, though not amended.
+    3. Questions could be asked, but supplementaries could not.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The budget could be discussed and questions asked, but the budget could neither be voted upon nor amended, and supplementaries could not be asked."
+  source: "Spectrum (2019-20), p. 252"
+  tags: [bpsc]
+
+- slug: smi-11-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the 'reformed' Imperial Legislative Council under the Indian Councils Act 1892:
+
+    1. Officials retained their majority in the council.
+    2. During its tenure till 1909, it met on average for only thirteen days in a year.
+    3. The number of unofficial Indian members present was only five out of twenty-four.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are listed among the limitations of the 1892 Act."
+  source: "Spectrum (2019-20), p. 252"
+  tags: [bpsc]
+
+- slug: smi-11-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The British Indian Government was hostile to the Congress from the beginning.
+
+    **Reason (R):** The early Congress rejected loyalty to the British Crown and used militant methods.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "The government was hostile from the beginning despite the Congress's moderate methods and emphasis on loyalty to the British Crown, so R is false."
+  source: "Spectrum (2019-20), p. 255"
+  tags: [bpsc]
+
+- slug: smi-11-h04
+  difficulty: hard
+  stem: "The Moderates argued that the salaries of British bureaucrats remitted home and pensions paid in England out of Indian revenue amounted to a drain of national resources. On which ground of their demand for Indianisation of services did this argument fall?"
+  options: { A: "Economic", B: "Political", C: "Moral", D: "Administrative" }
+  answer: B
+  explanation: "The book classifies the remittance and pension argument as the political ground; the economic ground was the high cost of British officials and the moral ground was discrimination."
+  source: "Spectrum (2019-20), p. 253"
+  tags: [ssc]
+
+- slug: smi-11-h05
+  difficulty: hard
+  stem: "Which of the following was NOT a demand of the Moderates in their campaign for general administrative reforms?"
+  options: { A: "Separation of judicial from executive functions", B: "Better treatment for Indian labour in other British colonies", C: "More expenditure on elementary and technical education", D: "Right to vote for all" }
+  answer: D
+  explanation: "The book says the Moderates failed to widen their democratic base by not demanding the right to vote for all; the other three were among their demands."
+  source: "Spectrum (2019-20), p. 253"
+  tags: [ssc]
+
+- slug: smi-11-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements about theories on the foundation of the Congress:
+
+    1. Hume convinced Lord Dufferin not to obstruct the formation of the Congress.
+    2. Extremist leaders like Lala Lajpat Rai believed in the 'safety valve' theory.
+    3. Bipan Chandra supported the 'safety valve' theory, calling Hume the founder of a conspiracy.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 2 are correct. Bipan Chandra disputes the safety valve idea, observing that early leaders used Hume as a 'lightning conductor'."
+  source: "Spectrum (2019-20), p. 248"
+  tags: [bpsc]
+
+- slug: smi-11-h07
+  difficulty: hard
+  stem: |
+    Which of the following economic demands were raised by the early nationalists?
+
+    1. Reduction in land revenue
+    2. Abolition of salt tax
+    3. Increase in military expenditure to secure the frontier
+    4. Encouragement to modern industry through tariff protection
+
+    Select the correct answer using the codes given below:
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "They demanded a REDUCTION in military expenditure; the other three were among their demands."
+  source: "Spectrum (2019-20), p. 251"
+  tags: [bpsc]
+
+- slug: smi-11-h08
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The moderate phase of the national movement had a narrow social base and the masses played a passive role.
+
+    **Reason (R):** The early nationalists lacked political faith in the masses, believing Indian society was too divided and the masses generally ignorant and conservative.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says the masses played a passive role because the early nationalists lacked political faith in them."
+  source: "Spectrum (2019-20), p. 255"
+  tags: [bpsc]
+
+- slug: smi-11-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Moderates' constitutional demands:
+
+    1. From 1885 to 1892 their demands centred on expansion of councils and reform of councils.
+    2. After the 1892 Act they demanded a majority of elected Indians and the power to vote upon and amend the budget.
+    3. They demanded the right to vote for all adult Indians.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1 and 2 are correct. The book notes they failed to widen their democratic base by not demanding the right to vote for all."
+  source: "Spectrum (2019-20), pp. 251, 253"
+  tags: [bpsc]
+
+- slug: smi-11-h10
+  difficulty: hard
+  stem: "Under the Indian Councils Act 1892, the non-official members of the Indian (central) legislative council were to be nominated by"
+  options: { A: "universities and municipalities", B: "zamindars and district boards", C: "the Secretary of State for India", D: "the Bengal Chamber of Commerce and provincial legislative councils" }
+  answer: D
+  explanation: "Non-official members of the Indian legislative council were nominated by the Bengal Chamber of Commerce and provincial legislative councils; universities, municipalities etc. could recommend members."
+  source: "Spectrum (2019-20), p. 252"
+  tags: [ssc]

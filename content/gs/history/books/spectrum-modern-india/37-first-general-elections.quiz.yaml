@@ -1,0 +1,327 @@
+# Chapter 37 — First General Elections (book pp. 628-634)
+# ---------- EASY ----------
+- slug: smi-37-e01
+  difficulty: easy
+  stem: "Who was the first Chief Election Commissioner of India?"
+  options: { A: "S.Y. Quraishi", B: "Sukumar Sen", C: "G.V. Mavalankar", D: "Humayun Kabir" }
+  answer: B
+  explanation: "Sukumar Sen, an ICS officer, was the first Chief Election Commissioner; he assumed office on March 21, 1950."
+  source: "Spectrum (2019-20), p. 628"
+  tags: [ssc]
+
+- slug: smi-37-e02
+  difficulty: easy
+  stem: "Who was the Speaker of the first Lok Sabha?"
+  options: { A: "Sukumar Sen", B: "Rafi Ahmed Kidwai", C: "Ganesh Vasudev Mavalankar", D: "Gulzari Lal Nanda" }
+  answer: C
+  explanation: "The book states that the Speaker of the first Lok Sabha was Ganesh Vasudev Mavalankar."
+  source: "Spectrum (2019-20), p. 634"
+  tags: [ssc]
+
+- slug: smi-37-e03
+  difficulty: easy
+  stem: "In the first general elections, citizens of what minimum age had the right to vote?"
+  options: { A: "18 years", B: "25 years", C: "20 years", D: "21 years" }
+  answer: D
+  explanation: "The elections were held on universal adult franchise, with all those twenty-one years of age or older having the right to vote."
+  source: "Spectrum (2019-20), p. 629"
+  tags: [ssc]
+
+- slug: smi-37-e04
+  difficulty: easy
+  stem: "What was the voter turnout in the first general elections?"
+  options: { A: "45.7 per cent", B: "49 per cent", C: "40 per cent", D: "70 per cent" }
+  answer: A
+  explanation: "The voter turnout for the first general elections was 45.7 per cent."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [ssc]
+
+- slug: smi-37-e05
+  difficulty: easy
+  stem: "Indelible ink was introduced in the first general elections mainly to prevent"
+  options: { A: "rigging of ballot boxes", B: "impersonation", C: "invalid votes", D: "booth capturing" }
+  answer: B
+  explanation: "A mark of indelible ink was put on the voter's finger to prevent impersonation; the practice continues today."
+  source: "Spectrum (2019-20), p. 632"
+  tags: [ssc]
+
+- slug: smi-37-e06
+  difficulty: easy
+  stem: "How many Lok Sabha seats did the Indian National Congress win in the first general elections?"
+  options: { A: "472", B: "489", C: "364", D: "401" }
+  answer: C
+  explanation: "The Congress contested 472 seats and won 364, a stupendous majority."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [ssc]
+
+- slug: smi-37-e07
+  difficulty: easy
+  stem: "Approximately what share of the voters enrolled for the first general elections were women?"
+  options: { A: "30 per cent", B: "40 per cent", C: "49 per cent", D: "45 per cent" }
+  answer: D
+  explanation: "Of about 173 million enrolled voters, approximately 45 per cent were women."
+  source: "Spectrum (2019-20), p. 630"
+  tags: [ssc]
+
+- slug: smi-37-e08
+  difficulty: easy
+  stem: "Roughly how many voters were enrolled in India (excluding Jammu and Kashmir) for the first general elections?"
+  options: { A: "173 million", B: "357 million", C: "80 million", D: "224 million" }
+  answer: A
+  explanation: "The total enrolled was 17,32,13,635, i.e. roughly more than 173 million voters."
+  source: "Spectrum (2019-20), pp. 629-630"
+  tags: [ssc]
+
+- slug: smi-37-e09
+  difficulty: easy
+  stem: "The office of the Election Commission was set up in a small way on"
+  options: { A: "November 26, 1949", B: "January 26, 1950", C: "March 21, 1950", D: "January 25, 1950" }
+  answer: D
+  explanation: "The office of the Election Commission had been set up in a small way on January 25, 1950."
+  source: "Spectrum (2019-20), p. 628"
+  tags: [ssc]
+
+- slug: smi-37-e10
+  difficulty: easy
+  stem: "Under which Article of the Constitution is the Election Commission vested with the superintendence, direction and control of elections?"
+  options: { A: "Article 326", B: "Article 329", C: "Article 324", D: "Article 280" }
+  answer: C
+  explanation: "Under Article 324 the Election Commission controls elections to Parliament, state legislatures and the offices of President and Vice-President."
+  source: "Spectrum (2019-20), pp. 628-629"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-37-m01
+  difficulty: medium
+  stem: "Which law provided for the qualifications of voters and the preparation and publication of electoral rolls for the first elections?"
+  options: { A: "Representation of the People Act, 1950", B: "Representation of the People Act, 1951", C: "Government of India Act, 1935", D: "Indian Independence Act, 1947", E: "More than one of the above" }
+  answer: A
+  explanation: "The RPA 1950 dealt with voter qualifications, electoral rolls and seat allocation; the RPA 1951 dealt with conduct of elections, disqualifications, poll expenses and counting."
+  source: "Spectrum (2019-20), p. 629"
+  tags: [bpsc]
+
+- slug: smi-37-m02
+  difficulty: medium
+  stem: "Of the 489 elective seats in the first House of the People, how many were reserved for Scheduled Castes and Scheduled Tribes respectively?"
+  options: { A: "477 and 192", B: "72 and 26", C: "26 and 72", D: "86 and 26" }
+  answer: B
+  explanation: "72 seats were reserved for SCs and 26 for STs; 477 and 192 were the reserved seats in the state assemblies."
+  source: "Spectrum (2019-20), p. 629"
+  tags: [ssc]
+
+- slug: smi-37-m03
+  difficulty: medium
+  stem: "From how many constituencies were the 489 Lok Sabha seats filled in the first general elections?"
+  options: { A: "489", B: "314", C: "86", D: "401" }
+  answer: D
+  explanation: "There were 314 single-seat, 86 two-seat and one three-seat constituency — 489 seats from 401 constituencies."
+  source: "Spectrum (2019-20), p. 632"
+  tags: [ssc]
+
+- slug: smi-37-m04
+  difficulty: medium
+  stem: "Apart from the Congress, which two parties were the only ones to win a two-digit number of seats in the first Lok Sabha elections?"
+  options: { A: "CPI and Kisan Mazdoor Praja Party", B: "Socialist Party and Bharatiya Jana Sangh", C: "CPI and Socialist Party", D: "Kisan Mazdoor Praja Party and Bharatiya Jana Sangh", E: "None of the above" }
+  answer: C
+  explanation: "The CPI won 16 and the Socialist Party 12 seats; the KMPP won 9 and the BJS 3."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [bpsc]
+
+- slug: smi-37-m05
+  difficulty: medium
+  stem: "Dr B.R. Ambedkar was defeated in the Bombay (North Central) reserved constituency in the first general elections by"
+  options: { A: "Narayan Sadoba Kajrolkar", B: "K.D. Malviya", C: "Chaudhry Brahm Prakash", D: "A.K. Gopalan" }
+  answer: A
+  explanation: "Ambedkar, the Scheduled Castes Federation candidate, lost to his little-known former assistant, the Congress's Narayan Sadoba Kajrolkar."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [ssc]
+
+- slug: smi-37-m06
+  difficulty: medium
+  stem: |
+    Match List I (party) with List II (leader associated with it before the first general elections):
+
+    | List I | List II |
+    |---|---|
+    | a. Kisan Mazdoor Praja Party | 1. Ram Manohar Lohia and Jaya Prakash Narayan |
+    | b. Scheduled Castes Federation | 2. Shyama Prasad Mookerjee |
+    | c. Socialist Party | 3. Dr B.R. Ambedkar |
+    | d. Bharatiya Jana Sangh | 4. J.B. Kripalani |
+  options: { A: "a-4, b-1, c-3, d-2", B: "a-4, b-3, c-1, d-2", C: "a-2, b-3, c-1, d-4", D: "a-4, b-3, c-2, d-1", E: "None of the above" }
+  answer: B
+  explanation: "Kripalani founded the KMPP, Ambedkar revived the SCF, Lohia and JP were behind the Socialist Party, and S.P. Mookerjee set up the BJS in October 1951."
+  source: "Spectrum (2019-20), pp. 631-632"
+  tags: [bpsc]
+
+- slug: smi-37-m07
+  difficulty: medium
+  stem: "Why could nearly two to three million women not be registered as voters for the first general elections?"
+  options: { A: "They were displaced persons who had migrated from Pakistan", B: "Political parties failed to enrol them", C: "They did not meet the property qualification", D: "They did not disclose their proper names, giving only their relationship to male relatives", E: "More than one of the above" }
+  answer: D
+  explanation: "Local custom kept women from disclosing their names; the Commission ruled that no one could be enrolled without a proper name."
+  source: "Spectrum (2019-20), p. 630"
+  tags: [bpsc]
+
+- slug: smi-37-m08
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Constitution of the first Lok Sabha by the Election Commission
+    2. Sukumar Sen assumes office as Chief Election Commissioner
+    3. Provisions on citizenship and Article 324 brought into force
+    4. Beginning of the first phase of the first general elections
+
+    Select the correct answer using the codes given below:
+  options: { A: "2-3-4-1", B: "3-2-1-4", C: "3-2-4-1", D: "2-3-1-4", E: "None of the above" }
+  answer: C
+  explanation: "Article 324 in force on November 26, 1949; Sen took office March 21, 1950; polling began October 15, 1951; first Lok Sabha constituted April 2, 1952."
+  source: "Spectrum (2019-20), pp. 628-629, 633"
+  tags: [bpsc]
+
+- slug: smi-37-m09
+  difficulty: medium
+  stem: "In the first Lok Sabha elections, who won the highest number of seats after the Congress?"
+  options: { A: "Communist Party of India", B: "Socialist Party", C: "Kisan Mazdoor Praja Party", D: "Independents" }
+  answer: D
+  explanation: "The book states that the independents got the highest number of seats after the Congress."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [ssc]
+
+- slug: smi-37-m10
+  difficulty: medium
+  stem: "Which of the following winners of the first general elections was to become Delhi's first chief minister?"
+  options: { A: "Chaudhry Brahm Prakash", B: "Lal Bahadur Shastri", C: "Gulzari Lal Nanda", D: "Rafi Ahmed Kidwai" }
+  answer: A
+  explanation: "Among the prominent winners was Chaudhry Brahm Prakash, Delhi's first chief minister to be; Nanda and Shastri were future prime ministers."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-37-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the electorate in the first general elections:
+
+    1. About 49 per cent of the total population was enrolled as voters.
+    2. The enrolment figures include Jammu and Kashmir.
+    3. Some 40 per cent of the eligible women voters exercised their vote.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Both the voter and census figures in the book exclude Jammu and Kashmir; statements 1 and 3 are stated in the book."
+  source: "Spectrum (2019-20), pp. 629-630, 633"
+  tags: [bpsc]
+
+- slug: smi-37-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the challenges in preparing the electoral rolls:
+
+    1. Displaced persons from Pakistan in West Bengal, Punjab, Delhi and, to some extent, Assam were difficult to register.
+    2. The bulk of the work of preparing the rolls was shared by the political parties.
+    3. Inexperience and poor organisation of the governmental machinery in some states kept eligible voters off the rolls.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The parties lacked experience and took little interest, so the task was borne almost entirely by the state governmental machinery."
+  source: "Spectrum (2019-20), pp. 630-631"
+  tags: [bpsc]
+
+- slug: smi-37-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** In the first general elections, the Election Commission had to allot a symbol to each major party and independent candidate.
+
+    **Reason (R):** Over 70 per cent of the voters were illiterate, so candidates had to be identified by symbols.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book links the two directly: with over 70 per cent illiterate, candidates had to be identified by symbols."
+  source: "Spectrum (2019-20), p. 631"
+  tags: [bpsc]
+
+- slug: smi-37-h04
+  difficulty: hard
+  stem: "According to Sukumar Sen's report, most of the women who could not vote because they did not disclose their proper names were from which group of states?"
+  options: { A: "West Bengal, Punjab, Delhi and Assam", B: "Madras, Travancore-Cochin, Orissa and PEPSU", C: "Bihar, Uttar Pradesh, Madhya Bharat, Rajasthan and Vindhya Pradesh", D: "Bihar, Orissa, West Bengal and Assam", E: "None of the above" }
+  answer: C
+  explanation: "Most such women were from Bihar, Uttar Pradesh, Madhya Bharat, Rajasthan and Vindhya Pradesh; option A lists the states with displaced persons and option B those where the Congress lacked a majority."
+  source: "Spectrum (2019-20), p. 630"
+  tags: [bpsc]
+
+- slug: smi-37-h05
+  difficulty: hard
+  stem: "In the first state legislature elections, the Congress formed governments everywhere but did not get a majority on its own in four states. Which of the following was one of them?"
+  options: { A: "Bihar", B: "Bombay", C: "Uttar Pradesh", D: "Madras", E: "More than one of the above" }
+  answer: D
+  explanation: "The four states were Madras, Travancore-Cochin, Orissa and PEPSU."
+  source: "Spectrum (2019-20), p. 634"
+  tags: [bpsc]
+
+- slug: smi-37-h06
+  difficulty: hard
+  stem: "Which of the following was NOT among the 14 national parties in the first general elections, as listed by the Election Commission?"
+  options: { A: "Forward Bloc (Ruikar Group)", B: "Jharkhand Party", C: "Krishikar Lok Party", D: "Revolutionary Communist Party of India", E: "More than one of the above" }
+  answer: B
+  explanation: "Forward Bloc (Ruikar Group), Krishikar Lok Party and RCPI were among the 14 national parties; the Jharkhand Party appears only among the winning parties, not in the national list."
+  source: "Spectrum (2019-20), pp. 632, 634"
+  tags: [bpsc]
+
+- slug: smi-37-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about the first Lok Sabha elections:
+
+    1. 53 political parties, including 14 national parties, took part.
+    2. There were 1,874 candidates in all, including 533 independents.
+    3. The Congress contested all 489 seats.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The Congress contested 472 seats (winning 364), not all 489."
+  source: "Spectrum (2019-20), pp. 632-633"
+  tags: [bpsc]
+
+- slug: smi-37-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the conduct of the first general elections:
+
+    1. There were over 224,000 polling booths, roughly one for every 1000 voters.
+    2. Party symbols were printed on the ballot papers.
+    3. About a million officials supervised the conduct of the polls.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Symbols were painted on the ballot boxes, one steel box per candidate; symbols on ballot papers came later."
+  source: "Spectrum (2019-20), pp. 631-632"
+  tags: [bpsc]
+
+- slug: smi-37-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about the results of the first Lok Sabha elections:
+
+    1. The Congress polled close to 45 per cent of the total vote.
+    2. The Socialist Party got a higher percentage of votes than the CPI but won fewer seats.
+    3. Acharya Kripalani won from Faizabad as the KMPP candidate.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "The Socialist Party got 10.59 per cent and 12 seats against the CPI's 3.29 per cent and 16 seats; Kripalani lost Faizabad, though his wife Sucheta won in Delhi."
+  source: "Spectrum (2019-20), p. 633"
+  tags: [bpsc]
+
+- slug: smi-37-h10
+  difficulty: hard
+  stem: "According to Sukumar Sen's report, as many as how many political parties were formed around the time of the first elections, most of which virtually disappeared afterwards?"
+  options: { A: "178", B: "53", C: "14", D: "1,874" }
+  answer: A
+  explanation: "Sen's report noted a mushroom growth of parties — as many as 178, most of which virtually disappeared after the elections."
+  source: "Spectrum (2019-20), p. 631"
+  tags: [ssc]

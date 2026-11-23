@@ -1,0 +1,377 @@
+# Chapter 8 — Socio-Religious Reform Movements: General Features (book pp. 188-205)
+# ---------- EASY ----------
+- slug: smi-08-e01
+  difficulty: easy
+  stem: "Who described sati as a 'murder according to every shastra'?"
+  options: { A: "Ishwar Chandra Vidyasagar", B: "Raja Rammohan Roy", C: "Akshay Kumar Dutt", D: "Swami Vivekananda" }
+  answer: B
+  explanation: "The book quotes Raja Rammohan Roy describing sati as a 'murder according to every shastra'."
+  source: "Spectrum (2019-20), pp. 189-190"
+  tags: [ssc]
+
+- slug: smi-08-e02
+  difficulty: easy
+  stem: "In which year did the regulation of the Bengal Code declare the practice of sati illegal?"
+  options: { A: "1819", B: "1856", C: "1829", D: "1872" }
+  answer: C
+  explanation: "Regulation XVII of 1829 of the Bengal Code made sati illegal and punishable as culpable homicide."
+  source: "Spectrum (2019-20), p. 196"
+  tags: [ssc]
+
+- slug: smi-08-e03
+  difficulty: easy
+  stem: "The Hindu Widows' Remarriage Act, 1856 was passed mainly due to the efforts of"
+  options: { A: "Raja Rammohan Roy", B: "B.M. Malabari", C: "D.K. Karve", D: "Ishwar Chandra Vidyasagar" }
+  answer: D
+  explanation: "The book says the 1856 Act was passed mainly due to the efforts of Pandit Ishwar Chandra Vidyasagar."
+  source: "Spectrum (2019-20), p. 196"
+  tags: [ssc]
+
+- slug: smi-08-e04
+  difficulty: easy
+  stem: "In which year did Gandhi found the All India Harijan Sangh?"
+  options: { A: "1932", B: "1927", C: "1924", D: "1935" }
+  answer: A
+  explanation: "Gandhi founded the All India Harijan Sangh in 1932 as part of his campaign against untouchability."
+  source: "Spectrum (2019-20), p. 201"
+  tags: [ssc]
+
+- slug: smi-08-e05
+  difficulty: easy
+  stem: "The All India Women's Conference (1927) was founded by"
+  options: { A: "Sarojini Naidu", B: "Sarla Devi Chaudhurani", C: "Margaret Cousins", D: "Mehribai Tata" }
+  answer: C
+  explanation: "The AIWC was founded by Margaret Cousins in 1927."
+  source: "Spectrum (2019-20), p. 199"
+  tags: [ssc]
+
+- slug: smi-08-e06
+  difficulty: easy
+  stem: "In 1910, Sarla Devi Chaudhurani convened the first meeting of the Bharat Stree Mahamandal at"
+  options: { A: "Bombay", B: "Calcutta", C: "Pune", D: "Allahabad", E: "More than one of the above" }
+  answer: D
+  explanation: "The first meeting of the Bharat Stree Mahamandal was convened in Allahabad in 1910."
+  source: "Spectrum (2019-20), p. 198"
+  tags: [bpsc]
+
+- slug: smi-08-e07
+  difficulty: easy
+  stem: "The Self-Respect Movement of the non-brahmins in South India in the 1920s was led by"
+  options: { A: "E.V. Ramaswamy Naicker", B: "Sri Narayana Guru", C: "Jyotiba Phule", D: "B.R. Ambedkar" }
+  answer: A
+  explanation: "The non-brahmins of South India organised the Self-Respect Movement led by E.V. Ramaswamy Naicker in the 1920s."
+  source: "Spectrum (2019-20), p. 202"
+  tags: [ssc]
+
+- slug: smi-08-e08
+  difficulty: easy
+  stem: "The Chawdar tank is associated with which of the following?"
+  options: { A: "Self-Respect Movement", B: "Mahad Satyagraha", C: "Non-brahmin movement of Kolhapur", D: "Temple-entry proclamation in Travancore" }
+  answer: B
+  explanation: "In the Mahad Satyagraha (1927), Ambedkar led untouchables to the Chawdar tank and drank water from it."
+  source: "Spectrum (2019-20), p. 202"
+  tags: [ssc]
+
+- slug: smi-08-e09
+  difficulty: easy
+  stem: "Who established the Bahishkrit Hitakarini Sabha in 1924?"
+  options: { A: "Jyotiba Phule", B: "Mahatma Gandhi", C: "E.V. Ramaswamy Naicker", D: "B.R. Ambedkar" }
+  answer: D
+  explanation: "Dr Ambedkar set up the Bahishkrit Hitakarini Sabha in 1924 to place the grievances of dalits before the government."
+  source: "Spectrum (2019-20), p. 203"
+  tags: [ssc]
+
+- slug: smi-08-e10
+  difficulty: easy
+  stem: "The Indian Women's University (1916) was set up by"
+  options: { A: "Pandita Ramabai Saraswati", B: "Margaret Cousins", C: "D.K. Karve", D: "J.E.D. Bethune" }
+  answer: C
+  explanation: "Professor D.K. Karve set up the Indian Women's University in 1916."
+  source: "Spectrum (2019-20), p. 197"
+  tags: [ssc]
+
+- slug: smi-08-e11
+  difficulty: easy
+  stem: "Who started the Gujarati 'Satya Prakash' in 1852 to advocate widow remarriage?"
+  options: { A: "Karsondas Mulji", B: "Narmad", C: "B.M. Malabari", D: "Vishnu Shastri Pandit" }
+  answer: A
+  explanation: "Karsondas Mulji started the Satya Prakash in Gujarati in 1852 to advocate widow remarriage."
+  source: "Spectrum (2019-20), p. 197"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-08-m01
+  difficulty: medium
+  stem: "The Age of Consent Act (1891), the result of B.M. Malabari's efforts, forbade the marriage of girls below the age of"
+  options: { A: "10", B: "12", C: "14", D: "16" }
+  answer: B
+  explanation: "The Age of Consent Act (1891), won by the Parsi reformer B.M. Malabari, forbade marriage of girls below 12."
+  source: "Spectrum (2019-20), p. 197"
+  tags: [ssc]
+
+- slug: smi-08-m02
+  difficulty: medium
+  stem: |
+    Arrange the following measures concerning women in chronological order:
+
+    1. Native Marriage Act
+    2. Hindu Widows' Remarriage Act
+    3. Regulation XVII of the Bengal Code banning sati
+    4. Age of Consent Act
+  options: { A: "3, 1, 2, 4", B: "2, 3, 1, 4", C: "3, 2, 4, 1", D: "3, 2, 1, 4", E: "None of the above" }
+  answer: D
+  explanation: "Sati regulation (1829), Widows' Remarriage Act (1856), Native Marriage Act (1872), Age of Consent Act (1891)."
+  source: "Spectrum (2019-20), pp. 196-197"
+  tags: [bpsc]
+
+- slug: smi-08-m03
+  difficulty: medium
+  stem: |
+    Match List I (women's organisation) with List II (founder) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Bharat Stree Mahamandal | 1. Margaret Cousins |
+    | b. Ladies Social Conference | 2. Pandita Ramabai Saraswati |
+    | c. Arya Mahila Samaj | 3. Sarla Devi Chaudhurani |
+    | d. All India Women's Conference | 4. Ramabai Ranade |
+  options: { A: "a-3, b-4, c-2, d-1", B: "a-3, b-2, c-4, d-1", C: "a-1, b-4, c-2, d-3", D: "a-4, b-3, c-2, d-1", E: "None of the above" }
+  answer: A
+  explanation: "Sarla Devi Chaudhurani convened the Bharat Stree Mahamandal, Ramabai Ranade founded the Ladies Social Conference, Pandita Ramabai Saraswati the Arya Mahila Samaj and Margaret Cousins the AIWC."
+  source: "Spectrum (2019-20), pp. 198-199"
+  tags: [bpsc]
+
+- slug: smi-08-m04
+  difficulty: medium
+  stem: "Which of the following does the book classify as a revivalist movement?"
+  options: { A: "Brahmo Samaj", B: "Prarthana Samaj", C: "Deoband movement", D: "Aligarh Movement" }
+  answer: C
+  explanation: "Brahmo Samaj, Prarthana Samaj and the Aligarh Movement are called reformist; Arya Samaj and Deoband are revivalist."
+  source: "Spectrum (2019-20), p. 193"
+  tags: [ssc]
+
+- slug: smi-08-m05
+  difficulty: medium
+  stem: "The Sarda Act pushed up the marriage age for boys and girls, respectively, to"
+  options: { A: "21 and 18", B: "18 and 15", C: "14 and 12", D: "18 and 14" }
+  answer: D
+  explanation: "The Sarda Act raised the marriage age to 18 for boys and 14 for girls."
+  source: "Spectrum (2019-20), p. 197"
+  tags: [ssc]
+
+- slug: smi-08-m06
+  difficulty: medium
+  stem: "The Child Marriage Restraint (Amendment) Act, 1978 raised the age of marriage for girls"
+  options: { A: "from 15 to 18 years", B: "from 14 to 18 years", C: "from 12 to 14 years", D: "from 16 to 18 years" }
+  answer: A
+  explanation: "The 1978 Act raised the marriage age for girls from 15 to 18 and for boys from 18 to 21."
+  source: "Spectrum (2019-20), p. 197"
+  tags: [ssc]
+
+- slug: smi-08-m07
+  difficulty: medium
+  stem: "Who changed Sri Narayana Guru's slogan 'one religion, one caste, one God for mankind' into 'no religion, no caste, no God for mankind'?"
+  options: { A: "E.V. Ramaswamy Naicker", B: "Sahadaran Ayyapan", C: "Jyotiba Phule", D: "B.R. Ambedkar" }
+  answer: B
+  explanation: "Narayana Guru's disciple Sahadaran Ayyapan changed the slogan to 'no religion, no caste, no God for mankind'."
+  source: "Spectrum (2019-20), p. 202"
+  tags: [ssc]
+
+- slug: smi-08-m08
+  difficulty: medium
+  stem: "According to the book, Raja Rammohan Roy defended which of the following as universal principles of religion?"
+  options: { A: "Polytheism of Hinduism and trinitarianism of Christianity", B: "Polytheism of Hinduism and unitarianism of Christianity", C: "Monotheism of the Vedas and unitarianism of Christianity", D: "Monotheism of the Vedas and trinitarianism of Christianity" }
+  answer: C
+  explanation: "Rammohan Roy defended the monotheism of the Vedas and unitarianism of Christianity while attacking Hindu polytheism and Christian trinitarianism."
+  source: "Spectrum (2019-20), pp. 192-193"
+  tags: [ssc]
+
+- slug: smi-08-m09
+  difficulty: medium
+  stem: "Which reformer declared that 'rationalism is our only preceptor' and brought medical opinion to support his views against child marriage?"
+  options: { A: "Raja Rammohan Roy", B: "Swami Vivekananda", C: "Syed Ahmed Khan", D: "Akshay Kumar Dutt", E: "More than one of the above" }
+  answer: D
+  explanation: "Akshay Kumar Dutt held that 'rationalism is our only preceptor' and used medical opinion against child marriage."
+  source: "Spectrum (2019-20), p. 192"
+  tags: [bpsc]
+
+- slug: smi-08-m10
+  difficulty: medium
+  stem: "The Act of 1870 aimed at preventing female infanticide"
+  options: { A: "made it compulsory for parents to register the birth of all babies", B: "first declared infanticide illegal and equivalent to murder", C: "applied only to the Bengal Presidency", D: "fixed the minimum age of marriage for girls" }
+  answer: A
+  explanation: "The 1870 Act made birth registration compulsory and provided for verification of female children; infanticide had been declared illegal by the Bengal Regulations of 1795 and 1804."
+  source: "Spectrum (2019-20), p. 196"
+  tags: [ssc]
+
+- slug: smi-08-m11
+  difficulty: medium
+  stem: "The National Council of Women in India, formed in 1925, was a national branch of the"
+  options: { A: "All India Women's Conference", B: "International Council of Women", C: "National Social Conference", D: "Bharat Stree Mahamandal" }
+  answer: B
+  explanation: "The National Council of Women in India (1925) was a national branch of the International Council of Women; Mehribai Tata played a vital role in it."
+  source: "Spectrum (2019-20), pp. 198-199"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-08-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the abolition of sati:
+
+    1. It was done by Regulation XVII of 1829 of the Bengal Code.
+    2. The regulation made sati punishable by criminal courts as culpable homicide.
+    3. It was extended in slightly modified forms to the Madras and Bombay Presidencies in 1832.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are correct. The regulation was extended to Madras and Bombay in 1830, not 1832."
+  source: "Spectrum (2019-20), p. 196"
+  tags: [bpsc]
+
+- slug: smi-08-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the All India Women's Conference (AIWC):
+
+    1. It was founded in 1927 by Margaret Cousins.
+    2. Its first conference was held at Ferguson College, Pune.
+    3. It is considered the first major Indian women's organisation set up by a woman.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are correct. The book calls the Bharat Stree Mahamandal (1910) the first major women's organisation set up by a woman; the AIWC is called perhaps the first with an egalitarian approach."
+  source: "Spectrum (2019-20), pp. 198-199"
+  tags: [bpsc]
+
+- slug: smi-08-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Participation in the swadeshi, anti-partition and Home Rule movements was a major liberating experience for Indian women.
+
+    **Reason (R):** Sarojini Naidu became the president of the Indian National Congress in 1925.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: B
+  explanation: "Both are stated in the book, but Sarojini Naidu's presidency (1925) came later and does not explain why the early 20th-century movements were liberating for women."
+  source: "Spectrum (2019-20), p. 198"
+  tags: [bpsc]
+
+- slug: smi-08-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the 19th-century Indian intelligentsia that led the reform movements:
+
+    1. Its roots lay mainly in trade and industry.
+    2. Its roots lay in government service or the professions of law, education, journalism or medicine.
+    3. It searched for its model in the European 'middle class'.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 only", C: "1 and 3 only", D: "2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The intelligentsia did not grow from trade or industry, which were under British control; its roots were in government service and the professions, and it modelled itself on the European middle class."
+  source: "Spectrum (2019-20), pp. 191-192"
+  tags: [bpsc]
+
+- slug: smi-08-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Mahad Satyagraha:
+
+    1. It was led by Dr B.R. Ambedkar in March 1927.
+    2. A procession of some 2,500 'untouchables' went to the Chawdar tank, from which they were not allowed to draw water.
+    3. In December 1927, the 'Manusmriti' was burnt at the same place.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three are stated in the book: the March 1927 satyagraha, the procession of about 2,500 to the Chawdar tank, and the burning of the Manusmriti there in December 1927."
+  source: "Spectrum (2019-20), pp. 202-203"
+  tags: [bpsc]
+
+- slug: smi-08-h06
+  difficulty: hard
+  stem: "Pandita Ramabai Saraswati's plea before the English Education Commission resulted in medical education for women, which started in"
+  options: { A: "Lady Hardinge Medical College", B: "Lady Dufferin College", C: "Bethune School", D: "Indian Women's University", E: "More than one of the above" }
+  answer: B
+  explanation: "Her plea, referred to Queen Victoria, resulted in medical education for women starting in Lady Dufferin College."
+  source: "Spectrum (2019-20), p. 198"
+  tags: [bpsc]
+
+- slug: smi-08-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. The Native Marriage Act, 1872 is also called the Civil Marriage Act.
+    2. The Native Marriage Act, 1872 had a wide impact because it applied to Hindus and Muslims alike.
+    3. The Age of Consent Act (1891) was the reward of the efforts of a Parsi reformer, B.M. Malabari.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 and 2 only", C: "2 and 3 only", D: "3 only", E: "None of the above" }
+  answer: A
+  explanation: "The 1872 Act had limited impact because it was not applicable to Hindus, Muslims and other recognised faiths; statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 197"
+  tags: [bpsc]
+
+- slug: smi-08-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. Syed Ahmed Khan emphasised that religious tenets were not immutable.
+    2. Syed Ahmed Khan said that all prophets had the same 'din' and every country had different prophets.
+    3. The book classifies the Aligarh Movement, along with Deoband, as a revivalist movement.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1 and 2 are from the book; the Aligarh Movement is classed as reformist (with Brahmo and Prarthana Samaj), while Arya Samaj and Deoband are revivalist."
+  source: "Spectrum (2019-20), pp. 192-193"
+  tags: [bpsc]
+
+- slug: smi-08-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about Ishwar Chandra Vidyasagar:
+
+    1. He was the principal of Sanskrit College, Calcutta.
+    2. He cited Vedic texts to prove that Hindu religion sanctioned widow remarriage.
+    3. He was associated with no less than 35 girls' schools in Bengal.
+    4. He founded the Widow Remarriage Association in the 1850s.
+
+    Which of the statements given above are correct?
+  options: { A: "1, 2 and 3 only", B: "1 and 2 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: A
+  explanation: "Statements 1-3 are correct. The Widow Remarriage Association of the 1850s was founded by Vishnu Shastri Pandit."
+  source: "Spectrum (2019-20), pp. 196-197"
+  tags: [bpsc]
+
+- slug: smi-08-h10
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The struggle against caste discrimination could not be successful during British rule.
+
+    **Reason (R):** The foreign government could not afford to invite hostile reaction from the orthodox sections by taking up radical measures.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book gives the foreign government's limitation (fear of orthodox reaction) as a reason why the struggle could not succeed under British rule."
+  source: "Spectrum (2019-20), p. 203"
+  tags: [bpsc]
+
+- slug: smi-08-h11
+  difficulty: hard
+  stem: |
+    Consider the following statements about forces under British rule that undermined caste consciousness:
+
+    1. The creation of private property in land and free sale of land upset caste equations.
+    2. The judicial functions of caste panchayats were taken away.
+    3. The administrative services remained reserved for the upper castes.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 2 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 1 and 2 are in the book; it says the administrative services were made open to all castes."
+  source: "Spectrum (2019-20), p. 200"
+  tags: [bpsc]

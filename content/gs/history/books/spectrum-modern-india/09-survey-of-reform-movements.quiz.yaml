@@ -1,0 +1,530 @@
+# Chapter 9 — A General Survey of Socio-Cultural Reform Movements (book pp. 206-238)
+# ---------- EASY ----------
+- slug: smi-09-e01
+  difficulty: easy
+  stem: "Who set up the Atmiya Sabha in Calcutta in 1814?"
+  options: { A: "Raja Rammohan Roy", B: "Debendranath Tagore", C: "Keshab Chandra Sen", D: "Radhakant Deb" }
+  answer: A
+  explanation: "Rammohan Roy set up the Atmiya Sabha (Society of Friends) in 1814 to propagate the monotheistic ideals of Vedanta."
+  source: "Spectrum (2019-20), p. 206"
+  tags: [ssc]
+
+- slug: smi-09-e02
+  difficulty: easy
+  stem: "Raja Rammohan Roy founded the Brahmo Sabha, later renamed Brahmo Samaj, in"
+  options: { A: "1814", B: "1828", C: "1833", D: "1842" }
+  answer: B
+  explanation: "The Brahmo Sabha was founded in August 1828 and later renamed the Brahmo Samaj."
+  source: "Spectrum (2019-20), p. 207"
+  tags: [ssc]
+
+- slug: smi-09-e03
+  difficulty: easy
+  stem: "The Dharma Sabha, set up to counter Brahmo Samaj propaganda, was founded by"
+  options: { A: "Debendranath Tagore", B: "Ishwar Chandra Vidyasagar", C: "Radhakant Deb", D: "Ananda Mohan Bose" }
+  answer: C
+  explanation: "The orthodox Radhakant Deb founded the Dharma Sabha in 1830; it opposed even the abolition of sati."
+  source: "Spectrum (2019-20), pp. 207, 224"
+  tags: [ssc]
+
+- slug: smi-09-e04
+  difficulty: easy
+  stem: "The Tattvabodhini Sabha (1839) was headed by"
+  options: { A: "Keshab Chandra Sen", B: "Raja Rammohan Roy", C: "Henry Vivian Derozio", D: "Debendranath Tagore" }
+  answer: D
+  explanation: "Debendranath Tagore headed the Tattvabodhini Sabha before joining the Brahmo Samaj in 1842."
+  source: "Spectrum (2019-20), p. 210"
+  tags: [ssc]
+
+- slug: smi-09-e05
+  difficulty: easy
+  stem: "Who was the leader and inspirer of the 'Young Bengal Movement'?"
+  options: { A: "Henry Vivian Derozio", B: "David Hare", C: "Alexander Duff", D: "Keshab Chandra Sen" }
+  answer: A
+  explanation: "Henry Vivian Derozio, who taught at the Hindu College from 1826 to 1831, led the Young Bengal Movement."
+  source: "Spectrum (2019-20), p. 212"
+  tags: [ssc]
+
+- slug: smi-09-e06
+  difficulty: easy
+  stem: "Who is known as the 'father of Marathi journalism'?"
+  options: { A: "Gopalhari Deshmukh", B: "Balshastri Jambhekar", C: "Gopal Ganesh Agarkar", D: "Dadoba Pandurang" }
+  answer: B
+  explanation: "Balshastri Jambhekar, who started Darpan in 1832, is known as the father of Marathi journalism."
+  source: "Spectrum (2019-20), p. 214"
+  tags: [ssc]
+
+- slug: smi-09-e07
+  difficulty: easy
+  stem: "The Satyashodhak Samaj (1873) was founded by"
+  options: { A: "Gopal Ganesh Agarkar", B: "M.G. Ranade", C: "Jyotiba Phule", D: "Narayan Malhar Joshi" }
+  answer: C
+  explanation: "Jyotiba Phule founded the Satyashodhak Samaj (Truth Seekers' Society) in 1873."
+  source: "Spectrum (2019-20), p. 215"
+  tags: [ssc]
+
+- slug: smi-09-e08
+  difficulty: easy
+  stem: "Which social reformer wrote under the pen name 'Lokahitawadi'?"
+  options: { A: "Balshastri Jambhekar", B: "Jyotiba Phule", C: "Gopal Ganesh Agarkar", D: "Gopalhari Deshmukh" }
+  answer: D
+  explanation: "Gopalhari Deshmukh wrote for the weekly Prabhakar under the pen name Lokahitawadi."
+  source: "Spectrum (2019-20), p. 215"
+  tags: [ssc]
+
+- slug: smi-09-e09
+  difficulty: easy
+  stem: "The Servants of India Society was founded in 1905 by"
+  options: { A: "Gopal Krishna Gokhale", B: "Narayan Malhar Joshi", C: "Srinivasa Shastri", D: "Behramji Malabari" }
+  answer: A
+  explanation: "Gopal Krishna Gokhale founded the Servants of India Society in 1905 to train national missionaries."
+  source: "Spectrum (2019-20), p. 216"
+  tags: [ssc]
+
+- slug: smi-09-e10
+  difficulty: easy
+  stem: "In which year did Swami Vivekananda found the Ramakrishna Mission?"
+  options: { A: "1886", B: "1893", C: "1897", D: "1898" }
+  answer: C
+  explanation: "Vivekananda founded the Ramakrishna Mission in 1897, after returning to India."
+  source: "Spectrum (2019-20), p. 219"
+  tags: [ssc]
+
+- slug: smi-09-e11
+  difficulty: easy
+  stem: "'Satyarth Prakash' was written by"
+  options: { A: "Swami Vivekananda", B: "Dayananda Saraswati", C: "Swami Shraddhanand", D: "Shiv Narayan Agnihotri" }
+  answer: B
+  explanation: "Dayananda Saraswati's views were published in his famous work Satyarth Prakash (The True Exposition)."
+  source: "Spectrum (2019-20), p. 220"
+  tags: [ssc]
+
+- slug: smi-09-e12
+  difficulty: easy
+  stem: "In 1882, the Theosophical Society shifted its headquarters to"
+  options: { A: "Benaras", B: "Calcutta", C: "Bombay", D: "Adyar" }
+  answer: D
+  explanation: "Founded in New York in 1875, the society moved its headquarters to Adyar, near Madras, in 1882."
+  source: "Spectrum (2019-20), p. 233"
+  tags: [ssc]
+
+- slug: smi-09-e13
+  difficulty: easy
+  stem: "Who started the Mohammedan Anglo-Oriental College at Aligarh in 1875?"
+  options: { A: "Syed Ahmed Khan", B: "Shibli Numani", C: "Mohammad Qasim Nanotavi", D: "Mirza Ghulam Ahmad" }
+  answer: A
+  explanation: "Syed Ahmed Khan started the M.A.O. College (later Aligarh Muslim University) at Aligarh in 1875."
+  source: "Spectrum (2019-20), p. 230"
+  tags: [ssc]
+
+- slug: smi-09-e14
+  difficulty: easy
+  stem: "Which of the following was a founder of the Paramahansa Mandali (1849) in Maharashtra?"
+  options: { A: "Atmaram Pandurang", B: "Balshastri Jambhekar", C: "Dadoba Pandurang", D: "R.G. Bhandarkar" }
+  answer: C
+  explanation: "The Paramahansa Mandali was founded in 1849 by Dadoba Pandurang, Mehtaji Durgaram and others."
+  source: "Spectrum (2019-20), p. 214"
+  tags: [ssc]
+
+- slug: smi-09-e15
+  difficulty: easy
+  stem: "The Radhaswami Movement (1861) was founded by Tulsi Ram, also known as Shiv Dayal Saheb, a banker from"
+  options: { A: "Lahore", B: "Agra", C: "Varanasi", D: "Allahabad", E: "More than one of the above" }
+  answer: B
+  explanation: "Tulsi Ram (Shiv Dayal Saheb), a banker from Agra, founded the Radhaswami Movement in 1861."
+  source: "Spectrum (2019-20), p. 225"
+  tags: [bpsc]
+
+# ---------- MEDIUM ----------
+- slug: smi-09-m01
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order of their founding:
+
+    1. Sadharan Brahmo Samaj
+    2. Brahmo Samaj of India
+    3. Brahmo Sabha
+    4. Prarthana Samaj
+  options: { A: "3, 4, 2, 1", B: "3, 2, 1, 4", C: "2, 3, 4, 1", D: "3, 2, 4, 1", E: "None of the above" }
+  answer: D
+  explanation: "Brahmo Sabha (1828), Brahmo Samaj of India (1866), Prarthana Samaj (1867), Sadharan Brahmo Samaj (after 1878)."
+  source: "Spectrum (2019-20), pp. 207, 210-211"
+  tags: [bpsc]
+
+- slug: smi-09-m02
+  difficulty: medium
+  stem: |
+    Match List I (movement/institution) with List II (founder) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Faraizi Movement | 1. Shibli Numani |
+    | b. Ahmadiyya Movement | 2. Mohammad Qasim Nanotavi |
+    | c. Deoband School | 3. Mirza Ghulam Ahmad |
+    | d. Nadwatal Ulama, Lucknow | 4. Haji Shariatullah |
+  options: { A: "a-4, b-3, c-2, d-1", B: "a-4, b-2, c-3, d-1", C: "a-3, b-4, c-2, d-1", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: A
+  explanation: "Faraizi — Haji Shariatullah (1818); Ahmadiyya — Mirza Ghulam Ahmad (1889); Deoband — Nanotavi with Gangohi (1866); Nadwatal Ulama — Shibli Numani (1894-96)."
+  source: "Spectrum (2019-20), pp. 228-232"
+  tags: [bpsc]
+
+- slug: smi-09-m03
+  difficulty: medium
+  stem: "The marriage of Keshab Chandra Sen's thirteen-year-old daughter to the minor Maharaja of Cooch-Behar in 1878 led to the formation of the"
+  options: { A: "Adi Brahmo Samaj", B: "Brahmo Samaj of India", C: "Sadharan Brahmo Samaj", D: "Prarthana Samaj" }
+  answer: C
+  explanation: "After 1878, Keshab's disgusted followers set up the Sadharan Brahmo Samaj."
+  source: "Spectrum (2019-20), p. 211"
+  tags: [ssc]
+
+- slug: smi-09-m04
+  difficulty: medium
+  stem: "Atmaram Pandurang founded the Prarthana Samaj in Bombay in 1867 with the help of"
+  options: { A: "Debendranath Tagore", B: "Keshab Chandra Sen", C: "M.G. Ranade", D: "Dayananda Saraswati" }
+  answer: B
+  explanation: "Keshab Chandra Sen helped Atmaram Pandurang found the Prarthana Samaj in 1867; Ranade joined it only in 1870."
+  source: "Spectrum (2019-20), pp. 211-212"
+  tags: [ssc]
+
+- slug: smi-09-m05
+  difficulty: medium
+  stem: "The minimum marriageable age fixed by the Arya Samaj for boys and girls, respectively, was"
+  options: { A: "21 and 18 years", B: "18 and 14 years", C: "25 and 18 years", D: "25 and 16 years" }
+  answer: D
+  explanation: "The Arya Samaj fixed the minimum marriageable age at 25 for boys and 16 for girls."
+  source: "Spectrum (2019-20), p. 222"
+  tags: [ssc]
+
+- slug: smi-09-m06
+  difficulty: medium
+  stem: |
+    Arrange the following movements in chronological order of their founding:
+
+    1. Singh Sabha Movement
+    2. Faraizi Movement
+    3. Ahmadiyya Movement
+    4. Rahnumai Mazdayasnan Sabha
+  options: { A: "2, 1, 4, 3", B: "2, 4, 1, 3", C: "4, 2, 1, 3", D: "2, 4, 3, 1", E: "None of the above" }
+  answer: B
+  explanation: "Faraizi (1818), Rahnumai Mazdayasnan Sabha (1851), Singh Sabha (1873), Ahmadiyya (1889)."
+  source: "Spectrum (2019-20), pp. 228-232"
+  tags: [bpsc]
+
+- slug: smi-09-m07
+  difficulty: medium
+  stem: |
+    Match List I (periodical) with List II (person associated) as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Tahdhib-ul-Akhlaq | 1. Behramji Malabari |
+    | b. Sudharak | 2. Balshastri Jambhekar |
+    | c. Digdarshan | 3. Gopal Ganesh Agarkar |
+    | d. Indian Spectator | 4. Syed Ahmed Khan |
+  options: { A: "a-4, b-2, c-3, d-1", B: "a-1, b-3, c-2, d-4", C: "a-4, b-3, c-2, d-1", D: "a-4, b-3, c-1, d-2", E: "None of the above" }
+  answer: C
+  explanation: "Tahdhib-ul-Akhlaq — Syed Ahmed Khan; Sudharak — Agarkar; Digdarshan (1840) — Jambhekar; Indian Spectator — Malabari."
+  source: "Spectrum (2019-20), pp. 214, 216, 224, 231"
+  tags: [bpsc]
+
+- slug: smi-09-m08
+  difficulty: medium
+  stem: "When the Arya Samaj split in 1893, which of the following leaders belonged to the Mahatma (Gurukul) Party?"
+  options: { A: "Lala Hansraj", B: "Lala Lal Chand", C: "Lala Lajpat Rai", D: "Lala Munshi Ram" }
+  answer: D
+  explanation: "The Mahatma Party was led by Guru Datta Vidyarthi and Lala Munshi Ram (Swami Shraddhanand); the others led the College Party."
+  source: "Spectrum (2019-20), pp. 222-223"
+  tags: [ssc]
+
+- slug: smi-09-m09
+  difficulty: medium
+  stem: "Swami Shraddhanand's Gurukul, moved to Kangri near Haridwar in 1902, was originally opened in 1900 at"
+  options: { A: "Gujaranwala", B: "Lahore", C: "Jalandhar", D: "Amritsar" }
+  answer: A
+  explanation: "The Gurukul opened in 1900 at Gujaranwala (West Punjab) and moved to Kangri in 1902, hence Gurukul Kangri."
+  source: "Spectrum (2019-20), p. 223"
+  tags: [ssc]
+
+- slug: smi-09-m10
+  difficulty: medium
+  stem: "When the SNDP Yogam was registered in 1903 with Sree Narayana Guru as permanent chairman, who became its general secretary?"
+  options: { A: "Dr Palpu", B: "Kumaran Asan", C: "T.K. Madhavan", D: "K. Kelappan", E: "More than one of the above" }
+  answer: B
+  explanation: "The SNDP Yogam was registered in 1903 with Narayana Guru as permanent chairman and the poet Kumaran Asan as general secretary."
+  source: "Spectrum (2019-20), p. 225"
+  tags: [bpsc]
+
+- slug: smi-09-m11
+  difficulty: medium
+  stem: "In 1888, Sree Narayana Guru installed a stone from the Neyyar river as a Sivalinga at"
+  options: { A: "Aruvippuram", B: "Vaikom", C: "Guruvayur", D: "Madurai", E: "More than one of the above" }
+  answer: A
+  explanation: "On Sivaratri in 1888 he installed the Sivalinga at Aruvippuram, showing that consecration was not a monopoly of the higher castes."
+  source: "Spectrum (2019-20), p. 225"
+  tags: [bpsc]
+
+- slug: smi-09-m12
+  difficulty: medium
+  stem: "In which year did the Maharaja of Travancore issue the proclamation throwing open all government-controlled temples to all Hindus?"
+  options: { A: "1924", B: "1931", C: "1936", D: "1938" }
+  answer: C
+  explanation: "The proclamation was issued on November 12, 1936; the Rajagopalachari administration in Madras took a similar step in 1938."
+  source: "Spectrum (2019-20), p. 227"
+  tags: [ssc]
+
+- slug: smi-09-m13
+  difficulty: medium
+  stem: "The 'Pledge Movement', urging people to take a pledge against child marriage, was launched by the"
+  options: { A: "Prarthana Samaj", B: "Indian Social Conference", C: "Servants of India Society", D: "Seva Sadan" }
+  answer: B
+  explanation: "The Indian Social Conference, founded by M.G. Ranade and Raghunath Rao, launched the Pledge Movement against child marriage."
+  source: "Spectrum (2019-20), p. 227"
+  tags: [ssc]
+
+- slug: smi-09-m14
+  difficulty: medium
+  stem: "According to the book, which of the following was a negative aspect of the socio-religious reform movements?"
+  options: { A: "They ended India's cultural and intellectual isolation", B: "They fostered a secular outlook", C: "They gave the middle classes cultural roots to cling to", D: "They had a narrow social base" }
+  answer: D
+  explanation: "A major limitation was their narrow social base — the educated, urban middle classes; the other options are listed as positive aspects."
+  source: "Spectrum (2019-20), pp. 235-236"
+  tags: [ssc]
+
+- slug: smi-09-m15
+  difficulty: medium
+  stem: "The Sikh Gurdwaras Act, which gave control of gurdwaras to the Sikh masses through the SGPC, was passed in"
+  options: { A: "1921", B: "1925", C: "1922", D: "1919" }
+  answer: C
+  explanation: "After the Akali satyagraha of 1921, the government passed the Sikh Gurdwaras Act in 1922 (amended in 1925)."
+  source: "Spectrum (2019-20), p. 233"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-09-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Brahmo Samaj:
+
+    1. It discarded faith in divine avataras (incarnations).
+    2. It firmly upheld the doctrine of karma and transmigration of soul as binding on all Brahmos.
+    3. It denied that any scripture could enjoy ultimate authority transcending human reason and conscience.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "The Samaj took no definite stand on karma and transmigration and left it to individual Brahmos; statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 208"
+  tags: [bpsc]
+
+- slug: smi-09-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about Raja Rammohan Roy:
+
+    1. He wrote Gift to Monotheists in 1809.
+    2. In his Precepts of Jesus (1820), he praised the miracle stories of the New Testament.
+    3. In 1825, he established a Vedanta college offering both Indian learning and Western social and physical sciences.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "In Precepts of Jesus he separated the moral and philosophical message of the New Testament, which he praised, from its miracle stories."
+  source: "Spectrum (2019-20), pp. 206-208"
+  tags: [bpsc]
+
+- slug: smi-09-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Derozians failed to have a long-term impact.
+
+    **Reason (R):** The Derozians lacked any real link with the masses; for instance, they failed to take up the peasants' cause.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book lists the lack of a real link with the masses, along with unripe social conditions and no support from other classes, among the reasons for their limited success."
+  source: "Spectrum (2019-20), pp. 212-213"
+  tags: [bpsc]
+
+- slug: smi-09-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about Ishwar Chandra Vidyasagar:
+
+    1. He became the principal of Sanskrit College in 1850.
+    2. He opened the Sanskrit College to non-brahmins to break the priestly monopoly of scriptural knowledge.
+    3. As secretary of the Bethune School, he was one of the pioneers of higher education for women.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book."
+  source: "Spectrum (2019-20), p. 213"
+  tags: [bpsc]
+
+- slug: smi-09-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about Ramakrishna Paramahamsa and his movement:
+
+    1. In childhood he was known as Gadadhar Chattopadhyay.
+    2. He wrote several books explaining the Vedanta.
+    3. The Ramakrishna Math and Mission, headquartered at Belur, are twin organisations though legally and financially separate.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 and 3 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Ramakrishna did not write books; his conversations formed the basis of his teachings. Statements 1 and 3 are correct."
+  source: "Spectrum (2019-20), p. 217"
+  tags: [bpsc]
+
+- slug: smi-09-h06
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Unlike the Arya Samaj, the Ramakrishna Mission recognises the utility and value of image worship.
+
+    **Reason (R):** The Ramakrishna Mission considers itself to be a sect of Hinduism.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "The book says the Mission recognises image worship, but that it does not consider itself a sect of Hinduism."
+  source: "Spectrum (2019-20), p. 220"
+  tags: [bpsc]
+
+- slug: smi-09-h07
+  difficulty: hard
+  stem: |
+    Consider the following statements about Dayananda Saraswati:
+
+    1. He was born in the old Morvi state in Gujarat.
+    2. He set up the first Arya Samaj unit at Bombay in 1875; its headquarters were later established at Lahore.
+    3. He received education on Vedanta from the blind teacher Swami Virajananda in Mathura.
+    4. He held that a person's varna was determined by birth.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 3 and 4 only", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Dayananda held that varna was decided not by birth but by a person's occupation and merit; the other three statements are correct."
+  source: "Spectrum (2019-20), pp. 220-221"
+  tags: [bpsc]
+
+- slug: smi-09-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Faraizi Movement:
+
+    1. It was founded by Haji Shariatullah in 1818 and its scene of action was East Bengal.
+    2. Under Dudu Mian it became revolutionary from 1840 onwards.
+    3. Dudu Mian's arrest in 1847 finally weakened the movement.
+    4. The movement came to a complete end with Dudu Mian's death in 1862.
+
+    Which of the statements given above are correct?
+  options: { A: "1, 2 and 3 only", B: "1 and 2 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: A
+  explanation: "After Dudu Mian's death in 1862 the movement survived as a religious movement without political overtones; statements 1-3 are correct."
+  source: "Spectrum (2019-20), pp. 228-229"
+  tags: [bpsc]
+
+- slug: smi-09-h09
+  difficulty: hard
+  stem: |
+    Consider the following statements about Syed Ahmed Khan:
+
+    1. He became a member of the Imperial Legislative Council in 1878.
+    2. He was knighted in 1888.
+    3. He urged Muslims to take an active part in politics to catch up with their Hindu counterparts.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "He opposed political activity by Muslims, asking them to concentrate first on education and jobs; statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 230"
+  tags: [bpsc]
+
+- slug: smi-09-h10
+  difficulty: hard
+  stem: |
+    Consider the following statements about Titu Mir:
+
+    1. His real name was Mir Nithar Ali.
+    2. He was a disciple of Sayyid Ahmed Barelvi and organised Muslim peasants of Bengal against landlords and British indigo planters.
+    3. He was killed in action during the Revolt of 1857.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "Titu Mir was killed in action in 1831, not in 1857; statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 228"
+  tags: [bpsc]
+
+- slug: smi-09-h11
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Theosophical Movement:
+
+    1. The Theosophical Society was founded in New York in 1875 by Madame H.P. Blavatsky and Colonel M.S. Olcott.
+    2. Annie Besant, who came to India in 1893, became its president after Olcott's death in 1907.
+    3. The Central Hindu College founded at Benaras in 1898 became the nucleus of Benaras Hindu University in 1916.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1, 2 and 3", B: "1 and 2 only", C: "2 and 3 only", D: "1 only", E: "None of the above" }
+  answer: A
+  explanation: "All three are stated in the book."
+  source: "Spectrum (2019-20), pp. 233-234"
+  tags: [bpsc]
+
+- slug: smi-09-h12
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Wahabi/Walliullah Movement:
+
+    1. Shah Walliullah sought harmony among the four schools of Muslim jurisprudence that had divided Indian Muslims.
+    2. The movement was initially directed against the British, and turned against the Sikhs after the annexation of Punjab in 1849.
+    3. The movement fizzled out in the face of British military might in the 1870s.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "It was the reverse: the movement was first directed at the Sikhs in Punjab and turned against the British after the 1849 annexation."
+  source: "Spectrum (2019-20), pp. 227-228"
+  tags: [bpsc]
+
+- slug: smi-09-h13
+  difficulty: hard
+  stem: "In the Guruvayur temple-entry movement of 1931, who led a group of sixteen volunteers and was called the 'singing sword of Kerala'?"
+  options: { A: "K. Kelappan", B: "Subramaniyam Tirumambu", C: "A.K. Gopalan", D: "P. Krishna Pillai", E: "More than one of the above" }
+  answer: B
+  explanation: "Inspired by K. Kelappan, the poet Subramaniyam Tirumambu, the 'singing sword of Kerala', led sixteen volunteers to Guruvayur; Krishna Pillai and Gopalan were among the satyagrahis."
+  source: "Spectrum (2019-20), p. 227"
+  tags: [bpsc]
+
+- slug: smi-09-h14
+  difficulty: hard
+  stem: |
+    Match List I with List II as given in the book:
+
+    | List I | List II |
+    |---|---|
+    | a. Vokkaliga Sangha | 1. E.V. Ramaswamy Naicker |
+    | b. Justice Movement | 2. Anti-brahmin movement in Mysore, 1905 |
+    | c. Self-Respect Movement | 3. Editor of Deshabhimani who raised temple entry |
+    | d. T.K. Madhavan | 4. C.N. Mudaliar, T.M. Nair and P. Tyagaraja |
+  options: { A: "a-2, b-1, c-4, d-3", B: "a-3, b-4, c-1, d-2", C: "a-2, b-4, c-1, d-3", D: "a-4, b-2, c-1, d-3", E: "None of the above" }
+  answer: C
+  explanation: "Vokkaliga Sangha launched an anti-brahmin movement in Mysore in 1905; the Justice Movement was started by Mudaliar, Nair and Tyagaraja; Naicker led the Self-Respect Movement; T.K. Madhavan edited Deshabhimani."
+  source: "Spectrum (2019-20), pp. 226-227"
+  tags: [bpsc]
+
+- slug: smi-09-h15
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. The Dev Samaj was founded at Lahore in 1887 by Shiv Narayan Agnihotri, earlier a Brahmo follower.
+    2. The Bharat Dharma Mahamandala was formed in 1902 with headquarters at Varanasi.
+    3. Behramji Malabari founded the Seva Sadan in 1908 along with Diwan Dayaram Gidumal.
+    4. The Bharat Dharma Mahamandala was formed to defend the teachings of the Arya Samaj and the Theosophists.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 3 only", B: "2, 3 and 4 only", C: "1, 2, 3 and 4", D: "1, 2 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "The Bharat Dharma Mahamandala defended orthodox Hinduism against the teachings of the Arya Samajists, Theosophists and the Ramakrishna Mission; statements 1-3 are correct."
+  source: "Spectrum (2019-20), pp. 223-224"
+  tags: [bpsc]

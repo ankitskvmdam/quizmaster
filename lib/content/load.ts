@@ -131,6 +131,20 @@ export type ContentBundle = {
   tests: TestItem[]
 }
 
+/**
+ * A plain line right under a list item, with no blank line between, is folded into that item by Markdown ("lazy
+ * continuation"): "2. Two.\nWhich of the above…" renders as one list item. Returns that line, or null.
+ */
+export function foldedIntoList(md: string): string | null {
+  const lines = md.split('\n')
+  const isItem = (l: string) => /^\s*(\d+[.)]|[-*+])\s/.test(l)
+  for (let i = 1; i < lines.length; i++) {
+    const cur = lines[i]
+    if (isItem(lines[i - 1]) && cur.trim() && !isItem(cur) && !/^\s/.test(cur) && !cur.trim().startsWith('|')) return cur.trim()
+  }
+  return null
+}
+
 const TESTS_DIR = 'tests'
 const BOOKS_DIR = 'books'
 
@@ -186,6 +200,11 @@ export async function loadContent(root: string): Promise<ContentBundle> {
     }
     if (!keys.includes(q.answer)) {
       issues.push({ file, message: `${q.slug}: answer "${q.answer}" is not one of the options (${keys.join(', ')})` })
+      ok = false
+    }
+    const folded = foldedIntoList(q.stem)
+    if (folded) {
+      issues.push({ file, message: `${q.slug}: stem: put a blank line between the last list item and "${folded}"` })
       ok = false
     }
     const seen = questionFiles.get(q.slug)

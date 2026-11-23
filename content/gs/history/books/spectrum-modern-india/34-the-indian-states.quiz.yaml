@@ -1,0 +1,334 @@
+# Chapter 34 — The Indian States (book pp. 603-609)
+# ---------- EASY ----------
+- slug: smi-34-e01
+  difficulty: easy
+  stem: "According to the book, the princely or Indian states numbered no fewer than"
+  options: { A: "216", B: "562", C: "136", D: "127" }
+  answer: B
+  explanation: "The princely states covered 7,12,508 square miles and numbered no fewer than 562."
+  source: "Spectrum (2019-20), p. 603"
+  tags: [ssc]
+
+- slug: smi-34-e02
+  difficulty: easy
+  stem: "Which tiny princely state had a population of only 27 persons?"
+  options: { A: "Bilbari", B: "Bhopal", C: "Junagarh", D: "Satara" }
+  answer: A
+  explanation: "The book cites Bilbari, with a population of 27 persons, as an example of a tiny state."
+  source: "Spectrum (2019-20), p. 603"
+  tags: [ssc]
+
+- slug: smi-34-e03
+  difficulty: easy
+  stem: "Whose policy of subsidiary alliance is described as an extension of the ring fence policy?"
+  options: { A: "Warren Hastings", B: "Dalhousie", C: "Curzon", D: "Wellesley" }
+  answer: D
+  explanation: "Wellesley's subsidiary alliance extended the ring fence and sought to make the states dependent on the British."
+  source: "Spectrum (2019-20), p. 604"
+  tags: [ssc]
+
+- slug: smi-34-e04
+  difficulty: easy
+  stem: "The Chamber of Princes, set up on the recommendation of the Montford Reforms, was also called"
+  options: { A: "Council of States", B: "Federal Assembly", C: "Narendra Mandal", D: "Rajya Parishad" }
+  answer: C
+  explanation: "A Chamber of Princes (Narendra Mandal) was set up as a consultative and advisory body."
+  source: "Spectrum (2019-20), p. 606"
+  tags: [ssc]
+
+- slug: smi-34-e05
+  difficulty: easy
+  stem: "Who was the secretary of the States Ministry who helped Sardar Patel integrate the princely states?"
+  options: { A: "Sheikh Abdullah", B: "H.M. Patel", C: "Mohammad Ali", D: "V.P. Menon" }
+  answer: D
+  explanation: "Sardar Patel, in charge of the States Ministry, was helped by V.P. Menon, the secretary in the ministry."
+  source: "Spectrum (2019-20), p. 607"
+  tags: [ssc]
+
+- slug: smi-34-e06
+  difficulty: easy
+  stem: "In which princely state did a plebiscite decide in favour of joining India after its Muslim Nawab wanted to join Pakistan?"
+  options: { A: "Hyderabad", B: "Junagarh", C: "Jammu and Kashmir", D: "Bhopal", E: "More than one of the above" }
+  answer: B
+  explanation: "In Junagarh the Nawab wanted Pakistan, but the Hindu-majority population wanted India, and a plebiscite decided in favour of India."
+  source: "Spectrum (2019-20), p. 608"
+  tags: [bpsc]
+
+- slug: smi-34-e07
+  difficulty: easy
+  stem: "When did the ruler of Jammu and Kashmir sign the Instrument of Accession with the Indian Union?"
+  options: { A: "August 1947", B: "November 1947", C: "October 1947", D: "November 1949" }
+  answer: C
+  explanation: "As Pakistani forces moved towards Srinagar, the prince signed the Instrument of Accession in October 1947."
+  source: "Spectrum (2019-20), p. 608"
+  tags: [ssc]
+
+- slug: smi-34-e08
+  difficulty: easy
+  stem: "Which constitutional amendment abolished Part-B states as a class?"
+  options: { A: "Seventh Amendment (1956)", B: "First Amendment (1951)", C: "Fifth Amendment (1955)", D: "Ninth Amendment (1960)" }
+  answer: A
+  explanation: "The Seventh Amendment (1956) abolished Part-B states and formed one class out of Parts A and B."
+  source: "Spectrum (2019-20), p. 609"
+  tags: [ssc]
+
+- slug: smi-34-e09
+  difficulty: easy
+  stem: "After 1858, the fiction of equality of the Indian states with the Crown ended when the Queen adopted the title of"
+  options: { A: "Shahenshah-i-Hind", B: "Padshah-i-Hind", C: "Sultan-i-Hind", D: "Kaiser-i-Hind" }
+  answer: D
+  explanation: "The Queen adopted the title of 'Kaiser-i-Hind' (Queen Empress of India)."
+  source: "Spectrum (2019-20), p. 605"
+  tags: [ssc]
+
+- slug: smi-34-e10
+  difficulty: easy
+  stem: "In which year did the East India Company acquire the Diwani of Bengal, Bihar and Orissa?"
+  options: { A: "1757", B: "1765", C: "1751", D: "1813", E: "More than one of the above" }
+  answer: B
+  explanation: "With the acquisition of the Diwani of Bengal, Bihar and Orissa in 1765, the Company became a significant political power."
+  source: "Spectrum (2019-20), p. 604"
+  tags: [bpsc]
+
+# ---------- MEDIUM ----------
+- slug: smi-34-m01
+  difficulty: medium
+  stem: |
+    Match List I (British policy towards the Indian states) with List II (period):
+
+    | List I | List II |
+    |---|---|
+    | a. Ring fence | 1. 1857-1935 |
+    | b. Subordinate isolation | 2. 1935-1947 |
+    | c. Subordinate union | 3. 1765-1813 |
+    | d. Equal federation | 4. 1813-1857 |
+  options: { A: "a-3, b-4, c-1, d-2", B: "a-4, b-3, c-1, d-2", C: "a-3, b-1, c-4, d-2", D: "a-3, b-4, c-2, d-1", E: "None of the above" }
+  answer: A
+  explanation: "Ring fence 1765-1813, subordinate isolation 1813-1857, subordinate union 1857-1935, equal federation 1935-1947."
+  source: "Spectrum (2019-20), pp. 604-605, 607"
+  tags: [bpsc]
+
+- slug: smi-34-m02
+  difficulty: medium
+  stem: "The policy of annexation culminated in the usurpation by Dalhousie of how many states, including Satara and Nagpur?"
+  options: { A: "Five", B: "Six", C: "Eight", D: "Ten" }
+  answer: C
+  explanation: "The annexation policy culminated in Dalhousie's usurpation of eight states, including big ones like Satara and Nagpur."
+  source: "Spectrum (2019-20), p. 604"
+  tags: [ssc]
+
+- slug: smi-34-m03
+  difficulty: medium
+  stem: "For the purpose of the Chamber of Princes, how many states were directly represented?"
+  options: { A: "127", B: "109", C: "136", D: "61" }
+  answer: B
+  explanation: "109 states were directly represented and 127 through representatives; the rest were recognised as feudal holdings or jagirs."
+  source: "Spectrum (2019-20), p. 606"
+  tags: [ssc]
+
+- slug: smi-34-m04
+  difficulty: medium
+  stem: "By August 15, 1947, how many princely states had joined the Indian Union?"
+  options: { A: "109", B: "216", C: "562", D: "136" }
+  answer: D
+  explanation: "By August 15, 1947, 136 states had joined the Indian Union, while others remained outside."
+  source: "Spectrum (2019-20), p. 607"
+  tags: [ssc]
+
+- slug: smi-34-m05
+  difficulty: medium
+  stem: "Hyderabad signed a Standstill Agreement with India in ____ and finally acceded in ____."
+  options: { A: "November 1947; November 1949", B: "October 1947; September 1948", C: "November 1947; January 1950", D: "August 1947; November 1949" }
+  answer: A
+  explanation: "Hyderabad signed the Standstill Agreement in November 1947 and, after the 1948 'police action', acceded in November 1949."
+  source: "Spectrum (2019-20), p. 608"
+  tags: [ssc]
+
+- slug: smi-34-m06
+  difficulty: medium
+  stem: "Which of the following was NOT one of the five unions of states created during integration?"
+  options: { A: "United States of Kathiawar", B: "United States of Matsya", C: "Patiala and East Punjab States Union", D: "Vindhya Pradesh", E: "More than one of the above" }
+  answer: D
+  explanation: "The five unions were Kathiawar, Matsya, PEPSU, Rajasthan and Travancore-Cochin; Vindhya Pradesh was a centrally administered Part-C state."
+  source: "Spectrum (2019-20), p. 609"
+  tags: [bpsc]
+
+- slug: smi-34-m07
+  difficulty: medium
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Setting up of the Butler Committee
+    2. Charter Act ending the Company's commercial functions
+    3. Setting up of the Chamber of Princes
+    4. Board of Directors' guidelines to annex states wherever possible
+  options: { A: "2, 4, 1, 3", B: "4, 2, 3, 1", C: "2, 4, 3, 1", D: "2, 3, 4, 1", E: "None of the above" }
+  answer: C
+  explanation: "Charter Act (1833), annexation guidelines (1834), Chamber of Princes (Montford Reforms, 1921), Butler Committee (1927)."
+  source: "Spectrum (2019-20), pp. 604, 606"
+  tags: [bpsc]
+
+- slug: smi-34-m08
+  difficulty: medium
+  stem: "Under the Government of India Act, 1935, how many seats in the Federal Assembly were proposed for the princes?"
+  options: { A: "104 out of 160", B: "125 out of 375", C: "160 out of 375", D: "104 out of 375" }
+  answer: B
+  explanation: "The 1935 Act proposed 125 of 375 Federal Assembly seats for the princes; 104 of 160 was their share in the Council of States."
+  source: "Spectrum (2019-20), p. 607"
+  tags: [ssc]
+
+- slug: smi-34-m09
+  difficulty: medium
+  stem: "Curzon's approach towards the princely states is described in the book as a policy of"
+  options: { A: "ring fence", B: "subordinate isolation", C: "patronage and 'intrusive surveillance'", D: "cordial cooperation" }
+  answer: C
+  explanation: "Curzon adopted a policy of patronage and 'intrusive surveillance'; cordial cooperation was the post-1905 policy."
+  source: "Spectrum (2019-20), p. 606"
+  tags: [ssc]
+
+- slug: smi-34-m10
+  difficulty: medium
+  stem: "During the integration of the states, the Gujarat states were incorporated into"
+  options: { A: "Bombay", B: "Central Provinces", C: "Rajasthan", D: "Orissa" }
+  answer: A
+  explanation: "Smaller states were merged into contiguous provinces; the Gujarat states were incorporated into Bombay."
+  source: "Spectrum (2019-20), p. 609"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-34-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the policy of subordinate isolation (1813-1857):
+
+    1. The states surrendered all forms of external sovereignty but retained sovereignty in internal administration.
+    2. British Residents were transformed from diplomatic agents into executive and controlling officers of a superior government.
+    3. The Charter Act of 1833 ended both the commercial and the political functions of the Company.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 2 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: A
+  explanation: "The Charter Act of 1833 ended the Company's commercial functions but it retained its political functions. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 604"
+  tags: [bpsc]
+
+- slug: smi-34-h02
+  difficulty: hard
+  stem: |
+    Consider the following statements about the policy of subordinate union (1857-1935):
+
+    1. The policy of annexation was abandoned because of the states' loyalty during the 1857 revolt.
+    2. The new policy was to punish or depose rulers, but not to annex states.
+    3. A ruler inherited the gaddi as a matter of right.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "After 1858 the ruler inherited the gaddi not as a matter of right but as a gift from the paramount power. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 605"
+  tags: [bpsc]
+
+- slug: smi-34-h03
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Butler Committee (1927):
+
+    1. It was set up to examine the nature of the relationship between the princely states and the government.
+    2. It recommended that paramountcy must remain supreme.
+    3. It recommended that states should not be handed over to an Indian government responsible to an Indian legislature without their consent.
+    4. It gave a precise legal definition of paramountcy.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "2, 3 and 4 only", C: "1, 2 and 3 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: C
+  explanation: "The book says 'paramountcy' was left undefined, to feed on usage, the Crown's prerogative and the princes' implied consent."
+  source: "Spectrum (2019-20), p. 606"
+  tags: [bpsc]
+
+- slug: smi-34-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the federal scheme of the Government of India Act, 1935:
+
+    1. It proposed 104 out of 160 seats in the Council of States for the princes.
+    2. The federation required ratification by states representing more than half of the population and entitled to more than half of the seats in the Council of States.
+    3. The scheme was dropped altogether after the failure of the Cripps Mission in 1942.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 2 only", E: "None of the above" }
+  answer: D
+  explanation: "The scheme never came into existence and was dropped after the outbreak of World War II in September 1939. Statements 1 and 2 are correct."
+  source: "Spectrum (2019-20), p. 607"
+  tags: [bpsc]
+
+- slug: smi-34-h05
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Sardar Patel asked the rulers to join the Indian dominion in matters of defence, communication and external affairs.
+
+    **Reason (R):** These three areas had been part of the paramountcy of the Crown, and the states had no control over them anyway.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book says Patel chose these three areas because they had been part of the Crown's paramountcy and the states had no control over them."
+  source: "Spectrum (2019-20), p. 607"
+  tags: [bpsc]
+
+- slug: smi-34-h06
+  difficulty: hard
+  stem: |
+    Consider the following statements about Jammu and Kashmir:
+
+    1. The state had a Hindu prince and a Muslim majority population.
+    2. The Instrument of Accession was endorsed by the popular leader Sheikh Abdullah.
+    3. The ceasefire left 84,000 square km of area under Pakistani occupation.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three statements are given in the book's account of Kashmir's accession."
+  source: "Spectrum (2019-20), p. 608"
+  tags: [bpsc]
+
+- slug: smi-34-h07
+  difficulty: hard
+  stem: "How many states were made centrally administered and listed in Part-C, for strategic or special reasons?"
+  options: { A: "216", B: "61", C: "109", D: "127" }
+  answer: B
+  explanation: "61 states, such as Himachal Pradesh, Vindhya Pradesh, Manipur, Tripura and Bhopal, were listed in Part-C; 216 smaller states were merged into provinces."
+  source: "Spectrum (2019-20), pp. 608-609"
+  tags: [ssc]
+
+- slug: smi-34-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the policy of ring fence (1765-1813):
+
+    1. It was reflected in Warren Hastings' wars against the Marathas and Mysore.
+    2. It aimed at creating buffer zones to defend the Company's frontiers.
+    3. The Company undertook to organise Awadh's defence to safeguard Bengal's security.
+    4. Hyderabad, Awadh and the Marathas accepted the subsidiary alliance.
+
+    Which of the statements given above are correct?
+  options: { A: "1 and 2 only", B: "1, 2 and 3 only", C: "2, 3 and 4 only", D: "1, 2, 3 and 4", E: "None of the above" }
+  answer: D
+  explanation: "All four statements are made in the book's account of the ring fence policy and its extension, the subsidiary alliance."
+  source: "Spectrum (2019-20), p. 604"
+  tags: [bpsc]
+
+- slug: smi-34-h09
+  difficulty: hard
+  stem: "The Nizam of Hyderabad, who wanted sovereign status, also wanted an outlet to the sea at"
+  options: { A: "Karachi", B: "Bombay", C: "Goa", D: "Pondicherry" }
+  answer: C
+  explanation: "The book notes that the Nizam wanted an outlet to the sea (Goa)."
+  source: "Spectrum (2019-20), p. 608"
+  tags: [ssc]
+
+- slug: smi-34-h10
+  difficulty: hard
+  stem: "The five unions and Mysore accepted Indian jurisdiction subject to differences under Article 238 and to the supervisory power of the Union for"
+  options: { A: "five years", B: "ten years", C: "fifteen years", D: "twenty years" }
+  answer: B
+  explanation: "They accepted Union jurisdiction except taxation, subject to Article 238 and the Union's supervisory power for ten years."
+  source: "Spectrum (2019-20), p. 609"
+  tags: [ssc]

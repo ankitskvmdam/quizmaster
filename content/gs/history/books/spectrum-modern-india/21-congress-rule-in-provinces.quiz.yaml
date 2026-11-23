@@ -1,0 +1,287 @@
+# Chapter 21 — Congress Rule in Provinces (book pp. 411-415)
+# ---------- EASY ----------
+- slug: smi-21-e01
+  difficulty: easy
+  stem: "How did Gandhi advise Congressmen to hold the offices of ministers after 1937?"
+  options: { A: "Lightly and not tightly", B: "Firmly and permanently", C: "Only until the next election", D: "Only with the viceroy's consent" }
+  answer: A
+  explanation: "Gandhi advised Congressmen to hold these offices lightly and not tightly."
+  source: "Spectrum (2019-20), p. 411"
+  tags: [ssc]
+
+- slug: smi-21-e02
+  difficulty: easy
+  stem: "Gandhi asked Congressmen to see the ministerial offices accepted in 1937 as"
+  options: { A: "'seats of power'", B: "'crowns of thorns'", C: "'second lung of the nation'", D: "'a car, all brakes and no engine'" }
+  answer: B
+  explanation: "The offices were to be seen as 'crowns of thorns', accepted to see if they quickened the pace towards the nationalist goal."
+  source: "Spectrum (2019-20), p. 411"
+  tags: [ssc]
+
+- slug: smi-21-e03
+  difficulty: easy
+  stem: "When did the Congress ministries in the provinces resign?"
+  options: { A: "August 1938", B: "March 1939", C: "October 1939", D: "August 1942" }
+  answer: C
+  explanation: "The Congress ministries resigned in October 1939 after the outbreak of the Second World War."
+  source: "Spectrum (2019-20), p. 415"
+  tags: [ssc]
+
+- slug: smi-21-e04
+  difficulty: easy
+  stem: "The Pirpur Committee (1938), which reported on alleged atrocities by Congress ministries, was set up by"
+  options: { A: "the Hindu Mahasabha", B: "the British government", C: "the Unionist Party", D: "the All India Muslim League" }
+  answer: D
+  explanation: "The All India Muslim League, annoyed at the Congress for not sharing power, set up the Pirpur Committee in 1938."
+  source: "Spectrum (2019-20), p. 415"
+  tags: [ssc]
+
+- slug: smi-21-e05
+  difficulty: easy
+  stem: "The National Planning Committee was set up in 1938 under which Congress president?"
+  options: { A: "Jawaharlal Nehru", B: "Subhash Bose", C: "Rajendra Prasad", D: "Maulana Abul Kalam Azad" }
+  answer: B
+  explanation: "The book says efforts to develop planning were made through the National Planning Committee set up under Congress president Subhash Bose in 1938."
+  source: "Spectrum (2019-20), p. 414"
+  tags: [ssc]
+
+- slug: smi-21-e06
+  difficulty: easy
+  stem: "Which Bombay home minister used the CID against communists and leftists during Congress rule?"
+  options: { A: "K.M. Munshi", B: "S.S. Batliwala", C: "Yusuf Maherally", D: "Bhulabhai Desai" }
+  answer: A
+  explanation: "K.M. Munshi, the Bombay home minister, used the CID against communists and leftists."
+  source: "Spectrum (2019-20), p. 412"
+  tags: [ssc]
+
+- slug: smi-21-e07
+  difficulty: easy
+  stem: "In which of the following provinces was a Congress ministry formed in 1937?"
+  options: { A: "Bengal", B: "Punjab", C: "Bihar", D: "Sindh", E: "More than one of the above" }
+  answer: C
+  explanation: "Congress ministries were formed in Bombay, Madras, CP, Orissa, UP and Bihar (later NWFP and Assam); not in Bengal, Punjab or Sindh."
+  source: "Spectrum (2019-20), p. 411"
+  tags: [bpsc]
+
+- slug: smi-21-e08
+  difficulty: easy
+  stem: "For how long did the Congress ministries rule in the provinces before resigning?"
+  options: { A: "18 months", B: "24 months", C: "36 months", D: "28 months" }
+  answer: D
+  explanation: "The book refers to the 28 months of Congress rule in the provinces."
+  source: "Spectrum (2019-20), pp. 412, 414"
+  tags: [ssc]
+
+- slug: smi-21-e09
+  difficulty: easy
+  stem: "The Congress ministries lifted the ban on which of the following organisations?"
+  options: { A: "Hindustan Seva Dal", B: "All India Muslim League", C: "Hindu Mahasabha", D: "National Liberal Foundation" }
+  answer: A
+  explanation: "The ban on illegal organisations such as the Hindustan Seva Dal and Youth Leagues was lifted."
+  source: "Spectrum (2019-20), p. 412"
+  tags: [ssc]
+
+# ---------- MEDIUM ----------
+- slug: smi-21-m01
+  difficulty: medium
+  stem: "Which two provinces got Congress ministries later, after the first ministries were formed in 1937?"
+  options: { A: "Bengal and Punjab", B: "NWFP and Assam", C: "Bihar and Orissa", D: "Sindh and NWFP", E: "None of the above" }
+  answer: B
+  explanation: "Ministries were formed in Bombay, Madras, CP, Orissa, UP and Bihar, and later in the NWFP and Assam."
+  source: "Spectrum (2019-20), p. 411"
+  tags: [bpsc]
+
+- slug: smi-21-m02
+  difficulty: medium
+  stem: "The socialists Yusuf Maherally and S.S. Batliwala were arrested during Congress rule by the government of"
+  options: { A: "Bombay", B: "United Provinces", C: "Madras", D: "Bihar" }
+  answer: C
+  explanation: "Both were arrested by the Madras government; Maherally was later released and Batliwala got a six months' sentence."
+  source: "Spectrum (2019-20), p. 412"
+  tags: [ssc]
+
+- slug: smi-21-m03
+  difficulty: medium
+  stem: "Most benefits of the agrarian legislation passed by Congress ministries went to"
+  options: { A: "agricultural labourers", B: "sub-tenants", C: "zamindars", D: "statutory and occupancy tenants" }
+  answer: D
+  explanation: "Most benefits went to statutory and occupancy tenants; sub-tenants gained little and agricultural labourers did not benefit."
+  source: "Spectrum (2019-20), p. 413"
+  tags: [ssc]
+
+- slug: smi-21-m04
+  difficulty: medium
+  stem: "A reactionary second chamber (Legislative Council), dominated by landlords, moneylenders and capitalists, had to be conciliated by Congress ministries in"
+  options: { A: "United Provinces, Bihar, Bombay, Madras and Assam", B: "Bihar, Orissa, Central Provinces and NWFP", C: "Bengal, Punjab and Sindh", D: "United Provinces, Central Provinces and Orissa only", E: "None of the above" }
+  answer: A
+  explanation: "The book names the second chambers of the United Provinces, Bihar, Bombay, Madras and Assam."
+  source: "Spectrum (2019-20), p. 413"
+  tags: [bpsc]
+
+- slug: smi-21-m05
+  difficulty: medium
+  stem: "Which of the following was NOT among the measures of the Congress ministries regarding civil liberties and related matters?"
+  options: { A: "Newspapers were taken out of black lists", B: "Confiscated arms and arms licences were restored", C: "Pensions of officials associated with the Civil Disobedience Movement were restored", D: "Zamindari was completely abolished" }
+  answer: D
+  explanation: "The first three were civil liberties measures; the ministries could not abolish zamindari because of several constraints."
+  source: "Spectrum (2019-20), p. 412"
+  tags: [ssc]
+
+- slug: smi-21-m06
+  difficulty: medium
+  stem: "The Congress ministries' approach to labour, combining workers' interests with industrial peace, was largely successful but NOT in"
+  options: { A: "Madras", B: "Bombay", C: "United Provinces", D: "Bihar" }
+  answer: B
+  explanation: "The book says the approach was largely successful but not so in Bombay."
+  source: "Spectrum (2019-20), p. 413"
+  tags: [ssc]
+
+- slug: smi-21-m07
+  difficulty: medium
+  stem: "Which of the following was NOT among the charges made against the Congress ministries by the Pirpur Committee report?"
+  options: { A: "Interference in religious rites", B: "Suppression of Urdu in favour of Hindi", C: "Refusal to release political prisoners", D: "Oppression of Muslims in the economic sphere", E: "None of the above" }
+  answer: C
+  explanation: "The report alleged interference in religious rites, suppression of Urdu, denial of representation and economic oppression; the ministries in fact released political prisoners."
+  source: "Spectrum (2019-20), pp. 412, 415"
+  tags: [bpsc]
+
+- slug: smi-21-m08
+  difficulty: medium
+  stem: "Which of the following was a social welfare measure of the ministries rather than an extra-parliamentary mass activity of the Congress?"
+  options: { A: "Prison reforms", B: "Mass literacy campaigns", C: "Setting up Congress police stations and panchayats", D: "Congress Grievance Committees presenting mass petitions" }
+  answer: A
+  explanation: "Prison reforms are listed under social welfare reforms; the other three are listed as extra-parliamentary mass activity."
+  source: "Spectrum (2019-20), p. 414"
+  tags: [ssc]
+
+- slug: smi-21-m09
+  difficulty: medium
+  stem: "Regarding the princely states, the Congress leadership during its provincial rule faced the dilemma of whether to support"
+  options: { A: "the Khilafat movement", B: "the Pirpur Committee", C: "the Harijan Sevak Sangh", D: "the Prajamandal movement for greater democracy" }
+  answer: D
+  explanation: "The Congress faced the dilemma whether to support the Prajamandal movement for greater democracy in the princely states."
+  source: "Spectrum (2019-20), p. 415"
+  tags: [ssc]
+
+# ---------- HARD ----------
+- slug: smi-21-h01
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Congress ministries (1937-39):
+
+    1. Laws giving emergency powers were repealed.
+    2. Police powers were curbed and the CID stopped shadowing politicians.
+    3. In Bombay, lands confiscated by the government during the Civil Disobedience Movement were restored.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1, 2 and 3", D: "2 and 3 only", E: "None of the above" }
+  answer: C
+  explanation: "All three are listed in the book among the measures easing curbs on civil liberties."
+  source: "Spectrum (2019-20), p. 412"
+  tags: [bpsc]
+
+- slug: smi-21-h02
+  difficulty: hard
+  stem: |
+    Which of the following were constraints that prevented the Congress ministries from completely abolishing zamindari?
+
+    1. Inadequate financial resources, as the lion's share was appropriated by the Government of India.
+    2. War clouds that had started hovering around 1938.
+    3. Opposition of the Governor-General's Executive Council to all land legislation.
+
+    Select the correct answer using the code given below:
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: B
+  explanation: "Statements 1 and 2 are among the constraints in the book; the Executive Council's opposition is not listed (the second chamber in some provinces is)."
+  source: "Spectrum (2019-20), pp. 412-413"
+  tags: [bpsc]
+
+- slug: smi-21-h03
+  difficulty: hard
+  stem: |
+    **Assertion (A):** Agricultural labourers did not benefit from the agrarian legislation of the Congress ministries.
+
+    **Reason (R):** Agricultural labourers had not been mobilised.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: A
+  explanation: "The book states agricultural labourers did not benefit 'as they had not been mobilised', so R explains A."
+  source: "Spectrum (2019-20), p. 413"
+  tags: [bpsc]
+
+- slug: smi-21-h04
+  difficulty: hard
+  stem: |
+    Consider the following statements about the evaluation of the 28-month Congress rule:
+
+    1. The ministries were able to control communal riots.
+    2. The morale of the bureaucracy rose.
+    3. Council work helped neutralise many erstwhile hostile elements such as landlords.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 3 only", E: "None of the above" }
+  answer: D
+  explanation: "Statements 1 and 3 are correct; the book says the morale of the bureaucracy came down."
+  source: "Spectrum (2019-20), p. 414"
+  tags: [bpsc]
+
+- slug: smi-21-h05
+  difficulty: hard
+  stem: |
+    Consider the following statements about the social welfare reforms of the Congress ministries:
+
+    1. Prohibition was imposed throughout all the Congress-ruled provinces.
+    2. Khadi was encouraged through subsidies and other measures.
+    3. Harijan welfare measures included temple entry, use of public facilities and scholarships.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: C
+  explanation: "Statements 2 and 3 are correct; the book says prohibition was imposed only in certain areas."
+  source: "Spectrum (2019-20), p. 414"
+  tags: [bpsc]
+
+- slug: smi-21-h06
+  difficulty: hard
+  stem: "How did Jawaharlal Nehru respond to the repressive measures used by Congress ministries against militant trade union protests?"
+  options: { A: "He publicly condemned the ministries and demanded their resignation", B: "He was unhappy with them but publicly supported the ministries to protect them from petty criticism", C: "He fully approved of them as necessary for industrial peace", D: "He resigned from the Congress Working Committee in protest" }
+  answer: B
+  explanation: "Nehru was unhappy about these measures but in public supported the ministries to protect them from petty and petulant criticism."
+  source: "Spectrum (2019-20), p. 413"
+  tags: [ssc]
+
+- slug: smi-21-h07
+  difficulty: hard
+  stem: "Gandhi urged Congressmen in office to prove that the Congress could"
+  options: { A: "rule with least assistance from the police and the Army", B: "abolish zamindari within one year", C: "work the 1935 Act better than the Liberals", D: "create deadlocks in the legislatures" }
+  answer: A
+  explanation: "Gandhi urged Congressmen to prove that the Congress could rule with least assistance from the police and the Army."
+  source: "Spectrum (2019-20), p. 411"
+  tags: [ssc]
+
+- slug: smi-21-h08
+  difficulty: hard
+  stem: |
+    Consider the following statements about the labour policy of the Congress ministries:
+
+    1. They advocated compulsory arbitration prior to striking, before the established conciliation machinery.
+    2. They generally took recourse to Section 144 and arrested leaders of militant protests.
+    3. Gandhi appealed to Congressmen against frequent resort to colonial laws and machinery.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3", E: "None of the above" }
+  answer: D
+  explanation: "All three are stated in the book's account of the ministries' attitude towards labour."
+  source: "Spectrum (2019-20), p. 413"
+  tags: [bpsc]
+
+- slug: smi-21-h09
+  difficulty: hard
+  stem: |
+    **Assertion (A):** The Congress ministries could not undertake a complete overhaul of the agrarian structure by abolishing zamindari.
+
+    **Reason (R):** The agrarian structure was simple, but the ministries lacked the will to change it.
+  options: { A: "Both A and R are true, and R is the correct explanation of A", B: "Both A and R are true, but R is not the correct explanation of A", C: "A is true, but R is false", D: "A is false, but R is true" }
+  answer: C
+  explanation: "A is true; but the book lists 'the agrarian structure was too complex' among the constraints, so R is false."
+  source: "Spectrum (2019-20), pp. 412-413"
+  tags: [bpsc]
