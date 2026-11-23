@@ -524,6 +524,11 @@ isOneToOne: false
 "save_answer":
 { Args: { "p_attempt_id": string,"p_marked"?: boolean,"p_question_id": string,"p_selected_key": string }; Returns: Json
                            },
+"search_content":
+{ Args: { "p_limit"?: number,"p_query": string }; Returns: {
+              "body": string,"body_hi": string,"book_slug": string,"course_slug": string,"item_slug": string,"kind": string,"node_path": string,"number": number,"rank": number,"title": string,"title_hi": string
+            }[]
+                           },
 "set_marked":
 { Args: { "p_attempt_id": string,"p_marked": boolean,"p_question_id": string }; Returns: undefined
                            },
