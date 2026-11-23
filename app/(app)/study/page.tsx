@@ -68,7 +68,16 @@ async function ContinuePanel() {
             href: c.href,
             cta: 'Read notes',
           }
-        : {
+        : c.type === 'chapter'
+          ? {
+              icon: <BookOpen />,
+              eyebrow: `Next chapter · ${c.bookTitle}`,
+              title: `${c.number}. ${c.title}`,
+              sub: 'Read the gist, then take the chapter quiz',
+              href: c.href,
+              cta: 'Read chapter',
+            }
+          : {
             icon: <BookOpen />,
             eyebrow: c.first ? 'Start here' : 'Continue',
             title: c.first ? `Start with ${c.topicName}` : c.title,
@@ -138,6 +147,16 @@ async function ProgressPanel() {
                     {t.done}/{t.total}
                   </Mono>{' '}
                   lessons
+                  {t.chapterTotal > 0 && (
+                    <>
+                      {' '}
+                      ·{' '}
+                      <Mono>
+                        {t.chaptersRead}/{t.chapterTotal}
+                      </Mono>{' '}
+                      chapters
+                    </>
+                  )}
                   {t.accuracy !== null && (
                     <>
                       {' '}
