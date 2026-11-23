@@ -13,7 +13,8 @@
     "db:stop": "supabase stop",
     "db:reset": "supabase db reset",
     "db:test": "supabase test db",
-    "db:types": "supabase gen types typescript --local > lib/supabase/database.types.ts"
+    "db:types": "supabase gen types typescript --local > lib/supabase/database.types.ts",
+    "invite": "tsx --env-file=.env.local scripts/invite.ts"
   },
   "dependencies": {
     "@supabase/ssr": "^0.12.7",
