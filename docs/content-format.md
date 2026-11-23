@@ -153,3 +153,10 @@ questions also join practice for every node the chapter covers.
 Everything above is structured so a later export can hand a model, per learner: the syllabus tree (`topics.path`),
 each chapter's gist and key facts with its `covers` tags, and the learner's per-question results (`attempt_answers` →
 `questions.topic_id` / `questions.chapter_id`). That export is not built yet.
+
+## Making content from a book PDF
+
+The `/book-to-content` Claude Code skill (`.claude/skills/book-to-content/SKILL.md`) turns a book PDF in `resources/`
+into chapters and quizzes in this format: English first, then a translation (Hindi by default) under
+`translations/<lang>/…`, mirroring the English files. The app doesn't show translations yet, and the push doesn't
+read them. Run the skill in its own session; a whole book is a long job.

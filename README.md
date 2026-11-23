@@ -61,7 +61,9 @@ does. Case doesn't matter.
 
 Content lives in files and `npm run content:push` copies it into Supabase. **The full format — nodes, notes,
 questions, books, chapter gists and quizzes, plus rules for AI-written content — is in
-[`docs/content-format.md`](docs/content-format.md).**
+[`docs/content-format.md`](docs/content-format.md).** To make content from a book PDF, put the PDF in `resources/` (git-ignored) and run
+`/book-to-content resources/<book>.pdf` in a new Claude Code session: it writes English chapters and quizzes, then a
+translation under `translations/<lang>/`.
 
 ```
 content/        # real content; pushed to production. Today: the General Studies skeleton (no notes yet)
