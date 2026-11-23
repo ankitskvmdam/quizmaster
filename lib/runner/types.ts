@@ -33,3 +33,41 @@ export type AttemptPayload = {
   }
   questions: AttemptQuestion[]
 }
+
+/** Mirrors get_attempt_review (0002_attempts.sql). */
+export type ReviewQuestion = {
+  id: string
+  position: number
+  topic_name: string
+  stem_md: string
+  options: Option[]
+  selected_key: string | null
+  marked: boolean
+  correct_key: string
+  explanation_md: string
+  is_correct: boolean
+}
+
+export type ReviewPayload = {
+  attempt: {
+    id: string
+    mode: 'timed' | 'practice'
+    started_at: string
+    submitted_at: string
+    score: number
+    n_correct: number
+    n_wrong: number
+    n_skipped: number
+  }
+  test: { id: string; title: string; kind: 'mock' | 'pyq' | 'custom'; marks_correct: number; marks_wrong: number }
+  questions: ReviewQuestion[]
+}
+
+export type ReviewFilter = 'all' | 'wrong' | 'skipped' | 'marked'
+
+export function filterReview(qs: ReviewQuestion[], filter: ReviewFilter): ReviewQuestion[] {
+  if (filter === 'wrong') return qs.filter((q) => q.selected_key !== null && !q.is_correct)
+  if (filter === 'skipped') return qs.filter((q) => q.selected_key === null)
+  if (filter === 'marked') return qs.filter((q) => q.marked)
+  return qs
+}
