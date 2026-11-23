@@ -30,3 +30,18 @@ export function planChanges<T>(
   plan.missing = existing.filter((e) => !desiredKeys.has(key(e)))
   return plan
 }
+
+/**
+ * Tests whose question list would change although someone has attempted them. Attempts read the test's current
+ * question list, so changing it would rewrite past reviews and in-progress tests.
+ */
+export function lockedTestChanges(
+  existing: { slug: string; questionSlugs: string[] }[],
+  updates: { slug: string; questionSlugs: string[] }[],
+  attemptedSlugs: Set<string>,
+): string[] {
+  const before = new Map(existing.map((t) => [t.slug, t.questionSlugs.join('\n')]))
+  return updates
+    .filter((u) => attemptedSlugs.has(u.slug) && before.has(u.slug) && before.get(u.slug) !== u.questionSlugs.join('\n'))
+    .map((u) => u.slug)
+}

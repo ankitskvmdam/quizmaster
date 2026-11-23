@@ -1,7 +1,7 @@
 import type { SupabaseClient } from '@supabase/supabase-js'
 import type { Database, Json } from '@/lib/supabase/database.types'
-import type { ContentBundle, LessonItem, QuestionItem, SubjectItem, TestItem, TopicItem } from './load'
-import { planChanges, type Plan } from './plan'
+import { ContentError, type ContentBundle, type LessonItem, type QuestionItem, type SubjectItem, type TestItem, type TopicItem } from './load'
+import { lockedTestChanges, planChanges, type Plan } from './plan'
 
 type Db = SupabaseClient<Database>
 type Counts = { created: number; updated: number; unchanged: number; unpublished: number }
@@ -110,7 +110,7 @@ const topicKey = (t: TopicItem) => `${t.subjectSlug}/${t.slug}`
 export async function pushContent(
   bundle: ContentBundle,
   db: Db,
-  opts: { dry: boolean; prune: boolean },
+  opts: { dry: boolean; prune: boolean; force?: boolean },
 ): Promise<PushSummary> {
   const existing = await readExisting(db)
   // Compare on content fields only: ids and publish dates live in the database, not the files.
@@ -126,6 +126,21 @@ export async function pushContent(
   const lessonPlan = planChanges(existing.lessons.map(strip), bundle.lessons, lessonKey, (l) => l)
   const questionPlan = planChanges(existing.questions.map(strip), bundle.questions, (q) => q.slug, (q) => q)
   const testPlan = planChanges(existing.tests.map(strip), bundle.tests, (t) => t.slug, (t) => t)
+
+  // Attempts read a test's current question list, so changing it would rewrite past reviews and running tests.
+  const attempted = new Set(must(await db.from('attempts').select('test_id'), 'read attempts').map((a) => a.test_id))
+  const attemptedSlugs = new Set(existing.tests.filter((t) => attempted.has(t.id)).map((t) => t.slug))
+  const locked = lockedTestChanges(existing.tests, testPlan.update, attemptedSlugs)
+  if (locked.length && !opts.force) {
+    throw new ContentError(
+      locked.map((slug) => ({
+        file: `tests/${slug}.yaml`,
+        message:
+          `${slug} has attempts, so its questions can't change without rewriting past reviews. ` +
+          'Publish the new list as a new test (new slug), or pass --force to change it anyway.',
+      })),
+    )
+  }
 
   const toUnpublish = opts.prune
     ? {
@@ -244,11 +259,12 @@ export async function pushContent(
     const testId = new Map(written.map((t) => [t.slug!, t.id]))
     for (const t of testRows) {
       const id = testId.get(t.slug)!
-      must(await db.from('test_questions').delete().eq('test_id', id), `clear questions of ${t.slug}`)
+      // One transaction: a failure never leaves the test without questions.
       must(
-        await db.from('test_questions').insert(
-          t.questionSlugs.map((slug, i) => ({ test_id: id, question_id: questionId.get(slug)!, position: i + 1 })),
-        ),
+        await db.rpc('replace_test_questions', {
+          p_test_id: id,
+          p_question_ids: t.questionSlugs.map((slug) => questionId.get(slug)!),
+        }),
         `write questions of ${t.slug}`,
       )
     }
