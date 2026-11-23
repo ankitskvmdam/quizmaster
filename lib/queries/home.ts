@@ -7,6 +7,8 @@ import { getDoneLessonIds } from './content'
 import { getCourse, listCourses, type Course } from './courses'
 import { flattenLessons, type TreeNode } from '@/lib/courses/tree'
 import { listMyAttempts, type AttemptRow } from './tests'
+import { pick } from '@/lib/lang'
+import { getContentLang } from './user'
 
 function fail(what: string, error: { message: string }): never {
   throw new Error(`Could not load ${what}: ${error.message}`)
@@ -53,14 +55,14 @@ export async function getContinue(): Promise<Continue> {
   await supabase.rpc('submit_expired_attempts')
   const { data: open, error } = await supabase
     .from('attempts')
-    .select('id, mode, deadline_at, tests(title)')
+    .select('id, mode, deadline_at, tests(title, title_hi)')
     .is('submitted_at', null)
     .order('started_at', { ascending: false })
     .limit(1)
   if (error) fail('open attempts', error)
   if (open[0]) {
     const a = open[0]
-    return { type: 'attempt', attemptId: a.id, testTitle: a.tests?.title ?? 'Test', mode: a.mode, deadlineAt: a.deadline_at }
+    return { type: 'attempt', attemptId: a.id, testTitle: a.tests ? pick(await getContentLang(), a.tests.title, a.tests.title_hi) : 'Test', mode: a.mode, deadlineAt: a.deadline_at }
   }
 
   // Fresh current affairs first, once the person has started reading them.
@@ -182,11 +184,11 @@ export type FeedItem = {
 }
 
 export async function getFeed(limit = 20): Promise<FeedItem[]> {
-  const supabase = await createClient()
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
   const [lessonsRes, testsRes, attemptsRes, done] = await Promise.all([
     supabase
       .from('lessons')
-      .select('id, slug, title, published_at, topics(path, name, subjects(slug, name))')
+      .select('id, slug, title, title_hi, published_at, topics(path, name, name_hi, subjects(slug, name, name_hi))')
       .not('published_at', 'is', null)
       .order('published_at', { ascending: false })
       .limit(limit),
@@ -210,9 +212,9 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
   const items: FeedItem[] = [
     ...lessonsRes.data.map((l) => ({
       type: 'lesson' as const,
-      title: l.title,
+      title: pick(lang, l.title, l.title_hi),
       href: `/courses/${l.topics?.subjects?.slug}/${l.topics?.path}/${l.slug}`,
-      where: `${l.topics?.subjects?.name} · ${l.topics?.name}`,
+      where: `${pick(lang, l.topics?.subjects?.name ?? '', l.topics?.subjects?.name_hi)} · ${pick(lang, l.topics?.name ?? '', l.topics?.name_hi)}`,
       publishedAt: l.published_at!,
       isNew: isNewItem(l.published_at, done.has(l.id), now),
     })),
@@ -227,7 +229,7 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
   ]
   const { data: books, error: bErr } = await supabase
     .from('books')
-    .select('id, slug, title, published_at, topics(path, name, subjects(slug, name)), book_chapters(id, chapter_progress(chapter_id))')
+    .select('id, slug, title, title_hi, published_at, topics(path, name, name_hi, subjects(slug, name, name_hi)), book_chapters(id, chapter_progress(chapter_id))')
     .not('published_at', 'is', null)
     .order('published_at', { ascending: false })
     .limit(limit)
@@ -235,9 +237,9 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
   for (const b of books) {
     items.push({
       type: 'book',
-      title: b.title,
+      title: pick(lang, b.title, b.title_hi),
       href: `/courses/${b.topics?.subjects?.slug}/${b.topics?.path}/books/${b.slug}`,
-      where: `${b.topics?.subjects?.name} · ${b.topics?.name} · Book`,
+      where: `${pick(lang, b.topics?.subjects?.name ?? '', b.topics?.subjects?.name_hi)} · ${pick(lang, b.topics?.name ?? '', b.topics?.name_hi)} · Book`,
       publishedAt: b.published_at!,
       isNew: isNewItem(b.published_at, b.book_chapters.some((c) => c.chapter_progress.length > 0), now),
     })

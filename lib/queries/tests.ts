@@ -1,5 +1,7 @@
 import 'server-only'
 import { createClient } from '@/lib/supabase/server'
+import { pick } from '@/lib/lang'
+import { getContentLang } from './user'
 
 function fail(what: string, error: { message: string }): never {
   throw new Error(`Could not load ${what}: ${error.message}`)
@@ -81,12 +83,12 @@ export type AttemptRow = {
 
 /** The caller's submitted attempts, newest first. Expired timed attempts are submitted first so none go missing. */
 export async function listMyAttempts(page: number, pageSize = 20): Promise<{ rows: AttemptRow[]; hasMore: boolean }> {
-  const supabase = await createClient()
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
   await supabase.rpc('submit_expired_attempts')
   const from = Math.max(0, page - 1) * pageSize
   const { data, error } = await supabase
     .from('attempts')
-    .select('id, mode, score, n_correct, n_wrong, n_skipped, started_at, submitted_at, tests(title, kind, marks_correct)')
+    .select('id, mode, score, n_correct, n_wrong, n_skipped, started_at, submitted_at, tests(title, title_hi, kind, marks_correct)')
     .not('submitted_at', 'is', null)
     .order('submitted_at', { ascending: false })
     .range(from, from + pageSize) // one extra row tells us whether there is a next page
@@ -96,7 +98,7 @@ export async function listMyAttempts(page: number, pageSize = 20): Promise<{ row
     const total = answered + (a.n_skipped ?? 0)
     return {
       id: a.id,
-      testTitle: a.tests?.title ?? 'Test',
+      testTitle: a.tests ? pick(lang, a.tests.title, a.tests.title_hi) : 'Test',
       testKind: (a.tests?.kind ?? 'custom') as AttemptRow['testKind'],
       mode: a.mode,
       score: a.score === null ? null : Number(a.score),

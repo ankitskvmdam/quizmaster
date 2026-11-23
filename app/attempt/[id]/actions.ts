@@ -4,6 +4,8 @@ import { redirect } from 'next/navigation'
 import { revalidatePath } from 'next/cache'
 import { createClient } from '@/lib/supabase/server'
 import type { QuestionResult } from '@/lib/runner/types'
+import { localizeResult } from '@/lib/lang'
+import { getContentLang } from '@/lib/queries/user'
 
 export type SaveResult = { ok: true; result: QuestionResult | null } | { ok: false; error: string; timeUp?: boolean }
 
@@ -28,7 +30,7 @@ export async function saveAnswer(
     const timeUp = error.message === 'Time is up for this attempt' || error.message === 'This attempt has been submitted'
     return { ok: false, error: humane(error), timeUp }
   }
-  return { ok: true, result: (data as QuestionResult | null) ?? null }
+  return { ok: true, result: localizeResult(await getContentLang(), (data as QuestionResult | null) ?? null) }
 }
 
 export async function submitAttempt(attemptId: string): Promise<{ error: string } | undefined> {

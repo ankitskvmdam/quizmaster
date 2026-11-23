@@ -60,14 +60,14 @@ const noteKey = (n: NoteRow) => `${n.monthRef}/${n.slug}`
 async function readExisting(db: Db) {
   // Every read is paged: the API returns at most 1000 rows per request (see selectAll).
   const [subjects, sections, topics, lessons, categories, months, notes, questions, tests, books, chapters, chapterTopics] = await Promise.all([
-    selectAll((f, t) => db.from('subjects').select('id, slug, name, description, position, published').order('id').range(f, t), 'read subjects'),
+    selectAll((f, t) => db.from('subjects').select('id, slug, name, description, position, published, name_hi, description_hi').order('id').range(f, t), 'read subjects'),
     selectAll((f, t) => db.from('sections').select('id, subject_id, slug, name, kind, position').order('id').range(f, t), 'read sections'),
     selectAll(
-      (f, t) => db.from('topics').select('id, subject_id, section_id, parent_id, path, slug, name, description, position').order('id').range(f, t),
+      (f, t) => db.from('topics').select('id, subject_id, section_id, parent_id, path, slug, name, description, position, name_hi, description_hi').order('id').range(f, t),
       'read topics',
     ),
     selectAll(
-      (f, t) => db.from('lessons').select('id, topic_id, slug, title, body_md, position, published, published_at').order('id').range(f, t),
+      (f, t) => db.from('lessons').select('id, topic_id, slug, title, body_md, position, published, published_at, title_hi, body_md_hi').order('id').range(f, t),
       'read lessons',
     ),
     selectAll((f, t) => db.from('ca_categories').select('slug, name, position').order('slug').range(f, t), 'read categories'),
@@ -81,7 +81,7 @@ async function readExisting(db: Db) {
       (f, t) =>
         db
           .from('questions')
-          .select('id, slug, topic_id, ca_month_id, ca_category_slug, chapter_id, retired, stem_md, options, correct_key, explanation_md, difficulty, source, tags')
+          .select('id, slug, topic_id, ca_month_id, ca_category_slug, chapter_id, retired, stem_md, options, correct_key, explanation_md, difficulty, source, tags, stem_md_hi, options_hi, explanation_md_hi')
           .order('id')
           .range(f, t),
       'read questions',
@@ -90,7 +90,7 @@ async function readExisting(db: Db) {
       (f, t) =>
         db
           .from('tests')
-          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id, chapter_id')
+          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id, chapter_id, title_hi')
           .is('created_by', null)
           .not('slug', 'is', null)
           .order('id')
@@ -99,10 +99,10 @@ async function readExisting(db: Db) {
     ),
     selectAll(
       (f, t) =>
-        db.from('books').select('id, topic_id, slug, title, author, edition, description, position, published, published_at').order('id').range(f, t),
+        db.from('books').select('id, topic_id, slug, title, author, edition, description, position, published, published_at, title_hi, description_hi').order('id').range(f, t),
       'read books',
     ),
-    selectAll((f, t) => db.from('book_chapters').select('id, book_id, slug, number, title, gist_md, position').order('id').range(f, t), 'read chapters'),
+    selectAll((f, t) => db.from('book_chapters').select('id, book_id, slug, number, title, gist_md, position, title_hi, gist_md_hi').order('id').range(f, t), 'read chapters'),
     selectAll(
       (f, t) => db.from('chapter_topics').select('chapter_id, topic_id').order('chapter_id').order('topic_id').range(f, t),
       'read chapter tags',
@@ -159,6 +159,8 @@ async function readExisting(db: Db) {
       name: t.name,
       description: t.description,
       position: t.position,
+      name_hi: t.name_hi,
+      description_hi: t.description_hi,
       path: t.path,
       parentPath: t.parent_id ? (topicPath.get(t.parent_id) ?? null) : null,
       ...(t.section_id ? { sectionSlug: section.get(t.section_id)?.slug } : {}),
@@ -177,6 +179,8 @@ async function readExisting(db: Db) {
         position: b.position,
         published: b.published,
         published_at: b.published_at,
+        title_hi: b.title_hi,
+        description_hi: b.description_hi,
       }
     }),
     chapters: chapters.map((c): ChapterItem & { id: string } => ({
@@ -187,6 +191,8 @@ async function readExisting(db: Db) {
       title: c.title,
       gist_md: c.gist_md,
       position: c.position,
+      title_hi: c.title_hi,
+      gist_md_hi: c.gist_md_hi,
       covers: chapterTopics.filter((ct) => ct.chapter_id === c.id).map((ct) => topicPath.get(ct.topic_id)!),
     })),
     lessons: (lessons as Rows['lessons']['Row'][]).map((l): LessonItem & { id: string; published_at: string | null } => {
@@ -201,6 +207,8 @@ async function readExisting(db: Db) {
         published: l.published,
         body_md: l.body_md,
         published_at: l.published_at,
+        title_hi: l.title_hi,
+        body_md_hi: l.body_md_hi,
       }
     }),
     categories: categories as CategoryItem[],
@@ -233,6 +241,9 @@ async function readExisting(db: Db) {
       source: q.source,
       tags: q.tags,
       retired: q.retired,
+      stem_md_hi: q.stem_md_hi,
+      options_hi: (q.options_hi as QuestionItem['options_hi']) ?? null,
+      explanation_md_hi: q.explanation_md_hi,
     })),
     tests: (tests as Rows['tests']['Row'][]).map((t): TestItem & { id: string; published_at: string | null } => ({
       id: t.id,
@@ -252,7 +263,24 @@ async function readExisting(db: Db) {
         .map((tq) => questionSlug.get(tq.question_id)!),
       caMonthRef: t.ca_month_id ? (monthRef.get(t.ca_month_id) ?? null) : null,
       chapterRef: t.chapter_id ? (chapterRef.get(t.chapter_id) ?? null) : null,
+      title_hi: t.title_hi,
     })),
+  }
+}
+
+/** Fills every *_hi field the files left out with null: untranslated text is stored as null, never left stale. */
+function withHindiFields(b: ContentBundle): ContentBundle {
+  const fill = <T extends object>(items: T[], keys: string[]): T[] =>
+    items.map((i) => ({ ...Object.fromEntries(keys.map((k) => [k, null])), ...Object.fromEntries(Object.entries(i).filter(([k, v]) => !k.endsWith('_hi') || v != null)) }) as T)
+  return {
+    ...b,
+    subjects: fill(b.subjects, ['name_hi', 'description_hi']),
+    topics: fill(b.topics, ['name_hi', 'description_hi']),
+    lessons: fill(b.lessons, ['title_hi', 'body_md_hi']),
+    books: fill(b.books, ['title_hi', 'description_hi']),
+    chapters: fill(b.chapters, ['title_hi', 'gist_md_hi']),
+    questions: fill(b.questions, ['stem_md_hi', 'options_hi', 'explanation_md_hi']),
+    tests: fill(b.tests, ['title_hi']),
   }
 }
 
@@ -276,6 +304,7 @@ export async function pushContent(
 
   const desiredMonths: MonthRow[] = bundle.months.map(({ notes: _notes, ...m }) => ({ ...m, published: true }))
   const desiredNotes: NoteRow[] = bundle.months.flatMap((m) => m.notes.map((n) => ({ ...n, monthRef: monthKey(m) })))
+  bundle = withHindiFields(bundle)
   const desiredQuestions: QuestionRow[] = bundle.questions.map((q) => ({ ...q, retired: false }))
 
   const subjectPlan = planChanges(existing.subjects.map(strip), bundle.subjects, (s) => s.slug, (s) => s)
@@ -545,6 +574,9 @@ export async function pushContent(
           options: q.options as unknown as Json[],
           correct_key: q.correctKey,
           explanation_md: q.explanation_md,
+          stem_md_hi: q.stem_md_hi ?? null,
+          options_hi: (q.options_hi ?? null) as unknown as Json[] | null,
+          explanation_md_hi: q.explanation_md_hi ?? null,
           difficulty: q.difficulty,
           source: q.source,
           tags: q.tags,
@@ -570,6 +602,7 @@ export async function pushContent(
           testRows.map((t) => ({
             slug: t.slug,
             title: t.title,
+            title_hi: t.title_hi ?? null,
             kind: t.kind,
             subject_id: subjectId.get(t.subjectSlug)!,
             year: t.year,
