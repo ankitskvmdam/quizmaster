@@ -64,7 +64,7 @@ export default async function PeriodNotesPage({ params, searchParams }: Props) {
         <Button variant="secondary" asChild>
           <Link href={periodHref}>Back to {period.label}</Link>
         </Button>
-        {total > 0 && (
+        {data.questionCount > 0 && (
           <ActionButton action={startCaPractice.bind(null, { from: period.from, to: period.to, categories: [data.category.slug], count: 10 })}>
             <Dumbbell />
             Practice this category

@@ -17,6 +17,7 @@ describe('loadContent with sections and current affairs', () => {
       { slug: 'appointments', name: 'Appointments', position: 1 },
       { slug: 'awards', name: 'Awards & Honours', position: 2 },
       { slug: 'sports', name: 'Sports', position: 3 },
+      { slug: 'obituaries', name: 'Obituaries', position: 4 },
     ])
   })
 

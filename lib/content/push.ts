@@ -14,6 +14,9 @@ import {
   type TopicItem,
 } from './load'
 import { lockedTestChanges, planChanges, type Plan } from './plan'
+import { selectAll } from './select-all'
+
+const chunk = <T,>(xs: T[], n: number): T[][] => Array.from({ length: Math.ceil(xs.length / n) }, (_, i) => xs.slice(i * n, i * n + n))
 
 type Db = SupabaseClient<Database>
 type Counts = { created: number; updated: number; unchanged: number; unpublished: number; removed: number; retired: number }
@@ -49,24 +52,58 @@ const noteKey = (n: NoteRow) => `${n.monthRef}/${n.slug}`
 
 /** Everything in the database that came from content files, keyed by slugs (never ids). */
 async function readExisting(db: Db) {
-  const [subjects, sections, topics, lessons, categories, months, notes, questions, tests, testQuestions] = await Promise.all([
-    db.from('subjects').select('id, slug, name, description, position, published'),
-    db.from('sections').select('id, subject_id, slug, name, kind, position'),
-    db.from('topics').select('id, subject_id, section_id, slug, name, description, position'),
-    db.from('lessons').select('id, topic_id, slug, title, body_md, position, published, published_at'),
-    db.from('ca_categories').select('slug, name, position'),
-    db.from('ca_months').select('id, section_id, month, published, published_at'),
-    db.from('ca_notes').select('id, month_id, category_slug, slug, happened_on, body_md, angle_md, position'),
-    db
-      .from('questions')
-      .select('id, slug, topic_id, ca_month_id, ca_category_slug, retired, stem_md, options, correct_key, explanation_md, difficulty, source, tags'),
-    db
-      .from('tests')
-      .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id')
-      .is('created_by', null)
-      .not('slug', 'is', null),
-    db.from('test_questions').select('test_id, question_id, position'),
-  ]).then((rs) => rs.map((r, i) => must(r as { data: unknown; error: { message: string } | null }, `read ${i}`)))
+  // Every read is paged: the API returns at most 1000 rows per request (see selectAll).
+  const [subjects, sections, topics, lessons, categories, months, notes, questions, tests] = await Promise.all([
+    selectAll((f, t) => db.from('subjects').select('id, slug, name, description, position, published').order('id').range(f, t), 'read subjects'),
+    selectAll((f, t) => db.from('sections').select('id, subject_id, slug, name, kind, position').order('id').range(f, t), 'read sections'),
+    selectAll(
+      (f, t) => db.from('topics').select('id, subject_id, section_id, slug, name, description, position').order('id').range(f, t),
+      'read topics',
+    ),
+    selectAll(
+      (f, t) => db.from('lessons').select('id, topic_id, slug, title, body_md, position, published, published_at').order('id').range(f, t),
+      'read lessons',
+    ),
+    selectAll((f, t) => db.from('ca_categories').select('slug, name, position').order('slug').range(f, t), 'read categories'),
+    selectAll((f, t) => db.from('ca_months').select('id, section_id, month, published, published_at').order('id').range(f, t), 'read months'),
+    selectAll(
+      (f, t) =>
+        db.from('ca_notes').select('id, month_id, category_slug, slug, happened_on, body_md, angle_md, position').order('id').range(f, t),
+      'read notes',
+    ),
+    selectAll(
+      (f, t) =>
+        db
+          .from('questions')
+          .select('id, slug, topic_id, ca_month_id, ca_category_slug, retired, stem_md, options, correct_key, explanation_md, difficulty, source, tags')
+          .order('id')
+          .range(f, t),
+      'read questions',
+    ),
+    selectAll(
+      (f, t) =>
+        db
+          .from('tests')
+          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id')
+          .is('created_by', null)
+          .not('slug', 'is', null)
+          .order('id')
+          .range(f, t),
+      'read tests',
+    ),
+  ])
+  // Only official tests' question lists: custom tests (every practice set learners start) are never compared.
+  const testQuestions = (
+    await Promise.all(
+      chunk(tests.map((t) => t.id), 100).map((ids) =>
+        selectAll(
+          (f, t) =>
+            db.from('test_questions').select('test_id, question_id, position').in('test_id', ids).order('test_id').order('position').range(f, t),
+          'read test questions',
+        ),
+      ),
+    )
+  ).flat()
 
   type Rows = Database['public']['Tables']
   const subj = subjects as Rows['subjects']['Row'][]
@@ -203,7 +240,18 @@ export async function pushContent(
   const testPlan = planChanges(existing.tests.map(strip), bundle.tests, (t) => t.slug, (t) => t)
 
   // Attempts read a test's current question list, so changing it would rewrite past reviews and running tests.
-  const attempted = new Set(must(await db.from('attempts').select('test_id'), 'read attempts').map((a) => a.test_id))
+  // Which official tests have attempts (paged, and only for official tests, so a big attempts table can't hide one).
+  const attempted = new Set(
+    (
+      await Promise.all(
+        chunk(existing.tests.map((t) => t.id), 100).map((ids) =>
+          selectAll((f, t) => db.from('attempts').select('test_id').in('test_id', ids).order('id').range(f, t), 'read attempts'),
+        ),
+      )
+    )
+      .flat()
+      .map((a) => a.test_id),
+  )
   const attemptedSlugs = new Set(existing.tests.filter((t) => attempted.has(t.id)).map((t) => t.slug))
   const locked = lockedTestChanges(existing.tests, testPlan.update, attemptedSlugs)
   if (locked.length && !opts.force) {
@@ -252,7 +300,9 @@ export async function pushContent(
   if (subjectRows.length) {
     must(await db.from('subjects').upsert(subjectRows.map((s) => ({ ...s, updated_at: now })), { onConflict: 'slug' }), 'write subjects')
   }
-  const subjectId = new Map(must(await db.from('subjects').select('id, slug'), 'read subjects').map((s) => [s.slug, s.id]))
+  const subjectId = new Map(
+    (await selectAll((f, t) => db.from('subjects').select('id, slug').order('id').range(f, t), 'read subjects')).map((s) => [s.slug, s.id]),
+  )
   const subjectSlugOf = new Map([...subjectId.entries()].map(([slug, id]) => [id, slug]))
 
   // Sections
@@ -267,7 +317,7 @@ export async function pushContent(
     )
   }
   const sectionId = new Map(
-    must(await db.from('sections').select('id, subject_id, slug'), 'read sections').map((s) => [`${subjectSlugOf.get(s.subject_id)}/${s.slug}`, s.id]),
+    (await selectAll((f, t) => db.from('sections').select('id, subject_id, slug').order('id').range(f, t), 'read sections')).map((s) => [`${subjectSlugOf.get(s.subject_id)}/${s.slug}`, s.id]),
   )
 
   // Topics
@@ -287,7 +337,7 @@ export async function pushContent(
     )
   }
   const topicId = new Map(
-    must(await db.from('topics').select('id, slug, subject_id'), 'read topics').map((t) => [`${subjectSlugOf.get(t.subject_id)}/${t.slug}`, t.id]),
+    (await selectAll((f, t) => db.from('topics').select('id, slug, subject_id').order('id').range(f, t), 'read topics')).map((t) => [`${subjectSlugOf.get(t.subject_id)}/${t.slug}`, t.id]),
   )
 
   // Categories
@@ -314,7 +364,7 @@ export async function pushContent(
   }
   const sectionRef = new Map([...sectionId.entries()].map(([ref, id]) => [id, ref]))
   const monthId = new Map(
-    must(await db.from('ca_months').select('id, section_id, month'), 'read months').map((m) => [
+    (await selectAll((f, t) => db.from('ca_months').select('id, section_id, month').order('id').range(f, t), 'read months')).map((m) => [
       `${sectionRef.get(m.section_id)}/${dateToMonth(m.month)}`,
       m.id,
     ]),
@@ -384,7 +434,9 @@ export async function pushContent(
       'write questions',
     )
   }
-  const questionId = new Map(must(await db.from('questions').select('id, slug'), 'read questions').map((q) => [q.slug, q.id]))
+  const questionId = new Map(
+    (await selectAll((f, t) => db.from('questions').select('id, slug').order('id').range(f, t), 'read questions')).map((q) => [q.slug, q.id]),
+  )
 
   // Tests (including each month's fixed paper) and their question lists
   const testPublishedAt = new Map(existing.tests.map((t) => [t.slug, t.published_at]))
@@ -445,8 +497,8 @@ export async function pushContent(
   for (const n of prune.notes) {
     must(await db.from('ca_notes').delete().eq('month_id', monthId.get(n.monthRef)!).eq('slug', n.slug), 'remove notes')
   }
-  if (prune.questions.length) {
-    must(await db.from('questions').update({ retired: true }).in('slug', prune.questions.map((q) => q.slug)), 'retire questions')
+  for (const slugs of chunk(prune.questions.map((q) => q.slug), 100)) {
+    must(await db.from('questions').update({ retired: true }).in('slug', slugs), 'retire questions')
   }
 
   return summary

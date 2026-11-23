@@ -231,6 +231,16 @@ export async function getPeriodNotes(subjectSlug: string, period: Period, catego
     .gte('ca_months.month', monthToDate(period.from))
     .lte('ca_months.month', monthToDate(period.to))
   if (error) fail('period notes', error)
+  // Live questions of this category in the period's published months (RLS on ca_months hides unpublished ones).
+  const { data: qs, error: qErr } = await supabase
+    .from('questions')
+    .select('id, ca_months!inner(month, section_id)')
+    .eq('ca_category_slug', categorySlug)
+    .eq('retired', false)
+    .eq('ca_months.section_id', section.id)
+    .gte('ca_months.month', monthToDate(period.from))
+    .lte('ca_months.month', monthToDate(period.to))
+  if (qErr) fail('period questions', qErr)
   const groups = new Map<MonthKey, typeof data>()
   for (const n of data) {
     const k = dateToMonth(n.ca_months.month)
@@ -238,6 +248,7 @@ export async function getPeriodNotes(subjectSlug: string, period: Period, catego
   }
   return {
     category: { slug: category.slug, name: category.name },
+    questionCount: qs.length,
     groups: [...groups.entries()]
       .sort(([a], [b]) => b.localeCompare(a))
       .map(([month, notes]) => ({ month, notes: [...notes].sort(byDateThenPosition).map(toNote) })),
