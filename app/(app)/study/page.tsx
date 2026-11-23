@@ -43,7 +43,7 @@ async function ContinuePanel() {
           <PartyPopper />
         </IconTile>
         <div>
-          <p className="font-semibold">You have read every lesson.</p>
+          <p className="font-semibold">You have read every note.</p>
           <p className="text-sm text-muted-foreground">Keep sharp with a mock test or a custom practice set.</p>
         </div>
       </Panel>
@@ -81,9 +81,9 @@ async function ContinuePanel() {
             icon: <BookOpen />,
             eyebrow: c.first ? 'Start here' : 'Continue',
             title: c.first ? `Start with ${c.topicName}` : c.title,
-            sub: c.first ? `First lesson: ${c.title}` : c.topicName,
+            sub: c.first ? `First note: ${c.title}` : c.topicName,
             href: c.href,
-            cta: 'Continue lesson',
+            cta: 'Continue reading',
           }
   return (
     <Panel className="flex flex-col gap-5 border-transparent bg-tint sm:flex-row sm:items-center">
@@ -146,7 +146,7 @@ async function ProgressPanel() {
                   <Mono>
                     {t.done}/{t.total}
                   </Mono>{' '}
-                  lessons
+                  notes
                   {t.chapterTotal > 0 && (
                     <>
                       {' '}
@@ -165,7 +165,7 @@ async function ProgressPanel() {
                   )}
                 </span>
               </div>
-              <ProgressBar value={t.done} max={t.total} label={`${t.name}: lessons done`} />
+              <ProgressBar value={t.done} max={t.total} label={`${t.name}: notes read`} />
             </li>
           ))}
         </ul>

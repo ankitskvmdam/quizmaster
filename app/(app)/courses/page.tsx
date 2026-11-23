@@ -31,7 +31,7 @@ export default async function CoursesPage() {
                 {c.description && <p className="text-sm text-muted-foreground">{c.description}</p>}
                 <p className="mt-auto text-[13px] text-muted-foreground">
                   <Mono>{c.subjectCount}</Mono> {c.subjectCount === 1 ? 'subject' : 'subjects'} · <Mono>{c.lessonCount}</Mono>{' '}
-                  {c.lessonCount === 1 ? 'lesson' : 'lessons'} · <Mono>{c.bookCount}</Mono> {c.bookCount === 1 ? 'book' : 'books'}
+                  {c.lessonCount === 1 ? 'note' : 'notes'} · <Mono>{c.bookCount}</Mono> {c.bookCount === 1 ? 'book' : 'books'}
                 </p>
               </Panel>
             </Link>

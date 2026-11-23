@@ -38,7 +38,7 @@ export default async function NewPage() {
         <Panel>
           {feed.length === 0 ? (
             <EmptyState icon={<Sparkles />} title="Nothing new yet">
-              New lessons and tests appear here as they are added.
+              New notes, books and tests appear here as they are added.
             </EmptyState>
           ) : (
             <ul className="-my-2 flex flex-col">

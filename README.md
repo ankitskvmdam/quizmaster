@@ -11,7 +11,7 @@ practice MCQs per subject (History, Civics, Geography, Economics), plus book gis
 | Tab | What it does |
 |---|---|
 | **Study** | Home: continue a note, chapter or test, progress per subject, recent attempts, quick practice |
-| **Courses** | Course → subject → sections (any depth) → notes. Mark notes done; practise any branch; read book chapters and take their quizzes |
+| **Courses** | Course → subject → books (chapter gists + quizzes) and notes (grouped any depth). Mark notes done; practise any branch |
 | **Tests** | Mock tests: start timed (with negative marking) or practise with explanations as you go |
 | **Past tests** | Previous-year papers, and every attempt you've taken with a full review |
 | **New** | Build a custom test from subjects and sections; a feed of recently added notes, books and tests |

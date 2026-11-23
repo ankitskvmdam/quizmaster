@@ -27,7 +27,7 @@ function trail(ctx: Ctx, path: string | null, includeSelf = false) {
 }
 
 // ---------------------------------------------------------------------------
-// A node: sections below it, its own lessons, books (on a subject), practice over the whole branch
+// A node: books (on a subject) first, then its notes — note groups below it and its own notes — and practice over the whole branch
 // ---------------------------------------------------------------------------
 export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
   const empty = node.children.length === 0 && node.lessons.length === 0 && node.books.length === 0
@@ -53,48 +53,6 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
               Notes and questions for {node.name} appear here as soon as they are added.
             </EmptyState>
           </Panel>
-        )}
-
-        {node.children.length > 0 && (
-          <section aria-labelledby="sections">
-            <h2 id="sections" className="mb-3 text-lg font-semibold">
-              {node.depth === 1 ? 'Syllabus' : 'Sections'}
-            </h2>
-            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-              {node.children.map((c) => (
-                <NodeCard key={c.id} href={nodeHref(ctx, c.path)} node={c} />
-              ))}
-            </div>
-          </section>
-        )}
-
-        {node.lessons.length > 0 && (
-          <section aria-labelledby="lessons">
-            <h2 id="lessons" className="mb-3 text-lg font-semibold">
-              Notes
-            </h2>
-            <Panel>
-              <ol className="-my-2 flex flex-col">
-                {node.lessons.map((l, i) => (
-                  <li key={l.id} className={cn(i > 0 && 'border-t border-hairline')}>
-                    <Link
-                      href={`${nodeHref(ctx, node.path)}/${l.slug}`}
-                      className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3.5 hover:bg-soft"
-                    >
-                      <Mono className="w-6 text-sm text-muted-foreground">{String(i + 1).padStart(2, '0')}</Mono>
-                      <span className="flex-1 font-medium">{l.title}</span>
-                      {l.done && (
-                        <span className="flex items-center gap-1 text-[13px] text-correct-fg">
-                          <Check className="size-4" aria-hidden />
-                          Done
-                        </span>
-                      )}
-                    </Link>
-                  </li>
-                ))}
-              </ol>
-            </Panel>
-          </section>
         )}
 
         {node.books.length > 0 && (
@@ -127,6 +85,48 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
             </div>
           </section>
         )}
+        {node.children.length > 0 && (
+          <section aria-labelledby="sections">
+            <h2 id="sections" className="mb-3 text-lg font-semibold">
+              Notes
+            </h2>
+            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+              {node.children.map((c) => (
+                <NodeCard key={c.id} href={nodeHref(ctx, c.path)} node={c} />
+              ))}
+            </div>
+          </section>
+        )}
+
+        {node.lessons.length > 0 && (
+          <section aria-labelledby="lessons">
+            <h2 id="lessons" className="mb-3 text-lg font-semibold">
+              {node.children.length > 0 ? 'More notes' : 'Notes'}
+            </h2>
+            <Panel>
+              <ol className="-my-2 flex flex-col">
+                {node.lessons.map((l, i) => (
+                  <li key={l.id} className={cn(i > 0 && 'border-t border-hairline')}>
+                    <Link
+                      href={`${nodeHref(ctx, node.path)}/${l.slug}`}
+                      className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3.5 hover:bg-soft"
+                    >
+                      <Mono className="w-6 text-sm text-muted-foreground">{String(i + 1).padStart(2, '0')}</Mono>
+                      <span className="flex-1 font-medium">{l.title}</span>
+                      {l.done && (
+                        <span className="flex items-center gap-1 text-[13px] text-correct-fg">
+                          <Check className="size-4" aria-hidden />
+                          Done
+                        </span>
+                      )}
+                    </Link>
+                  </li>
+                ))}
+              </ol>
+            </Panel>
+          </section>
+        )}
+
       </div>
     </>
   )

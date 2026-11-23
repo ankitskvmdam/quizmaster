@@ -17,7 +17,7 @@ export function NodeCard({ href, node }: { href: string; node: TreeNode }) {
         {node.description && <p className="text-sm text-muted-foreground">{node.description}</p>}
         <div className="mt-auto flex flex-col gap-2 pt-2">
           {node.lessonCount > 0 && (
-            <ProgressBar value={node.doneCount} max={node.lessonCount} label={`${node.name}: lessons done`} />
+            <ProgressBar value={node.doneCount} max={node.lessonCount} label={`${node.name}: notes read`} />
           )}
           <p className="flex flex-wrap gap-x-2 text-[13px] text-muted-foreground">
             {node.children.length > 0 && (
@@ -29,7 +29,7 @@ export function NodeCard({ href, node }: { href: string; node: TreeNode }) {
               <Mono>
                 {node.doneCount}/{node.lessonCount}
               </Mono>{' '}
-              lessons
+              notes
             </span>
             {node.questionCount > 0 && (
               <span>

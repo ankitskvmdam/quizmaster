@@ -10,7 +10,7 @@ reading the code. `npm run content:push -- --dry` checks every rule below and wr
 |---|---|---|
 | Course (General Studies) | `content/<course>/course.yaml` | `subjects` |
 | Subject (History) | a top-level folder with `topic.yaml` | `topics` with no parent |
-| Section / topic (Ancient → India) | a nested folder with `topic.yaml` | `topics` with `parent_id` and `path` |
+| Note group (Modern → Bihar), listed under **Notes** | a nested folder with `topic.yaml` | `topics` with `parent_id` and `path` |
 | Note (lesson) | `NN-<name>.md` in a node folder | `lessons` |
 | Practice question | `questions.yaml` in a node folder | `questions.topic_id` |
 | Book | `<subject>/books/<book>/book.yaml` | `books` |
