@@ -30,10 +30,16 @@ function trail(ctx: Ctx, path: string | null, includeSelf = false) {
 // A node: books (on a subject) first, then its notes — note groups below it and its own notes — and practice over the whole branch
 // ---------------------------------------------------------------------------
 export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
-  // A subject shows its books on the shelf; a section shows the book chapters tagged to it instead.
-  const tagged = node.books.length === 0 ? node.taggedChapters : []
-  const taggedBooks = [...new Map(tagged.map((t) => [t.book.id, t.book])).values()]
-  const empty = node.children.length === 0 && node.lessons.length === 0 && node.books.length === 0 && tagged.length === 0
+  // A section lists only its own notes. When it has none but book chapters cover it, it links to those books once
+  // (not their chapter lists, which would duplicate the book).
+  const hasOwn = node.children.length > 0 || node.lessons.length > 0 || node.books.length > 0
+  const taggedBooks = [...new Map(node.taggedChapters.map((t) => [t.book.id, t])).values()].map((t) => ({
+    book: t.book,
+    subjectPath: t.subjectPath,
+    count: node.taggedChapters.filter((x) => x.book.id === t.book.id).length,
+  }))
+  const onlyBooks = !hasOwn && taggedBooks.length > 0
+  const empty = !hasOwn && !onlyBooks
   return (
     <>
       <Breadcrumbs items={trail(ctx, node.path)} current={node.name} />
@@ -58,37 +64,28 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
           </Panel>
         )}
 
-        {taggedBooks.map((book) => {
-          const rows = tagged.filter((t) => t.book.id === book.id)
-          return (
-            <section key={book.id} aria-labelledby={`from-${book.id}`}>
-              <h2 id={`from-${book.id}`} className="mb-3 text-lg font-semibold">
-                From {book.title}
-              </h2>
-              <Panel>
-                <ol className="-my-2 flex flex-col">
-                  {rows.map(({ chapter, subjectPath }, i) => (
-                    <li key={chapter.id} className={cn(i > 0 && 'border-t border-hairline')}>
-                      <Link
-                        href={`${nodeHref(ctx, subjectPath)}/books/${book.slug}/${chapter.slug}`}
-                        className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3.5 hover:bg-soft"
-                      >
-                        <Mono className="w-6 text-sm text-muted-foreground">{String(chapter.number).padStart(2, '0')}</Mono>
-                        <span className="flex-1 font-medium">{chapter.title}</span>
-                        {chapter.read && (
-                          <span className="flex items-center gap-1 text-[13px] text-correct-fg">
-                            <Check className="size-4" aria-hidden />
-                            Read
-                          </span>
-                        )}
-                      </Link>
-                    </li>
-                  ))}
-                </ol>
-              </Panel>
-            </section>
-          )
-        })}
+        {onlyBooks && (
+          // No notes of its own: point to the book(s) that cover it rather than repeating their chapters here.
+          <Panel className="flex flex-col gap-3">
+            <p className="text-sm text-muted-foreground">{node.name} is covered in:</p>
+            <ul className="flex flex-col gap-2">
+              {taggedBooks.map(({ book, subjectPath, count }) => (
+                <li key={book.id}>
+                  <Link
+                    href={`${nodeHref(ctx, subjectPath)}/books/${book.slug}`}
+                    className="focus-ring -mx-2 flex items-center gap-3 rounded-lg px-2 py-2 font-medium hover:bg-soft"
+                  >
+                    <BookOpen className="size-4 shrink-0 text-muted-foreground" aria-hidden />
+                    <span className="flex-1">{book.title}</span>
+                    <span className="text-[13px] text-muted-foreground">
+                      <Mono>{count}</Mono> {count === 1 ? 'chapter' : 'chapters'}
+                    </span>
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </Panel>
+        )}
 
         {node.books.length > 0 && (
           <section aria-labelledby="books">
