@@ -243,3 +243,56 @@ export async function getPeriodNotes(subjectSlug: string, period: Period, catego
       .map(([month, notes]) => ({ month, notes: [...notes].sort(byDateThenPosition).map(toNote) })),
   }
 }
+
+export type CaOverviewMonth = {
+  monthId: string
+  month: MonthKey
+  publishedAt: string | null
+  categories: { slug: string; name: string }[] // categories with notes, in display order
+  read: number
+}
+
+/**
+ * Current affairs at a glance for Study and the New feed: the first current-affairs section (any subject),
+ * its months newest first with the categories that have notes, and the person's read ticks.
+ */
+export const getCaOverview = cache(async () => {
+  const supabase = await createClient()
+  const { data: sec, error } = await supabase
+    .from('sections')
+    .select('id, name, subjects!inner(slug, name)')
+    .eq('kind', 'current_affairs')
+    .order('position')
+    .limit(1)
+    .maybeSingle()
+  if (error) fail('section', error)
+  if (!sec) return null
+  const [{ data: months, error: mErr }, categories, ticks] = await Promise.all([
+    supabase
+      .from('ca_months')
+      .select('id, month, published_at, ca_notes(category_slug)')
+      .eq('section_id', sec.id)
+      .order('month', { ascending: false })
+      .limit(12),
+    getCategories(),
+    getReadTicks(),
+  ])
+  if (mErr) fail('months', mErr)
+  return {
+    subjectSlug: sec.subjects.slug,
+    subjectName: sec.subjects.name,
+    sectionName: sec.name,
+    readKeys: ticks,
+    months: months.map((m): CaOverviewMonth => {
+      const withNotes = new Set(m.ca_notes.map((n) => n.category_slug))
+      const cats = categories.filter((c) => withNotes.has(c.slug)).map((c) => ({ slug: c.slug, name: c.name }))
+      return {
+        monthId: m.id,
+        month: dateToMonth(m.month),
+        publishedAt: m.published_at,
+        categories: cats,
+        read: cats.filter((c) => ticks.has(`${m.id}/${c.slug}`)).length,
+      }
+    }),
+  }
+})

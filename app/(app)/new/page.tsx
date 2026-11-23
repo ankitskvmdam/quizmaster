@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { BookOpen, ClipboardList, Sparkles } from 'lucide-react'
+import { BookOpen, CalendarDays, ClipboardList, Sparkles } from 'lucide-react'
 import { getBuilderTopics, getFeed } from '@/lib/queries/home'
 import { formatDate } from '@/lib/format'
 import { PageHeader } from '@/components/page-header'
@@ -45,7 +45,7 @@ export default async function NewPage() {
               {feed.map((item, i) => (
                 <li key={`${item.type}-${item.href}-${item.title}`} className={cn(i > 0 && 'border-t border-hairline')}>
                   <Link href={item.href} className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3 hover:bg-soft">
-                    <IconTile size="sm">{item.type === 'lesson' ? <BookOpen /> : <ClipboardList />}</IconTile>
+                    <IconTile size="sm">{item.type === 'lesson' ? <BookOpen /> : item.type === 'month' ? <CalendarDays /> : <ClipboardList />}</IconTile>
                     <div className="min-w-0 flex-1">
                       <p className="flex items-center gap-2 font-medium">
                         <span className="truncate">{item.title}</span>
