@@ -94,7 +94,8 @@ export async function getExamPapers(slug: string): Promise<{ exam: ExamCard; pap
       maxScore: questionCount * Number(t.marks_correct),
       bestScore: best.get(t.id) ?? null,
       isCurrentAffairs: false,
-      subtitle: [t.paper_date ? dateLabel(t.paper_date) : null, t.paper_label].filter(Boolean).join(' · '),
+      // SSC labels already start with the day ("26 Mar, Shift 1"): don't repeat it after the full date.
+      subtitle: [t.paper_date ? dateLabel(t.paper_date) : null, (t.paper_label ?? '').replace(/^d{1,2} w{3},s*/, '')].filter(Boolean).join(' · '),
     }
   })
   const years = papers.map((p) => p.year)

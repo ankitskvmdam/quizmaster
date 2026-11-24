@@ -14,6 +14,7 @@ import { ReviewQuestion } from '@/components/review/review-question'
 import { cn } from '@/lib/utils'
 import { localizeReview } from '@/lib/lang'
 import { getContentLang } from '@/lib/queries/user'
+import { Breadcrumbs } from '@/components/courses/crumbs'
 
 export const metadata: Metadata = { title: 'Review' }
 
@@ -44,15 +45,9 @@ export default async function ReviewPage({ params, searchParams }: PageProps<'/p
 
   return (
     <>
+      <Breadcrumbs root="past" items={[]} current={test.title} />
       <PageHeader
-        eyebrow={
-          <span className="flex items-center gap-2">
-            <Link href="/past" className="hover:underline">
-              Past tests
-            </Link>
-            · {formatDateTime(attempt.submitted_at)}
-          </span>
-        }
+        eyebrow={formatDateTime(attempt.submitted_at)}
         title={test.title}
         actions={<ModeBadge mode={attempt.mode} />}
       />

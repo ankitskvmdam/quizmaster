@@ -17,8 +17,9 @@ export default async function AttemptPage({ params }: PageProps<'/attempt/[id]'>
     if (error.code === 'P0001') notFound()
     throw new Error('Could not load this test')
   }
-  const payload = localizeAttempt(await getContentLang(), data as unknown as AttemptPayload)
+  const lang = await getContentLang()
+  const payload = localizeAttempt(lang, data as unknown as AttemptPayload)
   if (payload.attempt.submitted_at) redirect(`/past/attempts/${id}`)
   // Keyed by the server time, so a refreshed payload remounts the runner with fresh state.
-  return <Runner key={payload.server_now} initial={payload} />
+  return <Runner key={payload.server_now} initial={payload} lang={lang} />
 }
