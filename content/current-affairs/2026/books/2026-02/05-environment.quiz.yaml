@@ -1,0 +1,112 @@
+# Section 5 — Environment & Ecology (February 2026)
+- slug: ca-2602-env-01
+  difficulty: easy
+  stem: "The nine cheetahs that arrived at Kuno National Park around the end of February 2026 came from"
+  options: { A: "Namibia", B: "South Africa", C: "Kenya", D: "Botswana" }
+  answer: D
+  explanation: "Nine cheetahs came from Botswana, taking India's cheetah count to 48."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-02
+  difficulty: easy
+  stem: "World Wetlands Day is observed on"
+  options: { A: "2 February", B: "22 March", C: "22 April", D: "5 June" }
+  answer: A
+  explanation: "World Wetlands Day is 2 February; the 2026 theme was 'Wetlands and Traditional Knowledge: Celebrating Cultural Heritage'."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-03
+  difficulty: easy
+  stem: "Which State is now the only one in India to have Asiatic lions, tigers and leopards?"
+  options: { A: "Madhya Pradesh", B: "Rajasthan", C: "Gujarat", D: "Maharashtra" }
+  answer: C
+  explanation: "A tiger has settled in the Ratanmahal and Jambughoda forests of Gujarat, which already has lions and leopards."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-04
+  difficulty: easy
+  stem: "The Thwaites Glacier, also called the 'Doomsday Glacier', is in"
+  options: { A: "Greenland", B: "West Antarctica", C: "Alaska", D: "Iceland" }
+  answer: B
+  explanation: "Thwaites is a fast-retreating glacier in West Antarctica."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-05
+  difficulty: medium
+  stem: "The Union Budget 2026-27 set aside Rs 20,000 crore over five years for a scheme on"
+  options: { A: "river interlinking", B: "carbon capture, utilisation and storage", C: "green hydrogen", D: "offshore wind" }
+  answer: B
+  explanation: "The Rs 20,000 crore is for a Carbon Capture, Utilisation and Storage (CCUS) scheme."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-06
+  difficulty: medium
+  stem: "The Great Nicobar project was cleared with conditions in February 2026 by the"
+  options: { A: "National Green Tribunal", B: "Supreme Court", C: "National Board for Wildlife", D: "Central Pollution Control Board" }
+  answer: A
+  explanation: "The National Green Tribunal approved the Rs 81,000 crore project, saying it found no good ground to interfere."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-07
+  difficulty: medium
+  stem: "The 'Bee Corridor' initiative for pollinators was launched by the"
+  options: { A: "Indian Council of Agricultural Research", B: "National Bee Board", C: "Botanical Survey of India", D: "National Highways Authority of India" }
+  answer: D
+  explanation: "The NHAI will plant flowering native trees along national highways as Bee Corridors."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-08
+  difficulty: medium
+  stem: "Which State became the second in India, after Kerala, to publish a bird atlas?"
+  options: { A: "Sikkim", B: "Karnataka", C: "Goa", D: "Assam" }
+  answer: C
+  explanation: "Goa released its bird atlas at the ninth Bird Festival of Goa; Kerala was the first State to publish one."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-09
+  difficulty: medium
+  stem: "India will host the first Global Big Cat Summit in"
+  options: { A: "2026", B: "2027", C: "2028", D: "2030" }
+  answer: A
+  explanation: "The Budget announced that India will host the first Global Big Cat Summit in 2026, inviting 95 range countries."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-10
+  difficulty: hard
+  stem: "According to the State of India's Environment 2026 report, how many of the nine planetary boundaries have been breached?"
+  options: { A: "Four", B: "Five", C: "Six", D: "Seven" }
+  answer: D
+  explanation: "The report of the Centre for Science and Environment says seven of nine boundaries are breached, ocean acidification being the seventh."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-11
+  difficulty: hard
+  stem: "The new flowering plant Hoya nagaensis was discovered in which district of Nagaland?"
+  options: { A: "Mon", B: "Phek", C: "Kohima", D: "Wokha" }
+  answer: B
+  explanation: "Hoya nagaensis was found in a community reserved forest in Phek district and is rated Critically Endangered."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-12
+  difficulty: hard
+  stem: "The first direct photographic evidence of the Eurasian otter in the Kashmir Valley came from the"
+  options: { A: "Wular Lake", B: "Dal Lake", C: "Sindh Canal", D: "Lidder river" }
+  answer: C
+  explanation: "The otter was photographed in a chance sighting along the Sindh Canal."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-13
+  difficulty: hard
+  stem: "The country's second tulip garden was opened by CSIR-IHBT at"
+  options: { A: "Palampur", B: "Munsiyari", C: "Gulmarg", D: "Gangtok" }
+  answer: A
+  explanation: "The garden is at Palampur in Kangra district, Himachal Pradesh; the first is the Indira Gandhi Memorial Tulip Garden in Srinagar."
+  tags: ["2026-02"]
+
+- slug: ca-2602-env-14
+  difficulty: hard
+  stem: "A mud volcano dormant for over two decades erupted in February 2026 at"
+  options: { A: "Barren Island", B: "Baratang", C: "Havelock", D: "Diglipur" }
+  answer: D
+  explanation: "The eruption was at Shyamnagar in Diglipur, North Andaman."
+  tags: ["2026-02"]

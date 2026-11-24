@@ -1,0 +1,112 @@
+# Section 8 — Awards, Appointments & Persons in News (February 2026)
+- slug: ca-2602-aps-01
+  difficulty: easy
+  stem: "Who was named BBC Indian Sportswoman of the Year 2025?"
+  options: { A: "Harmanpreet Kaur", B: "Manu Bhaker", C: "P.V. Sindhu", D: "Smriti Mandhana" }
+  answer: D
+  explanation: "Smriti Mandhana won the award; Divya Deshmukh was named Emerging Player of the Year."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-02
+  difficulty: easy
+  stem: "National Science Day is observed on"
+  options: { A: "28 February", B: "11 May", C: "10 November", D: "22 December" }
+  answer: A
+  explanation: "National Science Day is 28 February; the 2026 theme was 'Women in Science: Catalysing Viksit Bharat'."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-03
+  difficulty: easy
+  stem: "Which spiritual leader won his first Grammy Award in February 2026 at the age of 90?"
+  options: { A: "Sri Sri Ravi Shankar", B: "The Dalai Lama", C: "Sadhguru Jaggi Vasudev", D: "Thich Nhat Hanh" }
+  answer: B
+  explanation: "The Dalai Lama won at the 68th Grammy Awards for the audio album 'Meditations: The Reflections of His Holiness the Dalai Lama'."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-04
+  difficulty: easy
+  stem: "International Mother Language Day is observed on"
+  options: { A: "14 September", B: "8 September", C: "21 February", D: "13 February" }
+  answer: C
+  explanation: "It is observed on 21 February; the 2026 theme was 'Youth voices on multilingual education'."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-05
+  difficulty: medium
+  stem: "The Manipuri film that won Best Children's and Family Film at the 79th BAFTA Awards is"
+  options: { A: "Boong", B: "Eikhoigi Yum", C: "Loktak Lairembee", D: "Ishanou" }
+  answer: A
+  explanation: "Boong, directed by Lakshmipriya Devi, became the first Indian film to win in this BAFTA category."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-06
+  difficulty: medium
+  stem: "Who won the Global Teacher Prize 2026?"
+  options: { A: "Ranjitsinh Disale", B: "Deep Narayan Nayak", C: "Rouble Nagi", D: "Anand Kumar" }
+  answer: C
+  explanation: "Indian teacher Rouble Nagi won the USD 1 million prize given by the Varkey Foundation."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-07
+  difficulty: medium
+  stem: "Veerabhadran Ramanathan, an Indian-origin climate scientist, won which prize in 2026?"
+  options: { A: "Abel Prize", B: "Crafoord Prize", C: "Tyler Prize", D: "Blue Planet Prize" }
+  answer: B
+  explanation: "He won the Crafoord Prize 2026 in Geosciences, awarded by the Royal Swedish Academy of Sciences."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-08
+  difficulty: medium
+  stem: "The theme of National Science Day 2026 was"
+  options: { A: "Indigenous Technologies for Viksit Bharat", B: "Global Science for Global Wellbeing", C: "Empowering Indian Youth for Global Leadership in Science", D: "Women in Science: Catalysing Viksit Bharat" }
+  answer: D
+  explanation: "The 2026 theme was 'Women in Science: Catalysing Viksit Bharat'."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-09
+  difficulty: medium
+  stem: "India was named 'Country of the Year' at BIOFACH 2026. BIOFACH is a trade fair for"
+  options: { A: "organic products", B: "textiles", C: "pharmaceuticals", D: "defence equipment" }
+  answer: A
+  explanation: "BIOFACH is the organic products trade fair held at Nuremberg, Germany; APEDA led India's participation."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-10
+  difficulty: hard
+  stem: "Nivedita Dubey became the first woman member of the board of the"
+  options: { A: "Reserve Bank of India", B: "Railway Board", C: "Airports Authority of India", D: "Oil and Natural Gas Corporation" }
+  answer: C
+  explanation: "She joined the board of the Airports Authority of India as Member (Human Resources)."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-11
+  difficulty: hard
+  stem: "The theme of World Cancer Day for 2025–27 is"
+  options: { A: "Close the Care Gap", B: "United by Unique", C: "I Am and I Will", D: "We Can. I Can." }
+  answer: B
+  explanation: "'United by Unique' is the World Cancer Day theme for 2025–27; the day is 4 February."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-12
+  difficulty: hard
+  stem: "The Royal Indian Navy revolt of 1946, whose 80th anniversary fell on 18 February 2026, began on which ship or shore station?"
+  options: { A: "HMIS Hindustan", B: "HMIS Bahadur", C: "HMIS Akbar", D: "HMIS Talwar" }
+  answer: D
+  explanation: "The revolt began on HMIS Talwar, a signal training establishment in Bombay."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-13
+  difficulty: hard
+  stem: "'Four Stars of Destiny' is the unpublished memoir of which former Army Chief?"
+  options: { A: "General M.M. Naravane", B: "General Bipin Rawat", C: "General V.K. Singh", D: "General Manoj Pande" }
+  answer: A
+  explanation: "The memoir of General M.M. Naravane led the Defence Ministry to draft rules on books by armed forces personnel."
+  tags: ["2026-02"]
+
+- slug: ca-2602-aps-14
+  difficulty: hard
+  stem: "World Radio Day, whose 2026 theme linked radio with artificial intelligence, is observed on"
+  options: { A: "10 February", B: "20 February", C: "13 February", D: "4 February" }
+  answer: C
+  explanation: "World Radio Day is 13 February; the 2026 theme was 'Radio and Artificial Intelligence: AI is a tool, not a voice'."
+  tags: ["2026-02"]

@@ -1,0 +1,112 @@
+# Section 3 — International Relations (February 2026)
+- slug: ca-2602-int-01
+  difficulty: easy
+  stem: "Under the India–US trade understanding of February 2026, the US reciprocal tariff on Indian goods was reduced to"
+  options: { A: "10 per cent", B: "15 per cent", C: "18 per cent", D: "20 per cent" }
+  answer: C
+  explanation: "The reciprocal tariff was cut from 25 per cent to 18 per cent, and the extra 25 per cent duty linked to Russian oil was removed."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-02
+  difficulty: easy
+  stem: "The New START treaty, which expired on 5 February 2026, was a nuclear arms control treaty between the United States and"
+  options: { A: "Russia", B: "China", C: "Iran", D: "North Korea" }
+  answer: A
+  explanation: "New START was the last legally binding nuclear arms control treaty between the US and Russia."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-03
+  difficulty: easy
+  stem: "Which party, led by Tarique Rahman, won the general election in Bangladesh in February 2026?"
+  options: { A: "Awami League", B: "Bangladesh Nationalist Party", C: "Jatiya Party", D: "Jamaat-e-Islami" }
+  answer: B
+  explanation: "The Bangladesh Nationalist Party (BNP), led by Tarique Rahman, won a landslide."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-04
+  difficulty: easy
+  stem: "India will host the 18th summit of which grouping in 2026?"
+  options: { A: "G20", B: "SCO", C: "BIMSTEC", D: "BRICS" }
+  answer: D
+  explanation: "India chairs BRICS in 2026 and will host its 18th summit; the first Sherpa meeting was held in New Delhi."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-05
+  difficulty: medium
+  stem: "India's ties with which country were raised to a 'Special Global Strategic Partnership' in February 2026?"
+  options: { A: "Brazil", B: "Israel", C: "Malaysia", D: "France" }
+  answer: D
+  explanation: "The upgrade was announced during the French President's visit to India."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-06
+  difficulty: medium
+  stem: "India took over in 2026 as chair of the Kimberley Process, which deals with trade in"
+  options: { A: "conflict diamonds", B: "rare earth minerals", C: "ivory", D: "small arms" }
+  answer: A
+  explanation: "The Kimberley Process works to keep conflict diamonds out of world trade; India chairs it for 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-07
+  difficulty: medium
+  stem: "India and which grouping signed the terms of reference for a free trade agreement in February 2026?"
+  options: { A: "ASEAN", B: "Gulf Cooperation Council", C: "Mercosur", D: "African Union" }
+  answer: B
+  explanation: "India and the GCC signed the terms of reference; the GCC is India's largest trading partner bloc."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-08
+  difficulty: medium
+  stem: "Which country formally withdrew from the Ottawa Convention banning anti-personnel landmines?"
+  options: { A: "Hungary", B: "Sweden", C: "Poland", D: "Romania" }
+  answer: C
+  explanation: "Poland withdrew from the 1997 Ottawa Convention, citing the security of its eastern border."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-09
+  difficulty: medium
+  stem: "Malaysia joined which India-led body during the Prime Minister's visit in February 2026?"
+  options: { A: "International Solar Alliance", B: "Global Biofuels Alliance", C: "Coalition for Disaster Resilient Infrastructure", D: "International Big Cat Alliance" }
+  answer: D
+  explanation: "Malaysia formally joined the International Big Cat Alliance during the visit."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-10
+  difficulty: hard
+  stem: "'Arctic Sentry', launched in February 2026, is a mission of"
+  options: { A: "NATO", B: "the Arctic Council", C: "the European Union", D: "the United Nations" }
+  answer: A
+  explanation: "NATO launched Arctic Sentry to strengthen its collective defence in the Arctic."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-11
+  difficulty: hard
+  stem: "India and Brazil set a bilateral trade target for 2030 of"
+  options: { A: "USD 20 billion", B: "USD 30 billion", C: "USD 50 billion", D: "USD 100 billion" }
+  answer: B
+  explanation: "The target of USD 30 billion by 2030 was set during the Brazilian President's state visit."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-12
+  difficulty: hard
+  stem: "The first meeting of the US-led 'Board of Peace', which India attended as an observer, was held in"
+  options: { A: "Geneva", B: "Cairo", C: "Washington D.C.", D: "Doha" }
+  answer: C
+  explanation: "The inaugural meeting of the Board of Peace on Gaza was held in Washington D.C."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-13
+  difficulty: hard
+  stem: "The Sawalkot hydroelectric project, on which Pakistan sought consultations, is on which river?"
+  options: { A: "Jhelum", B: "Ravi", C: "Indus", D: "Chenab" }
+  answer: D
+  explanation: "The 1,856 MW Sawalkot project is on the Chenab in Ramban district of Jammu and Kashmir."
+  tags: ["2026-02"]
+
+- slug: ca-2602-int-14
+  difficulty: hard
+  stem: "The UPI is being linked with 'DuitNow QR', the payment system of"
+  options: { A: "Malaysia", B: "Indonesia", C: "Thailand", D: "Vietnam" }
+  answer: A
+  explanation: "NPCI's international arm signed an agreement with Malaysia's PayNet to link UPI with DuitNow QR."
+  tags: ["2026-02"]

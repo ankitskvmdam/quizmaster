@@ -1,0 +1,112 @@
+# Section 7 — Government Schemes, Reports & Indices (February 2026)
+- slug: ca-2602-sch-01
+  difficulty: easy
+  stem: "The PM RAHAT scheme, launched in February 2026, provides cashless treatment to"
+  options: { A: "road accident victims", B: "cancer patients", C: "senior citizens above 70", D: "construction workers" }
+  answer: A
+  explanation: "PM RAHAT gives road accident victims cashless treatment of up to Rs 1.5 lakh for the first 7 days."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-02
+  difficulty: easy
+  stem: "What was India's rank in the Corruption Perceptions Index 2025?"
+  options: { A: "45th", B: "80th", C: "91st", D: "96th" }
+  answer: C
+  explanation: "India ranked 91st of 182 countries with a score of 39, up from 96th in 2024."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-03
+  difficulty: easy
+  stem: "The Corruption Perceptions Index is published by"
+  options: { A: "the World Bank", B: "Transparency International", C: "the World Economic Forum", D: "Amnesty International" }
+  answer: B
+  explanation: "Transparency International publishes the index; Denmark topped the 2025 edition."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-04
+  difficulty: easy
+  stem: "The target for Lakhpati Didis was doubled in February 2026 to"
+  options: { A: "2 crore", B: "4 crore", C: "5 crore", D: "6 crore" }
+  answer: D
+  explanation: "The target was raised from 3 crore to 6 crore Lakhpati Didis by March 2029."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-05
+  difficulty: medium
+  stem: "The Urban Challenge Fund, approved by the Union Cabinet, has central assistance of"
+  options: { A: "Rs 25,000 crore", B: "Rs 50,000 crore", C: "Rs 1 lakh crore", D: "Rs 4 lakh crore" }
+  answer: C
+  explanation: "The fund of the Ministry of Housing and Urban Affairs has central assistance of Rs 1 lakh crore for 2025-26 to 2030-31."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-06
+  difficulty: medium
+  stem: "Bharat-VISTAAR, whose first phase was launched in Jaipur, is"
+  options: { A: "a rural housing scheme", B: "an AI-based advisory system for farmers", C: "a crop insurance portal", D: "a highway expansion plan" }
+  answer: B
+  explanation: "Bharat-VISTAAR is a multilingual AI advisory system for farmers; its helpline number is 155261."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-07
+  difficulty: medium
+  stem: "Sampoornata Abhiyan 2.0, for aspirational districts and blocks, was launched by"
+  options: { A: "the Ministry of Rural Development", B: "the Ministry of Panchayati Raj", C: "the Ministry of Home Affairs", D: "NITI Aayog" }
+  answer: D
+  explanation: "NITI Aayog runs the campaign from 28 January to 14 April 2026 in 112 Aspirational Districts and 513 Aspirational Blocks."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-08
+  difficulty: medium
+  stem: "India ranked 45th in the Network Readiness Index 2025. Who releases this index?"
+  options: { A: "Portulans Institute", B: "International Telecommunication Union", C: "World Economic Forum", D: "UNCTAD" }
+  answer: A
+  explanation: "The Portulans Institute releases the index; India rose four places to 45th."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-09
+  difficulty: medium
+  stem: "India aims to eliminate lymphatic filariasis by"
+  options: { A: "2026", B: "2027", C: "2030", D: "2047" }
+  answer: B
+  explanation: "The mass drug administration campaign in 12 States supports the target of eliminating the disease by 2027."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-10
+  difficulty: hard
+  stem: "The Mission for Aatmanirbharta in Pulses has an outlay of"
+  options: { A: "Rs 11,440 crore", B: "Rs 6,839 crore", C: "Rs 20,000 crore", D: "Rs 24,000 crore" }
+  answer: A
+  explanation: "The mission has Rs 11,440 crore for 2025-26 to 2030-31 and targets 350 lakh tonnes of pulses by 2030-31."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-11
+  difficulty: hard
+  stem: "Which State's Jugal Kishore Nagar Village Committee ranked first in the Panchayat Advancement Index 2.0?"
+  options: { A: "Kerala", B: "Gujarat", C: "Telangana", D: "Tripura" }
+  answer: D
+  explanation: "Jugal Kishore Nagar Village Committee of Tripura topped the index of the Ministry of Panchayati Raj."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-12
+  difficulty: hard
+  stem: "'Bhasha Matters' is the title of a 2025 report on education in India brought out by"
+  options: { A: "NCERT", B: "UNICEF", C: "UNESCO", D: "NITI Aayog" }
+  answer: C
+  explanation: "It is UNESCO's seventh State of the Education Report for India, on mother-tongue and multilingual education."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-13
+  difficulty: hard
+  stem: "The second phase of the Vibrant Villages Programme covers about how many border villages?"
+  options: { A: "662", B: "1,954", C: "2,967", D: "4,800" }
+  answer: B
+  explanation: "VVP-II covers 1,954 border villages in 17 States with an outlay of Rs 6,839 crore."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sch-14
+  difficulty: hard
+  stem: "Which institute topped the Times B-School Ranking 2026?"
+  options: { A: "IIM Ahmedabad", B: "XLRI Jamshedpur", C: "Indian Institute of Foreign Trade", D: "FMS Delhi" }
+  answer: C
+  explanation: "The Indian Institute of Foreign Trade (IIFT) ranked first."
+  tags: ["2026-02"]
