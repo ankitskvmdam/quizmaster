@@ -7,12 +7,13 @@ export type RawTopic = { id: string; parentId: string | null; path: string; slug
 export type RawLesson = { id: string; topicId: string; slug: string; title: string; position: number; done: boolean }
 /** Live (not retired) questions only. */
 export type RawQuestion = { topicId: string | null; chapterId: string | null }
+export type BookKind = 'book' | 'topic' | 'monthly'
 export type RawBook = {
   id: string
   topicId: string
   slug: string
-  /** A topic is written for one syllabus topic; its chapters are called sections. */
-  kind: 'book' | 'topic'
+  /** A topic is written for one syllabus topic, a monthly for one month of current affairs; their chapters are called sections. */
+  kind: BookKind
   title: string
   author: string | null
   edition: string | null

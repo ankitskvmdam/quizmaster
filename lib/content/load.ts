@@ -54,7 +54,7 @@ export type BookItem = {
   subjectSlug: string
   topicPath: string // the subject node the book sits on, e.g. "history"
   slug: string
-  kind: 'book' | 'topic'
+  kind: 'book' | 'topic' | 'monthly'
   title: string
   author: string | null
   edition: string | null

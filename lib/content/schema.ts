@@ -164,8 +164,8 @@ export const caTestFile = z
 // ---------------------------------------------------------------------------
 export const bookFile = z
   .object({
-    /** "topic": written for one syllabus topic (shown on the Topics shelf, chapters called sections) rather than a published book. */
-    kind: z.enum(['book', 'topic']).default('book'),
+    /** "topic": written for one syllabus topic rather than a published book; "monthly": one month of current affairs. Each has its own shelf, and their chapters are called sections. */
+    kind: z.enum(['book', 'topic', 'monthly']).default('book'),
     title: z.string().min(1),
     author: z.string().optional(),
     edition: text.optional(),
