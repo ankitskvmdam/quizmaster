@@ -1,0 +1,1384 @@
+slug: 2024-09-12-shift2
+title: SSC CGL 2024 Tier 1
+date: 2024-09-12
+label: 12 Sept, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07115013/SSC-CGL-Tier-1-Question-Paper-En). Left out (picture-only options or incomplete in the source): Q3, Q6, Q17, Q19."
+questions:
+  - slug: cgl-2024-09-12-s2-q001
+    difficulty: medium
+    stem: |-
+      Which of the following numbers will replace the question marks (?) in the given series?
+
+      16, 36, 64, ?, ?, 196, 256, 324
+    options:
+      A: 81, 100
+      B: 81, 121
+      C: 100, 121
+      D: 100, 144
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q002
+    difficulty: medium
+    stem: |-
+      Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number and so on. Which of the given options follows the same set of operations as in the given sets?
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      10 – 12 – 8 – 15; 12 – 14 – 10 – 19
+    options:
+      A: 8 – 6 – 10 – 18
+      B: 11 – 13 – 9 – 17
+      C: 6 – 8 – 12 – 16
+      D: 15 – 13 – 9 – 19
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q004
+    difficulty: medium
+    stem: |-
+      Based on the English alphabetical order, three of the following four letter-clusters are alike in a certain way and thus form a group. Which is the letter-cluster that DOES NOT belong to that group?
+
+      (Note: The odd man out is not based on the number of consonants/vowels or their position in the letter-cluster.)
+    options:
+      A: DGK
+      B: HKO
+      C: ACG
+      D: MPT
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q005
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (11, 16.5, 22)
+
+      (14.5, 20, 25.5)
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+    options:
+      A: (14, 18.5, 23.5)
+      B: (21.5, 25, 31.5)
+      C: (24.5, 30, 36.5)
+      D: (18, 23.5, 29)
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q007
+    difficulty: medium
+    stem: |-
+      Which of the following terms will replace the question mark (?) in the given series?
+
+      HPL, KLQ, NHV, QDA, TZF, ?
+    options:
+      A: WVK
+      B: XVK
+      C: WDK
+      D: XWK
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q008
+    difficulty: medium
+    stem: |-
+      In a certain code language,
+
+      A + B means ‘A is the son of B’,
+
+      A − B means ‘A is the wife of B’,
+
+      A × B means ‘A is the brother of B’ and
+
+      A ÷ B means ‘A is the daughter of B’.
+
+      Based on the above, how is P related to R if ‘P × S ÷ M − T + R’?
+    options:
+      A: Daughter
+      B: Brother
+      C: Father’s mother
+      D: Son’s son
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q009
+    difficulty: medium
+    stem: |-
+      Three statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      All cards are postcards.
+
+      Some postcards are books.
+
+      All books are novels.
+
+      Conclusions:
+
+      I. Some postcards are novels.
+
+      II. No card is a book.
+
+      III. All cards are novels.
+    options:
+      A: Only II and III conclusion follow
+      B: Only I and II conclusion follow
+      C: Only conclusion I follows
+      D: Only conclusion III follows
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q010
+    difficulty: medium
+    stem: |-
+      How many squares are there in the given figure?
+
+      *(Figure: A small square overlapping the top-left corner of a larger square; inside the larger square, a medium square in the lower part that overlaps a cross-divided square at bottom right (overlapping squares).)*
+    options:
+      A: "10"
+      B: "9"
+      C: "7"
+      D: "8"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q011
+    difficulty: medium
+    stem: ‘NGRP’ is related to ‘JCNL’ in a certain way based on the English alphabetical order. In the same way, ‘FKLT’ is related to ‘BGHP’. To which of the following is ‘SQUO’ related, following the same logic?
+    options:
+      A: PNRL
+      B: PMRK
+      C: ONQL
+      D: OMQK
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q012
+    difficulty: medium
+    stem: |-
+      Three of the following numbers are alike in a certain way and one is different. Pick the odd one out.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+    options:
+      A: 12 – 7 – 209
+      B: 19 – 11 – 330
+      C: 23 – 8 – 343
+      D: 15 – 9 – 264
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q013
+    difficulty: medium
+    stem: |-
+      Which of the following operations should be interchanged to make the following equation correct?
+
+      12 + 12 − 4 × 4 ÷ 2 = 22
+    options:
+      A: − and +
+      B: + and ÷
+      C: ÷ and −
+      D: × and −
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q014
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      E_GHEI_GELK_ _OME
+    options:
+      A: IFGE
+      B: IGFE
+      C: FIFE
+      D: FGEI
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q015
+    difficulty: medium
+    stem: In a certain code language, ‘talk to me’ is coded as ‘aq yt bl’ and ‘do not talk’ is coded as ‘yt me wc’. What is the code for ‘talk’ in that language?
+    options:
+      A: aq
+      B: wc
+      C: yt
+      D: bl
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q016
+    difficulty: medium
+    stem: |-
+      What will come in place of the question mark (?) in the following equation if ‘+’ and ‘−’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+
+      16 ÷ 4 + 8 × 8 − 4 = ?
+    options:
+      A: "67"
+      B: "42"
+      C: "11"
+      D: "36"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q018
+    difficulty: medium
+    stem: "346 is related to 245 by certain logic. Following the same logic, 580 is related to 479. To which of the following is 613 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)"
+    options:
+      A: "512"
+      B: "460"
+      C: "720"
+      D: "630"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q020
+    difficulty: medium
+    stem: |-
+      Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.
+
+      (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word)
+
+      Duleep Trophy : Cricket
+    options:
+      A: "Burdwan Trophy : Polo"
+      B: "Agha Khan Cup : Hockey"
+      C: "Dhyan Chand Trophy : Badminton"
+      D: "Durand Cup : Cricket"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q021
+    difficulty: medium
+    stem: Each vowel in the word ‘STAMINA’ is changed to the preceding letter in the English alphabetical order and each consonant is changed to the following letter in the English alphabetical order. How many letters are there in the English alphabetical order between the letter which is the third from the right and the fourth from the left in the group of letters thus formed?
+    options:
+      A: Four
+      B: Six
+      C: Seven
+      D: Five
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q022
+    difficulty: medium
+    stem: In a certain code language, ‘can we play’ is coded as ‘ae tc nx’ and ‘play in school’ is coded as ‘tc rm ef’. How is ‘play’ coded in that language?
+    options:
+      A: ae
+      B: rm
+      C: ef
+      D: tc
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q023
+    difficulty: medium
+    stem: In a certain code language, ‘BOOK’ is written as ‘ZNNI’ and ‘SHOP’ is written as ‘QFNN’. How will ‘NOTES’ be written in that language?
+    options:
+      A: LNRDQ
+      B: LRDQN
+      C: LDNQR
+      D: QDRNL
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q024
+    difficulty: medium
+    stem: |-
+      Six letters J, K, L, M, N and O are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the letter on the face opposite to J.
+
+      *(Figure: Two views of a dice. View 1: top M, front N, right O. View 2: top K, front J, right O.)*
+    options:
+      A: N
+      B: M
+      C: O
+      D: L
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q025
+    difficulty: medium
+    stem: |-
+      Six letters U, V, W, X, Y and Z are written on different faces of a dice. Two positions of this dice are shown in the figure. Find the letter on the face opposite to V.
+
+      *(Figure: Two views of a dice. View 1: top U, left V, right X. View 2: top U, left X, right Z.)*
+    options:
+      A: Z
+      B: W
+      C: X
+      D: Y
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-12-s2-q026
+    difficulty: medium
+    stem: Chand Bardai’s famous literary work ________, mentions Prithviraj Chauhan‘s love story and heroic deeds.
+    options:
+      A: Rajamartanda
+      B: Harakeli Nataka
+      C: Prithviraj Raso
+      D: Abhidhana Chintamani
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q027
+    difficulty: medium
+    stem: Who established Shantiniketan and when?
+    options:
+      A: Ravindranath Tagore, 1905
+      B: Mahatma Gandhi, 1910
+      C: Ravindranath Tagore, 1901
+      D: Devendranath Tagore, 1915
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q028
+    difficulty: medium
+    stem: In which year was the Digital India mission launched?
+    options:
+      A: "2017"
+      B: "2015"
+      C: "2014"
+      D: "2016"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q029
+    difficulty: medium
+    stem: In July 2020, which state initiated the 'Ashirwad Scheme' to extend financial support for a daughter's marriage who belongs to a family earning a lower income?
+    options:
+      A: Rajasthan
+      B: Bihar
+      C: Uttar Pradesh
+      D: Punjab
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q030
+    difficulty: medium
+    stem: Hindustani singer Pandit Venkatesh Kumar was honoured with 'Kalidas Samman-2022' by which state government?
+    options:
+      A: Maharashtra
+      B: Madhya Pradesh
+      C: Gujarat
+      D: Uttar Pradesh
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q031
+    difficulty: medium
+    stem: Which of the following institutes was founded by Mrinalini Sarabhai who was a Bharatanatyam and Kathakali dancer?
+    options:
+      A: Nalanda Nritya Kala Mahavidyalaya
+      B: Nrityanjali Institute of Performing Arts
+      C: Sri Thyagaraja College of Music and Dance
+      D: Darpana Academy of Performing Arts
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q032
+    difficulty: medium
+    stem: |-
+      Match the points under Column A with those under Column B.
+
+      | Column A | Column B |
+      |---|---|
+      | i. Annelida | a. Tapeworm |
+      | ii. Arthropoda | b. Sea star |
+      | iii. Echinodermata | c. Ant |
+      | iv. Platyhelminthes | d. Earthworm |
+    options:
+      A: i-a, ii-c, iii-b, iv-d
+      B: i-a, ii-b, iii-c, iv-d
+      C: i-d, ii-c, iii-b, iv-a
+      D: i-b, ii-a, iii-c, iv-d
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q033
+    difficulty: medium
+    stem: Which of the following hills is located in the Eastern Ghats?
+    options:
+      A: Shevaroy hills
+      B: Khasi hills
+      C: Anamudi hills
+      D: Naga hills
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q034
+    difficulty: medium
+    stem: Who among the following players is related to table tennis?
+    options:
+      A: Pankaj Advani
+      B: Manika Batra
+      C: K Srikanth
+      D: Manish Narwal
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q035
+    difficulty: medium
+    stem: What are the five Fs of indirect transmission?
+    options:
+      A: Fruit, fingers, flu, food and fluid
+      B: Flies, fingers, fomites, food and fluid
+      C: Flies, fingers, friends, food and fruit
+      D: Flies, fingers, fomites, food and fruit
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q036
+    difficulty: medium
+    stem: Which of the following is an example of public sector industry in India?
+    options:
+      A: Tata Iron Steel Company
+      B: Bajaj Auto
+      C: Dabur
+      D: Bharat Heavy Electricals Limited
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q037
+    difficulty: medium
+    stem: The Election Laws Amendment Bill passed in the Parliament recently seeks to implement certain electoral reforms. One of them is the eligibility date. Till now, only one date – 1 January was considered for deciding eligibility with respect to age. What reform does the Bill seek in this regard?
+    options:
+      A: Eliminating the idea of eligibility date – enrolment throughout the year
+      B: Introducing three dates – 1 January, 1 May, 1 September
+      C: Introducing four dates – 1 January, 1 April, 1 July, 1 October
+      D: Introducing two dates – 1 January and 1 June
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q038
+    difficulty: medium
+    stem: Which of the following is NOT a Fundamental Duty of the Indian citizens?
+    options:
+      A: To cherish and follow the noble ideas that inspired our national struggle for freedom.
+      B: Mandatory national service of 5 years.
+      C: To develop scientific temper, humanism and the spirit of inquiry and reform.
+      D: To safeguard public property and to abjure violence.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q039
+    difficulty: medium
+    stem: ______ leaves are used to make bidis.
+    options:
+      A: Neem
+      B: Betel
+      C: Tendu
+      D: Champa
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q040
+    difficulty: medium
+    stem: Buddhadev Dasgupta is famous for playing which of the following musical instruments?
+    options:
+      A: Sarangi
+      B: Sarod
+      C: Bansuri
+      D: Mridangam
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q041
+    difficulty: medium
+    stem: In which of the following years was Pro Kabaddi League established in India?
+    options:
+      A: "2016"
+      B: "2015"
+      C: "2014"
+      D: "2013"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q042
+    difficulty: medium
+    stem: According to Census of India 2011, what is the gap between male and female literacy rate in India?
+    options:
+      A: 21.59%
+      B: 24.84%
+      C: 16.68%
+      D: 18.30%
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q043
+    difficulty: medium
+    stem: In which form of exchange are goods used as medium of exchange?
+    options:
+      A: Barter exchange
+      B: Currency exchange
+      C: Credit exchange
+      D: Online exchange
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q044
+    difficulty: medium
+    stem: What is the product formed when zinc and sulphuric acid react?
+    options:
+      A: Zinc oxide
+      B: Zinc sulphide
+      C: Zinc sulphate
+      D: Zinc hydroxide
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q045
+    difficulty: medium
+    stem: In the state legislative assembly, the Money bill can be introduced with the prior permission of __________.
+    options:
+      A: Auditor General
+      B: Finance Minister
+      C: Governor
+      D: CAG
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q046
+    difficulty: medium
+    stem: Which of the following gases emits red light when electricity is passed through it?
+    options:
+      A: Argon
+      B: Neon
+      C: Hydrogen
+      D: Helium
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q047
+    difficulty: medium
+    stem: The Vedangas are Hindu auxiliary disciplines that originated in ancient times and are linked to the study of the Vedas. These are _________ in number.
+    options:
+      A: seven
+      B: five
+      C: six
+      D: four
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q048
+    difficulty: medium
+    stem: Gangaur Festival, Pushkar Fair, Nagaur Fair and Urs Fair are the popular fairs and festivals of which state?
+    options:
+      A: Maharashtra
+      B: Tripura
+      C: Rajasthan
+      D: Punjab
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q049
+    difficulty: medium
+    stem: Who among the following freedom fighters is known as ‘Deshbandhu’?
+    options:
+      A: Gopal Krishna Gokhale
+      B: Chittaranjan Das
+      C: Subhas Chandra Bose
+      D: Bhagat Singh
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q050
+    difficulty: medium
+    stem: What was the actual growth rate of the first five-year plan?
+    options:
+      A: 4.2%
+      B: 2.6%
+      C: 3.6%
+      D: 2.1%
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-12-s2-q051
+    difficulty: medium
+    stem: The average of the squares of the first 46 natural numbers is
+    options:
+      A: "730.5"
+      B: "727.5"
+      C: "729.5"
+      D: "728.5"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q052
+    difficulty: medium
+    stem: A person borrowed some money on simple interest. After 4 years, he returned 9/5 of the money to lender. What was the rate of interest?
+    options:
+      A: 19% p.a.
+      B: 18% p.a.
+      C: 17% p.a.
+      D: 20% p.a.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q053
+    difficulty: medium
+    stem: "The MP of an article was Rs.180 and it was sold at a discount of 15%, the discount in Rs. is:"
+    options:
+      A: "27"
+      B: "15"
+      C: "12"
+      D: "18"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q054
+    difficulty: medium
+    stem: In ΔDEF, the bisector of ∠D intersects side EF at point N. If DE = 36 cm, DF = 40 cm and EF = 38 cm, then the length (in cm) of NF is ________.
+    options:
+      A: "18"
+      B: "20"
+      C: "12"
+      D: "16"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q055
+    difficulty: medium
+    stem: Find the area of a sector with an arc length of 44 cm, which subtends a central angle of 30°.
+    options:
+      A: 1584 cm²
+      B: 1488 cm²
+      C: 1884 cm²
+      D: 1848 cm²
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q056
+    difficulty: medium
+    stem: |-
+      The given pie-chart shows the percentage distribution of 20,000 employees in a company.
+
+      Study the given chart and answer the question that follows.
+
+      If 30% of the employees in department D are females, then how many male employees are there in that department?
+
+      *(Figure: Pie chart titled ‘Percentage distribution of employees in different departments of a company’: A 20%, B 20%, C 10%, D 30%, E 20%.)*
+    options:
+      A: "4500"
+      B: "4000"
+      C: "5000"
+      D: "4200"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q057
+    difficulty: medium
+    stem: If m + n = 24, then (m − 16)³ + (n − 8)³ is ____.
+    options:
+      A: "0"
+      B: "320"
+      C: "576"
+      D: "40"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q058
+    difficulty: medium
+    stem: |-
+      Solve the following:
+
+      1/(1 + cosθ) + 1/(1 − cosθ) = ?
+    options:
+      A: 2sin²θ
+      B: 2sec²θ
+      C: 2cosec²θ
+      D: 2tan²θ
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q059
+    difficulty: medium
+    stem: Find the gain percentage, given that Siddhi sold her scooter for ₹24318 gaining 1/6th of the selling price.
+    options:
+      A: 25%
+      B: 35%
+      C: 5%
+      D: 20%
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q060
+    difficulty: medium
+    stem: |-
+      Solve the following:
+
+      [(2.5 + 1.5)² ÷ 4 of 1/2 × 8 − 1]
+    options:
+      A: "63"
+      B: "81"
+      C: "27.1"
+      D: "0"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q061
+    difficulty: medium
+    stem: "A thief pursued by a policeman was 150 m ahead at the start. If the ratio of the speed of the policeman to that of the thief was 5 : 4, then how far (distance in metres) could the thief go before he is caught by the policeman?"
+    options:
+      A: "200"
+      B: "600"
+      C: "400"
+      D: "350"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q062
+    difficulty: medium
+    stem: "The ratio between male and female members in a club is 2 : 3. If the number of male members is increased by 200, the ratio becomes 5 : 6. How many female members are there in the club?"
+    options:
+      A: "1400"
+      B: "1000"
+      C: "1200"
+      D: "900"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q063
+    difficulty: medium
+    stem: "If 7 tan θ = 3, then (7 sin θ + 5 cos θ)/(7 sin θ − 2 cos θ) is:"
+    options:
+      A: "8"
+      B: "6"
+      C: "5"
+      D: "7"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q064
+    difficulty: medium
+    stem: Two pipes A and B can fill a tank in 48 minutes and 66 minutes, respectively. If both the pipes are opened simultaneously, then after how many minutes should pipe B be closed so that the tank gets filled in 32 minutes?
+    options:
+      A: "22"
+      B: "20"
+      C: "16"
+      D: "18"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q065
+    difficulty: medium
+    stem: |-
+      The given pie chart shows the expenditure by a state government on various sports during a particular year.
+
+      If the total amount spent on tennis and football is ₹1,45,000, then the total amount (in ₹) spent on all the given sports is:
+
+      *(Figure: Pie chart: Cricket 22%, Basketball 17%, Tennis 14%, Golf 10%, Hockey 11%, Chess 11%, Football 15%.)*
+    options:
+      A: 3,10,000
+      B: 5,00,000
+      C: 4,50,000
+      D: 4,10,000
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q066
+    difficulty: medium
+    stem: Every month, a man consumes 20 kg of rice and 8 kg of wheat. The price of rice is 20% of the price of wheat, resulting in a total expenditure of ₹300 per month for rice and wheat combined. If the price of wheat is increased by 20%, what percentage reduction in rice consumption is needed to maintain the same expenditure of ₹300? (Given that price of rice and consumption of wheat is constant.)
+    options:
+      A: 24%
+      B: 22%
+      C: 40%
+      D: 38%
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q067
+    difficulty: medium
+    stem: In triangle ABC, the length of side BC is 2 cm less than twice the length of side AB. The length of side AC exceeds the length of side AB by 10 cm. The perimeter of the triangle is 40 cm. Determine the length (in cm) of the smallest side of the triangle.
+    options:
+      A: "12"
+      B: "10"
+      C: "14"
+      D: "8"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q068
+    difficulty: medium
+    stem: "From a point T, the length of the tangent to a circle is 32 cm and the distance of T from the centre is 40 cm. The diameter (in cm) of the circle is:"
+    options:
+      A: "48"
+      B: "16"
+      C: "32"
+      D: "36"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q069
+    difficulty: medium
+    stem: "Two cylinders have the radii of their bases in the ratio 4 : 5 and their heights are in the ratio 5 : 7. Find the ratio of their curved surface areas."
+    options:
+      A: "5 : 4"
+      B: "4 : 5"
+      C: "1 : 2"
+      D: "4 : 7"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q070
+    difficulty: medium
+    stem: In a garden, there are 6 daisy plants the first year. Each year, a gardener adds 3 new daisy plants. He has 26 jasmine plants the first year and loses 2 each year. When will the number of daisy plants equal to the number of jasmine plants after the first year?
+    options:
+      A: 6 years
+      B: 4 years
+      C: 5 years
+      D: 2 years
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q071
+    difficulty: medium
+    stem: Which of following numbers is NOT divisible by 11?
+    options:
+      A: "109153"
+      B: "5445"
+      C: "80124"
+      D: "128041"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q072
+    difficulty: medium
+    stem: "If cot⁴ϕ − cot²ϕ = 1, then the value of cos⁴ϕ + cos²ϕ is:"
+    options:
+      A: "1"
+      B: 3/2
+      C: 1/√3
+      D: "2"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q073
+    difficulty: medium
+    stem: |-
+      The following pie chart shows the study time of different subjects of a student in a day. Study the pie chart and answer the question.
+
+      If the student studied English for 3 hours, then he studied Mathematics for:
+
+      *(Figure: Pie chart titled ‘Percentage distribution of study-time of different subjects’: Mathematics 35%, Physics 12%, Chemistry 20%, English 15%, Hindi 18%.)*
+    options:
+      A: 5 hours
+      B: 1 hour
+      C: 2 hours
+      D: 7 hours
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q074
+    difficulty: medium
+    stem: |-
+      The given table shows the production of iron rods by a company for a period of 6 months. Study the table and answer the question that follows.
+
+      | Month | January | March | May | July | September | November |
+      |---|---|---|---|---|---|---|
+      | Production | 60 | 75 | 45 | 85 | 90 | 108 |
+
+      What is the ratio of the month having the highest production to the month having the least production?
+    options:
+      A: "12 : 5"
+      B: "1 : 2"
+      C: "5 : 12"
+      D: "9 : 5"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q075
+    difficulty: medium
+    stem: |-
+      For the following equations, what are the values of a and b to have infinitely many solutions?
+
+      ax + by = 2
+
+      3x - (5 - 2a)y = 6
+    options:
+      A: a = 1,b = - 1
+      B: a = - 1,b = - 1
+      C: a = - 1,b = 1
+      D: a = 1,b = 1
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-12-s2-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blanks.
+
+      He had ________ the ________ into smaller clips.
+    options:
+      A: clipping, clips
+      B: clips, clipping
+      C: clipped, clipping
+      D: clipping, clipped
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q077
+    difficulty: medium
+    stem: Select the sentence that does NOT have a spelling error.
+    options:
+      A: The focus of the exibition is to reinforce versatility and creative thinking.
+      B: The insouciance of the rock star considering the importance of the occasion, came as a shock to the audience who expected stressful moments.
+      C: The artist received recognition for her impressive etchings, buclic landscapes, and recreation of natural scenes around her.
+      D: The paintings are structured chronologically, starting from cubism to surealism.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence.
+
+      My sisters **wished me good luck** before I went on the stage to sing.
+    options:
+      A: Told me to break an arm
+      B: Told me to break the ice
+      C: Told me to sit on the fence
+      D: Told me to break a leg
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      The drug pedlar was arrested by the narcotics team.
+    options:
+      A: The narcotics team arrest the drug pedlar.
+      B: The narcotics team has arrested the drug pedlar.
+      C: The narcotics team was arrested the drug pedlar.
+      D: The narcotics team arrested the drug pedlar.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q080
+    difficulty: medium
+    stem: |-
+      Select the correct option to form a meaningful sentence.
+
+      I / that / the chef / to work / in / the new / heard / restaurant / is going / across the road.
+
+      (a) (b) (c) (d) (e) (f) (g) (h) (i) (j)
+    options:
+      A: a, b, d, c, g, e, f, h, i, j
+      B: a, c, g, b, h, i, f, e, d, j
+      C: a, b, d, c, e, f, h, g, i, j
+      D: a, g, b, c, i, d, e, f, h, j
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word.
+
+      Many people love to visit **enchanting** hills.
+    options:
+      A: risky
+      B: alluring
+      C: echoing
+      D: cool
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q082
+    difficulty: medium
+    stem: |-
+      Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.
+
+      A. needs to be
+
+      B. the shelf in
+
+      C. a piece of wood
+
+      D. the kitchen
+
+      E. need to buy
+
+      F. replaced, so I will
+    options:
+      A: BDAFEC
+      B: ACDBFE
+      C: DEBACF
+      D: BEFCAD
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q083
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      The list of subjects to be discussed at a meeting
+    options:
+      A: Agenda
+      B: Menu
+      C: Minutes
+      D: Objectives
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the word in brackets to fill in the blank.
+
+      She has _______ (witty) remarks about everything.
+    options:
+      A: whimsical
+      B: unamusing
+      C: woeful
+      D: sorry
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Paralysed
+    options:
+      A: Demure
+      B: Healthy
+      C: Stifled
+      D: Sultry
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q086
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into four segments. Identify the segment that contains an adverbial usage error.
+
+      Mr. Arun / will pay dear / for his / financial mistake.
+    options:
+      A: Mr. Arun
+      B: financial mistake
+      C: for his
+      D: will pay dear
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the word in brackets to fill in the blank.
+
+      Listening to the same lecture everyday appeared very ___________ to him. (boring)
+    options:
+      A: monotonous
+      B: furious
+      C: monolithic
+      D: nervous
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      We have postponed this movie outing too many times, so we are going tomorrow, come _____ or shine.
+    options:
+      A: hail
+      B: rain
+      C: mountain
+      D: thunder
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q089
+    difficulty: medium
+    stem: |-
+      Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.
+
+      O. went
+
+      P. yesterday
+
+      Q. we
+
+      R. to the
+
+      S. park
+    options:
+      A: QORSP
+      B: PSROQ
+      C: RQOSP
+      D: OPQRS
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Repulse
+    options:
+      A: Substitute
+      B: Recover
+      C: Reprove
+      D: Repel
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q091
+    difficulty: medium
+    stem: |-
+      Select the INCORRECTLY spelt word in the given sentence.
+
+      One must be confident of winning and gaining one’s goals and must face situations, disasters, trials and setbecks of life with confidence.
+    options:
+      A: Setbecks
+      B: Trials
+      C: Disasters
+      D: Confident
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      Five years later, I **was eating** this same dish at the same restaurant.
+    options:
+      A: had been eating
+      B: am eating
+      C: has been eating
+      D: will have be eating
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Scientists were conducting experiments on the newly discovered species.
+    options:
+      A: The newly discovered species has been conducting experiments by scientists.
+      B: Experiments were being conducted on the newly discovered species by scientists.
+      C: The newly discovered species has been experimented on by scientists.
+      D: Experiments on the newly discovered species had been conducted by the scientists.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q094
+    difficulty: medium
+    stem: |-
+      Parts of a sentence are given below in jumbled order. Select the option that arranges the parts in the correct sequence to form a meaningful sentence.
+
+      (P) the sun
+
+      (Q) to our planet, Earth
+
+      (O) provides essential energy
+
+      (R) sustaining life and warmth
+    options:
+      A: QROP
+      B: POQR
+      C: ROQP
+      D: ORPQ
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q095
+    difficulty: medium
+    stem: |-
+      The given sentence is divided into four segments. Select the option that has the segment with a grammatical error.
+
+      The employees were comfortable / with me and they talked about / their problems since / I has worked there as a manager.
+    options:
+      A: with me and they talked about
+      B: I has worked there as a manager.
+      C: their problems since
+      D: The employees were comfortable
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q096
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (1)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (2)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (3)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (4)________ and evil deeds never go (5)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: incidents
+      B: case
+      C: power
+      D: actions
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q097
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (1)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (2)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (3)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (4)________ and evil deeds never go (5)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: does
+      B: have
+      C: put
+      D: create
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q098
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (1)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (2)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (3)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (4)________ and evil deeds never go (5)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: supreme
+      B: most
+      C: more
+      D: greatest
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q099
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (1)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (2)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (3)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (4)________ and evil deeds never go (5)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: horribly
+      B: fairness
+      C: badly
+      D: dishonesty
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-12-s2-q100
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      People often say that the stars govern their fate but they forget the fact that success or failure is the result of one’s own (1)________. If we sow chaff, we can’t reap grain; and the result or consequence of an action depends on what one does and to the extent he (2)________ it. If we work hard, we succeed only to the extent that we work. People who think that the law of karma is (3)________ may feel that if one is destined to get something he will always get it whether he strives for it or not. But experience tells us that reward and punishments are the direct result of our action. Honesty and hard work never go unrewarded and (4)________ and evil deeds never go (5)________. In fact even the law of karma, in its proper sense, means that the fruit we get is decided by whatever actions we did in the past.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: vile
+      B: unpunished
+      C: waste
+      D: punished
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
