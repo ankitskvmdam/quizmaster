@@ -167,7 +167,7 @@ export async function applyTranslations(
         const fm = parse(chapterFrontmatter, parsed.data)
         if (!fm) break
         const subjectPath = src.item.bookRef.split('/')[1] // bookRef is "<course>/<subject>/<book>"
-        const covers = fm.covers.map((c) => `${subjectPath}/${c}`.replace(/\/$/, ''))
+        const covers = fm.covers.map((c) => (c === '.' ? subjectPath : `${subjectPath}/${c}`))
         if (!same('', [['slug', fm.slug, src.item.slug], ['number', fm.number, src.item.number], ['covers', covers, src.item.covers]])) break
         const body = parsed.content.replace(/^\s*\n/, '')
         if (!hasGistShape(body)) {

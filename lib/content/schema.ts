@@ -175,13 +175,13 @@ export const bookFile = z
   })
   .strict()
 
-/** covers: tree paths relative to the subject, e.g. "ancient/india" (or "" / "." for the whole subject). */
+/** covers: tree paths relative to the subject, e.g. "ancient/india", or "." for the whole subject. */
 export const chapterFrontmatter = z
   .object({
     slug,
     number: z.number().int().positive(),
     title: z.string().min(1),
-    covers: z.array(z.string().regex(/^[a-z0-9-]+(\/[a-z0-9-]+)*$/, 'must be a path like ancient/india')).min(1),
+    covers: z.array(z.string().regex(/^(\.|[a-z0-9-]+(\/[a-z0-9-]+)*)$/, 'must be a path like ancient/india, or "." for the whole subject')).min(1),
   })
   .strict()
 

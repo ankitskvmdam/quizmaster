@@ -468,7 +468,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             issues.push({ file: rel(f), message: `${fm.slug}: covers lists "${repeated}" more than once` })
             continue
           }
-          const covers = fm.covers.map((c) => `${subjectPath}/${c}`.replace(/\/$/, ''))
+          const covers = fm.covers.map((c) => (c === '.' ? subjectPath : `${subjectPath}/${c}`))
           pendingCovers.push({ file: rel(f), slug: fm.slug, covers, subjectSlug: subject!.slug })
           const chapterItem: ChapterItem = { bookRef, slug: fm.slug, number: fm.number, title: fm.title, gist_md: body, position: fm.number, covers }
           bundle.chapters.push(chapterItem)
