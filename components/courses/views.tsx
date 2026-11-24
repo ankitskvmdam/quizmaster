@@ -93,7 +93,7 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
         {node.children.length > 0 && (
           <section aria-labelledby="sections">
             <h2 id="sections" className="mb-3 text-lg font-semibold">
-              Notes
+              Short Notes
             </h2>
             <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
               {node.children.map((c) => (
@@ -106,7 +106,7 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
         {node.lessons.length > 0 && (
           <section aria-labelledby="lessons">
             <h2 id="lessons" className="mb-3 text-lg font-semibold">
-              {node.children.length > 0 ? 'More notes' : 'Notes'}
+              {node.children.length > 0 ? 'More short notes' : 'Short Notes'}
             </h2>
             <Panel>
               <ol className="-my-2 flex flex-col">
@@ -196,8 +196,8 @@ export function LessonView({
  * material in sections, and "Monthly Current Affairs" with a monthly quiz.
  */
 const KIND_WORDS: Record<BookKind, { shelf: string; eyebrow: string; part: string; parts: string; wholeQuiz: string; partQuiz: string; icon: React.ReactNode }> = {
-  book: { shelf: 'Books', eyebrow: 'Book', part: 'chapter', parts: 'Chapters', wholeQuiz: 'Full book quiz', partQuiz: 'Take the chapter quiz', icon: <BookOpen /> },
-  topic: { shelf: 'Topics', eyebrow: 'Topic', part: 'section', parts: 'Sections', wholeQuiz: 'Full topic quiz', partQuiz: 'Take the section quiz', icon: <Layers /> },
+  book: { shelf: 'Book Summaries', eyebrow: 'Book Summary', part: 'chapter', parts: 'Chapters', wholeQuiz: 'Full book quiz', partQuiz: 'Take the chapter quiz', icon: <BookOpen /> },
+  topic: { shelf: 'Topic-wise Notes', eyebrow: 'Topic-wise Notes', part: 'section', parts: 'Sections', wholeQuiz: 'Full topic quiz', partQuiz: 'Take the section quiz', icon: <Layers /> },
   monthly: {
     shelf: 'Monthly Current Affairs',
     eyebrow: 'Monthly Current Affairs',
