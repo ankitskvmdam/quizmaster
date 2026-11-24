@@ -1,6 +1,6 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { getBookQuizScores, getChapterDetail, getCourse, getLessonBody } from '@/lib/queries/courses'
+import { getBookQuiz, getBookQuizScores, getChapterDetail, getCourse, getLessonBody } from '@/lib/queries/courses'
 import { resolvePath } from '@/lib/courses/tree'
 import { BookView, ChapterView, LessonView, NodeView } from '@/components/courses/views'
 
@@ -38,8 +38,8 @@ export default async function CoursePathPage({ params }: Props) {
       return <LessonView ctx={ctx} node={r.node} lesson={r.lesson} body={lesson.body_md} prev={r.prev} next={r.next} />
     }
     case 'book': {
-      const quizzes = await getBookQuizScores(r.book.chapters.map((c) => c.id))
-      return <BookView ctx={ctx} subject={r.subject} book={r.book} quizzes={quizzes} />
+      const [quizzes, wholeQuiz] = await Promise.all([getBookQuizScores(r.book.chapters.map((c) => c.id)), getBookQuiz(r.book.id)])
+      return <BookView ctx={ctx} subject={r.subject} book={r.book} quizzes={quizzes} wholeQuiz={wholeQuiz} />
     }
     case 'chapter': {
       const detail = await getChapterDetail(r.chapter.id)

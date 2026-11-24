@@ -91,7 +91,7 @@ async function readExisting(db: Db) {
       (f, t) =>
         db
           .from('tests')
-          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id, chapter_id, title_hi, exam_slug, paper_date, paper_label')
+          .select('id, slug, title, kind, subject_id, year, duration_sec, marks_correct, marks_wrong, published, published_at, ca_month_id, chapter_id, book_id, title_hi, exam_slug, paper_date, paper_label')
           .is('created_by', null)
           .not('slug', 'is', null)
           .order('id')
@@ -100,7 +100,7 @@ async function readExisting(db: Db) {
     ),
     selectAll(
       (f, t) =>
-        db.from('books').select('id, topic_id, slug, title, author, edition, description, position, published, published_at, title_hi, description_hi').order('id').range(f, t),
+        db.from('books').select('id, topic_id, slug, kind, title, author, edition, description, position, published, published_at, title_hi, description_hi').order('id').range(f, t),
       'read books',
     ),
     selectAll((f, t) => db.from('book_chapters').select('id, book_id, slug, number, title, gist_md, position, title_hi, gist_md_hi').order('id').range(f, t), 'read chapters'),
@@ -175,6 +175,7 @@ async function readExisting(db: Db) {
         subjectSlug: subjectSlug_,
         topicPath: path_,
         slug: b.slug,
+        kind: b.kind as BookItem['kind'],
         title: b.title,
         author: b.author,
         edition: b.edition,
@@ -267,6 +268,7 @@ async function readExisting(db: Db) {
         .map((tq) => questionSlug.get(tq.question_id)!),
       caMonthRef: t.ca_month_id ? (monthRef.get(t.ca_month_id) ?? null) : null,
       chapterRef: t.chapter_id ? (chapterRef.get(t.chapter_id) ?? null) : null,
+      bookRef: t.book_id ? (bookRef.get(t.book_id) ?? null) : null,
       examSlug: t.exam_slug,
       paperDate: t.paper_date,
       paperLabel: t.paper_label,
@@ -655,6 +657,7 @@ export async function pushContent(
             published_at: testPublishedAt.get(t.slug) ?? (t.published ? now : null),
             ca_month_id: t.caMonthRef ? monthId.get(t.caMonthRef)! : null,
             chapter_id: t.chapterRef ? chapterId.get(t.chapterRef)! : null,
+            book_id: t.bookRef ? bookId.get(t.bookRef)! : null,
             updated_at: now,
           })),
           { onConflict: 'slug' },

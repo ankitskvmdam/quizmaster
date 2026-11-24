@@ -179,6 +179,18 @@ nodes; tag the most specific nodes it really teaches.
 format above (aim for 5–10). It becomes a practice-only test (marks +1 / 0) with explanations shown as you go, and its
 questions also join practice for every node the chapter covers.
 
+### Whole-book quiz
+
+`quiz.yaml`, next to `book.yaml`, is optional: `questions: [<slug>, …]` lists question slugs from this book's own
+chapter quizzes, in order. It becomes one fixed practice quiz over the whole book. It has no translation file; its
+questions and title follow the book's.
+
+### Topics
+
+A topic is material written for one syllabus topic (e.g. Freedom Struggle) instead of a published book. It is stored
+exactly like a book, in `books/<slug>/`, with `kind: topic` in `book.yaml` (both languages). The app shows it on the
+subject's **Topics** shelf and calls its chapters "sections". `author` and `edition` are left out.
+
 ## Rules for AI-written content
 
 - Write only facts you can support from the source the owner gives you; put the source in `source` when it is a past

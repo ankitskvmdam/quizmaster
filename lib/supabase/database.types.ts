@@ -105,14 +105,14 @@ isOneToOne: false
                   ]
                 },"books": {
                   Row: {
-                    "author": string | null,"created_at": string,"description": string,"description_hi": string | null,"edition": string | null,"id": string,"position": number,"published": boolean,"published_at": string | null,"slug": string,"title": string,"title_hi": string | null,"topic_id": string,"updated_at": string
+                    "author": string | null,"created_at": string,"description": string,"description_hi": string | null,"edition": string | null,"id": string,"kind": string,"position": number,"published": boolean,"published_at": string | null,"slug": string,"title": string,"title_hi": string | null,"topic_id": string,"updated_at": string
                   }
                   ComputedFields: never
                   Insert: {
-                    "author"?: string | null,"created_at"?: string,"description"?: string,"description_hi"?: string | null,"edition"?: string | null,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug": string,"title": string,"title_hi"?: string | null,"topic_id": string,"updated_at"?: string
+                    "author"?: string | null,"created_at"?: string,"description"?: string,"description_hi"?: string | null,"edition"?: string | null,"id"?: string,"kind"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug": string,"title": string,"title_hi"?: string | null,"topic_id": string,"updated_at"?: string
                   }
                   Update: {
-                    "author"?: string | null,"created_at"?: string,"description"?: string,"description_hi"?: string | null,"edition"?: string | null,"id"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string,"title"?: string,"title_hi"?: string | null,"topic_id"?: string,"updated_at"?: string
+                    "author"?: string | null,"created_at"?: string,"description"?: string,"description_hi"?: string | null,"edition"?: string | null,"id"?: string,"kind"?: string,"position"?: number,"published"?: boolean,"published_at"?: string | null,"slug"?: string,"title"?: string,"title_hi"?: string | null,"topic_id"?: string,"updated_at"?: string
                   }
                   Relationships: [
                     {
@@ -429,17 +429,23 @@ isOneToOne: false
                   ]
                 },"tests": {
                   Row: {
-                    "ca_month_id": string | null,"chapter_id": string | null,"created_at": string,"created_by": string | null,"duration_sec": number | null,"exam_slug": string | null,"id": string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct": number,"marks_wrong": number,"paper_date": string | null,"paper_label": string | null,"published": boolean,"published_at": string | null,"slug": string | null,"subject_id": string | null,"title": string,"title_hi": string | null,"updated_at": string,"year": number | null
+                    "book_id": string | null,"ca_month_id": string | null,"chapter_id": string | null,"created_at": string,"created_by": string | null,"duration_sec": number | null,"exam_slug": string | null,"id": string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct": number,"marks_wrong": number,"paper_date": string | null,"paper_label": string | null,"published": boolean,"published_at": string | null,"slug": string | null,"subject_id": string | null,"title": string,"title_hi": string | null,"updated_at": string,"year": number | null
                   }
                   ComputedFields: never
                   Insert: {
-                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"exam_slug"?: string | null,"id"?: string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"paper_date"?: string | null,"paper_label"?: string | null,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title": string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
+                    "book_id"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"exam_slug"?: string | null,"id"?: string,"kind": Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"paper_date"?: string | null,"paper_label"?: string | null,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title": string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
                   }
                   Update: {
-                    "ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"exam_slug"?: string | null,"id"?: string,"kind"?: Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"paper_date"?: string | null,"paper_label"?: string | null,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title"?: string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
+                    "book_id"?: string | null,"ca_month_id"?: string | null,"chapter_id"?: string | null,"created_at"?: string,"created_by"?: string | null,"duration_sec"?: number | null,"exam_slug"?: string | null,"id"?: string,"kind"?: Database["public"]['Enums']["test_kind"],"marks_correct"?: number,"marks_wrong"?: number,"paper_date"?: string | null,"paper_label"?: string | null,"published"?: boolean,"published_at"?: string | null,"slug"?: string | null,"subject_id"?: string | null,"title"?: string,"title_hi"?: string | null,"updated_at"?: string,"year"?: number | null
                   }
                   Relationships: [
                     {
+      foreignKeyName: "tests_book_id_fkey"
+      columns: ["book_id"]
+isOneToOne: false
+      referencedRelation: "books"
+      referencedColumns: ["id"]
+    },{
       foreignKeyName: "tests_ca_month_id_fkey"
       columns: ["ca_month_id"]
 isOneToOne: false

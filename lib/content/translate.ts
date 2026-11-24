@@ -12,7 +12,7 @@ export type Source =
   | { kind: 'course'; item: SubjectItem }
   | { kind: 'topic'; item: TopicItem }
   | { kind: 'lesson'; item: LessonItem }
-  | { kind: 'book'; item: BookItem }
+  | { kind: 'book'; item: BookItem; quiz: TestItem | null }
   | { kind: 'chapter'; item: ChapterItem; quiz: TestItem | null }
   | { kind: 'questions' }
   | { kind: 'test'; item: TestItem }
@@ -156,9 +156,10 @@ export async function applyTranslations(
       }
       case 'book': {
         const b = parse(bookFile, yaml())
-        if (!b || !same('', [['position', b.position, src.item.position], ['published', b.published, src.item.published]])) break
+        if (!b || !same('', [['kind', b.kind, src.item.kind], ['position', b.position, src.item.position], ['published', b.published, src.item.published]])) break
         src.item.title_hi = b.title
         src.item.description_hi = b.description || null
+        if (src.quiz) src.quiz.title_hi = `${b.title} ${QUIZ_SUFFIX_HI}`
         break
       }
       case 'chapter': {

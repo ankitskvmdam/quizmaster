@@ -11,6 +11,7 @@ import {
   caQuestionsFile,
   caTestFile,
   bookFile,
+  bookQuizFile,
   chapterFrontmatter,
   examFile,
   paperFile,
@@ -53,6 +54,7 @@ export type BookItem = {
   subjectSlug: string
   topicPath: string // the subject node the book sits on, e.g. "history"
   slug: string
+  kind: 'book' | 'topic'
   title: string
   author: string | null
   edition: string | null
@@ -121,6 +123,7 @@ export type TestItem = {
   questionSlugs: string[]
   caMonthRef: string | null // set for a month's fixed paper
   chapterRef: string | null // set for a chapter's quiz
+  bookRef: string | null // set for the quiz over a whole book or topic
   examSlug: string | null // set for a previous-year paper
   paperDate: string | null
   paperLabel: string | null
@@ -324,6 +327,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           questionSlugs: t.questions,
           caMonthRef: monthRef,
           chapterRef: null,
+          bookRef: null,
           examSlug: null,
           paperDate: null,
           paperLabel: null,
@@ -428,6 +432,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           subjectSlug: subject!.slug,
           topicPath: subjectPath,
           slug: bookSlug,
+          kind: book.kind,
           title: book.title,
           author: book.author ?? null,
           edition: book.edition ?? null,
@@ -436,8 +441,10 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           published: book.published,
         }
         bundle.books.push(bookItem)
-        sources.set(rel(bFile), { kind: 'book', item: bookItem })
+        const bookSource: Source = { kind: 'book', item: bookItem, quiz: null }
+        sources.set(rel(bFile), bookSource)
         const bookRef = `${subject!.slug}/${subjectPath}/${bookSlug}`
+        const ownQuestions = new Set<string>()
         const numbers = new Map<number, string>()
         const names = await files(bDir)
         for (const name of names.filter((n) => n.endsWith('.md'))) {
@@ -473,7 +480,10 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             const qf = path.join(bDir, quizName)
             const chapterRef = `${bookRef}/${fm.slug}`
             const qs = check(questionsFile, await readYaml(qf), rel(qf)) ?? []
-            for (const q of qs) addQuestion(q, { topicRef: null, caMonthRef: null, categorySlug: null, chapterRef, paperRef: null }, rel(qf))
+            for (const q of qs) {
+              addQuestion(q, { topicRef: null, caMonthRef: null, categorySlug: null, chapterRef, paperRef: null }, rel(qf))
+              ownQuestions.add(q.slug)
+            }
             sources.set(rel(qf), { kind: 'questions' })
             if (qs.length) {
               const slug = `book-${subjectPath.replace(/\//g, '-')}-${bookSlug}-${fm.slug}`
@@ -496,12 +506,51 @@ export async function loadContent(root: string): Promise<ContentBundle> {
                 questionSlugs: qs.map((q) => q.slug),
                 caMonthRef: null,
                 chapterRef,
+                bookRef: null,
                 examSlug: null,
                 paperDate: null,
                 paperLabel: null,
               }
               bundle.tests.push(quiz)
               chapterSource.quiz = quiz
+            }
+          }
+        }
+
+        // quiz.yaml: one fixed quiz over the whole book, picked from its own chapter quiz questions.
+        if (names.includes('quiz.yaml')) {
+          const qf = path.join(bDir, 'quiz.yaml')
+          const file = check(bookQuizFile, await readYaml(qf), rel(qf))
+          sources.set(rel(qf), { kind: 'questions' })
+          if (file) {
+            const slug = `book-${subjectPath.split('/').join('-')}-${bookSlug}`
+            const foreign = file.questions.filter((q) => !ownQuestions.has(q))
+            const repeated = file.questions.find((q, i) => file.questions.indexOf(q) !== i)
+            if (foreign.length) issues.push({ file: rel(qf), message: `not in this book's chapter quizzes: ${foreign.slice(0, 5).join(', ')}` })
+            else if (repeated) issues.push({ file: rel(qf), message: `"${repeated}" is listed more than once` })
+            else if (testSlugs.has(slug)) issues.push({ file: rel(qf), message: `${slug}: duplicate test slug; rename the book` })
+            else {
+              testSlugs.add(slug)
+              const quiz: TestItem = {
+                slug,
+                title: `${book.title} quiz`,
+                kind: 'chapter',
+                subjectSlug: subject!.slug,
+                year: null,
+                durationSec: null,
+                marksCorrect: 1,
+                marksWrong: 0,
+                published: book.published,
+                questionSlugs: file.questions,
+                caMonthRef: null,
+                chapterRef: null,
+                bookRef,
+                examSlug: null,
+                paperDate: null,
+                paperLabel: null,
+              }
+              bundle.tests.push(quiz)
+              bookSource.quiz = quiz
             }
           }
         }
@@ -574,6 +623,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
       questionSlugs,
       caMonthRef: null,
       chapterRef: null,
+      bookRef: null,
       examSlug: null,
       paperDate: null,
       paperLabel: null,
@@ -641,6 +691,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
           questionSlugs,
           caMonthRef: null,
           chapterRef: null,
+          bookRef: null,
           examSlug: exam.slug,
           paperDate: paper.date,
           paperLabel: paper.label,

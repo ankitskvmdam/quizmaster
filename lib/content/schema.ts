@@ -164,6 +164,8 @@ export const caTestFile = z
 // ---------------------------------------------------------------------------
 export const bookFile = z
   .object({
+    /** "topic": written for one syllabus topic (shown on the Topics shelf, chapters called sections) rather than a published book. */
+    kind: z.enum(['book', 'topic']).default('book'),
     title: z.string().min(1),
     author: z.string().optional(),
     edition: text.optional(),
@@ -182,3 +184,6 @@ export const chapterFrontmatter = z
     covers: z.array(z.string().regex(/^[a-z0-9-]+(\/[a-z0-9-]+)*$/, 'must be a path like ancient/india')).min(1),
   })
   .strict()
+
+/** books/<book>/quiz.yaml: one fixed quiz over the whole book or topic, picked from its chapter quiz questions. */
+export const bookQuizFile = z.object({ questions: z.array(slug).min(1) }).strict()
