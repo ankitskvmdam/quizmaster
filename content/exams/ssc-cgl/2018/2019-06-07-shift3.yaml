@@ -2,7 +2,7 @@ slug: 2019-06-07-shift3
 title: SSC CGL 2018 Tier 1
 date: 2019-06-07
 label: 7 Jun, Shift 3
-source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132639/SSC-CGL-QUESTION-PAPER-07-June-2019-Shift-3-En). Left out (picture-only options or incomplete in the source): Q4, Q5, Q6, Q13, Q23."
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132639/SSC-CGL-QUESTION-PAPER-07-June-2019-Shift-3-En). Left out (picture-only options or incomplete in the source): Q4, Q5, Q6, Q13, Q15, Q23."
 questions:
   - slug: cgl-2019-06-07-s3-q001
     difficulty: medium
@@ -121,11 +121,11 @@ questions:
     stem: |-
       Arrange the following words in a logical and meaningful order.
 
-      1. Doctor
-      2. Recovery
-      3. Hospital
-      4. Home
-      5. Sickness
+      1. Doctor  
+      2. Recovery  
+      3. Hospital  
+      4. Home  
+      5. Sickness  
       6. Medicine store
     options:
       A: 1, 5, 3, 6, 4, 2
@@ -149,21 +149,6 @@ questions:
       D: (21, 26, 32)
     answer: B
     explanation: (11, 16, 20) goes +5, +4. Only (15, 20, 24) follows the same steps.
-    tags:
-      - reasoning
-  - slug: cgl-2019-06-07-s3-q015
-    difficulty: medium
-    stem: |-
-      Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth term is related to the third term.
-
-      6472 : 25 :: 7343 : 41 :: 6582 : ?
-    options:
-      A: "14"
-      B: "16"
-      C: "18"
-      D: "13"
-    answer: B
-    explanation: "SSC gives 16. One rule that fits the first two pairs is (1st digit)² − (2nd digit)² + (3rd − 4th digit): 36 − 16 + 5 = 25 and 49 − 9 + 1 = 41."
     tags:
       - reasoning
   - slug: cgl-2019-06-07-s3-q016
@@ -998,7 +983,7 @@ questions:
     stem: |-
       Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
 
-      Let us not neglect important aspects of life <u>although pursue momentary pleasures.</u>
+      Let us not neglect important aspects of life **although pursue momentary pleasures.**
     options:
       A: by pursued moment pleasures.
       B: through pursued in momentary pleasures.
@@ -1013,7 +998,7 @@ questions:
     stem: |-
       Select the most appropriate meaning of the underlined idiom in the given sentence.
 
-      He <u>kicked up a row</u> when he was denied entry to the amusement park.
+      He **kicked up a row** when he was denied entry to the amusement park.
     options:
       A: cried with sorrow
       B: waited in a queue
@@ -1124,7 +1109,7 @@ questions:
     stem: |-
       Select the most appropriate meaning of the underlined idiom in the given sentence.
 
-      The heavy losses in business came like a <u>bolt from the blue</u>.
+      The heavy losses in business came like a **bolt from the blue**.
     options:
       A: a thunderstorm
       B: an unexpected disaster
@@ -1317,7 +1302,7 @@ questions:
     stem: |-
       Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
 
-      We must endeavour to increase women's <u>access for education also employment</u>.
+      We must endeavour to increase women's **access for education also employment**.
     options:
       A: access in education also employment
       B: excess to education or employment

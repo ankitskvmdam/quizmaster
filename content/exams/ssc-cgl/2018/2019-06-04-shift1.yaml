@@ -87,10 +87,10 @@ questions:
     stem: |-
       Arrange the following words in a logical and meaningful order.
 
-      1. Buy
-      2. Dinner
-      3. Market
-      4. Vegetables
+      1. Buy  
+      2. Dinner  
+      3. Market  
+      4. Vegetables  
       5. Cook
     options:
       A: 1, 4, 5, 3, 2
@@ -147,13 +147,13 @@ questions:
 
       **Statements:**
 
-      All rulers are machines.
+      All rulers are machines.  
       Some machines are costly items.
 
       **Conclusions:**
 
-      I. Some rulers are costly items.
-      II. Some costly items are machines.
+      I. Some rulers are costly items.  
+      II. Some costly items are machines.  
       III. All costly items are machines.
     options:
       A: Both conclusions II and III follow
@@ -1189,7 +1189,7 @@ questions:
     stem: |-
       Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
 
-      If you park your car here, the traffic police <u>has fined you.</u>
+      If you park your car here, the traffic police **has fined you.**
     options:
       A: will fine you
       B: No improvement
@@ -1204,9 +1204,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Select the option that gives their correct order.
 
-      A. The cafe's owner says he's interested in conservation, and hopes customers will realise the animals are worth saving, even though they often have a bad reputation.
-      B. None of them are venomous, meaning customers can get up close and personal with the reptiles.
-      C. Here you sip your drink in the company of 35 snakes.
+      A. The cafe's owner says he's interested in conservation, and hopes customers will realise the animals are worth saving, even though they often have a bad reputation.  
+      B. None of them are venomous, meaning customers can get up close and personal with the reptiles.  
+      C. Here you sip your drink in the company of 35 snakes.  
       D. This cafe, which has just opened in Tokyo, is not for the faint-hearted.
     options:
       A: DBCA
@@ -1222,9 +1222,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Select the option that gives their correct order.
 
-      A. An environmental group performed a necropsy on the animal and found about 40 kilograms of plastic, including grocery bags and rice sacks.
-      B. A 4.7-metre long whale died on Saturday in Phillipines where it was stranded a day earlier.
-      C. "It's very disgusting and heartbreaking," he said. "We've done necropsies on 61 dolphins and whales in the last 10 years and this is one of the biggest amounts of plastic we've seen."
+      A. An environmental group performed a necropsy on the animal and found about 40 kilograms of plastic, including grocery bags and rice sacks.  
+      B. A 4.7-metre long whale died on Saturday in Phillipines where it was stranded a day earlier.  
+      C. "It's very disgusting and heartbreaking," he said. "We've done necropsies on 61 dolphins and whales in the last 10 years and this is one of the biggest amounts of plastic we've seen."  
       D. "The animal died from starvation and was unable to eat because of the trash filling its stomach," said Darrell Blatchley, Director of D' Bone Collector Museum Inc..
     options:
       A: ABCD

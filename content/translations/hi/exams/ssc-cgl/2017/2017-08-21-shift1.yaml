@@ -2,7 +2,7 @@ slug: 2017-08-21-shift1
 title: एसएससी सीजीएल 2017 टियर 1
 date: 2017-08-21
 label: 21 Aug, Shift 1
-source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/17030a92-9e92-11e9-9913-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24."
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/17030a92-9e92-11e9-9913-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24, Q64."
 questions:
   - slug: cgl-2017-08-21-s1-q001
     difficulty: medium
@@ -168,10 +168,10 @@ questions:
     stem: |-
       प्रश्न में दो कथन दिये गये हैं जिसके आगे दो निष्कर्ष I और II निकाले गये हैं। आपको मानना है कि दोनो कथन सत्य है चाहे वह सामान्यत: ज्ञात तथ्यों से भिन्न प्रतीत होते हों। आपको निर्णय करना है कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निश्चित रूप से कथन द्वारा सही निकाला जा सकता है/सकते हैं, यदि कोई हो।
 
-      कथन 1: सभी स्टील लोहा है।
+      कथन 1: सभी स्टील लोहा है।  
       कथन 2: कोई लोहा ठोस नहीं है।
 
-      निष्कर्ष I : कोई स्टील ठोस नहीं है।
+      निष्कर्ष I : कोई स्टील ठोस नहीं है।  
       निष्कर्ष II : कुछ लोहा स्टील है।
     options:
       A: केवल निष्कर्ष I सही है
@@ -501,8 +501,8 @@ questions:
     stem: |-
       निचे दिये गये कथनों में से कौन से कथन सही हैं?
 
-      1. उपन्यास 'एक्सलेरांडो' के लेखक चार्ल्स स्ट्रोस हैं।
-      2. उपन्यास 'द वाइंडअप गर्ल' के लेखक पाओलो बैकीगलुपी हैं।
+      1. उपन्यास 'एक्सलेरांडो' के लेखक चार्ल्स स्ट्रोस हैं।  
+      2. उपन्यास 'द वाइंडअप गर्ल' के लेखक पाओलो बैकीगलुपी हैं।  
       3. उपन्यास 'द डेविल इन सिल्वर' के लेखक जोश मलेर्मन हैं।
     options:
       A: 1 और 2

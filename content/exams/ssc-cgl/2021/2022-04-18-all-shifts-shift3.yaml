@@ -1,0 +1,1386 @@
+slug: 2022-04-18-all-shifts-shift3
+title: SSC CGL 2021 Tier 1
+date: 2022-04-18
+label: 18 Apr, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b6727296-db03-11ed-85de-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q6, Q11, Q17, Q25."
+questions:
+  - slug: cgl-2022-04-18-all-ss-shift3-q001
+    difficulty: medium
+    stem: What would be the ratio of the areas of two circles, i.e. Circle-A and Circle-B, the radius of which are 4 cm and 8 cm, respectively?
+    options:
+      A: "1 : 2"
+      B: "1 : 16"
+      C: "1 : 8"
+      D: "1 : 4"
+    answer: D
+    explanation: "Area ∝ r², so the ratio is 4² : 8² = 16 : 64 = 1 : 4."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q002
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Likelihood  
+      2. Likenesses  
+      3. Likewise  
+      4. Likens  
+      5. Likeliest
+    options:
+      A: 5, 1, 2, 4, 3
+      B: 5, 1, 2, 3, 4
+      C: 1, 4, 2, 3, 5
+      D: 5, 1, 4, 2, 3
+    answer: A
+    explanation: "Likeli-e-st comes before Likeli-h-ood, and Likene-s-ses before Liken-s, with Likewise last: 5, 1, 2, 4, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q003
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      PRACTISE : ACEIPRST :: TECHNOLOGY : ?
+    options:
+      A: HCETONYGLO
+      B: CEGHLNOPTY
+      C: CEGHLNOOTY
+      D: CEGLHOONTY
+    answer: C
+    explanation: "The letters are rearranged in alphabetical order: PRACTISE → ACEIPRST. TECHNOLOGY → CEGHLNOOTY."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q004
+    difficulty: medium
+    stem: Anamika, Gopal, Nischal, Vanmayi, Shresta and Sripad are sitting in a straight line facing the north. Nischal is to the immediate left of Gopal. Shresta is between Anamika and Sripad. Sripad is at the second place from the right end. Four persons are sitting between Nischal and Vanmayi. If Gopal and Sripad interchange their positions, then who will be sitting between Vanmayi and Shresta?
+    options:
+      A: Anamika
+      B: Gopal
+      C: Sripad
+      D: Nischal
+    answer: B
+    explanation: "From the left: Nischal, Gopal, Anamika, Shresta, Sripad, Vanmayi. After Gopal and Sripad swap, Gopal sits between Shresta and Vanmayi."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q005
+    difficulty: medium
+    stem: If 'sky' is called 'cloud', 'cloud' is called 'thunder', 'thunder' is called 'water', 'water' is called 'pot', 'pot' is called 'desert', and 'desert' is called 'sky', then where do fish live?
+    options:
+      A: cloud
+      B: pot
+      C: water
+      D: desert
+    answer: B
+    explanation: Fish live in water, and water is called ‘pot’.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q007
+    difficulty: medium
+    stem: At the time of sunset, Lopa and Kritika are sitting facing each other. If the shadow of Lopa falls to the right of Kritika, in which direction is Kritika facing?
+    options:
+      A: South
+      B: North
+      C: East
+      D: West
+    answer: B
+    explanation: At sunset the sun is in the west, so shadows fall to the east. Lopa’s shadow falls to Kritika’s right, so Kritika’s right is east and she faces north.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q008
+    difficulty: medium
+    stem: In a certain code language, ‘BHOPAL’ is coded as ‘6-24-45-48-3-36’, and ‘IMPHAL’ is coded as ‘27-39-48-24-3-36’. How will ‘KOHIMA’ be coded in that language?
+    options:
+      A: 22-30-27-24-39-6
+      B: 33-45-24-27-39-3
+      C: 33-30-24-18-39-9
+      D: 22-45-24-18-26-3
+    answer: B
+    explanation: Each letter is coded as 3 × its alphabet position (B = 6, H = 24). KOHIMA → 33-45-24-27-39-3.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q009
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      GKH, DNL, WQO, TTS, GWH, ?
+    options:
+      A: KYP
+      B: DZL
+      C: KZO
+      D: FYP
+    answer: B
+    explanation: "The middle letters go +3 (K, N, Q, T, W, Z), and the first and third letters repeat in a cycle of four: GWH repeats G_H, so next is D_L. The answer is DZL."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q010
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow from the statements.
+
+      Statements:  
+      Some lions are tigers.  
+      All tigers are leopards.  
+      All lions are animals.
+
+      Conclusions:  
+      I. Some animals are leopards.  
+      II. Some leopards are lions.  
+      III. Some animals are tigers.
+    options:
+      A: Only conclusions II and III follow.
+      B: Only conclusions I and III follow.
+      C: All conclusions I, II and III follow.
+      D: Only conclusions I and II follow.
+    answer: C
+    explanation: Some lions are tigers, who are all leopards, so some leopards are lions (II). Those lions are animals, so some animals are tigers (III) and leopards (I).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q012
+    difficulty: medium
+    stem: |-
+      In the following Venn diagram, the hexagon stands for ‘captains’, the triangle stands for ‘girls’, the rectangle stands for ‘toppers’, and the circle stands for ‘social activists’. The given numbers represent the number of persons in that particular category.
+
+      How many girls are toppers and captains also?
+
+      *(Figure: Venn diagram of a triangle (girls), a horizontal rectangle (toppers), a circle (social activists) on the left and a hexagon (captains) on the right. Numbers: 6 in the triangle apex outside the rectangle; 9 in the rectangle only (top right); 15 in rectangle and circle only; 9 in rectangle, circle and triangle; 8 in rectangle, circle, triangle and hexagon; 5 in rectangle, triangle and hexagon; 18 in rectangle and hexagon only; 11 in circle only; 12 in circle and triangle; 7 in circle, triangle and hexagon; 10 in triangle and hexagon; 2 in hexagon only.)*
+    options:
+      A: "13"
+      B: "15"
+      C: "15"
+      D: "17"
+    answer: A
+    explanation: "Girls who are both toppers and captains are the regions common to the triangle, rectangle and hexagon: 8 + 5 = 13. Options B and C are both printed as 15, but this does not affect the answer."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q013
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and make the given equation correct.
+
+      63 * 90 * 42 * 230 * 46 * 3
+    options:
+      A: =, ×, +, ÷, −
+      B: +, ÷, −, =, ×
+      C: =, −, +, ÷, ×
+      D: ×, ÷, =, −, +
+    answer: C
+    explanation: 63 = 90 − 42 + 230 ÷ 46 × 3 = 90 − 42 + 15 = 63.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q014
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      d _ a _ b _ q d h _ a _ c q _ h _ a _ c q
+    options:
+      A: h a c a b d a b
+      B: h a b a b d a b
+      C: h a c a b d q b
+      D: h a q a b d a b
+    answer: A
+    explanation: Filling h a c a b d a b gives ‘dhaabcq’ repeated three times.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q015
+    difficulty: medium
+    stem: A cube of side 12 cm is painted green on all the faces and then cut into smaller cubes of sides 2 cm each. Find the number of smaller cubes that have only one face painted.
+    options:
+      A: "68"
+      B: "96"
+      C: "78"
+      D: "49"
+    answer: B
+    explanation: Each edge has 12 ÷ 2 = 6 small cubes. One-face cubes = 6 × (6 − 2)² = 96.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q016
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      578, 577, 568, 543, ?
+    options:
+      A: "528"
+      B: "518"
+      C: "532"
+      D: "494"
+    answer: D
+    explanation: The differences are −1, −9, −25 (odd squares), so next is 543 − 49 = 494.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q018
+    difficulty: medium
+    stem: |-
+      If ‘A’ denotes ‘addition’, ‘B’ denotes ‘multiplication’, ‘C’ denotes ‘subtraction’, and ‘D’ denotes ‘division’, then what will be the value of the following expression?
+
+      441 D 7 A 21 B 6 C (189 D 7) A (46 C 12)
+    options:
+      A: "158"
+      B: "169"
+      C: "196"
+      D: "185"
+    answer: C
+    explanation: 441 ÷ 7 + 21 × 6 − (189 ÷ 7) + (46 − 12) = 63 + 126 − 27 + 34 = 196.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q019
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number and the sixth number is related to the fifth number.
+
+      16 : 263 :: 18 : ? :: 22 : 491
+    options:
+      A: "317"
+      B: "361"
+      C: "331"
+      D: "340"
+    answer: C
+    explanation: "n² + 7: 16² + 7 = 263 and 22² + 7 = 491, so 18² + 7 = 331."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q020
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: FCHP
+      B: JGLS
+      C: WTYF
+      D: NKPW
+    answer: A
+    explanation: JGLS, WTYF and NKPW go −3, +5, +7. FCHP goes −3, +5, +8, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q021
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      2, 6, 10, 17, 52, 94, 472, ?
+    options:
+      A: "763"
+      B: "861"
+      C: "816"
+      D: "736"
+    answer: B
+    explanation: The differences are 4, 4, 7, 35, 42, 378. They follow ×1, +3, ×5, +7, ×9, so the next difference is +11 = 389, and 472 + 389 = 861.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q022
+    difficulty: medium
+    stem: In a certain code language ‘TEDIOUS’ is written as ‘HAMKWPY’. How will ‘PROFUSE’ be written in that language?
+    options:
+      A: IBSLVOY
+      B: AJLSOVY
+      C: IBLSNXY
+      D: BISLOYV
+    answer: A
+    explanation: Sort the letters alphabetically, then shift them +4, −4 in turn. TEDIOUS → DEIOSTU → HAMKWPY. PROFUSE → EFOPRSU → IBSLVOY.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q023
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      60 152 161  
+      14 18 17  
+      15 19 ?
+    options:
+      A: "23"
+      B: "13"
+      C: "19"
+      D: "7"
+    answer: A
+    explanation: "Top = (product of the middle number’s digits) × bottom: 1×4 × 15 = 60 and 1×8 × 19 = 152, so 161 = 1×7 × 23."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q024
+    difficulty: medium
+    stem: |-
+      Jahnavi is the sister of Taruni. Taruni is married to Dilip. Dilip is the father of Raghu. Manoj is the son of Hema. Taruni is the mother-in-law of Hema. Dilip has only one son and no daughter. Jahnavi is married to Barun. Lekha is the daughter of Barun.  
+      How is Jahnavi’s sister related to Manoj’s paternal grandfather?
+    options:
+      A: Sister
+      B: Wife
+      C: Mother-in-law
+      D: Mother
+    answer: B
+    explanation: Hema is Raghu’s wife, so Manoj’s paternal grandfather is Dilip. Jahnavi’s sister Taruni is Dilip’s wife.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift3-q026
+    difficulty: medium
+    stem: The 40th Amendment Act of 1976 was applied to which Article of the Constitution of India?
+    options:
+      A: "297"
+      B: "248"
+      C: "245"
+      D: "226"
+    answer: A
+    explanation: The 40th Amendment (1976) amended Article 297, vesting the resources of territorial waters, the continental shelf and the EEZ in the Union.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q027
+    difficulty: medium
+    stem: What is the study of the production and propagation of sound waves called?
+    options:
+      A: Optics
+      B: Photonics
+      C: Astrophysics
+      D: Acoustics
+    answer: D
+    explanation: Acoustics is the science of sound.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q028
+    difficulty: medium
+    stem: "Who among the following science fiction/ popular science writers wrote ‘2001 : A Space Odyssey’ and held the position of a Professor at the Physical Research Laboratory, Ahmedabad?"
+    options:
+      A: Isaac Asimov
+      B: Arthur C Clarke
+      C: Jules Verne
+      D: HG Wells
+    answer: B
+    explanation: "Arthur C. Clarke wrote ‘2001: A Space Odyssey’ and was the Vikram Sarabhai Professor at PRL, Ahmedabad."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q029
+    difficulty: medium
+    stem: India lost a large proportion of ______ growing area to Pakistan during partition.
+    options:
+      A: sunflower
+      B: jute
+      C: soyabean
+      D: cotton
+    answer: D
+    explanation: "NCERT (Class 12, India: People and Economy): ‘India lost a large proportion of cotton growing area to Pakistan during partition.’ (Much of the jute area also went to East Pakistan, but the stem quotes the cotton line.)"
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q030
+    difficulty: medium
+    stem: The First Amendment Act of the Constitution of India came up in ______.
+    options:
+      A: "1954"
+      B: "1951"
+      C: "1952"
+      D: "1953"
+    answer: B
+    explanation: The First Amendment Act was passed in 1951.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q031
+    difficulty: medium
+    stem: ‘Ashtadhyayi’, written by Sanskrit scholar Panini, is a book on ______.
+    options:
+      A: medicine
+      B: law
+      C: economy
+      D: grammar
+    answer: D
+    explanation: Panini’s Ashtadhyayi is the classic work on Sanskrit grammar.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q032
+    difficulty: medium
+    stem: As per Economic Survey of India 2020-21, India is expected to have a Current Account Surplus of ______ of GDP in FY21.
+    options:
+      A: 1%
+      B: 3%
+      C: 2%
+      D: 4%
+    answer: C
+    explanation: The Economic Survey 2020-21 expected a current account surplus of 2% of GDP in FY21.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q033
+    difficulty: medium
+    stem: Which of the following is a dance form that originated in Assam?
+    options:
+      A: Sattriya
+      B: Lavani
+      C: Gotipua
+      D: Chhau
+    answer: A
+    explanation: Sattriya was created by Srimanta Sankaradeva in Assam’s sattras. Lavani is from Maharashtra, Gotipua from Odisha and Chhau from the east.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q034
+    difficulty: medium
+    stem: Who among the following table tennis players won nine Senior National Championships as of April 2021?
+    options:
+      A: Soumyajit Ghosh
+      B: Sujay Ghorpade
+      C: Sathiyan Gnanasekaran
+      D: A Sharath Kamal
+    answer: D
+    explanation: Achanta Sharath Kamal won a record nine senior national titles (the 9th in 2019).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q035
+    difficulty: medium
+    stem: Which of the following is the study of insects and their relationship to humans, the environment, and other organisms?
+    options:
+      A: Ornithology
+      B: Entomology
+      C: Ethology
+      D: Mycology
+    answer: B
+    explanation: Entomology is the study of insects.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q036
+    difficulty: medium
+    stem: As per the press release dated September 2020 of the Government of India, what is the payment made by the Government of India at Minimum Support Price (MSP) rates in the last 6 years?
+    options:
+      A: ₹9 lakh crore
+      B: ₹7 lakh crore
+      C: ₹5 lakh crore
+      D: ₹3 lakh crore
+    answer: B
+    explanation: The September 2020 government release said about ₹7 lakh crore had been paid at MSP in the previous six years.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q037
+    difficulty: medium
+    stem: Which of the following belongs to the family of ‘Hominidae’?
+    options:
+      A: Mango
+      B: Housefly
+      C: Wheat
+      D: Man
+    answer: D
+    explanation: Humans belong to the family Hominidae, the great apes.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q038
+    difficulty: medium
+    stem: What is the atomic mass of oxygen (expressed in ‘u’)?
+    options:
+      A: "24"
+      B: "8"
+      C: "16"
+      D: "32"
+    answer: C
+    explanation: Oxygen’s atomic mass is 16 u.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q039
+    difficulty: medium
+    stem: In the year ______, Indira Gandhi, the then Prime Minister of India, issued special stamps titled ‘Wheat Revolution’ to usher in the Green Revolution.
+    options:
+      A: "1987"
+      B: "1975"
+      C: "1943"
+      D: "1968"
+    answer: D
+    explanation: Indira Gandhi released the ‘Wheat Revolution’ stamp in July 1968.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q040
+    difficulty: medium
+    stem: In October 2020, the Haryana Government launched a ______ under the Jal Jeevan Mission scheme.
+    options:
+      A: mobile app to test pH level in water
+      B: mobile water testing laboratory
+      C: training programme to test water salinity
+      D: household water testing kit
+    answer: B
+    explanation: In October 2020 Haryana launched mobile water-testing laboratories under the Jal Jeevan Mission.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q041
+    difficulty: medium
+    stem: Who among the following was the founder of the Indian Association for the Cultivation of Science?
+    options:
+      A: Ashutosh Mukhopadhyay
+      B: Mahendra Lal Sircar
+      C: Prafulla Chandra Roy
+      D: Jagadish Chandra Bose
+    answer: B
+    explanation: Mahendralal Sircar founded the IACS in Calcutta in 1876.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q042
+    difficulty: medium
+    stem: Who among the following is the author of the book ‘Mrs Funnybones’?
+    options:
+      A: Rekha
+      B: Juhi Chawla
+      C: Twinkle Khanna
+      D: Sonali Bendre
+    answer: C
+    explanation: ‘Mrs Funnybones’ is by Twinkle Khanna.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q043
+    difficulty: medium
+    stem: According to the 2011 Census of India, which of the following states has a population density of 17 persons per sq km?
+    options:
+      A: Assam
+      B: Nagaland
+      C: Arunachal Pradesh
+      D: Sikkim
+    answer: C
+    explanation: "Arunachal Pradesh had the lowest density in the 2011 Census: 17 persons per sq km."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q044
+    difficulty: medium
+    stem: How many protons are there in a lithium nucleus?
+    options:
+      A: "2"
+      B: "4"
+      C: "5"
+      D: "3"
+    answer: D
+    explanation: Lithium has atomic number 3, so it has 3 protons.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q045
+    difficulty: medium
+    stem: With reference to the administration of Delhi Sultanate, which of the following was the department of State Correspondence?
+    options:
+      A: Diwan-i-arz
+      B: Diwan-i-khairat
+      C: Diwan-i-risalt
+      D: Diwan-i-insha
+    answer: D
+    explanation: Diwan-i-Insha handled royal correspondence. Arz was the military department, Khairat charity and Risalat religious affairs.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q046
+    difficulty: medium
+    stem: Chandannagar was established as a French colony in 1673, obtaining permission from______ the then Nawab of Bengal, to establish a trading post on the right bank of the river Hooghly.
+    options:
+      A: Mansur Ali Khan
+      B: Murshid Quli Khan
+      C: Ibrahim Khan
+      D: Mir Zafar
+    answer: C
+    explanation: The French set up at Chandannagar with permission from Ibrahim Khan, Nawab (subahdar) of Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q047
+    difficulty: medium
+    stem: Which Article of the Constitution of India prohibits anyone from employing children below the age of fourteen in factories, mines, etc?
+    options:
+      A: "23"
+      B: "26"
+      C: "24"
+      D: "25"
+    answer: C
+    explanation: Article 24 bans the employment of children below 14 in factories, mines and other hazardous work.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q048
+    difficulty: medium
+    stem: The Open Hand Monument in Chandigarh was designed by ______.
+    options:
+      A: Matthew Nowicki
+      B: Maxwell Fry
+      C: Le Corbusier
+      D: Albert Mayer
+    answer: C
+    explanation: Le Corbusier, the planner of Chandigarh, designed the Open Hand Monument.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q049
+    difficulty: medium
+    stem: Who among the following became the first Indian woman to score 10,000 runs in international cricket across all formats in March 2021?
+    options:
+      A: Mithali Raj
+      B: Jhulan Goswami
+      C: Priya Punia
+      D: Taniya Bhatia
+    answer: A
+    explanation: In March 2021 Mithali Raj became the first Indian woman to reach 10,000 international runs.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q050
+    difficulty: medium
+    stem: Which of the following does NOT come under the category of Public Goods?
+    options:
+      A: Government administration
+      B: Food items
+      C: National defence
+      D: Roads
+    answer: B
+    explanation: Food items are private goods (rival and excludable). Defence, roads and administration are public goods.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift3-q051
+    difficulty: medium
+    stem: |-
+      Study the given histogram and answer the question that follows.
+
+      | Daily wages (in ₹) | Number of Workers |
+      |---|---|
+      | 400–450 | 30 |
+      | 450–500 | 45 |
+      | 500–550 | 65 |
+      | 550–600 | 60 |
+      | 600–650 | 55 |
+      | 650–700 | 35 |
+
+      The total number of workers whose daily wages are less than ₹500 is what percentage more than the total number of workers whose daily wages are ₹650 and above (correct to one decimal place)?
+
+      *(Figure: Histogram of Number of Workers (y-axis, 0–70) against Daily wages (in ₹) (x-axis, 400–700 in steps of 50); bar heights are given in the table.)*
+    options:
+      A: 111.8%
+      B: 110.5%
+      C: 101.2%
+      D: 114.3%
+    answer: D
+    explanation: "Below ₹500: 30 + 45 = 75; ₹650 and above: 35. (75 − 35)/35 = 114.3%."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q052
+    difficulty: medium
+    stem: If √x − 1/√x = √3, then what is the value of x⁴ + 1/x⁴?
+    options:
+      A: "531"
+      B: "7"
+      C: "623"
+      D: "527"
+    answer: D
+    explanation: Squaring gives x + 1/x − 2 = 3, so x + 1/x = 5. Then x² + 1/x² = 23 and x⁴ + 1/x⁴ = 23² − 2 = 527.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q053
+    difficulty: medium
+    stem: |-
+      If A = 10°, what is the value of:
+
+      [12 sin 3A + 5cos (5A − 5°)] / [9 sin (9A/2) − 4cos (5A + 10°)]?
+    options:
+      A: (6√2 + 5)/(9 − 2√2)
+      B: (6√2 − 5)/(9 − 2√2)
+      C: (9 − 2√2)/6√2 + 5)
+      D: (6√2 + 5)/(9 + 2√2)
+    answer: A
+    explanation: "With A = 10°: the numerator is 12 sin 30° + 5 cos 45° = 6 + 5/√2, and the denominator is 9 sin 45° − 4 cos 60° = 9/√2 − 2. The ratio is (6√2 + 5)/(9 − 2√2)."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q054
+    difficulty: medium
+    stem: The area of similar triangles PQR and MNT are 196 cm² and 169 cm² respectively. If the longest side of the larger ΔPQR be 28 cm then what is the length (in cm) of the longest side of the smaller Δ MNT?
+    options:
+      A: "26"
+      B: "24"
+      C: "25"
+      D: "27"
+    answer: A
+    explanation: The sides are in the ratio √(196/169) = 14/13, so the longest side of MNT is 28 × 13/14 = 26 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q055
+    difficulty: medium
+    stem: A circle with centre O has radius 15 cm. D is a point on the circle such that a 24 cm long chord AB is bisected by OD at point C. Find the length of CD (in cm).
+    options:
+      A: "9"
+      B: "6"
+      C: "4"
+      D: "10"
+    answer: B
+    explanation: OC = √(15² − 12²) = 9, so CD = 15 − 9 = 6 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q056
+    difficulty: medium
+    stem: "A shopkeeper earns a profit of 17% on selling a book at 10% discount on the printed price. If the cost price is ₹500, then the printed price (in ₹) is:"
+    options:
+      A: "615"
+      B: "750"
+      C: "585"
+      D: "650"
+    answer: D
+    explanation: SP = 500 × 1.17 = 585 = 90% of the printed price, so the printed price is ₹650.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q057
+    difficulty: medium
+    stem: AB is a diameter of a circle with centre O. The tangent at a point C on the circle and AB, when produced, meet at the point P. If ∠APC = 38°, then what is the measure of ∠PCB?
+    options:
+      A: 23°
+      B: 26°
+      C: 29°
+      D: 19°
+    answer: B
+    explanation: OC ⊥ PC, so ∠COB = 90° − 38° = 52°. In isosceles ΔOCB, ∠OCB = 64°, so ∠PCB = 90° − 64° = 26°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q058
+    difficulty: medium
+    stem: "A sum of ₹17,200 is lent out at simple interest in two parts for 2 years at 8% p.a. and 10% p.a., respectively. If the total interest received after 2 years is ₹3,008, then the money lent (in ₹) at the rate of 8% p.a. is:"
+    options:
+      A: 6,400
+      B: 9,200
+      C: 9,800
+      D: 10,800
+    answer: D
+    explanation: 0.16x + 0.20(17,200 − x) = 3,008 gives 0.04x = 432, so x = ₹10,800.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q059
+    difficulty: medium
+    stem: |-
+      If the volume of a sphere is 4,851 cm³ , then what is its diameter (in cm )?
+
+      (Take π = 22/7)
+    options:
+      A: "18"
+      B: "16"
+      C: "12"
+      D: "21"
+    answer: D
+    explanation: (4/3)(22/7)r³ = 4851 gives r³ = 1157.625, so r = 10.5 and d = 21 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q060
+    difficulty: medium
+    stem: From the top of a 195-m high cliff, the angles of depression of the top and bottom of a tower are 30° and 60°, respectively. Find the height of the tower (in m).
+    options:
+      A: 195√3
+      B: "195"
+      C: "130"
+      D: "65"
+    answer: C
+    explanation: Distance = 195/√3. The drop to the tower’s top is (195/√3) × (1/√3) = 65, so the tower is 195 − 65 = 130 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q061
+    difficulty: medium
+    stem: In an election between two candidates, 5% of the registered voters did not cast their vote. 10% of the votes were found to be either invalid or of NOTA. The winning candidate received 60% votes in his favour and won the election by 17271 votes. Find the number of registered voters.
+    options:
+      A: "90525"
+      B: "100000"
+      C: "101000"
+      D: "102500"
+    answer: C
+    explanation: Valid votes = 0.95 × 0.9 N = 0.855N. The 20% margin is 0.171N = 17,271, so N = 101,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q062
+    difficulty: medium
+    stem: A manufacturer who marks the price of an article at ₹1,800, sells it to a dealer at a discount of 15%. The dealer gets a further discount of 8% on his net payment for paying in cash. What amount (to the nearest rupee) does the dealer pay to the manufacturer?
+    options:
+      A: 1,500
+      B: 1,408
+      C: 1,530
+      D: 1,378
+    answer: B
+    explanation: 1800 × 0.85 × 0.92 = 1407.6 ≈ ₹1,408.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q063
+    difficulty: medium
+    stem: "The area of a cardboard (in cm²) needed to make a closed box of size 20 cm × 10 cm × 8 cm will be:"
+    options:
+      A: "880"
+      B: "690"
+      C: "750"
+      D: "960"
+    answer: A
+    explanation: 2(20×10 + 10×8 + 20×8) = 2 × 440 = 880 cm².
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q064
+    difficulty: medium
+    stem: |-
+      The given bar graph shows the income and expenditure (in crores ₹) of a company over 5 years, from 2014 to 2018.  
+      Study the bar graph and answer the question that follows.
+
+      Income and expenditure (in crores ₹) of a company over 5 years
+
+      | Years | Income | Expenditure |
+      |---|---|---|
+      | 2014 | 225 | 175 |
+      | 2015 | 280 | 250 |
+      | 2016 | 325 | 275 |
+      | 2017 | 350 | 300 |
+      | 2018 | 350 | 325 |
+
+      In which of the following years is the ratio of income to expenditure the minimum?
+
+      *(Figure: Clustered bar graph (Income in blue, Expenditure in red) for 2014–2018, y-axis 0–400; bar values are given in the table.)*
+    options:
+      A: "2017"
+      B: "2018"
+      C: "2014"
+      D: "2016"
+    answer: B
+    explanation: "Income ÷ expenditure: 1.29, 1.12, 1.18, 1.17, 1.08. 2018 (350/325) is the lowest."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q065
+    difficulty: medium
+    stem: Anup can row 33 km downstream and 35 km upstream in 8 hours. He can also row 44 km downstream and 28 km upstream in the same time. How much time (in hours) will he take to row 55 km downstream and 14 km upstream?
+    options:
+      A: "9"
+      B: "6"
+      C: "8"
+      D: "7"
+    answer: D
+    explanation: Solving 33/d + 35/u = 8 and 44/d + 28/u = 8 gives d = 11 and u = 7 km/h. Time = 55/11 + 14/7 = 7 h.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q066
+    difficulty: medium
+    stem: |-
+      Find the value of the following expression:
+
+      (3 ÷ 1 × 2 + 5 − 2) / (3 × 3 − 2)
+    options:
+      A: 9/7
+      B: 19/3
+      C: 4/7
+      D: 4/3
+    answer: A
+    explanation: Numerator 3 ÷ 1 × 2 + 5 − 2 = 9; denominator 9 − 2 = 7. Value 9/7.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q067
+    difficulty: medium
+    stem: |-
+      The bar graph shows the number of people who visited Mall A and Mall B on different days of a week.
+
+      The bar graph showing the number of people who visited Mall A and Mall B on different days of the week.
+
+      | DAYS | Mall A | Mall B |
+      |---|---|---|
+      | Monday | 560 | 430 |
+      | Tuesday | 700 | 700 |
+      | Wednesday | 680 | 820 |
+      | Thursday | 460 | 750 |
+      | Friday | 840 | 320 |
+      | Saturday | 1280 | 1100 |
+      | Sunday | 1500 | 1350 |
+
+      The total number of people visiting Mall A on Monday, Tuesday, Friday and Sunday is what percentage of the total number of people visiting Mall B on Tuesday, Thursday, Saturday and Sunday? Express your answer correct to one place of decimal.
+
+      *(Figure: Clustered bar graph (Mall A green, Mall B blue) of Number of people visiting the Malls (y-axis 0–1600) for Monday to Sunday; bar values are given in the table.)*
+    options:
+      A: 86.5%
+      B: 92.3%
+      C: 95.7%
+      D: 82.4%
+    answer: B
+    explanation: Mall A (Mon, Tue, Fri, Sun) = 3600; Mall B (Tue, Thu, Sat, Sun) = 3900. 3600/3900 = 92.3%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q068
+    difficulty: medium
+    stem: If 2 sin² θ + 3 cosθ = 3, 0° < θ < 90°, then the value of ( sec² θ + cot² θ ) is
+    options:
+      A: 3⅔
+      B: 3⅓
+      C: 4⅓
+      D: 4½
+    answer: C
+    explanation: 2cos²θ − 3cos θ + 1 = 0 gives cos θ = 1/2, so θ = 60°. Then sec²θ + cot²θ = 4 + 1/3 = 4⅓.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q069
+    difficulty: medium
+    stem: |-
+      Monthly expenditure of a family on different heads is shown in the following pie chart. The family earns ₹1,08,000 every month.  
+      How much (in ₹) does the family spend on food and transport?
+
+      Expenditure on different Heads
+
+      | Head | Angle |
+      |---|---|
+      | Rent | 60° |
+      | Children Education | 70° |
+      | Food | 65° |
+      | Transport | 50° |
+      | Saving | 40° |
+      | Misc Expenses | 75° |
+
+      *(Figure: Pie chart ‘Expenditure on different Heads’ with sector angles as given in the table.)*
+    options:
+      A: 34,000
+      B: 35,250
+      C: 34,800
+      D: 34,500
+    answer: D
+    explanation: Food + transport = 115°, and 115/360 × 1,08,000 = ₹34,500.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q070
+    difficulty: medium
+    stem: LCM of two numbers is 22 times their HCF. If one of the numbers is 132 and the sum of LCM and HCF is 276, then what is the other number?
+    options:
+      A: "24"
+      B: "30"
+      C: "25"
+      D: "20"
+    answer: A
+    explanation: 22H + H = 276, so H = 12 and L = 264. The other number = 12 × 264 ÷ 132 = 24.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q071
+    difficulty: medium
+    stem: The average of a set of 18 consecutive integers is 22.5. What is the largest integer in the set?
+    options:
+      A: "14"
+      B: "13"
+      C: "31"
+      D: "17"
+    answer: C
+    explanation: The 18 integers are centred on 22.5, so they run from 14 to 31.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q072
+    difficulty: medium
+    stem: A number ‘n’ when divided by 6 leaves remainder 2. What will be the remainder when (n² + n + 2) is divided by 6?
+    options:
+      A: "4"
+      B: "6"
+      C: "0"
+      D: "2"
+    answer: D
+    explanation: n ≡ 2 (mod 6), so n² + n + 2 ≡ 4 + 2 + 2 = 8 ≡ 2.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q073
+    difficulty: medium
+    stem: A can do a certain work in 15 days, while B can do the same work in 21 days. If they work together, then in how many days will the same work be completed?
+    options:
+      A: 7¾
+      B: 9¾
+      C: 6¾
+      D: 8¾
+    answer: D
+    explanation: 15 × 21 ÷ (15 + 21) = 315/36 = 8¾ days.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q074
+    difficulty: medium
+    stem: In Δ PQR, S is a point on the side QR such that PS is the bisector of ∠QPR. If PQ = 12 cm, QS = 3 cm and QR = 7 cm, then what is the length of side PR?
+    options:
+      A: 18 cm
+      B: 14 cm
+      C: 15 cm
+      D: 16 cm
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests D.
+
+      By the angle-bisector theorem, QS : SR = PQ : PR. SR = 4, so PR = 12 × 4/3 = 16 cm. SSC’s key gives 18 cm, which does not fit the data.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q075
+    difficulty: medium
+    stem: "Three years ago, the ratio of the age of father to that of his son was 8 : 3. After 4 years, their ages will be in the ratio 11 : 5. What is the present age (in years) of the father?"
+    options:
+      A: "52"
+      B: "51"
+      C: "48"
+      D: "55"
+    answer: B
+    explanation: "(F − 3) : (S − 3) = 8 : 3, so F = 3 + 8k and S = 3 + 3k. Then 5(7 + 8k) = 11(7 + 3k) gives k = 6, so F = 51."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift3-q076
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Unfairly take something belonging to another for one’s use
+    options:
+      A: Misconstrue
+      B: Misinterpret
+      C: Misappropriate
+      D: Misapprehend
+    answer: C
+    explanation: To misappropriate is to take something dishonestly for one’s own use.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      All the buses leaving between 10 p.m. and 5 a.m. **has been cancelled.**
+    options:
+      A: No substitution required
+      B: were been cancelled
+      C: were cancelled
+      D: being cancelled
+    answer: C
+    explanation: "The plural subject ‘All the buses’ needs a plural verb: were cancelled."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      sober
+    options:
+      A: straight
+      B: calm
+      C: drunk
+      D: unwell
+    answer: C
+    explanation: The opposite of sober is drunk.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q079
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Aarav’s mother / speaks four languages / fluently.
+    options:
+      A: fluently
+      B: Aarav’s mother
+      C: speaks four languages
+      D: No error
+    answer: D
+    explanation: The sentence is correct.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q080
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into segments. One of them may contain an error. Identify the segment that contains a grammatical error. If you don’t find any error, mark ‘No error’ as your answer.
+
+      I had all / the comforts to life / in my childhood.
+    options:
+      A: No error
+      B: the comforts to life
+      C: I had all
+      D: in my childhood
+    answer: B
+    explanation: The phrase is ‘the comforts of life’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q081
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Most lizards rely on camouflage to hide from their enemies.
+    options:
+      A: Camouflage has been relied on by most lizards to hide from their enemies.
+      B: Camouflage is relied on by most lizards to hide from their enemies.
+      C: Camouflage was relied on by most lizards to hide from their enemies.
+      D: Most lizards are being relied on by camouflage to hide from their enemies.
+    answer: B
+    explanation: "Simple present passive: is + past participle: Camouflage is relied on by most lizards …"
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q082
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A problem that is so difficult that it cannot be answered
+    options:
+      A: Impossible
+      B: Insoluble
+      C: Terrible
+      D: Solvable
+    answer: B
+    explanation: An insoluble problem cannot be solved.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q083
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. It coincided with the 140th birth anniversary of Sardar Vallabhbhai Patel.  
+      B. Through this innovative measure, the knowledge of the traditions and culture of different states is being shared.  
+      C. The initiative ‘Ek Bharat Shreshtha Bharat’ was launched by the Honourable Prime Minister on 31st October 2015.  
+      D. This will lead to an enhanced bonding and national integration.
+    options:
+      A: CBDA
+      B: ADBC
+      C: ABCD
+      D: CABD
+    answer: D
+    explanation: "C introduces the launch, A notes the date link, B explains the measure and D gives the result: CABD."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      What would / happen if / human beings were / govern by robots?
+    options:
+      A: happen if
+      B: What would
+      C: govern by robots
+      D: human beings were
+    answer: C
+    explanation: "The passive needs the past participle: were governed by robots."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      To fight shy of
+    options:
+      A: To overcome one’s weakness
+      B: To try to avoid something
+      C: To attack without warning
+      D: To struggle hard
+    answer: B
+    explanation: To fight shy of something is to avoid it.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The teacher kept stopping her online lesson ______ to check if her students were following it.
+    options:
+      A: occasionally
+      B: indifferently
+      C: impartially
+      D: unresponsively
+    answer: A
+    explanation: She stopped now and then, occasionally, to check on her students.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Amass
+    options:
+      A: Gather
+      B: Spread
+      C: Divide
+      D: Scatter
+    answer: A
+    explanation: To amass is to gather or collect.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Authentic
+    options:
+      A: Incredible
+      B: Meagre
+      C: Genuine
+      D: Notorious
+    answer: A
+    explanation: Authentic means genuine or credible; among the options, ‘incredible’ (unbelievable) is the closest opposite.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Relay
+    options:
+      A: Send
+      B: Pass
+      C: Spread
+      D: Hold
+    answer: D
+    explanation: To relay is to pass something on; the opposite is to hold it.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q090
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      The increase in irrigated areas / has resulted on achieving / record food grain production.
+    options:
+      A: The increase in irrigated areas
+      B: has resulted on achieving
+      C: record food grain production
+      D: No error
+    answer: B
+    explanation: The correct phrase is ‘resulted in’, not ‘resulted on’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q091
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      They cried, “Bravo! Well done.”
+    options:
+      A: They shouted in joy that they had done well.
+      B: They cried in joy for doing well.
+      C: They cried loudly for doing well.
+      D: They exclaimed with wonder that they had done well.
+    answer: A
+    explanation: "An exclamation of praise becomes ‘shouted/exclaimed in joy that …’ with the tense moved back: They shouted in joy that they had done well."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q092
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      It is time to revise the syllabi.
+    options:
+      A: It is time for the syllabi to be revised.
+      B: It is time for the syllabi to revise.
+      C: It has been time for the syllabi to revise.
+      D: It was time for the syllabi to be revised.
+    answer: A
+    explanation: "The passive infinitive is ‘to be revised’: It is time for the syllabi to be revised."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      People all over the world are concerned about the human right to live with ______.
+    options:
+      A: poise
+      B: delight
+      C: dignity
+      D: grandeur
+    answer: C
+    explanation: The human right is to live with dignity.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q094
+    difficulty: medium
+    stem: Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'.They each listened carefully to what **each other** said.
+    options:
+      A: each another
+      B: No improvement required
+      C: the other
+      D: one another
+    answer: C
+    explanation: With ‘each’ as the subject, each person listened to what the other said, so ‘the other’ is needed.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Keep someone at arm’s length
+    options:
+      A: Restrict someone to a small space to stand
+      B: Allow someone to talk only from a distance
+      C: Make someone stay outside
+      D: Avoid being friendly with someone
+    answer: D
+    explanation: To keep someone at arm’s length is to avoid becoming friendly with them.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of alternatives given. Select the most appropriate option for each blank.
+
+      Listening plays (1) ______ role in the interactive process of business transactions. It enables a person to gather proper and (2) ______ information so that he can understand the matter with clarity. For this, he should have a positive attitude towards the speaker and the (3) ______. He should also (4) ______ on what is being spoken and then evaluate it with reference to the (5) ______.
+
+      SubQuestion No : 21
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: a paltry
+      B: a significant
+      C: a trivial
+      D: an abundant
+    answer: B
+    explanation: Listening plays a significant (important) role.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of alternatives given. Select the most appropriate option for each blank.
+
+      Listening plays (1) ______ role in the interactive process of business transactions. It enables a person to gather proper and (2) ______ information so that he can understand the matter with clarity. For this, he should have a positive attitude towards the speaker and the (3) ______. He should also (4) ______ on what is being spoken and then evaluate it with reference to the (5) ______.
+
+      SubQuestion No : 22
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: approximate
+      B: vague
+      C: accurate
+      D: superficial
+    answer: C
+    explanation: Proper and accurate information gives clarity.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of alternatives given. Select the most appropriate option for each blank.
+
+      Listening plays (1) ______ role in the interactive process of business transactions. It enables a person to gather proper and (2) ______ information so that he can understand the matter with clarity. For this, he should have a positive attitude towards the speaker and the (3) ______. He should also (4) ______ on what is being spoken and then evaluate it with reference to the (5) ______.
+
+      SubQuestion No : 23
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: writer
+      B: words
+      C: topic
+      D: orator
+    answer: C
+    explanation: The listener should have a positive attitude to the speaker and the topic.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of alternatives given. Select the most appropriate option for each blank.
+
+      Listening plays (1) ______ role in the interactive process of business transactions. It enables a person to gather proper and (2) ______ information so that he can understand the matter with clarity. For this, he should have a positive attitude towards the speaker and the (3) ______. He should also (4) ______ on what is being spoken and then evaluate it with reference to the (5) ______.
+
+      SubQuestion No : 24
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: neglect
+      B: concentrate
+      C: distract
+      D: disperse
+    answer: B
+    explanation: To concentrate on what is being said.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift3-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of alternatives given. Select the most appropriate option for each blank.
+
+      Listening plays (1) ______ role in the interactive process of business transactions. It enables a person to gather proper and (2) ______ information so that he can understand the matter with clarity. For this, he should have a positive attitude towards the speaker and the (3) ______. He should also (4) ______ on what is being spoken and then evaluate it with reference to the (5) ______.
+
+      SubQuestion No : 25
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: paragraph
+      B: context
+      C: selection
+      D: excerpt
+    answer: B
+    explanation: Evaluate what is said with reference to the context.
+    tags:
+      - english

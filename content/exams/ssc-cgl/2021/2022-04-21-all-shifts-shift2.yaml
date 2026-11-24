@@ -1,0 +1,1333 @@
+slug: 2022-04-21-all-shifts-shift2
+title: SSC CGL 2021 Tier 1
+date: 2022-04-21
+label: 21 Apr, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b92ddd0e-db03-11ed-a1a8-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q2, Q5, Q10, Q18, Q20, Q21."
+questions:
+  - slug: cgl-2022-04-21-all-ss-shift2-q001
+    difficulty: medium
+    stem: Four friends, H, I, J and K, are sitting at the four corners of a square facing towards the centre. H and J are sitting at diagonally opposite corners. I is sitting to the immediate left of H. Who is sitting to the immediate right of J?
+    options:
+      A: H
+      B: K
+      C: J
+      D: I
+    answer: D
+    explanation: Put H at the bottom corner facing the centre; I is to H's left, J is opposite H and K is the remaining corner. Facing the centre, J's immediate right is I.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q003
+    difficulty: medium
+    stem: In a certain code, ‘Tim Dim Kim’ means ‘India Is Big’ and ‘Dim Gim Kim Se Rim’ means ‘Tiger Is A Big Cat’. Which of the following is the code for ‘India’?
+    options:
+      A: Tim
+      B: Dim
+      C: Gim
+      D: Kim
+    answer: A
+    explanation: "'Dim' and 'Kim' appear in both codes, so they stand for 'Is' and 'Big'. That leaves 'Tim' = 'India'."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q004
+    difficulty: medium
+    stem: If 80% of a number is 768, what will be 40% of 5% of that number?
+    options:
+      A: "16.4"
+      B: "13.5"
+      C: "19.2"
+      D: "20.6"
+    answer: C
+    explanation: The number is 768 ÷ 0.8 = 960. 5% of 960 = 48, and 40% of 48 = 19.2.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q006
+    difficulty: medium
+    stem: In a certain code language, ‘MOHAN’ is coded as 39-45-24-3-42 and ‘KABIR’ is coded as 33-3-6-27-54. How will ‘RAGHU’ be coded in that language?
+    options:
+      A: 54-3-21-24-63
+      B: 36-2-14-24-42
+      C: 36-3-14-16-63
+      D: 54-2-21-16-42
+    answer: A
+    explanation: Each letter's alphabet position is multiplied by 3 (M = 13 → 39). RAGHU = 54-3-21-24-63.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q007
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      Some spades are knives.
+
+      All knives are rakes.
+
+      **Conclusions:**
+
+      I. Some knives are spades.
+
+      II. Some rakes are knives.
+    options:
+      A: Both conclusions I and II follow.
+      B: Only conclusion II follows.
+      C: Only conclusion I follows.
+      D: Neither conclusion I nor II follows.
+    answer: A
+    explanation: "'Some spades are knives' converts to 'Some knives are spades' (I). 'All knives are rakes' gives 'Some rakes are knives' (II). Both follow."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q008
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      13 : 1728 :: 17 : ?
+    options:
+      A: "1928"
+      B: "4096"
+      C: "3218"
+      D: "2043"
+    answer: B
+    explanation: 1728 = 12³ = (13 − 1)³. So 17 → 16³ = 4096.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q009
+    difficulty: medium
+    stem: Introducing Reshma to a guest, a lady, Karishma, said, “She is the daughter of my father-in-law’s daughter”. How is Reshma related to Karishma?
+    options:
+      A: sister-in-law
+      B: Sister
+      C: Cousin
+      D: Niece
+    answer: D
+    explanation: Karishma's father-in-law's daughter is her husband's sister; that sister's daughter is Karishma's niece.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q011
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.
+
+      GTQ : JVP :: SDK : ?
+    options:
+      A: VFJ
+      B: UGF
+      C: UEK
+      D: VGK
+    answer: A
+    explanation: "Letters shift +3, +2, −1: G→J, T→V, Q→P. So S→V, D→F, K→J gives VFJ."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q012
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Select the letter that will be on the face opposite to the face having the letter ‘C’.
+
+      *(Figure: Three views of the dice: (1) B on top, F and D on the visible side faces; (2) B on top, E and C on the visible side faces; (3) E on top, D and A on the visible side faces.)*
+    options:
+      A: A
+      B: B
+      C: E
+      D: D
+    answer: D
+    explanation: B touches F, D, E and C, so B is opposite A. E touches B, C, D and A, so E is opposite F. That leaves C opposite D.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q013
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      CLAY, DIFX, EFKW, FCPV, ?
+    options:
+      A: HZUW
+      B: GZUU
+      C: HUZT
+      D: GUZU
+    answer: B
+    explanation: First letters +1 (G), second −3 (C→Z), third +5 (P→U), fourth −1 (V→U). So GZUU.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q014
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+    options:
+      A: CEV
+      B: QSH
+      C: KMN
+      D: MPI
+    answer: D
+    explanation: In CEV, QSH and KMN the second letter is two places after the first; in MPI it is three places after (M→P).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q015
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      14, 20, 34, 72, 182, ?
+    options:
+      A: "308"
+      B: "508"
+      C: "580"
+      D: "380"
+    answer: B
+    explanation: "Differences 6, 14, 38, 110 themselves differ by 8, 24, 72 (×3). Next: 72 × 3 = 216, so the difference is 326 and 182 + 326 = 508."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q016
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      74, 101, 128, 155, ?
+    options:
+      A: "198"
+      B: "173"
+      C: "210"
+      D: "182"
+    answer: D
+    explanation: "Each term is 27 more than the previous one: 155 + 27 = 182."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q017
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number from among the given options that can replace the question mark (?) in it.
+
+      12 36 60
+
+      72 3 4 63 4 12 98 ? 15
+
+      12 9 14
+
+      *(Figure: The pattern is printed as flattened text in three lines (its original figure layout is lost); copied as printed.)*
+    options:
+      A: "4"
+      B: "5"
+      C: "2"
+      D: "3"
+    answer: D
+    explanation: "Reading each figure as top, left, centre, right, bottom: centre = left ÷ bottom − top ÷ right. 72/12 − 12/4 = 3, 63/9 − 36/12 = 4, so 98/14 − 60/15 = 7 − 4 = 3."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q019
+    difficulty: medium
+    stem: |-
+      Which two numbers (NOT digits) need to be interchanged to make the following equation correct?
+
+      8 + 48 ÷ 12 × 5 − 13 = 29
+    options:
+      A: 8 and 5
+      B: 13 and 8
+      C: 8 and 12
+      D: 12 and 13
+    answer: C
+    explanation: "Swapping 8 and 12: 12 + 48 ÷ 8 × 5 − 13 = 12 + 30 − 13 = 29."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q022
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the given equation correct?
+
+      13+15×8 ÷96−4=109
+    options:
+      A: ÷ and −
+      B: + and ÷
+      C: − and +
+      D: × and −
+    answer: A
+    explanation: "Swapping ÷ and −: 13 + 15 × 8 − 96 ÷ 4 = 13 + 120 − 24 = 109."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q023
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      IMM_ _ILEI_ _OBI_ _IMMO_ _LE
+    options:
+      A: OBLMLBIE
+      B: OBMMLEBI
+      C: BOMLMEIB
+      D: BOLMLIEB
+    answer: B
+    explanation: Filling O, B, M, M, L, E, B, I gives IMMOBILE IMMOBILE IMMOBILE.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q024
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Malice  
+      2. Malignant  
+      3. Mallows  
+      4. Malfunction  
+      5. Malware
+    options:
+      A: 4, 2, 1, 3, 5
+      B: 1, 4, 3, 2, 5
+      C: 4, 1, 2, 5, 3
+      D: 4, 1, 2, 3, 5
+    answer: D
+    explanation: "Compare after 'Mal': Malf-, Malic-, Malig-, Mall-, Malw-. So Malfunction, Malice, Malignant, Mallows, Malware = 4, 1, 2, 3, 5."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q025
+    difficulty: medium
+    stem: In a certain code language, 'BLUES' is written as 'HVFOY'. How will 'FORCED' be written in that language?
+    options:
+      A: ULIXVW
+      B: XVWLIU
+      C: WVXILU
+      D: WVXJKU
+    answer: C
+    explanation: "The word is reversed and each letter replaced by its opposite (A↔Z): BLUES → SEULB → HVFOY. FORCED → DECROF → WVXILU."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift2-q026
+    difficulty: medium
+    stem: As per the provisions of Union Budget 2021-22, how many public sector banks have been lined up for disinvestment?
+    options:
+      A: Seven
+      B: Three
+      C: Two
+      D: Five
+    answer: C
+    explanation: Budget 2021-22 proposed privatising two public sector banks (and one general insurance company).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q027
+    difficulty: medium
+    stem: Colloidal systems – such as gum, starch, proteins, cellulose, agar and gelatine – when placed in water, will absorb a large volume of water and swell up. These substances are called ______.
+    options:
+      A: porins
+      B: apoplasts
+      C: combustibles
+      D: imbibants
+    answer: D
+    explanation: Hydrophilic colloids that soak up water and swell during imbibition are called imbibants.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q028
+    difficulty: medium
+    stem: Gulzar was awarded the 66th Filmfare Award for ‘Best Lyrics’ for the film ______.
+    options:
+      A: Thappad
+      B: Sir
+      C: Chhapaak
+      D: Ludo
+    answer: C
+    explanation: Gulzar won the Best Lyrics award at the 66th Filmfare Awards (2021) for the title song of 'Chhapaak'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q029
+    difficulty: medium
+    stem: |-
+      Which of the following statements is/are correct?
+
+      I. Gandhi Peace Prize is an annual award instituted by Government of India since 1995.
+
+      II. The award is open to all persons regardless of nationality, race, language, caste, creed or sex.
+
+      III. The Gandhi Peace Prize for the year 2020 was conferred on Bangabandhu Sheikh Mujibur Rahman.
+    options:
+      A: Only I and II
+      B: Only I
+      C: I, II and III
+      D: Only III
+    answer: C
+    explanation: The Gandhi Peace Prize began in 1995, is open to all regardless of nationality, race, language, caste, creed or sex, and the 2020 prize went to Sheikh Mujibur Rahman.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q030
+    difficulty: medium
+    stem: Which of the following is NOT a broad mitigation technique of landslide?
+    options:
+      A: Construction of retention wall to stop land from slipping
+      B: The surface drainage control works to control the movement of landslide along with rain water and spring flows.
+      C: Hazard mapping to locate areas prone to landslides
+      D: Reduction in the vegetation cover to arrest landslide
+    answer: D
+    explanation: Vegetation binds the soil, so reducing it increases landslides; afforestation, not deforestation, is a mitigation measure.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q031
+    difficulty: medium
+    stem: The 61st Amendment to the Constitution of India ______.
+    options:
+      A: restricted the size of council of ministers to 15% of the number of legislative members
+      B: reduced the age for voting from 21 to 18 years
+      C: substituted ‘Odia’ for ‘Oriya’
+      D: exempted Arunachal Pradesh from reservation for Scheduled Castes in Panchayati Raj institutions
+    answer: B
+    explanation: The 61st Amendment Act, 1988 lowered the voting age from 21 to 18 years.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q032
+    difficulty: medium
+    stem: Which of the following is the middle layer in the root apical meristem that gives rise to the cortex?
+    options:
+      A: Periblem
+      B: Calyptrogen
+      C: Dermatogen
+      D: Plerome
+    answer: A
+    explanation: In the root apex, the periblem is the middle histogen and forms the cortex; dermatogen forms the epidermis and plerome the stele.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q033
+    difficulty: medium
+    stem: Which of the following is NOT a type of mosquito?
+    options:
+      A: Limulus
+      B: Culex
+      C: Aedes
+      D: Anopheles
+    answer: A
+    explanation: Limulus is the horseshoe crab; Culex, Aedes and Anopheles are mosquito genera.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q034
+    difficulty: medium
+    stem: Which of the following decades was proclaimed by the General Assembly of the United Nations as the International Decade for action on ‘Water for life’?
+    options:
+      A: 1994 - 2004
+      B: 1972 - 1982
+      C: 1983 - 1993
+      D: 2005 - 2015
+    answer: D
+    explanation: The UN General Assembly proclaimed 2005-2015 the International Decade for Action 'Water for Life'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q035
+    difficulty: medium
+    stem: The Directive Principles of State Policy in the Constitution of India were borrowed from the ______ Constitution.
+    options:
+      A: Spanish
+      B: Norwegian
+      C: Irish
+      D: Australian
+    answer: C
+    explanation: India borrowed the Directive Principles of State Policy from the Irish Constitution.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q036
+    difficulty: medium
+    stem: Mridula Sinha, who passed away in November 2020, was the first woman Governor of ______.
+    options:
+      A: Goa
+      B: Mizoram
+      C: Tripura
+      D: Haryana
+    answer: A
+    explanation: Mridula Sinha was the first woman Governor of Goa (2014-2019).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q037
+    difficulty: medium
+    stem: Which of the following is the horizontal distance between two successive crests?
+    options:
+      A: Wave height
+      B: Wave period
+      C: Wave frequency
+      D: Wave length
+    answer: D
+    explanation: Wavelength is the horizontal distance between two successive crests (or troughs).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q038
+    difficulty: medium
+    stem: The Hindu Marriage Act was enacted in the year ______.
+    options:
+      A: "1956"
+      B: "1952"
+      C: "1953"
+      D: "1955"
+    answer: D
+    explanation: The Hindu Marriage Act was enacted in 1955.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q039
+    difficulty: medium
+    stem: Which of the following countries hosted the ITTF (International Table Tennis Federation) Women's World Cup 2020?
+    options:
+      A: Singapore
+      B: China
+      C: Japan
+      D: South Korea
+    answer: B
+    explanation: The 2020 ITTF Women's World Cup was held in Weihai, China, in November 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q040
+    difficulty: medium
+    stem: "The Ghoom Monastery is located in:"
+    options:
+      A: Gangtok
+      B: Namchi
+      C: Kalimpong
+      D: Darjeeling
+    answer: D
+    explanation: Ghoom (Ghum) Monastery, home to a large Maitreya Buddha statue, is near Darjeeling in West Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q041
+    difficulty: medium
+    stem: Which of the following British officers issued the infamous ‘crawling order’ whereby Indians had to crawl on all fours to pass an alley?
+    options:
+      A: General Dyer
+      B: Warren Hastings
+      C: Lord Irwin
+      D: Lord Curzon
+    answer: A
+    explanation: After the 1919 attack on Marcella Sherwood in Amritsar, General Dyer ordered Indians to crawl along that street.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q042
+    difficulty: medium
+    stem: According to the Central Ground Water Board, BIS (IS_10500 and revised module IS 10500:2012) specifications in Uniform Drinking Water Quality Monitoring Protocol, what is the acceptable pH value of drinking water specification in India?
+    options:
+      A: 5.5 - 7.5
+      B: 4.5 - 9.5
+      C: 6.5 - 8.5
+      D: 3.5 - 5.5
+    answer: C
+    explanation: IS 10500:2012 sets the acceptable pH of drinking water at 6.5-8.5.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q043
+    difficulty: medium
+    stem: Who among the following Indian freedom fighters was fondly called Gandhi Buri (Old Lady Gandhi) for her dedication towards Gandhian principles?
+    options:
+      A: Kamla Chaudhary
+      B: Leela Roy
+      C: Dakshayani Velayudhan
+      D: Matangini Hazra
+    answer: D
+    explanation: Matangini Hazra of Tamluk, killed in the Quit India Movement in 1942, was called 'Gandhi Buri'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q044
+    difficulty: medium
+    stem: Who among the following was named sportsman of the decade (individual non-Olympic sports) at the 2021 Sportstar ACES Awards?
+    options:
+      A: Pentala Harikrishna
+      B: Vidit Santosh Gujrathi
+      C: Viswanathan Anand
+      D: Baskaran Adhiban
+    answer: C
+    explanation: Viswanathan Anand was named Sportsman of the Decade (individual non-Olympic sport) at the Sportstar Aces Awards 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q045
+    difficulty: medium
+    stem: A distinct ‘Dhrupad style’ is associated with the ______ gharana.
+    options:
+      A: Ajrada
+      B: Nathdwara
+      C: Jafferkhani
+      D: Bishnupur
+    answer: D
+    explanation: The Bishnupur gharana of West Bengal is known for its own style of Dhrupad.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q046
+    difficulty: medium
+    stem: Normally, there is a ______ day interval between spring tides and neap tides.
+    options:
+      A: nine
+      B: two
+      C: four
+      D: seven
+    answer: D
+    explanation: Spring tides (new and full moon) and neap tides (quarter moons) come about seven days apart.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q047
+    difficulty: medium
+    stem: Finance Minister Nirmala Sitharaman announced the setting up of ______ mega textile parks across the country over three years, in her Budget 2021-22 speech.
+    options:
+      A: seven
+      B: five
+      C: three
+      D: nine
+    answer: A
+    explanation: Budget 2021-22 announced seven mega textile parks (MITRA) over three years.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q048
+    difficulty: medium
+    stem: The ancient city of Champa is believed to be the capital of ______ Mahajanapada.
+    options:
+      A: Anga
+      B: Kashi
+      C: Matsya
+      D: Vajji
+    answer: A
+    explanation: Champa, near present-day Bhagalpur, was the capital of Anga.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q049
+    difficulty: medium
+    stem: As per World Justice Project 2020, what is India’s rank in Regulatory Enforcement as cited in Economic Survey of India 2021?
+    options:
+      A: "56"
+      B: "79"
+      C: "62"
+      D: "74"
+    answer: D
+    explanation: Economic Survey 2020-21 cites India's rank of 74 (of 128) in regulatory enforcement in the World Justice Project Rule of Law Index 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q050
+    difficulty: medium
+    stem: ______, the world’s first sailing boat made entirely from plastic waste, aims to raise people’s awareness of plastic pollution in oceans.
+    options:
+      A: Flipflopi
+      B: Blipblopi
+      C: Snipsnopi
+      D: Triptropi
+    answer: A
+    explanation: The Flipflopi, built in Kenya from recycled plastic and flip-flops, is the world's first sailing boat made from plastic waste.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift2-q051
+    difficulty: medium
+    stem: A tyre has two punctures. The first puncture alone would have made the tyre flat in 45 minutes, and the second puncture alone would have done it in 90 minutes. If air leaks out at a constant rate, then how long (in minutes) does it take for both the punctures together to make the tyre flat?
+    options:
+      A: "30"
+      B: "15"
+      C: "40"
+      D: "45"
+    answer: A
+    explanation: Together they let out 1/45 + 1/90 = 1/30 of the air per minute, so the tyre goes flat in 30 minutes.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q052
+    difficulty: medium
+    stem: If cosec A = sec B, where A and B are acute angles, then what is the value of (A + B)?
+    options:
+      A: 0°
+      B: 135°
+      C: 90°
+      D: 45°
+    answer: C
+    explanation: cosec A = sec(90° − A), so sec B = sec(90° − A) and A + B = 90°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q053
+    difficulty: medium
+    stem: In ΔABC, the perpendiculars drawn from A, B and C meet the opposite sides at points D, E and F, respectively. AD, BE and CF intersect at point P. If ∠EPD = 110° and the bisectors of ∠A and ∠B meet at point Q, then ∠AQB = ?
+    options:
+      A: 115°
+      B: 110°
+      C: 135°
+      D: 125°
+    answer: D
+    explanation: In quadrilateral CDPE two angles are 90°, so ∠C = 180° − 110° = 70°. The bisectors of A and B meet at ∠AQB = 90° + C/2 = 125°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q054
+    difficulty: medium
+    stem: |-
+      In the following figure, AD bisects angle BAC. Find the length (in cm) of BD.
+
+      *(Figure: Triangle ABC with D on BC; AD bisects angle BAC. AB = 6 cm, AC = 2x−3, BD = x−2, DC = x.)*
+    options:
+      A: "4"
+      B: "5"
+      C: "9"
+      D: "6"
+    answer: A
+    explanation: "Angle bisector: (x − 2)/x = 6/(2x − 3), so 2x² − 13x + 6 = 0 and x = 6. BD = 6 − 2 = 4 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q055
+    difficulty: medium
+    stem: |-
+      A solid cone of radius 7 cm and height 7 cm was melted along with two solid spheres of radius 7 cm each to form a solid cylinder of radius 7 cm. What is the curved surface area (in cm²) of the cylinder?
+
+      (Use π = 22/7)
+    options:
+      A: "924"
+      B: "880"
+      C: "2196"
+      D: "482"
+    answer: A
+    explanation: Volume = π(⅓ × 49 × 7 + 2 × 4/3 × 343) = 1029π = π × 49 × h, so h = 21. CSA = 2π × 7 × 21 = 924 cm².
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q056
+    difficulty: medium
+    stem: What is the compound interest (in ₹) on a sum of ₹62,500 for 2 years at 12% p.a., if the interest is compounded 8-monthly?
+    options:
+      A: 18,342
+      B: 16,232
+      C: 13,428
+      D: 16,548
+    answer: B
+    explanation: "12% a year for 8 months is 8% per period, and 2 years has 3 periods: 62500 × 1.08³ = 78732, so CI = ₹16232."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q057
+    difficulty: medium
+    stem: "The selling price of a mobile phone is ₹59,620 and it was sold at 8.4% profit. The cost price (in ₹) of the mobile phone is:"
+    options:
+      A: 52,000
+      B: 55,000
+      C: 45,000
+      D: 50,000
+    answer: B
+    explanation: Cost price = 59620 ÷ 1.084 = ₹55,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q058
+    difficulty: medium
+    stem: If a² + b² = 65 and ab = 8, a > b > 0, then find the value of a² − b².
+    options:
+      A: "72"
+      B: "60"
+      C: "65"
+      D: "63"
+    answer: D
+    explanation: (a + b)² = 65 + 16 = 81 and (a − b)² = 65 − 16 = 49, so a² − b² = 9 × 7 = 63.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q059
+    difficulty: medium
+    stem: AB is the diameter of a circle with centre O. C and D are two points on the circle on either side of AB, such that ∠CAB = 52° and ∠ABD = 47°. What is the difference (in degrees) between the measures of ∠CAD and ∠CBD?
+    options:
+      A: "10"
+      B: "15"
+      C: "25"
+      D: "20"
+    answer: A
+    explanation: Angles in a semicircle are 90°, so ∠CBA = 38° and ∠DAB = 43°. ∠CAD = 52 + 43 = 95°, ∠CBD = 38 + 47 = 85°; difference 10°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q060
+    difficulty: medium
+    stem: What is the sum of the numbers between 400 and 500 such that when they are divided by 6, 12 and 16, it leaves no remainder?
+    options:
+      A: "480"
+      B: "1024"
+      C: "960"
+      D: "912"
+    answer: D
+    explanation: The LCM of 6, 12 and 16 is 48; its multiples between 400 and 500 are 432 and 480, sum 912.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q061
+    difficulty: medium
+    stem: "If a nine-digit number 485x3678y is divisible by 72, then for the smallest value of x, the value of (2y − 3x) is:"
+    options:
+      A: "6"
+      B: "9"
+      C: "11"
+      D: "8"
+    answer: D
+    explanation: "For 8: 78y divisible by 8 gives y = 4. For 9: digit sum 45 + x, so the smallest x is 0. 2y − 3x = 8."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q062
+    difficulty: medium
+    stem: "If x⁴ − 79x² + 1 = 0, then a value of x + x⁻¹ can be:"
+    options:
+      A: "9"
+      B: "5"
+      C: "7"
+      D: "8"
+    answer: A
+    explanation: "Dividing by x²: x² + 1/x² = 79, so (x + 1/x)² = 81 and x + 1/x = 9."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q063
+    difficulty: medium
+    stem: |-
+      The given pie chart shows the percentage of students in five schools and the table shows the ratio of boys and girls in each school.
+
+      Study the pie chart and table and answer the question that follows.
+
+      The below table shows the ratio of girls and boys in the given five schools.
+
+      | School | Girls : Boys |
+      |---|---|
+      | A | 3 : 4 |
+      | B | 2 : 3 |
+      | C | 5 : 3 |
+      | D | 1 : 2 |
+      | E | 4 : 1 |
+
+      The number of girls in school D is what percentage less than the number of boys in school B (correct to the nearest integer)?
+
+      *(Figure: Pie chart of percentage of students: A 28%, B 15%, C 24%, D 18%, E 15%.)*
+    options:
+      A: 35%
+      B: 19%
+      C: 27%
+      D: 33%
+    answer: D
+    explanation: Girls in D = ⅓ × 18% = 6% of all; boys in B = ⅗ × 15% = 9%. (9 − 6)/9 = 33.3% ≈ 33% less.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q064
+    difficulty: medium
+    stem: In the month of March, Dalip earned on an average ₹501 per day. For the first 18 days, his average earning was ₹495 and, for the last 15 days, his average earning was ₹505. On 18th March, he earned ₹50 more than that earned on 17th March. How much (in ₹) did he earn on 18th March?
+    options:
+      A: "502"
+      B: "498"
+      C: "501"
+      D: "500"
+    answer: A
+    explanation: 18 × 495 + 15 × 505 − 31 × 501 = 954 = earnings on 17th and 18th. With 18th = 17th + 50, the 18th = ₹502.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q065
+    difficulty: medium
+    stem: "A and B entered into a partnership with investments in the ratio 3 : 5. After a few months, A withdrew and collected back his money. At the end of the year, they received profit in the ratio 2 : 5. After how many months did A withdraw?"
+    options:
+      A: "7"
+      B: "9"
+      C: "8"
+      D: "6"
+    answer: C
+    explanation: "3 × t : 5 × 12 = 2 : 5, so 15t = 120 and t = 8 months."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q066
+    difficulty: medium
+    stem: |-
+      The breakup of the total number of employees of a company working in different offices (A to E), in degrees, is given in the pie chart. Total number of employees = 2400.
+
+      If the percentage of male employees in office C is 20% and that of female employees in E is 40%, then what is the ratio of the numbers of female employees in E to that of female employees in C?
+
+      *(Figure: Pie chart in degrees: A 126°, B 18°, C 54°, D 90°, E 72°.)*
+    options:
+      A: "3 : 8"
+      B: "5 : 4"
+      C: "2 : 3"
+      D: "3 : 2"
+    answer: C
+    explanation: "C = 360 employees, 80% female = 288; E = 480, 40% female = 192. 192 : 288 = 2 : 3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q067
+    difficulty: medium
+    stem: Two trains are running on parallel tracks in the same direction at the speed of 80 km/h and 90 km/h, respectively. The trains crossed each other in 3 minutes. If the length of one train is 230 m, then what is the length (in m) of the other train?
+    options:
+      A: "270"
+      B: "250"
+      C: "230"
+      D: "300"
+    answer: A
+    explanation: Relative speed 10 km/h = 25/9 m/s; in 180 s they cover 500 m, so the other train is 500 − 230 = 270 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q068
+    difficulty: medium
+    stem: |-
+      The following bar graph shows the total number of youth (in lakhs) and the number of employed youth (in lakhs) in 5 states A, B, C, D and E.
+
+      How many youth (in lakhs) are unemployed in states B and D taken together?
+
+      *(Figure: Bar graph, Population (in lakhs) by state, Youth / Employed youth: A 12 / 10.5, B 8 / 7, C 11.5 / 10, D 10 / 7.5, E 9 / 8.)*
+    options:
+      A: "4.25"
+      B: "4.5"
+      C: "3.5"
+      D: "3.25"
+    answer: C
+    explanation: Unemployed in B = 8 − 7 = 1 lakh and in D = 10 − 7.5 = 2.5 lakh; total 3.5 lakh.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q069
+    difficulty: medium
+    stem: A person’s salary was increased by 50% and subsequently decreased by 50%. How much percentage does he lose or gain?
+    options:
+      A: Loss of 25%
+      B: Gain of 50%
+      C: Loss of 30%
+      D: Gain of 20%
+    answer: A
+    explanation: 1.5 × 0.5 = 0.75, so he loses 25%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q070
+    difficulty: medium
+    stem: If (sin²Ø − 3sinØ + 2)/cos²Ø = 1, where 0° < Ø < 90°, then what is the value of (cos2Ø − sin3Ø + cosec2Ø)?
+    options:
+      A: (−3 − 4√3)/6
+      B: (−3 + 4√3)/6
+      C: (3 + 4√3)/6
+      D: (3 − 4√3)/6
+    answer: B
+    explanation: sin²θ − 3 sin θ + 2 = 1 − sin²θ gives sin θ = ½, θ = 30°. cos 60° − sin 90° + cosec 60° = ½ − 1 + 2/√3 = (−3 + 4√3)/6.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q071
+    difficulty: medium
+    stem: AB and CD are two chords in a circle with centre O and AD is the diameter. When produced, AB and CD meet at the point P. If ∠DAP = 27°, ∠APD = 35°, then what is the measure (in degrees) of ∠DBC?
+    options:
+      A: "28"
+      B: "26"
+      C: "30"
+      D: "32"
+    answer: A
+    explanation: In triangle ADP, ∠ADP = 118°, so ∠ADC = 62°. ∠ACD = 90° (AD is a diameter), so ∠DAC = 28°, and ∠DBC = ∠DAC = 28° (same arc).
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q072
+    difficulty: medium
+    stem: A shopkeeper marks an article x % above the cost price and sells it by allowing 30% discount on the marked price. If there is a loss of 4.8%, then what is the value of x ?
+    options:
+      A: "30"
+      B: "40"
+      C: "36"
+      D: "35"
+    answer: C
+    explanation: (1 + x/100) × 0.7 = 0.952, so 1 + x/100 = 1.36 and x = 36.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q073
+    difficulty: medium
+    stem: Simplify [(5 1/4 ÷ 3 1/2 × 5/12) − 3/16] ÷ (3 4/7 ÷ 5/14 of 6 2/3) of 1 1/3.
+    options:
+      A: 5/32
+      B: 17/32
+      C: 3/32
+      D: 7/32
+    answer: D
+    explanation: "21/4 × 2/7 × 5/12 − 3/16 = 7/16. Divisor: 25/7 ÷ (5/14 × 20/3) = 3/2, then 'of 1 1/3' makes it 2. 7/16 ÷ 2 = 7/32."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q074
+    difficulty: medium
+    stem: A ladder 18 m long rests against a wall so that the angle between the ladder and the wall is 30°. How far (in m) is the base of the ladder from the wall?
+    options:
+      A: "18"
+      B: 9√3
+      C: "9"
+      D: 18√3
+    answer: C
+    explanation: "The base is opposite the 30° angle at the wall: 18 × sin 30° = 9 m."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q075
+    difficulty: medium
+    stem: |-
+      Study the graph and answer the question that follows.
+
+      What is the ratio of the total number of workers whose daily wages are less than ₹450 to the total number of workers whose daily wages are ₹650 and above?
+
+      *(Figure: Histogram, Number of Workers against Daily wages (in ₹): 400–450: 30, 450–500: 45, 500–550: 65, 550–600: 60, 600–650: 55, 650–700: 35.)*
+    options:
+      A: "3 : 5"
+      B: "1 : 4"
+      C: "6 : 7"
+      D: "5 : 7"
+    answer: C
+    explanation: "Below ₹450: 30 workers; ₹650 and above: 35 workers. 30 : 35 = 6 : 7."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift2-q076
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      I do not / like to read / these kind / of novels.
+    options:
+      A: I do not
+      B: these kind
+      C: of novels
+      D: like to read
+    answer: B
+    explanation: "'Kind' is singular, so it takes 'this', not 'these': 'this kind of novels'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Feast one’s eyes on
+    options:
+      A: Arrange a delicious meal
+      B: Gaze at something with pleasure
+      C: Prepare a rare delicacy
+      D: Notice something alarming
+    answer: B
+    explanation: To feast one's eyes on something is to gaze at it with great pleasure.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Livid
+    options:
+      A: Closed
+      B: Clear
+      C: Pale
+      D: Furious
+    answer: D
+    explanation: Livid means extremely angry, i.e. furious.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      Tall promises were being made by each promoter.
+    options:
+      A: Each promoter has been making tall promises.
+      B: Each promoter has made tall promises.
+      C: Each promoter made tall promises.
+      D: Each promoter was making tall promises.
+    answer: D
+    explanation: "'Were being made' is past continuous passive, so the active is 'Each promoter was making tall promises'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q080
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement'.
+
+      You are **so far the bright** student in the class.
+    options:
+      A: No improvement
+      B: by so far the brighter
+      C: by far the brightest
+      D: so far most bright
+    answer: C
+    explanation: "Comparing one student with the whole class needs the superlative, intensified by 'by far': 'by far the brightest'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Can you arrange for the consignment ______ delivered on Monday?
+    options:
+      A: is
+      B: being
+      C: to be
+      D: for being
+    answer: C
+    explanation: "'Arrange for something to be done' takes the passive infinitive: 'for the consignment to be delivered'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Proclaim
+    options:
+      A: Exhibit
+      B: Evince
+      C: Conceal
+      D: Announce
+    answer: C
+    explanation: To proclaim is to announce publicly; its opposite is to conceal.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q083
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. Expert mechanics labored over the plane for three hours.
+
+      B. A small nut had fallen into a channel which prevented the gear from moving.
+
+      C. A huge plane was forced to crash land when its landing gear got stuck.
+
+      D. They were amazed when they discovered what had caused the mechanical failure.
+    options:
+      A: DBAC
+      B: BADC
+      C: ACBD
+      D: CADB
+    answer: D
+    explanation: "C states the event, A the mechanics' work, D their surprise, and B what they found: CADB."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Cold comfort
+    options:
+      A: Unbearable weather
+      B: Enjoyment in the hills
+      C: Very soothing
+      D: Very little satisfaction
+    answer: D
+    explanation: Cold comfort is consolation that gives very little satisfaction.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Amusement
+    options:
+      A: Pleasure
+      B: Gloom
+      C: Boredom
+      D: Despair
+    answer: A
+    explanation: Amusement is enjoyment, i.e. pleasure.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q086
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Policy of racial discrimination
+    options:
+      A: Non-alignment
+      B: Diplomacy
+      C: Commonwealth
+      D: Apartheid
+    answer: D
+    explanation: Apartheid was South Africa's policy of racial segregation and discrimination.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q087
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      He said to me, “Do you own this beautiful car?”
+    options:
+      A: He asked to me if you own that beautiful car.
+      B: He asked me did I own that beautiful car.
+      C: He asked me if I owned that beautiful car.
+      D: He asked me that if you owned this beautiful car.
+    answer: C
+    explanation: "A yes/no question is reported with 'if', with the tense back-shifted and pronouns changed: 'He asked me if I owned that beautiful car.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q088
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Shall / we go / for walking / in the park?
+    options:
+      A: Shall
+      B: in the park
+      C: we go
+      D: for walking
+    answer: D
+    explanation: The idiom is 'go for a walk', not 'go for walking'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q089
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      She is looking after the old ladies with great affection.
+    options:
+      A: She is looked after with great affection by the old ladies.
+      B: The old ladies are looked after with great affection.
+      C: The old ladies were looked after with great affection.
+      D: The old ladies are being looked after with great affection.
+    answer: D
+    explanation: "Present continuous active becomes 'are being + past participle': 'The old ladies are being looked after …'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q090
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement'.
+
+      We had to undergo **a great many difficulties.**
+    options:
+      A: No improvement
+      B: a great many difficulty
+      C: great many difficulties
+      D: much great difficulties
+    answer: A
+    explanation: "'A great many' correctly goes with a plural countable noun: 'a great many difficulties'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q091
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A person who works in a shop that sells cut flowers and plants
+    options:
+      A: Dealer
+      B: Vendor
+      C: Hawker
+      D: Florist
+    answer: D
+    explanation: A florist works in or runs a shop selling cut flowers and plants.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q092
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Alphabet
+      B: Allergic
+      C: Altarnate
+      D: Allotted
+    answer: C
+    explanation: The correct spelling is 'Alternate'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q093
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Vivek should be excited / on the promotion / he’s got.
+    options:
+      A: No error
+      B: on the promotion
+      C: Vivek should be excited
+      D: he’s got
+    answer: B
+    explanation: "'Excited' takes 'about': 'excited about the promotion'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q094
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into segments. One of them may contain an error. Identify the segment that contains a grammatical error. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Among you and me / she is quite rude / to the boy.
+    options:
+      A: to the boy
+      B: she is quite rude
+      C: Among you and me
+      D: No error
+    answer: C
+    explanation: "'Among' is used for more than two; for two people use 'between': 'Between you and me'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Refined
+    options:
+      A: Miserly
+      B: Crude
+      C: Precise
+      D: Genteel
+    answer: B
+    explanation: Refined means cultured and polished; its opposite is crude.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Dance as an artistic form of (1) ______ is extremely old. Evidence of dance as a (2) ______ form is available in ancient literary texts, painting and sculpture. (3) ______ of the dance forms trace their roots to the (4) ______ of movement codified in the Natya Shastra (5) ______ by Bharat Muni.
+
+      Select the most appropriate option to fill in blank no.1.
+    options:
+      A: succession
+      B: suggestion
+      C: expression
+      D: impression
+    answer: C
+    explanation: Dance is an artistic form of expression.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Dance as an artistic form of (1) ______ is extremely old. Evidence of dance as a (2) ______ form is available in ancient literary texts, painting and sculpture. (3) ______ of the dance forms trace their roots to the (4) ______ of movement codified in the Natya Shastra (5) ______ by Bharat Muni.
+
+      Select the most appropriate option to fill in blank no.2.
+    options:
+      A: creating
+      B: creative
+      C: created
+      D: creation
+    answer: B
+    explanation: "An adjective is needed before 'form': a creative form."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Dance as an artistic form of (1) ______ is extremely old. Evidence of dance as a (2) ______ form is available in ancient literary texts, painting and sculpture. (3) ______ of the dance forms trace their roots to the (4) ______ of movement codified in the Natya Shastra (5) ______ by Bharat Muni.
+
+      Select the most appropriate option to fill in blank no.3.
+    options:
+      A: More
+      B: Much
+      C: Any
+      D: Many
+    answer: D
+    explanation: "'Dance forms' is plural and countable, so 'Many of the dance forms' fits."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Dance as an artistic form of (1) ______ is extremely old. Evidence of dance as a (2) ______ form is available in ancient literary texts, painting and sculpture. (3) ______ of the dance forms trace their roots to the (4) ______ of movement codified in the Natya Shastra (5) ______ by Bharat Muni.
+
+      Select the most appropriate option to fill in blank no.4.
+    options:
+      A: capacity
+      B: techniques
+      C: procedure
+      D: delivery
+    answer: B
+    explanation: The Natya Shastra codifies the techniques of movement.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift2-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Dance as an artistic form of (1) ______ is extremely old. Evidence of dance as a (2) ______ form is available in ancient literary texts, painting and sculpture. (3) ______ of the dance forms trace their roots to the (4) ______ of movement codified in the Natya Shastra (5) ______ by Bharat Muni.
+
+      Select the most appropriate option to fill in blank no.5.
+    options:
+      A: captured
+      B: disbursed
+      C: dispersed
+      D: compiled
+    answer: D
+    explanation: The Natya Shastra was compiled by Bharat Muni.
+    tags:
+      - english

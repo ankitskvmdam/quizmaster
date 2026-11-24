@@ -1,0 +1,1354 @@
+slug: 2019-06-13-shift2
+title: SSC CGL 2018 Tier 1
+date: 2019-06-13
+label: 13 Jun, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132718/SSC-CGL-QUESTION-PAPER-13-June-2019-Shift-2-En). Left out (picture-only options or incomplete in the source): Q1, Q4, Q6, Q10, Q23, Q25."
+questions:
+  - slug: cgl-2019-06-13-s2-q002
+    difficulty: medium
+    stem: |-
+      ‘A + B’ means ‘A is the sister of B’  
+      ‘A – B’ means ‘A is the daughter of B’  
+      ‘A × B’ means ‘A is the brother of B’  
+      ‘A ÷ B’ means ‘A is the husband of B’
+
+      If V + U × Q – T ÷ R + P × S, then how is P related to V?
+    options:
+      A: Paternal uncle
+      B: Maternal aunt
+      C: Maternal uncle
+      D: Paternal aunt
+    answer: C
+    explanation: |-
+      V is U's sister, U is Q's brother, Q is T's daughter, T is R's husband, so R is V's mother.
+      R is P's sister and P is S's brother, so P is a male sibling of V's mother: maternal uncle.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q003
+    difficulty: medium
+    stem: |-
+      Two statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      All utensils are spoons.  
+      All bowls are spoons.
+
+      **Conclusions:**
+
+      I. No utensil is a bowl.  
+      II. Some utensils are bowls.  
+      III. No spoon is a utensil.
+    options:
+      A: Only conclusions I follows
+      B: Conclusions I and III follow
+      C: Either conclusion I or II follows
+      D: Only conclusion III follows
+    answer: C
+    explanation: |-
+      Both utensils and bowls lie inside spoons, but nothing links utensils with bowls.
+      So neither I nor II is certain, yet they form a complementary pair: either I or II follows. III is false.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q005
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown here. Which number is on the face opposite the face showing ‘5’?
+
+      *(Figure: Three views of one dice (top; front-left; front-right): (6; 2, 4), (4; 2, 1), (5; 6, 4).)*
+    options:
+      A: "1"
+      B: "3"
+      C: "2"
+      D: "6"
+    answer: C
+    explanation: |-
+      4 touches 6, 2, 1 and 5, so 4 is opposite 3. 6 touches 2, 4 and 5, so 6 is opposite 1.
+      That leaves 2 opposite 5.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q007
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      12 : 192 :: 15 : ?
+    options:
+      A: "245"
+      B: "240"
+      C: "225"
+      D: "250"
+    answer: B
+    explanation: "192 = 12 × 16, so the rule is ×16: 15 × 16 = 240."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q008
+    difficulty: medium
+    stem: The sum of the current ages of Shipra and Malini is 65 years. After 5 years, Shipra’s age will be 15 years more than Malini’s age. What is Malini’s current age?
+    options:
+      A: 25 years
+      B: 30 years
+      C: 15 years
+      D: 20 years
+    answer: A
+    explanation: The age gap stays the same, so S − M = 15 and S + M = 65. Hence M = (65 − 15)/2 = 25 years.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q009
+    difficulty: medium
+    stem: |-
+      Select the term that will come next in the following series.
+
+      114, 127, 153, 192, 244, ?
+    options:
+      A: "309"
+      B: "361"
+      C: "344"
+      D: "284"
+    answer: A
+    explanation: "The differences are 13, 26, 39, 52, so the next is 65: 244 + 65 = 309."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q011
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Wrist  
+      2. Nails  
+      3. Shoulder  
+      4. Elbow  
+      5. Palm  
+      6. Fingers
+    options:
+      A: 3, 5, 1, 4, 6, 2
+      B: 3, 4, 1, 5, 6, 2
+      C: 3, 4, 1, 2, 5, 6
+      D: 3, 1, 4, 2, 5, 6
+    answer: B
+    explanation: "Going down the arm: Shoulder, Elbow, Wrist, Palm, Fingers, Nails = 3, 4, 1, 5, 6, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q012
+    difficulty: medium
+    stem: |-
+      Select the word-pair in which the two words are related in the same way as the two words in the following word-pair.
+
+      Dirty : Filthy
+    options:
+      A: "Perfect : Unique"
+      B: "Shy : Timid"
+      C: "Cute : Child"
+      D: "Bright : Sunlight"
+    answer: B
+    explanation: Filthy is a stronger form of dirty (near synonyms); likewise timid is close in meaning to shy.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q013
+    difficulty: medium
+    stem: In a code language, TROPICAL is written as PORTLACI. How will DISTANCE be written in that language?
+    options:
+      A: ISTSNAEF
+      B: TSIDECNA
+      C: TSIDECAN
+      D: STIDECNA
+    answer: B
+    explanation: "Each half of the word is reversed: TROP → PORT, ICAL → LACI. So DIST → TSID and ANCE → ECNA: TSIDECNA."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q014
+    difficulty: medium
+    stem: |-
+      Select the term that will come next in the following series.
+
+      DGJ, BDN, ZAR, XXV, ?
+    options:
+      A: VUZ
+      B: UUZ
+      C: VUY
+      D: VTZ
+    answer: A
+    explanation: "First letters go back 2 (D, B, Z, X, V), second letters back 3 (G, D, A, X, U), third letters forward 4 (J, N, R, V, Z): VUZ."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q015
+    difficulty: medium
+    stem: Three of the following four number-pairs are alike in a certain way and one is different. Pick the odd pair out.
+    options:
+      A: "4 : 27"
+      B: "49 : 218"
+      C: "16 : 125"
+      D: "9 : 64"
+    answer: B
+    explanation: "The pairs are n² : (n + 1)³: 4 : 27 (2², 3³), 9 : 64, 16 : 125. 49 = 7² but 218 is not 8³ (512) or 6³ (216)."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q016
+    difficulty: medium
+    stem: ‘Heart’ is related to ‘Circulation’ in the same way as ‘Kidney’ is related to ‘_______’.
+    options:
+      A: Reproduction
+      B: Respiration
+      C: Energy Production
+      D: Excretion
+    answer: D
+    explanation: The heart carries out circulation; the kidney carries out excretion.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q017
+    difficulty: medium
+    stem: |-
+      Select the term that will come next in the following series.
+
+      M, E, P, H, S, ?, V, N
+    options:
+      A: U
+      B: K
+      C: M
+      D: J
+    answer: B
+    explanation: "Two alternating series: M, P, S, V (+3) and E, H, ?, N (+3), so the missing letter is K."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q018
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the following figure?
+
+      *(Figure: A parallelogram-like shape: a large triangle stands on the right part of the base with its apex at the top edge; the left part is a slanted strip cut by two lines from the top edge, plus a line from the top-left corner to the triangle's right side; the triangle has a vertical line from apex to base and two horizontal lines across its lower half.)*
+    options:
+      A: "20"
+      B: "18"
+      C: "16"
+      D: "22"
+    answer: B
+    explanation: |-
+      Right triangle: the apex with each of the 3 levels (two horizontals and the base) gives left half, right half and whole = 9.
+      Left triangle: at its top-left corner, each of the two short lines and the far side, cut by the line from that corner, gives 3 triangles = 9. Total 18.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q019
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the following equation correct?
+
+      5 + 16 − 4 × 14 ÷ 2 = 59
+    options:
+      A: × and +
+      B: ÷ and ×
+      C: + and −
+      D: ÷ and −
+    answer: D
+    explanation: Swapping ÷ and − gives 5 + 16 ÷ 4 × 14 − 2 = 5 + 56 − 2 = 59.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q020
+    difficulty: medium
+    stem: In a code language, if LAMINATE is coded as 121139141205, then how will SYSTEMIC be coded in the same language?
+    options:
+      A: "1925192051393"
+      B: "1925192051493"
+      C: "1825182051393"
+      D: "1925192051383"
+    answer: A
+    explanation: |-
+      Each letter is replaced by its alphabet position: LAMINATE = 12-1-13-9-14-1-20-5.
+      SYSTEMIC = 19-25-19-20-5-13-9-3 = 1925192051393.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q021
+    difficulty: medium
+    stem: |-
+      In the Venn diagram shown here, the triangle represents ‘students’, the circle represents ‘diploma holders’ and the quadrilateral represents ‘graduates’. The numbers given in the diagram represents number of persons of that particular category.
+
+      How many students are diploma holders but NOT graduates?
+
+      *(Figure: Venn diagram of a triangle (students), a circle (diploma holders) and a rectangle (graduates). Numbers: 11 in the triangle only; 10 in the top-left of the rectangle and 20 in the bottom-left of the rectangle (rectangle only); 22 in triangle and rectangle only; 24 in all three; 8 in triangle and circle only; 30 in rectangle and circle only; 40 in the circle only.)*
+    options:
+      A: "8"
+      B: "11"
+      C: "40"
+      D: "30"
+    answer: A
+    explanation: "Students who are diploma holders but not graduates sit in the triangle-and-circle region outside the rectangle: 8."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q022
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: RVZDG
+      B: DHLPT
+      C: UYCGK
+      D: AEIMQ
+    answer: A
+    explanation: In DHLPT, UYCGK and AEIMQ each letter is 4 places after the previous one. In RVZDG the last step D → G is only +3.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q024
+    difficulty: medium
+    stem: Three of the following four words are alike in a certain way and one is different. Pick the odd word out.
+    options:
+      A: Indigo
+      B: Silver
+      C: Orange
+      D: Violet
+    answer: B
+    explanation: Indigo, orange and violet are colours of the rainbow (VIBGYOR); silver is not.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-13-s2-q026
+    difficulty: medium
+    stem: Chepu is a unique cultural symbol of ______.
+    options:
+      A: Bhutan
+      B: Myanmar (Burma)
+      C: China
+      D: Nepal
+    answer: D
+    explanation: Chepu, a fierce face shown on toranas and temple doors, is a cultural symbol of the Newars of Nepal.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q027
+    difficulty: medium
+    stem: Who among the following is/was the longest serving governor of an Indian state?
+    options:
+      A: Lakshmi Kant Jha
+      B: Padmaja Naidu
+      C: N D Tiwari
+      D: Sarojini Naidu
+    answer: B
+    explanation: Padmaja Naidu was Governor of West Bengal from 1956 to 1967, about eleven years, the longest term cited for a state governor.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q028
+    difficulty: medium
+    stem: In which part of the body is blood produced?
+    options:
+      A: Bone Marrow
+      B: Lungs
+      C: Brain
+      D: Heart
+    answer: A
+    explanation: Blood cells are made in the red bone marrow (haematopoiesis).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q029
+    difficulty: medium
+    stem: In which year was the Battle of Saragarhi fought?
+    options:
+      A: "1867"
+      B: "1897"
+      C: "1854"
+      D: "1878"
+    answer: B
+    explanation: The Battle of Saragarhi, where 21 Sikh soldiers held a post against thousands of tribesmen, was fought on 12 September 1897.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q030
+    difficulty: medium
+    stem: As of April 2019 who is longest serving chief minister of an Indian state?
+    options:
+      A: Jyoti Basu
+      B: Sheila Dixit
+      C: Jayalalitha
+      D: Pawan Chamling
+    answer: D
+    explanation: Pawan Chamling, Chief Minister of Sikkim from December 1994 to May 2019, passed Jyoti Basu's record in April 2018.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q031
+    difficulty: medium
+    stem: Byopa is a traditional headgear of tribes belonging to ______.
+    options:
+      A: Jharkhand
+      B: Arunachal Pradesh
+      C: Kerala
+      D: Goa
+    answer: B
+    explanation: The byopa, a cane cap decorated with a hornbill beak, is the traditional headgear of the Nyishi tribe of Arunachal Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q032
+    difficulty: medium
+    stem: Identify the part of brain that controls the maintenance of posture, balance and equilibrium.
+    options:
+      A: Diencephalon
+      B: Brainstem
+      C: Cerebrum
+      D: Cerebellum
+    answer: D
+    explanation: The cerebellum coordinates movement and maintains posture, balance and equilibrium.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q033
+    difficulty: medium
+    stem: In December 2018, Havelock Island was renamed as ________.
+    options:
+      A: Swaheed Dweep
+      B: Swaraj Dweep
+      C: Netaji Subhash Bose Island
+      D: Veer Savarkar Island
+    answer: B
+    explanation: In December 2018 Havelock Island was renamed Swaraj Dweep (Neil Island became Shaheed Dweep and Ross Island Netaji Subhas Chandra Bose Dweep).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q034
+    difficulty: medium
+    stem: Which of the following is the national sport of Bangladesh?
+    options:
+      A: Kabaddi
+      B: Kho Kho
+      C: Cricket
+      D: Boxing
+    answer: A
+    explanation: Kabaddi is the national sport of Bangladesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q035
+    difficulty: medium
+    stem: Wind turbines convert ________ energy into mechanical power.
+    options:
+      A: chemical
+      B: nuclear
+      C: gravitational
+      D: kinetic
+    answer: D
+    explanation: A wind turbine's blades convert the kinetic energy of moving air into mechanical (rotational) power.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q036
+    difficulty: medium
+    stem: Which of the following is the largest container port of India?
+    options:
+      A: Jawaharlal Nehru Port
+      B: Ennore Port
+      C: Chhatrapati Shivaji Port
+      D: Paradip Port
+    answer: A
+    explanation: Jawaharlal Nehru Port (Nhava Sheva, Navi Mumbai) handles the most container traffic in India.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q037
+    difficulty: medium
+    stem: Which theory in economics proposes that countries export what they can most efficiently and plentifully produce?
+    options:
+      A: Solow-Swan Model
+      B: Heckscher-Ohlin Model
+      C: Input-Output Model
+      D: Cournot Competition
+    answer: B
+    explanation: The Heckscher-Ohlin model says a country exports goods that use its abundant factors of production intensively.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q038
+    difficulty: medium
+    stem: Who is the author of the book The Buddha and His Dhamma?
+    options:
+      A: Jawaharlal Nehru
+      B: B R Ambedkar
+      C: Rajmohan Gandhi
+      D: Sarojini Naidu
+    answer: B
+    explanation: The Buddha and His Dhamma was written by B R Ambedkar and published in 1957.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q039
+    difficulty: medium
+    stem: Name the comprehensive pension management system developed by the Department of Telecom in December 2018.
+    options:
+      A: ACHARAN
+      B: SAMPANN
+      C: SAMADHAN
+      D: VIGYAN
+    answer: B
+    explanation: SAMPANN (System for Accounting and Management of Pension), launched by the Department of Telecommunications in December 2018, handles telecom pensions end to end.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q040
+    difficulty: medium
+    stem: With which sport is the term bleeder associated?
+    options:
+      A: Swimming
+      B: Volleyball
+      C: Cricket
+      D: Boxing
+    answer: D
+    explanation: In boxing, a 'bleeder' is a boxer who cuts and bleeds easily.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q041
+    difficulty: medium
+    stem: What was the theme of World AIDS Day 2018?
+    options:
+      A: Check Yourself
+      B: Save Yourself
+      C: Know your Status
+      D: We Shall Overcome
+    answer: C
+    explanation: The theme of World AIDS Day 2018 was 'Know your status'.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q042
+    difficulty: medium
+    stem: Which theory is used to make long-run predictions about exchange rates in a flexible exchange rate system?
+    options:
+      A: Purchasing Power Parity Theory
+      B: Balance of Payment Theory
+      C: Interest Rate Approach
+      D: Portfolio Balance Approach
+    answer: A
+    explanation: Purchasing Power Parity theory says exchange rates move to equalise the price of goods across countries, so it is used for long-run exchange-rate predictions.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q043
+    difficulty: medium
+    stem: The study of insects is called ______.
+    options:
+      A: Ornithology
+      B: Anthropology
+      C: Geology
+      D: Entomology
+    answer: D
+    explanation: Entomology is the study of insects (ornithology is birds, geology is rocks).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q044
+    difficulty: medium
+    stem: In which medical condition is the eye's optic nerve damaged and the condition worsens over time?
+    options:
+      A: Cataract
+      B: Dry Eye
+      C: Age-related Macular Degeneration (AMD)
+      D: Glaucoma
+    answer: D
+    explanation: Glaucoma is a progressive disease that damages the optic nerve, often due to raised pressure in the eye.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q045
+    difficulty: medium
+    stem: Who was the first Russian prime minister to visit independent India?
+    options:
+      A: Nikolai Bulganin
+      B: Mikhail Gorbachev
+      C: Boris Yeltsin
+      D: Vladimir Putin
+    answer: A
+    explanation: Soviet Premier Nikolai Bulganin visited India with Nikita Khrushchev in November 1955, the first such visit after independence.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q046
+    difficulty: medium
+    stem: How many sessions of the Lok Sabha are normally held in a year?
+    options:
+      A: "7"
+      B: "5"
+      C: "3"
+      D: "2"
+    answer: C
+    explanation: "The Lok Sabha normally meets in three sessions a year: Budget, Monsoon and Winter."
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q047
+    difficulty: medium
+    stem: Which state of India was ruled by the Ahom Dynasty?
+    options:
+      A: Karnataka
+      B: Assam
+      C: Rajasthan
+      D: Odisha
+    answer: B
+    explanation: The Ahom dynasty ruled Assam (the Brahmaputra valley) from 1228 to 1826.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q048
+    difficulty: medium
+    stem: Which was the wettest place in India in 2018 as per the India Meteorological Department (IMD)?
+    options:
+      A: Cherrapunji
+      B: Mawsynram
+      C: Mahabaleshwar
+      D: Ooty
+    answer: C
+    explanation: By IMD's monsoon rainfall figures for 2018, Mahabaleshwar in Maharashtra received more rain than Cherrapunji and Mawsynram, making it the wettest place that year.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q049
+    difficulty: medium
+    stem: Which of the following is the highest peak in Sri Lanka?
+    options:
+      A: Kirigalpotta
+      B: Hakgala
+      C: Mount Pedro
+      D: Bible Rock
+    answer: C
+    explanation: Pidurutalagala, also called Mount Pedro (2,524 m), is the highest peak in Sri Lanka.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q050
+    difficulty: medium
+    stem: Who among the following was the last Nawab of Awadh?
+    options:
+      A: Amjad Ali Khan
+      B: Muhammad Mukim
+      C: Wajid Ali Shah
+      D: Saadat Ali Khan
+    answer: C
+    explanation: Wajid Ali Shah was the last Nawab of Awadh; the British annexed Awadh in 1856.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-13-s2-q051
+    difficulty: medium
+    stem: "In ΔABC, P is a point on BC such that BP : PC = 4 : 11. If Q is the midpoint of BP, then ar(ΔABQ) : ar(ΔABC) is equal to:"
+    options:
+      A: "2 : 11"
+      B: "2 : 15"
+      C: "3 : 13"
+      D: "2 : 13"
+    answer: B
+    explanation: "BQ = BP/2 = (4/15)BC/2 = (2/15)BC. Triangles with the same apex A have areas in the ratio of their bases, so the ratio is 2 : 15."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q052
+    difficulty: medium
+    stem: "If √x + 1/√x = √6, then x² + 1/x² is equal to:"
+    options:
+      A: "18"
+      B: "14"
+      C: "16"
+      D: "12"
+    answer: B
+    explanation: "Squaring: x + 1/x + 2 = 6, so x + 1/x = 4. Then x² + 1/x² = 4² − 2 = 14."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q053
+    difficulty: medium
+    stem: An article is sold for ₹288 after successive discounts of 25% and x%. If the marked price of the article is ₹480, what is the value of x?
+    options:
+      A: "20"
+      B: "16"
+      C: "15"
+      D: "18"
+    answer: A
+    explanation: After 25% off, 480 becomes 360. 288/360 = 0.8, so the second discount is 20%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q054
+    difficulty: medium
+    stem: In a class of 50 students, 40% are girls. The average marks of the whole class are 64.4 and the average of the boys’ marks is 62. What is the average marks of the girls?
+    options:
+      A: "67"
+      B: "66.8"
+      C: "66.4"
+      D: "68"
+    answer: D
+    explanation: |-
+      20 girls and 30 boys. Total marks = 50 × 64.4 = 3220; boys = 30 × 62 = 1860.
+      Girls' average = (3220 − 1860)/20 = 68.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q055
+    difficulty: medium
+    stem: "If 2sinθ = 5cosθ, then (sinθ + cosθ)/(sinθ − cosθ) is equal to:"
+    options:
+      A: 5/3
+      B: 9/5
+      C: 2/3
+      D: 7/3
+    answer: D
+    explanation: "tanθ = 5/2. Divide by cosθ: (tanθ + 1)/(tanθ − 1) = (7/2)/(3/2) = 7/3."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q056
+    difficulty: medium
+    stem: "The efficiencies of A, B and C are in the ratio of 5 : 3 : 2. Working together, they can complete a task in 21 hours. In how many hours will B alone complete 40% of that task?"
+    options:
+      A: "28"
+      B: "24"
+      C: "35"
+      D: "21"
+    answer: A
+    explanation: Work = (5 + 3 + 2) × 21 = 210 units. 40% of it is 84 units; B does 3 units an hour, so 84/3 = 28 hours.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q057
+    difficulty: medium
+    stem: "The value of sin²32° + sin²58° − sin30° + sec²60° is equal to:"
+    options:
+      A: "5.5"
+      B: "3.5"
+      C: "4.5"
+      D: "4"
+    answer: C
+    explanation: sin²32° + sin²58° = sin²32° + cos²32° = 1. So the value is 1 − 1/2 + 2² = 4.5.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q058
+    difficulty: medium
+    stem: "If a + b + c = 10 and ab + bc + ca = 32 then a³ + b³ + c³ − 3abc is equal to:"
+    options:
+      A: "50"
+      B: "40"
+      C: "60"
+      D: "70"
+    answer: B
+    explanation: a³ + b³ + c³ − 3abc = (a + b + c)[(a + b + c)² − 3(ab + bc + ca)] = 10 × (100 − 96) = 40.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q059
+    difficulty: medium
+    stem: "If a − b = 5 and ab = 6, then (a³ − b³) is equal to:"
+    options:
+      A: "225"
+      B: "155"
+      C: "90"
+      D: "215"
+    answer: D
+    explanation: a³ − b³ = (a − b)³ + 3ab(a − b) = 125 + 3 × 6 × 5 = 215.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q060
+    difficulty: medium
+    stem: "In a circle with centre O, an arc ABC subtends an angle of 110° at the centre of the circle. The chord AB is produced to a point P. Then ∠CBP is equal to:"
+    options:
+      A: 60°
+      B: 55°
+      C: 65°
+      D: 70°
+    answer: B
+    explanation: |-
+      Arc ABC (through B) is 110°, so the other arc AC is 250° and the inscribed angle ∠ABC = 125°.
+      ∠CBP = 180° − 125° = 55°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q061
+    difficulty: medium
+    stem: In a circle of radius 17 cm, a chord is at a distance of 8 cm from the centre of the circle. What is the length of the chord?
+    options:
+      A: 20 cm
+      B: 15 cm
+      C: 25 cm
+      D: 30 cm
+    answer: D
+    explanation: Half-chord = √(17² − 8²) = √225 = 15, so the chord is 30 cm.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q062
+    difficulty: medium
+    stem: |-
+      The Table shows the number of cars sold by three showrooms over a period of six years.
+
+      **Year**
+
+      | Showroom | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|---|
+      | A | 500 | 480 | 520 | 620 | 650 | 630 |
+      | B | 450 | 420 | 530 | 480 | 520 | 400 |
+      | C | 400 | 450 | 460 | 520 | 540 | 430 |
+
+      If the total number of cars sold by all three showrooms over the years is represented as a pie-chart, what is the central angle of the sector representing the total number of cars sold in the year 2013 (to the nearest whole number)?
+    options:
+      A: 58°
+      B: 62°
+      C: 60°
+      D: 56°
+    answer: C
+    explanation: |-
+      Grand total = 3400 + 2800 + 2800 = 9000. In 2013: 520 + 530 + 460 = 1510.
+      Angle = 1510/9000 × 360° = 60.4° ≈ 60°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q063
+    difficulty: medium
+    stem: The price of sugar is increased by 17%. A person wants to increase his expenditure by 5% only. By approximately what percent should he decrease his consumption?
+    options:
+      A: "10.3"
+      B: "10.7"
+      C: "10.9"
+      D: "9.9"
+    answer: A
+    explanation: New consumption = 1.05/1.17 = 0.8974 of the old, so it falls by about 10.3%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q064
+    difficulty: medium
+    stem: |-
+      The Table shows the number of cars sold by three showrooms over a period of six years.
+
+      **Year**
+
+      | Showroom | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|---|
+      | A | 500 | 480 | 520 | 620 | 650 | 630 |
+      | B | 450 | 420 | 530 | 480 | 520 | 400 |
+      | C | 400 | 450 | 460 | 520 | 540 | 430 |
+
+      What is the ratio of the total cars sold by showroom B during the years 2014 and 2016 and the total cars sold by showroom C during 2015 and 2016?
+    options:
+      A: "86 : 97"
+      B: "88 : 97"
+      C: "85 : 97"
+      D: "88 : 95"
+    answer: B
+    explanation: "B in 2014 and 2016: 480 + 400 = 880. C in 2015 and 2016: 540 + 430 = 970. Ratio 88 : 97."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q065
+    difficulty: medium
+    stem: |-
+      The Table shows the number of cars sold by three showrooms over a period of six years.
+
+      **Year**
+
+      | Showroom | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|---|
+      | A | 500 | 480 | 520 | 620 | 650 | 630 |
+      | B | 450 | 420 | 530 | 480 | 520 | 400 |
+      | C | 400 | 450 | 460 | 520 | 540 | 430 |
+
+      By what percent did the total number of cars sold by all three showrooms decrease during the year 2016, as compared to that in the year 2015 (nearest to one decimal place)?
+    options:
+      A: 14.6%
+      B: 14.8%
+      C: 14.4%
+      D: 14.9%
+    answer: A
+    explanation: |-
+      2015 total = 650 + 520 + 540 = 1710; 2016 total = 630 + 400 + 430 = 1460.
+      Decrease = 250/1710 × 100 ≈ 14.6%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q066
+    difficulty: medium
+    stem: "If cosec2θ = sec(3θ − 15°), then θ is equal to:"
+    options:
+      A: 22°
+      B: 20°
+      C: 25°
+      D: 21°
+    answer: D
+    explanation: "cosec A = sec B means A + B = 90°: 2θ + 3θ − 15° = 90°, so θ = 21°."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q067
+    difficulty: medium
+    stem: "If (5a − 3b) : (4a − 2b) = 2 : 3, then a : b is equal to:"
+    options:
+      A: "3 : 4"
+      B: "2 : 3"
+      C: "5 : 8"
+      D: "5 : 7"
+    answer: D
+    explanation: "3(5a − 3b) = 2(4a − 2b) gives 15a − 9b = 8a − 4b, so 7a = 5b and a : b = 5 : 7."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q068
+    difficulty: medium
+    stem: "ΔABC~ΔNLM and ar(ΔABC) : ar(ΔLMN) = 4 : 9. If AB = 6 cm, BC = 8 cm and AC =12 cm, then ML is equal to:"
+    options:
+      A: 18 cm
+      B: 9 cm
+      C: 6 cm
+      D: 12 cm
+    answer: D
+    explanation: "The area ratio 4 : 9 gives a side ratio 2 : 3. ML corresponds to BC, so ML = 8 × 3/2 = 12 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q069
+    difficulty: medium
+    stem: Two articles are sold for ₹962 each. On one, the seller gains 30% and on the other he loses 26%. What is his overall gain or loss percentage, nearest to one decimal place?
+    options:
+      A: 6.0% gain
+      B: 5.7% loss
+      C: 5.7% gain
+      D: 6.0% loss
+    answer: B
+    explanation: |-
+      CPs: 962/1.30 = 740 and 962/0.74 = 1300, total 2040; SP total = 1924.
+      Loss = 116/2040 × 100 ≈ 5.7%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q070
+    difficulty: medium
+    stem: |-
+      The Table shows the number of cars sold by three showrooms over a period of six years.
+
+      **Year**
+
+      | Showroom | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|---|
+      | A | 500 | 480 | 520 | 620 | 650 | 630 |
+      | B | 450 | 420 | 530 | 480 | 520 | 400 |
+      | C | 400 | 450 | 460 | 520 | 540 | 430 |
+
+      What is the average number of cars sold by showroom A over the given six years (nearest to one decimal place)?
+    options:
+      A: "586.7"
+      B: "566.7"
+      C: "594.7"
+      D: "592.7"
+    answer: B
+    explanation: A's total = 500 + 480 + 520 + 620 + 650 + 630 = 3400; 3400/6 ≈ 566.7.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q071
+    difficulty: medium
+    stem: What is the value of x so that the seven digit number 8439x53 is divisible by 99?
+    options:
+      A: "9"
+      B: "4"
+      C: "3"
+      D: "6"
+    answer: B
+    explanation: |-
+      For 99, the sum of two-digit groups from the right must be a multiple of 99: 53 + 9x + 43 + 8 = 194 + x.
+      x = 4 gives 198 = 2 × 99.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q072
+    difficulty: medium
+    stem: The difference between compound interest and simple interest on ₹x at 15% per annum for 2 years is ₹9. What is the value of x?
+    options:
+      A: "600"
+      B: "400"
+      C: "450"
+      D: "500"
+    answer: B
+    explanation: For 2 years, CI − SI = P(r/100)² = x × 0.0225 = 9, so x = 400.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q073
+    difficulty: medium
+    stem: "Walking at 7/9 of his usual speed, a person reaches his office 10 minutes later than the usual time. His usual time in minutes is:"
+    options:
+      A: "35"
+      B: "27"
+      C: "42"
+      D: "30"
+    answer: A
+    explanation: At 7/9 of the speed the time becomes 9/7 of usual, an extra 2/7 of usual time = 10 min, so usual time = 35 min.
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q074
+    difficulty: medium
+    stem: Five cubes, each of edge 3 cm are joined end to end. What is the total surface area of the resulting cuboid, in cm²?
+    options:
+      A: "244"
+      B: "280"
+      C: "270"
+      D: "198"
+    answer: D
+    explanation: The cuboid is 15 × 3 × 3 cm. Surface area = 2(15×3 + 3×3 + 15×3) = 2 × 99 = 198 cm².
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q075
+    difficulty: medium
+    stem: "The value of 15.2 + 5.8 ÷ 2.9 × 2 − 3.5 × 2 ÷ 0.5 is equal to:"
+    options:
+      A: "4.8"
+      B: "3.2"
+      C: "5.2"
+      D: "5.4"
+    answer: C
+    explanation: "By BODMAS: 5.8 ÷ 2.9 × 2 = 4 and 3.5 × 2 ÷ 0.5 = 14, so 15.2 + 4 − 14 = 5.2."
+    tags:
+      - quant
+  - slug: cgl-2019-06-13-s2-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence.
+
+      If no substitution is required, select No improvement.
+
+      How long **you are living** in this city?
+    options:
+      A: are you live
+      B: are you been living
+      C: No improvement
+      D: have you lived
+    answer: D
+    explanation: "A question about an action from the past up to now takes the present perfect with inversion: 'How long have you lived in this city?'"
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q077
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      They will put away their woollens after the festival of Holi.
+    options:
+      A: Their woollens are being put away after the festival of Holi.
+      B: Their woollens have been put away after the festival of Holi.
+      C: Their woollens will be put away after the festival of Holi.
+      D: Their woollens are put away after the festival of Holi.
+    answer: C
+    explanation: Simple future active 'will put away' becomes 'will be put away' in the passive.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      liable to break easily
+    options:
+      A: brittle
+      B: soft
+      C: bent
+      D: thin
+    answer: A
+    explanation: Brittle means hard but liable to break easily.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      INSULT
+    options:
+      A: remove
+      B: apply
+      C: offer
+      D: offend
+    answer: D
+    explanation: To insult someone is to offend them.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      I am quite satisfied that I have not been ________ in doing whatever was needful for building up their character.
+    options:
+      A: negligent
+      B: devoted
+      C: caring
+      D: affectionate
+    answer: A
+    explanation: The speaker is satisfied he has not been careless, so 'negligent' fits; the other words are positive and contradict 'not'.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q081
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences.  Select the option that gives their correct order.
+
+      A. He would sit at the edge of her mother's bed and stare into her crib.  
+      B. Arvind bumbled down the interminable corridor, suddenly reminded of his daughter in the days after she was born.  
+      C. As a proportion to the fragment of life his daughter had seen, an hour was a vast sprawling space.  
+      D. Some days he would imagine the world through her eyes and he would feel in his heart how long an hour actually was.
+    options:
+      A: BCDA
+      B: BADC
+      C: DACB
+      D: ABCD
+    answer: B
+    explanation: "B introduces Arvind remembering his newborn daughter, A says what he would do then, D what he would feel, and C explains why an hour felt so long: BADC."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q082
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: mentoin
+      B: mention
+      C: mantion
+      D: mension
+    answer: B
+    explanation: The correct spelling is 'mention'.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence.
+
+      If no substitution is required, select No improvement.
+
+      The female ostrich guards the nest at night and the male **guard it in the day.**
+    options:
+      A: guard it during the day.
+      B: guarding it during day.
+      C: guards it during the day.
+      D: No improvement
+    answer: C
+    explanation: The singular subject 'the male' needs 'guards', and 'during the day' is the idiomatic phrase.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      PROGRESSIVE
+    options:
+      A: conservative
+      B: repeated
+      C: aristocratic
+      D: moving
+    answer: A
+    explanation: Progressive (favouring change) is the opposite of conservative (resisting change).
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q085
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      impossible to satisfy
+    options:
+      A: satisfactory
+      B: satisfiable
+      C: contented
+      D: insatiable
+    answer: D
+    explanation: Insatiable means impossible to satisfy.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q086
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      Rudra was laughed at by all his friends when he wore his socks inside- out.
+    options:
+      A: If Rudra wears his socks inside-out all his friends will laugh at him.
+      B: When Rudra wore his socks inside-out all his friends were laughing at him.
+      C: All his friends will be laughing at Rudra for wearing his socks inside-out.
+      D: All his friends laughed at Rudra when he wore his socks inside-out.
+    answer: D
+    explanation: "Passive 'was laughed at by all his friends' becomes active simple past: 'All his friends laughed at Rudra'; the 'when' clause is unchanged."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Today, _______ society is literally poisoning the earth with acid rain.
+    options:
+      A: cosmopolitan
+      B: developing
+      C: growing
+      D: industrialised
+    answer: D
+    explanation: Acid rain comes from industrial emissions, so it is industrialised society that poisons the earth.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      Let us have all the regulations **in black and white.**
+    options:
+      A: painted in colour
+      B: printed in coloured ink
+      C: written on the black- board
+      D: in writing
+    answer: D
+    explanation: "'In black and white' means in writing."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q089
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      Although there are more than a hundred known elements, they rarely occur at a pure state.
+    options:
+      A: more than a hundred
+      B: Although there are
+      C: at a pure state
+      D: they rarely occur
+    answer: C
+    explanation: The correct phrase is 'in a pure state', not 'at a pure state'.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q090
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      You may left the class when you have completed the test.
+    options:
+      A: the class
+      B: when you have
+      C: completed the test
+      D: You may left
+    answer: D
+    explanation: "A modal verb takes the base form: 'You may leave', not 'may left'."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q091
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences.  Select the option that gives their correct order.
+
+      A. It is a popular tourist spot for watching the sunset and sunrise over the ocean.  
+      B. Kanyakumari is a coastal town in the State of Tamil Nadu on India's southern tip.  
+      C. It is also a noted pilgrimage site, thanks to its Bagvathi Amman Temple and Our Lady of Ransom Church, a centre of Indian Catholicism.  
+      D. Jutting out into the Laccadive sea, the town was known as Cape Comorin during the British rule.
+    options:
+      A: ACDB
+      B: DCAB
+      C: BDAC
+      D: BCDA
+    answer: C
+    explanation: "B introduces Kanyakumari, D adds its location and old name, A describes it as a tourist spot, and C ('also a pilgrimage site') follows: BDAC."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      The invigilator did not know that the two boys were exchanging notes **under his nose.**
+    options:
+      A: written in small letters
+      B: rolled into small pellets
+      C: wrapped in handkerchiefs
+      D: right in front of him
+    answer: D
+    explanation: "'Under his nose' means right in front of him, openly, yet unnoticed."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      HOSTILITY
+    options:
+      A: enmity
+      B: sympathy
+      C: goodwill
+      D: friendship
+    answer: A
+    explanation: Hostility means enmity or unfriendliness.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      PUBLIC
+    options:
+      A: common
+      B: ready
+      C: private
+      D: resticted
+    answer: C
+    explanation: The opposite of public is private.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q095
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: sweatter
+      B: scissors
+      C: clettering
+      D: teribble
+    answer: B
+    explanation: "'Scissors' is spelt correctly; the others should be sweater, clattering and terrible."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Marine Conservation Society is hosting the Anjarle Turtle festival 2019, aiming to make more people aware about Olive Ridley turtles. The sea (1) ______ get their names from their olive-coloured (2)______ They grow to about two feet in (3)______ and reportedly mate at around 1000 kilometers from the Anjarle (4)______ These turtles come to the beach to lay (5)______.
+
+      Select the most appropriate option to fill in blank No.(1)
+    options:
+      A: snakes
+      B: fish
+      C: animal
+      D: turtles
+    answer: D
+    explanation: The passage is about Olive Ridley turtles, so 'The sea turtles' is the subject.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Marine Conservation Society is hosting the Anjarle Turtle festival 2019, aiming to make more people aware about Olive Ridley turtles. The sea (1) ______ get their names from their olive-coloured (2)______ They grow to about two feet in (3)______ and reportedly mate at around 1000 kilometers from the Anjarle (4)______ These turtles come to the beach to lay (5)______.
+
+      Select the most appropriate option to fill in blank No.(2)
+    options:
+      A: wings
+      B: shells
+      C: feathers
+      D: beaks
+    answer: B
+    explanation: Olive Ridley turtles are named for the olive colour of their shells (carapace).
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Marine Conservation Society is hosting the Anjarle Turtle festival 2019, aiming to make more people aware about Olive Ridley turtles. The sea (1) ______ get their names from their olive-coloured (2)______ They grow to about two feet in (3)______ and reportedly mate at around 1000 kilometers from the Anjarle (4)______ These turtles come to the beach to lay (5)______.
+
+      Select the most appropriate option to fill in blank No.(3)
+    options:
+      A: length
+      B: growth
+      C: weight
+      D: depth
+    answer: A
+    explanation: "'About two feet' is a measure of length."
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Marine Conservation Society is hosting the Anjarle Turtle festival 2019, aiming to make more people aware about Olive Ridley turtles. The sea (1) ______ get their names from their olive-coloured (2)______ They grow to about two feet in (3)______ and reportedly mate at around 1000 kilometers from the Anjarle (4)______ These turtles come to the beach to lay (5)______.
+
+      Select the most appropriate option to fill in blank No.(4)
+    options:
+      A: festival
+      B: beach
+      C: sea
+      D: sand
+    answer: B
+    explanation: The turtles mate far from the Anjarle beach and come to the beach to lay eggs, so 'beach' fits.
+    tags:
+      - english
+  - slug: cgl-2019-06-13-s2-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Marine Conservation Society is hosting the Anjarle Turtle festival 2019, aiming to make more people aware about Olive Ridley turtles. The sea (1) ______ get their names from their olive-coloured (2)______ They grow to about two feet in (3)______ and reportedly mate at around 1000 kilometers from the Anjarle (4)______ These turtles come to the beach to lay (5)______.
+
+      Select the most appropriate option to fill in blank No.(5)
+    options:
+      A: young ones
+      B: eggs
+      C: pebbles
+      D: shells
+    answer: B
+    explanation: Sea turtles come ashore to lay eggs.
+    tags:
+      - english

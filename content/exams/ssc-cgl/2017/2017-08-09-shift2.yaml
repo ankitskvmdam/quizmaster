@@ -1,0 +1,1350 @@
+slug: 2017-08-09-shift2
+title: SSC CGL 2017 Tier 1
+date: 2017-08-09
+label: 9 Aug, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/a601265c-9e8d-11e9-8ff2-e470b83c4461). Left out (picture-only options or incomplete in the source): Q9, Q19, Q20, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-09-s2-q001
+    difficulty: medium
+    stem: |-
+      In the following question, select the related word from the given alternatives.
+
+      Calendar : Date : : Index : ?
+    options:
+      A: Name of Author
+      B: Glossary
+      C: Contents
+      D: Summary
+    answer: C
+    explanation: A calendar is a list of dates; an index is likewise a list of the book's contents (topics) with page numbers.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q002
+    difficulty: medium
+    stem: |-
+      In the following question, select the related number from the given alternatives.
+
+      ACOUSTIC : 91 : : RENOUNCE : ?
+    options:
+      A: "95"
+      B: "99"
+      C: "105"
+      D: "109"
+    answer: A
+    explanation: "Sum of letter positions: ACOUSTIC = 1+3+15+21+19+20+9+3 = 91, and RENOUNCE = 18+5+14+15+21+14+3+5 = 95."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q003
+    difficulty: medium
+    stem: |-
+      In the following question, select the related number from the given alternatives.
+
+      243 : 819 : : 163 : ?
+    options:
+      A: "487"
+      B: "563"
+      C: "572"
+      D: "593"
+    answer: A
+    explanation: "Add the square of the product of the digits: 243 + (2×4×3)² = 243 + 576 = 819, so 163 + (1×6×3)² = 163 + 324 = 487."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q004
+    difficulty: medium
+    stem: In the following question, select the odd word from the given alternatives.
+    options:
+      A: Badminton
+      B: Table Tennis
+      C: Cricket
+      D: Hockey
+    answer: A
+    explanation: Badminton is played with a shuttlecock; table tennis, cricket and hockey use a ball.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q005
+    difficulty: medium
+    stem: In the following question, select the odd letters from the given alternatives.
+    options:
+      A: ACFJ
+      B: RTWA
+      C: NPSV
+      D: HJMQ
+    answer: C
+    explanation: ACFJ, RTWA (W+4 wraps round to A) and HJMQ go up by +2, +3, +4; NPSV goes up by +2, +3, +3.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q006
+    difficulty: medium
+    stem: In the following question, select the odd number group from the given alternatives.
+    options:
+      A: (4, 16, 48)
+      B: (6, 36, 90)
+      C: (8, 64, 160)
+      D: (12, 144, 360)
+    answer: A
+    explanation: In the others the third number is 2.5 × the square (36×2.5 = 90, 64×2.5 = 160, 144×2.5 = 360); in (4, 16, 48) it is 3 × 16.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q007
+    difficulty: medium
+    stem: |-
+      Arrange the given words in the sequence in which they occur in the dictionary.
+
+      1. Decollete  
+      2. Desecrate  
+      3. Decorous  
+      4. Desipicable  
+      5. Destitute
+    options:
+      A: "13245"
+      B: "15243"
+      C: "32451"
+      D: "45231"
+    answer: A
+    explanation: "Dictionary order: Decollete (1), Decorous (3), Desecrate (2), Desipicable (4), Destitute (5), i.e. 13245."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q008
+    difficulty: medium
+    stem: |-
+      In the following question, which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?
+
+      a _ bc _ a _ bcdabc _ da _ cd _
+    options:
+      A: acbddb
+      B: adbcbd
+      C: cabddc
+      D: ddcbbc
+    answer: B
+    explanation: "Filling a, d, b, c, b, d gives aabcd / abbcd / abccd / abcdd: each block doubles the next letter in turn."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q010
+    difficulty: medium
+    stem: "5 year hence, ratio of ages of A and B will be 7 : 5 and difference between their ages will be 4 years. What are present ages (in years) of A and B respectively?"
+    options:
+      A: 5, 9
+      B: 6, 5
+      C: 9, 5
+      D: 9, 6
+    answer: C
+    explanation: "After 5 years the ages are 7k and 5k with a difference of 2k = 4, so k = 2: 14 and 10. The present ages are 9 and 5."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q011
+    difficulty: medium
+    stem: From a point, Lokesh starts walking towards south and after walking 30 metres he turns to his right and walks 20 metres, then he turns right again and walks 30 metres. He finally turns to his left and walk 40 metres. In which direction is he with reference to the starting point?
+    options:
+      A: North-West
+      B: East
+      C: West
+      D: South
+    answer: C
+    explanation: South 30, right (west) 20, right (north) 30 brings him back level with the start, 20 m west; left (west) 40 more puts him 60 m due west.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q012
+    difficulty: medium
+    stem: |-
+      In the following question, from the given alternative words, select the word which cannot be formed using the letters of the given word.
+
+      ENCYCLOPEDIA
+    options:
+      A: CONE
+      B: CYCLE
+      C: NOISY
+      D: PEACE
+    answer: C
+    explanation: ENCYCLOPEDIA has no S, so NOISY cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q013
+    difficulty: medium
+    stem: In a certain code language, "RAIN" is written as "OHBQ". How is "SUMMER" written in that code language?
+    options:
+      A: QFLNTT
+      B: QDLLTR
+      C: SFNNVT
+      D: SDNLVR
+    answer: D
+    explanation: "Reverse the word, then shift the letters +1, −1 alternately: RAIN → NIAR → OHBQ. SUMMER → REMMUS → SDNLVR."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q014
+    difficulty: medium
+    stem: |-
+      In the following question, correct the given equation by interchanging two numbers.
+
+      8 x 3 ÷ 4 + 9 – 5 = 16
+    options:
+      A: 3 and 4
+      B: 4 and 8
+      C: 5 and 3
+      D: 5 and 9
+    answer: C
+    explanation: Swapping 5 and 3 gives 8 × 5 ÷ 4 + 9 − 3 = 10 + 9 − 3 = 16.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q015
+    difficulty: medium
+    stem: If (2)# * 4 = 2 and (4)# * 4 = 16, then what is the value of A in (6)# * A = 18?
+    options:
+      A: "12"
+      B: "14"
+      C: "16"
+      D: "20"
+    answer: A
+    explanation: "(x)# * y means x³ ÷ y: 8/4 = 2 and 64/4 = 16. So 216/A = 18 gives A = 12."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q016
+    difficulty: medium
+    stem: |-
+      In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.
+
+      | Figure | Top | Left | Centre | Right | Bottom |
+      |---|---|---|---|---|---|
+      | 1 | 2 | 1 | 41 | 5 | 3 |
+      | 2 | 3 | 4 | 159 | 6 | 2 |
+      | 3 | 7 | 5 | ? | 3 | 2 |
+
+      *(Figure: Three plus-shaped (cross) number figures printed as an image; each has a centre cell with cells above, left, right and below. Reproduced as a table.)*
+    options:
+      A: "189"
+      B: "227"
+      C: "277"
+      D: "339"
+    answer: B
+    explanation: "Centre = product + sum of the four numbers: 2·1·5·3 + 11 = 41 and 3·4·6·2 + 15 = 159, so 7·5·3·2 + 17 = 227."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q017
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: An isosceles trapezium (longer side at the bottom). Two vertical lines drop from the two top corners to the base, making a rectangle in the middle with a right triangle on each side; both diagonals of the middle rectangle are drawn.)*
+    options:
+      A: "8"
+      B: "10"
+      C: "12"
+      D: "14"
+    answer: C
+    explanation: There are 2 side right triangles and 8 in the middle rectangle with its diagonals (4 small, 4 half-rectangles). Each side triangle also joins a diagonal half to make 2 larger ones, so the total is 12.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q018
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions. Taking the given statements to be true even if they seem to be at variance from commonly known facts, read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:  
+      I. All rackets are bats.  
+      II. All bats are wickets.
+
+      Conclusions:  
+      I. Some wickets are rackets.  
+      II. All wickets are rackets.
+    options:
+      A: Only conclusion (I) follows.
+      B: Only conclusion (II) follows.
+      C: Neither conclusion (I) nor conclusion (II) follows.
+      D: Both conclusions follow.
+    answer: A
+    explanation: All rackets are bats and all bats are wickets, so all rackets are wickets, and hence some wickets are rackets (I). II does not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q025
+    difficulty: medium
+    stem: |-
+      A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example, ‘X’ can be represented by 21, 44, etc., and ‘R’ can be represented by 67, 98, etc. Similarly, you have to identify the set for the word “CREEP”.
+
+      Matrix-I
+
+      | | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | E | C | P | X | T |
+      | 1 | C | P | X | T | E |
+      | 2 | P | X | T | E | C |
+      | 3 | X | T | E | C | P |
+      | 4 | T | E | C | P | X |
+
+      Matrix-II
+
+      | | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | R | L | N | O | M |
+      | 6 | O | M | R | L | N |
+      | 7 | L | N | O | M | R |
+      | 8 | M | R | L | N | O |
+      | 9 | N | O | M | R | L |
+
+      *(Figure: Two 5×5 letter matrices printed as an image; reproduced as tables.)*
+    options:
+      A: 10, 79, 23, 32, 42
+      B: 24, 55, 14, 41, 12
+      C: 33, 86, 32, 13, 43
+      D: 42, 98, 41, 00, 34
+    answer: D
+    explanation: In D, 42 = C (Matrix-I), 98 = R (Matrix-II), and 41 = E, 00 = E and 34 = P (Matrix-I), which spells CREEP.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q026
+    difficulty: medium
+    stem: In which market form, a market or an industry is dominated by a single seller?
+    options:
+      A: Oligopoly
+      B: Monopoly
+      C: Duopoly
+      D: Monopolistic Competition
+    answer: B
+    explanation: A monopoly is a market dominated by a single seller with no close substitutes.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q027
+    difficulty: medium
+    stem: Which one of the following is also regarded as Disguised unemployment?
+    options:
+      A: Underemployment
+      B: Frictional unemployment
+      C: Seasonal unemployment
+      D: Cyclical unemployment
+    answer: A
+    explanation: Disguised unemployment, where more people are engaged than the work needs, is a form of underemployment.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q028
+    difficulty: medium
+    stem: |-
+      Which of the following are constituents of Indian Parliament?
+
+      (i) The President  
+      (ii) The Council of States (Rajya Sabha)  
+      (iii) The House of the People (Lok Sabha)
+    options:
+      A: (ii) and (iii)
+      B: (i) and (ii)
+      C: (i) and (iii)
+      D: (i), (ii) and (iii)
+    answer: D
+    explanation: "Article 79: Parliament consists of the President and the two Houses, the Rajya Sabha and the Lok Sabha."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q029
+    difficulty: medium
+    stem: Who among the following is the executive head of state in India?
+    options:
+      A: Prime Minister
+      B: President
+      C: Cabinet Secretary
+      D: Finance Secretary
+    answer: B
+    explanation: Article 53 vests the executive power of the Union in the President, the head of state.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q030
+    difficulty: medium
+    stem: Who built the Konark''s Sun Temple?
+    options:
+      A: Anantavarman Chodaganga Deva
+      B: Narasimhadeva I
+      C: Kapilendra Deva Routaray
+      D: Purushottam Dev
+    answer: B
+    explanation: The Konark Sun Temple was built in about 1250 CE by King Narasimhadeva I of the Eastern Ganga dynasty.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q031
+    difficulty: medium
+    stem: Who was the first Governor General of Bengal?
+    options:
+      A: Robert Clive
+      B: William Bentick
+      C: Warren Hastings
+      D: Charles Cornawallis
+    answer: C
+    explanation: Warren Hastings became the first Governor-General of (Fort William in) Bengal under the Regulating Act of 1773.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q032
+    difficulty: medium
+    stem: Amazon river flows through which of the following country?
+    options:
+      A: USA
+      B: France
+      C: Brazil
+      D: Canada
+    answer: C
+    explanation: Most of the Amazon's course lies in Brazil; none of the other countries listed is in South America.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q033
+    difficulty: medium
+    stem: What is the other name of Sahyadri Range?
+    options:
+      A: Lesser Himalayas
+      B: Shivaliks
+      C: Western Ghats
+      D: Eastern Ghats
+    answer: C
+    explanation: The Western Ghats are also called the Sahyadri range.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q034
+    difficulty: medium
+    stem: Who discovered bacteria?
+    options:
+      A: Antonie Ven Leeuwenhoek
+      B: Robert Brown
+      C: Robert Hook
+      D: Robert Koch
+    answer: A
+    explanation: Antonie van Leeuwenhoek first observed bacteria (in 1676) with his own microscopes.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q035
+    difficulty: medium
+    stem: What is the name of a group of similar cells performing a specific function?
+    options:
+      A: Tissue
+      B: Organ
+      C: Organ system
+      D: Cellular organization
+    answer: A
+    explanation: A tissue is a group of similar cells that perform a specific function.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q036
+    difficulty: medium
+    stem: Plant tissues are of how many types?
+    options:
+      A: "3"
+      B: "2"
+      C: "5"
+      D: "6"
+    answer: A
+    explanation: The official answer, 3, matches the three plant tissue systems (dermal, ground and vascular). NCERT Class 9 instead divides plant tissues into two main types, meristematic and permanent.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q037
+    difficulty: medium
+    stem: It is difficult to fix a nail on a freely suspended wooden frame. Which law supports this statement?
+    options:
+      A: Law of inertia
+      B: Newton’s second law
+      C: Newton’s third law
+      D: Pascal’s law
+    answer: C
+    explanation: When the hammer strikes, the free frame moves away instead of pushing back, so it gives no equal and opposite reaction to drive the nail in (Newton's third law).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q038
+    difficulty: medium
+    stem: Which one of the following is not a property of electromagnetic waves?
+    options:
+      A: Electromagnetic waves do not show interference and diffraction.
+      B: Oscillating electric field and magnetic field are perpendicular to each other.
+      C: Electromagnetic waves are transverse waves
+      D: Electromagnetic waves do not require a medium to propagate.
+    answer: A
+    explanation: EM waves do show interference and diffraction, so statement A is false. The other statements (perpendicular E and B fields, transverse waves, no medium needed) are true.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q039
+    difficulty: medium
+    stem: What is a bug in computer terminology?
+    options:
+      A: A virus
+      B: A program
+      C: An error in program
+      D: Magnetic disk storage device
+    answer: C
+    explanation: In computing, a bug is an error or fault in a program.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q040
+    difficulty: medium
+    stem: A radio-active substance has a half life of six months. Three-fourth of the substance will decay in ______.
+    options:
+      A: Six months
+      B: Ten months
+      C: Twelve Months
+      D: Twenty four months
+    answer: C
+    explanation: "Three-fourths decayed means 1/4 is left, i.e. two half-lives: 2 × 6 = 12 months."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q041
+    difficulty: medium
+    stem: pH of the human blood is ______.
+    options:
+      A: Slightly Acidic
+      B: Highly Acidic
+      C: Slightly Basic
+      D: Highly Basic
+    answer: C
+    explanation: Human blood has a pH of about 7.35–7.45, so it is slightly basic.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q042
+    difficulty: medium
+    stem: In which city is the Forest Research Institute of India located?
+    options:
+      A: New Delhi
+      B: Hyderabad
+      C: Dehradun
+      D: Shimla
+    answer: C
+    explanation: The Forest Research Institute is in Dehradun, Uttarakhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q043
+    difficulty: medium
+    stem: Deen Dayal Rasoi Yojana to provide food at only Rs. 5 has been launched on 6th April, 2017 by which state?
+    options:
+      A: Chattisgarh
+      B: Haryana
+      C: Madhya Pradesh
+      D: Uttar Pradesh
+    answer: C
+    explanation: Madhya Pradesh launched the Deen Dayal Antyodaya Rasoi Yojana, giving meals for Rs 5, in April 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q044
+    difficulty: medium
+    stem: What was invented by Zacharias Jansen?
+    options:
+      A: Jet Engine
+      B: Radium
+      C: Microscope
+      D: Electric Lamp
+    answer: C
+    explanation: Zacharias Janssen, a Dutch spectacle-maker, is credited with the first compound microscope (c. 1590).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q045
+    difficulty: medium
+    stem: In which of the following game, ball is not used?
+    options:
+      A: Football
+      B: Cricket
+      C: Badminton
+      D: Tennis
+    answer: C
+    explanation: Badminton is played with a shuttlecock, not a ball.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q046
+    difficulty: medium
+    stem: |-
+      Match the following.
+
+      | Festival | | State |
+      |---|---|---|
+      | 1. Gangaur | | a. West Bengal |
+      | 2. Ganesh Chaturthi | | b. Rajasthan |
+      | 3. Durga Puja | | c. Maharashtra |
+    options:
+      A: 1-b, 2-c, 3-a
+      B: 1-c, 2-a, 3-b
+      C: 1-b, 2-a, 3-c
+      D: 1-a, 2-c, 3-b
+    answer: A
+    explanation: Gangaur – Rajasthan, Ganesh Chaturthi – Maharashtra, Durga Puja – West Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q047
+    difficulty: medium
+    stem: Who has won the 'Miss Universe 2016' title?
+    options:
+      A: Pia Wurtzbach
+      B: Iris Mittenaere
+      C: Raquel Pellissier
+      D: Andrea Tova
+    answer: B
+    explanation: Iris Mittenaere of France won Miss Universe 2016 (crowned in January 2017).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q048
+    difficulty: medium
+    stem: Who is the author of the book titled 'Numbers Do Lie'?
+    options:
+      A: Anil Menon
+      B: Akash Chopra
+      C: Ian Chapell
+      D: Kunal Basu
+    answer: B
+    explanation: "'Numbers Do Lie' is a cricket book by Aakash Chopra."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q049
+    difficulty: medium
+    stem: Who has been appointed as the Secretary General of the United Nations in January, 2017?
+    options:
+      A: Ban Ki-Moon
+      B: Kofi Annan
+      C: Boutros-Boutros Ghali
+      D: Antonio Guterres
+    answer: D
+    explanation: António Guterres became UN Secretary-General on 1 January 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q050
+    difficulty: medium
+    stem: India has longest international border with which country?
+    options:
+      A: Bhutan
+      B: Nepal
+      C: Bangladesh
+      D: Pakistan
+    answer: C
+    explanation: India's longest land border is with Bangladesh (about 4,096 km).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q051
+    difficulty: medium
+    stem: How many numbers are there from 700 to 950 (including both) which are neither divisible by 3 nor by 7?
+    options:
+      A: "107"
+      B: "141"
+      C: "144"
+      D: "145"
+    answer: C
+    explanation: There are 251 numbers. Of these, 83 are divisible by 3, 36 by 7 and 12 by 21, so 83 + 36 − 12 = 107 are divisible by 3 or 7. That leaves 251 − 107 = 144.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q052
+    difficulty: medium
+    stem: A can complete a work in 20 days and B can complete the same work in 25 days. If both of them work together, then in 3 days what percent of the total work will be completed?
+    options:
+      A: "9"
+      B: "12"
+      C: "25"
+      D: "27"
+    answer: D
+    explanation: Together they do 1/20 + 1/25 = 9/100 of the work a day, so in 3 days they do 27%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q053
+    difficulty: medium
+    stem: The length of two parallel sides of a trapezium are 18 m and 24 m. If its height is 12 m, then what is the area (in m²) of the trapezium ?
+    options:
+      A: "126"
+      B: "252"
+      C: "504"
+      D: "1024"
+    answer: B
+    explanation: Area = ½ × (18 + 24) × 12 = 252 m².
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q054
+    difficulty: medium
+    stem: If two successive discounts of 50% and 10% are offered, then what is the net discount (in %)?
+    options:
+      A: "50"
+      B: "55"
+      C: "60"
+      D: "65"
+    answer: B
+    explanation: Net price = 0.5 × 0.9 = 0.45 of the original, so the discount is 55%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q055
+    difficulty: medium
+    stem: "Three bottles of equal capacity containing mixture of milk and water in ratio 2 : 5, 3 : 4 and 4 : 5 respectively. These three bottles are emptied into a large bottle. What will be the ratio of milk and water respectively in the large bottle?"
+    options:
+      A: "73 : 106"
+      B: "73 : 116"
+      C: "73 : 113"
+      D: "73 : 189"
+    answer: B
+    explanation: "Take each bottle as 63 units. Milk = 18 + 27 + 28 = 73 and water = 45 + 36 + 35 = 116, so the ratio is 73 : 116."
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q056
+    difficulty: medium
+    stem: The average age of 6 members of a family is 20 years. If the age of the servant is included, then the average age increase by 25%. What is the age (in years) of the servant?
+    options:
+      A: "30"
+      B: "35"
+      C: "50"
+      D: "55"
+    answer: D
+    explanation: The new average is 25, so the servant's age = 7×25 − 6×20 = 175 − 120 = 55.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q057
+    difficulty: medium
+    stem: For an article the profit is 190% of the cost price. If the cost price increase by 10% but the selling price remains same, then profit is what percentage of selling price (approximately)?
+    options:
+      A: "54"
+      B: "62"
+      C: "70"
+      D: "163"
+    answer: B
+    explanation: With CP = 100, SP = 290. The new CP is 110, so the profit is 180 and 180/290 ≈ 62% of SP.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q058
+    difficulty: medium
+    stem: A, B and C are three students. A got 18% more marks than B and 12% less than C. If B got 220 marks, then how much marks C has got?
+    options:
+      A: "230"
+      B: "295"
+      C: "240"
+      D: "290"
+    answer: B
+    explanation: A = 1.18 × 220 = 259.6, and A = 0.88 C, so C = 259.6/0.88 = 295.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q059
+    difficulty: medium
+    stem: Two people A and B are at a distance of 260 km from each other at 9:00 a.m. A immediately starts moving towards B at a speed of 25 km/h and at 11:00 a.m. B starts moving towards A at a speed of 10 km/hr. At what time (in p.m.) will they meet each other?
+    options:
+      A: 5:00
+      B: 6:00
+      C: 6:30
+      D: 7:00
+    answer: A
+    explanation: By 11:00 A has covered 50 km, leaving 210 km. At a closing speed of 35 km/h they need 6 more hours, so they meet at 5:00 p.m.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q060
+    difficulty: medium
+    stem: If Rs 2500 becomes to Rs 2970.25 in 2 years at compound interest compounded annually, then what is the yearly rate of interest (in %)?
+    options:
+      A: "7"
+      B: "9"
+      C: "11"
+      D: "13"
+    answer: B
+    explanation: 2970.25/2500 = 1.1881 = (1.09)², so the rate is 9%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q061
+    difficulty: medium
+    stem: If (1/x) + (1/y) + (1/z) = 0 and x + y + z = 9, then what is the value of x³ + y³ + z³ – 3xyz?
+    options:
+      A: "81"
+      B: "361"
+      C: "729"
+      D: "6561"
+    answer: C
+    explanation: 1/x + 1/y + 1/z = 0 gives xy + yz + zx = 0. Then x³ + y³ + z³ − 3xyz = (x+y+z)[(x+y+z)² − 3(xy+yz+zx)] = 9 × 81 = 729.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q062
+    difficulty: medium
+    stem: If x⁴ + (1/x⁴) = 34, then what is the value of x³ – (1/x³)?
+    options:
+      A: "0"
+      B: "6"
+      C: "8"
+      D: "14"
+    answer: D
+    explanation: x² + 1/x² = 6, so (x − 1/x)² = 4 and x − 1/x = 2. Then x³ − 1/x³ = 2³ + 3·2 = 14.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q063
+    difficulty: medium
+    stem: If x = 1 – y and x² = 2 – y², then what is the value of xy?
+    options:
+      A: "1"
+      B: "2"
+      C: –1/2
+      D: –1
+    answer: C
+    explanation: x + y = 1 and x² + y² = 2, so 1 − 2xy = 2 and xy = −1/2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q064
+    difficulty: medium
+    stem: If x + [1/(x + 7)] = 0, then what is the value of x – [1/(x + 7)]?
+    options:
+      A: 3√5
+      B: 3√5 – 7
+      C: 3√5 + 7
+      D: "8"
+    answer: B
+    explanation: 1/(x+7) = −x, so the expression is 2x. From x² + 7x + 1 = 0, 2x = −7 + 3√5 (the root in the options).
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q065
+    difficulty: medium
+    stem: |-
+      In the given figure, DE||BC and AD : DB = 5 : 3, then what is the value of (DE/BC)?
+
+      *(Figure: Triangle ABC with apex A at the top and base BC; D on AB and E on AC, with DE drawn parallel to BC (arrow marks on DE and BC).)*
+    options:
+      A: 5/8
+      B: 2/3
+      C: 3/4
+      D: 5/3
+    answer: A
+    explanation: DE ∥ BC, so triangle ADE ~ ABC and DE/BC = AD/AB = 5/(5+3) = 5/8.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q066
+    difficulty: medium
+    stem: PQRS is a cyclic quadrilateral and PQ is the diameter of the circle. If ∠RPQ = 38°, then what is the value (in degrees) of ∠PSR?
+    options:
+      A: "52"
+      B: "77"
+      C: "128"
+      D: "142"
+    answer: C
+    explanation: ∠PRQ = 90° (angle in a semicircle), so ∠PQR = 52°. Opposite angles of a cyclic quadrilateral add to 180°, so ∠PSR = 128°.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q067
+    difficulty: medium
+    stem: Smaller diagonal of a rhombus is equal to length of its sides. If length of each side is 6 cm, then what is the area (in cm²) of an equilateral triangle whose side is equal to the bigger diagonal of the rhombus?
+    options:
+      A: 18√3
+      B: 27√3
+      C: 32√3
+      D: 36√3
+    answer: B
+    explanation: The longer diagonal = 2√(6² − 3²) = 6√3. The triangle's area = (√3/4)(6√3)² = 27√3 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q068
+    difficulty: medium
+    stem: |-
+      In the given figure, PR and ST are perpendicular to tangent QR. PQ passes through centre O of the circle whose diameter is 10 cm. If PR = 9 cm, then what is the length (in cm) of ST?
+
+      *(Figure: A circle with centre O touches the horizontal line QR at M. P is a point on the circle at upper left; the line PQ passes through O and cuts the circle again at S, meeting the line at Q on the right. PR, OM and ST are vertical segments down to the line (R, M, T from left to right, then Q).)*
+    options:
+      A: "1"
+      B: "1.25"
+      C: "1.5"
+      D: "2"
+    answer: A
+    explanation: "From Q the triangles are similar: PR/QP = OM/QO. With QO = d, 9/(d+5) = 5/d gives d = 6.25. Then ST = 5(d−5)/d = 1 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q069
+    difficulty: medium
+    stem: What is the simplified value of (sec A + cos A)(sec A – cos A)?
+    options:
+      A: 2 tan² A
+      B: 2 sin² A
+      C: sin² A tan² A
+      D: sin² A + tan² A
+    answer: D
+    explanation: sec²A − cos²A = (1 + tan²A) − (1 − sin²A) = sin²A + tan²A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q070
+    difficulty: medium
+    stem: What is the simplified value of [cosec A/(cot A + tan A)]²?
+    options:
+      A: 2cos²A
+      B: 1 – sin²A
+      C: sec²A
+      D: secA tanA
+    answer: B
+    explanation: cot A + tan A = 1/(sin A cos A), so cosec A ÷ that = cos A. Its square is cos²A = 1 − sin²A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q071
+    difficulty: medium
+    stem: What is the simplified value of tan A/(1 − cot A) + cot A/(1 − tan A) − 2/sin 2A?
+    options:
+      A: –1
+      B: "0"
+      C: "1"
+      D: "2"
+    answer: C
+    explanation: tan A/(1 − cot A) + cot A/(1 − tan A) = 1 + sec A cosec A, and 2/sin 2A = sec A cosec A, so the value is 1.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q072
+    difficulty: medium
+    stem: |-
+      The table given below shows the percentage of literate people in 6 cities. This table also shows the ratio of males to females among literate people.
+
+      | City | % of literate people | Males : Females |
+      |---|---|---|
+      | City 1 | 80 | 4 : 5 |
+      | City 2 | 85 | 7 : 4 |
+      | City 3 | 78 | 3 : 2 |
+      | City 4 | 63 | 1 : 1 |
+      | City 5 | 92 | 9 : 7 |
+      | City 6 | 58 | 2 : 3 |
+
+      % of literate people of any city = (Literate people of the city / Total population of the city) × 100
+
+      If the total population of City 4 is 600000, then how many literate people are there in city 4?
+    options:
+      A: "480000"
+      B: "378000"
+      C: "468000"
+      D: "348000"
+    answer: B
+    explanation: 63% of 600000 = 378000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q073
+    difficulty: medium
+    stem: |-
+      The table given below shows the percentage of literate people in 6 cities. This table also shows the ratio of males to females among literate people.
+
+      | City | % of literate people | Males : Females |
+      |---|---|---|
+      | City 1 | 80 | 4 : 5 |
+      | City 2 | 85 | 7 : 4 |
+      | City 3 | 78 | 3 : 2 |
+      | City 4 | 63 | 1 : 1 |
+      | City 5 | 92 | 9 : 7 |
+      | City 6 | 58 | 2 : 3 |
+
+      % of literate people of any city = (Literate people of the city / Total population of the city) × 100
+
+      Total population of City 6 is 200000 and the total population of City 2 is 220000. What is the respective ratio of literate males of City 2 and literate females of City 6?
+    options:
+      A: "348 : 595"
+      B: "255 : 199"
+      C: "595 : 348"
+      D: "199 : 255"
+    answer: C
+    explanation: "City 2 literate males = 7/11 × 187000 = 119000 and City 6 literate females = 3/5 × 116000 = 69600. The ratio is 595 : 348."
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q074
+    difficulty: medium
+    stem: |-
+      The table given below shows the percentage of literate people in 6 cities. This table also shows the ratio of males to females among literate people.
+
+      | City | % of literate people | Males : Females |
+      |---|---|---|
+      | City 1 | 80 | 4 : 5 |
+      | City 2 | 85 | 7 : 4 |
+      | City 3 | 78 | 3 : 2 |
+      | City 4 | 63 | 1 : 1 |
+      | City 5 | 92 | 9 : 7 |
+      | City 6 | 58 | 2 : 3 |
+
+      % of literate people of any city = (Literate people of the city / Total population of the city) × 100
+
+      If there are 259210 literate females in City 5, then what is the total population of City 5?
+    options:
+      A: "644000"
+      B: "354200"
+      C: "690000"
+      D: "483000"
+    answer: A
+    explanation: Literate people = 259210 × 16/7 = 592480, so the population = 592480/0.92 = 644000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q075
+    difficulty: medium
+    stem: |-
+      The table given below shows the percentage of literate people in 6 cities. This table also shows the ratio of males to females among literate people.
+
+      | City | % of literate people | Males : Females |
+      |---|---|---|
+      | City 1 | 80 | 4 : 5 |
+      | City 2 | 85 | 7 : 4 |
+      | City 3 | 78 | 3 : 2 |
+      | City 4 | 63 | 1 : 1 |
+      | City 5 | 92 | 9 : 7 |
+      | City 6 | 58 | 2 : 3 |
+
+      % of literate people of any city = (Literate people of the city / Total population of the city) × 100
+
+      The population of the 6 cities are 250000, 200000, 220000, 300000, 150000 and 400000 respectively. Which is the correct order of the number of literate people in these cities?
+    options:
+      A: City 6 > City 1 > City 4 > City 2 > City 3 > City 5
+      B: City 4 > City 6 > City 1 > City 2 > City 3 > City 5
+      C: City 6 > City 4 > City 1 > City 3 > City 2 > City 5
+      D: City 6 > City 1 > City 4 > City 3 > City 2 > City 5
+    answer: D
+    explanation: The literate counts are City 6 = 232000, City 1 = 200000, City 4 = 189000, City 3 = 171600, City 2 = 170000 and City 5 = 138000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q076
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      The Tata group owns (1)/ many industries, that are spread (2)/ across the globe. (3)/ No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: B
+    explanation: "A non-defining clause after a comma takes 'which', not 'that': 'many industries, which are spread'."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q077
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      She has not been (1)/ to the restaurant (2)/ much late. (3)/ No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: C
+    explanation: "'Much late' is wrong; use 'much lately' or 'of late'."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q078
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      He could excel in his board exams only after _____ very hard.
+    options:
+      A: continuing
+      B: functioning
+      C: learning
+      D: toiling
+    answer: D
+    explanation: "'Toiling' means working very hard, which fits 'very hard'."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q079
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      He _____ his camera on the table.
+    options:
+      A: laid
+      B: lain
+      C: lay
+      D: lie
+    answer: A
+    explanation: "Lay (to put) has the past tense 'laid': 'He laid his camera on the table.'"
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q080
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Monotonous
+    options:
+      A: Dull
+      B: Timid
+      C: Unfriendly
+      D: Lusty
+    answer: A
+    explanation: Monotonous means dull and lacking variety.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q081
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Elusive
+    options:
+      A: Baffling
+      B: Enticing
+      C: Directing
+      D: Soothing
+    answer: A
+    explanation: Elusive means hard to grasp or pin down, i.e. baffling.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q082
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Colossal
+    options:
+      A: Epic
+      B: Rust
+      C: Teeny
+      D: Vast
+    answer: C
+    explanation: Colossal means huge, so its opposite is teeny (tiny).
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q083
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Opprobrium
+    options:
+      A: Adulation
+      B: Ignominy
+      C: Mystical
+      D: Preclude
+    answer: A
+    explanation: Opprobrium is public disgrace or criticism; its opposite is adulation (high praise).
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q084
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      All agog
+    options:
+      A: Avoid
+      B: Contentment
+      C: Amazed
+      D: Unsystematically
+    answer: C
+    explanation: "'All agog' means very eager or excited; of the options, 'amazed' is closest."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q085
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      Not to mince matters
+    options:
+      A: To be at ease
+      B: To not confuse others
+      C: To not interfere in others affairs
+      D: To speak out politely
+    answer: D
+    explanation: "'Not to mince matters' means to speak out plainly and directly; D is the only option about speaking out."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q086
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      The doctor (has advice) him to take proper diet.
+    options:
+      A: has advised
+      B: had been advised
+      C: was advised
+      D: No improvement
+    answer: A
+    explanation: "The present perfect needs the past participle: 'The doctor has advised him'."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q087
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      (Being a pleasant evening), we went out for a long drive on a highway.
+    options:
+      A: As a pleasant evening
+      B: It being a pleasant evening
+      C: With a pleasant evening
+      D: No improvement
+    answer: B
+    explanation: The participle has no subject of its own, so it needs the absolute construction 'It being a pleasant evening'.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q088
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.
+
+      A roundabout way of speaking
+    options:
+      A: Centipede
+      B: Circumlocution
+      C: Coercion
+      D: Concentric
+    answer: B
+    explanation: Circumlocution means a roundabout way of speaking.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q089
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.
+
+      An old unmarried woman
+    options:
+      A: Masochist
+      B: Septuagenarian
+      C: Sniper
+      D: Spinster
+    answer: D
+    explanation: A spinster is an unmarried woman, especially an older one.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q090
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is incorrectly spelt. Select the incorrectly spelt word.
+    options:
+      A: Autumn
+      B: Desperate
+      C: Reciept
+      D: Traffic
+    answer: C
+    explanation: The correct spelling is 'receipt'.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q091
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is incorrectly spelt. Select the incorrectly spelt word.
+    options:
+      A: Century
+      B: Finance
+      C: Remember
+      D: Sponser
+    answer: D
+    explanation: The correct spelling is 'sponsor'.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q092
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P- However, our environment also need some help from all of us to get maintained as usual to nourish our lives forever and to never ruin our lives.  
+      Q- It gives us all things which we need to live our life on this planet.  
+      R- It provides us better medium to grow and develop.  
+      S- An environment includes all the natural resources which surround us to help in number of ways.
+    options:
+      A: PQRS
+      B: QPSR
+      C: SRQP
+      D: QSPR
+    answer: C
+    explanation: "S defines the environment, R and Q list what it provides ('It…'), and P ('However') adds that it needs our help: SRQP."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q093
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P- The starting point can be the experience of a minority within society generally or even the experience of a group of people within a progressive social movement which does not live up to its progressive agenda in every respect.  
+      Q- Within (or after) postmodernism a grand unifying theory no longer seems possible. This does not exclude the possibility or the necessity of dialogue.  
+      R- The starting points of social criticism can be very different and the different forms of socialism never has a monopoly on Social Criticism.  
+      S- Nevertheless most social critics still consider the Critique of capitalism to be central.
+    options:
+      A: PRQS
+      B: RPQS
+      C: RQPS
+      D: PSRQ
+    answer: B
+    explanation: "R says the starting points vary, P gives examples of starting points, Q gives the postmodern view, and S ('Nevertheless') concludes: RPQS."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q094
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Active/Passive voice. Out of the four alternatives suggested, select the one which best expresses the same sentence in Passive/Active voice.
+
+      Rohan was not told about the e-mail.
+    options:
+      A: Nobody told Rohan about the e-mail.
+      B: Somebody did not tell Rohan about the e-mail
+      C: The e-mail was not told about to Rohan.
+      D: There was nobody who could tell Rohan about the e-mail.
+    answer: A
+    explanation: "The passive has no agent, so the active uses a negative subject: 'Nobody told Rohan about the e-mail.'"
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q095
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in Indirect/Direct speech.
+
+      Ram said to Rohan, "Don't run so fast."
+    options:
+      A: Ram advised Rohan don’t run so fast.
+      B: Ram asked Rohan why is he running so fast.
+      C: Ram requested Rohan not to run so fast.
+      D: Ram told Rohan not to run so fast.
+    answer: D
+    explanation: "A negative command becomes 'told + object + not to + verb': 'Ram told Rohan not to run so fast.'"
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q096
+    difficulty: medium
+    stem: |-
+      In the following questions, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      Language, they say, is the _____ through which human beings perceive the world. If so, English is perhaps the most _____ lens through which to see animals. It has _____ a cross eyed view of birds, beasts, fish and fowl. The very word “animal” can _____ the brutish and the sensual. Animal _____ imply baseness and vulgarity.
+
+      Language, they say, is the _____ through which human beings perceive the world.
+    options:
+      A: lens
+      B: resource
+      C: source
+      D: telescope
+    answer: A
+    explanation: The next sentence speaks of 'lens', so language is the lens through which we see the world.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q097
+    difficulty: medium
+    stem: |-
+      In the following questions, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      Language, they say, is the _____ through which human beings perceive the world. If so, English is perhaps the most _____ lens through which to see animals. It has _____ a cross eyed view of birds, beasts, fish and fowl. The very word “animal” can _____ the brutish and the sensual. Animal _____ imply baseness and vulgarity.
+
+      If so, English is perhaps the most _____ lens through which to see animals.
+    options:
+      A: distorting
+      B: disturbing
+      C: popular
+      D: useful
+    answer: A
+    explanation: "'Cross-eyed view' shows the lens bends reality, so it is the most 'distorting' lens."
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q098
+    difficulty: medium
+    stem: |-
+      In the following questions, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      Language, they say, is the _____ through which human beings perceive the world. If so, English is perhaps the most _____ lens through which to see animals. It has _____ a cross eyed view of birds, beasts, fish and fowl. The very word “animal” can _____ the brutish and the sensual. Animal _____ imply baseness and vulgarity.
+
+      It has _____ a cross eyed view of birds, beasts, fish and fowl.
+    options:
+      A: accompanied
+      B: exercised
+      C: perpetuated
+      D: undeterred
+    answer: C
+    explanation: To perpetuate is to keep something going; English has kept a cross-eyed view alive.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q099
+    difficulty: medium
+    stem: |-
+      In the following questions, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      Language, they say, is the _____ through which human beings perceive the world. If so, English is perhaps the most _____ lens through which to see animals. It has _____ a cross eyed view of birds, beasts, fish and fowl. The very word “animal” can _____ the brutish and the sensual. Animal _____ imply baseness and vulgarity.
+
+      The very word "animal" can _____ the brutish and the sensual.
+    options:
+      A: connote
+      B: rectify
+      C: trouble
+      D: understand
+    answer: A
+    explanation: The word 'animal' can connote (suggest) the brutish and the sensual.
+    tags:
+      - english
+  - slug: cgl-2017-08-09-s2-q100
+    difficulty: medium
+    stem: |-
+      In the following questions, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      Language, they say, is the _____ through which human beings perceive the world. If so, English is perhaps the most _____ lens through which to see animals. It has _____ a cross eyed view of birds, beasts, fish and fowl. The very word “animal” can _____ the brutish and the sensual. Animal _____ imply baseness and vulgarity.
+
+      Animal _____ imply baseness and vulgarity.
+    options:
+      A: breeding
+      B: gestures
+      C: instincts
+      D: species
+    answer: C
+    explanation: "'Animal instincts' is the collocation that implies baseness."
+    tags:
+      - english

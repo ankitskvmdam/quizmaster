@@ -1,0 +1,1392 @@
+slug: 2021-08-13-shift1
+title: SSC CGL 2020 Tier 1
+date: 2021-08-13
+label: 13 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04124734/SSC-CGL-QUESTION-PAPER-13-Aug-2021-Shift-1-Eng). Left out (picture-only options or incomplete in the source): Q3, Q4, Q12, Q13, Q18."
+questions:
+  - slug: cgl-2021-08-13-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      Horses : Neigh
+    options:
+      A: "Pigs : Buzz"
+      B: "Hares : Boom"
+      C: "Ducks : Quack"
+      D: "Parrots : Bray"
+    answer: C
+    explanation: A horse's cry is a neigh; a duck's cry is a quack.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q002
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      All polygons are angles.  
+      All angles are diagonals.  
+      All cones are cubes.  
+      All cubes are decagons.  
+      No diagonal is a cube.
+
+      **Conclusions:**
+
+      I. Some diagonals are polygons.  
+      II. All diagonals are decagons.  
+      III. No polygon is a cone.  
+      IV. Some cubes are angles.
+    options:
+      A: Both conclusions II and IV follow
+      B: Both conclusions I and III follow
+      C: Both conclusions I and II follow
+      D: Only conclusion I follows
+    answer: B
+    explanation: |-
+      Polygons lie inside angles, which lie inside diagonals, so some diagonals are polygons (I).
+      Cones lie inside cubes and no diagonal is a cube, so no polygon (a diagonal) can be a cone (III). II and IV do not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q005
+    difficulty: medium
+    stem: |-
+      A cube is made by folding the given sheet. In the cube so formed, what would be the symbol on the opposite side of the # symbol?
+
+      *(Figure: Net of six squares: a right-hand column of three squares (& at top, @ below it, # below that); % sits to the left of #, and below % are ＄ and then +.)*
+    options:
+      A: ＄
+      B: +
+      C: "&"
+      D: "%"
+    answer: C
+    explanation: "&, @ and # lie in one straight column of three squares, so the first and third (& and #) are opposite faces."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q006
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      24, 35, 51, 73, 102, ?
+    options:
+      A: "139"
+      B: "151"
+      C: "131"
+      D: "149"
+    answer: A
+    explanation: "The differences are 11, 16, 22, 29, which themselves grow by 5, 6, 7. The next difference is 37: 102 + 37 = 139."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q007
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      12 : 60 :: 16 : ?
+    options:
+      A: "121"
+      B: "210"
+      C: "112"
+      D: "201"
+    answer: C
+    explanation: 60 = 12 × (12/2 − 1) = 12 × 5. So 16 × (16/2 − 1) = 16 × 7 = 112.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q008
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Freeze  
+      2. Freedom  
+      3. Fryer  
+      4. Frozen  
+      5. Fraud  
+      6. Fringe
+    options:
+      A: 5, 6, 2, 1, 4, 3
+      B: 5, 1, 2, 6, 4, 3
+      C: 5, 2, 1, 6, 3, 4
+      D: 5, 2, 1, 6, 4, 3
+    answer: D
+    explanation: "Dictionary order: Fraud, Freedom, Freeze, Fringe, Frozen, Fryer = 5, 2, 1, 6, 4, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q009
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: FBXT
+      B: TPLH
+      C: CYUQ
+      D: NJFA
+    answer: D
+    explanation: In FBXT, TPLH and CYUQ each letter is 4 places before the previous one. In NJFA the last step F → A is −5.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q010
+    difficulty: medium
+    stem: P, L, T, B, N and D are six members of a business family. N is the son of B, who is not the mother of N. L is the brother of B. D and B are a married couple. T is the daughter of D, who is the sister of P. How is N related to T?
+    options:
+      A: Sister
+      B: Mother
+      C: Father
+      D: Brother
+    answer: D
+    explanation: B is N's father and D, B's wife, is the mother. T is D's daughter, so N and T are siblings and N, being a son, is T's brother.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q011
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+      42 * 7 * 64 * 11 * 6 *4
+    options:
+      A: ÷, +, −, ×, =
+      B: ×, +, −, ÷, =
+      C: ÷, −, +, ×, =
+      D: ×, −, +, ÷, =
+    answer: A
+    explanation: 42 ÷ 7 + 64 − 11 × 6 = 6 + 64 − 66 = 4, which balances the equation.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q014
+    difficulty: medium
+    stem: Out of the total number of players, 100/3 % are in hotel X and the remaining are in hotel Y. If 20 players from hotel Y are shifted to hotel X, then the number of players in hotel X becomes 50% of the total number of players. If 20 players from hotel X are shifted to hotel Y, then the number of players in hotel X becomes what per cent of the total number of players?
+    options:
+      A: 16.67%
+      B: 20.67%
+      C: 12.75%
+      D: 26.34%
+    answer: A
+    explanation: |-
+      X = T/3. Adding 20 makes X half the total: T/3 + 20 = T/2, so T = 120 and X = 40.
+      Moving 20 out instead leaves 20 = 20/120 = 16.67%.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q015
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      Depression : Mood :: Insomnia : ?
+    options:
+      A: Dreams
+      B: Night
+      C: Thinking
+      D: Sleep
+    answer: D
+    explanation: Depression is a disorder of mood; insomnia is a disorder of sleep.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q016
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A long rectangle divided by a vertical line; a large right triangle rises above its left part (vertical side up from the rectangle, hypotenuse sloping down to the right through the rectangle), and two further slanted lines inside the rectangle form small triangles.)*
+    options:
+      A: "10"
+      B: "12"
+      C: "11"
+      D: "13"
+    answer: C
+    explanation: |-
+      From the point where the slanting lines meet the top edge: 3 triangles each on the short horizontal and on the base = 6.
+      Add 3 using the top vertex of the tall triangle, the triangle left of the left slanting line, and the small one at the top-right corner: 11.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q017
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      PNNA, RPPE, TRRI, VTTO, ?
+    options:
+      A: YVVU
+      B: XWWU
+      C: YUUV
+      D: XVVU
+    answer: D
+    explanation: "The first letter moves +2 (P, R, T, V, X), the 2nd and 3rd letters move +2 (N, P, R, T, V), and the last letter runs through the vowels A, E, I, O, U: XVVU."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q019
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 4 | 7 | 6 |
+      | 15 | ? | 21 |
+      | 44 | 68 | 60 |
+    options:
+      A: "18"
+      B: "20"
+      C: "24"
+      D: "19"
+    answer: C
+    explanation: |-
+      Bottom = 2 × (top + middle) + 6: 2 × (4 + 15) + 6 = 44, 2 × (6 + 21) + 6 = 60.
+      So 2 × (7 + ?) + 6 = 68 gives ? = 24.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q020
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different.
+    options:
+      A: "12 : 156"
+      B: "18 : 342"
+      C: "17 : 307"
+      D: "14 : 210"
+    answer: C
+    explanation: "The pairs are n : n(n + 1): 12 × 13 = 156, 18 × 19 = 342, 14 × 15 = 210. But 17 × 18 = 306, not 307."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q021
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      L_UA_Z_N_AP_L_U_PZ
+    options:
+      A: N, L, P, A, N, U, Z
+      B: N, P, L, U, Z, N, A
+      C: P, L, U, Z, N, A, N
+      D: P, N, L, Z, U, A, N
+    answer: B
+    explanation: "Filling N, P, L, U, Z, N, A gives LNUAPZ repeated three times: LNUAPZ LNUAPZ LNUAPZ."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q022
+    difficulty: medium
+    stem: In a certain code language, ‘AROUND’ is coded as ‘52182412144’ and ‘FIX’ is coded as ‘63624’. How will ‘PLASTIC’ be coded in that language?
+    options:
+      A: "1612522021363"
+      B: "1612261920183"
+      C: "1812521920383"
+      D: "1612521920363"
+    answer: D
+    explanation: |-
+      Consonants keep their alphabet position; each vowel becomes twice its reverse position (A = 26 × 2 = 52, I = 18 × 2 = 36).
+      PLASTIC = 16, 12, 52, 19, 20, 36, 3 = 1612521920363.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q023
+    difficulty: medium
+    stem: |-
+      Select the option in which the numbers are related in the same way as are the numbers of the following set.
+
+      (25, 18, 225)
+    options:
+      A: (24, 22, 264)
+      B: (17, 15, 220)
+      C: (9, 16, 170)
+      D: (15, 34, 190)
+    answer: A
+    explanation: "Third number = first × second ÷ 2: 25 × 18/2 = 225. Likewise 24 × 22/2 = 264."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q024
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.
+    options:
+      A: Intelligence
+      B: Aptitude
+      C: Weight
+      D: Memory
+    answer: C
+    explanation: Intelligence, aptitude and memory are mental abilities; weight is a physical measure.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q025
+    difficulty: medium
+    stem: In a certain code language, 'PERMIT' is written as 'VVLNOG'. How will 'INERTIA' be written in that language?
+    options:
+      A: OMYIZRU
+      B: XOYHCZU
+      C: XYOHBCU
+      D: OHYXZCU
+    answer: A
+    explanation: |-
+      Letters in positions 1, 3, 5, 7 move +6, −6, +6, −6; letters in positions 2, 4, 6 are replaced by their opposites (E↔V, M↔N, T↔G).
+      INERTIA → O, M, Y, I, Z, R, U = OMYIZRU.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-13-s1-q026
+    difficulty: medium
+    stem: Which of the following statements about Swami Dayanand Saraswati is INCORRECT?
+    options:
+      A: His birthplace was Gujarat.
+      B: He authored the book 'Satyarth Prakash'.
+      C: He was the founder of Brahmo Samaj.
+      D: He was the founder of Arya Samaj.
+    answer: C
+    explanation: Dayanand Saraswati, born in Gujarat, wrote Satyarth Prakash and founded the Arya Samaj (1875). The Brahmo Samaj was founded by Raja Ram Mohan Roy.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q027
+    difficulty: medium
+    stem: Who among the following is a Padma Vibhushan awardee of 2021?
+    options:
+      A: Tarlochan Singh
+      B: Mouma Das
+      C: Sudarshan Sahoo
+      D: Sumitra Mahajan
+    answer: C
+    explanation: Sculptor Sudarshan Sahoo of Odisha received the Padma Vibhushan in 2021; Sumitra Mahajan and Tarlochan Singh got the Padma Bhushan.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q028
+    difficulty: medium
+    stem: Who among the following was one of the founders of the Hindustan Republic Association?
+    options:
+      A: Ram Prasad Bismil
+      B: Lala Lajpat Rai
+      C: Jatindranath Mukherjee
+      D: Surya Sen
+    answer: A
+    explanation: The Hindustan Republican Association was founded in 1924 by Ram Prasad Bismil, Sachindra Nath Sanyal and others.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q029
+    difficulty: medium
+    stem: In which of the following years was the Second Round Table Conference in London held?
+    options:
+      A: "1925"
+      B: "1939"
+      C: "1931"
+      D: "1941"
+    answer: C
+    explanation: The Second Round Table Conference, the only one Gandhi attended, was held in London from September to December 1931.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q030
+    difficulty: medium
+    stem: In which of the following years was the Planning Commission of India set up?
+    options:
+      A: "1962"
+      B: "1950"
+      C: "1958"
+      D: "1945"
+    answer: B
+    explanation: The Planning Commission was set up in March 1950 by a Cabinet resolution; NITI Aayog replaced it in 2015.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q031
+    difficulty: medium
+    stem: As per the Union Budget of 2021-22, how many regional national institutes of virology will be set up?
+    options:
+      A: Four
+      B: Two
+      C: Three
+      D: Six
+    answer: A
+    explanation: The Union Budget 2021-22 announced four regional National Institutes for Virology.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q032
+    difficulty: medium
+    stem: Electron-volt is a unit of ______.
+    options:
+      A: energy
+      B: power
+      C: current
+      D: potential difference
+    answer: A
+    explanation: "An electron-volt is a unit of energy: the energy gained by an electron moving through 1 volt (1.6 × 10⁻¹⁹ J)."
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q033
+    difficulty: medium
+    stem: Who among the following was elected as the President of Veterinary Council of India in January 2021?
+    options:
+      A: KK Verma
+      B: Dipankar Seth
+      C: Umesh Sharma
+      D: Rajeev Arora
+    answer: C
+    explanation: Dr Umesh Chandra Sharma was elected President of the Veterinary Council of India in January 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q034
+    difficulty: medium
+    stem: Which of the following places is famous for a copper mine?
+    options:
+      A: Gaya
+      B: Keonjhar
+      C: Khetri
+      D: Satna
+    answer: C
+    explanation: Khetri in Jhunjhunu district, Rajasthan, is known for its copper mines (Hindustan Copper's Khetri Copper Complex).
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q035
+    difficulty: medium
+    stem: ______ is the structural and functional unit of kidney.
+    options:
+      A: Medulla
+      B: Ureter
+      C: Cortex
+      D: Nephron
+    answer: D
+    explanation: The nephron is the structural and functional unit of the kidney.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q036
+    difficulty: medium
+    stem: Unique Transaction Reference number is a ______ character code used to uniquely identify a transaction in the RTGS system.
+    options:
+      A: "45"
+      B: "22"
+      C: "34"
+      D: "17"
+    answer: B
+    explanation: In RTGS, the Unique Transaction Reference (UTR) is a 22-character code.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q037
+    difficulty: medium
+    stem: Gurdwara Patalpuri Sahib is located on the bank of river ______.
+    options:
+      A: Ganga
+      B: Beas
+      C: Yamuna
+      D: Sutlej
+    answer: D
+    explanation: Gurdwara Patalpuri Sahib at Kiratpur Sahib, Punjab, stands on the bank of the Sutlej.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q038
+    difficulty: medium
+    stem: Who among the following won the ‘3rd Rabindranath Tagore Literary Prize’ for his novel ‘The City and The Sea’ in December 2020?
+    options:
+      A: Shekhar Gupta
+      B: Rajdeep Sardesai
+      C: Siddhartha Sarma
+      D: Raj Kamal Jha
+    answer: D
+    explanation: Raj Kamal Jha won the 3rd Rabindranath Tagore Literary Prize in December 2020 for his novel The City and The Sea.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q039
+    difficulty: medium
+    stem: Which of the following has the same dimension as that of linear momentum?
+    options:
+      A: Work
+      B: Energy
+      C: Impulse
+      D: Stress
+    answer: C
+    explanation: Impulse = force × time = change in momentum, so it has the same dimensions as linear momentum [MLT⁻¹].
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q040
+    difficulty: medium
+    stem: In December 2020, the Ministry of Home Affairs declared the entire State of ______ as a ‘disturbed area’ for six more months under the Armed Forces (Special Powers) Act, 1958 (AFSPA).
+    options:
+      A: Punjab
+      B: Jharkhand
+      C: Nagaland
+      D: West Bengal
+    answer: C
+    explanation: In December 2020 the Home Ministry extended Nagaland's 'disturbed area' status under AFSPA by six months.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q041
+    difficulty: medium
+    stem: For which of the following franchise teams did AB de Villiers play in IPL 2020?
+    options:
+      A: Delhi Capitals
+      B: Kolkata Knight Riders
+      C: Mumbai Indians
+      D: Royal Challengers Bangalore
+    answer: D
+    explanation: AB de Villiers played for Royal Challengers Bangalore in IPL 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q042
+    difficulty: medium
+    stem: In Leh, the first ever ice climbing festival was celebrated in ______ valley in January 2021.
+    options:
+      A: Dras
+      B: Ripchar
+      C: Markha
+      D: Nubra
+    answer: D
+    explanation: Ladakh's first ice climbing festival was held in the Nubra valley in January 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q043
+    difficulty: medium
+    stem: Which of the following is a process in which hot, less dense materials rise upward and are replaced by colder, more dense materials?
+    options:
+      A: Conduction
+      B: Radiation
+      C: Condensation
+      D: Convection
+    answer: D
+    explanation: "Convection is heat transfer by the movement of a fluid: hot, less dense material rises and cooler, denser material sinks to take its place."
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q044
+    difficulty: medium
+    stem: Baghmara Pitcher Plant Sanctuary is located in which of the following states?
+    options:
+      A: Assam
+      B: Goa
+      C: Karnataka
+      D: Meghalaya
+    answer: D
+    explanation: The Baghmara Pitcher Plant Sanctuary is in South Garo Hills district, Meghalaya.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q045
+    difficulty: medium
+    stem: Who among the following replaced Morarji Desai as the Prime Minister of India in 1979?
+    options:
+      A: Chandrasekhar
+      B: Jagjivan Ram
+      C: Charan Singh
+      D: Devi Lal
+    answer: C
+    explanation: Charan Singh succeeded Morarji Desai as Prime Minister in July 1979.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q046
+    difficulty: medium
+    stem: Which of the following schemes is aimed at helping accelerate the uptake of broadband internet services?
+    options:
+      A: PM-INTERNET
+      B: PM-WANI
+      C: PM-DHWANI
+      D: PM-VAARTA
+    answer: B
+    explanation: PM-WANI (Prime Minister's Wi-Fi Access Network Interface) promotes public Wi-Fi to speed the uptake of broadband.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q047
+    difficulty: medium
+    stem: Which of the following is the application of sciences such as physics, chemistry, biology, computer science and engineering to matters of law and to the identification of various facts of civilian investigation?
+    options:
+      A: Kalology
+      B: Morphology
+      C: Forensic science
+      D: Psychology
+    answer: C
+    explanation: Forensic science applies the natural sciences and engineering to questions of law and to criminal and civil investigation.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q048
+    difficulty: medium
+    stem: Who won the Toyota Thailand Open Women’s Singles Title in Bangkok in January 2021?
+    options:
+      A: Tai Tzu-ying
+      B: Ashwini Ponnappa
+      C: Carolina Marin
+      D: PV Sindhu
+    answer: C
+    explanation: Carolina Marin beat Tai Tzu-ying in the final of the Toyota Thailand Open in Bangkok on 24 January 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q049
+    difficulty: medium
+    stem: Which of the following is NOT a town/city on the west coast of India?
+    options:
+      A: Karwar
+      B: Gopalpur
+      C: Mangalore
+      D: Surat
+    answer: B
+    explanation: Gopalpur is in Odisha on the east coast; Karwar, Mangalore and Surat are on the west coast.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q050
+    difficulty: medium
+    stem: Who among the following had written Kitab-ul-Hind that gave an incisive description of early 11th Century India?
+    options:
+      A: Al-Khwarizmi
+      B: Al-Biruni
+      C: Al-Kindi
+      D: Al-Bukhari
+    answer: B
+    explanation: Al-Biruni, who came with Mahmud of Ghazni, wrote Kitab-ul-Hind (Tahqiq-i-Hind) about India in the early 11th century.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-13-s1-q051
+    difficulty: medium
+    stem: |-
+      Study the following table and answer the question:
+
+      Number of cars sold by dealers A, B, C, D & E during first six months of 2018.
+
+      | Dealer \ Month | January | February | March | April | May | June |
+      |---|---|---|---|---|---|---|
+      | A | 620 | 640 | 628 | 635 | 430 | 625 |
+      | B | 600 | 642 | 635 | 580 | 450 | 620 |
+      | C | 640 | 635 | 640 | 540 | 625 | 740 |
+      | D | 520 | 645 | 722 | 740 | 600 | 780 |
+      | E | 548 | 638 | 720 | 740 | 650 | 800 |
+
+      The ratio of the total number of cars sold by dealer B in January, April and June to the total number of cars sold by dealers A and D in March is:
+    options:
+      A: "8 : 9"
+      B: "4 : 3"
+      C: "10 : 9"
+      D: "7 : 5"
+    answer: B
+    explanation: "B in January, April and June: 600 + 580 + 620 = 1800. A and D in March: 628 + 722 = 1350. 1800 : 1350 = 4 : 3."
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q052
+    difficulty: medium
+    stem: "Let Δ ABC ~Δ PQR and ar(ΔABC)/ar(ΔQPR) = 144/49. If AB = 12 cm, BC = 7 cm and AC = 9 cm, then PR (in cm) is equal to:"
+    options:
+      A: 49/12
+      B: 108/7
+      C: 21/4
+      D: "12"
+    answer: C
+    explanation: "The area ratio 144/49 gives a side ratio 12 : 7. PR corresponds to AC, so PR = 9 × 7/12 = 21/4 cm."
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q053
+    difficulty: medium
+    stem: "If cos²θ/(cot²θ + sin²θ − 1) = 3, 0° < θ < 90°, then the value of (tanθ + cosecθ) is:"
+    options:
+      A: 5√3/3
+      B: 3√3
+      C: 2√3
+      D: 4√3/3
+    answer: A
+    explanation: |-
+      cot²θ + sin²θ − 1 = cot²θ − cos²θ = cos²θ·cot²θ, so the expression is tan²θ = 3 and θ = 60°.
+      tan 60° + cosec 60° = √3 + 2/√3 = 5√3/3.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q054
+    difficulty: medium
+    stem: If 8(x + y)³ − 27(x − y)³ = (5y − x)(Ax² + By² + Cxy), then what is the value of (A + B − C)?
+    options:
+      A: "16"
+      B: "36"
+      C: −26
+      D: −16
+    answer: B
+    explanation: |-
+      With a = 2(x + y) and b = 3(x − y): a − b = 5y − x and a² + ab + b² = 19x² + 7y² − 10xy.
+      So A = 19, B = 7, C = −10, and A + B − C = 36.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q055
+    difficulty: medium
+    stem: If x + y = 4 and 1/x + 1/y = 16/15, then what is the value of (x³ + y³)?
+    options:
+      A: "18"
+      B: "16"
+      C: "19"
+      D: "21"
+    answer: C
+    explanation: (x + y)/xy = 16/15 gives xy = 15/4. x³ + y³ = (x + y)³ − 3xy(x + y) = 64 − 45 = 19.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q056
+    difficulty: medium
+    stem: △ABC ~ △PQR. The areas of △ABC and △PQR are 64 cm² and 81 cm², respectively and AD and PT are the medians of △ABC and △PQR, respectively. If PT = 10.8 cm, then AD = ?
+    options:
+      A: 8.4 cm
+      B: 9 cm
+      C: 9.6 cm
+      D: 12 cm
+    answer: C
+    explanation: Medians are in the ratio of the sides, √(64/81) = 8/9. AD = 10.8 × 8/9 = 9.6 cm.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q057
+    difficulty: medium
+    stem: "A chord 21 cm long is drawn in a circle of diameter 25 cm. The perpendicular distance of the chord from the centre is:"
+    options:
+      A: √41
+      B: √23
+      C: √56
+      D: √46
+    answer: D
+    explanation: "Radius 12.5, half-chord 10.5: distance = √(12.5² − 10.5²) = √(156.25 − 110.25) = √46 cm."
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q058
+    difficulty: medium
+    stem: |-
+      Study the table and answer the question.
+
+      Table shows District-wise data of the number of primary school teachers posted in schools of a city.
+
+      | District | Male teachers | Female teachers |
+      |---|---|---|
+      | East | 1650 | 2375 |
+      | North | 1075 | 2651 |
+      | West | 1280 | 1520 |
+      | South | 1170 | 1085 |
+      | Central | 690 | 859 |
+
+      What is the ratio of the number of male teachers to the number of female teachers in the city?
+    options:
+      A: "586 : 849"
+      B: "391 : 566"
+      C: "78 : 113"
+      D: "195 : 283"
+    answer: B
+    explanation: |-
+      Male = 1650 + 1075 + 1280 + 1170 + 690 = 5865; female = 2375 + 2651 + 1520 + 1085 + 859 = 8490.
+      5865 : 8490 = 391 : 566 (dividing by 15).
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q059
+    difficulty: medium
+    stem: "X, Y are two points in a river. Points P and Q divide the straight line XY into three equal parts. The river flows along XY and the time taken by a boat to row from X to Q and from Y to Q are in the ratio 4 : 5. The ratio of the speed of the boat downstream to that of the river current is equal to:"
+    options:
+      A: "3 : 10"
+      B: "10 : 3"
+      C: "3 : 4"
+      D: "4 : 3"
+    answer: B
+    explanation: |-
+      XQ = 2 parts downstream and YQ = 1 part upstream: 2/(b + r) : 1/(b − r) = 4 : 5 gives 10(b − r) = 4(b + r), so b = 7r/3.
+      Downstream speed b + r = 10r/3, so the ratio is 10 : 3.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q060
+    difficulty: medium
+    stem: When x is subtracted from each of 19, 28, 55 and 91, the numbers so obtained in this order are in proportion. What is the value of x?
+    options:
+      A: "8"
+      B: "7"
+      C: "9"
+      D: "5"
+    answer: B
+    explanation: (19 − x)(91 − x) = (28 − x)(55 − x) gives 1729 − 110x = 1540 − 83x, so 27x = 189 and x = 7.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q061
+    difficulty: medium
+    stem: "cosecθ/(cosecθ − 1) + cosecθ/(cosecθ + 1) − tan²θ, 0° < θ < 90°, is equal to:"
+    options:
+      A: sec²θ + 1
+      B: sec²θ
+      C: 2sec²θ
+      D: 1 − tan²θ
+    answer: A
+    explanation: |-
+      The first two terms add to 2cosec²θ/(cosec²θ − 1) = 2cosec²θ/cot²θ = 2sec²θ.
+      2sec²θ − tan²θ = sec²θ + 1.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q062
+    difficulty: medium
+    stem: "The income of A is 45% more than the income of B and the income of C is 60% less than the sum of the incomes of A and B. The income of D is 20% more than that of C. If the difference between the incomes of B and D is ₹13200, then the income (in ₹) of C is:"
+    options:
+      A: "72000"
+      B: "72500"
+      C: "73500"
+      D: "75000"
+    answer: C
+    explanation: |-
+      Let B = b: A = 1.45b, C = 0.4 × 2.45b = 0.98b, D = 1.2 × 0.98b = 1.176b.
+      D − B = 0.176b = 13,200, so b = 75,000 and C = 73,500.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q063
+    difficulty: medium
+    stem: Length of each side of a rhombus is 13 cm and one of the diagonal is 24 cm. What is the area (in cm²) of the rhombus?
+    options:
+      A: "120"
+      B: "300"
+      C: "60"
+      D: "240"
+    answer: A
+    explanation: Half-diagonals are 12 and √(13² − 12²) = 5, so the diagonals are 24 and 10. Area = 24 × 10/2 = 120 cm².
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q064
+    difficulty: medium
+    stem: |-
+      Study the following table and answer the question:
+
+      Number of cars sold by dealers A, B, C, D & E during first six months of 2018.
+
+      | Dealer \ Month | January | February | March | April | May | June |
+      |---|---|---|---|---|---|---|
+      | A | 620 | 640 | 628 | 635 | 430 | 625 |
+      | B | 600 | 642 | 635 | 580 | 450 | 620 |
+      | C | 640 | 635 | 640 | 540 | 625 | 740 |
+      | D | 520 | 645 | 722 | 740 | 600 | 780 |
+      | E | 548 | 638 | 720 | 740 | 650 | 800 |
+
+      In July 2018, if the sales of cars by the dealer D increases by the same percentage as in June 2018 over its previous month, then what is the number of cars sold by D in July 2018?
+    options:
+      A: "1020"
+      B: "959"
+      C: "1014"
+      D: "975"
+    answer: C
+    explanation: D rose from 600 (May) to 780 (June), a 30% increase. July = 780 × 1.3 = 1014.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q065
+    difficulty: medium
+    stem: "Sides AB and DC of a cyclic quadrilateral ABCD are produced to meet at E and sides AD and BC are produced to meet at F. If ∠ADC = 78° and ∠BEC = 52°, then the measure of ∠AFB is:"
+    options:
+      A: 28°
+      B: 26°
+      C: 32°
+      D: 30°
+    answer: A
+    explanation: |-
+      In triangle ADE: ∠A = 180° − 78° − 52° = 50°. Opposite angles of a cyclic quadrilateral give ∠ABC = 180° − 78° = 102°.
+      In triangle ABF: ∠AFB = 180° − 50° − 102° = 28°.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q066
+    difficulty: medium
+    stem: |-
+      Study the table and answer the question.
+
+      In the table, production and sale (in 1000 tonnes) of a certain product of a company over 5 years is given.
+
+      | years | Production (in 1000 tonnes) | Sale (in 1000 tonnes) |
+      |---|---|---|
+      | 2015 | 1250 | 1000 |
+      | 2016 | 1400 | 1290 |
+      | 2017 | 1450 | 1100 |
+      | 2018 | 1500 | 1450 |
+      | 2019 | 1600 | 1390 |
+
+      In which year(s) sale is more than 90% of the production?
+    options:
+      A: 2015, 2017, 2019
+      B: 2017, 2018
+      C: 2016, 2017
+      D: 2016, 2018
+    answer: D
+    explanation: "Sale as a share of production: 2016 = 1290/1400 ≈ 92%, 2018 = 1450/1500 ≈ 97%; the other years are below 90%."
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q067
+    difficulty: medium
+    stem: Find the value of cot25°cot35°cot45°cot55°cot65°.
+    options:
+      A: 1/√3
+      B: √3
+      C: √3/2
+      D: "1"
+    answer: D
+    explanation: cot A × cot(90° − A) = 1, so cot25°cot65° = cot35°cot55° = 1, and cot45° = 1. The product is 1.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q068
+    difficulty: medium
+    stem: Some fruits are bought at 15 for ₹140 and an equal number of fruits at 10 for ₹120. If all the fruits are sold at ₹132 per dozen, then what is the profit percent in the entire transaction?
+    options:
+      A: 3 1/8
+      B: 4 1/2
+      C: 2 1/4
+      D: "3"
+    answer: A
+    explanation: |-
+      Take 30 of each: cost = 280 + 360 = 640 for 60 fruits. Sale = 60 × 11 = 660.
+      Profit = 20/640 × 100 = 3 1/8%.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q069
+    difficulty: medium
+    stem: What is the compound interest (in ₹) on a sum of ₹8192 for 1 1/4 years at 15% per annum, if interest is compounded 5- monthly?
+    options:
+      A: "1634"
+      B: "1740"
+      C: "1735"
+      D: "1640"
+    answer: A
+    explanation: |-
+      Rate per 5-month period = 15 × 5/12 = 6.25% = 1/16, with 3 periods in 15 months.
+      Amount = 8192 × (17/16)³ = 9826, so CI = ₹1634.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q070
+    difficulty: medium
+    stem: "To do a certain work, A and B work on alternate days with B beginning the work on the first day. A alone can complete the same work in 24 days. If the work gets completed in 11 1/3 days, then B alone can complete 7/9th part of the original work in:"
+    options:
+      A: 4 1/2 days
+      B: 6 days
+      C: 5 1/2 days
+      D: 4 days
+    answer: B
+    explanation: |-
+      In 11 1/3 days B works days 1, 3, …, 11 (6 days) and A works 5 1/3 days, doing (16/3)/24 = 2/9 of the work.
+      So B does 7/9 of the work in 6 days.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q071
+    difficulty: medium
+    stem: "If x + 1/x = 4, then the value of x⁵ + 1/x⁵ is:"
+    options:
+      A: "776"
+      B: "684"
+      C: "724"
+      D: "736"
+    answer: C
+    explanation: x² + 1/x² = 14 and x³ + 1/x³ = 64 − 12 = 52. x⁵ + 1/x⁵ = 14 × 52 − 4 = 724.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q072
+    difficulty: medium
+    stem: The average of 28 numbers is 77. The average of first 14 numbers is 74 and the average of last 15 numbers is 84. If the 14th number is excluded, then what is the average of remaining numbers? (correct to one decimal places)
+    options:
+      A: "76.9"
+      B: "77"
+      C: "73.1"
+      D: "74.7"
+    answer: D
+    explanation: |-
+      Total = 28 × 77 = 2156. The 14th number = 14 × 74 + 15 × 84 − 2156 = 1036 + 1260 − 2156 = 140.
+      Average of the other 27 = 2016/27 ≈ 74.7.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q073
+    difficulty: medium
+    stem: "The value of 20 ÷ 5 of 8 × [9 ÷ 6 × (6 − 3)] − (10 ÷ 2 of 20) is:"
+    options:
+      A: "1"
+      B: "2"
+      C: "0"
+      D: "6"
+    answer: B
+    explanation: |-
+      'Of' is done first: 20 ÷ 40 = 1/2, and the bracket is 9 ÷ 6 × 3 = 4.5, giving 2.25.
+      10 ÷ (2 of 20) = 10/40 = 0.25. So 2.25 − 0.25 = 2.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q074
+    difficulty: medium
+    stem: If the 5-digit number 676xy is divisible by 3, 7 and 11, then what is the value of (3x − 5y)?
+    options:
+      A: "10"
+      B: "11"
+      C: "9"
+      D: "7"
+    answer: C
+    explanation: |-
+      The number must be a multiple of 3 × 7 × 11 = 231. Between 67600 and 67699 the only one is 231 × 293 = 67683.
+      So x = 8, y = 3 and 3x − 5y = 24 − 15 = 9.
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q075
+    difficulty: medium
+    stem: "A shopkeeper earns a profit of 21% after selling a book at 21% discount on the printed price. The ratio of the cost price and selling price of the book is:"
+    options:
+      A: "79 : 100"
+      B: "100 : 79"
+      C: "121 : 100"
+      D: "100 : 121"
+    answer: D
+    explanation: "A 21% profit means SP = 1.21 × CP, so CP : SP = 100 : 121."
+    tags:
+      - quant
+  - slug: cgl-2021-08-13-s1-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.
+
+      While washing your hands, rub them together for 20 seconds to remove **the microbes on them**.
+    options:
+      A: the microbes on those
+      B: the microbes on they
+      C: the microbes on their
+      D: No substitution
+    answer: D
+    explanation: "'Them' correctly refers back to 'your hands' as the object of 'on', so no substitution is needed."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The invigilator is advising the students not to carry calculators into the examination hall.
+    options:
+      A: The students were advised not to carry calculators into the examination hall.
+      B: The students are being advised by the invigilator not to carry calculators into the examination hall.
+      C: The students have been advised not to carry calculators into the examination hall by the invigilator.
+      D: The students were advised the invigilator not to carry calculators into the examination hall.
+    answer: B
+    explanation: Present continuous active 'is advising' becomes 'are being advised' in the passive, with 'by the invigilator' as the agent.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q078
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Voilence
+      B: Exterminated
+      C: Wildernesses
+      D: Unmanageable
+    answer: A
+    explanation: The correct spelling is 'Violence'.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      “Everything is going to be alright,” said the doctor.
+    options:
+      A: The doctor said that everything is going to be alright.
+      B: The doctor said that everything are going to be alright.
+      C: The doctor said that everything was going to be alright.
+      D: The doctor said that everything will be alright.
+    answer: C
+    explanation: After the past reporting verb 'said', 'is going to' moves back to 'was going to'.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q080
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A herd or flock of animals being driven in a body
+    options:
+      A: Drove
+      B: Crowd
+      C: Cluster
+      D: Throng
+    answer: A
+    explanation: A drove is a herd or flock of animals driven in a body.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Gradual
+    options:
+      A: Gentle
+      B: Abrupt
+      C: Regular
+      D: Slow
+    answer: B
+    explanation: Gradual means happening slowly, step by step; its opposite is abrupt (sudden).
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      India is formally moving ahead to ______ 21 MIG-29 and 12 Sukhoi-30MKI fighters from Russia along with upgrades of their existing fleets.
+    options:
+      A: advance
+      B: accomplish
+      C: achieve
+      D: procure
+    answer: D
+    explanation: To procure is to obtain or buy, which fits acquiring fighter jets.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q083
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Had you / not reached in time, / we will have / lost our lives.
+    options:
+      A: not reached in time
+      B: Had you
+      C: lost our lives
+      D: we will have
+    answer: D
+    explanation: "A third conditional ('Had you not reached') needs 'would have' in the main clause: 'we would have lost our lives'."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      You must avoid riding in a crowded bus / or travelling in a metro / during rush hour / as both are quiet unpleasant experiences.
+    options:
+      A: during rush hour
+      B: or travelling in a metro
+      C: You must avoid riding in a crowded bus
+      D: as both are quiet unpleasant experiences
+    answer: D
+    explanation: "'Quiet' (silent) should be 'quite' (very): 'both are quite unpleasant experiences'."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Bang for the buck
+    options:
+      A: More value for money
+      B: Less value for money
+      C: A sorrowful heart
+      D: Dash against something
+    answer: A
+    explanation: "'Bang for the buck' means good value for the money spent."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q086
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      A. But the eagle, in wrath, gave the beetle a flap of his wing, and straightaway seized upon the hare and devoured him.  
+      B. The beetle therefore interceded with the eagle, begging of him not to kill the poor suppliant, and pleaded with him not to kill so small an animal.  
+      C. When the eagle flew away, the beetle flew after him, to learn where his nest was.  
+      D. A hare, being pursued by an eagle, took himself for refuge to the nest of a beetle, whom he begged to save him.
+    options:
+      A: CBAD
+      B: DBAC
+      C: DCAB
+      D: ACDB
+    answer: B
+    explanation: "D introduces the hare seeking refuge with the beetle, B the beetle pleading, A the eagle killing the hare anyway, and C the beetle following the eagle: DBAC."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Raise the bar
+    options:
+      A: To grow taller
+      B: To win a competition
+      C: To raise the price
+      D: To set higher goals
+    answer: D
+    explanation: To raise the bar means to set higher standards or goals.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A group of three novels or plays, each complete in itself
+    options:
+      A: Triplet
+      B: Trivet
+      C: Triumvir
+      D: Trilogy
+    answer: D
+    explanation: A trilogy is a set of three related novels or plays, each complete in itself.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Work and domestic ______ made Kajal short-tempered.
+    options:
+      A: weights
+      B: gravities
+      C: pressures
+      D: forces
+    answer: C
+    explanation: "'Work and domestic pressures' (stress, demands) is the natural collocation for what makes someone short-tempered."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Regime
+    options:
+      A: Country
+      B: Space
+      C: Territory
+      D: Rule
+    answer: D
+    explanation: A regime is a system of government or rule.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q091
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      A. When we got near, we saw it was the steam rising from hot springs.  
+      B. We saw in the distance a great column of smoke.  
+      C. We wondered if it came from a chimney or a burning house.  
+      D. We thought of taking a bath in the hot water.
+    options:
+      A: ACDB
+      B: ABCD
+      C: BCAD
+      D: BCDA
+    answer: C
+    explanation: "B: a column of smoke is seen; C: they wonder what it is; A: close up it is steam from hot springs; D: they think of bathing: BCAD."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.
+
+      The toy drummer **plays the drum if you press** the button at the back.
+    options:
+      A: No substitution
+      B: will play the drum if you will press
+      C: playing the drum if you pressed
+      D: played the drum if you are pressing
+    answer: A
+    explanation: "A general truth or habitual action takes the simple present in both clauses: 'plays the drum if you press'."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Generic
+    options:
+      A: Definite
+      B: Specific
+      C: Precise
+      D: Universal
+    answer: D
+    explanation: Generic means general, relating to a whole class, so 'universal' is the closest; the other options mean specific.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q094
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Creature
+      B: Specified
+      C: Decrease
+      D: Pieceful
+    answer: D
+    explanation: The correct spelling is 'Peaceful'.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Seize
+    options:
+      A: Grab
+      B: Loosen
+      C: Snatch
+      D: Catch
+    answer: B
+    explanation: To seize is to grab firmly; to loosen (one's grip) is the opposite. Grab, snatch and catch are synonyms.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      What every tourist must take back from Bhutan is pure honey, especially Putka, “Antibiotic” honey produced (1)______ Melipona Bees (stingless bees) a breed found in protected areas (2)______ 700 to 1,500 metres above sea level. Due (3)______ their small size, they can get larger nutrients (4)______ regular honeybees. It has a tangy/sour taste and can (5)______ your sore throat in a matter of minutes.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: through
+      B: with
+      C: of
+      D: by
+    answer: D
+    explanation: Honey is produced 'by' the bees (the agent of a passive participle).
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      What every tourist must take back from Bhutan is pure honey, especially Putka, “Antibiotic” honey produced (1)______ Melipona Bees (stingless bees) a breed found in protected areas (2)______ 700 to 1,500 metres above sea level. Due (3)______ their small size, they can get larger nutrients (4)______ regular honeybees. It has a tangy/sour taste and can (5)______ your sore throat in a matter of minutes.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: between
+      B: after
+      C: midst
+      D: among
+    answer: A
+    explanation: "A range of altitudes takes 'between ... (and)': between 700 and 1,500 metres."
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      What every tourist must take back from Bhutan is pure honey, especially Putka, “Antibiotic” honey produced (1)______ Melipona Bees (stingless bees) a breed found in protected areas (2)______ 700 to 1,500 metres above sea level. Due (3)______ their small size, they can get larger nutrients (4)______ regular honeybees. It has a tangy/sour taste and can (5)______ your sore throat in a matter of minutes.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: to
+      B: for
+      C: of
+      D: at
+    answer: A
+    explanation: The fixed phrase is 'due to'.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      What every tourist must take back from Bhutan is pure honey, especially Putka, “Antibiotic” honey produced (1)______ Melipona Bees (stingless bees) a breed found in protected areas (2)______ 700 to 1,500 metres above sea level. Due (3)______ their small size, they can get larger nutrients (4)______ regular honeybees. It has a tangy/sour taste and can (5)______ your sore throat in a matter of minutes.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: then
+      B: though
+      C: than
+      D: and
+    answer: C
+    explanation: The comparative 'larger' is followed by 'than'.
+    tags:
+      - english
+  - slug: cgl-2021-08-13-s1-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      What every tourist must take back from Bhutan is pure honey, especially Putka, “Antibiotic” honey produced (1)______ Melipona Bees (stingless bees) a breed found in protected areas (2)______ 700 to 1,500 metres above sea level. Due (3)______ their small size, they can get larger nutrients (4)______ regular honeybees. It has a tangy/sour taste and can (5)______ your sore throat in a matter of minutes.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: soothe
+      B: pacify
+      C: appease
+      D: calm
+    answer: A
+    explanation: Honey can soothe (ease) a sore throat; pacify and appease are used for people, not pain.
+    tags:
+      - english

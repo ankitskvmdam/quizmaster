@@ -2,7 +2,7 @@ slug: 2019-06-11-shift1
 title: SSC CGL 2018 Tier 1
 date: 2019-06-11
 label: 11 Jun, Shift 1
-source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132653/SSC-CGL-QUESTION-PAPER-11-June-2019-Shift-1-En). Left out (picture-only options or incomplete in the source): Q5, Q9, Q14, Q15, Q17, Q24, Q25."
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132653/SSC-CGL-QUESTION-PAPER-11-June-2019-Shift-1-En). Left out (picture-only options or incomplete in the source): Q2, Q5, Q9, Q14, Q15, Q17, Q24, Q25."
 questions:
   - slug: cgl-2019-06-11-s1-q001
     difficulty: medium
@@ -14,18 +14,6 @@ questions:
       D: Brother
     answer: C
     explanation: Akshay is Sonia's son, and Priyank (a brother, so male) is Akshay's brother, so Priyank is also Sonia's son.
-    tags:
-      - reasoning
-  - slug: cgl-2019-06-11-s1-q002
-    difficulty: medium
-    stem: At a party, the number of girls is half the number of boys. After an hour, five boys leave the party and three girls join the party. How many people were present at the party an hour before?
-    options:
-      A: "16"
-      B: "8"
-      C: "24"
-      D: "22"
-    answer: C
-    explanation: If boys = b and girls = b/2, and after the change b − 5 = b/2 + 3, then b = 16 and girls = 8, so 24 people were there at first.
     tags:
       - reasoning
   - slug: cgl-2019-06-11-s1-q003
@@ -75,10 +63,10 @@ questions:
     stem: |-
       Arrange the following words in a logical and meaningful order.
 
-      1) Write
-      2) Publish
-      3) Author
-      4) Reader
+      1) Write  
+      2) Publish  
+      3) Author  
+      4) Reader  
       5) Sale
     options:
       A: 3, 1, 2, 5, 4
@@ -920,7 +908,7 @@ questions:
     stem: |-
       Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
 
-      Your coming home to dinner on time <u>should be a rule rather the exception.</u>
+      Your coming home to dinner on time **should be a rule rather the exception.**
     options:
       A: shall be a rule rather than a exception
       B: No improvement
@@ -962,7 +950,7 @@ questions:
     stem: |-
       Select the most appropriate meaning of the underlined idiom in the given sentence.
 
-      True friends stay by our side <u>through thick and thin</u>.
+      True friends stay by our side **through thick and thin**.
     options:
       A: under all circumstances
       B: in happy moments
@@ -1043,7 +1031,7 @@ questions:
     stem: |-
       Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
 
-      Knowing the particular things that motivate each person <u>help you add power</u> to their motivation.
+      Knowing the particular things that motivate each person **help you add power** to their motivation.
     options:
       A: No improvement
       B: help you to add power
@@ -1284,7 +1272,7 @@ questions:
     stem: |-
       Select the most appropriate meaning of the underlined idiom in the given sentence.
 
-      Due to increased number of lay offs in the industry, <u>the sword of Damocles</u> is always hanging over the employees.
+      Due to increased number of lay offs in the industry, **the sword of Damocles** is always hanging over the employees.
     options:
       A: strict rules and regulations
       B: an ill omen of death

@@ -1,0 +1,1264 @@
+slug: 2017-08-17-shift2
+title: SSC CGL 2017 Tier 1
+date: 2017-08-17
+label: 17 Aug, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com - https://docs.aglasem.com/view/57cef024-9e90-11e9-a3d5-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-17-s2-q001
+    difficulty: medium
+    stem: |-
+      Select the related word from the given alternatives.
+
+      Office : Colleagues :: Home : ?
+    options:
+      A: Rest
+      B: Work
+      C: Friends
+      D: Family
+    answer: D
+    explanation: You meet colleagues at the office and family at home.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q002
+    difficulty: medium
+    stem: |-
+      Select the related letters from the given alternatives.
+
+      XVT : RPN :: LJH : ?
+    options:
+      A: FDB
+      B: ECA
+      C: KIG
+      D: QOM
+    answer: A
+    explanation: "Each letter moves back 6 places: X→R, V→P, T→N. So L→F, J→D, H→B = FDB."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q003
+    difficulty: medium
+    stem: |-
+      Select the related number from the given alternatives.
+
+      0.04 : 0.2 :: 0.09 : ?
+    options:
+      A: "0.3"
+      B: "0.6"
+      C: "0.9"
+      D: "2"
+    answer: A
+    explanation: "0.04 = 0.2², so the second term is the square root of the first: √0.09 = 0.3."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q004
+    difficulty: medium
+    stem: Select the odd word from the given alternatives.
+    options:
+      A: Chair
+      B: Bench
+      C: Bed
+      D: Sofa
+    answer: C
+    explanation: Chair, bench and sofa are for sitting; a bed is for sleeping.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q005
+    difficulty: medium
+    stem: Select the odd letters from the given alternatives.
+    options:
+      A: CEG
+      B: UXZ
+      C: ORT
+      D: ILN
+    answer: A
+    explanation: UXZ, ORT and ILN step forward by +3, +2. CEG steps by +2, +2, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q006
+    difficulty: medium
+    stem: Select the odd number from the given alternatives.
+    options:
+      A: "75"
+      B: "65"
+      C: "82"
+      D: "85"
+    answer: C
+    explanation: 75, 65 and 85 are multiples of 5; 82 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q010
+    difficulty: medium
+    stem: Divit's birthday is on Friday 30th June. On what day of the week will be Samar's Birthday in the same year if Samar was born on 15th November?
+    options:
+      A: Tuesday
+      B: Friday
+      C: Wednesday
+      D: Saturday
+    answer: C
+    explanation: From 30 June to 15 November is 31 + 31 + 30 + 31 + 15 = 138 days = 19 weeks + 5 days. Friday + 5 = Wednesday.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q011
+    difficulty: medium
+    stem: The weights of 4 boxes are 100, 70, 50 and 90 kilograms. Which of the following cannot be the total weight, in kilograms, of any combination of these boxes and in a combination a box can be used only once?
+    options:
+      A: "310"
+      B: "260"
+      C: "230"
+      D: "210"
+    answer: C
+    explanation: The possible totals are 310 (all four), 260, 240, 220, 210 (three boxes) and 120–190 (two boxes). 230 cannot be made.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q012
+    difficulty: medium
+    stem: |-
+      From the given words, select the word which cannot be formed using the letters of the given word.
+
+      RECLINES
+    options:
+      A: SINCE
+      B: RELIC
+      C: LINER
+      D: SCARE
+    answer: D
+    explanation: RECLINES has no A, so SCARE cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q013
+    difficulty: medium
+    stem: If REGAINS is coded as QDFZHMR, then how will PRY be coded as?
+    options:
+      A: BJX
+      B: OQX
+      C: LFT
+      D: PSU
+    answer: B
+    explanation: Each letter moves back one place (R→Q, E→D, …), so PRY → OQX.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q014
+    difficulty: medium
+    stem: |-
+      In a certain code language, '+' represents 'x', '-' represents '+', 'x' represents '÷' and '÷' represents '-'. What is the answer to the following question?
+
+      45 x 5 + 2 - 20 = ?
+    options:
+      A: "17"
+      B: "81"
+      C: "38"
+      D: "64"
+    answer: C
+    explanation: "After swapping the signs: 45 ÷ 5 × 2 + 20 = 18 + 20 = 38."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q015
+    difficulty: medium
+    stem: If 5@1=60; 12@8=200; 16@2=180; then what is the value of 16@10=?
+    options:
+      A: "32"
+      B: "11"
+      C: "9"
+      D: "260"
+    answer: D
+    explanation: "The rule is (a + b) × 10: (5 + 1) × 10 = 60, (12 + 8) × 10 = 200, (16 + 2) × 10 = 180. So (16 + 10) × 10 = 260."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q017
+    difficulty: medium
+    stem: Two women A and B are shopping in a mall. They start from the same point. A walks 150 m West, then turns to her left and walks 160 m. B walks 140 m East, then turns South and walks 160 m, then turns to her left and walks 120 m. Where is B with respect to A now?
+    options:
+      A: 410 m West
+      B: 410 m East
+      C: 170 m East
+      D: 170 m West
+    answer: B
+    explanation: A ends 150 m west and 160 m south. B ends 140 + 120 = 260 m east and 160 m south. On the same line, B is 150 + 260 = 410 m east of A.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q018
+    difficulty: medium
+    stem: |-
+      In the question a statement is given, followed by two arguments, I and II. You have to consider the statement to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given arguments, if any, is a strong argument.
+
+      Statement : Should eating paan at public places be made punishable?
+
+      Argument I : Yes, people eat pan and spit and makes public places dirty.  
+      Argument II : No, Indians love paan.
+    options:
+      A: if only argument I is strong.
+      B: if only argument II is strong.
+      C: if both I and II are strong.
+      D: if neither I nor II is strong.
+    answer: A
+    explanation: Argument I gives a real public-hygiene reason. Argument II is only a matter of liking, so it is weak.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q020
+    difficulty: medium
+    stem: |-
+      In the following figure, square represents Optometrists, triangle represents Painters, circle represents Vegetarians and rectangle represents Men. Which set of letters represents painters who are either men or vegetarians?
+
+      *(Figure: Overlapping shapes: a square and a triangle overlap; a circle at the lower left overlaps both; a long rectangle at the top right overlaps the top-right corner of the square. Letters: A in the square and rectangle only; G in the rectangle only; D in the square only (right of the triangle); C in the triangle and square only; B in the triangle, square and circle; E in the triangle and circle only; F in the circle only. No region is labelled H.)*
+    options:
+      A: D,F
+      B: E,B
+      C: H,G,F
+      D: A,C,E
+    answer: B
+    explanation: Painters are in the triangle. The triangle overlaps the circle (vegetarians) in regions B and E; it does not reach the rectangle (men).
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q025
+    difficulty: medium
+    stem: |-
+      A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example 'K' can be represented by 42, 34 etc and 'Z' can be represented by 96, 79 etc. Similarly, you have to identify the set for the word 'ROAD'.
+
+      Matrix I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | L | K | A | F | H |
+      | 1 | K | I | I | C | D |
+      | 2 | J | E | E | E | F |
+      | 3 | M | I | A | E | K |
+      | 4 | M | B | K | C | G |
+
+      Matrix II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | Q | S | R | U | Z |
+      | 6 | S | R | O | V | T |
+      | 7 | O | U | V | S | Z |
+      | 8 | V | Y | T | Y | S |
+      | 9 | Y | Z | O | U | V |
+
+      *(Figure: Two 5 × 5 letter matrices (transcribed as tables in the stem). The question is printed as an image.)*
+    options:
+      A: 24,14,67,76
+      B: 30,22,86,56
+      C: 66,67,02,14
+      D: 13,43,56,86
+    answer: C
+    explanation: "R = 66, O = 67, A = 02, D = 14, all correct in option C. The other options fail at once (A: 24 = F; B: 30 = M; D: 13 = C)."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q026
+    difficulty: medium
+    stem: The __________ exchange rate is the relative price of foreign goods in terms of domestic goods.
+    options:
+      A: Artificial
+      B: Nominal
+      C: Fixed
+      D: Real
+    answer: D
+    explanation: The real exchange rate is the nominal rate adjusted for price levels, i.e. the relative price of foreign goods in terms of domestic goods.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q027
+    difficulty: medium
+    stem: ___________ is an alternative way of representing the production function.
+    options:
+      A: The Short Run
+      B: The Long Run
+      C: Isoquant
+      D: Average product
+    answer: C
+    explanation: An isoquant shows all input combinations that give the same output, so it is another way to represent the production function.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q028
+    difficulty: medium
+    stem: '"United Nations Organization" is listed in the __________ list given in the Seventh Schedule in the Constitution of India.'
+    options:
+      A: Union
+      B: State
+      C: Global
+      D: Concurrent
+    answer: A
+    explanation: The United Nations Organisation is entry 12 of the Union List in the Seventh Schedule.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q029
+    difficulty: medium
+    stem: There are total _________ parliamentary seats (Rajya Sabha constituency) in Punjab.
+    options:
+      A: "7"
+      B: "1"
+      C: "18"
+      D: "10"
+    answer: A
+    explanation: Punjab has 7 Rajya Sabha seats.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q030
+    difficulty: medium
+    stem: Big landlords or warrior chiefs in the seventh century were acknowledged as _________ by the existing kings?
+    options:
+      A: Rashtrakutas
+      B: Chalukya
+      C: Samantas
+      D: Brahmanas
+    answer: C
+    explanation: In the 7th century, big landlords and warrior chiefs were recognised by kings as samantas (subordinates).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q031
+    difficulty: medium
+    stem: The Agra fort was built by ___________.
+    options:
+      A: Shah Jahan
+      B: Akbar
+      C: Jahangir
+      D: Babur
+    answer: B
+    explanation: The Agra Fort in its present form was built by Akbar from 1565.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q032
+    difficulty: medium
+    stem: How many states does India have as of June 2017?
+    options:
+      A: "26"
+      B: "27"
+      C: "28"
+      D: "29"
+    answer: D
+    explanation: In June 2017 India had 29 states (Telangana became the 29th in 2014).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q033
+    difficulty: medium
+    stem: The northern plain of India has been formed by the interplay of the three major river systems, namely– the Indus, the Ganga and the ___________.
+    options:
+      A: Brahmaputra
+      B: Krishna
+      C: Kaveri
+      D: Mahanadi
+    answer: A
+    explanation: The northern plain was formed by the Indus, the Ganga and the Brahmaputra and their tributaries.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q034
+    difficulty: medium
+    stem: In the names Mangifera indica (mango), Solanum tuberosum (potato) and Panthera leo (lion), what does the three names, indica, tuberosum and leo, represent?
+    options:
+      A: Binomial Nomenclature
+      B: Taxonomic Hierarchy
+      C: Identification
+      D: Specific Epithet
+    answer: D
+    explanation: In binomial names the second word (indica, tuberosum, leo) is the specific epithet; the first is the genus.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q035
+    difficulty: medium
+    stem: _______ are chlorophyll-bearing, simple, thalloid, autotrophic and largely acquatic (both fresh water and marine) organisms.
+    options:
+      A: Pteridophytes
+      B: Bryophytes
+      C: Algae
+      D: Gymnosperms
+    answer: C
+    explanation: Algae are simple, thalloid, autotrophic, mostly aquatic organisms with chlorophyll.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q036
+    difficulty: medium
+    stem: Animals like annelids and arthropods etc where the body can be divided into identical left and right halves in only one plane, exhibit ________ symmetry.
+    options:
+      A: Coelenterata
+      B: Radial
+      C: Ctenophora
+      D: Bilateral
+    answer: D
+    explanation: A body that can be cut into identical left and right halves in only one plane is bilaterally symmetrical, as in annelids and arthropods.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q037
+    difficulty: medium
+    stem: If the orbit of a planet is an ellipse then what is the point at which the Sun is located called?
+    options:
+      A: Centre
+      B: Circumcentre
+      C: Incentre
+      D: Focus
+    answer: D
+    explanation: By Kepler's first law, a planet moves in an ellipse with the Sun at one focus.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q038
+    difficulty: medium
+    stem: The sliding friction is _______________ than the static friction.
+    options:
+      A: double
+      B: same
+      C: greater
+      D: smaller
+    answer: D
+    explanation: Sliding (kinetic) friction is less than limiting static friction.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q039
+    difficulty: medium
+    stem: _______ optical data storage is a technology where data is stored in multiple layers in the optical disc.
+    options:
+      A: 3D
+      B: 30D
+      C: 300D
+      D: 3000D
+    answer: A
+    explanation: 3D optical data storage records data in multiple layers through the volume of the disc.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q040
+    difficulty: medium
+    stem: Kelvin (K) is the unit of measurement of ________.
+    options:
+      A: Density
+      B: Pressure
+      C: Mass
+      D: Temperature
+    answer: D
+    explanation: The kelvin is the SI unit of temperature.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q041
+    difficulty: medium
+    stem: What is the process of rust forming on iron called?
+    options:
+      A: Rusting
+      B: Crystallisation
+      C: Shovel
+      D: Spade
+    answer: A
+    explanation: The formation of rust (hydrated iron oxide) on iron is called rusting.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q042
+    difficulty: medium
+    stem: __________ acts as a shield absorbing ultraviolet radiation from the sun.
+    options:
+      A: Chlorofluorocarbons
+      B: Stratosphere
+      C: Ozone hole
+      D: Greenhouse
+    answer: B
+    explanation: The stratosphere holds the ozone layer, which absorbs most of the Sun's ultraviolet radiation.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q043
+    difficulty: medium
+    stem: ______________ scheme launched by the Central Government aims to spur social, economic and infrastructure development in rural areas by developing a cluster of 300 Smart Villages.
+    options:
+      A: Soil Health Card
+      B: Shyama Prasad Mukherji Rurban Mission
+      C: Pradhan Mantri Fasal Bima Yojana
+      D: Pradhanmantri rojgar yojna
+    answer: B
+    explanation: The Shyama Prasad Mukherji Rurban Mission (2016) aims to develop 300 rurban clusters ('smart villages').
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q044
+    difficulty: medium
+    stem: Who invented the electrocardiogram (ECG)?
+    options:
+      A: Willem Einthoven
+      B: Edward Jenner
+      C: Antonio de Ulloa and Charles Wood
+      D: Karl Benz
+    answer: A
+    explanation: Willem Einthoven invented the practical electrocardiograph (1903) and won the 1924 Nobel Prize for it.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q045
+    difficulty: medium
+    stem: Who is the winner of 2017 Formula One Chinese Grand Prix?
+    options:
+      A: Sebastian Vettel
+      B: Lewis Hamilton
+      C: Valtteri Bottas
+      D: Kimi Raikkonen
+    answer: B
+    explanation: Lewis Hamilton (Mercedes) won the 2017 Chinese Grand Prix.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q046
+    difficulty: medium
+    stem: In which city of India is Charminar located?
+    options:
+      A: Pune
+      B: Delhi
+      C: Aurangabad
+      D: Hyderabad
+    answer: D
+    explanation: The Charminar (1591) is in Hyderabad.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q047
+    difficulty: medium
+    stem: Which of the following was the winner of the Grammy Awards 2016 "Record of the Year"?
+    options:
+      A: Uptown Funk
+      B: Really Love
+      C: Thinking Out Loud
+      D: Blank Space
+    answer: A
+    explanation: "'Uptown Funk' by Mark Ronson featuring Bruno Mars won Record of the Year at the 2016 Grammys."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q048
+    difficulty: medium
+    stem: |-
+      1. The author of the novel 'Darkness at Noon' is Victor LaValle.  
+      2. The author of the novel 'The Great Gatsby' is F. Scott Fitzgerald.  
+      3. The author of the novel 'The Sound and the Fury' is L. Ron Hubbard.
+
+      Which of the statements given above are not correct?
+    options:
+      A: 1 and 2
+      B: 2 and 3
+      C: 1 and 3
+      D: 1, 2 and 3
+    answer: C
+    explanation: "'Darkness at Noon' is by Arthur Koestler and 'The Sound and the Fury' is by William Faulkner, so statements 1 and 3 are wrong. 'The Great Gatsby' is by F. Scott Fitzgerald."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q049
+    difficulty: medium
+    stem: What was Norway's rank in 2016 Human Development Index published by the United Nations Development Programme?
+    options:
+      A: "1"
+      B: "10"
+      C: "100"
+      D: "200"
+    answer: A
+    explanation: Norway ranked 1st in the UNDP Human Development Index published in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q050
+    difficulty: medium
+    stem: Which country is not a member of Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation (BIMSTEC)?
+    options:
+      A: Thailand
+      B: Myanmar
+      C: India
+      D: Pakistan
+    answer: D
+    explanation: BIMSTEC members are Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand. Pakistan is not a member.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q051
+    difficulty: medium
+    stem: What is the value of 9991 x 10009?
+    options:
+      A: "99999099"
+      B: "99999819"
+      C: "99999919"
+      D: "99999019"
+    answer: C
+    explanation: (10000 − 9)(10000 + 9) = 10⁸ − 81 = 99,999,919.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q052
+    difficulty: medium
+    stem: A can do 1/3rd of a job in 3 days and B can do half of the job in 9 days. If they work on it together, then in how many days can they finish half of the job?
+    options:
+      A: "4"
+      B: "5"
+      C: "6"
+      D: "3"
+    answer: D
+    explanation: A does the whole job in 9 days and B in 18 days. Together they do 1/9 + 1/18 = 1/6 per day, so half the job takes 3 days.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q053
+    difficulty: medium
+    stem: What is the area (in sq cm) of a rhombus if the lengths of its diagonals are 25 cm and 20 cm?
+    options:
+      A: "500"
+      B: "250"
+      C: "125"
+      D: "200"
+    answer: B
+    explanation: Area of a rhombus = ½ × d₁ × d₂ = ½ × 25 × 20 = 250 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q054
+    difficulty: medium
+    stem: If a shopkeeper sells an item at Rs 4200 which is marked as Rs 4800, then what is the discount (in %) that he is offering?
+    options:
+      A: "12.5"
+      B: "14.28"
+      C: "10"
+      D: "15"
+    answer: A
+    explanation: "The discount is 600 on 4800: 600/4800 × 100 = 12.5%."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q055
+    difficulty: medium
+    stem: The flight fare between two cities is increased in the ratio 11:13. What is the increase (in Rs) in the fare, if the original fare was Rs 12100?
+    options:
+      A: "14300"
+      B: "2200"
+      C: "22000"
+      D: "1430"
+    answer: B
+    explanation: New fare = 12100 × 13/11 = 14300, an increase of ₹2200.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q056
+    difficulty: medium
+    stem: 3 numbers whose average is 112, the first number is 1/6th the sum of other 2. What is the first number?
+    options:
+      A: "45"
+      B: "30"
+      C: "15"
+      D: "48"
+    answer: D
+    explanation: The sum is 3 × 112 = 336. If the first is x, then x = (336 − x)/6, so 7x = 336 and x = 48.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q057
+    difficulty: medium
+    stem: A trader buys 800 kgs of tomatoes for Rs 7200. 10% tomatoes are damaged in transportaion. At what rate (Rs/Kg) should he sell the rest to earn 30% profit?
+    options:
+      A: "9"
+      B: "13"
+      C: "10"
+      D: "12"
+    answer: B
+    explanation: 720 kg is left after 10% damage. 30% profit needs 7200 × 1.3 = ₹9360, so the rate is 9360 ÷ 720 = ₹13/kg.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q058
+    difficulty: medium
+    stem: A student has to secure 35% marks to pass in a subject. If he gets 82 and fails by 23 marks. What is the maximum marks of the subject?
+    options:
+      A: "300"
+      B: "250"
+      C: "350"
+      D: "400"
+    answer: A
+    explanation: The pass mark is 82 + 23 = 105, which is 35% of the maximum. 105 ÷ 0.35 = 300.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q059
+    difficulty: medium
+    stem: A spaceship travels at 810 km/hr. How many metres does it travel in 1/5th of a second?
+    options:
+      A: "60"
+      B: "45"
+      C: "75"
+      D: "90"
+    answer: B
+    explanation: 810 km/h = 810 × 5/18 = 225 m/s, so in 1/5 s it covers 45 m.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q060
+    difficulty: medium
+    stem: If the amount received at the end of 2nd and 3rd year as Compound Interest on a certain Principal is Rs 2100, and Rs 2268 respectively, what is the rate (in %) of interest?
+    options:
+      A: "7"
+      B: "8"
+      C: "9"
+      D: "10"
+    answer: B
+    explanation: "The third-year CI is the second-year CI plus interest on it: 2268 − 2100 = 168 = 8% of 2100."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q061
+    difficulty: medium
+    stem: If 5x - (1/2)(2x -7) = 5.5, then what is the value of x?
+    options:
+      A: 3/2
+      B: 1/2
+      C: -1/2
+      D: -3/2
+    answer: B
+    explanation: 5x − x + 3.5 = 5.5, so 4x = 2 and x = 1/2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q062
+    difficulty: medium
+    stem: If a + b = 4 and ab = -5, then what is the value of a³ + b³?
+    options:
+      A: "34"
+      B: "36"
+      C: "124"
+      D: "126"
+    answer: C
+    explanation: a³ + b³ = (a + b)³ − 3ab(a + b) = 64 + 60 = 124.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q063
+    difficulty: medium
+    stem: The sum of a number and 4 times its reciprocal is 5. What is the number?
+    options:
+      A: "4"
+      B: "5"
+      C: "6"
+      D: "7"
+    answer: A
+    explanation: x + 4/x = 5 gives x² − 5x + 4 = 0, so x = 1 or 4. Only 4 is among the options.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q064
+    difficulty: medium
+    stem: The 3rd and 8th term of an arithmetic progression are -13 and 2 respectively. What is the 14th term?
+    options:
+      A: "23"
+      B: "17"
+      C: "20"
+      D: "26"
+    answer: C
+    explanation: a + 2d = −13 and a + 7d = 2 give d = 3 and a = −19. The 14th term = −19 + 13 × 3 = 20.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q065
+    difficulty: medium
+    stem: What is the reflection of the point (4 , -3) in the line y = 1?
+    options:
+      A: (4, -5)
+      B: (4, 5)
+      C: (-4, -5)
+      D: (-4, 5)
+    answer: B
+    explanation: "Reflecting in y = 1 keeps x and makes y′ = 2(1) − (−3) = 5: (4, 5)."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q066
+    difficulty: medium
+    stem: In what ratio does the point T(x, 0) divide the segment joining the points S(5, 1) and U(-1, -2)?
+    options:
+      A: "2 : 1"
+      B: "1 : 2"
+      C: "3 : 1"
+      D: "2 : 3"
+    answer: B
+    explanation: "If T divides SU in the ratio k : 1, then y = (−2k + 1)/(k + 1) = 0, so k = 1/2. The ratio is 1 : 2."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q067
+    difficulty: medium
+    stem: At what point does the line 3x + 2y = 12 cuts the Y-axis?
+    options:
+      A: (0, 6)
+      B: (0, -6)
+      C: (6, 0)
+      D: (-6, 0)
+    answer: A
+    explanation: "Put x = 0: 2y = 12, so y = 6. The point is (0, 6)."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q068
+    difficulty: medium
+    stem: The areas of two similar triangles ΔABC and ΔPQR are 121 sq cms and 64 sq cms respectively. If PQ = 12 cm, what is the length (in cm) of AB?
+    options:
+      A: "7.25"
+      B: "6.25"
+      C: "16.5"
+      D: "5.25"
+    answer: C
+    explanation: For similar triangles AB/PQ = √(121/64) = 11/8, so AB = 12 × 11/8 = 16.5 cm.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q069
+    difficulty: medium
+    stem: What is the value of Tan 60° + Cosec 60°?
+    options:
+      A: 5/3
+      B: 2/√3
+      C: 5/√3
+      D: 2/3
+    answer: C
+    explanation: tan 60° + cosec 60° = √3 + 2/√3 = 5/√3.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q070
+    difficulty: medium
+    stem: Δ XYZ is right angled at Y. If m∠Z = 60°, then what is the value of (1/√2) Sec X?
+    options:
+      A: 2/√3
+      B: 1/√6
+      C: 1/√3
+      D: 2/√6
+    answer: D
+    explanation: ∠X = 30°, so sec X = 2/√3 and (1/√2) × 2/√3 = 2/√6.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q071
+    difficulty: medium
+    stem: If Cosec θ = 17/8, then what is the value of Cos θ?
+    options:
+      A: 15/8
+      B: 15/17
+      C: 8/15
+      D: 17/15
+    answer: B
+    explanation: sin θ = 8/17, so cos θ = √(1 − 64/289) = 15/17.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q072
+    difficulty: medium
+    stem: |-
+      The bar graph shows GDP for the year 2016 in billion USD of six countries (A, B, C, D, E, F) of a regional trade block. Study the diagram and answer the following questions.
+
+      | Country | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | GDP (billion USD) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      Which country is the third biggest in terms of Gross Domestic Product (GDP)?
+
+      *(Figure: Bar graph of GDP (billion USD) for countries A–F with bar values labelled (transcribed as a table in the stem). The introduction and graph are printed as an image.)*
+    options:
+      A: A
+      B: C
+      C: E
+      D: F
+    answer: B
+    explanation: "In order: B 100, E 90, C 70. C is the third biggest."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q073
+    difficulty: medium
+    stem: |-
+      The bar graph shows GDP for the year 2016 in billion USD of six countries (A, B, C, D, E, F) of a regional trade block. Study the diagram and answer the following questions.
+
+      | Country | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | GDP (billion USD) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      By what amount (in billion USD) is the Gross Domestic Product (GDP) of Country A lesser than that of Country F?
+
+      *(Figure: Same bar graph as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "20"
+      B: "50"
+      C: "25"
+      D: "40"
+    answer: D
+    explanation: |-
+      **Disputed.** SSC's answer is D; our check suggests A.
+
+      From the graph, F − A = 50 − 30 = 20 billion USD. SSC's printed key gives 40.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q074
+    difficulty: medium
+    stem: |-
+      The bar graph shows GDP for the year 2016 in billion USD of six countries (A, B, C, D, E, F) of a regional trade block. Study the diagram and answer the following questions.
+
+      | Country | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | GDP (billion USD) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      What is the ratio of Gross Domestic Product (GDP) of Country E to Total of GDPs of countries A, C and F taken together?
+
+      *(Figure: Same bar graph as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "3 : 5"
+      B: "5 : 3"
+      C: "9 : 5"
+      D: "5 : 9"
+    answer: A
+    explanation: "E : (A + C + F) = 90 : (30 + 70 + 50) = 90 : 150 = 3 : 5."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q075
+    difficulty: medium
+    stem: |-
+      The bar graph shows GDP for the year 2016 in billion USD of six countries (A, B, C, D, E, F) of a regional trade block. Study the diagram and answer the following questions.
+
+      | Country | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | GDP (billion USD) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      If the combined GDP of the six countries has grown by 50% in the last decade, then what was their combined annual Gross Domestic Product (in billion USD) before 10 years?
+
+      *(Figure: Same bar graph as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "540"
+      B: "180"
+      C: "240"
+      D: "200"
+    answer: C
+    explanation: The current total is 360. If that is 150% of the earlier total, the earlier total was 360 ÷ 1.5 = 240.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q076
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      Water was dripping (1)/ of the trees, and (2)/ the grass was wet. (3)/No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: B
+    explanation: Water drips 'from' the trees, not 'of' the trees, so the error is in part 2.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q077
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      Pravin sat up on the (1)/ sofa, with his legs (2)/ tucked down him. (3)/No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: C
+    explanation: The legs are tucked 'under' him, not 'down' him, so the error is in part 3.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q078
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      At night, the hungry orphan would sneak into the kitchen and __________ tiny amounts of food.
+    options:
+      A: prefer
+      B: lifter
+      C: differ
+      D: pilfer
+    answer: D
+    explanation: To pilfer is to steal small amounts.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q079
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      As the only ________ person in the wacky family, the sensible girl felt like the odd woman out.
+    options:
+      A: insane
+      B: vain
+      C: sane
+      D: main
+    answer: C
+    explanation: A sensible person in a wacky family is the only 'sane' one.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q080
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Piquancy
+    options:
+      A: Bland
+      B: Flavouring
+      C: Insipid
+      D: Tedious
+    answer: B
+    explanation: Piquancy is a pleasantly sharp, spicy taste, so 'flavouring' is closest.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q081
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      To Confront
+    options:
+      A: To Avoid
+      B: To Dodge
+      C: To Yield
+      D: To Accost
+    answer: D
+    explanation: To confront someone is to face them boldly; 'to accost' is closest.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q082
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Savant
+    options:
+      A: Amateur
+      B: Academic
+      C: Pundit
+      D: Egghead
+    answer: A
+    explanation: A savant is a learned expert; the opposite is an 'amateur'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q083
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      To Indict
+    options:
+      A: To Arraign
+      B: To Censure
+      C: To Exonerate
+      D: To Impeach
+    answer: C
+    explanation: To indict is to formally accuse; the opposite is 'to exonerate' (clear of blame).
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q084
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase. To Have bitten off more than you can chew
+    options:
+      A: To eat voraciously and then fall sick
+      B: To behave disrespectfully towards elders and then repent the act
+      C: To have tried to do something which is too difficult
+      D: To have missed a golden opportunity and after that willing to put twice the effort to recover the loss
+    answer: C
+    explanation: To bite off more than you can chew is to take on something too difficult.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q085
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase. Out of print
+    options:
+      A: Not able to print due to being short on paper
+      B: A book no longer available from the publisher
+      C: Intentionally not mention some items in the article or book
+      D: All publishers refuse to publish your book
+    answer: B
+    explanation: A book 'out of print' is no longer available from the publisher.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q086
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select "no improvement".
+
+      I'm (having to) too much fun.
+    options:
+      A: having
+      B: had
+      C: has
+      D: no improvement
+    answer: A
+    explanation: The present continuous needs 'I'm having too much fun'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q087
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select "no improvement".
+
+      What would the cavalry (doing) out here?
+    options:
+      A: be doing
+      B: be done
+      C: done
+      D: no improvement
+    answer: A
+    explanation: After the modal 'would', the continuous form is 'be doing'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q088
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which is the best substitute of the words/sentence. In exactly the same words as were used originally
+    options:
+      A: Verbatim
+      B: Offbeat
+      C: Divergent
+      D: Contrary
+    answer: A
+    explanation: Verbatim means in exactly the same words.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q089
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which is the best substitute of the words/sentence. A person inclined to question or doubt accepted opinions
+    options:
+      A: Adherent
+      B: Sceptic
+      C: Zealot
+      D: Disciple
+    answer: B
+    explanation: A sceptic questions or doubts accepted opinions.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q090
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is correctly spelt. Select the correctly spelt word.
+    options:
+      A: Ditheering
+      B: Dethering
+      C: Dithering
+      D: Detheering
+    answer: C
+    explanation: The correct spelling is 'Dithering'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q091
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is correctly spelt. Select the correctly spelt word.
+    options:
+      A: Throtled
+      B: Throttlede
+      C: Throtlede
+      D: Throttled
+    answer: D
+    explanation: The correct spelling is 'Throttled'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q092
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      Children are sensitive
+
+      X-to what happens around them and are  
+      Y-enthusiastic about working on  
+      Z-plays that reflect their lives
+    options:
+      A: ZYX
+      B: XYZ
+      C: ZXY
+      D: YZX
+    answer: B
+    explanation: "The sentence reads: Children are sensitive to what happens around them and are enthusiastic about working on plays that reflect their lives (XYZ)."
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q093
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      But this does not mean
+
+      X-phenomena to the body  
+      Y-is a meaningless expression  
+      Z-that the reference of mental
+    options:
+      A: YZX
+      B: ZXY
+      C: YXZ
+      D: XZY
+    answer: B
+    explanation: "The sentence reads: But this does not mean that the reference of mental phenomena to the body is a meaningless expression (ZXY)."
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q094
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Active/Passive voice. Out of the four alternatives suggested, select the one which best expresses the same sentence in Passive/Active voice.
+
+      The travel agent is making all the reservations.
+    options:
+      A: All the reservations is made by the travel agent.
+      B: All the reserving will be made by the travel agent.
+      C: All the reservations are being made by the travel agent.
+      D: All the reserving is made by the travel agent.
+    answer: C
+    explanation: "The present continuous passive is 'are being made': All the reservations are being made by the travel agent."
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q095
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in Indirect/Direct speech.
+
+      He said to the dentist, "I have a toothache."
+    options:
+      A: He told the dentist that I have a toothache.
+      B: He told the dentist that he had gotten a toothache.
+      C: He told the dentist that he had a toothache.
+      D: He told the dentist that I have a gotten toothache.
+    answer: C
+    explanation: "In reported speech 'I have' becomes 'he had': He told the dentist that he had a toothache."
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q096
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      The Trikonasana, or triangle pose, stimulates the function of the entire body and _____________ a lateral (side) stretch to the spine. It helps reduce blood pressure, stress, and anxiety. Practise this asana every day and you'll _________ strength in the ankles, thighs, knees, hips, calves and hamstrings. All standing poses __________the cardiovascular system, so the more you do it, the ________ your stamina will become. The aim is never to overdo it, but to engage regularly, __________ that you get stronger and more stable over time.
+
+      function of the entire body and _____________ a lateral (side) stretch
+    options:
+      A: given
+      B: gave
+      C: to give
+      D: gives
+    answer: D
+    explanation: "The verb must match 'stimulates': it stimulates … and gives a lateral stretch."
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q097
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      The Trikonasana, or triangle pose, stimulates the function of the entire body and _____________ a lateral (side) stretch to the spine. It helps reduce blood pressure, stress, and anxiety. Practise this asana every day and you'll _________ strength in the ankles, thighs, knees, hips, calves and hamstrings. All standing poses __________the cardiovascular system, so the more you do it, the ________ your stamina will become. The aim is never to overdo it, but to engage regularly, __________ that you get stronger and more stable over time.
+
+      you'll _________ strength in the ankles, thighs, knees, hips
+    options:
+      A: gaining
+      B: gain
+      C: gained
+      D: to gain
+    answer: B
+    explanation: After 'you'll' (you will) comes the base form 'gain'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q098
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      The Trikonasana, or triangle pose, stimulates the function of the entire body and _____________ a lateral (side) stretch to the spine. It helps reduce blood pressure, stress, and anxiety. Practise this asana every day and you'll _________ strength in the ankles, thighs, knees, hips, calves and hamstrings. All standing poses __________the cardiovascular system, so the more you do it, the ________ your stamina will become. The aim is never to overdo it, but to engage regularly, __________ that you get stronger and more stable over time.
+
+      All standing poses __________the cardiovascular system
+    options:
+      A: built
+      B: build
+      C: building
+      D: to build
+    answer: B
+    explanation: The plural subject 'All standing poses' takes the present tense 'build'.
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q099
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      The Trikonasana, or triangle pose, stimulates the function of the entire body and _____________ a lateral (side) stretch to the spine. It helps reduce blood pressure, stress, and anxiety. Practise this asana every day and you'll _________ strength in the ankles, thighs, knees, hips, calves and hamstrings. All standing poses __________the cardiovascular system, so the more you do it, the ________ your stamina will become. The aim is never to overdo it, but to engage regularly, __________ that you get stronger and more stable over time.
+
+      so the more you do it, the ________ your stamina.
+    options:
+      A: best
+      B: better
+      C: good
+      D: too good
+    answer: B
+    explanation: "'The more …, the better …' is the comparative pattern."
+    tags:
+      - english
+  - slug: cgl-2017-08-17-s2-q100
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      The Trikonasana, or triangle pose, stimulates the function of the entire body and _____________ a lateral (side) stretch to the spine. It helps reduce blood pressure, stress, and anxiety. Practise this asana every day and you'll _________ strength in the ankles, thighs, knees, hips, calves and hamstrings. All standing poses __________the cardiovascular system, so the more you do it, the ________ your stamina will become. The aim is never to overdo it, but to engage regularly, __________ that you get stronger and more stable over time.
+
+      to engage regularly, __________ that you get stronger and more stable
+    options:
+      A: if
+      B: of
+      C: so
+      D: to
+    answer: C
+    explanation: "'So that' expresses purpose: engage regularly so that you get stronger."
+    tags:
+      - english

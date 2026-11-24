@@ -2,7 +2,7 @@ slug: 2017-08-21-shift1
 title: SSC CGL 2017 Tier 1
 date: 2017-08-21
 label: 21 Aug, Shift 1
-source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/17030a92-9e92-11e9-9913-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24."
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/17030a92-9e92-11e9-9913-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24, Q64."
 questions:
   - slug: cgl-2017-08-21-s1-q001
     difficulty: medium
@@ -180,10 +180,10 @@ questions:
     stem: |-
       In the question two statements are given, followed by two conclusions, I and II. You have to consider the statements to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.
 
-      Statement 1 : All steel is iron.
+      Statement 1 : All steel is iron.  
       Statement 2 : No iron is solid.
 
-      Conclusion I : No steel is solid.
+      Conclusion I : No steel is solid.  
       Conclusion II : Some iron is steel.
     options:
       A: Only conclusion I follows
@@ -513,8 +513,8 @@ questions:
     stem: |-
       Which of the statements given below are correct?
 
-      1. The author of the novel 'Accelerando' is Charles Stross.
-      2. The author of the novel 'The Windup Girl' is Paolo Bacigalupi.
+      1. The author of the novel 'Accelerando' is Charles Stross.  
+      2. The author of the novel 'The Windup Girl' is Paolo Bacigalupi.  
       3. The author of the novel 'The Devil in Silver' is Josh Malerman.
     options:
       A: 1 and 2
@@ -703,21 +703,6 @@ questions:
       D: 7/4
     answer: B
     explanation: 4x + 7/x = 16 gives 4x² − 16x + 7 = 0, so x = 7/2 or 1/2. Only 7/2 is an option.
-    tags:
-      - quant
-  - slug: cgl-2017-08-21-s1-q064
-    difficulty: medium
-    stem: What is the sum of the first 11 terms of an arithmetic progression if the 3rd term is −1 and the 8th term is 19?
-    options:
-      A: "204"
-      B: "99"
-      C: "225"
-      D: "104"
-    answer: B
-    explanation: |-
-      **Disputed.** SSC's answer is B, but our check finds none of the options correct.
-
-      SSC's key says 99. Working it out: d = (19 − (−1))/5 = 4 and a = −9, so the 6th term is 11 and S₁₁ = 11 × 11 = 121, which is not among the options.
     tags:
       - quant
   - slug: cgl-2017-08-21-s1-q065
@@ -1111,9 +1096,9 @@ questions:
     stem: |-
       The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
 
-      At length, about an hour later, we
-      X-spied a little pile of boulders rising
-      Y-this we dragged ourselves
+      At length, about an hour later, we  
+      X-spied a little pile of boulders rising  
+      Y-this we dragged ourselves  
       Z-out of the plain, and to
     options:
       A: XYZ
@@ -1129,9 +1114,9 @@ questions:
     stem: |-
       The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
 
-      Secondly, it is consistent
-      X-with human experience that
-      Y-places and be depressed in others
+      Secondly, it is consistent  
+      X-with human experience that  
+      Y-places and be depressed in others  
       Z-land should rise gradually in some
     options:
       A: XYZ

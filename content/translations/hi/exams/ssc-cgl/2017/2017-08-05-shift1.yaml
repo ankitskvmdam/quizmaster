@@ -1,0 +1,953 @@
+slug: 2017-08-05-shift1
+title: एसएससी सीजीएल 2017 टियर 1
+date: 2017-08-05
+label: 5 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/c55ec1ae-9e8c-11e9-a728-e470b83c4461). Left out (picture-only options or incomplete in the source): Q8, Q9, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-05-s1-q001
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द युग्म को चुनिए।
+
+      ऊर्जा : वॉट : : ? : ?
+    options:
+      A: "दाब : न्यूटन"
+      B: "बल : पास्कल"
+      C: "प्रतिरोध : मो"
+      D: "कार्य : जूल"
+    answer: D
+    explanation: The watt is the SI unit of power; in the same way the joule is the SI unit of work.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q002
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।
+
+      NPBG : OQCH : : AJOT : ?
+    options:
+      A: BKPU
+      B: BUPK
+      C: BHKP
+      D: HBKU
+    answer: A
+    explanation: Each letter moves one place forward (N→O, P→Q, B→C, G→H), so AJOT becomes BKPU.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q003
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित संख्या को चुनिए।
+
+      101 : 10201 : : 107 : ?
+    options:
+      A: "10707"
+      B: "10749"
+      C: "11449"
+      D: "11407"
+    answer: C
+    explanation: 101² = 10201, so the answer is 107² = 11449.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q004
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द को चुनिए।
+    options:
+      A: सिंह
+      B: तेंदुआ
+      C: साँप
+      D: बाघ
+    answer: C
+    explanation: Lion, leopard and tiger are big cats (mammals); the snake is a reptile.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q005
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम अक्षरों को चुनिए।
+    options:
+      A: NPR
+      B: TVW
+      C: FHJ
+      D: KMO
+    answer: B
+    explanation: NPR, FHJ and KMO each go up in steps of 2; in TVW the second step is only 1 (V→W).
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q006
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम संख्या को चुनिए।
+    options:
+      A: "69"
+      B: "59"
+      C: "61"
+      D: "53"
+    answer: A
+    explanation: 59, 61 and 53 are prime numbers; 69 = 3 × 23 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में आने वाले क्रम के अनुसार लिखें।
+
+      1. Ropped  
+      2. Roster  
+      3. Roasted  
+      4. Road  
+      5. Roller
+    options:
+      A: "35412"
+      B: "45312"
+      C: "34512"
+      D: "43512"
+    answer: D
+    explanation: "Dictionary order: Road (4), Roasted (3), Roller (5), Ropped (1), Roster (2), i.e. 43512."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q010
+    difficulty: medium
+    stem: यदि 'P 3 Q' का अर्थ 'P, Q की पुत्री है' , 'P 5 Q' का अर्थ 'P, Q का पिता है', 'P 7 Q' का अर्थ 'P, Q की माता है' तथा 'P 9 Q' का अर्थ 'P, Q की बहन है', तो J 3 L 9 N 3 O 5 K में, J, K से किस प्रकार संबंधित है?
+    options:
+      A: माता
+      B: पत्नी
+      C: भांजी
+      D: पुत्री
+    answer: C
+    explanation: J is L's daughter; L and N are daughters of O, and O is K's father, so L is K's sister. J is therefore K's niece.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q011
+    difficulty: medium
+    stem: राखी की सगाई 10 वर्ष पहले हुई थी। राखी की वर्तमान आयु उसकी सगाई के समय की आयु की 5/3 है। यदि राखी की माँ की वर्तमान आयु उसकी वर्तमान आयु की दोगुनी हैं, तो राखी की सगाई के समय उसकी माँ की आयु (वर्षों में) क्या थी?
+    options:
+      A: "50"
+      B: "40"
+      C: "30"
+      D: "60"
+    answer: B
+    explanation: If her present age is p, then p = (5/3)(p − 10), so p = 25. Her mother is 50 now, so she was 50 − 10 = 40 at the engagement.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q012
+    difficulty: medium
+    stem: |-
+      दिए गए प्रश्न में, निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता है।
+
+      Suspensefulness
+    options:
+      A: Sense
+      B: Fuels
+      C: Useful
+      D: Fullness
+    answer: D
+    explanation: SUSPENSEFULNESS has only one L, so FULLNESS (two Ls) cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q013
+    difficulty: medium
+    stem: एक विशिष्ट कोड भाषा में, "BAD" को "7" लिखा जाता है तथा "SAP" को "9" लिखा जाता है। इस कोड भाषा में "BAN" को किस प्रकार लिखा जाएगा?
+    options:
+      A: "8"
+      B: "3"
+      C: "4"
+      D: "6"
+    answer: A
+    explanation: "Add the letter positions and then the digits: BAD = 2+1+4 = 7, SAP = 19+1+16 = 36 → 9. BAN = 2+1+14 = 17 → 1+7 = 8."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q014
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में, किन्ही दो गणितीय संक्रियाओं को आपस में परस्पर बदलकर दिए गए समीकरण को सही कीजिए।
+
+      9 x 3 + 8 ÷ 4 – 7 = 28
+    options:
+      A: x तथा –
+      B: + तथा –
+      C: ÷ तथा +
+      D: x तथा ÷
+    answer: D
+    explanation: Swapping × and ÷ gives 9 ÷ 3 + 8 × 4 − 7 = 3 + 32 − 7 = 28.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q015
+    difficulty: medium
+    stem: |-
+      यदि 4 * 5 % 3 = 8000 तथा 2 * 3 % 2 = 36 हो, तो
+
+      4 * 3 % 3 = ?
+    options:
+      A: "432"
+      B: "1728"
+      C: "36"
+      D: "144"
+    answer: B
+    explanation: "a * b % c means (a × b)^c: (4×5)³ = 8000 and (2×3)² = 36. So (4×3)³ = 1728."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q016
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से प्रश्न चिन्ह (?) के स्थान पर आने वाली संख्या को चुनिए।
+
+      | आकृति | ऊपर | बाएँ | केंद्र | दाएँ | नीचे |
+      |---|---|---|---|---|---|
+      | 1 | 3 | 2 | 31 | 1 | 5 |
+      | 2 | 4 | 2 | 145 | 6 | 3 |
+      | 3 | 2 | 1 | ? | 7 | 5 |
+
+      *(चित्र: Three plus-shaped (cross) number figures printed as an image; each has a centre cell with cells above, left, right and below. Reproduced as a table.)*
+    options:
+      A: "43"
+      B: "49"
+      C: "59"
+      D: "71"
+    answer: D
+    explanation: "Centre = (top × left) × (right × bottom) + 1: (3×2)(1×5)+1 = 31 and (4×2)(6×3)+1 = 145, so (2×1)(7×5)+1 = 71."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q017
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में कितने त्रिभुज हैं?
+
+      *(चित्र: A square with an isosceles triangle on its top side and another on its bottom side (an elongated hexagon). Lines drawn: both diagonals of the square, and a vertical line from the top apex to the bottom apex through the centre of the square.)*
+    options:
+      A: "20"
+      B: "22"
+      C: "28"
+      D: "32"
+    answer: B
+    explanation: Count 3 triangles in each end triangle (6), 12 inside the square (6 small, 2 made of two small ones, and 4 half-squares) and 4 that join an apex to the centre (such as apex–corner–centre). The total is 22.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q018
+    difficulty: medium
+    stem: |-
+      नीचे दिए गए प्रत्येक प्रश्न में कुछ कथन और उनके बाद उन कथनों पर आधारित कुछ निष्कर्ष दिए गए हैं, हालांकि उनमें सामान्य ज्ञात तथ्यों से भिन्नता हो सकती है। सभी निष्कर्ष पढ़ें और फिर निर्धारित करें कि दिए गए कौन से निष्कर्ष दिए गए कथनों के आधार पर युक्तिसंगत हैं।
+
+      कथनः  
+      I. कुछ कलम पेसिंल हैं।  
+      II. सभी पेसिंल रबर हैं।
+
+      निष्कर्षः  
+      I. कुछ कलम रबर हैं।  
+      II. कोई कलम रबर नहीं हैं।  
+      III. कुछ रबर पेसिंल हैं।
+    options:
+      A: केवल निष्कर्ष (II) सही है।
+      B: केवल निष्कर्ष (I) तथा निष्कर्ष (II) सही हैं।
+      C: केवल निष्कर्ष (I) तथा निष्कर्ष (III) सही हैं।
+      D: कोई भी निष्कर्ष सही नहीं है।
+    answer: C
+    explanation: Some pens are pencils and all pencils are erasers, so some pens are erasers (I). 'All pencils are erasers' also gives 'some erasers are pencils' (III). II contradicts I.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q019
+    difficulty: medium
+    stem: |-
+      नीचे एक घन की तीन अवस्थाएँ दर्शायी गयी है। रोमन अंक ‘I’ के विपरीत फलक पर कौन सा रोमन अंक आयेगा?
+
+      *(चित्र: Three views of a cube (top / front / right face): cube 1 = II / I / IV; cube 2 = III / I / V; cube 3 = V / II / VI.)*
+    options:
+      A: VI
+      B: IV
+      C: II
+      D: V
+    answer: A
+    explanation: Face I is seen next to II, IV, III and V, so the face opposite I is VI.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q020
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में, कितने पेन नीले हैं?
+
+      *(चित्र: Venn-type figure: a horizontal rectangle = Pens; an upward triangle = Black, whose top sticks out above the rectangle; a second upward triangle = Blue, whose bottom sticks out below the rectangle. Numbers: 13 = Black only (above the rectangle); 19 (left) and 15 (right) = Black and Pens, not Blue; 4 = Black, Blue and Pens; 19 = Blue and Pens, not Black; 16 = Blue only (below the rectangle); 11 (left) and 12 (right) = Pens only.)*
+    options:
+      A: "23"
+      B: "19"
+      C: "12"
+      D: "15"
+    answer: A
+    explanation: "Blue pens are the regions inside both the Blue triangle and the Pens rectangle: 4 + 19 = 23."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q025
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि दिए गए दो आव्यूहों में है। आव्यूह-I के स्तम्भ और पंक्ति की संख्या 0 से 4 है और आव्यूह-II की 5 से 9। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए ‘K’ को 01, 34, आदि द्वारा दर्शाया जा सकता है तथा ‘P’ को 65, 99, आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए शब्द “BLAND” के लिए समूह को पहचानना है।
+
+      आव्यूह-I
+
+      | | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | A | K | B | L | C |
+      | 1 | B | A | C | K | L |
+      | 2 | L | C | K | B | A |
+      | 3 | C | B | L | A | K |
+      | 4 | K | L | A | C | B |
+
+      आव्यूह-II
+
+      | | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | N | O | P | S | D |
+      | 6 | P | D | S | N | O |
+      | 7 | O | P | N | D | S |
+      | 8 | D | S | O | P | N |
+      | 9 | S | N | D | O | P |
+
+      *(चित्र: Two 5×5 letter matrices printed as an image; reproduced as tables.)*
+    options:
+      A: 10, 14, 00, 68, 79
+      B: 31, 41, 33, 96, 86
+      C: 44, 20, 42, 88, 59
+      D: 23, 32, 24, 55, 66
+    answer: D
+    explanation: In D, 23 = B, 32 = L and 24 = A (Matrix-I), and 55 = N and 66 = D (Matrix-II), which spells BLAND.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-05-s1-q026
+    difficulty: medium
+    stem: किस दर पर, भारतीय रिजर्व बैंक वाणिज्य बैकों से धन उधार लेता है?
+    options:
+      A: बैंक दर
+      B: रेपो दर
+      C: रिवर्स रेपो दर
+      D: सांविधिक तरलता दर
+    answer: C
+    explanation: The reverse repo rate is the rate at which the RBI borrows money from commercial banks; the repo rate is the rate at which it lends to them.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q027
+    difficulty: medium
+    stem: आपूर्ति वक्र के साथ-साथ चलने को ______ कहते है।
+    options:
+      A: आपूर्ति में संकुचन
+      B: आपूर्ति में विस्तार
+      C: आपूर्ति में बढ़ोत्तरी
+      D: आपूर्ति में विस्तार तथा संकुचन
+    answer: D
+    explanation: A movement along a supply curve, caused only by a change in the good's own price, is called expansion or contraction of supply. Shifts of the curve are increase or decrease.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q028
+    difficulty: medium
+    stem: भारत का उप-राष्ट्रपति बनने के लिए न्यूनतम आयु कितनी होनी चाहिए?
+    options:
+      A: 30 वर्ष
+      B: 35 वर्ष
+      C: 40 वर्ष
+      D: 37 वर्ष
+    answer: B
+    explanation: "Article 66(3): a person must be at least 35 years old to be elected Vice-President."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q029
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा "न्यायिक आदेश" उच्च न्यायालय या उच्चतम न्यायालय द्वारा किसी व्यक्ति को किसी सार्वजनिक कार्यालय पर अधिकार करने से रोकने के लिए जारी किया जाता है?
+    options:
+      A: उत्प्रेषण लेख
+      B: परमादेश
+      C: निषेधाज्ञा
+      D: अधिकार पृच्छा
+    answer: D
+    explanation: Quo warranto ('by what authority') is issued to stop a person from holding a public office they are not entitled to.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q030
+    difficulty: medium
+    stem: चन्द्रगुप्त मौर्य का पुत्र कौन था?
+    options:
+      A: बिंदुसार
+      B: चन्द्रगुप्त II
+      C: अशोक
+      D: बिंबसार
+    answer: A
+    explanation: Bindusara was the son and successor of Chandragupta Maurya, and the father of Ashoka.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q031
+    difficulty: medium
+    stem: भारत में तुगलक वंश के बाद कौन सा वंश शासन में आता है?
+    options:
+      A: गुप्त वंश
+      B: खिलजी वंश
+      C: मुगल वंश
+      D: सय्यद वंश
+    answer: D
+    explanation: The Sayyid dynasty (1414–1451) followed the Tughlaqs in the Delhi Sultanate.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q032
+    difficulty: medium
+    stem: किस ग्रह को बौना ग्रह माना जाता है?
+    options:
+      A: पृथ्वी
+      B: बृहस्पति
+      C: प्लूटो
+      D: शनि
+    answer: C
+    explanation: In 2006 the IAU reclassified Pluto as a dwarf planet.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q033
+    difficulty: medium
+    stem: बलुआ पत्थर किस प्रकार की चट्टान है?
+    options:
+      A: चूनेदार चट्टान
+      B: आग्नेय चट्टान
+      C: कायान्तरित चट्टान
+      D: अवसादी चट्टान
+    answer: D
+    explanation: Sandstone is a sedimentary rock made of cemented sand grains.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q034
+    difficulty: medium
+    stem: गेहूँ एक ______ है।
+    options:
+      A: बेल
+      B: औषधि
+      C: झाड़ी
+      D: वृक्ष
+    answer: B
+    explanation: Wheat is an annual grass with a soft, non-woody stem, so it is a herb.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q035
+    difficulty: medium
+    stem: साँप, कछुआ, छिपकली तथा मगरमच्छ जंतुओं की किस श्रेणी में आते है?
+    options:
+      A: मत्स्य
+      B: जल-स्थलचर
+      C: सरीसृप
+      D: पक्षी
+    answer: C
+    explanation: Snakes, turtles, lizards and crocodiles are reptiles (class Reptilia).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q036
+    difficulty: medium
+    stem: मृदा में जल तनाव मापने के लिए प्रयोग किये जाने वाले यंत्र को क्या कहा जाता है?
+    options:
+      A: प्रकाशमापी
+      B: उत्तापमापी
+      C: शुष्कार्द्रतामापी
+      D: तनावमापी
+    answer: D
+    explanation: A tensiometer measures soil water tension (matric potential).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q037
+    difficulty: medium
+    stem: बल का एस आई मात्रक क्या है?
+    options:
+      A: पास्कल
+      B: बॉयल
+      C: न्यूटन
+      D: वॉट
+    answer: C
+    explanation: The SI unit of force is the newton (N).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q038
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा एक बुरा ऊष्मा परिचालक है?
+    options:
+      A: एल्युमिनियम
+      B: तांबा
+      C: शीशा
+      D: चाँदी
+    answer: C
+    explanation: Glass is a poor conductor of heat; aluminium, copper and silver are good conductors.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q039
+    difficulty: medium
+    stem: निम्नलिखित में से कौन कम्प्यूटर में स्थायी रूप से डाटा संचित करता है?
+    options:
+      A: ए.एल.यू.
+      B: कैश मैमोरी
+      C: रैम
+      D: रोम
+    answer: D
+    explanation: "ROM is non-volatile: it keeps its data permanently, even without power."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q040
+    difficulty: medium
+    stem: जंग लगना _____ है।
+    options:
+      A: विद्युत अपघटन
+      B: ऑक्सीकरण
+      C: रेडॉक्स अभिक्रिया (ऑक्सीकरण और अपचयन)
+      D: अपचयन
+    answer: C
+    explanation: In rusting, iron is oxidised and oxygen is reduced (4Fe + 3O₂ + xH₂O → 2Fe₂O₃·xH₂O), so it is a redox reaction.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q041
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा एक धनायन नहीं है?
+    options:
+      A: एल्युमीनियम आयन
+      B: कॉपर आयन
+      C: सल्फेट आयन
+      D: जिंक आयन
+    answer: C
+    explanation: The sulphate ion (SO₄²⁻) is negatively charged, so it is an anion; Al³⁺, Cu²⁺ and Zn²⁺ are cations.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q042
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा एक धूम-कोहरे का घटक नहीं है?
+    options:
+      A: परिवर्तनशील जैविक यौगिक
+      B: नाइट्रोजन ऑक्साइड
+      C: सल्फर डाइऑक्साइड
+      D: क्लोरिन ऑक्साइड
+    answer: D
+    explanation: Smog contains VOCs, nitrogen oxides and sulphur dioxide; chlorine oxide is not a smog component.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q043
+    difficulty: medium
+    stem: नीति आयोग का निर्माण निम्नलिखित में से किस संस्था के स्थान पर किया गया है?
+    options:
+      A: योजना आयोग
+      B: आई.आर.डी.ए.
+      C: दूरसंचार विभाग
+      D: सूचना प्रौद्योगिकी विभाग
+    answer: A
+    explanation: NITI Aayog replaced the Planning Commission on 1 January 2015.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q044
+    difficulty: medium
+    stem: पहली काम करने वाली लेज़र का अविष्कार किसने किया था?
+    options:
+      A: ए. एच. टेलर
+      B: डब्लू. के. रॉटजन
+      C: टी. एच. मैमन
+      D: फ्रेड मॉरिसन
+    answer: C
+    explanation: Theodore H. Maiman built the first working laser (a ruby laser) in 1960.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q045
+    difficulty: medium
+    stem: निम्नलिखित में से किस मैदान ने पहली बार 9 नवम्बर, 2016 को भारत बनाम इग्लैंड टेस्ट मैच का आयोजन किया था?
+    options:
+      A: जे.एस.सी.ए. अंतर्राष्ट्रीय स्टेडियम, राँची
+      B: सौराष्ट्र क्रिकेट एसोसिएशन स्टेडियम, राजकोट
+      C: हिमाचल प्रदेश क्रिकेट एसोसिएशन स्टेडियम, र्धमशाला
+      D: होल्कर क्रिकेट स्टेडियम, इंदौर
+    answer: B
+    explanation: The Saurashtra Cricket Association Stadium in Rajkot hosted its first Test (India v England) on 9 November 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q046
+    difficulty: medium
+    stem: |-
+      निम्नलिखित का मिलान कीजिए।
+
+      | कलाकार | | कला |
+      |---|---|---|
+      | 1. गौरी शंकर देवीलाल | | a. बाँसुरी |
+      | 2. हरी प्रसाद चौरसिया | | b. चित्रकला |
+      | 3. एम. एफ. हुसैन | | c. कथक |
+      | 4. ज़ाकिर हुसैन | | d. तबला |
+    options:
+      A: 1-a, 2-d, 3-b, 4-c
+      B: 1-b, 2-c, 3-a, 4-d
+      C: 1-c, 2-a, 3-b,4-d
+      D: 1-c, 2-b, 3-a, 4-d
+    answer: C
+    explanation: Gauri Shankar Devilal – Kathak, Hariprasad Chaurasia – flute, M. F. Husain – painting, Zakir Hussain – tabla.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q048
+    difficulty: medium
+    stem: '"दि सेलआऊट" नामक पुस्तक के लेखक कौन है?'
+    options:
+      A: पॉल बेट्टी
+      B: अरविंद अडीगा
+      C: एलिनोर कैटन
+      D: हॉवर्ड जैकबसन
+    answer: A
+    explanation: "'The Sellout' is by Paul Beatty and won the 2016 Man Booker Prize."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q049
+    difficulty: medium
+    stem: किस देश को दिसम्बर, 2016 में संयुक्त राज्य अमेरिका का सबसे प्रमुख रक्षा सहयोगी घोषित किया गया था?
+    options:
+      A: कनाडा
+      B: इज़राइल
+      C: भारत
+      D: यूनाइटेड किंगडम
+    answer: C
+    explanation: In December 2016 the US designated India a 'Major Defence Partner'.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q050
+    difficulty: medium
+    stem: भारत ने किस देश के साथ 2016 में अपना सातवाँ द्विदेशीय संस्करण एकूवेरिन अभ्यास काधधु में किया था?
+    options:
+      A: नेपाल
+      B: पाकिस्तान
+      C: मालदीव
+      D: भूटान
+    answer: C
+    explanation: EKUVERIN is the India–Maldives army exercise; its 7th edition was held at Kadhdhoo, Maldives, in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-05-s1-q051
+    difficulty: medium
+    stem: यदि X तथा Y एक संख्या 347XY के दो अंक इस प्रकार हैं कि संख्या 80 से पूर्णतः विभाजित हो जाती है, तो X + Y का मान क्या है?
+    options:
+      A: "2"
+      B: "4"
+      C: "6"
+      D: "8"
+    answer: A
+    explanation: A multiple of 80 ends in 0, so Y = 0, and 347X must be divisible by 8. 3472 = 8 × 434, so X = 2 and X + Y = 2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q052
+    difficulty: medium
+    stem: A, B तथा C किसी कार्य को क्रमशः 20, 24 तथा 30 दिनों में पूरा कर सकते हैं। तीनों ने मिलकर कार्य को आरंभ किया परन्तु 4 दिन के पश्चात A ने कार्य को छोड़ दिया तथा B ने कार्य पूरा होने के 6 दिन पहले कार्य छोड़ दिया। C ने शेष कार्य अकेले ही पूर्ण किया। कुल कार्य को पूरा करने में कितने दिन लगे होंगे?
+    options:
+      A: "10"
+      B: "12"
+      C: "14"
+      D: "16"
+    answer: C
+    explanation: "Take the work as 120 units; A, B and C do 6, 5 and 4 units a day. In total time T: 15×4 + 9(T−10) + 4×6 = 120, so T = 14 days."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q053
+    difficulty: medium
+    stem: 17.5 से.मी. व्यास वाले एक ठोस गोले को दो बराबर भागों में काटा जाता है। कुल पृष्ठीय क्षेत्रफल में कितनी वृद्धि (से.मी.² में) होगी?
+    options:
+      A: "289"
+      B: "361.5"
+      C: "481.25"
+      D: "962.5"
+    answer: C
+    explanation: "Cutting adds two circular faces: 2πr² = 2 × (22/7) × 8.75² = 481.25 cm²."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q054
+    difficulty: medium
+    stem: 34% की छूट के बाद एक वस्तु को 3168 रु. में बेचा जाता है। वस्तु का अंकित मूल्य (रु. में) क्या है?
+    options:
+      A: "4750"
+      B: "4800"
+      C: "4850"
+      D: "5000"
+    answer: B
+    explanation: MP × 0.66 = 3168, so MP = 4800.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q055
+    difficulty: medium
+    stem: यदि (3/7)P = (4/11)Q है, तो क्रमशः P तथा Q का अनुपात क्या है?
+    options:
+      A: "12 : 77"
+      B: "12 : 33"
+      C: "28 : 33"
+      D: "3 : 28"
+    answer: C
+    explanation: P/Q = (4/11) ÷ (3/7) = 28/33.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q056
+    difficulty: medium
+    stem: 17 परिणामों का औसत 60 है। यदि प्रथम 9 परिणामों का औसत 57 है तथा अंतिम 9 परिणामों का औसत 65 है, तो 9 वें परिणाम का मान क्या होगा?
+    options:
+      A: "39"
+      B: "78"
+      C: "117"
+      D: "156"
+    answer: B
+    explanation: "The 9th result is counted in both groups: 9×57 + 9×65 − 17×60 = 513 + 585 − 1020 = 78."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q057
+    difficulty: medium
+    stem: एक वस्तु के क्रय मूल्य का 170% लाभ होता है। यदि क्रय मूल्य में 20% की वृद्धि होती है लेकिन विक्रय मूल्य समान रहता है, तो नया लाभ प्रतिशत कितना है?
+    options:
+      A: "41"
+      B: "50"
+      C: "75"
+      D: "125"
+    answer: D
+    explanation: With CP = 100, SP = 270. The new CP is 120, so the profit is 150 and the profit percentage is 150/120 = 125%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q058
+    difficulty: medium
+    stem: किसी संख्या का 32% उसी संख्या के 17% से 120 अधिक है। संख्या का मान क्या है?
+    options:
+      A: "900"
+      B: "860"
+      C: "940"
+      D: "800"
+    answer: D
+    explanation: (32 − 17)% = 15% of the number = 120, so the number is 800.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q059
+    difficulty: medium
+    stem: एक नाव 3 घंटे 15 मिनट में 15 कि.मी. धारा के प्रतिकूल तथा 10 1/2 कि.मी. धारा के अनुकूल जाती है। यह 3 घंटे में 12 कि.मी. धारा के प्रतिकूल तथा 14 कि.मी. धारा के अनुकूल जाती है। स्थिर जल में नाव की गति क्या है?
+    options:
+      A: "4"
+      B: "6"
+      C: "10"
+      D: "14"
+    answer: C
+    explanation: Solve 15/u + 10.5/d = 3.25 and 12/u + 14/d = 3 to get u = 6 and d = 14 km/h. The speed in still water is (6 + 14)/2 = 10 km/h.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q060
+    difficulty: medium
+    stem: एक व्यक्ति किसी निश्चित राशि को 5% की वार्षिक दर से साधारण ब्याज पर उधार देता है तथा 15 वर्षों में संयोजित ब्याज की राशि उधार दी गई राशि से 250 रु. कम है। उधार दी गई राशि (रु. में) कितनी थी?
+    options:
+      A: "1000"
+      B: "1500"
+      C: "2400"
+      D: "3000"
+    answer: A
+    explanation: SI = P × 5 × 15/100 = 0.75P = P − 250, so 0.25P = 250 and P = 1000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q061
+    difficulty: medium
+    stem: यदि x = (2 + √3)/(2 − √3), तो x + 1/x का मान क्या है?
+    options:
+      A: "14"
+      B: 8√3
+      C: "0"
+      D: "18"
+    answer: A
+    explanation: x = (2+√3)² = 7 + 4√3 and 1/x = 7 − 4√3, so x + 1/x = 14.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q062
+    difficulty: medium
+    stem: यदि x = 2 + √3, तो √(2x) + 1/√(2x) का मान क्या है?
+    options:
+      A: 2√3
+      B: 3√3
+      C: (3√3 + 1)/2
+      D: 2√3 + 1
+    answer: C
+    explanation: 2x = 4 + 2√3 = (√3+1)², so √(2x) = √3 + 1 and 1/√(2x) = (√3−1)/2. The sum is (3√3 + 1)/2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q063
+    difficulty: medium
+    stem: यदि x + 1/x = 4, तो x⁶ + 1/x⁶ का मान क्या है?
+    options:
+      A: "52"
+      B: "256"
+      C: "1026"
+      D: "2702"
+    answer: D
+    explanation: x² + 1/x² = 14 and x³ + 1/x³ = 4³ − 3·4 = 52, so x⁶ + 1/x⁶ = 52² − 2 = 2702.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q064
+    difficulty: medium
+    stem: यदि y = (2 − x)/(1 + x), तो 1/(y + 1) + (2y + 1)/(y² − 1) का मान क्या है?
+    options:
+      A: (1 + x)(2 − x)/(2x − 1)
+      B: (1 − x)(2 + x)/(x − 1)
+      C: (1 + x)(2 − x)/(1 − 2x)
+      D: (1 + x)(1 − 2x)/(2 − x)
+    answer: C
+    explanation: y + 1 = 3/(1+x) and y − 1 = (1−2x)/(1+x). The expression = 3y/((y+1)(y−1)) = (1+x)(2−x)/(1−2x).
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q065
+    difficulty: medium
+    stem: त्रिभुज ABC में, ∠BAC = 50° तथा ∠ABC तथा ∠ACB के द्विभाजक बिंदु P पर मिलते हैं। ∠BPC का मान (डिग्री में) कितना होगा?
+    options:
+      A: "100"
+      B: "105"
+      C: "115"
+      D: "125"
+    answer: C
+    explanation: When the internal bisectors of B and C meet at P, ∠BPC = 90° + A/2 = 90° + 25° = 115°.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q066
+    difficulty: medium
+    stem: समान त्रिज्या वाले दो वृत्त एक दूसरे को P तथा Q पर प्रतिच्छेदित करते हैं। यदि उभयनिष्ठ जीवा की लम्बाई 30 से.मी. है तथा दोनों वृत्तो के केंद्र के बीच की दूरी 40 से.मी. है, तो वृत्तो की त्रिज्या (से.मी. में) कितनी है?
+    options:
+      A: "25"
+      B: 25√2
+      C: "50"
+      D: 50√2
+    answer: A
+    explanation: "The line of centres bisects the common chord at right angles: r² = 15² + 20², so r = 25 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q067
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में, ∠QRN = 40°, ∠PQR = 46° तथा MN बिंदु R पर एक स्पर्श रेखा है। क्रमशः x, y तथा z का मान (डिग्री में) क्या है?
+
+      *(चित्र: Circle through P (upper left), Q (right) and R (bottom); triangle PQR drawn. Line MN touches the circle at R (M to the left, N to the lower right). x = angle at P (∠QPR); y = angle between RM and RP (∠MRP); z = ∠PRQ; 46° marked at Q (∠PQR); 40° marked between RQ and RN (∠QRN).)*
+    options:
+      A: 40, 46, 94
+      B: 40, 50, 90
+      C: 46, 54, 80
+      D: 50, 40, 90
+    answer: A
+    explanation: "Alternate segment theorem: x = ∠QPR = ∠QRN = 40° and y = ∠MRP = ∠PQR = 46°. Then z = 180° − 40° − 46° = 94°."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q068
+    difficulty: medium
+    stem: ΔPQR में, ∠R = 54°, बिंदु S से PQ का समद्विभाजक लम्ब QR से बिंदु T पर मिलता है। यदि ∠TPR = 46° है, तो ∠PQR का मान (डिग्री में) क्या होगा?
+    options:
+      A: "25"
+      B: "40"
+      C: "50"
+      D: "60"
+    answer: B
+    explanation: T is on the perpendicular bisector of PQ, so TP = TQ and ∠TPQ = ∠Q. Then ∠P = ∠Q + 46°, and (∠Q + 46) + ∠Q + 54 = 180 gives ∠Q = 40°.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q069
+    difficulty: medium
+    stem: (cot A + tan B)/(cot B + tan A) का सरलीकृत मान क्या है?
+    options:
+      A: tan B cot A
+      B: tan A cot B
+      C: tan A tan B
+      D: cot A cot B
+    answer: A
+    explanation: "Both the numerator and the denominator contain cos(A−B): (cos(A−B)/(sinA cosB)) ÷ (cos(A−B)/(sinB cosA)) = tan B cot A."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q070
+    difficulty: medium
+    stem: "[1/(cosec A + cot A)]² का सरलीकृत मान क्या है?"
+    options:
+      A: sec A + tan A
+      B: (1 – cos A)/(1 + cos A)
+      C: (1 – cosec A)/(1 + cosec A)
+      D: sin A
+    answer: B
+    explanation: 1/(cosec A + cot A) = sin A/(1 + cos A). Squared, this is (1 − cos²A)/(1 + cos A)² = (1 − cos A)/(1 + cos A).
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q071
+    difficulty: medium
+    stem: यदि cos² θ – sin θ = 1/4, तो sin θ का मान क्या होगा?
+    options:
+      A: –1
+      B: 1/2
+      C: "1"
+      D: 3/2
+    answer: B
+    explanation: 1 − sin²θ − sinθ = 1/4 gives sin²θ + sinθ − 3/4 = 0, so sinθ = 1/2 (−3/2 is impossible).
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q072
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में एक महाविद्यालय में दिए गए 5 वर्षों में कला, विज्ञान, वाणिज्य तथा व्यवसाय पढ़ने वाले छात्रों की संख्या को दर्शाया गया है।
+
+      | वर्ष | कला | विज्ञान | वाणिज्य | व्यवसाय |
+      |---|---|---|---|---|
+      | 2012 | 48 | 105 | 148 | 32 |
+      | 2013 | 56 | 123 | 136 | 30 |
+      | 2014 | 64 | 125 | 144 | 36 |
+      | 2015 | 78 | 148 | 156 | 36 |
+      | 2016 | 92 | 161 | 168 | 48 |
+
+      2012 से 2016 तक वाणिज्य के छात्रों की संख्या में कितने प्रतिशत की वृद्धि हुई है?
+    options:
+      A: "11.16"
+      B: "17.28"
+      C: "13.51"
+      D: "15.67"
+    answer: C
+    explanation: (168 − 148)/148 × 100 = 13.51%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q073
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में एक महाविद्यालय में दिए गए 5 वर्षों में कला, विज्ञान, वाणिज्य तथा व्यवसाय पढ़ने वाले छात्रों की संख्या को दर्शाया गया है।
+
+      | वर्ष | कला | विज्ञान | वाणिज्य | व्यवसाय |
+      |---|---|---|---|---|
+      | 2012 | 48 | 105 | 148 | 32 |
+      | 2013 | 56 | 123 | 136 | 30 |
+      | 2014 | 64 | 125 | 144 | 36 |
+      | 2015 | 78 | 148 | 156 | 36 |
+      | 2016 | 92 | 161 | 168 | 48 |
+
+      2012 से 2016 तक व्यवसाय के छात्रों की संख्या की वार्षिक सामान्य वृद्धि दर (% में) कितनी है?
+    options:
+      A: "10"
+      B: "12.5"
+      C: "15"
+      D: "17.5"
+    answer: B
+    explanation: Business rose from 32 to 48, a 50% rise over 4 years, so the simple annual rate is 50/4 = 12.5%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q074
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में एक महाविद्यालय में दिए गए 5 वर्षों में कला, विज्ञान, वाणिज्य तथा व्यवसाय पढ़ने वाले छात्रों की संख्या को दर्शाया गया है।
+
+      | वर्ष | कला | विज्ञान | वाणिज्य | व्यवसाय |
+      |---|---|---|---|---|
+      | 2012 | 48 | 105 | 148 | 32 |
+      | 2013 | 56 | 123 | 136 | 30 |
+      | 2014 | 64 | 125 | 144 | 36 |
+      | 2015 | 78 | 148 | 156 | 36 |
+      | 2016 | 92 | 161 | 168 | 48 |
+
+      कला पढ़ने वाले छात्रों की संख्या की वार्षिक औसत तथा विज्ञान पढ़ने वाले छात्रों की संख्या की वार्षिक औसत का अनुपात क्या है?
+    options:
+      A: "169 : 331"
+      B: "66 : 169"
+      C: "127 : 261"
+      D: "32 : 75"
+    answer: A
+    explanation: "Arts total = 338 and Science total = 662, so the ratio of averages is 338 : 662 = 169 : 331."
+    tags:
+      - quant
+  - slug: cgl-2017-08-05-s1-q075
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में एक महाविद्यालय में दिए गए 5 वर्षों में कला, विज्ञान, वाणिज्य तथा व्यवसाय पढ़ने वाले छात्रों की संख्या को दर्शाया गया है।
+
+      | वर्ष | कला | विज्ञान | वाणिज्य | व्यवसाय |
+      |---|---|---|---|---|
+      | 2012 | 48 | 105 | 148 | 32 |
+      | 2013 | 56 | 123 | 136 | 30 |
+      | 2014 | 64 | 125 | 144 | 36 |
+      | 2015 | 78 | 148 | 156 | 36 |
+      | 2016 | 92 | 161 | 168 | 48 |
+
+      इन 4 विषयों के कुल छात्रों की संख्या में किस वर्ष में गत वर्ष से सबसे अधिक प्रतिशत वृद्धि हुई है?
+    options:
+      A: "2013"
+      B: "2014"
+      C: "2015"
+      D: "2016"
+    answer: C
+    explanation: The yearly totals are 333, 345, 369, 418 and 469. The rises are 3.6%, 7.0%, 13.3% (2015) and 12.2%, so 2015 is the highest.
+    tags:
+      - quant

@@ -1,0 +1,941 @@
+slug: 2017-08-09-shift2
+title: एसएससी सीजीएल 2017 टियर 1
+date: 2017-08-09
+label: 9 Aug, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/a601265c-9e8d-11e9-8ff2-e470b83c4461). Left out (picture-only options or incomplete in the source): Q9, Q19, Q20, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-09-s2-q001
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द को चुनिए।
+
+      पंचांग: तिथि : : सूची: ?
+    options:
+      A: लेखक का नाम
+      B: शब्दावली
+      C: विषय-वस्तु
+      D: सारांश
+    answer: C
+    explanation: A calendar is a list of dates; an index is likewise a list of the book's contents (topics) with page numbers.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q002
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित संख्या को चुनिए।
+
+      ACOUSTIC : 91 : : RENOUNCE : ?
+    options:
+      A: "95"
+      B: "99"
+      C: "105"
+      D: "109"
+    answer: A
+    explanation: "Sum of letter positions: ACOUSTIC = 1+3+15+21+19+20+9+3 = 91, and RENOUNCE = 18+5+14+15+21+14+3+5 = 95."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q003
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित संख्या को चुनिए।
+
+      243 : 819 : : 163 : ?
+    options:
+      A: "487"
+      B: "563"
+      C: "572"
+      D: "593"
+    answer: A
+    explanation: "Add the square of the product of the digits: 243 + (2×4×3)² = 243 + 576 = 819, so 163 + (1×6×3)² = 163 + 324 = 487."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q004
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द को चुनिए।
+    options:
+      A: बैडमिंटन
+      B: टेबल टेनिस
+      C: क्रिकेट
+      D: हॉकी
+    answer: A
+    explanation: Badminton is played with a shuttlecock; table tennis, cricket and hockey use a ball.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q005
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम अक्षरों को चुनिए।
+    options:
+      A: ACFJ
+      B: RTWA
+      C: NPSV
+      D: HJMQ
+    answer: C
+    explanation: ACFJ, RTWA (W+4 wraps round to A) and HJMQ go up by +2, +3, +4; NPSV goes up by +2, +3, +3.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q006
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम संख्या समूह को चुनिए।
+    options:
+      A: (4, 16, 48)
+      B: (6, 36, 90)
+      C: (8, 64, 160)
+      D: (12, 144, 360)
+    answer: A
+    explanation: In the others the third number is 2.5 × the square (36×2.5 = 90, 64×2.5 = 160, 144×2.5 = 360); in (4, 16, 48) it is 3 × 16.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में आने वाले क्रम के अनुसार लिखें।
+
+      1. Decollete  
+      2. Desecrate  
+      3. Decorous  
+      4. Desipicable  
+      5. Destitute
+    options:
+      A: "13245"
+      B: "15243"
+      C: "32451"
+      D: "45231"
+    answer: A
+    explanation: "Dictionary order: Decollete (1), Decorous (3), Desecrate (2), Desipicable (4), Destitute (5), i.e. 13245."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q008
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में अक्षरों का कौन सा समूह खाली स्थानों पर क्रमवार रखने से दी गई अक्षर श्रृंखला को पूरा करेगा?
+
+      a _ bc _ a _ bcdabc _ da _ cd _
+    options:
+      A: acbddb
+      B: adbcbd
+      C: cabddc
+      D: ddcbbc
+    answer: B
+    explanation: "Filling a, d, b, c, b, d gives aabcd / abbcd / abccd / abcdd: each block doubles the next letter in turn."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q010
+    difficulty: medium
+    stem: "आज से 5 वर्ष के बाद, A तथा B की आयु का अनुपात 7 : 5 हो जाएगा तथा उनकी आयु का अन्तर 4 वर्ष होगा। क्रमशः A तथा B की वर्तमान आयु (वर्षों में) क्या हैं?"
+    options:
+      A: 5, 9
+      B: 6, 5
+      C: 9, 5
+      D: 9, 6
+    answer: C
+    explanation: "After 5 years the ages are 7k and 5k with a difference of 2k = 4, so k = 2: 14 and 10. The present ages are 9 and 5."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q011
+    difficulty: medium
+    stem: एक बिन्दु से, लोकेश दक्षिण की ओर चलना आरंभ करता है तथा 30 मीटर चलने के बाद वह अपने दायें मुड़कर 20 मीटर चलता है, वह फिर दायें मुड़कर 30 मीटर चलता है। अंततः वह अपने बायें ओर मुड़ता है तथा 40 मीटर चलता है। वह अपने आरंभिक स्थान से किस दिशा में है?
+    options:
+      A: उत्तर-पश्चिम
+      B: पूर्व
+      C: पश्चिम
+      D: दक्षिण
+    answer: C
+    explanation: South 30, right (west) 20, right (north) 30 brings him back level with the start, 20 m west; left (west) 40 more puts him 60 m due west.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q012
+    difficulty: medium
+    stem: |-
+      दिए गए प्रश्न में, निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता है।
+
+      ENCYCLOPEDIA
+    options:
+      A: CONE
+      B: CYCLE
+      C: NOISY
+      D: PEACE
+    answer: C
+    explanation: ENCYCLOPEDIA has no S, so NOISY cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q013
+    difficulty: medium
+    stem: एक विशिष्ट कोड भाषा में, "RAIN" को "OHBQ" लिखा जाता है। इस कोड भाषा में "SUMMER" को किस प्रकार लिखा जाएगा?
+    options:
+      A: QFLNTT
+      B: QDLLTR
+      C: SFNNVT
+      D: SDNLVR
+    answer: D
+    explanation: "Reverse the word, then shift the letters +1, −1 alternately: RAIN → NIAR → OHBQ. SUMMER → REMMUS → SDNLVR."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q014
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में किन्ही दो संख्याओं को परस्पर बदलकर दिये गए समीकरण को सही कीजिए।
+
+      8 x 3 ÷ 4 + 9 – 5 = 16
+    options:
+      A: 3 तथा 4
+      B: 4 तथा 8
+      C: 5 तथा 3
+      D: 5 तथा 9
+    answer: C
+    explanation: Swapping 5 and 3 gives 8 × 5 ÷ 4 + 9 − 3 = 10 + 9 − 3 = 16.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q015
+    difficulty: medium
+    stem: यदि (2)# * 4 = 2 तथा (4)# * 4 = 16 हैं, तो (6)# * A = 18 में, A का मान क्या है?
+    options:
+      A: "12"
+      B: "14"
+      C: "16"
+      D: "20"
+    answer: A
+    explanation: "(x)# * y means x³ ÷ y: 8/4 = 2 and 64/4 = 16. So 216/A = 18 gives A = 12."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q016
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से प्रश्न चिह्न (?) के स्थान पर आने वाली संख्या को चुनिए।
+
+      | आकृति | ऊपर | बाएँ | केंद्र | दाएँ | नीचे |
+      |---|---|---|---|---|---|
+      | 1 | 2 | 1 | 41 | 5 | 3 |
+      | 2 | 3 | 4 | 159 | 6 | 2 |
+      | 3 | 7 | 5 | ? | 3 | 2 |
+
+      *(चित्र: Three plus-shaped (cross) number figures printed as an image; each has a centre cell with cells above, left, right and below. Reproduced as a table.)*
+    options:
+      A: "189"
+      B: "227"
+      C: "277"
+      D: "339"
+    answer: B
+    explanation: "Centre = product + sum of the four numbers: 2·1·5·3 + 11 = 41 and 3·4·6·2 + 15 = 159, so 7·5·3·2 + 17 = 227."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q017
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में कितने त्रिभुज हैं?
+
+      *(चित्र: An isosceles trapezium (longer side at the bottom). Two vertical lines drop from the two top corners to the base, making a rectangle in the middle with a right triangle on each side; both diagonals of the middle rectangle are drawn.)*
+    options:
+      A: "8"
+      B: "10"
+      C: "12"
+      D: "14"
+    answer: C
+    explanation: There are 2 side right triangles and 8 in the middle rectangle with its diagonals (4 small, 4 half-rectangles). Each side triangle also joins a diagonal half to make 2 larger ones, so the total is 12.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q018
+    difficulty: medium
+    stem: |-
+      नीचे दिए गए प्रश्न में कुछ कथन और उनके बाद उन कथनों पर आधारित कुछ निष्कर्ष दिए गए हैं, हालांकि उनमें सामान्य ज्ञात तथ्यों से भिन्नता हो सकती है। सभी निष्कर्ष पढ़ें और फिर निर्धारित करें कि दिए गए कौन से निष्कर्ष, दिए गए कथनों के आधार पर युक्तिसंगत हैं।
+
+      कथनः  
+      I. सभी रैकेट बैट हैं।  
+      II. सभी बैट विकेट हैं।
+
+      निष्कर्षः  
+      I. कुछ विकेट रैकेट हैं।  
+      II. सभी विकेट रैकेट हैं।
+    options:
+      A: केवल निष्कर्ष (I) सही है।
+      B: केवल निष्कर्ष (II) सही है।
+      C: न तो निष्कर्ष (I) न ही निष्कर्ष (II) सही है।
+      D: दोनों ही निष्कर्ष सही है।
+    answer: A
+    explanation: All rackets are bats and all bats are wickets, so all rackets are wickets, and hence some wickets are rackets (I). II does not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q025
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि नीचे दिए गए दो आव्यूहों में है। आव्यूह-I के स्तम्भ और पंक्ति की संख्या 0 से 4 दी गई है, और आव्यूह-II की 5 से 9। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया गया है। उदाहरण के लिए ‘X’ को 21, 44, आदि द्वारा दर्शाया जा सकता है तथा ‘R’ को 67, 98, आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए गए शब्द “CREEP” के लिए समूह को पहचानना है।
+
+      आव्यूह-I
+
+      | | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | E | C | P | X | T |
+      | 1 | C | P | X | T | E |
+      | 2 | P | X | T | E | C |
+      | 3 | X | T | E | C | P |
+      | 4 | T | E | C | P | X |
+
+      आव्यूह-II
+
+      | | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | R | L | N | O | M |
+      | 6 | O | M | R | L | N |
+      | 7 | L | N | O | M | R |
+      | 8 | M | R | L | N | O |
+      | 9 | N | O | M | R | L |
+
+      *(चित्र: Two 5×5 letter matrices printed as an image; reproduced as tables.)*
+    options:
+      A: 10, 79, 23, 32, 42
+      B: 24, 55, 14, 41, 12
+      C: 33, 86, 32, 13, 43
+      D: 42, 98, 41, 00, 34
+    answer: D
+    explanation: In D, 42 = C (Matrix-I), 98 = R (Matrix-II), and 41 = E, 00 = E and 34 = P (Matrix-I), which spells CREEP.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-09-s2-q026
+    difficulty: medium
+    stem: किस प्रकार की बाजार व्यवस्था में, बाजार अथवा उद्योग पर एक ही विक्रेता का वर्चस्व होता है?
+    options:
+      A: अल्पाधिकार
+      B: एकाधिकार
+      C: द्वयाधिकार
+      D: एकाधिकार प्रतियोगिता
+    answer: B
+    explanation: A monopoly is a market dominated by a single seller with no close substitutes.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q027
+    difficulty: medium
+    stem: प्रच्छन्न बेरोजगारी को और किस नाम से भी जाना जाता है?
+    options:
+      A: अल्प रोजगार
+      B: संघर्ष संबधी बेरोजगारी
+      C: मौसमी बेरोजगारी
+      D: चक्रीय बेरोजगारी
+    answer: A
+    explanation: Disguised unemployment, where more people are engaged than the work needs, is a form of underemployment.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q028
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन से भारतीय संसद के संघटक हैं?
+
+      (i) राष्ट्रपति  
+      (ii) राज्यसभा  
+      (iii) लोकसभा
+    options:
+      A: (ii) तथा (iii)
+      B: (i) तथा (ii)
+      C: (i) तथा (iii)
+      D: (i), (ii) तथा (iii)
+    answer: D
+    explanation: "Article 79: Parliament consists of the President and the two Houses, the Rajya Sabha and the Lok Sabha."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q029
+    difficulty: medium
+    stem: निम्नलिखित में से कौन से भारत राज्य का कार्यपालक अध्यक्ष है?
+    options:
+      A: प्रधानमंत्री
+      B: राष्ट्रपति
+      C: कैबिनेट सचिव
+      D: वित्तीय सचिव
+    answer: B
+    explanation: Article 53 vests the executive power of the Union in the President, the head of state.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q030
+    difficulty: medium
+    stem: कोणार्क का सूर्य मंदिर किसने बनवाया था?
+    options:
+      A: अनंतवर्मन चोडगंगा देव
+      B: नर्सिम्हादेव प्रथम
+      C: कपिलेंद्र देव राउतरे
+      D: पुरूषोत्तम देव
+    answer: B
+    explanation: The Konark Sun Temple was built in about 1250 CE by King Narasimhadeva I of the Eastern Ganga dynasty.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q031
+    difficulty: medium
+    stem: बंगाल के प्रथम गवर्नर जनरल कौन थे?
+    options:
+      A: रॉबर्ट क्लाइव
+      B: विलियम बेंटिक
+      C: वॉरेन हेस्टिंग्स
+      D: चार्ल्स कॉर्नवॉलिस
+    answer: C
+    explanation: Warren Hastings became the first Governor-General of (Fort William in) Bengal under the Regulating Act of 1773.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q032
+    difficulty: medium
+    stem: निम्नलिखित में से किस देश में से अमेजन नदी बहती है?
+    options:
+      A: संयुक्त राज्य अमेरिका
+      B: फ्रांस
+      C: ब्राजील
+      D: कनाडा
+    answer: C
+    explanation: Most of the Amazon's course lies in Brazil; none of the other countries listed is in South America.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q033
+    difficulty: medium
+    stem: सहयाद्रि पर्वत श्रृंखला का अन्य नाम क्या है?
+    options:
+      A: मध्य हिमालय
+      B: शिवालिक
+      C: पश्चिमी घाट
+      D: पूर्वी घाट
+    answer: C
+    explanation: The Western Ghats are also called the Sahyadri range.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q034
+    difficulty: medium
+    stem: जीवाणु की खोज किसने की थी?
+    options:
+      A: एंटोनी वॉन ल्यूवेन्हॉक
+      B: रॉबर्ट ब्राउन
+      C: रॉबर्ट हुक
+      D: रॉबर्ट कोच
+    answer: A
+    explanation: Antonie van Leeuwenhoek first observed bacteria (in 1676) with his own microscopes.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q035
+    difficulty: medium
+    stem: एक विशेष कार्य करने वाले समान कोशिकाओं के समूह को क्या कहते हैं?
+    options:
+      A: ऊतक
+      B: अंग
+      C: अंग तंत्र
+      D: कोशिकीय संरचना
+    answer: A
+    explanation: A tissue is a group of similar cells that perform a specific function.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q036
+    difficulty: medium
+    stem: पौधों के ऊतक कितने प्रकार के होते हैं?
+    options:
+      A: "3"
+      B: "2"
+      C: "5"
+      D: "6"
+    answer: A
+    explanation: The official answer, 3, matches the three plant tissue systems (dermal, ground and vascular). NCERT Class 9 instead divides plant tissues into two main types, meristematic and permanent.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q037
+    difficulty: medium
+    stem: स्वतंत्र रूप से लटके हुये लकड़ी के एक ढ़ांचे में कील ठोकना कठिन होता है। कौन सा नियम इस कथन का सर्मथन करता है?
+    options:
+      A: जड़ता का नियम
+      B: न्यूटन का दूसरा नियम
+      C: न्यूटन का तीसरा नियम
+      D: पॉस्कल का नियम
+    answer: C
+    explanation: When the hammer strikes, the free frame moves away instead of pushing back, so it gives no equal and opposite reaction to drive the nail in (Newton's third law).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q038
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा विद्युत चुम्बकीय तरंगों का गुण नहीं है?
+    options:
+      A: विद्युत चुम्बकीय तरंगें व्यतिकरण तथा विवर्तन नही दिखाती हैं।
+      B: विद्युत तथा चुंबकीय क्षेत्र एक दूसरे के लंबरूप होते हैं।
+      C: विद्युत चुम्बकीय तरंगे अनुप्रस्थ तरंगें होती हैं।
+      D: विद्युत चुम्बकीय तरंगों को आगे बढ़ने के लिए किसी माध्यम की आवश्यकता नहीं होती।
+    answer: A
+    explanation: EM waves do show interference and diffraction, so statement A is false. The other statements (perpendicular E and B fields, transverse waves, no medium needed) are true.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q039
+    difficulty: medium
+    stem: कम्प्यूटर शब्दावली में बग से क्या अभिप्राय है?
+    options:
+      A: एक वायरस
+      B: एक प्रोग्राम
+      C: प्रोग्राम में एक गलती
+      D: चुबंकीय डिस्क भंडारण उपकरण
+    answer: C
+    explanation: In computing, a bug is an error or fault in a program.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q041
+    difficulty: medium
+    stem: मनुष्य के खून का पी.एच. ______ होता है।
+    options:
+      A: कम अम्लीय
+      B: अधिक अम्लीय
+      C: कम क्षारीय
+      D: अधिक क्षारीय
+    answer: C
+    explanation: Human blood has a pH of about 7.35–7.45, so it is slightly basic.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q042
+    difficulty: medium
+    stem: भारतीय वानिकी संस्थान भारत के किस शहर में स्थित है?
+    options:
+      A: नई दिल्ली
+      B: हैदराबाद
+      C: देहरादून
+      D: शिमला
+    answer: C
+    explanation: The Forest Research Institute is in Dehradun, Uttarakhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q043
+    difficulty: medium
+    stem: दीनदयाल रसोई योजना जिसके तहत केवल 5 रूपये में भोजन उपलब्ध कराया जायेगा, 6 अप्रैल, 2017 को किस राज्य द्वारा आरंभ की गई है?
+    options:
+      A: छतीसगढ़
+      B: हरियाणा
+      C: मध्य प्रदेश
+      D: उत्तर प्रदेश
+    answer: C
+    explanation: Madhya Pradesh launched the Deen Dayal Antyodaya Rasoi Yojana, giving meals for Rs 5, in April 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q044
+    difficulty: medium
+    stem: जकारियास जानसेन ने किसका आविष्कार किया था?
+    options:
+      A: जेट इंजन
+      B: रेडियम
+      C: सूक्ष्मदर्शी
+      D: विद्युत लैम्प
+    answer: C
+    explanation: Zacharias Janssen, a Dutch spectacle-maker, is credited with the first compound microscope (c. 1590).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q045
+    difficulty: medium
+    stem: निम्नलिखित में से कौन से खेल में गेंद का इस्तेमाल नहीं किया जाता?
+    options:
+      A: फुटबॉल
+      B: क्रिकेट
+      C: बैडमिंटन
+      D: टेनिस
+    answer: C
+    explanation: Badminton is played with a shuttlecock, not a ball.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q046
+    difficulty: medium
+    stem: |-
+      निम्नलिखित का मिलान कीजिए।
+
+      | उत्सव | | राज्य |
+      |---|---|---|
+      | 1. गणगौर | | a. पश्चिम बंगाल |
+      | 2. गणेश चतुर्दशी | | b. राजस्थान |
+      | 3. दुर्गा पूजा | | c. महाराष्ट्र |
+    options:
+      A: 1-b, 2-c, 3-a
+      B: 1-c, 2-a, 3-b
+      C: 1-b, 2-a, 3-c
+      D: 1-a, 2-c, 3-b
+    answer: A
+    explanation: Gangaur – Rajasthan, Ganesh Chaturthi – Maharashtra, Durga Puja – West Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q047
+    difficulty: medium
+    stem: ‘मिस यूनीवर्स 2016' का खिताब किसने जीता है?
+    options:
+      A: पिया वर्टज़बॉक
+      B: आइरिस मित्तेनायर
+      C: राकेल पेलिसीर
+      D: एंड्रिया तोवा
+    answer: B
+    explanation: Iris Mittenaere of France won Miss Universe 2016 (crowned in January 2017).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q048
+    difficulty: medium
+    stem: "'नंबर्स डू लाइ' नामक पुस्तक के लेखक कौन है?"
+    options:
+      A: अनिल मेनन
+      B: आकाश चोपड़ा
+      C: इआन चैपल
+      D: कुनाल बासु
+    answer: B
+    explanation: "'Numbers Do Lie' is a cricket book by Aakash Chopra."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q049
+    difficulty: medium
+    stem: जनवरी 2017 में किसे संयुक्त राष्ट्र का नया महासचिव नियुक्त किया गया है?
+    options:
+      A: बान की मून
+      B: कोफी अनान
+      C: बुट्रोस-बुट्रोस घाली
+      D: एंटोनियो ग्युटरेस
+    answer: D
+    explanation: António Guterres became UN Secretary-General on 1 January 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q050
+    difficulty: medium
+    stem: किस देश के साथ भारत की सबसे लंबी अंतराष्ट्रीय सीमा है?
+    options:
+      A: भूटान
+      B: नेपाल
+      C: बांग्लादेश
+      D: पाकिस्तान
+    answer: C
+    explanation: India's longest land border is with Bangladesh (about 4,096 km).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-09-s2-q051
+    difficulty: medium
+    stem: 700 से 950 (दोनों को मिलाकर) तक ऐसी कितनी संख्याएँ हैं जो न तो 3 से न ही 7 से विभाजित होती हैं?
+    options:
+      A: "107"
+      B: "141"
+      C: "144"
+      D: "145"
+    answer: C
+    explanation: There are 251 numbers. Of these, 83 are divisible by 3, 36 by 7 and 12 by 21, so 83 + 36 − 12 = 107 are divisible by 3 or 7. That leaves 251 − 107 = 144.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q052
+    difficulty: medium
+    stem: A एक कार्य को 20 दिनों में पूरा कर सकता है तथा B उसी कार्य को 25 दिनों में पूरा कर सकता है। यदि दोनों मिलकर कार्य करें, तो 3 दिनों में कुल कार्य का कितना प्रतिशत कार्य पूरा हो जायेगा?
+    options:
+      A: "9"
+      B: "12"
+      C: "25"
+      D: "27"
+    answer: D
+    explanation: Together they do 1/20 + 1/25 = 9/100 of the work a day, so in 3 days they do 27%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q053
+    difficulty: medium
+    stem: एक समलम्ब की दो समांतर भुजाओं की लम्बाई 18 मीटर तथा 24 मीटर है। यदि उसकी ऊँचाई 12 मीटर है, तो समलम्ब का क्षेत्रफल (मी² में) कितना है?
+    options:
+      A: "126"
+      B: "252"
+      C: "504"
+      D: "1024"
+    answer: B
+    explanation: Area = ½ × (18 + 24) × 12 = 252 m².
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q054
+    difficulty: medium
+    stem: यदि 50% तथा 10% की दो क्रमिक छूट दी जाती है, तो निवल (नेट) छूट (% में) कितनी है?
+    options:
+      A: "50"
+      B: "55"
+      C: "60"
+      D: "65"
+    answer: B
+    explanation: Net price = 0.5 × 0.9 = 0.45 of the original, so the discount is 55%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q055
+    difficulty: medium
+    stem: "तीन समान क्षमता की बोतलों में दूध तथा पानी के मिश्रण का अनुपात क्रमशः 2 : 5, 3 : 4 तथा 4 : 5 है। इन तीन बोतलों को एक बड़ी बोतल में खाली कर दिया जाता है। बड़ी बोतल में क्रमशः दूध तथा पानी का अनुपात कितना होगा?"
+    options:
+      A: "73 : 106"
+      B: "73 : 116"
+      C: "73 : 113"
+      D: "73 : 189"
+    answer: B
+    explanation: "Take each bottle as 63 units. Milk = 18 + 27 + 28 = 73 and water = 45 + 36 + 35 = 116, so the ratio is 73 : 116."
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q056
+    difficulty: medium
+    stem: एक परिवार के 6 सदस्यों की औसत आयु 20 वर्ष है। यदि नौकर की आयु को शामिल किया जाता है, तो औसत आयु में 25% की वृद्धि होती है। नौकर की आयु (वर्षों में) क्या है?
+    options:
+      A: "30"
+      B: "35"
+      C: "50"
+      D: "55"
+    answer: D
+    explanation: The new average is 25, so the servant's age = 7×25 − 6×20 = 175 − 120 = 55.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q057
+    difficulty: medium
+    stem: एक वस्तु के क्रय मूल्य का 190% लाभ होता है। यदि क्रय मूल्य में 10% की वृद्धि होती है लेकिन विक्रय मूल्य समान रहता है, तो लाभ विक्रय मूल्य का (लगभग) कितना प्रतिशत है?
+    options:
+      A: "54"
+      B: "62"
+      C: "70"
+      D: "163"
+    answer: B
+    explanation: With CP = 100, SP = 290. The new CP is 110, so the profit is 180 and 180/290 ≈ 62% of SP.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q058
+    difficulty: medium
+    stem: A, B तथा C तीन छात्र हैं। A को B से 18% अधिक अंक तथा C से 12% कम प्राप्त होते हैं। यदि B को 220 अंक प्राप्त होते हैं, तो C को कितने अंक प्राप्त होते हैं?
+    options:
+      A: "230"
+      B: "295"
+      C: "240"
+      D: "290"
+    answer: B
+    explanation: A = 1.18 × 220 = 259.6, and A = 0.88 C, so C = 259.6/0.88 = 295.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q059
+    difficulty: medium
+    stem: दो व्यक्ति, A तथा B 9:00 पूर्वाह्न (ऐ. एम.) पर एक दूसरे से 260 कि.मी. की दूरी पर हैं। A तुरंत 25 कि.मी. प्रति घंटा की गति से B की ओर चलना आरंभ करता है तथा B 11:00 पूर्वाह्न (ऐ. एम.) पर 10 कि.मी. प्रति घंटा की गति से A की ओर चलना आरंभ करता है। वह एक दुसरे से किस समय (अपराह्न (पी. एम.) में) मिलेंगे?
+    options:
+      A: 5:00
+      B: 6:00
+      C: 6:30
+      D: 7:00
+    answer: A
+    explanation: By 11:00 A has covered 50 km, leaving 210 km. At a closing speed of 35 km/h they need 6 more hours, so they meet at 5:00 p.m.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q061
+    difficulty: medium
+    stem: यदि (1/x) + (1/y) + (1/z) = 0 तथा x + y + z = 9, तो x³ + y³ + z³ – 3xyz का मान क्या होगा?
+    options:
+      A: "81"
+      B: "361"
+      C: "729"
+      D: "6561"
+    answer: C
+    explanation: 1/x + 1/y + 1/z = 0 gives xy + yz + zx = 0. Then x³ + y³ + z³ − 3xyz = (x+y+z)[(x+y+z)² − 3(xy+yz+zx)] = 9 × 81 = 729.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q062
+    difficulty: medium
+    stem: यदि x⁴ + (1/x⁴) = 34, तो x³ – (1/x³) का मान क्या होगा?
+    options:
+      A: "0"
+      B: "6"
+      C: "8"
+      D: "14"
+    answer: D
+    explanation: x² + 1/x² = 6, so (x − 1/x)² = 4 and x − 1/x = 2. Then x³ − 1/x³ = 2³ + 3·2 = 14.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q063
+    difficulty: medium
+    stem: यदि x = 1 – y तथा x² = 2 – y², तो xy का मान क्या होगा?
+    options:
+      A: "1"
+      B: "2"
+      C: –1/2
+      D: –1
+    answer: C
+    explanation: x + y = 1 and x² + y² = 2, so 1 − 2xy = 2 and xy = −1/2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q064
+    difficulty: medium
+    stem: यदि x + [1/(x + 7)] = 0, तो x – [1/(x + 7)] का मान क्या होगा?
+    options:
+      A: 3√5
+      B: 3√5 – 7
+      C: 3√5 + 7
+      D: "8"
+    answer: B
+    explanation: 1/(x+7) = −x, so the expression is 2x. From x² + 7x + 1 = 0, 2x = −7 + 3√5 (the root in the options).
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q065
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में, DE||BC तथा AD : DB = 5 : 3 है, तो (DE/BC) का मान क्या है?
+
+      *(चित्र: Triangle ABC with apex A at the top and base BC; D on AB and E on AC, with DE drawn parallel to BC (arrow marks on DE and BC).)*
+    options:
+      A: 5/8
+      B: 2/3
+      C: 3/4
+      D: 5/3
+    answer: A
+    explanation: DE ∥ BC, so triangle ADE ~ ABC and DE/BC = AD/AB = 5/(5+3) = 5/8.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q066
+    difficulty: medium
+    stem: PQRS एक चक्रीय चतुर्भुज है तथा PQ वृत्त का व्यास है। यदि ∠RPQ = 38° है, तो ∠PSR का मान (डिग्री में) कितना है?
+    options:
+      A: "52"
+      B: "77"
+      C: "128"
+      D: "142"
+    answer: C
+    explanation: ∠PRQ = 90° (angle in a semicircle), so ∠PQR = 52°. Opposite angles of a cyclic quadrilateral add to 180°, so ∠PSR = 128°.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q067
+    difficulty: medium
+    stem: एक समचतुर्भुज का छोटा विकर्ण उसकी भुजाओ की लम्बाई के बराबर है। यदि प्रत्येक भुजा की लम्बाई 6 से.मी. है, तो उस समबाहु त्रिभुज का क्षेत्रफल (से.मी.² में) क्या है जिसकी भुजा समचतुर्भुज के बड़े विकर्ण के बराबर है?
+    options:
+      A: 18√3
+      B: 27√3
+      C: 32√3
+      D: 36√3
+    answer: B
+    explanation: The longer diagonal = 2√(6² − 3²) = 6√3. The triangle's area = (√3/4)(6√3)² = 27√3 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q068
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में, स्पर्श रेखा QR पर PR तथा ST लम्ब है। PQ वृत्त के केंद्र बिंदु O से गुजरती है जिसका व्यास 10 से.मी. है। यदि PR की लम्बाई 9 से.मी. है, तो ST की लम्बाई (से.मी. में) क्या है?
+
+      *(चित्र: A circle with centre O touches the horizontal line QR at M. P is a point on the circle at upper left; the line PQ passes through O and cuts the circle again at S, meeting the line at Q on the right. PR, OM and ST are vertical segments down to the line (R, M, T from left to right, then Q).)*
+    options:
+      A: "1"
+      B: "1.25"
+      C: "1.5"
+      D: "2"
+    answer: A
+    explanation: "From Q the triangles are similar: PR/QP = OM/QO. With QO = d, 9/(d+5) = 5/d gives d = 6.25. Then ST = 5(d−5)/d = 1 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q069
+    difficulty: medium
+    stem: (sec A + cos A)(sec A – cos A) का सरलीकृत मान क्या है?
+    options:
+      A: 2 tan² A
+      B: 2 sin² A
+      C: sin² A tan² A
+      D: sin² A + tan² A
+    answer: D
+    explanation: sec²A − cos²A = (1 + tan²A) − (1 − sin²A) = sin²A + tan²A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q070
+    difficulty: medium
+    stem: "[cosec A/(cot A + tan A)]² का सरलीकृत मान क्या है?"
+    options:
+      A: 2cos²A
+      B: 1 – sin²A
+      C: sec²A
+      D: secA tanA
+    answer: B
+    explanation: cot A + tan A = 1/(sin A cos A), so cosec A ÷ that = cos A. Its square is cos²A = 1 − sin²A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q071
+    difficulty: medium
+    stem: tan A/(1 − cot A) + cot A/(1 − tan A) − 2/sin 2A का सरलीकृत मान क्या है?
+    options:
+      A: –1
+      B: "0"
+      C: "1"
+      D: "2"
+    answer: C
+    explanation: tan A/(1 − cot A) + cot A/(1 − tan A) = 1 + sec A cosec A, and 2/sin 2A = sec A cosec A, so the value is 1.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q072
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में 6 शहरों में शिक्षित लोगों के प्रतिशत को दर्शाया गया है। यह तालिका शिक्षित लोगों में पुरूषों तथा महिलाओं के अनुपात को भी दर्शाती है।
+
+      | शहर | शिक्षित लोगों का प्रतिशत | पुरूष : महिलाएँ |
+      |---|---|---|
+      | शहर 1 | 80 | 4 : 5 |
+      | शहर 2 | 85 | 7 : 4 |
+      | शहर 3 | 78 | 3 : 2 |
+      | शहर 4 | 63 | 1 : 1 |
+      | शहर 5 | 92 | 9 : 7 |
+      | शहर 6 | 58 | 2 : 3 |
+
+      किसी शहर के शिक्षित लोगों का प्रतिशत = (उस शहर के शिक्षित लोग / उस शहर की कुल जनसंख्या) × 100
+
+      यदि शहर 4 की कुल जनसंख्या 600000 है, तो शहर 4 में कितने शिक्षित लोग हैं?
+    options:
+      A: "480000"
+      B: "378000"
+      C: "468000"
+      D: "348000"
+    answer: B
+    explanation: 63% of 600000 = 378000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q073
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में 6 शहरों में शिक्षित लोगों के प्रतिशत को दर्शाया गया है। यह तालिका शिक्षित लोगों में पुरूषों तथा महिलाओं के अनुपात को भी दर्शाती है।
+
+      | शहर | शिक्षित लोगों का प्रतिशत | पुरूष : महिलाएँ |
+      |---|---|---|
+      | शहर 1 | 80 | 4 : 5 |
+      | शहर 2 | 85 | 7 : 4 |
+      | शहर 3 | 78 | 3 : 2 |
+      | शहर 4 | 63 | 1 : 1 |
+      | शहर 5 | 92 | 9 : 7 |
+      | शहर 6 | 58 | 2 : 3 |
+
+      किसी शहर के शिक्षित लोगों का प्रतिशत = (उस शहर के शिक्षित लोग / उस शहर की कुल जनसंख्या) × 100
+
+      शहर 6 की कुल जनसंख्या 200000 है तथा शहर 2 की कुल जनसंख्या 220000 है। क्रमशः शहर 2 के शिक्षित पुरुषों तथा शहर 6 की शिक्षित महिलाओं के बीच का अनुपात क्या है?
+    options:
+      A: "348 : 595"
+      B: "255 : 199"
+      C: "595 : 348"
+      D: "199 : 255"
+    answer: C
+    explanation: "City 2 literate males = 7/11 × 187000 = 119000 and City 6 literate females = 3/5 × 116000 = 69600. The ratio is 595 : 348."
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q074
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में 6 शहरों में शिक्षित लोगों के प्रतिशत को दर्शाया गया है। यह तालिका शिक्षित लोगों में पुरूषों तथा महिलाओं के अनुपात को भी दर्शाती है।
+
+      | शहर | शिक्षित लोगों का प्रतिशत | पुरूष : महिलाएँ |
+      |---|---|---|
+      | शहर 1 | 80 | 4 : 5 |
+      | शहर 2 | 85 | 7 : 4 |
+      | शहर 3 | 78 | 3 : 2 |
+      | शहर 4 | 63 | 1 : 1 |
+      | शहर 5 | 92 | 9 : 7 |
+      | शहर 6 | 58 | 2 : 3 |
+
+      किसी शहर के शिक्षित लोगों का प्रतिशत = (उस शहर के शिक्षित लोग / उस शहर की कुल जनसंख्या) × 100
+
+      यदि शहर 5 में 259210 शिक्षित महिलाएँ हैं, तो शहर 5 की कुल जनसंख्या क्या है?
+    options:
+      A: "644000"
+      B: "354200"
+      C: "690000"
+      D: "483000"
+    answer: A
+    explanation: Literate people = 259210 × 16/7 = 592480, so the population = 592480/0.92 = 644000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-09-s2-q075
+    difficulty: medium
+    stem: |-
+      नीचे दी गई तालिका में 6 शहरों में शिक्षित लोगों के प्रतिशत को दर्शाया गया है। यह तालिका शिक्षित लोगों में पुरूषों तथा महिलाओं के अनुपात को भी दर्शाती है।
+
+      | शहर | शिक्षित लोगों का प्रतिशत | पुरूष : महिलाएँ |
+      |---|---|---|
+      | शहर 1 | 80 | 4 : 5 |
+      | शहर 2 | 85 | 7 : 4 |
+      | शहर 3 | 78 | 3 : 2 |
+      | शहर 4 | 63 | 1 : 1 |
+      | शहर 5 | 92 | 9 : 7 |
+      | शहर 6 | 58 | 2 : 3 |
+
+      किसी शहर के शिक्षित लोगों का प्रतिशत = (उस शहर के शिक्षित लोग / उस शहर की कुल जनसंख्या) × 100
+
+      6 शहरों की जनसंख्या क्रमशः 250000, 200000, 220000, 300000, 150000 तथा 400000 है। इन शहरों में शिक्षित लोगों की संख्या का सही क्रम कौन सा है?
+    options:
+      A: शहर 6 > शहर 1 > शहर 4 > शहर 2 > शहर 3 > शहर 5
+      B: शहर 4 > शहर 6 > शहर 1 > शहर 2 > शहर 3 > शहर 5
+      C: शहर 6 > शहर 4 > शहर 1 > शहर 3 > शहर 2 > शहर 5
+      D: शहर 6 > शहर 1 > शहर 4 > शहर 3 > शहर 2 > शहर 5
+    answer: D
+    explanation: The literate counts are City 6 = 232000, City 1 = 200000, City 4 = 189000, City 3 = 171600, City 2 = 170000 and City 5 = 138000.
+    tags:
+      - quant

@@ -1,0 +1,853 @@
+slug: 2017-08-17-shift2
+title: एसएससी सीजीएल 2017 टियर 1
+date: 2017-08-17
+label: 17 Aug, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com - https://docs.aglasem.com/view/57cef024-9e90-11e9-a3d5-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-17-s2-q001
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित शब्द को चुनिए।
+
+      कार्यालय : सहकर्मी :: घर : ?
+    options:
+      A: आराम
+      B: काम
+      C: दोस्त
+      D: परिवार
+    answer: D
+    explanation: You meet colleagues at the office and family at home.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q002
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।
+
+      XVT : RPN :: LJH : ?
+    options:
+      A: FDB
+      B: ECA
+      C: KIG
+      D: QOM
+    answer: A
+    explanation: "Each letter moves back 6 places: X→R, V→P, T→N. So L→F, J→D, H→B = FDB."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q003
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित संख्या को चुनिए।
+
+      0.04 : 0.2 :: 0.09 : ?
+    options:
+      A: "0.3"
+      B: "0.6"
+      C: "0.9"
+      D: "2"
+    answer: A
+    explanation: "0.04 = 0.2², so the second term is the square root of the first: √0.09 = 0.3."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q004
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम शब्द को चुनिए।
+    options:
+      A: कुर्सी
+      B: बैंच
+      C: बिस्तर
+      D: सोफा
+    answer: C
+    explanation: Chair, bench and sofa are for sitting; a bed is for sleeping.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q005
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम अक्षरों को चुनिए।
+    options:
+      A: CEG
+      B: UXZ
+      C: ORT
+      D: ILN
+    answer: A
+    explanation: UXZ, ORT and ILN step forward by +3, +2. CEG steps by +2, +2, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q006
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम संख्या को चुनिए।
+    options:
+      A: "75"
+      B: "65"
+      C: "82"
+      D: "85"
+    answer: C
+    explanation: 75, 65 and 85 are multiples of 5; 82 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q010
+    difficulty: medium
+    stem: दिवित का जन्मदिन शुक्रवार 30 जून को है। यदि समर का जन्म 15 नवंबर को हुआ था तो उसी वर्ष समर का जन्मदिन सप्ताह में किस दिन होगा?
+    options:
+      A: मंगलवार
+      B: शुक्रवार
+      C: बुधवार
+      D: शनिवार
+    answer: C
+    explanation: From 30 June to 15 November is 31 + 31 + 30 + 31 + 15 = 138 days = 19 weeks + 5 days. Friday + 5 = Wednesday.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q012
+    difficulty: medium
+    stem: |-
+      निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता:
+
+      RECLINES
+    options:
+      A: SINCE
+      B: RELIC
+      C: LINER
+      D: SCARE
+    answer: D
+    explanation: RECLINES has no A, so SCARE cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q013
+    difficulty: medium
+    stem: यदि REGAINS को किसी कोड में QDFZHMR लिखा जाता है, तो PRY को उसी कोड में क्या लिखा जाएगा?
+    options:
+      A: BJX
+      B: OQX
+      C: LFT
+      D: PSU
+    answer: B
+    explanation: Each letter moves back one place (R→Q, E→D, …), so PRY → OQX.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q014
+    difficulty: medium
+    stem: |-
+      किसी कोड भाषा में, '+' का मतलब 'x' है, '-' का मतलब '+' है, 'x' का मतलब '÷' है और '÷' का मतलब '-' है। निम्नलिखित प्रश्न का उत्तर क्या है?
+
+      45 x 5 + 2 - 20 = ?
+    options:
+      A: "17"
+      B: "81"
+      C: "38"
+      D: "64"
+    answer: C
+    explanation: "After swapping the signs: 45 ÷ 5 × 2 + 20 = 18 + 20 = 38."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q015
+    difficulty: medium
+    stem: यदि 5@1=60; 12@8=200; 16@2=180; तो 16@10 = ? का मान ज्ञात कीजिये।
+    options:
+      A: "32"
+      B: "11"
+      C: "9"
+      D: "260"
+    answer: D
+    explanation: "The rule is (a + b) × 10: (5 + 1) × 10 = 60, (12 + 8) × 10 = 200, (16 + 2) × 10 = 180. So (16 + 10) × 10 = 260."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q017
+    difficulty: medium
+    stem: दो महिलाएं A और B एक मॉल में खरीददारी कर रही हैं। वे एक ही बिंदु से शुरूआत करती हैं। A पश्चिम की ओर 150 मीटर तक चलती है, फिर अपनी बाईं ओर मुड़ जाती है और 160 मीटर तक चलती है। B पूर्व की ओर 140 मीटर तक चलती है, फिर दक्षिण की ओर मुड़ जाती है और 160 मीटर तक चलती है, फिर अपनी बाईं ओर मुड़ जाती है और 120 मीटर तक चलती है। A की स्थिति से अब B कहां पर है?
+    options:
+      A: 410 मीटर पश्चिम
+      B: 410 मीटर पूर्व
+      C: 170 मीटर पूर्व
+      D: 170 मीटर पश्चिम
+    answer: B
+    explanation: A ends 150 m west and 160 m south. B ends 140 + 120 = 260 m east and 160 m south. On the same line, B is 150 + 260 = 410 m east of A.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q018
+    difficulty: medium
+    stem: |-
+      प्रश्न में एक कथन दिया गया है जिसके आगे दो तर्क I और II दिए गये हैं। आपको मानना है कि कथन सत्य है चाहे वह सामान्यत: ज्ञात तथ्यों से भिन्न प्रतीत होता हो। आपको निर्णय करना है की दिए गए तर्कों में से कौन-सा/कौन-से तर्क मज़बूत हैं, यदि कोई हो।
+
+      कथन: क्या सार्वजनिक स्थानों पर पान खाना दंडनीय होना चाहिए?
+
+      तर्क I: हां, लोग पान खाने के बाद थूकते हैं और सार्वजनिक स्थानों को गंदा करते हैं।  
+      तर्क II: नहीं, भारतीयों को पान खाना पसंद है।
+    options:
+      A: यदि केवल तर्क I मज़बूत है।
+      B: यदि केवल तर्क II मज़बूत है।
+      C: यदि दोनों तर्क I और II मज़बूत हैं।
+      D: यदि ना तो तर्क I और ना ही तर्क II मजबूत है।
+    answer: A
+    explanation: Argument I gives a real public-hygiene reason. Argument II is only a matter of liking, so it is weak.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q020
+    difficulty: medium
+    stem: |-
+      निम्नलिखित आकृति में, वर्ग दृष्टिमितिज्ञों को दर्शाता है, त्रिभुज चित्रकारों को दर्शाता है, वृत्त शाकाहारीयों को दर्शाता है और आयत पुरुषों को दर्शाता है। अक्षरों का कौन सा समूह चित्रकारों को दर्शाता है जो या तो पुरुष हैं या शाकाहारी हैं?
+
+      *(चित्र: Overlapping shapes: a square and a triangle overlap; a circle at the lower left overlaps both; a long rectangle at the top right overlaps the top-right corner of the square. Letters: A in the square and rectangle only; G in the rectangle only; D in the square only (right of the triangle); C in the triangle and square only; B in the triangle, square and circle; E in the triangle and circle only; F in the circle only. No region is labelled H.)*
+    options:
+      A: D,F
+      B: E,B
+      C: H,G,F
+      D: A,C,E
+    answer: B
+    explanation: Painters are in the triangle. The triangle overlaps the circle (vegetarians) in regions B and E; it does not reach the rectangle (men).
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q025
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि दिए गए दो आव्यूहों में है। आव्यूह-I के स्तम्भ और पंक्ति की संख्या 0 से 4 और आव्यूह-II की 5 से 9 है। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए 'K' को 42, 34 आदि द्वारा दर्शाया जा सकता है तथा 'Z' को 96, 79 आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए गए शब्द 'ROAD' के लिए समूह को पहचानना है।
+
+      आव्यूह - I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | L | K | A | F | H |
+      | 1 | K | I | I | C | D |
+      | 2 | J | E | E | E | F |
+      | 3 | M | I | A | E | K |
+      | 4 | M | B | K | C | G |
+
+      आव्यूह - II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | Q | S | R | U | Z |
+      | 6 | S | R | O | V | T |
+      | 7 | O | U | V | S | Z |
+      | 8 | V | Y | T | Y | S |
+      | 9 | Y | Z | O | U | V |
+
+      *(चित्र: Two 5 × 5 letter matrices (transcribed as tables in the stem). The question is printed as an image.)*
+    options:
+      A: 24,14,67,76
+      B: 30,22,86,56
+      C: 66,67,02,14
+      D: 13,43,56,86
+    answer: C
+    explanation: "R = 66, O = 67, A = 02, D = 14, all correct in option C. The other options fail at once (A: 24 = F; B: 30 = M; D: 13 = C)."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-17-s2-q026
+    difficulty: medium
+    stem: ________ विनिमय दर देशी वस्तु के रूप में विदेशी वस्तुओं की सापेक्ष कीमत है।
+    options:
+      A: कृत्रिम
+      B: सांकेतिक
+      C: निश्चित
+      D: वास्तविक
+    answer: D
+    explanation: The real exchange rate is the nominal rate adjusted for price levels, i.e. the relative price of foreign goods in terms of domestic goods.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q027
+    difficulty: medium
+    stem: _________ उत्पादन फलन को प्रतिनिधित्व करने का एक वैकल्पिक उपाय है।
+    options:
+      A: अल्पकाल
+      B: दीर्घकाल
+      C: समान मात्रा
+      D: औसत उत्पाद
+    answer: C
+    explanation: An isoquant shows all input combinations that give the same output, so it is another way to represent the production function.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q028
+    difficulty: medium
+    stem: '"संयुक्त राष्ट्र संघ" भारत के संविधान की सातवीं अनुसूची में दी गयी ____ सूची में सूचीबद्ध है।'
+    options:
+      A: केंद्रीय
+      B: राज्य
+      C: विश्व
+      D: समवतर्ती
+    answer: A
+    explanation: The United Nations Organisation is entry 12 of the Union List in the Seventh Schedule.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q029
+    difficulty: medium
+    stem: पंजाब में कुल ____ संसदीय सीटें (राज्यसभा निर्वाचन क्षेत्र) हैं।
+    options:
+      A: "7"
+      B: "1"
+      C: "18"
+      D: "10"
+    answer: A
+    explanation: Punjab has 7 Rajya Sabha seats.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q030
+    difficulty: medium
+    stem: सातवीं सदी के बड़े भूस्वामि और योद्धा-सरदार को उस समय के राजा किस रूप में मान्यता देते थे?
+    options:
+      A: राष्ट्रकूट
+      B: चालुक्य
+      C: सामन्त
+      D: ब्राह्मण
+    answer: C
+    explanation: In the 7th century, big landlords and warrior chiefs were recognised by kings as samantas (subordinates).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q031
+    difficulty: medium
+    stem: आगरा किले का निर्माण ___ ने करवाया था।
+    options:
+      A: शाह जहां
+      B: अकबर
+      C: जहांगीर
+      D: बाबर
+    answer: B
+    explanation: The Agra Fort in its present form was built by Akbar from 1565.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q032
+    difficulty: medium
+    stem: जून 2017 तक भारत में कितने राज्य हैं?
+    options:
+      A: "26"
+      B: "27"
+      C: "28"
+      D: "29"
+    answer: D
+    explanation: In June 2017 India had 29 states (Telangana became the 29th in 2014).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q033
+    difficulty: medium
+    stem: भारत के उत्तरी मैदान तीन प्रमुख नदी प्रणालियों से बने हैं जो सिंधु, गंगा और _____ हैं।
+    options:
+      A: ब्रह्मपुत्र
+      B: कृष्णा
+      C: कावेरी
+      D: महानदी
+    answer: A
+    explanation: The northern plain was formed by the Indus, the Ganga and the Brahmaputra and their tributaries.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q034
+    difficulty: medium
+    stem: मैंजीफेरा इंडिका (आम), सोलेनम टयूवीरोसम (आलू) और पेंथरा लिओ (शेर) इन नामों में इंडिका, टयूवीरोसम और लिओ क्या प्रतिनिधित्व करते हैं?
+    options:
+      A: द्विपद्राम पद्धति
+      B: वर्गिकी पदानुक्रम
+      C: पहचानना
+      D: जाति संकेत पद
+    answer: D
+    explanation: In binomial names the second word (indica, tuberosum, leo) is the specific epithet; the first is the genus.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q035
+    difficulty: medium
+    stem: _______ क्लोरोफिलयुक्त, सरल, थेलॉयड, स्वपोषी तथा मुख्यतः जलीय (अल्वणीय जल तथा समुंद्री दोनों का) जीव है।
+    options:
+      A: टैरिडोफाइट
+      B: ब्रायोफाइट
+      C: शैवाल
+      D: जिम्नोस्पर्म
+    answer: C
+    explanation: Algae are simple, thalloid, autotrophic, mostly aquatic organisms with chlorophyll.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q036
+    difficulty: medium
+    stem: ऐनेलिड और आर्थोपॉड, आदि में एक ही अक्ष से गुजरने वाली रेखा द्वारा शरीर दो समरूप दाएं व बाएं भाग में बांटा जा सकता है। इसे ______ सममिति कहते हैं।
+    options:
+      A: सिलेन्ट्रेटा
+      B: अरीय
+      C: टीनोफोर
+      D: द्विपाशर्व
+    answer: D
+    explanation: A body that can be cut into identical left and right halves in only one plane is bilaterally symmetrical, as in annelids and arthropods.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q037
+    difficulty: medium
+    stem: यदि गृह की कक्षा दीर्घवृत्त है तो वह बिंदु जिस पर सूर्य होता है, क्या कहलाता है?
+    options:
+      A: केंद्र
+      B: परिधि
+      C: अभिकेन्द्र
+      D: फोकस
+    answer: D
+    explanation: By Kepler's first law, a planet moves in an ellipse with the Sun at one focus.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q038
+    difficulty: medium
+    stem: सर्पी घर्षण, स्थैतिक घर्षण से ____ होता है।
+    options:
+      A: दुगुना
+      B: एकाकार
+      C: अधिक
+      D: कम
+    answer: D
+    explanation: Sliding (kinetic) friction is less than limiting static friction.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q039
+    difficulty: medium
+    stem: _______ ऑप्टिकल डाटा स्टोरेज एक प्रोद्योगिकी है, जहां डाटा को ऑप्टिकल डिस्क पर कई पर्तों में भंडारित किया जाता है।
+    options:
+      A: 3D
+      B: 30D
+      C: 300D
+      D: 3000D
+    answer: A
+    explanation: 3D optical data storage records data in multiple layers through the volume of the disc.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q040
+    difficulty: medium
+    stem: केल्विन (K) ______ मापने की इकाई है।
+    options:
+      A: घनत्व
+      B: दाब
+      C: द्रव्यमान
+      D: तापमान
+    answer: D
+    explanation: The kelvin is the SI unit of temperature.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q041
+    difficulty: medium
+    stem: लोहे पर जंग लगने की प्रक्रिया को क्या कहते हैं?
+    options:
+      A: जंग लगना
+      B: क्रिस्टलीकरण
+      C: शवल
+      D: खनित्र
+    answer: A
+    explanation: The formation of rust (hydrated iron oxide) on iron is called rusting.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q042
+    difficulty: medium
+    stem: ________ सूर्य से निकलने वाले पराबैंगनी विकिरण (अल्ट्रावायलेट रेडिएशन) को अवशोषित करने वाले कवच का काम करता है।
+    options:
+      A: क्लोरोफ्लुरोकार्बन
+      B: समतापमंडल
+      C: ओजोन छिद्र
+      D: ग्रीनहाउस
+    answer: B
+    explanation: The stratosphere holds the ozone layer, which absorbs most of the Sun's ultraviolet radiation.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q043
+    difficulty: medium
+    stem: केंद्र सरकार द्वारा शुरू की गई ______ योजना का उद्देश्य 300 स्मार्ट गांवो का विकास करके ग्रामीण क्षेत्रों में सामाजिक, आर्थिक और आधारिक संरचना के विकास को प्रोत्साहित करना है।
+    options:
+      A: मृदा स्वास्थ्य कार्ड
+      B: श्यामा प्रसाद मुखर्जी आर-अर्बन मिशन
+      C: प्रधानमंत्री फसल बीमा योजना
+      D: प्रधानमंत्री रोज़गार योजना
+    answer: B
+    explanation: The Shyama Prasad Mukherji Rurban Mission (2016) aims to develop 300 rurban clusters ('smart villages').
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q044
+    difficulty: medium
+    stem: इलेक्ट्रोकार्डियोग्राम (इसीजी) का आविष्कार किसने किया?
+    options:
+      A: विल्लेम एंथोवेन
+      B: एडवार्ड जेनर
+      C: अंटोनियो दे उल्लोया और चार्ल्स वुड
+      D: कार्ल बेन्ज़
+    answer: A
+    explanation: Willem Einthoven invented the practical electrocardiograph (1903) and won the 1924 Nobel Prize for it.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q045
+    difficulty: medium
+    stem: 2017 फ़ॉर्मूला वन चाइनीज ग्रांप्री का विजेता कौन है?
+    options:
+      A: सेबेस्टियन वेटल
+      B: लुईस हैमिल्टन
+      C: वाल्टेरी बोतास
+      D: किमी राइकोनेन
+    answer: B
+    explanation: Lewis Hamilton (Mercedes) won the 2017 Chinese Grand Prix.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q046
+    difficulty: medium
+    stem: चारमीनार भारत के किस शहर में स्थित है?
+    options:
+      A: पुणे
+      B: दिल्ली
+      C: औरंगाबाद
+      D: हैदराबाद
+    answer: D
+    explanation: The Charminar (1591) is in Hyderabad.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q047
+    difficulty: medium
+    stem: निम्नलिखित में से ग्रैमी पुरस्कार 2016 वर्ष का "रिकार्ड ऑफ द इयर" विजेता कौन सा था?
+    options:
+      A: अपटाउन फंक
+      B: रियली लव
+      C: थिंकिंग आउट लाउड
+      D: ब्लैंक स्पेस
+    answer: A
+    explanation: "'Uptown Funk' by Mark Ronson featuring Bruno Mars won Record of the Year at the 2016 Grammys."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q048
+    difficulty: medium
+    stem: |-
+      1. उपन्यास "डार्कनेस एट नून" के लेखक विक्टर लावल्ले हैं।  
+      2. उपन्यास "द ग्रेट गट्सबाय" के लेखक एफ. स्कॉट फिट्ज़गेराल्ड हैं।  
+      3. उपन्यास "द साउंड एंड द फुरी" के लेखक एल. रोन हब्बार्ड हैं।
+
+      उपरोक्त में से कौन से कथन नहीं है?
+    options:
+      A: 1 और 2
+      B: 2 और 3
+      C: 1 और 3
+      D: 1, 2 और 3
+    answer: C
+    explanation: "'Darkness at Noon' is by Arthur Koestler and 'The Sound and the Fury' is by William Faulkner, so statements 1 and 3 are wrong. 'The Great Gatsby' is by F. Scott Fitzgerald."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q049
+    difficulty: medium
+    stem: 2016 में संयुक्त राष्ट्र विकास कार्यक्रम द्वारा प्रकाशित मानव विकास सूचकांक में नॉर्वे की श्रेणी क्या थी?
+    options:
+      A: "1"
+      B: "10"
+      C: "100"
+      D: "200"
+    answer: A
+    explanation: Norway ranked 1st in the UNDP Human Development Index published in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q050
+    difficulty: medium
+    stem: कौन सा देश बहु-क्षेत्रीय तकनीकी और आर्थिक सहयोग के लिए बंगाल की खाड़ी पहल (बीआईएमएसटीइसी) का सदस्य नहीं है?
+    options:
+      A: थाईलैंड
+      B: म्यानमार
+      C: इंडिया
+      D: पाकिस्तान
+    answer: D
+    explanation: BIMSTEC members are Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka and Thailand. Pakistan is not a member.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-17-s2-q051
+    difficulty: medium
+    stem: 9991 x 10009 का मान क्या है?
+    options:
+      A: "99999099"
+      B: "99999819"
+      C: "99999919"
+      D: "99999019"
+    answer: C
+    explanation: (10000 − 9)(10000 + 9) = 10⁸ − 81 = 99,999,919.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q052
+    difficulty: medium
+    stem: A किसी काम का 1/3-वां भाग 3 दिनों में पूरा कर सकता है और B उसी काम का आधा भाग 9 दिनों में पूरा कर सकता है। यदि वे इस पर एक साथ काम करते हैं तो वे कितने दिनों में आधा काम पूरा कर सकते हैं?
+    options:
+      A: "4"
+      B: "5"
+      C: "6"
+      D: "3"
+    answer: D
+    explanation: A does the whole job in 9 days and B in 18 days. Together they do 1/9 + 1/18 = 1/6 per day, so half the job takes 3 days.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q053
+    difficulty: medium
+    stem: एक सम चतुर्भुज का क्षेत्रफल (वर्ग से.मीं. में) क्या होगा, अगर उसके विकर्णों की लंबाई 25 से.मीं. और 20 से.मीं. है?
+    options:
+      A: "500"
+      B: "250"
+      C: "125"
+      D: "200"
+    answer: B
+    explanation: Area of a rhombus = ½ × d₁ × d₂ = ½ × 25 × 20 = 250 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q054
+    difficulty: medium
+    stem: यदि एक दुकानदार 4200 रु पर एक वस्तु बेचता है जिसका अंकित मुल्य 4800 रु है, तो वह कितनी छूट (% में) की पेशकश कर रहा है?
+    options:
+      A: "12.5"
+      B: "14.28"
+      C: "10"
+      D: "15"
+    answer: A
+    explanation: "The discount is 600 on 4800: 600/4800 × 100 = 12.5%."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q055
+    difficulty: medium
+    stem: दो शहरों के बीच उड़ान का किराया 11:13 के अनुपात में बढ़ा दिया गया है। यदि मूल किराया 12100 रु था, तो किराए में हुई बढ़ोतरी (रु में) कितनी है?
+    options:
+      A: "14300"
+      B: "2200"
+      C: "22000"
+      D: "1430"
+    answer: B
+    explanation: New fare = 12100 × 13/11 = 14300, an increase of ₹2200.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q056
+    difficulty: medium
+    stem: 3 संख्याएं जिनकी औसत 112 है, उनमें पहली संख्या का मान अन्य 2 संख्याओं के योग का 1/6-वां भाग है। पहली संख्या क्या होगी?
+    options:
+      A: "45"
+      B: "30"
+      C: "15"
+      D: "48"
+    answer: D
+    explanation: The sum is 3 × 112 = 336. If the first is x, then x = (336 − x)/6, so 7x = 336 and x = 48.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q057
+    difficulty: medium
+    stem: एक व्यापारी 7200 रु में 800 कि.ग्रा. टमाटर खरीदता है। परिवहन में 10% टमाटर खराब हो जाते हैं। 30% लाभ अर्जित करने के लिए उसे बाकी बचे टमाटर किस दर (रु / कि.ग्रा.) पर बेचने चाहिए?
+    options:
+      A: "9"
+      B: "13"
+      C: "10"
+      D: "12"
+    answer: B
+    explanation: 720 kg is left after 10% damage. 30% profit needs 7200 × 1.3 = ₹9360, so the rate is 9360 ÷ 720 = ₹13/kg.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q058
+    difficulty: medium
+    stem: एक छात्र को एक विषय में पास होने के लिए 35% अंक अर्जित करने होंगे। यदि उसे 82 अंक मिलते हैं और वह 23 अंकों से फेल हो जाता है तो उस विषय केअधिकतम अंक कितने रहे होगें?
+    options:
+      A: "300"
+      B: "250"
+      C: "350"
+      D: "400"
+    answer: A
+    explanation: The pass mark is 82 + 23 = 105, which is 35% of the maximum. 105 ÷ 0.35 = 300.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q059
+    difficulty: medium
+    stem: एक अंतरिक्ष यान 810 किलोमीटर / घंटे की रफ्तार से यात्रा करता है। वह 1/5-वें सेकंड में कितने मीटर की यात्रा करेगा?
+    options:
+      A: "60"
+      B: "45"
+      C: "75"
+      D: "90"
+    answer: B
+    explanation: 810 km/h = 810 × 5/18 = 225 m/s, so in 1/5 s it covers 45 m.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q061
+    difficulty: medium
+    stem: यदि 5x - (1/2)(2x-7) = 5.5 है तो x का मान क्या है?
+    options:
+      A: 3/2
+      B: 1/2
+      C: -1/2
+      D: -3/2
+    answer: B
+    explanation: 5x − x + 3.5 = 5.5, so 4x = 2 and x = 1/2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q062
+    difficulty: medium
+    stem: यदि a + b = 4 और ab = -5 है तो a³ + b³ का मान क्या है?
+    options:
+      A: "34"
+      B: "36"
+      C: "124"
+      D: "126"
+    answer: C
+    explanation: a³ + b³ = (a + b)³ − 3ab(a + b) = 64 + 60 = 124.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q063
+    difficulty: medium
+    stem: एक संख्या और उसके व्युत्क्रम के 4 गुणा का योग 5 है। वह संख्या क्या है?
+    options:
+      A: "4"
+      B: "5"
+      C: "6"
+      D: "7"
+    answer: A
+    explanation: x + 4/x = 5 gives x² − 5x + 4 = 0, so x = 1 or 4. Only 4 is among the options.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q065
+    difficulty: medium
+    stem: रेखा y = 1 में बिंदु (4 , -3) का प्रतिबिंब क्या है?
+    options:
+      A: (4, -5)
+      B: (4, 5)
+      C: (-4, -5)
+      D: (-4, 5)
+    answer: B
+    explanation: "Reflecting in y = 1 keeps x and makes y′ = 2(1) − (−3) = 5: (4, 5)."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q066
+    difficulty: medium
+    stem: बिंदु T(x, 0), बिंदु S(5, 1) और बिंदु U(-1, -2) को जोड़ने वाले रेखाखंड को किस अनुपात में विभाजित करता है?
+    options:
+      A: "2 : 1"
+      B: "1 : 2"
+      C: "3 : 1"
+      D: "2 : 3"
+    answer: B
+    explanation: "If T divides SU in the ratio k : 1, then y = (−2k + 1)/(k + 1) = 0, so k = 1/2. The ratio is 1 : 2."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q067
+    difficulty: medium
+    stem: रेखा 3x + 2y = 12 किस बिंदु पर Y-अक्ष को काटती है?
+    options:
+      A: (0, 6)
+      B: (0, -6)
+      C: (6, 0)
+      D: (-6, 0)
+    answer: A
+    explanation: "Put x = 0: 2y = 12, so y = 6. The point is (0, 6)."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q068
+    difficulty: medium
+    stem: दो समरूप त्रिभुजों ΔABC और ΔPQR का क्षेत्रफल क्रमशः 121 वर्ग से.मीं. और 64 वर्ग से.मीं. है। यदि PQ = 12 से.मीं. हो तो AB की लंबाई (से.मीं. में) कितनी है?
+    options:
+      A: "7.25"
+      B: "6.25"
+      C: "16.5"
+      D: "5.25"
+    answer: C
+    explanation: For similar triangles AB/PQ = √(121/64) = 11/8, so AB = 12 × 11/8 = 16.5 cm.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q069
+    difficulty: medium
+    stem: Tan 60° + Cosec 60° का मान क्या है?
+    options:
+      A: 5/3
+      B: 2/√3
+      C: 5/√3
+      D: 2/3
+    answer: C
+    explanation: tan 60° + cosec 60° = √3 + 2/√3 = 5/√3.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q070
+    difficulty: medium
+    stem: Δ XYZ, Y पर समकोण है। यदि m∠Z = 60° है, तो (1/√2) Sec X का मान क्या है?
+    options:
+      A: 2/√3
+      B: 1/√6
+      C: 1/√3
+      D: 2/√6
+    answer: D
+    explanation: ∠X = 30°, so sec X = 2/√3 and (1/√2) × 2/√3 = 2/√6.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q071
+    difficulty: medium
+    stem: यदि Cosec θ = 17/8 है, तो Cos θ का मान क्या है?
+    options:
+      A: 15/8
+      B: 15/17
+      C: 8/15
+      D: 17/15
+    answer: B
+    explanation: sin θ = 8/17, so cos θ = √(1 − 64/289) = 15/17.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q072
+    difficulty: medium
+    stem: |-
+      बार ग्राफ वर्ष 2016 में एक क्षेत्रीय व्यावसायिक ब्लॉक के छह देशों (A, B, C, D, E, F) का सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) दर्शाता है। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों का उत्तर दें।
+
+      | देश | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      सकल राष्ट्रीय उत्पाद (जी डी पी) के संबंध में कौन सा देश तीसरे स्थान पर सबसे बड़ा है?
+
+      *(चित्र: Bar graph of GDP (billion USD) for countries A–F with bar values labelled (transcribed as a table in the stem). The introduction and graph are printed as an image.)*
+    options:
+      A: A
+      B: C
+      C: E
+      D: F
+    answer: B
+    explanation: "In order: B 100, E 90, C 70. C is the third biggest."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q073
+    difficulty: medium
+    stem: |-
+      बार ग्राफ वर्ष 2016 में एक क्षेत्रीय व्यावसायिक ब्लॉक के छह देशों (A, B, C, D, E, F) का सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) दर्शाता है। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों का उत्तर दें।
+
+      | देश | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      देश A का सकल राष्ट्रीय उत्पाद (जी डी पी), देश F से कितनी राशि (अरब अमरीकी डालर में) से कम है?
+
+      *(चित्र: Same bar graph as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "20"
+      B: "50"
+      C: "25"
+      D: "40"
+    answer: D
+    explanation: |-
+      **Disputed.** SSC's answer is D; our check suggests A.
+
+      From the graph, F − A = 50 − 30 = 20 billion USD. SSC's printed key gives 40.
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q074
+    difficulty: medium
+    stem: |-
+      बार ग्राफ वर्ष 2016 में एक क्षेत्रीय व्यावसायिक ब्लॉक के छह देशों (A, B, C, D, E, F) का सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) दर्शाता है। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों का उत्तर दें।
+
+      | देश | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      देश E का देश A,C और F के कुल सकल राष्ट्रिय उत्पाद (जी डी पी) से क्या अनुपात क्या है?
+
+      *(चित्र: Same bar graph as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "3 : 5"
+      B: "5 : 3"
+      C: "9 : 5"
+      D: "5 : 9"
+    answer: A
+    explanation: "E : (A + C + F) = 90 : (30 + 70 + 50) = 90 : 150 = 3 : 5."
+    tags:
+      - quant
+  - slug: cgl-2017-08-17-s2-q075
+    difficulty: medium
+    stem: |-
+      बार ग्राफ वर्ष 2016 में एक क्षेत्रीय व्यावसायिक ब्लॉक के छह देशों (A, B, C, D, E, F) का सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) दर्शाता है। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों का उत्तर दें।
+
+      | देश | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) | 30 | 100 | 70 | 20 | 90 | 50 |
+
+      यदि पिछले दशक में छह देशों के संयुक्त सकल राष्ट्रिय उत्पाद में 50% की वृद्धि हुई हो, तो 10 वर्ष पहले उनका संयुक्त वार्षिक सकल राष्ट्रिय उत्पाद (अरब अमरीकी डालर में) कितना था?
+
+      *(चित्र: Same bar graph as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "540"
+      B: "180"
+      C: "240"
+      D: "200"
+    answer: C
+    explanation: The current total is 360. If that is 150% of the earlier total, the earlier total was 360 ÷ 1.5 = 240.
+    tags:
+      - quant

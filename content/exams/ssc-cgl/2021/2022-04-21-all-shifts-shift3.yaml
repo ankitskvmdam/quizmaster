@@ -1,0 +1,1356 @@
+slug: 2022-04-21-all-shifts-shift3
+title: SSC CGL 2021 Tier 1
+date: 2022-04-21
+label: 21 Apr, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b92ddd0e-db03-11ed-a1a8-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q2, Q10, Q11, Q21, Q24."
+questions:
+  - slug: cgl-2022-04-21-all-ss-shift3-q001
+    difficulty: medium
+    stem: |-
+      Study the given matrix carefully and select the number from among the given options that can replace the question mark (?) in it.
+
+      13 6 75  
+      15 8 ?  
+      18 4 70
+    options:
+      A: "116"
+      B: "96"
+      C: "76"
+      D: "84"
+    answer: A
+    explanation: "Third = first × second − second ÷ 2: 13×6 − 3 = 75, 18×4 − 2 = 70. So 15×8 − 4 = 116."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q003
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      P _ _ N _ _ S R _ Q P _ R _ _ _ S _ N Q
+    options:
+      A: Q, R, S, P, N, S, N, Q, P, R
+      B: S, R, Q, R, N, Q, N, S, P, R
+      C: R, S, Q, P, R, S, R, Q, P, N
+      D: S, R, Q, P, N, S, N, Q, P, R
+    answer: D
+    explanation: Filling S, R, Q, P, N, S, N, Q, P, R gives PSRNQ repeated four times.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q004
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+      54 * 36 * 12 * 18 * 24 * 24
+    options:
+      A: ÷, +, ×, −, =
+      B: ÷, ×, −, +, =
+      C: ÷, ×, +, −, =
+      D: +, ×, −, ÷, =
+    answer: B
+    explanation: 54 ÷ 36 × 12 − 18 + 24 = 18 − 18 + 24 = 24, so both sides are equal.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q005
+    difficulty: medium
+    stem: |-
+      In the following Venn diagram, the oval stands for ‘chartered accountants’, the pentagon stands for ‘males’, the triangle stands for ‘full-time employees’, and the square stands for ‘tax-payers’. The given numbers represent the number of persons in that particular category.
+
+      How many male chartered accountants are NEITHER tax-payers NOR full-time employees?
+
+      *(Figure: Venn diagram of an oval, a pentagon, a triangle and a square overlapping, with region numbers 13, 1, 8, 17, 9, 4, 14, 22, 23, 11, 18, 2 and 16. The region inside the pentagon and the oval but outside the square and the triangle holds 22.)*
+    options:
+      A: "17"
+      B: "14"
+      C: "22"
+      D: "8"
+    answer: C
+    explanation: "Male chartered accountants who are neither tax-payers nor full-time employees lie inside the pentagon and oval only, outside the square and triangle: 22."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q006
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      50, 67, 86, 107, ?
+    options:
+      A: "124"
+      B: "118"
+      C: "136"
+      D: "130"
+    answer: D
+    explanation: "Differences rise by 2: 17, 19, 21, 23. 107 + 23 = 130."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q007
+    difficulty: medium
+    stem: |-
+      A cube is made by folding the given sheet. In the cube so formed, which of the following pairs of numbers will be on opposite faces?
+
+      *(Figure: Net of a cube: top row of three squares 1, 5, 4; bottom row of three squares 2, 3, 6, with 2 directly below 4.)*
+    options:
+      A: 3 and 5
+      B: 1 and 5
+      C: 4 and 6
+      D: 2 and 4
+    answer: A
+    explanation: "In a row of three faces the first and third are opposite: 1 opposite 4 and 2 opposite 6. That leaves 3 opposite 5."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q008
+    difficulty: medium
+    stem: In a certain code language, BACHELOR is written as YZXSVOLI. How will EDUCATION be written as in that language?
+    options:
+      A: GFWECVKRM
+      B: MLRGZXFWV
+      C: FEVDBUJPM
+      D: VWFXZGRLM
+    answer: D
+    explanation: "Each letter is replaced by its opposite letter (A↔Z, B↔Y …): B→Y, A→Z, C→X. So EDUCATION → VWFXZGRLM."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q009
+    difficulty: medium
+    stem: Eight friends, P, Q, R, S, T, U, V and W, are sitting in the same order anticlockwise around a circular table at equal distances between them, with all facing the centre of the table. If Q is sitting in the south-east, then in which direction is W sitting?
+    options:
+      A: North
+      B: South
+      C: South-west
+      D: North-east
+    answer: C
+    explanation: "Going anticlockwise from Q at south-east: R east, S north-east, T north, U north-west, V west, W south-west."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q012
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      All wires are chargers.  
+      Some chargers are phones.  
+      All chargers are equipment.
+
+      Conclusions:
+
+      I. Some equipment are phones.  
+      II. All wires are phones.
+    options:
+      A: Only conclusion I follows
+      B: Both the conclusions follow
+      C: Only conclusion II follows
+      D: Neither conclusion I nor II follows
+    answer: A
+    explanation: The chargers that are phones are also equipment, so 'Some equipment are phones' follows. Nothing links all wires to phones, so II does not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q013
+    difficulty: medium
+    stem: |-
+      Which two numbers should be interchanged to make the given equation correct?
+
+      52 + 69 − 46 ÷ 23 × 26 = 20
+    options:
+      A: 69 and 46
+      B: 46 and 23
+      C: 52 and 26
+      D: 52 and 69
+    answer: A
+    explanation: "Swapping 69 and 46: 52 + 46 − 69 ÷ 23 × 26 = 98 − 78 = 20."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q014
+    difficulty: medium
+    stem: "In a group of 110 students, 23 students did not participate in any of the two games: Badminton and Chess. 45 students participated in Badminton and 61 students participated in Chess. How many students participated in Badminton only?"
+    options:
+      A: "26"
+      B: "18"
+      C: "42"
+      D: "28"
+    answer: A
+    explanation: 110 − 23 = 87 played at least one game; both = 45 + 61 − 87 = 19. Badminton only = 45 − 19 = 26.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q015
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+    options:
+      A: HJM
+      B: GIM
+      C: MOS
+      D: LNR
+    answer: A
+    explanation: GIM, MOS and LNR follow +2, +4; HJM follows +2, +3.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q016
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      45, 47, 52, 62, 79, ?
+    options:
+      A: "85"
+      B: "92"
+      C: "105"
+      D: "112"
+    answer: C
+    explanation: Differences 2, 5, 10, 17 are n² + 1 (n = 1 to 4); next is 26, so 79 + 26 = 105.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q017
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Photographic  
+      2. Photocopier  
+      3. Photography  
+      4. Photographer  
+      5. Photocopy
+    options:
+      A: 2, 5, 4, 1, 3
+      B: 4, 1, 5, 3, 2
+      C: 1, 2, 3, 4, 5
+      D: 3, 5, 1, 4, 2
+    answer: A
+    explanation: "Photocopier comes before Photocopy (i before y), then Photographer, Photographic, Photography (e, i, y): 2, 5, 4, 1, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q018
+    difficulty: medium
+    stem: In a certain code language, 'RAHUL' is coded as 180, and 'POOJA' is coded as 171. How will 'RAJIV' be coded in the same language?
+    options:
+      A: "122"
+      B: "85"
+      C: "61"
+      D: "180"
+    answer: D
+    explanation: "Code = 3 × sum of letter positions: RAHUL = 60 → 180, POOJA = 57 → 171. RAJIV = 18+1+10+9+22 = 60 → 180."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q019
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      CANOPY : DCQSUE :: TONSIL : ?
+    options:
+      A: URQWNS
+      B: UQQXOR
+      C: UQRVNR
+      D: UQQWNR
+    answer: D
+    explanation: "Letters shift +1, +2, +3, +4, +5, +6: CANOPY → DCQSUE. TONSIL → UQQWNR."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q020
+    difficulty: medium
+    stem: In a certain code, 692425 means ‘School education is free in India’ and 7926 means ‘College education is costly’. Which of the following is the code for ‘I want to become graduate’?
+    options:
+      A: "23586"
+      B: "54268"
+      C: "14268"
+      D: "15426"
+    answer: C
+    explanation: "Each word is coded by its number of letters: School = 6, education = 9, is = 2. So I = 1, want = 4, to = 2, become = 6, graduate = 8: 14268."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q022
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      ORGANS, SORGAN, SNORGA, ?, SNAGOR, SNAGRO
+    options:
+      A: SNAROG
+      B: SNAORG
+      C: SNOARG
+      D: SNAOGR
+    answer: B
+    explanation: "Each step moves the last letter forward to the next position: ORGANS → SORGAN → SNORGA → SNAORG → SNAGOR → SNAGRO."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q023
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      18 : 10 : : 24 : ?
+    options:
+      A: "13"
+      B: "12"
+      C: "17"
+      D: "29"
+    answer: A
+    explanation: 18 ÷ 2 + 1 = 10, so 24 ÷ 2 + 1 = 13.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q025
+    difficulty: medium
+    stem: Pointing towards the photograph of a lady, Varun said, “She is my father-in-law’s son’s only sister’s mother-in-law”. How is Varun related to that lady?
+    options:
+      A: Brother
+      B: Son
+      C: Husband
+      D: Son-in-law
+    answer: B
+    explanation: Father-in-law's son = wife's brother; his only sister = Varun's wife; her mother-in-law = Varun's mother. So Varun is her son.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift3-q026
+    difficulty: medium
+    stem: |-
+      Hot water can be a pollutant if it comes from:
+
+      (a) A hot spring (b) A power plant (c) An industry
+    options:
+      A: Both (b) and (c)
+      B: Only (c)
+      C: Only (a)
+      D: Only (b)
+    answer: A
+    explanation: Heated discharge from power plants and industries causes thermal pollution; a natural hot spring is not counted as a pollutant.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q027
+    difficulty: medium
+    stem: Chandragupta Maurya overthrew the power of the ______ at Magadha with the aid of Kautilya and founded a glorious Mauryan empire in 322 BC.
+    options:
+      A: Kurus
+      B: Mallas
+      C: Panchalas
+      D: Nandas
+    answer: D
+    explanation: Chandragupta Maurya, guided by Kautilya (Chanakya), overthrew Dhana Nanda of the Nanda dynasty.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q028
+    difficulty: medium
+    stem: Which of the following statements about black soil is INCORRECT?
+    options:
+      A: It is found along the Deccan trap.
+      B: It has a good capacity to hold moisture.
+      C: It develops deep cracks during hot weather.
+      D: It is rich in phosphoric content.
+    answer: D
+    explanation: Black soil is rich in lime, iron, magnesia and potash but poor in phosphoric content, nitrogen and organic matter.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q029
+    difficulty: medium
+    stem: What do you call the maximum sustainable size of a resident population in a given ecosystem?
+    options:
+      A: Census
+      B: Crude rate
+      C: Carrying capacity
+      D: Case rate
+    answer: C
+    explanation: Carrying capacity is the largest population an environment can sustain indefinitely.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q030
+    difficulty: medium
+    stem: Which of the following is the largest dome of India as of April 2021?
+    options:
+      A: Alai Darwaza
+      B: Adhai Din Ka Jhonpra
+      C: Gol Gumbaz
+      D: Data Darbar
+    answer: C
+    explanation: The Gol Gumbaz at Vijayapura (Bijapur), tomb of Muhammad Adil Shah, has the largest dome in India.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q031
+    difficulty: medium
+    stem: In which of the following States/Union Territories did a regional alliance by the abbreviated name TIPRA come into the limelight in March-April 2021?
+    options:
+      A: Tamil Nadu
+      B: Telangana
+      C: Ladakh
+      D: Tripura
+    answer: D
+    explanation: TIPRA Motha, led by Pradyot Kishore Debbarma, swept the Tripura TTAADC elections in April 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q032
+    difficulty: medium
+    stem: ‘Povadas’ is a popular folk dance from the state of ______.
+    options:
+      A: Maharashtra
+      B: Gujarat
+      C: Rajasthan
+      D: Kerala
+    answer: A
+    explanation: Povada (powada) is a Marathi ballad form from Maharashtra, often praising Shivaji.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q033
+    difficulty: medium
+    stem: Which of the following books was written by Jawaharlal Nehru?
+    options:
+      A: A Bunch of Old Letters
+      B: Riddles in Hinduism
+      C: Ranade, Gandhi and Jinnah
+      D: "Waiting For A Visa: Autobiographical Notes"
+    answer: A
+    explanation: "'A Bunch of Old Letters' is a collection of letters edited by Jawaharlal Nehru. The other three books are by B.R. Ambedkar."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q034
+    difficulty: medium
+    stem: Who among the following was the only martyr of the Quit India phase of the freedom movement who was hanged?
+    options:
+      A: Potti Sreeramulu
+      B: Senapati Bapat
+      C: Kushal Konwar
+      D: Kanaiyalal Maneklal Munshi
+    answer: C
+    explanation: Kushal Konwar of Assam was hanged in 1943, the only Quit India martyr to be executed by hanging.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q035
+    difficulty: medium
+    stem: Union Budget 2021-22 allocated a total amount of ______ towards health and wellbeing.
+    options:
+      A: ₹94,452 crore
+      B: ₹3,32,194 crore
+      C: ₹2,23,846 crore
+      D: ₹1,54,938 crore
+    answer: C
+    explanation: Budget 2021-22 set aside ₹2,23,846 crore for health and wellbeing, a 137% rise.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q036
+    difficulty: medium
+    stem: Realising the importance of maintaining the cleanliness of the water bodies, the Government of India passed the Water (Prevention and Control of Pollution) Act, ________, to safeguard our water resources.
+    options:
+      A: "1974"
+      B: "1973"
+      C: "1971"
+      D: "1969"
+    answer: A
+    explanation: The Water (Prevention and Control of Pollution) Act was passed in 1974.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q037
+    difficulty: medium
+    stem: Who among the following won the 2020 Tour de France?
+    options:
+      A: Wout Van Aert
+      B: Egan Bernal
+      C: Tadej Pogačar
+      D: Nairo Quintana
+    answer: C
+    explanation: Slovenia's Tadej Pogačar won the 2020 Tour de France.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q038
+    difficulty: medium
+    stem: |-
+      Which of the given statements about the Union Budget is/are true?
+
+      a) Vote on Account deals only with the expenditure side of the government budget.  
+      b) Vote on Account and Interim Budget are not the same.  
+      c) An Interim Budget gives a complete financial statement, similar to a full budget.
+    options:
+      A: Only (a)
+      B: Only (c)
+      C: (a), (b) and (c)
+      D: (a) and (b)
+    answer: C
+    explanation: A vote on account covers only expenditure for a few months, while an interim budget gives a complete statement of receipts and expenditure; so they differ and all three statements are true.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q039
+    difficulty: medium
+    stem: How many Schedules did the Constitution of India contain as of April 2021?
+    options:
+      A: "14"
+      B: "16"
+      C: "12"
+      D: "10"
+    answer: C
+    explanation: The Constitution has 12 Schedules (the 12th was added by the 74th Amendment in 1992).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q040
+    difficulty: medium
+    stem: What was the theme of World Toilet Day 2020?
+    options:
+      A: Better Sanitation for Better Nutrition
+      B: Sustainable Sanitation and Climate Change
+      C: Toilets and Jobs
+      D: When Nature Calls
+    answer: B
+    explanation: The theme of World Toilet Day 2020 was 'Sustainable Sanitation and Climate Change'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q041
+    difficulty: medium
+    stem: Who among the following is the author of the book ‘Sea of Poppies’?
+    options:
+      A: Vikram Seth
+      B: Arvind Adiga
+      C: Amitav Ghosh
+      D: Shashi Tharoor
+    answer: C
+    explanation: "'Sea of Poppies' (2008), the first book of the Ibis trilogy, is by Amitav Ghosh."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q042
+    difficulty: medium
+    stem: Along with India, which of the following countries was crowned Joint Winner at the 2020 Online FIDE Chess Olympiad?
+    options:
+      A: Croatia
+      B: Ukraine
+      C: Belgium
+      D: Russia
+    answer: D
+    explanation: India and Russia were declared joint winners of the 2020 FIDE Online Chess Olympiad after a server outage in the final.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q043
+    difficulty: medium
+    stem: The Constitution (112th Amendment) Bill 2009 provides for ______ reservation for women in Urban Local Bodies was introduced in Lok Sabha on 24th November 2009.
+    options:
+      A: 10%
+      B: 20%
+      C: 30%
+      D: 50%
+    answer: D
+    explanation: The Constitution (112th Amendment) Bill, 2009 proposed raising women's reservation in urban local bodies from one-third to 50%.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q044
+    difficulty: medium
+    stem: The Drafting Committee of the Constituent Assembly was consisted of ______ members.
+    options:
+      A: "8"
+      B: "14"
+      C: "9"
+      D: "7"
+    answer: D
+    explanation: The Drafting Committee, chaired by B.R. Ambedkar, had seven members.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q045
+    difficulty: medium
+    stem: The Black Sea is in the ______ Ocean.
+    options:
+      A: Atlantic
+      B: Pacific
+      C: Arctic
+      D: Indian
+    answer: A
+    explanation: The Black Sea is a marginal sea of the Atlantic, linked to it through the Bosporus, Mediterranean and Strait of Gibraltar.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q046
+    difficulty: medium
+    stem: How many eyes does a bee have?
+    options:
+      A: Two
+      B: Four
+      C: Three
+      D: Five
+    answer: D
+    explanation: "A bee has five eyes: two large compound eyes and three small ocelli."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q047
+    difficulty: medium
+    stem: As per the Swiss organisation IQAir’s ‘World Air Quality Report, 2020’, which of the following is the most polluted capital city in the world?
+    options:
+      A: Beijing
+      B: Tokyo
+      C: Delhi
+      D: Paris
+    answer: C
+    explanation: IQAir's World Air Quality Report 2020 named Delhi the most polluted capital city for the third year running.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q048
+    difficulty: medium
+    stem: "The GDP deflator is also called:"
+    options:
+      A: implicit inflation index
+      B: explicit inflation index
+      C: implicit price deflator
+      D: explicit price deflator
+    answer: C
+    explanation: The GDP deflator (nominal GDP ÷ real GDP × 100) is also called the implicit price deflator.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q049
+    difficulty: medium
+    stem: Who among the following persons was associated with the Chittagong Armoury Raid?
+    options:
+      A: Vishnu Sharan Dublish
+      B: Sachindranath Bakshi
+      C: Manmath Nath Gupta
+      D: Ardhendu Dastidar
+    answer: D
+    explanation: Ardhendu Dastidar took part in Surya Sen's Chittagong Armoury Raid of 1930.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q050
+    difficulty: medium
+    stem: In the context of the spread of germs by faecal matter, which of the following does NOT figure in the F-Diagram?
+    options:
+      A: Fingers
+      B: Fluids
+      C: Flies
+      D: Fungi
+    answer: D
+    explanation: The F-diagram shows faecal germs spreading through fluids, fields, flies, fingers and food; fungi are not part of it.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift3-q051
+    difficulty: medium
+    stem: LCM and HCF of two numbers are 90 and 15, respectively. If the sum of the two numbers is 75, then find the greater number.
+    options:
+      A: "45"
+      B: "90"
+      C: "75"
+      D: "60"
+    answer: A
+    explanation: Product = 90 × 15 = 1350 and sum = 75, so the numbers are 45 and 30; the greater is 45.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q052
+    difficulty: medium
+    stem: |-
+      A 22.5 m high tent is in the shape of a frustum of a cone surmounted by a hemisphere. If the diameters of the upper and the lower circular ends of the frustum are 21 m and 39 m, respectively, then find the area of the cloth (in m²) used to make the tent (ignoring the wastage).
+
+      (Use π = 22/7)
+    options:
+      A: 787 2/7
+      B: 2107 2/7
+      C: 1635 6/7
+      D: 2800 2/7
+    answer: B
+    explanation: Hemisphere radius 10.5, so the frustum is 12 m high with slant √(12² + 9²) = 15. Cloth = π(19.5 + 10.5)×15 + 2π(10.5)² = 670.5π = 2107 2/7 m².
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q053
+    difficulty: medium
+    stem: A borrows a sum of ₹90,000 for 4 years at 5% simple interest. He lends it to B at 7% for 4 years at simple interest. What is his gain (in ₹)?
+    options:
+      A: 7,200
+      B: 9,000
+      C: 8,000
+      D: 7,500
+    answer: A
+    explanation: "He gains 2% a year for 4 years: 90000 × 2% × 4 = ₹7,200."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q054
+    difficulty: medium
+    stem: Three partners X, Y and Z started their business by investing ₹40,000, ₹38,000 and ₹30,000, respectively. After 6 months, X and Z made additional investments of ₹20,000 and ₹15,000 respectively, whereas Y withdrew ₹8,000. Find the share of Y (in ₹) in the total profit of ₹38,880 made at the end of the year.
+    options:
+      A: 10,880
+      B: 10,950
+      C: 9,800
+      D: 10,200
+    answer: A
+    explanation: "Capital-months: X 600000, Y 38000×6 + 30000×6 = 408000, Z 450000. Y's share = 408/1458 × 38880 = ₹10,880."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q055
+    difficulty: medium
+    stem: If a 10-digit number 54726x79y6 is divisible by 72, then what is the value of 5x − 3y, for the least value of y?
+    options:
+      A: "17"
+      B: "16"
+      C: "19"
+      D: "23"
+    answer: B
+    explanation: For 8, 9y6 must be divisible by 8; the least y is 3 (936). For 9, the digit sum 49 + x needs x = 5. 5x − 3y = 25 − 9 = 16.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q056
+    difficulty: medium
+    stem: A vegetable vendor sold 1 kg of potatoes for ₹25 and earned 25% profit. In the evening, he started selling potatoes with only 10% profit. At what cost (in ₹) per kg did he sell the potatoes in the evening?
+    options:
+      A: "21"
+      B: "20"
+      C: "24"
+      D: "22"
+    answer: D
+    explanation: Cost price = 25 ÷ 1.25 = ₹20; at 10% profit the price is ₹22.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q057
+    difficulty: medium
+    stem: If 35 men can finish a work in 6 days, then in how many days can 7 men do half of the same work?
+    options:
+      A: "30"
+      B: "15"
+      C: "60"
+      D: "17"
+    answer: B
+    explanation: The work is 35 × 6 = 210 man-days; half is 105, and 105 ÷ 7 = 15 days.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q058
+    difficulty: medium
+    stem: The perimeters of two similar △ABC and △PQR are 48.4 cm and 12.1 cm, respectively. What is the ratio of the areas of △ABC and △PQR?
+    options:
+      A: "4 : 1"
+      B: "1 : 16"
+      C: "16 : 1"
+      D: "1 : 4"
+    answer: C
+    explanation: "Perimeters are in ratio 4 : 1, so areas are in ratio 4² : 1² = 16 : 1."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q059
+    difficulty: medium
+    stem: AB is a chord of a circle with centre O. C is a point on the circle in the minor sector. If ∠ABO = 50°, then what is the degree measure of ∠ACB?
+    options:
+      A: 100°
+      B: 130°
+      C: 110°
+      D: 140°
+    answer: D
+    explanation: OA = OB, so ∠AOB = 180° − 100° = 80°. A point on the minor arc sees AB at 180° − 40° = 140°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q060
+    difficulty: medium
+    stem: If 4x − 3y = 12 and xy = 5, then find the value of (16x² + 9y²)/8.
+    options:
+      A: "33"
+      B: "18"
+      C: "3"
+      D: "44"
+    answer: A
+    explanation: 16x² + 9y² = (4x − 3y)² + 24xy = 144 + 120 = 264; 264 ÷ 8 = 33.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q061
+    difficulty: medium
+    stem: |-
+      Study the histogram and answer the question given below.
+
+      The graph represents the number of students obtaining a percentage of marks in class X Board examination in 2018 in a school.
+
+      | Percentage of marks | 40–50 | 50–60 | 60–70 | 70–80 | 80–90 | 90–100 |
+      |---|---|---|---|---|---|---|
+      | Number of students | 10 | 30 | 80 | 65 | 40 | 25 |
+
+      The number of students who have secured less than 60% marks is what per cent less than the number of students who have secured 80% marks and above?
+
+      *(Figure: Histogram: x-axis ‘Percentage of Marks’ (40, 50, 60, 70, 80, 90, 100), y-axis ‘Number of students’. Bars: 40–50: 10, 50–60: 30, 60–70: 80, 70–80: 65, 80–90: 40, 90–100: 25.)*
+    options:
+      A: 37.4%
+      B: 38.5%
+      C: 33.5%
+      D: 29.7%
+    answer: B
+    explanation: "Below 60%: 10 + 30 = 40; 80% and above: 40 + 25 = 65. (65 − 40)/65 = 38.5% less."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q062
+    difficulty: medium
+    stem: If sec²α + 4cos²α = 4 and 0° ≤ α ≤ 90°, then find the value of α.
+    options:
+      A: 30°
+      B: 0°
+      C: 45°
+      D: 60°
+    answer: C
+    explanation: "With c = cos²α: 1/c + 4c = 4 gives (2c − 1)² = 0, so cos²α = ½ and α = 45°."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q063
+    difficulty: medium
+    stem: If tan A = 2.4/0.7, what is the value of (50 cos A + 24 cot A)?
+    options:
+      A: "21"
+      B: "37"
+      C: "26"
+      D: "34"
+    answer: A
+    explanation: "tan A = 24/7, so the hypotenuse is 25: cos A = 7/25, cot A = 7/24. 50 × 7/25 + 24 × 7/24 = 14 + 7 = 21."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q064
+    difficulty: medium
+    stem: In a triangle ABC, points P and Q are on AB and AC, respectively, such that AP = 4 cm, PB = 6 cm, AQ = 5 cm and QC = 7.5 cm. If PQ = 6 cm, then find BC (in cm).
+    options:
+      A: "10"
+      B: "9"
+      C: "15"
+      D: "12"
+    answer: C
+    explanation: AP/AB = 4/10 and AQ/AC = 5/12.5 = 0.4, so PQ ∥ BC and BC = 6 ÷ 0.4 = 15 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q065
+    difficulty: medium
+    stem: Ankita’s weight is 20% less than that of her grandmother. The grandmother weighs 26 kg less than grandmother’s husband, whose weight is 81 kg. If Ankita’s brother is 8 kg heavier than Ankita, then what is the weight (in kg) of Anikita’s brother?
+    options:
+      A: "60"
+      B: "19"
+      C: "36"
+      D: "52"
+    answer: D
+    explanation: Grandmother = 81 − 26 = 55 kg; Ankita = 80% of 55 = 44 kg; her brother = 44 + 8 = 52 kg.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q066
+    difficulty: medium
+    stem: "A reduction of 15% in the price of wheat enables a housewife to buy 6 kg more for ₹2,720. The reduced price of wheat per kg (in ₹) is:"
+    options:
+      A: "75"
+      B: "68"
+      C: "70"
+      D: "65"
+    answer: B
+    explanation: The saving of 15% of ₹2,720 = ₹408 buys 6 kg, so the reduced price is 408 ÷ 6 = ₹68 per kg.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q067
+    difficulty: medium
+    stem: The length of the shadow of a vertical tower on level ground increases by 8.4 cm when the altitude of the sun changes from 45° to 30°. What is the height of the tower (in m)?
+    options:
+      A: 4.2(√3 − 1)
+      B: 8.4(√3 + 3)
+      C: 4.2(√3 + 3)
+      D: 4.2(√3 + 1)
+    answer: D
+    explanation: h cot 30° − h cot 45° = 8.4, so h(√3 − 1) = 8.4 and h = 4.2(√3 + 1). (The paper mixes cm and m; the value is the same.)
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q068
+    difficulty: medium
+    stem: In a circle with centre O, PQ and QR are two chords such that ∠PQR = 118°. What is the measure of ∠OPR?
+    options:
+      A: 36°
+      B: 26°
+      C: 31°
+      D: 28°
+    answer: D
+    explanation: "∠PQR = 118° stands on the major arc, so reflex ∠POR = 236° and ∠POR = 124°. Triangle OPR is isosceles: ∠OPR = (180° − 124°)/2 = 28°."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q069
+    difficulty: medium
+    stem: |-
+      The following pie charts show the number of students studying in different departments of an institute during the academic years 2019 and 2020. The total number of students was 2000 and 2400, respectively, in academic years 2019 and 2020.
+
+      | Department | 2019 | 2020 |
+      |---|---|---|
+      | Computer Science | 14% | 15% |
+      | Science | 18% | 19% |
+      | Engineering | 13% | 12% |
+      | Medical | 9% | 10% |
+      | Humanities | 21% | 19% |
+      | Commerce | 25% | 25% |
+
+      What is the ratio of Commerce and Computer Science students taken together in 2019 to Engineering and Medical students taken together in 2020?
+
+      *(Figure: Two pie charts. Academic year 2019: Computer Science 14%, Science 18%, Engineering 13%, Medical 9%, Humanities 21%, Commerce 25%. Academic year 2020: Computer Science 15%, Science 19%, Engineering 12%, Medical 10%, Humanities 19%, Commerce 25%.)*
+    options:
+      A: "44 : 65"
+      B: "65 : 44"
+      C: "22 : 39"
+      D: "39 : 22"
+    answer: B
+    explanation: "2019 Commerce + CS = 39% of 2000 = 780; 2020 Engineering + Medical = 22% of 2400 = 528. 780 : 528 = 65 : 44."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q070
+    difficulty: medium
+    stem: |-
+      Find the value of the following expression:
+
+      −5 + 5 + 625 ÷ 5 × 5
+    options:
+      A: "25"
+      B: "625"
+      C: "605"
+      D: "121"
+    answer: B
+    explanation: "Division and multiplication go left to right: 625 ÷ 5 × 5 = 625, and −5 + 5 = 0, so the value is 625."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q071
+    difficulty: medium
+    stem: |-
+      The following bar graph shows exports of cars of type A and B (in ₹ millions) from 2014 to 2018. Study the graph and answer the question that follows.
+
+      Exports of Cars of Type A and B (in ₹ millions) during 2014 to 2018.
+
+      | Year | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 200 | 150 | 275 | 175 | 300 |
+      | B | 225 | 250 | 200 | 275 | 325 |
+
+      The total exports of cars of type A in 2014 to 2018 is what per cent more than the total exports of cars of type B in 2015 to 2017? (Correct to one decimal place)
+
+      *(Figure: Bar graph ‘Exports of Cars of Type A and B (in ₹ millions) during 2014 to 2018’; x-axis Years, y-axis Exports (in ₹ millions), 0 to 350. Type A (blue): 2014: 200, 2015: 150, 2016: 275, 2017: 175, 2018: 300. Type B (red): 2014: 225, 2015: 250, 2016: 200, 2017: 275, 2018: 325.)*
+    options:
+      A: 44.3%
+      B: 50.4%
+      C: 51.7%
+      D: 41.3%
+    answer: C
+    explanation: Type A 2014-18 = 1100; type B 2015-17 = 725. (1100 − 725)/725 = 51.7% more.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q072
+    difficulty: medium
+    stem: If (a + 1/a + 3)² = 16, where a is a non-zero real number, then find the value of a² + 1/a².
+    options:
+      A: "3"
+      B: "47"
+      C: "49"
+      D: "7"
+    answer: B
+    explanation: a + 1/a + 3 = ±4. a + 1/a = 1 has no real solution, so a + 1/a = −7 and a² + 1/a² = 49 − 2 = 47.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q073
+    difficulty: medium
+    stem: Ras Bihari, a plumber, earned on an average ₹925 per day in the month of January. He earned on an average ₹881 per day during the first 20 days and ₹915 per day during the last 20 days. What was his average income (in ₹) per day from 12th January to 20th January?
+    options:
+      A: "792"
+      B: "875"
+      C: "800"
+      D: "805"
+    answer: D
+    explanation: 20 × 881 + 20 × 915 − 31 × 925 = 7245, the earnings on 12-20 January (9 days). 7245 ÷ 9 = ₹805.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q074
+    difficulty: medium
+    stem: |-
+      Monthly expenditure of a family on different heads is shown in the following pie chart. The family earns ₹1,08,000 every month.
+
+      What is the amount spent on Rent every month (in ₹)?
+
+      | Head | Rent | Children Education | Food | Transport | Saving | Misc Expenses |
+      |---|---|---|---|---|---|---|
+      | Angle | 60° | 70° | 65° | 50° | 40° | 75° |
+
+      *(Figure: Pie chart ‘Expenditure on different Heads’: Rent 60°, Children Education 70°, Food 65°, Transport 50°, Saving 40°, Misc Expenses 75°.)*
+    options:
+      A: 17,500
+      B: 21,000
+      C: 15,000
+      D: 18,000
+    answer: D
+    explanation: Rent = 60/360 × 108000 = ₹18,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q075
+    difficulty: medium
+    stem: A 240-m long train crosses a 360-m long tunnel in 30 seconds. What is the speed of the train (in km/h)?
+    options:
+      A: "72"
+      B: "43.2"
+      C: "60"
+      D: "28.8"
+    answer: A
+    explanation: The train covers 240 + 360 = 600 m in 30 s = 20 m/s = 72 km/h.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift3-q076
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Secratariat
+      B: Heartbeat
+      C: Performance
+      D: Tongue
+    answer: A
+    explanation: The correct spelling is 'Secretariat'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q077
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Giggle
+      B: Girdle
+      C: Gingar
+      D: Giant
+    answer: C
+    explanation: The correct spelling is 'Ginger'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      As it was getting late Lata **leave the party** midway.
+    options:
+      A: is left the party
+      B: leaving the party
+      C: No substitution required
+      D: left the party
+    answer: D
+    explanation: The action is in the past ('was getting late'), so the past simple 'left the party' is needed.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q079
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      The team won / very easily / at the recent sports event.
+    options:
+      A: at the recent sports event
+      B: very easily
+      C: The team won
+      D: No error
+    answer: D
+    explanation: The sentence is grammatically correct.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Astound
+    options:
+      A: Confuse
+      B: Shock
+      C: Clarify
+      D: Stun
+    answer: C
+    explanation: To astound is to amaze or bewilder; of the options, clarify (make clear) is the opposite, while confuse, shock and stun are near-synonyms.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q081
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select ‘No improvement required’.
+
+      I don’t fancy **to go out** this evening.
+    options:
+      A: to going outside
+      B: No improvement required
+      C: to be going out
+      D: going out
+    answer: D
+    explanation: "'Fancy' (meaning want or like) is followed by a gerund: 'I don't fancy going out'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q082
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Nobody fed him when he was starving.
+    options:
+      A: He had not been fed by anybody when he was starving.
+      B: He is not fed by anybody when he is starving.
+      C: He were fed by nobody when he was starving.
+      D: He was not fed by anybody when he was starving.
+    answer: D
+    explanation: "Past simple active becomes 'was + past participle': 'He was not fed by anybody when he was starving.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Retaliate
+    options:
+      A: Clap
+      B: Rotate
+      C: Facilitate
+      D: react
+    answer: D
+    explanation: To retaliate is to react or strike back in return.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Cat’s paw
+    options:
+      A: A person used as a tool by another
+      B: The most important attribute
+      C: To attack someone
+      D: Move at a fast pace
+    answer: A
+    explanation: A cat's paw is a person used by another to do unpleasant or risky work.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q085
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      He conceded / a very crucial / point at / his opponent.
+    options:
+      A: a very crucial
+      B: point at
+      C: his opponent
+      D: He conceded
+    answer: B
+    explanation: One concedes a point 'to' an opponent, not 'at'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q086
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      I find that / I get myself tired / very easily / these days.
+    options:
+      A: these days
+      B: I get myself tired
+      C: I find that
+      D: very easily
+    answer: B
+    explanation: "'Get' here is intransitive with an adjective: 'I get tired', not 'I get myself tired'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q087
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below. While the first and the last sentences are in correct order, the sentences in between are jumbled up. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      S1. Ram Mohan was a lover of his country.  
+      P. David said that it would be a good plan to have an English school and college.  
+      Q. He was talking with David about uplifting the mind of Indians.  
+      R. So, he also thought that this subject was very interesting.  
+      S. David also had a strong bond with India.  
+      S6. Indians and Europeans met next year to put this idea into shape.
+    options:
+      A: QSRP
+      B: SRPQ
+      C: RPQS
+      D: RSPQ
+    answer: A
+    explanation: "Q (talking with David) follows S1, S describes David, R says he also found the subject interesting, and P gives David's plan: QSRP."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      In the limelight
+    options:
+      A: About to be successful
+      B: The centre of attraction
+      C: In a well lit up room
+      D: A well kept secret
+    answer: B
+    explanation: To be in the limelight is to be the centre of public attention.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Sagacious
+    options:
+      A: Precious
+      B: Delicious
+      C: Malicious
+      D: Judicious
+    answer: D
+    explanation: Sagacious means wise and of sound judgement, i.e. judicious.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Audacity
+    options:
+      A: Daring
+      B: Meekness
+      C: Caution
+      D: Kindness
+    answer: A
+    explanation: Audacity is bold daring.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q091
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      I was taught by Shyam how to drive.
+    options:
+      A: Shyam taught me how to drive.
+      B: Shyam is teaching me how to drive.
+      C: Shyam has taught me how to drive.
+      D: I taught Shyam how to drive.
+    answer: A
+    explanation: "'Was taught' is past simple passive, so the active is 'Shyam taught me how to drive.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Industrious
+    options:
+      A: Persistent
+      B: Diligent
+      C: Zealous
+      D: Indolent
+    answer: D
+    explanation: Industrious means hard-working; its opposite is indolent (lazy).
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q093
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into segments. Identify the segment that contains a grammatical error.
+
+      My guide / was blind / but he bring / me home safely.
+    options:
+      A: me home safely
+      B: My guide
+      C: was blind
+      D: but he bring
+    answer: D
+    explanation: The sentence is in the past ('was blind'), so 'bring' must be 'brought'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q094
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A four-footed animal
+    options:
+      A: Mammal
+      B: Reptile
+      C: Quadruped
+      D: Biped
+    answer: C
+    explanation: A quadruped is an animal with four feet.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q095
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      Manoj said to Mira, “Do not try to make a fool of me.”
+    options:
+      A: Manoj told Mira to not to try to make a fool of me.
+      B: Manoj told Mira do not try to make a fool of him.
+      C: Manoj told Mira not to try to make a fool of him.
+      D: Manoj told Mira to not try to make a fool of me.
+    answer: C
+    explanation: A negative command is reported with 'told … not to', and 'me' becomes 'him'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Birbal immediately smiled and went up to Akbar. He announced the (1) ______; he said there were twenty-one thousand, five hundred and twenty-three crows (2) ______ the city. When asked how he (3) ______ the answer, Birbal replied, “Ask your men to (4) ______ the number of crows. If there are more, then the relatives of the crows must be visiting them from (5) ______ cities. If there are fewer, then the crows from our city must be visiting their relatives who live outside the city.”
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: answer
+      B: response
+      C: question
+      D: rejoinder
+    answer: A
+    explanation: Birbal announced the answer (the number of crows) to Akbar's question.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Birbal immediately smiled and went up to Akbar. He announced the (1) ______; he said there were twenty-one thousand, five hundred and twenty-three crows (2) ______ the city. When asked how he (3) ______ the answer, Birbal replied, “Ask your men to (4) ______ the number of crows. If there are more, then the relatives of the crows must be visiting them from (5) ______ cities. If there are fewer, then the crows from our city must be visiting their relatives who live outside the city.”
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: in
+      B: at
+      C: off
+      D: on
+    answer: A
+    explanation: Crows 'in the city' is the natural preposition for being within a place.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Birbal immediately smiled and went up to Akbar. He announced the (1) ______; he said there were twenty-one thousand, five hundred and twenty-three crows (2) ______ the city. When asked how he (3) ______ the answer, Birbal replied, “Ask your men to (4) ______ the number of crows. If there are more, then the relatives of the crows must be visiting them from (5) ______ cities. If there are fewer, then the crows from our city must be visiting their relatives who live outside the city.”
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: known
+      B: know
+      C: knew
+      D: knowing
+    answer: C
+    explanation: The past tense 'knew' fits 'When asked how he knew the answer'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Birbal immediately smiled and went up to Akbar. He announced the (1) ______; he said there were twenty-one thousand, five hundred and twenty-three crows (2) ______ the city. When asked how he (3) ______ the answer, Birbal replied, “Ask your men to (4) ______ the number of crows. If there are more, then the relatives of the crows must be visiting them from (5) ______ cities. If there are fewer, then the crows from our city must be visiting their relatives who live outside the city.”
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: count
+      B: judge
+      C: consider
+      D: calculate
+    answer: A
+    explanation: Akbar's men are asked to count the crows.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift3-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Birbal immediately smiled and went up to Akbar. He announced the (1) ______; he said there were twenty-one thousand, five hundred and twenty-three crows (2) ______ the city. When asked how he (3) ______ the answer, Birbal replied, “Ask your men to (4) ______ the number of crows. If there are more, then the relatives of the crows must be visiting them from (5) ______ cities. If there are fewer, then the crows from our city must be visiting their relatives who live outside the city.”
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: vicinity
+      B: near
+      C: close
+      D: nearby
+    answer: D
+    explanation: "'Nearby' is the adjective meaning close by: 'from nearby cities'."
+    tags:
+      - english

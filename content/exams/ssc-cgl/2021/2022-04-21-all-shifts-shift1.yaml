@@ -1,0 +1,1254 @@
+slug: 2022-04-21-all-shifts-shift1
+title: SSC CGL 2021 Tier 1
+date: 2022-04-21
+label: 21 Apr, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b92ddd0e-db03-11ed-a1a8-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q2, Q6, Q8, Q10, Q12, Q14, Q17, Q18, Q26, Q29, Q36, Q42, Q52."
+questions:
+  - slug: cgl-2022-04-21-all-ss-shift1-q001
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      13 : 1331 :: 17 : ?
+    options:
+      A: "2642"
+      B: "1453"
+      C: "3375"
+      D: "1829"
+    answer: C
+    explanation: 1331 = 11³ = (13 − 2)³. So 17 → (17 − 2)³ = 15³ = 3375.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q003
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.
+
+      JST : HPX :: PWJ : ?
+    options:
+      A: NTN
+      B: MSR
+      C: MTN
+      D: NSP
+    answer: A
+    explanation: "Letters shift −2, −3, +4: J→H, S→P, T→X. So P→N, W→T, J→N gives NTN."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q004
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the given equation correct?
+
+      16 − 18 × 216 ÷ 432 + 40 = 20
+    options:
+      A: + and −
+      B: × and ÷
+      C: × and +
+      D: ÷ and −
+    answer: B
+    explanation: "Swapping × and ÷: 16 − 18 ÷ 216 × 432 + 40 = 16 − 36 + 40 = 20."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q005
+    difficulty: medium
+    stem: |-
+      If A denotes ‘addition’, B denotes ‘multiplication’, C denotes ‘subtraction’, and D denotes ‘division’, then what will be the value of the following expression?
+
+      (45 D 9) B 5 A 8 B (7 A 3 C 6) C (28 D (4 D 4))
+    options:
+      A: "82"
+      B: "32"
+      C: "29"
+      D: "38"
+    answer: C
+    explanation: (45 ÷ 9) × 5 + 8 × (7 + 3 − 6) − (28 ÷ (4 ÷ 4)) = 25 + 32 − 28 = 29.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q007
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Serenity  
+      2. Serpent  
+      3. Serviceable  
+      4. Sericulture  
+      5. Serotonin
+    options:
+      A: 1, 4, 5, 2, 3
+      B: 1, 4, 2, 5, 3
+      C: 3, 4, 5, 2, 1
+      D: 2, 4, 5, 3, 1
+    answer: A
+    explanation: "Compare the letter after 'Ser': Sere-, Seri-, Sero-, Serp-, Serv-. So Serenity, Sericulture, Serotonin, Serpent, Serviceable = 1, 4, 5, 2, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q009
+    difficulty: medium
+    stem: In a certain code language, 'TULIPS' is written as ‘GFORKH’. How will 'GARDEN' be written in that language?
+    options:
+      A: SZIXVM
+      B: TZIWUM
+      C: TBIWVK
+      D: TZIWVM
+    answer: D
+    explanation: "Each letter is replaced by its opposite letter (A↔Z, B↔Y …): T→G, U→F, L→O. So GARDEN → TZIWVM."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q011
+    difficulty: medium
+    stem: In a certain code language, 'GANGA' is coded as 21-3-42-21-3 and 'KOSHI' is coded as 33-45-57-24-27. How will 'GOMTI' be coded in that language?
+    options:
+      A: 14-45-26-60-27
+      B: 21-45-39-60-27
+      C: 21-30-39-40-18
+      D: 14-30-39-40-18
+    answer: B
+    explanation: Each letter's alphabet position is multiplied by 3 (G = 7 → 21, A = 1 → 3). GOMTI = 21-45-39-60-27.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q013
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Study the same and identify which of the following statements is correct.
+
+      *(Figure: Three views of the dice (top, front, right): (1, 3, 2); (1, 2, 5); (6, 5, 2).)*
+    options:
+      A: 1 is opposite to 4
+      B: 3 is opposite to 6
+      C: 6 is opposite to 1
+      D: 5 is opposite to 2
+    answer: C
+    explanation: 2 is adjacent to 1, 3, 5 and 6, so 2 is opposite 4. 1 is adjacent to 3, 2 and 5, so 1 is opposite the remaining number, 6.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q015
+    difficulty: medium
+    stem: "The ratio of the sum of and the difference between two numbers is 6 : 5. Find the ratio of these two numbers."
+    options:
+      A: "3 : 2"
+      B: "7 : 5"
+      C: "2 : 3"
+      D: "11 : 1"
+    answer: D
+    explanation: "(a + b) : (a − b) = 6 : 5 gives 5a + 5b = 6a − 6b, so a = 11b. Ratio = 11 : 1."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q016
+    difficulty: medium
+    stem: |-
+      ‘A # B’ means ‘A is the sister of B’;  
+      ‘A ＄ B’ means ‘A is the father of B’.  
+      ‘A @ B’ means ‘A is the wife of B’.  
+      ‘A % B’ means ‘A is the brother of B’.  
+      Which of the following options means ‘J is the father of R’?
+    options:
+      A: "C @ J % K ＄ M # R"
+      B: "C @ R ＄ K % M # J"
+      C: "C @ J ＄ K % M # R"
+      D: "J @ C ＄ K % M # R"
+    answer: C
+    explanation: "C @ J ＄ K % M # R: J is the father of K; K is the brother of M and M is the sister of R, so all three are siblings and J is the father of R."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q019
+    difficulty: medium
+    stem: In a certain code language, ‘are you ready’ is written as ‘541’, ‘we are going’ is written as ‘261’, and ‘she is ready’ is written as ‘498’. How will ‘you’ be written in that language?
+    options:
+      A: "6"
+      B: "1"
+      C: "5"
+      D: "4"
+    answer: C
+    explanation: "'are' is common to the first two codes (1) and 'ready' to the first and third (4). So 'you' = 5."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q020
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      1, 1, 2, 2, 6, 10, 42, ?, 1806
+    options:
+      A: "1302"
+      B: "1203"
+      C: "1010"
+      D: "1389"
+    answer: C
+    explanation: "Odd places 1, 2, 6, 42, 1806 follow n × (n + 1). Even places 1, 2, 10, ? follow n × (n² + 1): 10 × 101 = 1010."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q021
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true even if it appears to be at variance with commonly known facts decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      All peelers are funnels.  
+      Some peelers are spatulas.
+
+      **Conclusions:**
+
+      I. Some peelers are not funnels.  
+      II. Some spatulas are peelers.
+    options:
+      A: Both conclusions I and II follow.
+      B: Only conclusion II follows.
+      C: Neither conclusion I nor II follows.
+      D: Only conclusion I follows.
+    answer: B
+    explanation: "'All peelers are funnels' makes I false. 'Some peelers are spatulas' converts to 'Some spatulas are peelers', so II follows."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q022
+    difficulty: medium
+    stem: |-
+      Select the letter from among the given options that can replace the question mark (?) in the following series.
+
+      E, F, I, N, U, ?
+    options:
+      A: A
+      B: D
+      C: N
+      D: Z
+    answer: B
+    explanation: Positions 5, 6, 9, 14, 21 rise by 1, 3, 5, 7; next +9 gives 30, i.e. 30 − 26 = 4 = D.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q023
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: EVAF
+      B: CXBH
+      C: KPUZ
+      D: TGLQ
+    answer: B
+    explanation: In the others the first two letters are opposites (positions sum to 27) and the last two differ by 5 (A→F, U→Z, L→Q). In CXBH, B→H differs by 6.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q024
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      CALI, ZEGO, WIBU, TMWA, ?
+    options:
+      A: QPSF
+      B: QRQE
+      C: QQRE
+      D: QSPF
+    answer: C
+    explanation: First letters −3 (T→Q), second +4 (M→Q), third −5 (W→R), and the fourth cycles through the vowels I, O, U, A, E. So QQRE.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q025
+    difficulty: medium
+    stem: Eight friends, A, B, C, D, E, F, G and H, are sitting in two lines of four persons each. Both the lines are facing each other. A is facing D. E is to the immediate left of G. H is to the immediate right of B. C is facing G. F is facing H. B is to the immediate right of the person who is facing G. D is to the immediate left of F. Which four persons are sitting in the same line?
+    options:
+      A: A, B, C, H
+      B: B, C, D, H
+      C: A, C, F, G
+      D: C, D, E, F
+    answer: A
+    explanation: "Facing pairs: A-D, C-G, F-H, B-E. E sits next to G and D next to F, so one line is D, E, F, G and the other is A, B, C, H."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-21-all-ss-shift1-q027
+    difficulty: medium
+    stem: As of April 2021, ______ held the record for the highest individual Women’s ODI cricket score by an Indian player. She was also the only Indian spinner to take six women’s ODI wickets.
+    options:
+      A: Taniya Bhatia
+      B: Deepti Sharma
+      C: Radha Yadav
+      D: Punam Raut
+    answer: B
+    explanation: Deepti Sharma scored 188 against Ireland in 2017, the highest ODI score by an Indian woman, and took 6/20 against Sri Lanka in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q028
+    difficulty: medium
+    stem: The Fiscal Responsibility and Budget Management Act 2003 set a target to limit India’s fiscal deficit up to ______ of the GDP by 2021.
+    options:
+      A: 2%
+      B: 3%
+      C: 6%
+      D: 5%
+    answer: B
+    explanation: The FRBM framework, as amended in 2018, aimed to bring the Centre's fiscal deficit down to 3% of GDP by 31 March 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q030
+    difficulty: medium
+    stem: Who was the Australian Open Women’s Singles champion in 2021?
+    options:
+      A: Serena Williams
+      B: Venus Williams
+      C: Jennifer Brady
+      D: Naomi Osaka
+    answer: D
+    explanation: Naomi Osaka beat Jennifer Brady in the 2021 Australian Open women's singles final.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q031
+    difficulty: medium
+    stem: Adar Poonawalla launched the Clean City initiative in Pune in the year ______.
+    options:
+      A: "2018"
+      B: "2012"
+      C: "2010"
+      D: "2015"
+    answer: D
+    explanation: The Adar Poonawalla Clean City Initiative was launched in Pune in 2015.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q032
+    difficulty: medium
+    stem: Who among the following became a part of the Constituent Assembly from Madras Constituency in 1946?
+    options:
+      A: Ammu Swaminathan
+      B: Hansa Jivraj Mehta
+      C: Kamla Chaudhry
+      D: Begum Aizaz Rasul
+    answer: A
+    explanation: Ammu Swaminathan was elected to the Constituent Assembly from Madras in 1946. Hansa Mehta was from Bombay; Kamla Chaudhry and Begum Aizaz Rasul were from the United Provinces.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q033
+    difficulty: medium
+    stem: Solids like fats, grease and oil that float on top of liquid wastewater is called ______.
+    options:
+      A: urea
+      B: sludge
+      C: compost
+      D: peat
+    answer: B
+    explanation: Sludge is the solid waste separated out during waste-water treatment; of the options it is the only treatment residue (the floating fat-and-grease layer is strictly called scum).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q034
+    difficulty: medium
+    stem: Which of the following statements was quoted by Subhash Chandra Bose?
+    options:
+      A: Live as if you were to die tomorrow. Learn as if you were to live forever.
+      B: The best way to find yourself is to lose yourself in the service of others.
+      C: Give me blood and I will give you freedom.
+      D: First, they ignore you, then they laugh at you, then they fight you, then you win.
+    answer: C
+    explanation: "'Tum mujhe khoon do, main tumhe azadi dunga' (Give me blood and I will give you freedom) was Subhas Chandra Bose's call."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q035
+    difficulty: medium
+    stem: "In order to get clean drinking water disinfectant is used after filtration. Disinfectant, however, is NOT used for removing:"
+    options:
+      A: viruses
+      B: parasites
+      C: minerals
+      D: bacteria
+    answer: C
+    explanation: Disinfectants such as chlorine kill microbes (bacteria, viruses, parasites); they do not remove dissolved minerals.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q037
+    difficulty: medium
+    stem: The Vernacular Press Act of 1878 was repealed during the tenure of Viceroy ______.
+    options:
+      A: Lord Ripon
+      B: Lord Dufferin
+      C: Lord Lansdowne
+      D: Lord Northbrook
+    answer: A
+    explanation: Lord Ripon repealed Lytton's Vernacular Press Act of 1878 in 1882.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q038
+    difficulty: medium
+    stem: Who among the following Indian artists won the ‘Joan Miro Prize’ for the year 2019?
+    options:
+      A: Jogen Chowdhury
+      B: Nalini Malani
+      C: Anjolie Ela Menon
+      D: Jiten Thukral
+    answer: B
+    explanation: Nalini Malani won the Joan Miró Prize for 2019, the first Asian artist to receive it.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q039
+    difficulty: medium
+    stem: Which of the following is more suitable than the others for the growth of cashew nut?
+    options:
+      A: Red laterite soil
+      B: Black cotton soil
+      C: Alluvial soil
+      D: Arid soil
+    answer: A
+    explanation: Cashew grows best in the well-drained red laterite soils of the coastal regions.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q040
+    difficulty: medium
+    stem: Ashokan Minor Rock Edicts are found in different parts of India. Which of the following is NOT a find spot of Ashokan Minor Rock Edicts in Karnataka?
+    options:
+      A: Brahmagiri
+      B: Gavimath
+      C: Rupnath
+      D: Maski
+    answer: C
+    explanation: Rupnath is in Jabalpur district, Madhya Pradesh. Brahmagiri, Gavimath and Maski are in Karnataka.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q041
+    difficulty: medium
+    stem: Under the National Urban Sanitation Policy, a city that scores points between 34 and 66 and needs considerable improvement is colour-coded ______.
+    options:
+      A: green
+      B: black
+      C: blue
+      D: red
+    answer: B
+    explanation: "The National Urban Sanitation Policy (2008) colour codes: red up to 33 points, black 34-66, blue 67-90, green 91-100."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q043
+    difficulty: medium
+    stem: The Government of India imposed an Agriculture and Infrastructure Development Cess of ______ per litre on petrol through Union Budget 2021-22.
+    options:
+      A: ₹3.5
+      B: ₹3
+      C: ₹2.5
+      D: ₹4
+    answer: C
+    explanation: Budget 2021-22 levied an Agriculture Infrastructure and Development Cess of ₹2.5 per litre on petrol (₹4 on diesel).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q044
+    difficulty: medium
+    stem: Which of the following persons was named as Dean of Harvard Business School in October 2020?
+    options:
+      A: Sanjit Roy
+      B: Achyuta Samanta
+      C: Srikant Datar
+      D: Nitin Nohria
+    answer: C
+    explanation: Srikant Datar was named Dean of Harvard Business School in October 2020, succeeding Nitin Nohria.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q045
+    difficulty: medium
+    stem: Which of the following Amendments of the Constitution of India was enacted in 1993 to constitutionally recognise municipal governments?
+    options:
+      A: 73rd Constitutional Amendment Act (CAA), 1990
+      B: 72nd Constitutional Amendment Act (CAA), 1989
+      C: 74th Constitutional Amendment Act (CAA), 1992
+      D: 71st Constitutional Amendment Act (CAA), 1988
+    answer: C
+    explanation: The 74th Constitutional Amendment Act, 1992, in force from 1993, gave constitutional status to urban local bodies.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q046
+    difficulty: medium
+    stem: The Annapurna peak belongs to which region of the Himalayas?
+    options:
+      A: Nepal
+      B: Garhwal
+      C: Bhutan
+      D: Kumaon
+    answer: A
+    explanation: The Annapurna massif lies in north-central Nepal, in the Nepal Himalaya.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q047
+    difficulty: medium
+    stem: As per WHO (World Health Organization), which of the following is NOT an example of disinfection by-products formed at traditional drinking water treatment plants?
+    options:
+      A: Titania
+      B: Bromate
+      C: Chlorate
+      D: Chlorite
+    answer: A
+    explanation: Bromate, chlorate and chlorite are disinfection by-products; titania (titanium dioxide) is not.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q048
+    difficulty: medium
+    stem: The picture that won the World Press Photo of the Year 2021 contest is titled ‘______’.
+    options:
+      A: The First Embrace
+      B: Crying Girl on the Border
+      C: Emancipation Memorial Debate
+      D: Straight Voice
+    answer: A
+    explanation: Mads Nissen's 'The First Embrace' (a nursing-home hug during COVID-19) won World Press Photo of the Year 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q049
+    difficulty: medium
+    stem: Which of the following states has the lowest female sex ratio according to the 2011 Census?
+    options:
+      A: Uttar Pradesh
+      B: Punjab
+      C: Sikkim
+      D: Haryana
+    answer: D
+    explanation: "Census 2011: Haryana had the lowest sex ratio among the states, 879 females per 1000 males."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q050
+    difficulty: medium
+    stem: Who among the following was the first Indian Governor of Reserve Bank of India?
+    options:
+      A: CD Deshmukh
+      B: HVR Lengar
+      C: PC Bhattacharya
+      D: LK Jha
+    answer: A
+    explanation: C.D. Deshmukh became the first Indian Governor of the RBI in 1943.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-21-all-ss-shift1-q051
+    difficulty: medium
+    stem: A shopkeeper bought toffees at a rate of 10 for ₹15 and sold them at a rate of 16 for ₹40. Find his profit percentage. (correct to two decimal places)
+    options:
+      A: 65.05%
+      B: 33.33%
+      C: 50.55%
+      D: 66.67%
+    answer: D
+    explanation: Cost = ₹1.50 per toffee, selling price = ₹2.50. Profit = 1/1.5 = 66.67%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q053
+    difficulty: medium
+    stem: |-
+      Find the value of the following expression:
+
+      [4 1/3 + 3 1/3 × 1 4/5 ÷ 3 3/4 × (6 1/4 of 1 1/15)] ÷ [2/3 ÷ 5/6 × 2/3]
+    options:
+      A: 28 1/8
+      B: 1/8
+      C: 289 3/8
+      D: 12 1/2
+    answer: A
+    explanation: "6 1/4 of 1 1/15 = 20/3; 10/3 × 9/5 ÷ 15/4 × 20/3 = 32/3; plus 13/3 = 15. Divisor: 2/3 ÷ 5/6 × 2/3 = 8/15. 15 ÷ 8/15 = 225/8 = 28 1/8."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q054
+    difficulty: medium
+    stem: Find the smallest number which should be added to the smallest number divisible by 6, 9 and 15 to make it a perfect square.
+    options:
+      A: "10"
+      B: "9"
+      C: "19"
+      D: "21"
+    answer: A
+    explanation: The LCM of 6, 9 and 15 is 90; the next perfect square is 100, so add 10.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q055
+    difficulty: medium
+    stem: The radii of two concentric circles with centre O are 26 cm and 16 cm. Chord AB of the larger circle is tangent to the smaller circle at C and AD is a diameter. What is the length of CD?
+    options:
+      A: 42 cm
+      B: 36 cm
+      C: 35 cm
+      D: 38 cm
+    answer: D
+    explanation: AC = √(26² − 16²) = √420. Angle ABD = 90° and BD = 2 × OC = 32, so CD = √(420 + 1024) = √1444 = 38 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q056
+    difficulty: medium
+    stem: Find the sum of the greatest and the smallest number which may replace k in the number 3281k6 to make the number divisible by 6.
+    options:
+      A: "9"
+      B: "8"
+      C: "5"
+      D: "4"
+    answer: B
+    explanation: The number is even; for divisibility by 3, 20 + k must be a multiple of 3, so k = 1, 4 or 7. 7 + 1 = 8.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q057
+    difficulty: medium
+    stem: A household appliances company offers two successive discounts of 20% and 35% on the sale of a food processor. What is the final sale price (in Rs, to the nearest rupee) of a food processor costing Rs 4580?
+    options:
+      A: "2519"
+      B: "2977"
+      C: "2382"
+      D: "3664"
+    answer: C
+    explanation: 4580 × 0.80 × 0.65 = 2381.6 ≈ ₹2382.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q058
+    difficulty: medium
+    stem: If 5x − 1/(4x) = 6, x > 0, then find the value of 25x² − 1/(16x²).
+    options:
+      A: 6√41
+      B: "36"
+      C: √246
+      D: 6√31
+    answer: A
+    explanation: (5x + 1/(4x))² = (5x − 1/(4x))² + 5 = 41. So 25x² − 1/(16x²) = 6 × √41 = 6√41.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q059
+    difficulty: medium
+    stem: In triangle ABC, the bisector of angle BAC meets BC at point D in such a way that AB = 10 cm, AC = 15 cm and BD = 6 cm. Find the length of BC (in cm).
+    options:
+      A: "17"
+      B: "11"
+      C: "15"
+      D: "9"
+    answer: C
+    explanation: "Angle-bisector theorem: BD/DC = AB/AC = 10/15, so DC = 9 and BC = 6 + 9 = 15 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q060
+    difficulty: medium
+    stem: A and B working alone can complete a work in 8 days and 12 days, respectively. They started working together, but A left 2 days before completion of the work. In how many days was the work completed?
+    options:
+      A: "6"
+      B: "5"
+      C: "8"
+      D: "10"
+    answer: A
+    explanation: "If the work took T days: (T − 2)/8 + T/12 = 1, so 5T = 30 and T = 6."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q061
+    difficulty: medium
+    stem: Person A started a business by investing ₹65,000. After a few months, B joined him by investing ₹50,000. Three months after the joining of B, C joined the two with an investment of ₹55,000. At the end of the year, A got 50% of profit as his share. For how many months did A alone finance the business?
+    options:
+      A: "2"
+      B: "3"
+      C: "5"
+      D: "4"
+    answer: B
+    explanation: "If A was alone for x months: 65000 × 12 = 50000(12 − x) + 55000(9 − x), so 105000x = 315000 and x = 3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q062
+    difficulty: medium
+    stem: |-
+      The following bar graph shows receipts and expenditure by a business firm over 5 years. Gain = Receipts – Expenditure.
+
+      In which year did the company gain the minimum amount?
+
+      | Year | Receipts (Rs in lakhs) | Expend (Rs in lakhs) |
+      |---|---|---|
+      | 2016 | 54 | 51 |
+      | 2017 | 64 | 60 |
+      | 2018 | 80 | 75 |
+      | 2019 | 82 | 80 |
+      | 2020 | 93 | 87 |
+
+      *(Figure: Grouped bar graph (y-axis: Rs (in lakhs), 0 to 100; x-axis: Years 2016-2020); dark bars = Receipts, hatched bars = Expend; bar labels transcribed as the table in the stem.)*
+    options:
+      A: "2016"
+      B: "2017"
+      C: "2019"
+      D: "2018"
+    answer: C
+    explanation: "Gains: 3, 4, 5, 2, 6 lakh. The smallest is 2 lakh, in 2019."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q063
+    difficulty: medium
+    stem: "Three positive numbers are in the ratio 2 : 3 : 4. The sum of their squares is 2349. The average of the first two numbers is:"
+    options:
+      A: "36"
+      B: "27.5"
+      C: "18"
+      D: "22.5"
+    answer: D
+    explanation: 4k² + 9k² + 16k² = 29k² = 2349, so k = 9. The numbers 18 and 27 average 22.5.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q064
+    difficulty: medium
+    stem: The sides of a triangular field are 360 m, 480 m and 600 m. Its area is equal to the area of a square field. What is the side (in m) of the square field?
+    options:
+      A: 120√6
+      B: 160√6
+      C: 160√3
+      D: 120√3
+    answer: A
+    explanation: 360-480-600 is a right triangle (3-4-5), area = ½ × 360 × 480 = 86400 m². Side = √86400 = 120√6 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q065
+    difficulty: medium
+    stem: A person’s salary was decreased by 50% and subsequently increased by 50%. By what much per cent does his salary increase or decrease?
+    options:
+      A: Decrease 18%
+      B: Increase 15%
+      C: Increase 20%
+      D: Decrease 25%
+    answer: D
+    explanation: 0.5 × 1.5 = 0.75, so the salary falls by 25%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q066
+    difficulty: medium
+    stem: In a Δ ABC, D, E and F are the mid-points of side BC, CA and AB respectively. If BC = 25.6 cm, CA = 18.8 cm and AB = 20.4 cm, what is the perimeter (in cm) of the ΔDEF?
+    options:
+      A: "36.8"
+      B: "30.6"
+      C: "32.4"
+      D: "34.4"
+    answer: C
+    explanation: "The midpoint triangle has half the perimeter: (25.6 + 18.8 + 20.4)/2 = 32.4 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q067
+    difficulty: medium
+    stem: |-
+      Find the value of the following expression:
+
+      [(7.03)³ − 0.027] ÷ [(7.03)² + 2.109 + (0.3)²]
+    options:
+      A: "7.06"
+      B: "7"
+      C: "7.33"
+      D: "6.73"
+    answer: D
+    explanation: "With a = 7.03 and b = 0.3 (ab = 2.109): (a³ − b³)/(a² + ab + b²) = a − b = 6.73."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q068
+    difficulty: medium
+    stem: Anil lent a sum of ₹5,000 on simple interest for 10 years in such a way that the rate of interest is 6% per annum for the first 2 years, 8% per annum for the next 2 years and 10% per annum beyond 4 years. How much interest (in ₹) will he earn at the end of 10 years?
+    options:
+      A: 5,000
+      B: 4,400
+      C: 4,200
+      D: 3,500
+    answer: B
+    explanation: Interest = 5000 × (2×6 + 2×8 + 6×10)% = 5000 × 88% = ₹4400.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q069
+    difficulty: medium
+    stem: |-
+      The breakup of the total number of employees of a company working in different offices (A to E), in degrees, is given in the pie chart.
+
+      Total number of employees = 2400.
+
+      | Office | Degrees |
+      |---|---|
+      | A | 126° |
+      | B | 18° |
+      | C | 54° |
+      | D | 90° |
+      | E | 72° |
+
+      If 40% of the number of employees in office A are shifted equally to office B and E, then what will be the sum of the number of employees in B and C?
+
+      *(Figure: Pie chart of offices A to E with central angles transcribed as the table in the stem.)*
+    options:
+      A: "648"
+      B: "735"
+      C: "545"
+      D: "72"
+    answer: A
+    explanation: A = 840, B = 120, C = 360. 40% of A = 336; half (168) goes to B, making 288. B + C = 288 + 360 = 648.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q070
+    difficulty: medium
+    stem: O is the centre of a circle of radius 10 cm. P is a point outside the circle and PQ is a tangent to the circle. What is the length (in cm) of PQ if the length OP is 26 cm?
+    options:
+      A: 2√194
+      B: "20"
+      C: "25"
+      D: "24"
+    answer: D
+    explanation: "The tangent is perpendicular to the radius: PQ = √(26² − 10²) = √576 = 24 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q071
+    difficulty: medium
+    stem: "If A = 30°, what is the value of: [8 sin A + 11cosec A − cot²A] / (10 cos2A) ?"
+    options:
+      A: 5 1/5
+      B: 4 3/5
+      C: 4 2/5
+      D: 3 4/5
+    answer: B
+    explanation: (8 × ½ + 11 × 2 − 3)/(10 × cos 60°) = 23/5 = 4 3/5.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q072
+    difficulty: medium
+    stem: The distance between two stations A and B is 200 km. A train runs from A to B at a speed of 75 km/h, while another train runs from B to A at a speed of 85 km/h. What will be the distance between the two trains (in km) 3 minutes before they meet?
+    options:
+      A: "5"
+      B: "8"
+      C: "10"
+      D: "6"
+    answer: B
+    explanation: Relative speed is 160 km/h; in the last 3 minutes (1/20 h) they close 160/20 = 8 km.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q073
+    difficulty: medium
+    stem: |-
+      The following histogram shows the marks scored by 40 students in a test of 30 marks. A student has to score a minimum of 10 marks to pass the test.  
+      What is the percentage of students who passed the test?
+
+      **Marks scored in 30 marks test**
+
+      | Marks | Number of students |
+      |---|---|
+      | 0-5 | 2 |
+      | 5-10 | 8 |
+      | 10-15 | 7 |
+      | 15-20 | 8 |
+      | 20-25 | 10 |
+      | 25-30 | 5 |
+
+      *(Figure: Histogram (x-axis: Marks 0-30 in intervals of 5; y-axis: Number of students); bar heights transcribed as the table in the stem.)*
+    options:
+      A: 75%
+      B: 30%
+      C: 72%
+      D: 66.66%
+    answer: A
+    explanation: Passed (10 marks or more) = 7 + 8 + 10 + 5 = 30 of 40 = 75%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q074
+    difficulty: medium
+    stem: |-
+      Performance of 1800 students in grades has been shown in the following pie chart.
+
+      The number of students getting grade B is what percentage of the number of students getting grade A?
+
+      | Grade | Percentage |
+      |---|---|
+      | Grade A | 30% |
+      | Grade B | 27% |
+      | Grade C | 24% |
+      | Grade D | 11% |
+      | Grade E | 8% |
+
+      *(Figure: Pie chart of grades A to E with percentages transcribed as the table in the stem.)*
+    options:
+      A: 97%
+      B: 90%
+      C: 95%
+      D: 85%
+    answer: B
+    explanation: 27/30 × 100 = 90%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q075
+    difficulty: medium
+    stem: If (2 cos A + 1)(2 cos A − 1) = 0, 0° < A ≤ 90°, then find the value of A.
+    options:
+      A: 90°
+      B: 45°
+      C: 30°
+      D: 60°
+    answer: D
+    explanation: cos A = ½ (−½ is outside the range), so A = 60°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-21-all-ss-shift1-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      If Vinay has the book why **he is not giving you**?
+    options:
+      A: he not giving it to you
+      B: is he not giving it to you
+      C: he is not gave to you
+      D: No substitution required
+    answer: B
+    explanation: "A question after 'why' needs the auxiliary before the subject and an object: 'why is he not giving it to you?'"
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q077
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A person above a hundred years in age
+    options:
+      A: Centenarian
+      B: Venerable
+      C: Aged
+      D: Geriatric
+    answer: A
+    explanation: A centenarian is a person who is a hundred years old or older.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Frenzy
+    options:
+      A: Craze
+      B: Rage
+      C: Calm
+      D: Fury
+    answer: C
+    explanation: Frenzy is wild excitement; its opposite is calm.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The new Vande Bharat trains will have some additional ______ such as emergency windows for evacuation, disaster lights etc.
+    options:
+      A: types
+      B: qualities
+      C: features
+      D: pieces
+    answer: C
+    explanation: Emergency windows and disaster lights are features (special parts) of the train.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q080
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in reported speech.
+
+      Mother said to her, “I expected a better result from you.”
+    options:
+      A: Mother told her that she had expected a better result from her.
+      B: Mother told her that she expected a better result from her.
+      C: Mother told her that she was expecting a better result from you.
+      D: Mother told her that she expected a better result from you.
+    answer: A
+    explanation: In reported speech the past simple 'expected' becomes past perfect 'had expected', and 'you' becomes 'her'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Hit a brick wall
+    options:
+      A: Demolish a brick wall
+      B: Not able to make any progress
+      C: Use physical force
+      D: Fight a powerful foe
+    answer: B
+    explanation: To hit a brick wall is to reach a point where no further progress is possible.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      To sit on the fence
+    options:
+      A: Occupy a bench next to a boundary
+      B: Avoid taking sides
+      C: Take a high seat
+      D: Place something on a barrier
+    answer: B
+    explanation: To sit on the fence is to avoid taking sides in a dispute.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q083
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A person who collects or studies stamps
+    options:
+      A: Numismatist
+      B: Hoarder
+      C: Collector
+      D: Philatelist
+    answer: D
+    explanation: A philatelist collects or studies stamps; a numismatist collects coins.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q084
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      Rishabh was declared fit to play the next match.
+    options:
+      A: Rishabh declared them fit to play the next match.
+      B: They will declare Rishabh fit to play the next match.
+      C: They declared Rishabh fit to play the next match.
+      D: They had declared Rishabh fit to play the next match.
+    answer: C
+    explanation: The passive 'was declared' is past simple, so the active is 'They declared Rishabh fit …'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      **Whom was the person** that you wanted me to contact there?
+    options:
+      A: No substitution required
+      B: Who is the person
+      C: Whom is the person
+      D: Whom were the persons
+    answer: B
+    explanation: "The pronoun is the subject complement of 'is', so 'who' is needed, not 'whom': 'Who is the person …'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q086
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. The British were exploiting the indigo farmers in the area.  
+      B. He lived in the district until the exploitation of the farmers was successfully stopped.  
+      C. Gandhiji’s Satyagraha for India’s Independence began with the famous ‘Champaran movement’ in Bihar.  
+      D. So, Gandhiji visited Motihari, the district headquarters of Champaran, in 1917 to protest against the British.
+    options:
+      A: ADBC
+      B: CABD
+      C: ACBD
+      D: CADB
+    answer: D
+    explanation: "C introduces Champaran, A gives the problem, D says Gandhiji went there, and B gives the outcome: CADB."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q087
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Paul was / bited by a dog / when he / was a child.
+    options:
+      A: when he
+      B: bited by a dog
+      C: Paul was
+      D: was a child
+    answer: B
+    explanation: The past participle of 'bite' is 'bitten', not 'bited'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q088
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      You and I / have submitted / your work / on time.
+    options:
+      A: on time
+      B: your work
+      C: have submitted
+      D: You and I
+    answer: B
+    explanation: "'You and I' takes the first-person plural possessive: 'our work', not 'your work'."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q089
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain a grammatical error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      They ordered the whole area / to be disinfected / on the earliest.
+    options:
+      A: to be disinfected
+      B: They ordered the whole area
+      C: on the earliest
+      D: No error
+    answer: C
+    explanation: The idiom is 'at the earliest', not 'on the earliest'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q090
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Voluntary
+      B: Disparity
+      C: Continuanse
+      D: Convincing
+    answer: C
+    explanation: The correct spelling is 'Continuance'.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Honest
+    options:
+      A: Secretive
+      B: Sincere
+      C: Daring
+      D: Strange
+    answer: B
+    explanation: Honest means truthful and genuine, i.e. sincere.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q092
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      I did not / buy neither / of the / two dresses.
+    options:
+      A: two dresses
+      B: of the
+      C: I did not
+      D: buy neither
+    answer: D
+    explanation: "'Did not' is already negative, so 'either' is needed instead of 'neither' (no double negative)."
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q093
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      She baked a large blueberry cake.
+    options:
+      A: A large blueberry cake was being baked by her
+      B: A large blueberry cake has been baked by her.
+      C: A large blueberry cake was baked by her.
+      D: A large blueberry cake is baked by her.
+    answer: C
+    explanation: The past simple active 'baked' becomes 'was baked' in the passive.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      GRACEFUL
+    options:
+      A: Awkward
+      B: Dignified
+      C: Refined
+      D: Polite
+    answer: A
+    explanation: Graceful means elegant in movement; its opposite is awkward.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Imbue
+    options:
+      A: Remove
+      B: Clear
+      C: Instil
+      D: Deprive
+    answer: C
+    explanation: To imbue is to fill or inspire with a quality, i.e. to instil.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Select the most appropriate option to fill in each blank.
+
+      (1) ______ changes in science and technology lead to modernisation of technology as well as upgradation of knowledge. In order to upgrade or modernise technology, management must (2) ______ employees to accept new technology. (3) ______ training of staff becomes necessary to update their knowledge and to (4) ______ their skills. This is possible only (5) ______ effective communication between the management and the employees.
+
+      Select the most appropriate option for blank 1.
+    options:
+      A: No
+      B: Slow
+      C: Ultimate
+      D: Rapid
+    answer: D
+    explanation: Rapid changes in science lead to modernisation, matching the passage's need to keep updating knowledge.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Select the most appropriate option to fill in each blank.
+
+      (1) ______ changes in science and technology lead to modernisation of technology as well as upgradation of knowledge. In order to upgrade or modernise technology, management must (2) ______ employees to accept new technology. (3) ______ training of staff becomes necessary to update their knowledge and to (4) ______ their skills. This is possible only (5) ______ effective communication between the management and the employees.
+
+      Select the most appropriate option for blank 2.
+    options:
+      A: dissuade
+      B: discourage
+      C: persuade
+      D: deactivate
+    answer: C
+    explanation: Management must persuade (convince) employees to accept new technology.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Select the most appropriate option to fill in each blank.
+
+      (1) ______ changes in science and technology lead to modernisation of technology as well as upgradation of knowledge. In order to upgrade or modernise technology, management must (2) ______ employees to accept new technology. (3) ______ training of staff becomes necessary to update their knowledge and to (4) ______ their skills. This is possible only (5) ______ effective communication between the management and the employees.
+
+      Select the most appropriate option for blank 3.
+    options:
+      A: Intermittent
+      B: Irregular
+      C: Regular
+      D: Improper
+    answer: C
+    explanation: Regular training keeps the staff's knowledge up to date.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Select the most appropriate option to fill in each blank.
+
+      (1) ______ changes in science and technology lead to modernisation of technology as well as upgradation of knowledge. In order to upgrade or modernise technology, management must (2) ______ employees to accept new technology. (3) ______ training of staff becomes necessary to update their knowledge and to (4) ______ their skills. This is possible only (5) ______ effective communication between the management and the employees.
+
+      Select the most appropriate option for blank 4.
+    options:
+      A: hamper
+      B: enhance
+      C: imitate
+      D: decrease
+    answer: B
+    explanation: Training aims to enhance (improve) skills.
+    tags:
+      - english
+  - slug: cgl-2022-04-21-all-ss-shift1-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Select the most appropriate option to fill in each blank.
+
+      (1) ______ changes in science and technology lead to modernisation of technology as well as upgradation of knowledge. In order to upgrade or modernise technology, management must (2) ______ employees to accept new technology. (3) ______ training of staff becomes necessary to update their knowledge and to (4) ______ their skills. This is possible only (5) ______ effective communication between the management and the employees.
+
+      Select the most appropriate option for blank 5.
+    options:
+      A: by
+      B: through
+      C: throughout
+      D: with
+    answer: B
+    explanation: "'Through' expresses the means: possible only through effective communication."
+    tags:
+      - english
