@@ -1,0 +1,53 @@
+{
+  "exam": "demo",
+  "papers": 8,
+  "questions": 1183,
+  "generated": "2026-11-24",
+  "subjects": [
+    {
+      "key": "polity",
+      "name": "Polity",
+      "questions": 12,
+      "perPaper": 1.5,
+      "topics": [
+        {
+          "key": "constitution",
+          "name": "Constitution",
+          "questions": 12,
+          "chapters": [
+            { "name": "Preamble", "questions": 2, "papers": 2, "learn": [] },
+            { "name": "Fundamental Rights", "questions": 10, "papers": 4, "learn": ["Articles 12-35"], "note": "Asked almost every year." }
+          ]
+        },
+        { "key": "empty", "name": "Empty topic", "questions": 0, "chapters": [] }
+      ]
+    },
+    {
+      "key": "history",
+      "name": "History",
+      "questions": 40,
+      "perPaper": 5,
+      "topics": [
+        {
+          "key": "modern",
+          "name": "Modern India",
+          "questions": 15,
+          "chapters": [
+            { "name": "Revolutionary Movement", "questions": 4, "papers": 3, "bihar": 1, "learn": [] },
+            { "name": "Champaran Satyagraha", "questions": 10, "papers": 6, "bihar": 10, "learn": ["Gandhi's first satyagraha in India"] },
+            { "name": "Quit India Movement", "questions": 1, "papers": 1 }
+          ]
+        },
+        {
+          "key": "events",
+          "name": "Recent events",
+          "questions": 25,
+          "chapters": [
+            { "name": "Awards", "questions": 6, "papers": 6, "current": 4, "learn": [] },
+            { "name": "Summits", "questions": 4, "papers": 6, "current": 2, "learn": [] }
+          ]
+        }
+      ]
+    }
+  ]
+}
