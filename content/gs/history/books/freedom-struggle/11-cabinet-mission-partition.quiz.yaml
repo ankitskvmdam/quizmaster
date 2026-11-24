@@ -1,0 +1,178 @@
+# Section 11 — Cabinet Mission, Interim Government and Partition
+# ---------- Previous-year questions ----------
+- slug: fs-cab-01
+  difficulty: easy
+  stem: "Who was the Finance Minister in the Interim Government?"
+  options: { A: "Liaquat Ali Khan", B: "Sardar Patel", C: "M. A. Jinnah", D: "Jawaharlal Nehru", E: "None of the above/More than one of the above" }
+  answer: A
+  explanation: "Liaquat Ali Khan of the Muslim League held Finance in the Interim Government after the League joined it in October 1946."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-cab-02
+  difficulty: medium
+  stem: "Which of the following events happened first?"
+  options: { A: "Quit India Resolution", B: "Arrival of the Cripps Mission", C: "Arrival of Lord Wavell as the Governor General", D: "Arrival of the Cabinet Mission", E: "None of the above/More than one of the above" }
+  answer: B
+  explanation: "The order is: Cripps Mission (March 1942), Quit India Resolution (August 1942), Wavell as Viceroy (October 1943), Cabinet Mission (March 1946)."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-cab-03
+  difficulty: easy
+  stem: "What portfolio Rajendra Prasad held in the Interim Government established in 1946 AD?"
+  options: { A: "Finance", B: "Defence", C: "Home", D: "Food and Agriculture", E: "None of the above/More than one of the above" }
+  answer: D
+  explanation: "Rajendra Prasad held Food and Agriculture in the Interim Government of 1946."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-cab-04
+  difficulty: medium
+  stem: "On February 20, 1947, Prime Minister Attlee announced the British Government’s decision to withdraw from India latest by"
+  options: { A: "August 1947", B: "January 1948", C: "June 1948", D: "More than one of the above", E: "None of the above" }
+  answer: C
+  explanation: "On 20 February 1947 Attlee announced that the British would leave India by June 1948."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-cab-05
+  difficulty: easy
+  stem: "Who among the following headed the two Boundary Commissions set up to delineate the international frontiers between India and Pakistan in 1947?"
+  options: { A: "A. P. Moon", B: "A. V. Alexander", C: "Cyril Radcliffe", D: "More than one of the above", E: "None of the above" }
+  answer: C
+  explanation: "Sir Cyril Radcliffe was the chairman of both the Punjab and the Bengal Boundary Commissions."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-cab-06
+  difficulty: hard
+  stem: |
+    The Cabinet Mission was sent to India for which of the following?
+
+    1. To establish a national government
+    2. To work out a constitutional arrangement for the transfer of power
+    3. To work out the details of Jinnah’s demand for Pakistan
+  options: { A: "1 only", B: "2 only", C: "3 only", D: "More than one of the above", E: "None of the above" }
+  answer: B
+  explanation: "The Cabinet Mission (1946) was sent to work out a constitutional arrangement for the transfer of power; its plan rejected the demand for Pakistan."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-cab-07
+  difficulty: medium
+  stem: "Who among the following was not the member of the Cabinet Mission?"
+  options: { A: "P. Lawrence", B: "A. V. Alexander", C: "J. Andrew", D: "None of them" }
+  answer: C
+  explanation: "The members of the Cabinet Mission were Pethick-Lawrence, Stafford Cripps and A.V. Alexander; there was no J. Andrew."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-cab-08
+  difficulty: easy
+  stem: "When did Muslim League observed “Direct Action Day” ?"
+  options: { A: "14 August 1946", B: "15 August 1947", C: "16 August 1946", D: "More than one of the above" }
+  answer: C
+  explanation: "The Muslim League observed Direct Action Day on 16 August 1946; it led to the Great Calcutta Killings."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-cab-09
+  difficulty: medium
+  stem: "Who raised the cry “Divide and Quit”?"
+  options: { A: "M.A. Ansari", B: "M.A. Jinnah", C: "Jawaharlal Nehru", D: "Muhammad Iqbal" }
+  answer: B
+  explanation: "Jinnah answered the Congress call of 'Quit India' with 'Divide and Quit'."
+  source: "BPSC 71st Prelims"
+
+- slug: fs-cab-10
+  difficulty: easy
+  stem: "Which Act provided for the partition of India into two new dominions - India and Pakistan?"
+  options: { A: "Govt. of India Act, 1919", B: "Govt. of India Act, 1935", C: "Indian Independence Act, 1947", D: "None of the above" }
+  answer: C
+  explanation: "The Indian Independence Act, 1947 created the two dominions of India and Pakistan from 15 August 1947."
+  source: "BPSC 71st Prelims"
+
+# ---------- New questions ----------
+- slug: fs-cab-11
+  difficulty: medium
+  stem: "Who was the chairman of the Cabinet Mission of 1946?"
+  options: { A: "Lord Pethick-Lawrence", B: "Sir Stafford Cripps", C: "A.V. Alexander", D: "Clement Attlee" }
+  answer: A
+  explanation: "Lord Pethick-Lawrence, the Secretary of State for India, was the chairman; Cripps and Alexander were the other two members."
+
+- slug: fs-cab-12
+  difficulty: medium
+  stem: "At which conference in June 1945 was the Wavell Plan discussed?"
+  options: { A: "Lahore Conference", B: "Delhi Conference", C: "Karachi Conference", D: "Shimla Conference" }
+  answer: D
+  explanation: "The Wavell Plan was discussed at the Shimla Conference, which met on 25 June 1945 and failed over the League's claim to name all the Muslim members."
+
+- slug: fs-cab-13
+  difficulty: hard
+  stem: "How many members was the Constituent Assembly to have under the Cabinet Mission Plan?"
+  options: { A: "389", B: "292", C: "296", D: "299" }
+  answer: A
+  explanation: "The plan provided for 389 members: 292 from the provinces, 4 from the chief commissioners' provinces and 93 from the princely states."
+
+- slug: fs-cab-14
+  difficulty: easy
+  stem: "Who headed the Interim Government formed on 2 September 1946, as Vice-President of the Viceroy's Executive Council?"
+  options: { A: "Vallabhbhai Patel", B: "Rajendra Prasad", C: "Maulana Abul Kalam Azad", D: "Jawaharlal Nehru" }
+  answer: D
+  explanation: "Jawaharlal Nehru was the Vice-President of the Viceroy's Executive Council and held External Affairs."
+
+- slug: fs-cab-15
+  difficulty: medium
+  stem: "Who held the Labour portfolio in the Interim Government of 1946?"
+  options: { A: "Baldev Singh", B: "Jagjivan Ram", C: "Asaf Ali", D: "John Matthai" }
+  answer: B
+  explanation: "Jagjivan Ram of Bihar held Labour. Baldev Singh held Defence, Asaf Ali Railways and John Matthai Industries and Supplies."
+
+- slug: fs-cab-16
+  difficulty: hard
+  stem: "Who was the temporary chairman of the Constituent Assembly when it first met on 9 December 1946?"
+  options: { A: "Sachchidananda Sinha", B: "Rajendra Prasad", C: "Jawaharlal Nehru", D: "B.R. Ambedkar" }
+  answer: A
+  explanation: "Dr. Sachchidananda Sinha of Bihar was the temporary chairman; Rajendra Prasad was elected permanent president on 11 December 1946."
+
+- slug: fs-cab-17
+  difficulty: medium
+  stem: "The Mountbatten Plan for the partition of India was announced on"
+  options: { A: "20 February 1947", B: "16 May 1946", C: "18 July 1947", D: "3 June 1947" }
+  answer: D
+  explanation: "The Mountbatten Plan was announced on 3 June 1947, so it is also called the 3rd June Plan."
+
+- slug: fs-cab-18
+  difficulty: hard
+  stem: "In which group of provinces did the Cabinet Mission Plan place Bihar?"
+  options: { A: "Section A", B: "Section B", C: "Section C", D: "It was not placed in any group" }
+  answer: A
+  explanation: "Section A had Madras, Bombay, U.P., Bihar, the Central Provinces and Orissa. Section B was Punjab, NWFP and Sind; Section C was Bengal and Assam."
+
+- slug: fs-cab-19
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Indian Independence Act, 1947:
+
+    1. It provided for two dominions, India and Pakistan.
+    2. British paramountcy over the princely states lapsed under it.
+    3. It abolished the office of the Secretary of State for India.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3" }
+  answer: D
+  explanation: "All three are correct: the Act created the two dominions, ended British paramountcy over the states and abolished the office of the Secretary of State for India."
+
+- slug: fs-cab-20
+  difficulty: medium
+  stem: "Who was the first Governor-General of free India?"
+  options: { A: "C. Rajagopalachari", B: "Lord Mountbatten", C: "Rajendra Prasad", D: "Lord Wavell" }
+  answer: B
+  explanation: "Lord Mountbatten stayed on as the first Governor-General of free India; C. Rajagopalachari succeeded him in June 1948 as the first Indian Governor-General."
+
+- slug: fs-cab-21
+  difficulty: hard
+  stem: "Who held the Defence portfolio in the Interim Government of 1946?"
+  options: { A: "Vallabhbhai Patel", B: "C. Rajagopalachari", C: "Liaquat Ali Khan", D: "Baldev Singh" }
+  answer: D
+  explanation: "Baldev Singh held Defence. Patel held Home and Information and Broadcasting."
+
+- slug: fs-cab-22
+  difficulty: easy
+  stem: "Who was the Viceroy of India when the Cabinet Mission came in 1946?"
+  options: { A: "Lord Wavell", B: "Lord Linlithgow", C: "Lord Mountbatten", D: "Lord Willingdon" }
+  answer: A
+  explanation: "Lord Wavell was Viceroy from October 1943 to March 1947; Mountbatten replaced him in March 1947."

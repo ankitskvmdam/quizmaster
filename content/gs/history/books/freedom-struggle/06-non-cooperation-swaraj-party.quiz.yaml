@@ -1,0 +1,167 @@
+# Section 6 — Non-Cooperation Movement and Swaraj Party
+# ---------- Previous-year questions ----------
+- slug: fs-ncm-01
+  difficulty: easy
+  stem: "Who established Swaraj Party in 1923?"
+  options: { A: "Mahatma Gandhi", B: "Vallabhbhai Patel", C: "C. R. Das and Motilal Nehru", D: "B. R. Ambedkar", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "C.R. Das and Motilal Nehru founded the Swaraj Party on 1 January 1923, after the Gaya session rejected council entry."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-ncm-02
+  difficulty: hard
+  stem: |
+    Which of the following statements are **not** correct regarding the Non-Cooperation Movement in the towns?
+
+    1. Only the upper caste and the rich took part in the movement.
+    2. The council elections were boycotted even by the Justice Party of Madras.
+    3. Thousands of students left government-controlled schools, headmasters and teachers resigned and lawyers gave up their practice.
+  options: { A: "1 and 3 only", B: "2 and 3 only", C: "1 and 2 only", D: "More than one of the above", E: "None of the above" }
+  answer: C
+  explanation: "Statement 1 is wrong because the middle classes took part in the towns. Statement 2 is wrong because the Justice Party of Madras contested the council elections. Statement 3 is correct."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-ncm-03
+  difficulty: medium
+  stem: "Who established Swaraj Dal in Bihar?"
+  options: { A: "Shri Krishna Singh", B: "Ramlal Shah", C: "Bankim Chandra Mitra", D: "More than one of the above", E: "None of the above" }
+  answer: A
+  explanation: "Shri Krishna Singh is credited with setting up the Swaraj Dal in Bihar."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-ncm-04
+  difficulty: easy
+  stem: "After the ______, Mahatma Gandhi called off the Non-Cooperation Movement."
+  options: { A: "Jallianwala Bagh massacre", B: "Chauri Chaura incidence", C: "Bengal partition", D: "Round Table conferences" }
+  answer: B
+  explanation: "Gandhi called off the Non-Cooperation Movement in February 1922 after the violence at Chauri Chaura."
+  source: "SSC CGL 2022"
+
+- slug: fs-ncm-05
+  difficulty: medium
+  stem: "In which city was the Jhanda Satyagraha or Flag Satyagraha of 1923 held?"
+  options: { A: "Bombay", B: "Nagpur", C: "Calcutta", D: "Ahmedabad" }
+  answer: B
+  explanation: "The Flag Satyagraha (Jhanda Satyagraha) of 1923 was held at Nagpur."
+  source: "SSC CGL 2019"
+
+# ---------- New questions ----------
+- slug: fs-ncm-06
+  difficulty: easy
+  stem: "Chauri Chaura, where a police station was burnt in February 1922, is in which district?"
+  options: { A: "Gorakhpur", B: "Allahabad", C: "Varanasi", D: "Lucknow" }
+  answer: A
+  explanation: "Chauri Chaura is in Gorakhpur district of Uttar Pradesh; 22 policemen died there on 5 February 1922."
+
+- slug: fs-ncm-07
+  difficulty: easy
+  stem: "Which session of the Congress, held in December 1920, confirmed the programme of non-cooperation?"
+  options: { A: "Lucknow", B: "Amritsar", C: "Ahmedabad", D: "Nagpur" }
+  answer: D
+  explanation: "The Nagpur session of December 1920 confirmed non-cooperation, which the special session at Calcutta had approved in September 1920."
+
+- slug: fs-ncm-08
+  difficulty: medium
+  stem: "Who presided over the special session of the Congress at Calcutta in September 1920, which approved non-cooperation?"
+  options: { A: "C. Vijayaraghavachariar", B: "Motilal Nehru", C: "Lala Lajpat Rai", D: "C.R. Das" }
+  answer: C
+  explanation: "Lala Lajpat Rai presided over the special session at Calcutta in September 1920. C. Vijayaraghavachariar presided at Nagpur in December 1920."
+
+- slug: fs-ncm-09
+  difficulty: medium
+  stem: "Which leader died on 1 August 1920, the day the Non-Cooperation Movement was launched?"
+  options: { A: "Gopal Krishna Gokhale", B: "Bal Gangadhar Tilak", C: "Dadabhai Naoroji", D: "Pherozeshah Mehta" }
+  answer: B
+  explanation: "Bal Gangadhar Tilak died on 1 August 1920, the day the Non-Cooperation Movement began."
+
+- slug: fs-ncm-10
+  difficulty: medium
+  stem: "Who among the following was a 'no-changer'?"
+  options: { A: "C.R. Das", B: "Motilal Nehru", C: "Vithalbhai Patel", D: "C. Rajagopalachari" }
+  answer: D
+  explanation: "C. Rajagopalachari, Vallabhbhai Patel and Rajendra Prasad were no-changers who opposed council entry. Das, Motilal Nehru and Vithalbhai Patel were pro-changers."
+
+- slug: fs-ncm-11
+  difficulty: hard
+  stem: "Who was elected president (Speaker) of the Central Legislative Assembly in 1925, the first Indian to hold the post?"
+  options: { A: "Vithalbhai Patel", B: "Motilal Nehru", C: "Madan Mohan Malaviya", D: "M.R. Jayakar" }
+  answer: A
+  explanation: "Vithalbhai Patel, a Swarajist, was elected president of the Central Legislative Assembly in 1925."
+
+- slug: fs-ncm-12
+  difficulty: hard
+  stem: "How many of the 101 elected seats in the Central Legislative Assembly did the Swarajists win in the elections of 1923?"
+  options: { A: "22", B: "35", C: "42", D: "58" }
+  answer: C
+  explanation: "The Swarajists won 42 of the 101 elected seats in the Central Legislative Assembly in 1923."
+
+- slug: fs-ncm-13
+  difficulty: hard
+  stem: "Who was the secretary of the Swaraj Party when it was founded in 1923?"
+  options: { A: "C.R. Das", B: "Vithalbhai Patel", C: "Hakim Ajmal Khan", D: "Motilal Nehru" }
+  answer: D
+  explanation: "C.R. Das was the president and Motilal Nehru the secretary of the Swaraj Party."
+
+- slug: fs-ncm-14
+  difficulty: medium
+  stem: "Who founded the Sadaqat Ashram at Patna during the Non-Cooperation Movement?"
+  options: { A: "Mazharul Haque", B: "Rajendra Prasad", C: "Shri Krishna Singh", D: "Brajkishore Prasad" }
+  answer: A
+  explanation: "Mazharul Haque founded the Sadaqat Ashram at Patna in 1921; he also started the paper 'The Motherland' that year."
+
+- slug: fs-ncm-15
+  difficulty: easy
+  stem: "Who among the following was known as 'Deshbandhu'?"
+  options: { A: "Motilal Nehru", B: "Chittaranjan Das", C: "Lala Lajpat Rai", D: "Vithalbhai Patel" }
+  answer: B
+  explanation: "Chittaranjan Das, the first president of the Swaraj Party, was known as 'Deshbandhu'. He died in June 1925."
+
+- slug: fs-ncm-16
+  difficulty: hard
+  stem: "Who presided over the Ahmedabad session of the Congress in 1921 in place of C.R. Das, who was in jail?"
+  options: { A: "Mahatma Gandhi", B: "Maulana Abul Kalam Azad", C: "M.A. Ansari", D: "Hakim Ajmal Khan" }
+  answer: D
+  explanation: "C.R. Das was the president-elect but was in jail, so Hakim Ajmal Khan presided over the Ahmedabad session of 1921."
+
+- slug: fs-ncm-17
+  difficulty: medium
+  stem: "Which of the following was NOT part of the boycott programme of the Non-Cooperation Movement?"
+  options: { A: "Boycott of law courts", B: "Boycott of legislative councils", C: "Non-payment of the salt tax", D: "Boycott of foreign cloth" }
+  answer: C
+  explanation: "The programme was the boycott of titles, government schools, law courts, councils and foreign cloth. The salt tax was defied later, in the Civil Disobedience Movement of 1930."
+
+- slug: fs-ncm-18
+  difficulty: hard
+  stem: |
+    Consider the following statements:
+
+    1. The Swaraj Party was formed after the Gaya session of the Congress rejected council entry.
+    2. Vallabhbhai Patel and Rajendra Prasad were pro-changers.
+    3. The special session at Delhi in 1923 allowed Congressmen to contest elections.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 and 3 only", B: "1 only", C: "2 and 3 only", D: "1, 2 and 3" }
+  answer: A
+  explanation: "Statements 1 and 3 are correct. Vallabhbhai Patel and Rajendra Prasad were no-changers, who opposed council entry."
+
+- slug: fs-ncm-19
+  difficulty: easy
+  stem: "Who was the Viceroy of India when the Non-Cooperation Movement was called off in 1922?"
+  options: { A: "Lord Chelmsford", B: "Lord Irwin", C: "Lord Hardinge", D: "Lord Reading" }
+  answer: D
+  explanation: "Lord Reading became Viceroy in 1921 and was in office when the movement was called off in February 1922."
+
+- slug: fs-ncm-20
+  difficulty: hard
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Chauri Chaura incident
+    2. Founding of the Swaraj Party
+    3. Nagpur session of the Congress
+    4. Death of C.R. Das
+
+    Select the correct answer using the code given below.
+  options: { A: "1, 3, 2, 4", B: "3, 2, 1, 4", C: "3, 1, 2, 4", D: "3, 1, 4, 2" }
+  answer: C
+  explanation: "Nagpur session December 1920, Chauri Chaura February 1922, Swaraj Party January 1923, death of C.R. Das June 1925."

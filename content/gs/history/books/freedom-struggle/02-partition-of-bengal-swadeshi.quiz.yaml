@@ -1,0 +1,162 @@
+# Section 2 — Partition of Bengal and Swadeshi Movement
+# ---------- Previous-year questions ----------
+- slug: fs-swd-01
+  difficulty: easy
+  stem: "Which movement was started as a reaction to the Partition of Bengal?"
+  options: { A: "Non-Cooperation Movement", B: "Civil Disobedience Movement", C: "Swadeshi Movement", D: "Purna Swaraj Movement", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "The Swadeshi Movement began in 1905 as a protest against the Partition of Bengal."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-swd-02
+  difficulty: medium
+  stem: "The Swadeshi and Boycott were adopted as the methods of struggle for the first time during the"
+  options: { A: "visit of the Simon Commission to India", B: "Partition of Bengal", C: "Home Rule Movement", D: "More than one of the above", E: "None of the above" }
+  answer: B
+  explanation: "Swadeshi and boycott were first adopted as methods of struggle in the movement against the Partition of Bengal in 1905."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-swd-03
+  difficulty: medium
+  stem: "Which of the following parties supported the move for partition of Bengal?"
+  options: { A: "Gadar Party", B: "Forward Bloc", C: "All India Muslim League", D: "Communist Party of India" }
+  answer: C
+  explanation: "The All India Muslim League, founded at Dacca in 1906, supported the Partition of Bengal, which had created a Muslim-majority province."
+  source: "SSC CGL 2021"
+
+- slug: fs-swd-04
+  difficulty: easy
+  stem: "Partition of Bengal held in ______."
+  options: { A: "1901", B: "1903", C: "1905", D: "1907" }
+  answer: C
+  explanation: "Lord Curzon partitioned Bengal in 1905; the partition came into force on 16 October 1905."
+  source: "SSC CGL 2022"
+
+- slug: fs-swd-05
+  difficulty: easy
+  stem: "Which of the following events occurred first during the Indian National Movement?"
+  options: { A: "Arrival of Simon Commission", B: "Partition of Bengal", C: "Kheda Satyagraha", D: "Dandi March" }
+  answer: B
+  explanation: "The Partition of Bengal was in 1905; the Kheda Satyagraha was in 1918, the Simon Commission came in 1928 and the Dandi March was in 1930."
+  source: "SSC CGL 2021"
+
+# ---------- New questions ----------
+- slug: fs-swd-06
+  difficulty: easy
+  stem: "Who was the Viceroy of India when Bengal was partitioned in 1905?"
+  options: { A: "Lord Curzon", B: "Lord Minto", C: "Lord Hardinge", D: "Lord Dufferin" }
+  answer: A
+  explanation: "Lord Curzon, Viceroy from 1899 to 1905, partitioned Bengal in 1905."
+
+- slug: fs-swd-07
+  difficulty: medium
+  stem: "Who said that the announcement of the Partition of Bengal \"fell like a bombshell\"?"
+  options: { A: "Bal Gangadhar Tilak", B: "Gopal Krishna Gokhale", C: "Aurobindo Ghosh", D: "Surendranath Banerjea" }
+  answer: D
+  explanation: "Surendranath Banerjea, who led the early anti-partition agitation, said that the announcement fell like a bombshell."
+
+- slug: fs-swd-08
+  difficulty: medium
+  stem: "On which date did the Partition of Bengal come into force?"
+  options: { A: "16 October 1905", B: "7 August 1905", C: "15 August 1906", D: "30 December 1906" }
+  answer: A
+  explanation: "The partition came into force on 16 October 1905, which was observed in Bengal as a day of mourning. The boycott resolution had been passed on 7 August 1905."
+
+- slug: fs-swd-09
+  difficulty: easy
+  stem: "The Partition of Bengal was annulled in"
+  options: { A: "1907", B: "1909", C: "1912", D: "1911" }
+  answer: D
+  explanation: "The annulment of the partition was announced at the Delhi Durbar of King George V in 1911."
+
+- slug: fs-swd-10
+  difficulty: medium
+  stem: "Which city was the capital of the new province of Eastern Bengal and Assam created in 1905?"
+  options: { A: "Chittagong", B: "Dacca", C: "Shillong", D: "Calcutta" }
+  answer: B
+  explanation: "Dacca was the capital of Eastern Bengal and Assam; Calcutta remained the capital of the rest of Bengal."
+
+- slug: fs-swd-11
+  difficulty: hard
+  stem: "Where was the boycott resolution passed on 7 August 1905, formally starting the Swadeshi Movement?"
+  options: { A: "Federation Hall, Calcutta", B: "Barisal", C: "Banaras", D: "Town Hall, Calcutta" }
+  answer: D
+  explanation: "The boycott resolution was passed at a meeting in the Calcutta Town Hall on 7 August 1905."
+
+- slug: fs-swd-12
+  difficulty: easy
+  stem: "Who wrote the song 'Amar Sonar Bangla' during the Swadeshi Movement?"
+  options: { A: "Rabindranath Tagore", B: "Bankim Chandra Chatterjee", C: "Kazi Nazrul Islam", D: "Aurobindo Ghosh" }
+  answer: A
+  explanation: "Rabindranath Tagore wrote 'Amar Sonar Bangla' during the anti-partition movement; it is now the national anthem of Bangladesh."
+
+- slug: fs-swd-13
+  difficulty: hard
+  stem: "The Swadesh Bandhab Samiti of Barisal was founded by"
+  options: { A: "Krishna Kumar Mitra", B: "Bipin Chandra Pal", C: "Ashwini Kumar Dutt", D: "Ananda Mohan Bose" }
+  answer: C
+  explanation: "Ashwini Kumar Dutt set up the Swadesh Bandhab Samiti at Barisal; it was the best-known volunteer body of the Swadeshi Movement."
+
+- slug: fs-swd-14
+  difficulty: hard
+  stem: "Who started the Swadeshi Steam Navigation Company at Tuticorin in 1906?"
+  options: { A: "Subramania Bharati", B: "V.O. Chidambaram Pillai", C: "P.C. Ray", D: "G. Subramania Iyer" }
+  answer: B
+  explanation: "V.O. Chidambaram Pillai started the Swadeshi Steam Navigation Company at Tuticorin in 1906 to compete with British shipping."
+
+- slug: fs-swd-15
+  difficulty: medium
+  stem: "Where was the All India Muslim League founded in December 1906?"
+  options: { A: "Aligarh", B: "Lucknow", C: "Simla", D: "Dacca" }
+  answer: D
+  explanation: "The All India Muslim League was founded at Dacca in December 1906, with Nawab Salimullah of Dacca as host."
+
+- slug: fs-swd-16
+  difficulty: hard
+  stem: "Who was the first principal of the Bengal National College, set up during the Swadeshi Movement?"
+  options: { A: "Aurobindo Ghosh", B: "Rabindranath Tagore", C: "Satish Chandra Mukherjee", D: "Surendranath Banerjea" }
+  answer: A
+  explanation: "Aurobindo Ghosh was the first principal of the Bengal National College, which came up under the National Council of Education of 1906."
+
+- slug: fs-swd-17
+  difficulty: medium
+  stem: "Bihar and Orissa were separated from Bengal and made a new province in"
+  options: { A: "1905", B: "1911", C: "1912", D: "1936" }
+  answer: C
+  explanation: "After the annulment of the partition, Bihar and Orissa became a separate province in 1912 with Patna as the capital. Orissa was separated from Bihar in 1936."
+
+- slug: fs-swd-18
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Partition of Bengal:
+
+    1. The province of Eastern Bengal and Assam had its capital at Dacca.
+    2. The partition was annulled when Lord Minto was the Viceroy.
+    3. The annulment was announced at the Delhi Durbar of King George V.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1 and 3 only" }
+  answer: D
+  explanation: "Statements 1 and 3 are correct. The partition was annulled in 1911, when Lord Hardinge, not Lord Minto, was the Viceroy."
+
+- slug: fs-swd-19
+  difficulty: hard
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Surat Split
+    2. Founding of the Muslim League
+    3. Partition of Bengal
+    4. Morley-Minto Reforms
+
+    Select the correct answer using the code given below.
+  options: { A: "3, 2, 1, 4", B: "3, 1, 2, 4", C: "2, 3, 1, 4", D: "3, 2, 4, 1" }
+  answer: A
+  explanation: "Partition of Bengal 1905, Muslim League 1906, Surat Split 1907, Morley-Minto Reforms 1909."
+
+- slug: fs-swd-20
+  difficulty: medium
+  stem: "Who painted 'Bharat Mata' in 1905, during the Swadeshi Movement?"
+  options: { A: "Nandalal Bose", B: "Abanindranath Tagore", C: "Raja Ravi Varma", D: "Rabindranath Tagore" }
+  answer: B
+  explanation: "Abanindranath Tagore painted 'Bharat Mata' in 1905 and led the Bengal school of art."

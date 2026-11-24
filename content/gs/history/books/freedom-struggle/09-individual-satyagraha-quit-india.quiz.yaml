@@ -1,0 +1,150 @@
+# Section 9 — Individual Satyagraha and Quit India Movement
+# ---------- Previous-year questions ----------
+- slug: fs-qim-01
+  difficulty: medium
+  stem: "During Quit India Movement, who among the following escaped from the Hazaribagh Jail?"
+  options: { A: "Sachchidananda Sinha", B: "Jayaprakash Narayan", C: "Jagjivan Ram", D: "Rafi Ahmed Kidwai", E: "None of the above/More than one of the above" }
+  answer: B
+  explanation: "Jayaprakash Narayan escaped from Hazaribagh Central Jail on the night of Diwali in November 1942. BPSC cancelled this sitting, so there is no official key."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-qim-02
+  difficulty: medium
+  stem: "In 1940, Vinoba Bhave started individual Satyagraha from"
+  options: { A: "Nadiad in Kheda district, Gujarat", B: "Pavnar, Maharashtra", C: "Punnapra-Vayalar, Kerala", D: "More than one of the above", E: "None of the above" }
+  answer: B
+  explanation: "Vinoba Bhave, the first individual satyagrahi, began the satyagraha at Pavnar near Wardha in October 1940."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-qim-03
+  difficulty: easy
+  stem: "Who gave the slogan “DO OR DIE” and when ?"
+  options: { A: "Subhash Chandra Bose during Quit India Movement", B: "Jawahar Lal Nehru during Non-cooperation Movement", C: "Gandhiji during Quit India Movement", D: "More than one of the above" }
+  answer: C
+  explanation: "Gandhi gave the call 'Do or Die' in his speech at Gowalia Tank, Bombay, on 8 August 1942, at the start of the Quit India Movement."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-qim-04
+  difficulty: hard
+  stem: "During the Quit India Movement parallel ‘National Government’ was established at many places. Which of the following is **not** correctly matched ?"
+  options: { A: "Prati Sarkar – Satara (Maharashtra)", B: "Raiyati Sarkar – Kheda (Gujarat)", C: "Jatiy Sarkar – Tamluk (Bengal)", D: "Praja Mandal – Talchar (Orissa)" }
+  answer: B
+  explanation: "Parallel governments were set up at Satara (Prati Sarkar), Tamluk (Jatiya Sarkar), Talcher and Ballia; there was none at Kheda."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-qim-05
+  difficulty: easy
+  stem: "“We shall either free India or die in the attempt …” who said it?"
+  options: { A: "Jawaharlal Nehru", B: "Mahatma Gandhi", C: "Abul Kalam Azad", D: "V.D. Savarkar" }
+  answer: B
+  explanation: "These words are from Gandhi's 'Do or Die' speech of 8 August 1942, which launched the Quit India Movement."
+  source: "BPSC 71st Prelims"
+
+- slug: fs-qim-06
+  difficulty: medium
+  stem: "Who among the following freedom fighters hoisted the Indian flag at the Gowalia Tank Maidan in Mumbai during the Quit India Movement?"
+  options: { A: "Aruna Asaf Ali", B: "Sarojini Naidu", C: "Tara Rani Srivastava", D: "Matangini Hazra" }
+  answer: A
+  explanation: "Aruna Asaf Ali hoisted the flag at Gowalia Tank Maidan on 9 August 1942, after the leaders had been arrested."
+  source: "SSC CGL 2021"
+
+- slug: fs-qim-07
+  difficulty: hard
+  stem: "Who among the following was the only martyr of the Quit India phase of the freedom movement who was hanged?"
+  options: { A: "Potti Sreeramulu", B: "Senapati Bapat", C: "Kushal Konwar", D: "Kanaiyalal Maneklal Munshi" }
+  answer: C
+  explanation: "Kushal Konwar of Assam was hanged in 1943; he is known as the only martyr of the Quit India Movement to be hanged."
+  source: "SSC CGL 2021"
+
+- slug: fs-qim-08
+  difficulty: easy
+  stem: "Which leader gave us the C R Formula?"
+  options: { A: "Tilak", B: "C. R. Das", C: "Mahatma Gandhi", D: "C. Rajagopalachari" }
+  answer: D
+  explanation: "The C.R. Formula of 1944, a plan for a settlement between the Congress and the Muslim League, was put forward by C. Rajagopalachari."
+  source: "SSC CGL 2019"
+
+# ---------- New questions ----------
+- slug: fs-qim-09
+  difficulty: easy
+  stem: "Who was the second individual satyagrahi, after Vinoba Bhave, in 1940?"
+  options: { A: "Jawaharlal Nehru", B: "Vallabhbhai Patel", C: "Rajendra Prasad", D: "Maulana Abul Kalam Azad" }
+  answer: A
+  explanation: "Vinoba Bhave was the first individual satyagrahi and Jawaharlal Nehru the second."
+
+- slug: fs-qim-10
+  difficulty: easy
+  stem: "In which city did the All India Congress Committee pass the Quit India Resolution on 8 August 1942?"
+  options: { A: "Wardha", B: "Allahabad", C: "Ramgarh", D: "Bombay" }
+  answer: D
+  explanation: "The resolution was passed at Gowalia Tank Maidan, Bombay, on 8 August 1942. The Working Committee had met earlier at Wardha."
+
+- slug: fs-qim-11
+  difficulty: easy
+  stem: "Who ran the secret Congress Radio from Bombay during the Quit India Movement?"
+  options: { A: "Aruna Asaf Ali", B: "Sucheta Kripalani", C: "Usha Mehta", D: "Kanaklata Barua" }
+  answer: C
+  explanation: "Usha Mehta ran the underground Congress Radio from Bombay in 1942."
+
+- slug: fs-qim-12
+  difficulty: easy
+  stem: "In which year did the Cripps Mission come to India?"
+  options: { A: "1942", B: "1940", C: "1944", D: "1946" }
+  answer: A
+  explanation: "Sir Stafford Cripps came to India in March 1942; the mission failed and he went back in April 1942."
+
+- slug: fs-qim-13
+  difficulty: medium
+  stem: "The phrase \"post-dated cheque\" is linked with Gandhi's reaction to which of the following?"
+  options: { A: "August Offer", B: "Communal Award", C: "C.R. Formula", D: "Cripps proposals" }
+  answer: D
+  explanation: "Gandhi is said to have called the Cripps proposals of 1942 a 'post-dated cheque', because they promised dominion status only after the war."
+
+- slug: fs-qim-14
+  difficulty: medium
+  stem: "Which Viceroy made the August Offer of 1940?"
+  options: { A: "Lord Willingdon", B: "Lord Wavell", C: "Lord Linlithgow", D: "Lord Irwin" }
+  answer: C
+  explanation: "Lord Linlithgow made the August Offer on 8 August 1940; the Congress rejected it."
+
+- slug: fs-qim-15
+  difficulty: medium
+  stem: "Where was Gandhi held after his arrest on 9 August 1942?"
+  options: { A: "Aga Khan Palace, Poona", B: "Ahmednagar Fort", C: "Yerawada Jail, Poona", D: "Bankipur Jail, Patna" }
+  answer: A
+  explanation: "Gandhi was held in the Aga Khan Palace, Poona. The members of the Working Committee were held in Ahmednagar Fort."
+
+- slug: fs-qim-16
+  difficulty: medium
+  stem: "Who among the following led the 'Prati Sarkar' of Satara?"
+  options: { A: "Chittu Pandey", B: "Siyaram Singh", C: "Yusuf Meherally", D: "Nana Patil" }
+  answer: D
+  explanation: "Nana Patil, with Y.B. Chavan, led the Prati Sarkar of Satara. Chittu Pandey headed the parallel government at Ballia."
+
+- slug: fs-qim-17
+  difficulty: hard
+  stem: "On which date were 7 students shot dead while trying to hoist the flag on the Patna Secretariat?"
+  options: { A: "9 August 1942", B: "11 August 1942", C: "15 August 1942", D: "9 November 1942" }
+  answer: B
+  explanation: "The Patna Secretariat firing took place on 11 August 1942; 7 students were killed. The Shaheed Smarak in Patna is their memorial."
+
+- slug: fs-qim-18
+  difficulty: hard
+  stem: "Where did Jayaprakash Narayan organise the 'Azad Dasta' after his escape from Hazaribagh Jail?"
+  options: { A: "Chotanagpur plateau", B: "Kaimur hills", C: "Terai of Nepal", D: "Ballia in eastern U.P." }
+  answer: C
+  explanation: "Jayaprakash Narayan organised the Azad Dasta, a guerrilla band, in the Terai of Nepal."
+
+- slug: fs-qim-19
+  difficulty: hard
+  stem: "Who was the first individual satyagrahi in Bihar?"
+  options: { A: "Shri Krishna Sinha", B: "Anugrah Narayan Sinha", C: "Rajendra Prasad", D: "Jayaprakash Narayan" }
+  answer: A
+  explanation: "Shri Krishna Sinha was the first to offer individual satyagraha in Bihar."
+
+- slug: fs-qim-20
+  difficulty: hard
+  stem: "The slogan 'Quit India' is credited to"
+  options: { A: "Mahatma Gandhi", B: "Jawaharlal Nehru", C: "Aruna Asaf Ali", D: "Yusuf Meherally" }
+  answer: D
+  explanation: "The slogan 'Quit India' is credited to Yusuf Meherally, a socialist leader of Bombay; Gandhi's own call was 'Do or Die'."

@@ -1,0 +1,157 @@
+# Section 10 — Subhas Bose and the INA
+# ---------- Previous-year questions ----------
+- slug: fs-ina-01
+  difficulty: easy
+  stem: "On 21 October 1943, Subhash Chandra Bose proclaimed the formation of the Provisional Government of Free India in ______."
+  options: { A: "Russia", B: "Singapore", C: "Japan", D: "Germany" }
+  answer: B
+  explanation: "Subhas Chandra Bose proclaimed the Provisional Government of Free India (Azad Hind) at Singapore on 21 October 1943."
+  source: "SSC CGL 2021"
+
+- slug: fs-ina-02
+  difficulty: easy
+  stem: "Which of the following statements was quoted by Subhash Chandra Bose?"
+  options: { A: "Live as if you were to die tomorrow. Learn as if you were to live forever.", B: "The best way to find yourself is to lose yourself in the service of others.", C: "Give me blood and I will give you freedom.", D: "First, they ignore you, then they laugh at you, then they fight you, then you win." }
+  answer: C
+  explanation: "'Tum mujhe khoon do, main tumhe azadi dunga' (Give me blood and I will give you freedom) was Subhas Chandra Bose's call."
+  source: "SSC CGL 2021"
+
+- slug: fs-ina-03
+  difficulty: medium
+  stem: "Who among the following was the founder of ‘Tiger Legion' or ‘Free India Legion'?"
+  options: { A: "Vinayak Damodar Savarkar", B: "Subhas Chandra Bose", C: "Sohan Singh Bhakhna", D: "Lala Hardayal" }
+  answer: B
+  explanation: "Subhas Chandra Bose raised the Free India Legion (Tiger Legion) in Germany from Indian prisoners of war."
+  source: "SSC CGL 2023"
+
+- slug: fs-ina-04
+  difficulty: easy
+  stem: "The Forward Bloc was founded by"
+  options: { A: "Sardarsinhji Rana", B: "Subhas Chandra Bose", C: "Jayaprakash Narayan", D: "Lakshmi Sahgal", E: "None of the above/More than one of the above" }
+  answer: B
+  explanation: "Subhas Chandra Bose founded the Forward Bloc in 1939 after resigning as Congress president."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-ina-05
+  difficulty: medium
+  stem: "In which country was the honorific ‘Netaji’ applied to the name of Subhas Chandra Bose?"
+  options: { A: "India", B: "Italy", C: "Germany", D: "Japan", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "Bose was first called 'Netaji' in Germany, by the soldiers of the Free India Legion and the Indians working with him in Berlin."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-ina-06
+  difficulty: medium
+  stem: "Who among the following advocates had appeared for the INA trials at Delhi in 1945–46?"
+  options: { A: "Dr. Rajendra Prasad", B: "Bhulabhai Desai", C: "K. M. Munshi", D: "Sardar Patel", E: "None of the above/More than one of the above" }
+  answer: B
+  explanation: "Bhulabhai Desai led the defence of the INA officers at the Red Fort trials of 1945–46."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-ina-07
+  difficulty: hard
+  stem: "In October 1943, Subhash Chandra Bose set up a provisional government of free India which was recognized by how many countries including Japan ?"
+  options: { A: "5", B: "4", C: "9", D: "10" }
+  answer: C
+  explanation: "The Provisional Government of Free India (October 1943) was recognised by nine countries, including Japan, Germany and Italy."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-ina-08
+  difficulty: easy
+  stem: "Who assumed the command of the Indian National Army and gave famous battle cry, ‘Chalo Delhi’?"
+  options: { A: "Rash Behari Bose", B: "Mohan Singh", C: "Shah Nawaz Khan", D: "Subhash Chandra Bose" }
+  answer: D
+  explanation: "Subhas Chandra Bose took command of the INA at Singapore in 1943 and gave it the battle cry 'Chalo Delhi'."
+  source: "BPSC 71st Prelims"
+
+# ---------- New questions ----------
+- slug: fs-ina-09
+  difficulty: easy
+  stem: "In which year did Subhas Chandra Bose found the Forward Bloc?"
+  options: { A: "1939", B: "1940", C: "1941", D: "1943" }
+  answer: A
+  explanation: "Bose resigned as Congress president in April 1939 and founded the Forward Bloc in May 1939."
+
+- slug: fs-ina-10
+  difficulty: medium
+  stem: "Who formed the first Indian National Army in 1942 from Indian prisoners of war taken by Japan?"
+  options: { A: "Rash Behari Bose", B: "Shah Nawaz Khan", C: "Subhas Chandra Bose", D: "Mohan Singh" }
+  answer: D
+  explanation: "Captain Mohan Singh formed the first INA in 1942. Subhas Bose took over its leadership only in 1943."
+
+- slug: fs-ina-11
+  difficulty: medium
+  stem: "Who handed over the leadership of the Indian Independence League and the INA to Subhas Chandra Bose at Singapore in July 1943?"
+  options: { A: "Rash Behari Bose", B: "Mohan Singh", C: "Lakshmi Swaminathan", D: "Prem Kumar Sehgal" }
+  answer: A
+  explanation: "Rash Behari Bose, who led the Indian Independence League from Japan, handed over the leadership to Subhas Bose in July 1943."
+
+- slug: fs-ina-12
+  difficulty: hard
+  stem: "What new names did Subhas Chandra Bose give to the Andaman and the Nicobar Islands?"
+  options: { A: "Azad and Hind", B: "Swaraj and Shaheed", C: "Jai Hind and Azad", D: "Shaheed and Swaraj" }
+  answer: D
+  explanation: "Bose renamed the Andaman Islands Shaheed Dweep and the Nicobar Islands Swaraj Dweep."
+
+- slug: fs-ina-13
+  difficulty: hard
+  stem: "Where in India was the flag of the INA hoisted on 14 April 1944?"
+  options: { A: "Moirang", B: "Kohima", C: "Dimapur", D: "Port Blair" }
+  answer: A
+  explanation: "Colonel Shaukat Malik hoisted the INA flag at Moirang in Manipur on 14 April 1944."
+
+- slug: fs-ina-14
+  difficulty: medium
+  stem: "Who commanded the Rani of Jhansi Regiment of the INA?"
+  options: { A: "Aruna Asaf Ali", B: "Usha Mehta", C: "Lakshmi Swaminathan", D: "Sucheta Kripalani" }
+  answer: C
+  explanation: "Captain Lakshmi Swaminathan (later Lakshmi Sahgal) commanded the Rani of Jhansi Regiment, the women's regiment of the INA."
+
+- slug: fs-ina-15
+  difficulty: hard
+  stem: "Who among the following was NOT one of the three officers tried in the first INA trial at the Red Fort in November 1945?"
+  options: { A: "Shah Nawaz Khan", B: "Prem Kumar Sehgal", C: "Gurbaksh Singh Dhillon", D: "Mohan Singh" }
+  answer: D
+  explanation: "The first trial was of Shah Nawaz Khan, Prem Kumar Sehgal and Gurbaksh Singh Dhillon. Mohan Singh was the founder of the first INA."
+
+- slug: fs-ina-16
+  difficulty: hard
+  stem: "Where did Subhas Chandra Bose and Swami Sahajanand Saraswati hold the Anti-Compromise Conference in March 1940?"
+  options: { A: "Ramgarh", B: "Tripuri", C: "Haripura", D: "Patna" }
+  answer: A
+  explanation: "The Anti-Compromise Conference was held at Ramgarh, then in Bihar, in March 1940, alongside the Congress session there."
+
+- slug: fs-ina-17
+  difficulty: medium
+  stem: "Which of the following books was written by Subhas Chandra Bose?"
+  options: { A: "India Wins Freedom", B: "The Indian Struggle", C: "The Discovery of India", D: "Unhappy India" }
+  answer: B
+  explanation: "Bose wrote 'The Indian Struggle'. 'India Wins Freedom' is by Abul Kalam Azad, 'The Discovery of India' by Jawaharlal Nehru and 'Unhappy India' by Lala Lajpat Rai."
+
+- slug: fs-ina-18
+  difficulty: hard
+  stem: "Under which assumed name did Subhas Chandra Bose escape from Calcutta in January 1941?"
+  options: { A: "Bhagat Ram", B: "Abid Hasan", C: "Shaukat Malik", D: "Ziauddin" }
+  answer: D
+  explanation: "Bose left Calcutta disguised as a Pathan named Ziauddin; later he travelled to Berlin on an Italian passport as Orlando Mazzotta."
+
+- slug: fs-ina-19
+  difficulty: hard
+  stem: |
+    Consider the following statements about Subhas Chandra Bose:
+
+    1. He resigned from the Indian Civil Service in 1921.
+    2. He proclaimed the Provisional Government of Free India at Rangoon.
+    3. Chittaranjan Das was his political guru.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "1 and 3 only", D: "1, 2 and 3" }
+  answer: C
+  explanation: "Statements 1 and 3 are correct. The Provisional Government was proclaimed at Singapore on 21 October 1943; its headquarters moved to Rangoon only in 1944."
+
+- slug: fs-ina-20
+  difficulty: easy
+  stem: "Subhas Chandra Bose is reported to have died in an air crash in August 1945 at"
+  options: { A: "Taipei", B: "Tokyo", C: "Singapore", D: "Rangoon" }
+  answer: A
+  explanation: "Bose is reported to have died in an air crash at Taipei (Taihoku) in Formosa on 18 August 1945."
