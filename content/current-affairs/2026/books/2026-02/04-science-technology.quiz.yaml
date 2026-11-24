@@ -1,0 +1,112 @@
+# Section 4 — Science & Technology (February 2026)
+- slug: ca-2602-sci-01
+  difficulty: easy
+  stem: "Where was the India-AI Impact Summit 2026 held?"
+  options: { A: "Bengaluru", B: "New Delhi", C: "Hyderabad", D: "Mumbai" }
+  answer: B
+  explanation: "The summit, organised by MeitY, was held at Bharat Mandapam in New Delhi."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-02
+  difficulty: easy
+  stem: "'Sarvam-30B' and 'Sarvam-105B', unveiled in February 2026, are"
+  options: { A: "communication satellites", B: "supercomputers", C: "quantum processors", D: "large language models" }
+  answer: D
+  explanation: "They are large language models built by the Indian firm Sarvam AI and shown at the India-AI Impact Summit."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-03
+  difficulty: easy
+  stem: "The two new telescopes sanctioned in the Union Budget 2026-27 will be set up in"
+  options: { A: "Ladakh", B: "Sikkim", C: "Uttarakhand", D: "Arunachal Pradesh" }
+  answer: A
+  explanation: "The National Large Solar Telescope will be at Merak and the National Large Optical–Near Infrared Telescope at Hanle, both in Ladakh."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-04
+  difficulty: easy
+  stem: "The free HPV vaccination drive announced in February 2026 is meant for girls of which age?"
+  options: { A: "9 years", B: "12 years", C: "14 years", D: "18 years" }
+  answer: C
+  explanation: "The single-dose drive covers girls aged 14 and uses the vaccine Gardasil."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-05
+  difficulty: medium
+  stem: "What was the theme of the India-AI Impact Summit 2026?"
+  options: { A: "Vasudhaiva Kutumbakam", B: "AI for All", C: "Sarvajana Hitaya, Sarvajana Sukhaya", D: "One Earth, One Intelligence" }
+  answer: C
+  explanation: "The theme was 'Sarvajana Hitaya, Sarvajana Sukhaya'; the three pillars were People, Planet and Progress."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-06
+  difficulty: medium
+  stem: "India joined 'Pax Silica' at the India-AI Impact Summit. It is an initiative led by"
+  options: { A: "the United States", B: "Japan", C: "the European Union", D: "the United Kingdom" }
+  answer: A
+  explanation: "Pax Silica is a US-led group on semiconductor supply chains and critical minerals."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-07
+  difficulty: medium
+  stem: "Where will the AI Impact Summit of 2027 be held?"
+  options: { A: "Abu Dhabi", B: "Geneva", C: "Paris", D: "Seoul" }
+  answer: B
+  explanation: "Switzerland will host the 2027 summit in Geneva; the UAE will host in 2028."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-08
+  difficulty: medium
+  stem: "The Td vaccine, launched at the Central Research Institute, Kasauli, protects against tetanus and"
+  options: { A: "typhoid", B: "tuberculosis", C: "dengue", D: "diphtheria" }
+  answer: D
+  explanation: "Td stands for tetanus and adult diphtheria; it replaces the TT vaccine in the Universal Immunisation Programme."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-09
+  difficulty: medium
+  stem: "Bodhan AI, which will build the Bharat EduAI Stack, was developed at"
+  options: { A: "IISc Bengaluru", B: "IIT Bombay", C: "IIT Madras", D: "IIT Delhi" }
+  answer: C
+  explanation: "Bodhan AI is a non-profit under the Ministry of Education, developed at the AI Centre of Excellence for Education at IIT Madras."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-10
+  difficulty: hard
+  stem: "The New Delhi Declaration on AI Impact was signed by how many countries and international organisations?"
+  options: { A: "28", B: "58", C: "120", D: "89" }
+  answer: D
+  explanation: "89 countries and international organisations signed the non-binding declaration."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-11
+  difficulty: hard
+  stem: "The 13.7-metre National Large Optical–Near Infrared Telescope will be located at"
+  options: { A: "Hanle", B: "Merak", C: "Devasthal", D: "Kavalur" }
+  answer: A
+  explanation: "The 13.7-metre telescope will be at Hanle; the 2-metre National Large Solar Telescope will be at Merak near Pangong Tso."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-12
+  difficulty: hard
+  stem: "Param2, a 17-billion-parameter model covering 22 Indian languages, was launched by"
+  options: { A: "Sarvam AI", B: "BharatGen", C: "C-DAC", D: "Krutrim" }
+  answer: B
+  explanation: "BharatGen launched Param2 at the India-AI Impact Summit 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-13
+  difficulty: hard
+  stem: "The drogue parachute of the Gaganyaan crew module was tested by DRDO at a facility of TBRL in"
+  options: { A: "Chandigarh", B: "Balasore", C: "Agra", D: "Sriharikota" }
+  answer: A
+  explanation: "The qualification test was done at the rail track rocket sled facility of the Terminal Ballistics Research Laboratory, Chandigarh."
+  tags: ["2026-02"]
+
+- slug: ca-2602-sci-14
+  difficulty: hard
+  stem: "The novel oral polio vaccine type 2 (nOPV2) prequalified by the WHO is made by which Indian company?"
+  options: { A: "Serum Institute of India", B: "Bharat Biotech", C: "Biological E", D: "Zydus Lifesciences" }
+  answer: C
+  explanation: "The WHO prequalified the nOPV2 made by Biological E of Hyderabad."
+  tags: ["2026-02"]

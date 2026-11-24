@@ -1,0 +1,104 @@
+# Section 9 — Sports (February 2026)
+- slug: ca-2602-spo-01
+  difficulty: easy
+  stem: "Which team did India beat in the final to win the ICC Under-19 Men's World Cup 2026?"
+  options: { A: "Australia", B: "England", C: "South Africa", D: "Pakistan" }
+  answer: B
+  explanation: "India beat England by 100 runs in the final at Harare to win a record sixth title."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-02
+  difficulty: easy
+  stem: "Which country hosted the Winter Olympics of February 2026?"
+  options: { A: "France", B: "Switzerland", C: "Italy", D: "Austria" }
+  answer: C
+  explanation: "The Milano Cortina 2026 Winter Olympics were held in Italy from 6 to 22 February 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-03
+  difficulty: easy
+  stem: "Which team won the Ranji Trophy 2025-26, its first ever title?"
+  options: { A: "Jammu and Kashmir", B: "Kerala", C: "Vidarbha", D: "Karnataka" }
+  answer: A
+  explanation: "Jammu and Kashmir beat Karnataka on first-innings lead in the final at Hubballi."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-04
+  difficulty: easy
+  stem: "Which team won the Women's Premier League 2026?"
+  options: { A: "Mumbai Indians", B: "Delhi Capitals", C: "Gujarat Giants", D: "Royal Challengers Bengaluru" }
+  answer: D
+  explanation: "Royal Challengers Bengaluru beat Delhi Capitals in the final to win their second WPL title."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-05
+  difficulty: medium
+  stem: "Who scored 175 in the final of the ICC Under-19 Men's World Cup 2026?"
+  options: { A: "Ayush Mhatre", B: "Vihaan Malhotra", C: "Vaibhav Sooryavanshi", D: "Musheer Khan" }
+  answer: C
+  explanation: "Vaibhav Sooryavanshi scored 175 and was Player of the Match and Player of the Tournament; Ayush Mhatre was the captain."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-06
+  difficulty: medium
+  stem: "Which country topped the medal table at the Milano Cortina 2026 Winter Olympics?"
+  options: { A: "Norway", B: "United States", C: "Germany", D: "Italy" }
+  answer: A
+  explanation: "Norway won 18 gold and 41 medals in all; the United States was second with 12 gold."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-07
+  difficulty: medium
+  stem: "Carlos Alcaraz won his first Australian Open men's singles title in 2026 by beating"
+  options: { A: "Jannik Sinner", B: "Novak Djokovic", C: "Alexander Zverev", D: "Daniil Medvedev" }
+  answer: B
+  explanation: "Alcaraz beat Novak Djokovic in the final for his seventh Grand Slam title."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-08
+  difficulty: medium
+  stem: "Which team won the 79th Santosh Trophy in February 2026?"
+  options: { A: "Kerala", B: "West Bengal", C: "Manipur", D: "Services" }
+  answer: D
+  explanation: "Services beat Kerala 1–0 in the final at Dhakuakhana, Assam, to win their eighth title."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-09
+  difficulty: medium
+  stem: "Tejaswin Shankar won gold at the Asian Indoor Athletics Championships 2026 in which event?"
+  options: { A: "High jump", B: "Long jump", C: "Heptathlon", D: "Pole vault" }
+  answer: C
+  explanation: "He won the men's heptathlon at Tianjin with a national indoor record of 5,993 points."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-10
+  difficulty: hard
+  stem: "Who won the first official FIDE Freestyle Chess World Championship in 2026?"
+  options: { A: "Magnus Carlsen", B: "Fabiano Caruana", C: "D. Gukesh", D: "Hikaru Nakamura" }
+  answer: A
+  explanation: "Magnus Carlsen beat Fabiano Caruana in the final at Weissenhaus, Germany."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-11
+  difficulty: hard
+  stem: "The final of the 79th Santosh Trophy was played at"
+  options: { A: "Guwahati", B: "Dhakuakhana", C: "Kozhikode", D: "Shillong" }
+  answer: B
+  explanation: "The final was played at Dhakuakhana in Assam on 8 February 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-12
+  difficulty: hard
+  stem: "Who captained Jammu and Kashmir to their first Ranji Trophy title?"
+  options: { A: "Auqib Nabi", B: "Abdul Samad", C: "Shubham Khajuria", D: "Paras Dogra" }
+  answer: D
+  explanation: "Paras Dogra led the side; pacer Auqib Nabi took 60 wickets in the season."
+  tags: ["2026-02"]
+
+- slug: ca-2602-spo-13
+  difficulty: hard
+  stem: "Harmanpreet Kaur became the most-capped player in women's international cricket by passing"
+  options: { A: "Mithali Raj", B: "Ellyse Perry", C: "Suzie Bates", D: "Charlotte Edwards" }
+  answer: C
+  explanation: "Her 356th international match took her past New Zealand's Suzie Bates."
+  tags: ["2026-02"]

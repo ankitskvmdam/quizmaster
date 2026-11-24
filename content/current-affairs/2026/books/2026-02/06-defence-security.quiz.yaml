@@ -1,0 +1,104 @@
+# Section 6 — Defence & Security (February 2026)
+- slug: ca-2602-def-01
+  difficulty: easy
+  stem: "Exercise MILAN 2026 was hosted by the Indian Navy at"
+  options: { A: "Kochi", B: "Mumbai", C: "Visakhapatnam", D: "Port Blair" }
+  answer: C
+  explanation: "The 13th Exercise MILAN was held at Visakhapatnam from 15 to 25 February 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-02
+  difficulty: easy
+  stem: "Exercise DHARMA GUARDIAN is held between the armies of India and"
+  options: { A: "Japan", B: "Nepal", C: "Mongolia", D: "Sri Lanka" }
+  answer: A
+  explanation: "The 7th edition of the India–Japan exercise began at Chaubattia, Uttarakhand."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-03
+  difficulty: easy
+  stem: "The Union Budget 2026-27 gave defence its highest-ever allocation of"
+  options: { A: "Rs 5.25 lakh crore", B: "Rs 6.81 lakh crore", C: "Rs 9.10 lakh crore", D: "Rs 7.85 lakh crore" }
+  answer: D
+  explanation: "Defence received Rs 7.85 lakh crore, the highest so far."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-04
+  difficulty: easy
+  stem: "PRAHAAR, unveiled by the Home Ministry in February 2026, is India's first national policy and strategy on"
+  options: { A: "cyber security", B: "counter-terrorism", C: "border management", D: "disaster response" }
+  answer: B
+  explanation: "PRAHAAR is India's first comprehensive National Counter-Terrorism Policy and Strategy."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-05
+  difficulty: medium
+  stem: "Exercise KHANJAR, whose 13th edition was held at Missamari in Assam, is between India and"
+  options: { A: "Kazakhstan", B: "Uzbekistan", C: "Tajikistan", D: "Kyrgyzstan" }
+  answer: D
+  explanation: "KHANJAR is the special forces exercise between India and Kyrgyzstan."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-06
+  difficulty: medium
+  stem: "Which defence public sector undertaking was given Miniratna Category-I status in February 2026?"
+  options: { A: "Yantra India Limited", B: "Munitions India Limited", C: "India Optel Limited", D: "Gliders India Limited" }
+  answer: A
+  explanation: "Yantra India Limited, formed after the Ordnance Factory Board was corporatised in 2021, received the status."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-07
+  difficulty: medium
+  stem: "Where did the 16th Exercise VAJRA PRAHAR between India and the United States begin?"
+  options: { A: "Umroi", B: "Bakloh", C: "Mahajan", D: "Aundh" }
+  answer: B
+  explanation: "The special forces exercise began at the Special Forces Training School, Bakloh, Himachal Pradesh."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-08
+  difficulty: medium
+  stem: "Captain Hansja Sharma became the first woman Army pilot qualified to fly which helicopter?"
+  options: { A: "Apache", B: "Prachand", C: "Rudra", D: "Chetak" }
+  answer: C
+  explanation: "Rudra is the armed version of the Advanced Light Helicopter built by HAL."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-09
+  difficulty: medium
+  stem: "The SFDR technology flight-tested by DRDO in February 2026 is mainly meant for"
+  options: { A: "long-range air-to-air missiles", B: "anti-tank missiles", C: "torpedoes", D: "satellite launch vehicles" }
+  answer: A
+  explanation: "Solid Fuel Ducted Ramjet propulsion lets air-to-air missiles keep high speed over long ranges."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-10
+  difficulty: hard
+  stem: "Combined Task Force 154, which the Indian Navy commanded for the first time, works under the Combined Maritime Forces based in"
+  options: { A: "Djibouti", B: "Oman", C: "Qatar", D: "Bahrain" }
+  answer: D
+  explanation: "CTF-154 is the training task force of the Bahrain-based Combined Maritime Forces."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-11
+  difficulty: hard
+  stem: "Which of these countries took part in Exercise MILAN for the first time in 2026?"
+  options: { A: "Australia", B: "Germany", C: "France", D: "Japan" }
+  answer: B
+  explanation: "Germany, the Philippines and the UAE were first-time participants in MILAN 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-12
+  difficulty: hard
+  stem: "'Anjadip', being commissioned into the Indian Navy, is"
+  options: { A: "a stealth frigate", B: "a survey vessel", C: "an anti-submarine warfare shallow water craft", D: "a diving support vessel" }
+  answer: C
+  explanation: "Anjadip is the third of eight anti-submarine warfare shallow water craft built by GRSE, Kolkata."
+  tags: ["2026-02"]
+
+- slug: ca-2602-def-13
+  difficulty: hard
+  stem: "Exercise Vajra Ghaat at Pokhran tested which weapon system?"
+  options: { A: "Pinaka rocket launcher", B: "Dhanush howitzer", C: "ATAGS towed gun", D: "K9 Vajra self-propelled gun" }
+  answer: D
+  explanation: "The Army tested the K9 Vajra self-propelled gun in desert conditions at the Pokhran Field Firing Range."
+  tags: ["2026-02"]

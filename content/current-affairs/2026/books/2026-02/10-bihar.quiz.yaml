@@ -1,0 +1,96 @@
+# Section 10 — Bihar Current Affairs (February 2026)
+- slug: ca-2602-bih-01
+  difficulty: easy
+  stem: "Who presented the Bihar Budget for 2026-27 on 3 February 2026?"
+  options: { A: "Samrat Choudhary", B: "Vijay Kumar Sinha", C: "Bijendra Prasad Yadav", D: "Vijay Kumar Choudhary" }
+  answer: C
+  explanation: "Finance Minister Bijendra Prasad Yadav presented the Budget in the Bihar Legislative Assembly."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-02
+  difficulty: easy
+  stem: "Which sector received the highest allocation in the Bihar Budget 2026-27?"
+  options: { A: "Education", B: "Health", C: "Rural development", D: "Roads" }
+  answer: A
+  explanation: "Education received about Rs 68,216 crore, the largest share of the Budget."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-03
+  difficulty: easy
+  stem: "The surrender of which Maoist commander led to Bihar being declared Naxal-free in February 2026?"
+  options: { A: "Pramod Mishra", B: "Suresh Koda", C: "Arvind Yadav", D: "Vijay Arya" }
+  answer: B
+  explanation: "Suresh Koda surrendered before the Special Task Force in Munger district."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-04
+  difficulty: easy
+  stem: "The Union Budget 2026-27 announced a ship-repair facility on National Waterway 1 at"
+  options: { A: "Bhagalpur", B: "Buxar", C: "Munger", D: "Patna" }
+  answer: D
+  explanation: "The facility is planned at Patna, on the Ganga waterway (National Waterway 1)."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-05
+  difficulty: medium
+  stem: "What is the total size of the Bihar Budget for 2026-27?"
+  options: { A: "Rs 2,78,725.72 crore", B: "Rs 3,16,895.02 crore", C: "Rs 3,47,589.76 crore", D: "Rs 4,02,116.50 crore" }
+  answer: C
+  explanation: "At Rs 3,47,589.76 crore, it is the largest Budget in Bihar's history."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-06
+  difficulty: medium
+  stem: "Under the Bihar Budget 2026-27, yearly assistance to farmers under the Jananayak Karpoori Thakur Kisan Samman Nidhi was raised to"
+  options: { A: "Rs 6,000", B: "Rs 9,000", C: "Rs 10,000", D: "Rs 12,000" }
+  answer: B
+  explanation: "The assistance was raised by Rs 3,000 to Rs 9,000 a year."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-07
+  difficulty: medium
+  stem: "Who launched the National e-Vidhan Application (NeVA) at the Bihar Legislative Assembly on 7 February 2026?"
+  options: { A: "Om Birla", B: "Nitish Kumar", C: "Arif Mohammed Khan", D: "Droupadi Murmu" }
+  answer: A
+  explanation: "Lok Sabha Speaker Om Birla launched NeVA on the Assembly's 105th foundation day."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-08
+  difficulty: medium
+  stem: "The proposed high-speed rail corridor that is to pass through Patna runs between Varanasi and"
+  options: { A: "Kolkata", B: "Guwahati", C: "Ranchi", D: "Siliguri" }
+  answer: D
+  explanation: "The Varanasi–Siliguri corridor is one of seven high-speed rail corridors announced in the Union Budget 2026-27."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-09
+  difficulty: hard
+  stem: "The Bihar Economic Survey 2025-26, tabled on 2 February 2026, was the State's"
+  options: { A: "15th Economic Survey", B: "18th Economic Survey", C: "20th Economic Survey", D: "25th Economic Survey" }
+  answer: C
+  explanation: "It was Bihar's 20th Economic Survey."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-10
+  difficulty: hard
+  stem: "Under Saat Nischay-3, degree colleges are to be opened in how many blocks of Bihar that have none?"
+  options: { A: "213", B: "101", C: "358", D: "534" }
+  answer: A
+  explanation: "Of Bihar's 534 blocks, 213 have no degree college; colleges will be opened there in the first phase."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-11
+  difficulty: hard
+  stem: "The Bihar Budget 2026-27 estimates the State's fiscal deficit at about"
+  options: { A: "2.50 per cent of GSDP", B: "2.99 per cent of GSDP", C: "3.50 per cent of GSDP", D: "4.20 per cent of GSDP" }
+  answer: B
+  explanation: "The fiscal deficit is estimated at about 2.99 per cent of GSDP."
+  tags: ["2026-02"]
+
+- slug: ca-2602-bih-12
+  difficulty: hard
+  stem: "According to the Bihar Economic Survey 2025-26, which district has the lowest per capita income in the State?"
+  options: { A: "Rohtas", B: "Bhojpur", C: "Madhepura", D: "Sheohar" }
+  answer: D
+  explanation: "Sheohar has the lowest per capita income; Patna, Begusarai and Munger have the highest."
+  tags: ["2026-02"]

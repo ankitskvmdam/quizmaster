@@ -1,0 +1,112 @@
+# Section 1 — Polity & Governance (February 2026)
+- slug: ca-2602-pol-01
+  difficulty: easy
+  stem: "The Union Cabinet approved a proposal in February 2026 to rename Kerala as"
+  options: { A: "Keralam", B: "Kerala Pradesh", C: "Malabar", D: "Keralaputra" }
+  answer: A
+  explanation: "The Cabinet approved renaming Kerala as Keralam; the Bill will be processed under Article 3 of the Constitution."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-02
+  difficulty: easy
+  stem: "Seva Teerth, inaugurated on 13 February 2026, is the new home of the"
+  options: { A: "Supreme Court of India", B: "Election Commission of India", C: "Prime Minister's Office", D: "NITI Aayog" }
+  answer: C
+  explanation: "Seva Teerth houses the PMO, the National Security Council Secretariat and the Cabinet Secretariat; the PMO moved out of South Block."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-03
+  difficulty: easy
+  stem: "Who became Chief Minister of Manipur in February 2026, ending President's Rule in the State?"
+  options: { A: "N. Biren Singh", B: "Yumnam Khemchand Singh", C: "Nemcha Kipgen", D: "Losii Dikho" }
+  answer: B
+  explanation: "Yumnam Khemchand Singh became Chief Minister; Nemcha Kipgen became the State's first woman Deputy Chief Minister."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-04
+  difficulty: easy
+  stem: "The Ol Chiki script, whose centenary celebrations the President opened, is used for which language?"
+  options: { A: "Mundari", B: "Ho", C: "Kurukh", D: "Santhali" }
+  answer: D
+  explanation: "Ol Chiki is the script of Santhali; Pandit Raghunath Murmu invented it in 1925."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-05
+  difficulty: medium
+  stem: "In Dr. Jaya Thakur v. Government of India (2026), the Supreme Court held that menstrual health is part of which Article?"
+  options: { A: "Article 14", B: "Article 19", C: "Article 21A", D: "Article 21" }
+  answer: D
+  explanation: "The Court read menstrual health and hygiene into the right to life under Article 21 and ordered free napkins and working toilets in schools."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-06
+  difficulty: medium
+  stem: "Under the IT Amendment Rules, 2026, content declared unlawful by a court or government order must be taken down within"
+  options: { A: "3 hours", B: "12 hours", C: "24 hours", D: "36 hours" }
+  answer: A
+  explanation: "The rules, in force from 20 February 2026, cut the takedown time to 3 hours; deepfakes and non-consensual intimate images must go within 2 hours."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-07
+  difficulty: medium
+  stem: "The Frontier Nagaland Territorial Authority, agreed in February 2026, covers how many districts of eastern Nagaland?"
+  options: { A: "Four", B: "Six", C: "Eight", D: "Ten" }
+  answer: B
+  explanation: "The FNTA covers six districts: Tuensang, Mon, Kiphire, Longleng, Noklak and Shamator."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-08
+  difficulty: medium
+  stem: "Which place became India's first fully paperless district court?"
+  options: { A: "Kochi", B: "Indore", C: "Kalpetta", D: "Mysuru" }
+  answer: C
+  explanation: "Kalpetta in Wayanad, Kerala, became the first fully paperless district court; CJI Surya Kant inaugurated it online."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-09
+  difficulty: medium
+  stem: "According to the Home Ministry's new protocol, when the National Song and the National Anthem are both played at an event,"
+  options: { A: "the National Anthem is played first", B: "Vande Mataram is played first", C: "only the National Anthem is played in full", D: "either may be played first" }
+  answer: B
+  explanation: "The protocol places the National Song, Vande Mataram, before the National Anthem."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-10
+  difficulty: hard
+  stem: "Retired judges were approved as ad hoc judges of the Allahabad High Court under which Article of the Constitution?"
+  options: { A: "Article 217", B: "Article 222", C: "Article 224A", D: "Article 233" }
+  answer: C
+  explanation: "Article 224A allows a High Court Chief Justice, with the President's prior consent, to ask a retired judge to sit as a judge of that court."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-11
+  difficulty: hard
+  stem: "Which organisation signed the tripartite agreement on the Frontier Nagaland Territorial Authority along with the Centre and the Nagaland government?"
+  options: { A: "ENPO", B: "NSCN (IM)", C: "Naga Hoho", D: "NNPG" }
+  answer: A
+  explanation: "The Eastern Nagaland People's Organisation (ENPO) signed the agreement; the FNTA does not affect Article 371(A)."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-12
+  difficulty: hard
+  stem: "The National Declaration 2026 was adopted at a conference of the Election Commission of India and the"
+  options: { A: "Chief Secretaries of the States", B: "Speakers of State Assemblies", C: "Chief Justices of High Courts", D: "State Election Commissioners" }
+  answer: D
+  explanation: "The ECI and the State Election Commissioners adopted the declaration at their first such conference in 27 years."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-13
+  difficulty: hard
+  stem: "The Supreme Court ruled in February 2026 that telecom spectrum cannot be treated as a company's asset under the"
+  options: { A: "Insolvency and Bankruptcy Code, 2016", B: "Companies Act, 2013", C: "Telecommunications Act, 2023", D: "SARFAESI Act, 2002" }
+  answer: A
+  explanation: "The Court held that spectrum is a public resource owned by the Union and cannot be sold or restructured as a corporate asset under the IBC."
+  tags: ["2026-02"]
+
+- slug: ca-2602-pol-14
+  difficulty: hard
+  stem: "The NDMA's first national guidelines on Disaster Victim Identification were released to mark 25 years of the"
+  options: { A: "Odisha super cyclone", B: "Latur earthquake", C: "Gujarat earthquake", D: "Indian Ocean tsunami" }
+  answer: C
+  explanation: "The guidelines were released on the 25th anniversary of the 2001 Gujarat (Bhuj) earthquake."
+  tags: ["2026-02"]

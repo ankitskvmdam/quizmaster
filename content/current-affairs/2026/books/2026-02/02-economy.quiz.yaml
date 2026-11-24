@@ -1,0 +1,112 @@
+# Section 2 — Economy & Banking (February 2026)
+- slug: ca-2602-eco-01
+  difficulty: easy
+  stem: "The Union Budget 2026-27 set the fiscal deficit for 2026-27 at what share of GDP?"
+  options: { A: "3.5 per cent", B: "4.3 per cent", C: "4.8 per cent", D: "5.1 per cent" }
+  answer: B
+  explanation: "The Budget estimated the fiscal deficit at 4.3 per cent of GDP, against 4.4 per cent in the revised estimates for 2025-26."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-02
+  difficulty: easy
+  stem: "Who chaired the 16th Finance Commission?"
+  options: { A: "N.K. Singh", B: "Y.V. Reddy", C: "Vijay Kelkar", D: "Arvind Panagariya" }
+  answer: D
+  explanation: "The 16th Finance Commission, chaired by Arvind Panagariya, covers the years 2026–31."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-03
+  difficulty: easy
+  stem: "In its February 2026 policy review, the RBI kept the repo rate unchanged at"
+  options: { A: "5.25 per cent", B: "5.50 per cent", C: "6.00 per cent", D: "6.50 per cent" }
+  answer: A
+  explanation: "The Monetary Policy Committee held the repo rate at 5.25 per cent and kept its neutral stance."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-04
+  difficulty: easy
+  stem: "The Income Tax Act, 2025 comes into force from"
+  options: { A: "1 February 2026", B: "1 January 2027", C: "1 April 2026", D: "1 April 2027" }
+  answer: C
+  explanation: "The Income Tax Act, 2025 replaces the Income Tax Act, 1961 from 1 April 2026."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-05
+  difficulty: medium
+  stem: "The 16th Finance Commission kept the States' share in the divisible pool of central taxes at"
+  options: { A: "32 per cent", B: "38 per cent", C: "41 per cent", D: "42 per cent" }
+  answer: C
+  explanation: "The share stays at 41 per cent, the same as under the 15th Finance Commission."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-06
+  difficulty: medium
+  stem: "The base year of the Consumer Price Index was changed in February 2026 from 2012 to"
+  options: { A: "2024", B: "2017", C: "2020", D: "2022" }
+  answer: A
+  explanation: "The new CPI series has 2024 as its base year; its first reading, for January 2026, showed inflation of 2.75 per cent."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-07
+  difficulty: medium
+  stem: "The RBI raised the limit for collateral-free loans to micro and small enterprises from Rs 10 lakh to"
+  options: { A: "Rs 15 lakh", B: "Rs 20 lakh", C: "Rs 30 lakh", D: "Rs 50 lakh" }
+  answer: B
+  explanation: "From 1 April 2026 banks cannot insist on collateral for loans of up to Rs 20 lakh to micro and small enterprises."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-08
+  difficulty: medium
+  stem: "The new Dedicated Freight Corridor announced in the Union Budget 2026-27 will run from Dankuni to"
+  options: { A: "Ludhiana", B: "Mumbai", C: "Vijayawada", D: "Surat" }
+  answer: D
+  explanation: "The Budget announced a new Dedicated Freight Corridor from Dankuni to Surat, along with seven high-speed rail corridors."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-09
+  difficulty: medium
+  stem: "The full Namo Bharat corridor opened on 22 February 2026 connects Delhi with"
+  options: { A: "Alwar", B: "Panipat", C: "Meerut", D: "Agra" }
+  answer: C
+  explanation: "The 82 km Delhi–Ghaziabad–Meerut Namo Bharat corridor was opened together with the Meerut Metro."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-10
+  difficulty: hard
+  stem: "Which new criterion, with a weight of 10 per cent, did the 16th Finance Commission add for sharing taxes among the States?"
+  options: { A: "Fiscal discipline", B: "Contribution to GDP", C: "Tax effort", D: "Urbanisation" }
+  answer: B
+  explanation: "The Commission introduced contribution to GDP as a criterion with a 10 per cent weight."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-11
+  difficulty: hard
+  stem: "National Monetisation Pipeline 2.0 has an aggregate monetisation potential of about"
+  options: { A: "Rs 16.72 lakh crore", B: "Rs 6 lakh crore", C: "Rs 10 lakh crore", D: "Rs 25 lakh crore" }
+  answer: A
+  explanation: "NMP 2.0, prepared by NITI Aayog for 2025–30, has a potential of Rs 16.72 lakh crore."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-12
+  difficulty: hard
+  stem: "Under DPIIT's revised framework, a Deep Tech Startup can be recognised for up to how many years from its incorporation?"
+  options: { A: "10 years", B: "12 years", C: "15 years", D: "20 years" }
+  answer: D
+  explanation: "The recognition period for deep tech startups was extended to 20 years, with a turnover limit of Rs 300 crore."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-13
+  difficulty: hard
+  stem: "R.I.S.E. are the four pillars of which reform agenda launched in February 2026?"
+  options: { A: "EASE 9.0", B: "National Monetisation Pipeline 2.0", C: "Mission SAKSHAM", D: "Export Promotion Mission" }
+  answer: A
+  explanation: "EASE 9.0, the reform agenda for public sector banks, rests on Risk and Resilience, Innovation, Socio-economic Impact and Excellence."
+  tags: ["2026-02"]
+
+- slug: ca-2602-eco-14
+  difficulty: hard
+  stem: "The new GDP series released by MoSPI in February 2026 has which base year?"
+  options: { A: "2011-12", B: "2017-18", C: "2022-23", D: "2024-25" }
+  answer: C
+  explanation: "The new national accounts series uses 2022-23 as the base year and put real GDP growth in 2025-26 at 7.6 per cent."
+  tags: ["2026-02"]
