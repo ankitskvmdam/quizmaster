@@ -1,12 +1,12 @@
 import type { Metadata } from 'next'
-import Link from 'next/link'
 import { notFound } from 'next/navigation'
-import { ChevronLeft, FileClock } from 'lucide-react'
+import { FileClock } from 'lucide-react'
 import { getExamPapers } from '@/lib/queries/tests'
 import { PageHeader } from '@/components/page-header'
 import { Panel } from '@/components/surfaces'
 import { EmptyState } from '@/components/empty-state'
 import { TestList } from '@/components/tests/test-list'
+import { Breadcrumbs } from '@/components/courses/crumbs'
 
 type Props = PageProps<'/tests/[exam]'>
 
@@ -24,10 +24,7 @@ export default async function ExamPapersPage({ params }: Props) {
 
   return (
     <>
-      <Link href="/tests" className="focus-ring mb-4 inline-flex items-center gap-1 rounded text-[13px] text-muted-foreground hover:text-foreground">
-        <ChevronLeft className="size-4" aria-hidden />
-        Tests
-      </Link>
+      <Breadcrumbs root="tests" items={[]} current={exam.name} />
       <PageHeader title={exam.name} description={exam.description || undefined} />
       {papers.length === 0 ? (
         <Panel>

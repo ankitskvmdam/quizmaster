@@ -17,10 +17,12 @@ import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from '@/co
 import { TopBar } from './top-bar'
 import { QuestionView } from './question-view'
 import { Palette } from './palette'
+import { LangToggle } from '@/components/lang-toggle'
+import type { ContentLang } from '@/lib/lang'
 
 type QState = { selected: string | null; marked: boolean; result: QuestionResult | null; visited: boolean }
 
-export function Runner({ initial }: { initial: AttemptPayload }) {
+export function Runner({ initial, lang }: { initial: AttemptPayload; lang: ContentLang }) {
   const { attempt, test, questions } = initial
   const mode = attempt.mode
   const router = useRouter()
@@ -228,6 +230,9 @@ const offline: SaveResult = { ok: false, error: OFFLINE_MESSAGE }
       <p className="sr-only" aria-live="polite">
         {announcement}
       </p>
+      <div className="mx-auto flex max-w-[72rem] justify-end px-4 pt-4 sm:px-6">
+        <LangToggle lang={lang} />
+      </div>
 
       <div className="mx-auto grid max-w-[72rem] gap-6 px-4 py-6 sm:px-6 lg:grid-cols-[minmax(0,1fr)_17rem]">
         <div className="mx-auto w-full max-w-[70ch] lg:mx-0">
