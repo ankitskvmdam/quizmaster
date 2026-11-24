@@ -1,0 +1,1375 @@
+slug: 2022-12-01-shift1
+title: SSC CGL 2022 Tier 1
+date: 2022-12-01
+label: 1 Dec, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via adda247.com — https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/05/08145153/1-Dec-9AM-EN-Question-Paper.pdf). Left out (picture-only options or incomplete in the source): Q5, Q13, Q14, Q18, Q19, Q73."
+questions:
+  - slug: cgl-2022-12-01-s1-q001
+    difficulty: medium
+    stem: |-
+      After interchanging the given two numbers and two signs what will be the values of equation (I) and (II) respectively?
+
+      × and +, 3 and 9
+
+      I. 7 × 9 – 8 ÷ 2 + 3
+
+      II. 4 × 9 – 3 + 8 ÷ 2
+    options:
+      A: 0, 1
+      B: –26, –29
+      C: 6, 0
+      D: 12, 13
+    answer: B
+    explanation: After the swaps, I becomes 7 + 3 − 8 ÷ 2 × 9 = 10 − 36 = −26 and II becomes 4 + 3 − 9 × 8 ÷ 2 = 7 − 36 = −29.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q002
+    difficulty: medium
+    stem: In a certain code language, 'BEHOLD’ is written as 'BDEHLO' and 'INDEED' is written as 'DDEEIN'. How will 'COURSE' be written in that language?
+    options:
+      A: CEROSU
+      B: CEORUS
+      C: CEOSUR
+      D: CEORSU
+    answer: D
+    explanation: "The letters of each word are rearranged in alphabetical order: COURSE → CEORSU."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+
+      Library : Books :: Museum : ?
+    options:
+      A: Building
+      B: Artefacts
+      C: People
+      D: Gallery
+    answer: B
+    explanation: A library keeps books; a museum keeps artefacts.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q004
+    difficulty: medium
+    stem: |-
+      Which of the following numbers will replace the question mark (?) in the given series?
+
+      382, 322, 272, 232, 202, ?
+    options:
+      A: "168"
+      B: "150"
+      C: "182"
+      D: "132"
+    answer: C
+    explanation: "The differences are −60, −50, −40, −30, so the next is −20: 202 − 20 = 182."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q006
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs to replace the * signs and balance the given equation.
+
+      21 * 4 * 156 * 13 * 11 = 83
+    options:
+      A: −, ÷, ×, +
+      B: ×, +, ÷, −
+      C: ×, −, ÷, +
+      D: +, ÷, −, ×
+    answer: C
+    explanation: 21 × 4 − 156 ÷ 13 + 11 = 84 − 12 + 11 = 83.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q007
+    difficulty: medium
+    stem: |-
+      Which of the following letter-clusters will replace the question mark (?) in the given series?
+
+      PK, GT, XC, OL, ?
+    options:
+      A: GT
+      B: HS
+      C: EV
+      D: FU
+    answer: D
+    explanation: Each letter moves forward 17 places in the first position (P→G→X→O→F) and 9 places in the second (K→T→C→L→U), giving FU.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q008
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits.)
+
+      (3, 14, 1)
+
+      (4, 36, 2)
+    options:
+      A: (8, 12, 2)
+      B: (5, 81, 4)
+      C: (7, 40, 3)
+      D: (8, 260, 2)
+    answer: D
+    explanation: "The middle number is (first³ + third³)/2: (27 + 1)/2 = 14 and (64 + 8)/2 = 36. Likewise (512 + 8)/2 = 260."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q009
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation.
+
+      12 * 24 * 4 * 2 * 60
+    options:
+      A: +, ×, ÷, =
+      B: −, ×, +, =
+      C: +, ×, −, =
+      D: +, ÷, ×, =
+    answer: A
+    explanation: 12 + 24 × 4 ÷ 2 = 12 + 48 = 60.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q010
+    difficulty: medium
+    stem: |-
+      Three of the following four letter-clusters are alike in a certain way and one is different.
+
+      Pick the odd one out.
+    options:
+      A: HGF
+      B: RQP
+      C: UVW
+      D: LKJ
+    answer: C
+    explanation: HGF, RQP and LKJ are consecutive letters in reverse order; UVW runs forward.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q011
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)
+
+      Phone : Talk :: Television : ?
+    options:
+      A: Remote
+      B: View
+      C: Read
+      D: Channel
+    answer: B
+    explanation: A phone is used to talk; a television is used to view.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q012
+    difficulty: medium
+    stem: |-
+      Select the cube that can be formed by folding the given sheet along the lines.
+
+      [Figure: an unfolded sheet of six squares — a vertical column 6, 3, 2, 4 (top to bottom), with 5 attached to the right of 3 and 1 attached to the left of 2. Four cubes are labelled A, B, C, D: A shows 2 on top, 3 in front, 5 on the right; B shows 1 on top, 4 in front, 5 on the right; C shows 2 on top, 6 in front, 5 on the right; D shows 1 on top, 6 in front, 5 on the right.]
+
+      *(Figure: Net: column 6-3-2-4, with 5 right of 3 and 1 left of 2. Cubes (top/front/right): A 2/3/5, B 1/4/5, C 2/6/5, D 1/6/5.)*
+    options:
+      A: None are possible
+      B: Only A and B
+      C: Only C and D
+      D: Only A
+    answer: D
+    explanation: In the net, 6 is opposite 2, 3 is opposite 4 and 5 is opposite 1. Cubes B and D show 1 next to 5 and cube C shows 2 next to 6, so only cube A can be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q015
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      All cards are boxes.
+
+      All boxes are torches.
+
+      All torches are shoes.
+
+      Conclusions:
+
+      I. All shoes are torches.
+
+      II. All torches are boxes.
+
+      III. All boxes are cards.
+
+      IV. All cards are shoes.
+    options:
+      A: Only conclusion IV follows
+      B: Only conclusions II and III follow
+      C: Only conclusions I and II follow
+      D: Only conclusion III follows
+    answer: A
+    explanation: The chain cards ⊂ boxes ⊂ torches ⊂ shoes gives 'All cards are shoes'. The reverse statements (I, II, III) do not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q016
+    difficulty: medium
+    stem: |-
+      In a certain code language, FRUCTUS is coded as 108, and SPRINTER is coded as 119.
+
+      How will MASCULINE be coded in that language?
+    options:
+      A: "96"
+      B: "99"
+      C: "97"
+      D: "98"
+    answer: C
+    explanation: |-
+      The code is the sum of the letters' alphabet positions (FRUCTUS = 108, SPRINTER = 119).
+      MASCULINE = 13 + 1 + 19 + 3 + 21 + 12 + 9 + 14 + 5 = 97.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q017
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:
+
+      I. All W are S.
+
+      II. No D is W.
+
+      Conclusion:
+
+      I. Some S are W.
+
+      II. All S are D.
+
+      III. No W is D.
+    options:
+      A: Only conclusion III follows
+      B: Both conclusions I and III follows
+      C: Both conclusions I and II follows
+      D: All conclusion follows
+    answer: B
+    explanation: All W are S, so some S are W (I). 'No D is W' is the same as 'No W is D' (III). Nothing gives 'All S are D'.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q020
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+      19 : 324 :: 25 : 576 :: 9 : ?
+    options:
+      A: "16"
+      B: "64"
+      C: "88"
+      D: "72"
+    answer: B
+    explanation: "Each number maps to (n − 1)²: 18² = 324, 24² = 576, so 9 → 8² = 64."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q021
+    difficulty: medium
+    stem: |-
+      After arranging the given words according to dictionary order, which word will come at ‘Fifth’ position?
+
+      1. Popular
+
+      2. Population
+
+      3. Populace
+
+      4. Pope
+
+      5. Poppy
+    options:
+      A: Population
+      B: Poppy
+      C: Popular
+      D: Populace
+    answer: A
+    explanation: "In dictionary order: Pope, Poppy, Populace, Popular, Population. The fifth word is Population."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q022
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+
+      (20, 6, 4)
+
+      (24, 7, 5)
+    options:
+      A: (65, 9, 4)
+      B: (22, 5, 2)
+      C: (40, 8, 5)
+      D: (42, 7, 3)
+    answer: A
+    explanation: "The first number is the difference of the squares of the other two: 6² − 4² = 20 and 7² − 5² = 24. Likewise 9² − 4² = 65."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q023
+    difficulty: medium
+    stem: |-
+      A # B means ‘A is the sister of B’
+
+      A @ B means ‘A is the daughter of B’
+
+      A & B means ‘A is the husband of B’
+
+      A % B means ‘A is the father of B’
+
+      If A % B & C # D @ E, then how is B related to E?
+    options:
+      A: Brother
+      B: Son-in-law
+      C: Father
+      D: Son
+    answer: B
+    explanation: C is the sister of D, who is E's daughter, so C is E's daughter. B is C's husband, so B is E's son-in-law.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q024
+    difficulty: medium
+    stem: If A × B means that A is the brother of B, A – B means that A is the sister of B, A + B means that A is the father of B then which of the following expression shows that P is the paternal aunt of R?
+    options:
+      A: P – Q × R
+      B: P – Q + R
+      C: P × Q + R
+      D: P + Q – R
+    answer: B
+    explanation: "P – Q + R: P is the sister of Q and Q is the father of R, so P is R's paternal aunt."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q025
+    difficulty: medium
+    stem: "Select the odd group of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)"
+    options:
+      A: (7 – 343 – 331)
+      B: (6 – 216 – 206)
+      C: (5 – 125 – 115)
+      D: (4 – 64 – 54)
+    answer: A
+    explanation: In the other groups the third number is the cube minus 10 (216 − 10 = 206, 125 − 10 = 115, 64 − 10 = 54). For 7 it would be 333, not 331.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-01-s1-q026
+    difficulty: medium
+    stem: The term ‘Back-stick’ is used in which of the following games/sports?
+    options:
+      A: Basketball
+      B: Badminton
+      C: Hockey
+      D: Volleyball
+    answer: C
+    explanation: "Back-stick is a hockey term: hitting the ball with the rounded back of the stick, which is a foul."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q027
+    difficulty: medium
+    stem: Which of the following festivals in Punjab is celebrated to commemorate the formation of the Khalsa Panth?
+    options:
+      A: Lohri
+      B: Hola Mohalla
+      C: Teej
+      D: Baisakhi
+    answer: D
+    explanation: Baisakhi marks Guru Gobind Singh's founding of the Khalsa Panth in 1699.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q028
+    difficulty: medium
+    stem: What theme was decided to celebrate the second ‘International Day of Yoga’ in India?
+    options:
+      A: Yoga for the achievement of the Sustainable Development Goals
+      B: Yoga for Peace
+      C: Yoga for Wellness
+      D: Yoga for Heart
+    answer: A
+    explanation: The UN theme of the second International Day of Yoga (2016) was 'Yoga for the Achievement of the Sustainable Development Goals'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q029
+    difficulty: medium
+    stem: Chemical formula of quick lime is ______.
+    options:
+      A: CaO
+      B: CO²
+      C: CaCO³
+      D: Ca(OH)²
+    answer: A
+    explanation: Quicklime is calcium oxide, CaO.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q030
+    difficulty: medium
+    stem: What is the unit of work done?
+    options:
+      A: Watt
+      B: Decibel
+      C: Ampere
+      D: Joule
+    answer: D
+    explanation: Work is measured in joules (newton-metre).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q031
+    difficulty: medium
+    stem: Which of the following sites do “Not” have nuclear power plant?
+    options:
+      A: Vijayawada
+      B: Naraura
+      C: Tarapur
+      D: Rawat Bhata
+    answer: A
+    explanation: Narora (UP), Tarapur (Maharashtra) and Rawatbhata (Rajasthan) have nuclear power plants; Vijayawada does not.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q032
+    difficulty: medium
+    stem: The Ramakrishna Mission stressed the ideal of __________ through social service and selfless action.
+    options:
+      A: bhakti
+      B: education
+      C: salvation
+      D: God
+    answer: C
+    explanation: The Ramakrishna Mission stressed salvation through social service and selfless action (NCERT).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q033
+    difficulty: medium
+    stem: "International Non-Violence Day is observed on:"
+    options:
+      A: 15 August
+      B: 31 October
+      C: 2 October
+      D: 14 November
+    answer: C
+    explanation: The International Day of Non-Violence is observed on 2 October, Gandhi's birthday.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q034
+    difficulty: medium
+    stem: Which of the following Dynasties established the kingdom of Vijayanagara?
+    options:
+      A: Sangama Dynasty
+      B: Nagama Dynasty
+      C: Soma Dynasty
+      D: Tuluva Dynasty
+    answer: A
+    explanation: Harihara and Bukka of the Sangama dynasty founded the Vijayanagara kingdom in 1336.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q035
+    difficulty: medium
+    stem: When was ‘Vayudoot’ airline setup in India?
+    options:
+      A: "1981"
+      B: "1991"
+      C: "1971"
+      D: "1969"
+    answer: A
+    explanation: Vayudoot, a regional airline, was set up in 1981.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q036
+    difficulty: medium
+    stem: Wearing away of landscape by different agents like water, wind and ice is called ______.
+    options:
+      A: Weathering
+      B: Erosion
+      C: Metamorphosis
+      D: Sedimentation
+    answer: B
+    explanation: Erosion is the wearing away of the land by water, wind and ice.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q037
+    difficulty: medium
+    stem: Who has been appointed as the new chairman of the Central Board of Direct Taxes in June 2022?
+    options:
+      A: Nitin Gupta
+      B: Nidhi Chibber
+      C: Ashish Jha
+      D: M Jagadesh Kumar
+    answer: A
+    explanation: Nitin Gupta became CBDT chairman in June 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q038
+    difficulty: medium
+    stem: Who among the following is known as ‘Sarod Samrat’ in Indian Classical Music?
+    options:
+      A: Pandit Ravishankar Prasad
+      B: Aamir Ali Khan
+      C: Amjad Ali Khan
+      D: Kishan Maharaj
+    answer: C
+    explanation: Ustad Amjad Ali Khan is known as the 'Sarod Samrat'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q039
+    difficulty: medium
+    stem: Which of the following is NOT one of the methods of national income estimation?
+    options:
+      A: Banking method
+      B: Expenditure method
+      C: Product method
+      D: Income method
+    answer: A
+    explanation: National income is estimated by the product (value-added), income and expenditure methods. There is no 'banking method'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q040
+    difficulty: medium
+    stem: The term ‘Parliament’ refers to the ____________.
+    options:
+      A: Rajya Sabha
+      B: Lok Sabha
+      C: State legislature
+      D: National legislature
+    answer: D
+    explanation: "Parliament is the national legislature: the President, the Lok Sabha and the Rajya Sabha."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q041
+    difficulty: medium
+    stem: Chief Minister of which state has inaugurated a project of the Women and Child Development department to provide milk and eggs to children at all anganwadis in the state in a bid to improve their nutrition levels?
+    options:
+      A: Andhra Pradesh
+      B: Kerala
+      C: Karnataka
+      D: Tamil Nadu
+    answer: B
+    explanation: Kerala's CM launched 'Poshak Balyam' in 2022 to give milk and eggs to children at anganwadis.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q042
+    difficulty: medium
+    stem: A 'Camel Protection and Development Policy' has been announced by the government of _______.
+    options:
+      A: Rajasthan
+      B: Punjab
+      C: Gujarat
+      D: Ladakh
+    answer: A
+    explanation: Rajasthan announced a Camel Protection and Development Policy in 2022; the camel is its state animal.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q043
+    difficulty: medium
+    stem: Who among the following Presidents of India was also the deputy chairman of Planning Commission?
+    options:
+      A: V V Giri
+      B: K R Narayanan
+      C: Ramaswamy Venkataraman
+      D: Pranab Mukherjee
+    answer: D
+    explanation: Pranab Mukherjee was Deputy Chairman of the Planning Commission (1991–96) before becoming President.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q044
+    difficulty: medium
+    stem: "In Golgi apparatus, the maturing face is:"
+    options:
+      A: spherical
+      B: convex
+      C: bi-concave
+      D: concave
+    answer: B
+    explanation: |-
+      **Disputed.** SSC's answer is B; our check suggests D.
+
+      The official key says convex. NCERT describes the cis (forming) face as convex and the trans (maturing) face as concave.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q045
+    difficulty: medium
+    stem: Raja Ram Mohan Roy founded a reform association known as Brahmo Sabha which was later known as ______.
+    options:
+      A: Dev Samaj
+      B: Arya Samaj
+      C: Brahmo School
+      D: Brahmo Samaj
+    answer: D
+    explanation: The Brahmo Sabha, founded in 1828, was later renamed the Brahmo Samaj.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q046
+    difficulty: medium
+    stem: ______ part of xylem tissue in plants stores food.
+    options:
+      A: Vessels
+      B: Xylem fibres
+      C: Xylem parenchyma
+      D: Tracheids
+    answer: C
+    explanation: Xylem parenchyma is living tissue that stores food (starch); vessels, tracheids and fibres are dead.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q047
+    difficulty: medium
+    stem: Who among the following composers won the Grammy in 2015 for his album ‘Winds of Samsara' – a collaboration with South African flautist Wouter Kellerman?
+    options:
+      A: Mano Murthy
+      B: Raghu Dixit
+      C: Subhashish Ghosh
+      D: Ricky Kej
+    answer: D
+    explanation: Ricky Kej won the 2015 Grammy for 'Winds of Samsara' with Wouter Kellerman.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q048
+    difficulty: medium
+    stem: In which of the following Indian states, Harappan cities have NOT been found?
+    options:
+      A: Uttarakhand
+      B: Gujarat
+      C: Rajasthan
+      D: Haryana
+    answer: A
+    explanation: Harappan cities have been found in Gujarat (Dholavira, Lothal), Rajasthan (Kalibangan) and Haryana (Rakhigarhi, Banawali), but not in Uttarakhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q049
+    difficulty: medium
+    stem: Burning of coal is an example of ______.
+    options:
+      A: decomposition reaction
+      B: double displacement reaction
+      C: combination reaction
+      D: displacement reaction
+    answer: C
+    explanation: "Burning coal is C + O₂ → CO₂, two substances combining into one: a combination reaction."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q050
+    difficulty: medium
+    stem: The foremost right among rights to freedom is ________.
+    options:
+      A: Right to life and personal liberty
+      B: Preventive detention
+      C: Freedom to assemble
+      D: Right to freedom of speech and expression
+    answer: A
+    explanation: Article 21, the right to life and personal liberty, is regarded as the foremost of the freedom rights.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-01-s1-q051
+    difficulty: medium
+    stem: A dishonest merchant sells goods at a 12.5% loss on the cost price, but uses 28 g weight instead of 36 g. What is his percentage profit or loss?
+    options:
+      A: 6.25% loss
+      B: 12.5% gain
+      C: 18.75% gain
+      D: 10.5% loss
+    answer: B
+    explanation: He charges 0.875 × 36 = 31.5 for goods costing 28, a gain of 3.5/28 = 12.5%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q052
+    difficulty: medium
+    stem: The HCF of two numbers is 12. Which one of the following can never be their LCM?
+    options:
+      A: "72"
+      B: "60"
+      C: "90"
+      D: "84"
+    answer: C
+    explanation: The LCM must be a multiple of the HCF. 90 is not a multiple of 12.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q053
+    difficulty: medium
+    stem: "Two circles touch each other externally at P. AB is a direct common tangent to the two circles, A and B are points of contact, and ∠PAB = 40° . The measure of ∠ABP is:"
+    options:
+      A: 45°
+      B: 55°
+      C: 50°
+      D: 40°
+    answer: C
+    explanation: For two circles touching externally, the direct common tangent subtends 90° at the point of contact, so ∠APB = 90° and ∠ABP = 180° − 90° − 40° = 50°.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q054
+    difficulty: medium
+    stem: "The mean proportion of 169 and 144 is:"
+    options:
+      A: "156"
+      B: "147"
+      C: "126"
+      D: "165"
+    answer: A
+    explanation: Mean proportional = √(169 × 144) = 13 × 12 = 156.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q055
+    difficulty: medium
+    stem: The length and breadth of a rectangle are increased by 8% and 5%, respectively. By how much percentage will the area of the rectangle increase?
+    options:
+      A: 13.4%
+      B: 15.4%
+      C: 12.4%
+      D: 16.4%
+    answer: A
+    explanation: Area change = 8 + 5 + (8 × 5)/100 = 13.4%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q056
+    difficulty: medium
+    stem: Simplify (cos 45°)/(sec 30° + cosec 30°)
+    options:
+      A: (3√2 + √6)/8
+      B: √3/(2√2 − 2√6)
+      C: (3√2 − √6)/8
+      D: √3/(2√6 − 2√2)
+    answer: C
+    explanation: (1/√2) / (2/√3 + 2) = √3 / (2√2(1 + √3)). Rationalising gives (3 − √3)/(4√2) = (3√2 − √6)/8.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q057
+    difficulty: medium
+    stem: Which of the following numbers is a divisor of (49¹⁵ − 1)?
+    options:
+      A: "46"
+      B: "14"
+      C: "8"
+      D: "50"
+    answer: C
+    explanation: aⁿ − 1 is divisible by a − 1, so 49¹⁵ − 1 is divisible by 48, and so by 8.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q058
+    difficulty: medium
+    stem: In a 1500 m race, Anil beats Bakul by 150 m and in the same race Bakul beats Charles by 75 m. By what distance does Anil beat Charles?
+    options:
+      A: 217.50 m
+      B: 200.15 m
+      C: 293.50 m
+      D: 313.75 m
+    answer: A
+    explanation: When Bakul runs 1350 m, Charles runs 1350 × 1425/1500 = 1282.5 m. Anil beats Charles by 1500 − 1282.5 = 217.5 m.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q059
+    difficulty: medium
+    stem: ₹2,500, when invested for 8 years at a given rate of simple interest per year, amounted to ₹3,725 on maturity. What was the rate of simple interest that was paid per annum?
+    options:
+      A: 6%
+      B: 6.125%
+      C: 6.25%
+      D: 5.875%
+    answer: B
+    explanation: SI = 3725 − 2500 = 1225 = 2500 × R × 8/100, so R = 6.125%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q060
+    difficulty: medium
+    stem: |-
+      The following table shows the number of pages printed by 3 printers during 3 days.
+
+      | Days \ Printers | X | Y | Z |
+      |---|---|---|---|
+      | Monday | 130 | 140 | 210 |
+      | Tuesday | 110 | 145 | 160 |
+      | Wednesday | 180 | 90 | 218 |
+
+      What is the average number of pages printed by printer Z during the 3 days?
+    options:
+      A: "196"
+      B: "194"
+      C: "192"
+      D: "190"
+    answer: A
+    explanation: (210 + 160 + 218)/3 = 588/3 = 196.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q061
+    difficulty: medium
+    stem: The batting average for 27 innings of a cricket player is 47 runs. His highest score in an innings exceeds his lowest score by 157 runs. If these two innings are excluded, the average score of the remaining 25 innings is 42 runs. Find his highest score in an innings.
+    options:
+      A: "176"
+      B: "188"
+      C: "186"
+      D: "174"
+    answer: B
+    explanation: Total = 27 × 47 = 1269, and the other 25 innings make 25 × 42 = 1050, so H + L = 219. With H − L = 157, H = 188.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q062
+    difficulty: medium
+    stem: P and Q can complete a project in 15 days and 10 days, respectively. They started doing the work together, but after 2 days, Q had to leave and P alone completed the remaining work. In how many days was the whole work completed?
+    options:
+      A: "11"
+      B: "12"
+      C: "13"
+      D: "10"
+    answer: B
+    explanation: Together they do 1/15 + 1/10 = 1/6 a day, so 1/3 in 2 days. P does the remaining 2/3 in 10 days, so 12 days in all.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q063
+    difficulty: medium
+    stem: |-
+      The pie chart given below shows the number of truck sold by 8 different companies. The total number of truck sold by all these 8 companies are 4000. Number of truck sold by a particular company is shown as a percent of total number of truck sold by all these 8 companies.
+
+      [Pie chart: A 13%, B 27%, C 18%, D 12%, E 3%, F 7%, G 6%, H 14%]
+
+      The number of trucks sold by B, C, F and H is how much percent less than the number of trucks sold by all these 8 companies?
+
+      *(Figure: Pie chart of truck sales: A 13%, B 27%, C 18%, D 12%, E 3%, F 7%, G 6%, H 14%.)*
+    options:
+      A: 46 percent
+      B: 22 percent
+      C: 34 percent
+      D: 14 percent
+    answer: C
+    explanation: B + C + F + H = 27 + 18 + 7 + 14 = 66% of the total, which is 34% less than the total.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q064
+    difficulty: medium
+    stem: If x² − 5x + 1 = 0, then the value of (x⁶ + x⁴ + x² + 1)/(5x³) = ?
+    options:
+      A: "30"
+      B: "25"
+      C: "23"
+      D: "28"
+    answer: C
+    explanation: x + 1/x = 5. The expression is (x³ + 1/x³ + x + 1/x)/5 = (110 + 5)/5 = 23, since x³ + 1/x³ = 125 − 15 = 110.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q065
+    difficulty: medium
+    stem: "In a right-angled triangle PQR, right-angled at Q, the length of the side PR is 17 units, length of the base QR is 8 units, and length of the side PQ is 15 units. If ∠RPQ = α, then sinα + cosα is:"
+    options:
+      A: 18/17
+      B: 23/17
+      C: 21/17
+      D: 15/17
+    answer: B
+    explanation: At P, the opposite side is QR = 8 and the adjacent side is PQ = 15, so sin α + cos α = 8/17 + 15/17 = 23/17.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q066
+    difficulty: medium
+    stem: If [(17)³ + (7)³]/(17² + 7² − k) = 24, then what is the value of k?
+    options:
+      A: "119"
+      B: "128"
+      C: "24"
+      D: "109"
+    answer: A
+    explanation: a³ + b³ = (a + b)(a² − ab + b²). With a + b = 24, the denominator must be 17² + 7² − 17 × 7, so k = 119.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q067
+    difficulty: medium
+    stem: The circumference of the two circles is 198 cm and 352 cm respectively. What is the difference between their radii?
+    options:
+      A: 45 cm
+      B: 16.5 cm
+      C: 49.5 cm
+      D: 24.5 cm
+    answer: D
+    explanation: The radii are 198/(2π) = 31.5 cm and 352/(2π) = 56 cm, a difference of 24.5 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q068
+    difficulty: medium
+    stem: Radius of a circle is 10 cm. Angle made by chord AB at the centre of this circle is 60 degree. What is the length of this chord?
+    options:
+      A: 40 cm
+      B: 20 cm
+      C: 30 cm
+      D: 10 cm
+    answer: D
+    explanation: A 60° central angle with two 10 cm radii makes an equilateral triangle, so the chord is 10 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q069
+    difficulty: medium
+    stem: How many spherical lead shots each of diameter 8.4 cm can be obtained from a rectangular solid of lead with dimension 88 cm, 63 cm, 42 cm (take π = 22/7)?
+    options:
+      A: "920"
+      B: "750"
+      C: "650"
+      D: "860"
+    answer: B
+    explanation: Number of shots = (88 × 63 × 42) / ((4/3) × (22/7) × 4.2³) = 232848 / 310.464 = 750.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q070
+    difficulty: medium
+    stem: |-
+      The table given below shows the number of spoon manufactured by five factories.
+
+      | Factory | Spoon |
+      |---|---|
+      | P | 100 |
+      | Q | 200 |
+      | R | 150 |
+      | S | 50 |
+      | T | 250 |
+
+      What are the ratio of number of spoon manufactured by P to the number of spoon manufactured by R?
+    options:
+      A: "3 : 2"
+      B: "2 : 3"
+      C: "14 : 1"
+      D: "1 : 3"
+    answer: B
+    explanation: "P : R = 100 : 150 = 2 : 3."
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q071
+    difficulty: medium
+    stem: |-
+      In the triangle ABC, AB = 12 cm and AC = 10 cm, and ∠BAC = 60°. What is the value of the length of the side BC?
+
+      [Figure: triangle ABC with apex A at the top, angle 60° marked at A, base BC]
+
+      *(Figure: Triangle ABC with ∠A = 60° marked; B bottom-left, C bottom-right.)*
+    options:
+      A: 10 cm
+      B: 7.13 cm
+      C: 13.20 cm
+      D: 11.13 cm
+    answer: D
+    explanation: "Cosine rule: BC² = 12² + 10² − 2 × 12 × 10 × cos 60° = 124, so BC ≈ 11.13 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q072
+    difficulty: medium
+    stem: "The value of tan² θ + cot² θ − sec² θ cosec² θ is:"
+    options:
+      A: "2"
+      B: −2
+      C: "0"
+      D: 1/2
+    answer: B
+    explanation: sec²θ cosec²θ = (1 + tan²θ)(1 + cot²θ) = 2 + tan²θ + cot²θ, so the expression equals −2.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q074
+    difficulty: medium
+    stem: If 4[(17)³ − (7)³]/(17² + 7² + p) = 40, then what is the value of p?
+    options:
+      A: –119
+      B: –129
+      C: "119"
+      D: "129"
+    answer: C
+    explanation: a³ − b³ = (a − b)(a² + ab + b²), so 4 × 10 × (17² + 17 × 7 + 7²) / (17² + 7² + p) = 40 when p = 17 × 7 = 119.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q075
+    difficulty: medium
+    stem: Riya could not decide between discount of 30% or two successive discounts of 25% and 5%, both given on shopping of ₹3,840. What is the difference between both the discounts?
+    options:
+      A: ₹44
+      B: ₹48
+      C: ₹42
+      D: ₹46
+    answer: B
+    explanation: 30% of 3840 = 1152. Successive 25% and 5% give 1 − 0.75 × 0.95 = 28.75%, i.e. 1104. The difference is ₹48.
+    tags:
+      - quant
+  - slug: cgl-2022-12-01-s1-q076
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. When this extra water vapour condenses into precipitation, it results in heavier rain — or, if it's cold enough, heavier snow.
+
+      B. The atmosphere can store an additional 4% of water vapour for every additional 1°F of warming.
+
+      C. More water evaporates from soils, plants, lakes and seas as the atmosphere warms.
+
+      D. One of the most obvious indications of climate change is heavier rainfall.
+    options:
+      A: CBDA
+      B: DCBA
+      C: ACDB
+      D: BCAD
+    answer: B
+    explanation: "D states the claim (heavier rainfall), C says warming increases evaporation, B quantifies the extra vapour and A gives the result: DCBA."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the correct indirect form of the given sentence.
+
+      She said, “I am in no mood to work now.”
+    options:
+      A: She said that she has been in no mood to work then.
+      B: She said that she was in no mood to work now.
+      C: She said that she was in no mood to work then.
+      D: She said that she has been in no mood to work now.
+    answer: C
+    explanation: In reported speech, 'am' becomes 'was' and 'now' becomes 'then'.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q078
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      Manu will tell her later.
+    options:
+      A: She will be tell later by Manu.
+      B: She will tell later by Manu.
+      C: She will be told later by Manu.
+      D: She will be tell later.
+    answer: C
+    explanation: "The passive of 'will tell' is 'will be told': 'She will be told later by Manu.'"
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      Has the villa been occupied by them?
+    options:
+      A: Did they occupied the villa?
+      B: Had they occupied the villa?
+      C: Have they occupied the villa?
+      D: Do they occupied the villa?
+    answer: C
+    explanation: "'Has … been occupied' is present perfect passive, so the active is 'Have they occupied the villa?'"
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q080
+    difficulty: medium
+    stem: |-
+      In the given sentence, one word may have been incorrectly spelt. Select the correctly spelt word from the given alternatives. If there is no error, select ‘No error’ as your answer.
+
+      The erroneous information spread rapidly across the nation and created a stir.
+    options:
+      A: erronous
+      B: No error
+      C: eronneous
+      D: errauneous
+    answer: B
+    explanation: "'Erroneous' is spelt correctly in the sentence."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the word ‘SINKS’ from the given sentence.
+
+      Groups work together to create Christmas parade themes, which are then carried out in floats, musical groups, and strolling figures.
+    options:
+      A: Floats
+      B: Create
+      C: Parade
+      D: Strolling
+    answer: A
+    explanation: The opposite of 'sinks' is 'floats', which appears in the sentence.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The angles are equal, consequently the sides are _____________.
+    options:
+      A: equal
+      B: unequal
+      C: larger
+      D: smaller
+    answer: A
+    explanation: In a triangle, equal angles imply equal opposite sides.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Like a cakewalk
+    options:
+      A: Smooth surface
+      B: Pleasant experience
+      C: Easy task
+      D: Active
+    answer: C
+    explanation: A cakewalk is something very easy to do.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.
+
+      After finishing high school, I **plan to pursuing** law.
+    options:
+      A: No substitution
+      B: plan to pursue
+      C: plan in pursue
+      D: plan to pursuing
+    answer: B
+    explanation: "'Plan' takes a to-infinitive: 'plan to pursue'."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Confusion
+    options:
+      A: Intrepidity
+      B: Stagnation
+      C: Perusal
+      D: Commotion
+    answer: D
+    explanation: Commotion (a noisy disturbance) is closest in meaning to confusion.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence.
+
+      Our guests **arrived**; they are sitting in the garden.
+    options:
+      A: shall arrive
+      B: have arrived
+      C: are arriving
+      D: might arrive
+    answer: B
+    explanation: "A past action with a present result ('they are sitting') takes the present perfect: 'have arrived'."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q087
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      During an earthquake, / it is advised to take / cover above a table / to save your life.
+    options:
+      A: cover above a table
+      B: During an earthquake,
+      C: it is advised to take
+      D: to save your life.
+    answer: A
+    explanation: You take cover under a table, not above it.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q088
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Finery
+      B: Hiest
+      C: Cringe
+      D: Defer
+    answer: B
+    explanation: The correct spelling is 'heist'.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      All eyes
+    options:
+      A: Watching with anger
+      B: Watching eagerly
+      C: Watching with no interest
+      D: Not watching at all
+    answer: B
+    explanation: To be 'all eyes' is to watch eagerly and attentively.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      He was **looking into his book** for the last two hours but couldn’t find it.
+    options:
+      A: looking down on his book
+      B: looking above his book
+      C: looking for his book
+      D: looking after his book
+    answer: C
+    explanation: "'Couldn't find it' shows he was searching, i.e. 'looking for his book'."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate collocating word to fill in the blank.
+
+      Ram was praised for his________ leadership.
+    options:
+      A: imaginary
+      B: visionary
+      C: magical
+      D: broad
+    answer: B
+    explanation: "'Visionary leadership' is the standard collocation."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word segment for the underlined word in the given sentence.
+
+      Pintu has been advised to **reduce** smoking by his family doctor.
+    options:
+      A: cut down
+      B: less down
+      C: lower down
+      D: up down
+    answer: A
+    explanation: To 'cut down' on smoking means to reduce it.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Rebellion
+    options:
+      A: Uprising
+      B: Loyalty
+      C: Sedition
+      D: Allotment
+    answer: B
+    explanation: Rebellion is resistance to authority; its opposite is loyalty.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Hospitality
+    options:
+      A: Complaint
+      B: Cordiality
+      C: Coldness
+      D: Wrathful
+    answer: C
+    explanation: Hospitality is a warm, friendly welcome; its opposite is coldness.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q095
+    difficulty: medium
+    stem: Select the sentence with the appropriate use of adverb of manner.
+    options:
+      A: He done his work regularly.
+      B: He has just done his work.
+      C: He does his work carefully.
+      D: He has done his work on my table.
+    answer: C
+    explanation: "'Carefully' is an adverb of manner (how he does his work)."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Digital India can be the prime (1)________ behind making a reality of the government’s promise of minimum government, maximum governance. Such a transformation requires technology to be firmly (2)_________ into government, something that the Digital India project lists as one of its foremost objectives. Embedding technology into government (3) _________ will do three things; transform the government and make it more transparent and efficient, transform the lives of citizens especially those at the bottom of the (4)_________ pyramid and make our economy more efficient and competitive. A 2014 McKinsey Global Institute report predicts that the large-scale (5) ________ of technology through Digital India positions India with the biggest opportunity yet to accelerate economic growth.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: impact
+      B: might
+      C: factors
+      D: force
+    answer: D
+    explanation: The 'prime force behind' something is its main driving power.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Digital India can be the prime (1)________ behind making a reality of the government’s promise of minimum government, maximum governance. Such a transformation requires technology to be firmly (2)_________ into government, something that the Digital India project lists as one of its foremost objectives. Embedding technology into government (3) _________ will do three things; transform the government and make it more transparent and efficient, transform the lives of citizens especially those at the bottom of the (4)_________ pyramid and make our economy more efficient and competitive. A 2014 McKinsey Global Institute report predicts that the large-scale (5) ________ of technology through Digital India positions India with the biggest opportunity yet to accelerate economic growth.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: inserted
+      B: embedded
+      C: planted
+      D: stuck
+    answer: B
+    explanation: "'Firmly embedded' matches 'Embedding technology into government' in the next sentence."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Digital India can be the prime (1)________ behind making a reality of the government’s promise of minimum government, maximum governance. Such a transformation requires technology to be firmly (2)_________ into government, something that the Digital India project lists as one of its foremost objectives. Embedding technology into government (3) _________ will do three things; transform the government and make it more transparent and efficient, transform the lives of citizens especially those at the bottom of the (4)_________ pyramid and make our economy more efficient and competitive. A 2014 McKinsey Global Institute report predicts that the large-scale (5) ________ of technology through Digital India positions India with the biggest opportunity yet to accelerate economic growth.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: offices
+      B: details
+      C: processes
+      D: hierarchies
+    answer: C
+    explanation: Technology is embedded into government 'processes'.
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Digital India can be the prime (1)________ behind making a reality of the government’s promise of minimum government, maximum governance. Such a transformation requires technology to be firmly (2)_________ into government, something that the Digital India project lists as one of its foremost objectives. Embedding technology into government (3) _________ will do three things; transform the government and make it more transparent and efficient, transform the lives of citizens especially those at the bottom of the (4)_________ pyramid and make our economy more efficient and competitive. A 2014 McKinsey Global Institute report predicts that the large-scale (5) ________ of technology through Digital India positions India with the biggest opportunity yet to accelerate economic growth.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: mythical
+      B: proverbial
+      C: hypothetical
+      D: classified
+    answer: B
+    explanation: "'The bottom of the proverbial pyramid' refers to the well-known 'bottom of the pyramid' idea."
+    tags:
+      - english
+  - slug: cgl-2022-12-01-s1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Digital India can be the prime (1)________ behind making a reality of the government’s promise of minimum government, maximum governance. Such a transformation requires technology to be firmly (2)_________ into government, something that the Digital India project lists as one of its foremost objectives. Embedding technology into government (3) _________ will do three things; transform the government and make it more transparent and efficient, transform the lives of citizens especially those at the bottom of the (4)_________ pyramid and make our economy more efficient and competitive. A 2014 McKinsey Global Institute report predicts that the large-scale (5) ________ of technology through Digital India positions India with the biggest opportunity yet to accelerate economic growth.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: enhancement
+      B: anticipation
+      C: adaptation
+      D: monitoring
+    answer: C
+    explanation: The large-scale 'adaptation' (taking up) of technology is the only option that fits.
+    tags:
+      - english

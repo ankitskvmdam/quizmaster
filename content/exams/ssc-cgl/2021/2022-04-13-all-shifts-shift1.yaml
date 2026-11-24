@@ -1,0 +1,1352 @@
+slug: 2022-04-13-all-shifts-shift1
+title: SSC CGL 2021 Tier 1
+date: 2022-04-13
+label: 13 Apr, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b72bf004-db03-11ed-a630-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q5, Q13, Q16, Q17, Q19, Q23."
+questions:
+  - slug: cgl-2022-04-13-all-ss-shift1-q001
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      24, ?, 52, 312, 320
+    options:
+      A: "42"
+      B: "35"
+      C: "30"
+      D: "48"
+    answer: D
+    explanation: "The steps alternate ×2, +4, ×6, +8: 24 × 2 = 48, 48 + 4 = 52, 52 × 6 = 312, 312 + 8 = 320."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q002
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      All employees are tax-payers.  
+      Some employees are farmers.  
+      Some farmers are doctors.
+
+      **Conclusions:**
+
+      I. No farmer is a tax-payer.  
+      II. Some farmers are tax-payers.
+    options:
+      A: Only conclusion II follows.
+      B: Only conclusion I follows.
+      C: Both the conclusions follow.
+      D: Either conclusion I or II follows.
+    answer: A
+    explanation: Some employees are farmers and all employees are tax-payers, so some farmers are tax-payers. II follows and I is then false.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q003
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      ECDR, BGYW, YKTB, VOOG, ?, PWEQ
+    options:
+      A: SSJL
+      B: RSIL
+      C: SRJL
+      D: SSKM
+    answer: A
+    explanation: "Letter by letter: the first goes −3, the second +4, the third −5 and the fourth +5. From VOOG the next term is SSJL."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q004
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: BUMD
+      B: WPHY
+      C: MFXO
+      D: CZSH
+    answer: D
+    explanation: In BUMD, WPHY and MFXO each letter is 7, 8 and 9 places back from the one before (B→U→M→D). CZSH does not follow this (C − 7 = V, not Z).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q006
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      IVORY : ZWSPJ :: CREAM : ?
+    options:
+      A: BQDZL
+      B: NFDQB
+      C: DSFCN
+      D: SNFDB
+    answer: D
+    explanation: The letters of IVORY are arranged in reverse alphabetical order (Y, V, R, O, I) and each is moved +1, giving ZWSPJ. CREAM → R, M, E, C, A → SNFDB.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q007
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Magnetic  
+      2. Magnify  
+      3. Magnet  
+      4. Magical  
+      5. Majesty
+    options:
+      A: 4, 3, 2, 1, 5
+      B: 4, 3, 1, 2, 5
+      C: 4, 1, 3, 2, 5
+      D: 3, 1, 4, 2, 5
+    answer: B
+    explanation: "Dictionary order: Magical, Magnet, Magnetic, Magnify, Majesty, that is 4, 3, 1, 2, 5."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q008
+    difficulty: medium
+    stem: Five friends, H, I, J, K and L, are top rank holders of a school. The rank of H is just above the rank of K and just below the rank of L. I is at the top rank and J is not at the lowest rank. Who among them is at the lowest rank?
+    options:
+      A: M
+      B: L
+      C: K
+      D: J
+    answer: C
+    explanation: I is first and L, H, K come in a row; J is not last, so the order is I, J, L, H, K. K has the lowest rank.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q009
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the given equation correct?
+
+      28 + 14 × 7 ÷ 5 – 18 = 20
+    options:
+      A: ÷ and +
+      B: ÷ and –
+      C: + and ×
+      D: ÷ and ×
+    answer: D
+    explanation: Swapping ÷ and × gives 28 + 14 ÷ 7 × 5 − 18 = 28 + 10 − 18 = 20.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q010
+    difficulty: medium
+    stem: |-
+      Which two signs need to be interchanged to make the following equation correct?
+
+      72 × 18 ÷ 9 + 19 − 39 = 16
+    options:
+      A: − and ×
+      B: + and ×
+      C: − and +
+      D: ÷ and ×
+    answer: D
+    explanation: Swapping ÷ and × gives 72 ÷ 18 × 9 + 19 − 39 = 36 + 19 − 39 = 16.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q011
+    difficulty: medium
+    stem: In a certain code language, 'POTATO' is coded as 32-30-40-2-40-30 and 'TURNIP' is coded as 40-42-36-28-18-32. How will 'RADISH' be coded in that language?
+    options:
+      A: 36-1-4-19-16
+      B: 18-2-4-19-18
+      C: 18-1-8-38-18
+      D: 36-2-8-38-16
+    answer: D
+    explanation: Each letter is written as twice its position, so RADISH = 36-2-8-18-38-16. Option D is the only match; it leaves out the 18 for I, as printed in the paper.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q012
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number from among the given options that can replace the question mark (?) in it.15
+
+      | | | |
+      |---|---|---|
+      | 15 | 81 | 12 |
+      | 18 | 99 | 15 |
+      | 17 | 120 | ? |
+    options:
+      A: "11"
+      B: "13"
+      C: "9"
+      D: "16"
+    answer: B
+    explanation: |-
+      Each row gives (first)² − (third)² = middle: 15² − 12² = 81 and 18² − 15² = 99.
+      So 17² − ?² = 120 gives ?² = 169 and ? = 13.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q014
+    difficulty: medium
+    stem: In a class of 98 students, all play at least one of the three games — snooker, chess and tennis. 42 students play snooker, 49 play tennis, and 43 play chess. The total number of students who play any and only two games is 29. 5 students play all the three games. The number of students who play only snooker and only chess is equal. 11 students play only snooker and tennis. 6 students play only snooker and chess. How many students play only tennis?
+    options:
+      A: "21"
+      B: "23"
+      C: "20"
+      D: "22"
+    answer: A
+    explanation: Only chess + tennis = 29 − 11 − 6 = 12. Only tennis = 49 − 11 − 12 − 5 = 21.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q015
+    difficulty: medium
+    stem: In a certain code language, 'this is fact' is written as 'cuz duz ruz', 'fact is fictional' is written as 'guz ruz cuz', and 'doubt is clear' is written as 'cuz kuz buz'. How will 'this is fictional' be written in that language?
+    options:
+      A: duz guz ruz
+      B: duz buz cuz
+      C: kuz guz ruz
+      D: duz guz cuz
+    answer: D
+    explanation: "'is' = cuz (in all three), 'fact' = ruz (in 1 and 2), so 'this' = duz and 'fictional' = guz. 'this is fictional' = duz cuz guz (order doesn't matter), which is option D."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q018
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      27 : 576 :: 19 : ?
+    options:
+      A: "328"
+      B: "543"
+      C: "256"
+      D: "498"
+    answer: C
+    explanation: 27 → (27 − 3)² = 24² = 576. So 19 → 16² = 256.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q020
+    difficulty: medium
+    stem: Pointing towards a woman, Reena said, "She is the only daughter of my father-in-law." How is the woman related to Reena?
+    options:
+      A: Sister
+      B: Mother
+      C: Daughter
+      D: Sister-in-law
+    answer: D
+    explanation: The only daughter of Reena's father-in-law is her husband's sister, that is, her sister-in-law.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q021
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      74, 74, 72, 24, ?, 4
+    options:
+      A: "21"
+      B: "20"
+      C: "15"
+      D: "9"
+    answer: B
+    explanation: "The operations alternate ÷1, −2, ÷3, −4, ÷5: 74, 74, 72, 24, 20, 4."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q022
+    difficulty: medium
+    stem: In a certain code language, 'FOREST' is written as 'GUSITU', and 'MANGROVE' is written as 'NEOHSUWI'. How will 'REINCARNATE' be written in that language?
+    options:
+      A: SIOODESOEUI
+      B: SFOFDESOBUI
+      C: QIOQDESOEUF
+      D: SIOODESOEFF
+    answer: A
+    explanation: Consonants move +1 and vowels change to the next vowel (A→E, E→I, I→O, O→U). REINCARNATE → SIOODESOEUI.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q024
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown, the six faces of which are numbered from 1 to 6. Select the number that will be on the face opposite to the face having the number '3'.
+
+      *(Figure: Two dice views (top, left, right): (5, 6, 3); (5, 1, 6).)*
+    options:
+      A: "2"
+      B: "1"
+      C: "6"
+      D: "4"
+    answer: B
+    explanation: Both views show 5 on top. Reading round it, the side faces run 1, 6, 3, so 1 and 3 are not adjacent and must be opposite.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q025
+    difficulty: medium
+    stem: |-
+      Which letter will replace the question mark (?) in the following letter series?
+
+      E, J, N, Q, S, ?
+    options:
+      A: T
+      B: V
+      C: U
+      D: S
+    answer: A
+    explanation: The gaps are +5, +4, +3, +2, +1, so the next letter is S + 1 = T.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift1-q026
+    difficulty: medium
+    stem: Who among the following won P4 gold at the Al Ain 2021 Para Shooting World Cup in March 2021?
+    options:
+      A: Manish Narwal
+      B: Singhraj Adhana
+      C: Rahul Jakhar
+      D: Deepender Singh
+    answer: A
+    explanation: Manish Narwal won P4 mixed 50 m pistol SH1 gold at Al Ain in March 2021 with a world record (paralympic.org).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q027
+    difficulty: medium
+    stem: Acidic nature of soil is shown by high concentration of ______.
+    options:
+      A: hydrogen
+      B: phosphorous
+      C: nitrogen
+      D: oxygen
+    answer: A
+    explanation: Soil acidity is a high concentration of hydrogen ions (low pH).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q028
+    difficulty: medium
+    stem: Who among the following is the Director of The Nehru Centre in London as of April 2021?
+    options:
+      A: Amish Tripathi
+      B: Chetan Bhagat
+      C: Vikram Seth
+      D: Amitav Ghosh
+    answer: A
+    explanation: Author Amish Tripathi was appointed Director of the Nehru Centre, London, in 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q029
+    difficulty: medium
+    stem: In which of the following places is the difference between the day and night temperatures likely to be the highest?
+    options:
+      A: Chilika Lake
+      B: Mount Everest
+      C: Thar Desert
+      D: Andaman and Nicobar Islands
+    answer: C
+    explanation: Deserts such as the Thar have the largest daily range of temperature, because dry air and sand heat fast by day and lose heat fast at night.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q030
+    difficulty: medium
+    stem: The Minimum Support Price (MSP) for which of the following Rabi crops was increased by ₹50 per quintal over the previous year, in the marketing season 2021-22?
+    options:
+      A: Barley
+      B: Gram
+      C: Safflower
+      D: Wheat
+    answer: D
+    explanation: For the 2021-22 marketing season, the wheat MSP rose by only ₹50 to ₹1,975 per quintal; barley, gram and safflower rose by more.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q031
+    difficulty: medium
+    stem: The rooftop of Guru Hemkund Sahib is in the shape of an upturned ______.
+    options:
+      A: lotus
+      B: sunflower
+      C: rose
+      D: marigold
+    answer: A
+    explanation: The roof of Gurudwara Hemkund Sahib is shaped like an inverted lotus (urdha kamal).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q032
+    difficulty: medium
+    stem: Which of the following Indian Acts was passed in the year 2005?
+    options:
+      A: The Biological Diversity Act
+      B: The Prevention of Money-Laundering Act
+      C: The Competition Act
+      D: The Protection of Women from Domestic Violence Act
+    answer: D
+    explanation: The Protection of Women from Domestic Violence Act was passed in 2005. The other three Acts are from 2002.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q033
+    difficulty: medium
+    stem: The ______ radiation belts are giant swaths of magnetically trapped highly energetic charged particles that surround Earth.
+    options:
+      A: Van Allen
+      B: Aurora
+      C: Kuiper
+      D: Chinook
+    answer: A
+    explanation: The Van Allen belts are zones of charged particles trapped by Earth's magnetic field.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q034
+    difficulty: medium
+    stem: Madagascar is located in the ______ Ocean.
+    options:
+      A: Pacific
+      B: Arctic
+      C: Indian
+      D: Atlantic
+    answer: C
+    explanation: Madagascar lies in the Indian Ocean off the south-east coast of Africa.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q035
+    difficulty: medium
+    stem: ______ received the 'Global Goalkeeper' Award by Bill and Melinda Gates Foundation for Swachh Bharat Abhiyan, on 24 September 2019.
+    options:
+      A: Ramnath Kovind
+      B: Narendra Modi
+      C: Pranab Mukherjee
+      D: Manmohan Singh
+    answer: B
+    explanation: PM Narendra Modi received the Gates Foundation's Global Goalkeeper Award for Swachh Bharat Abhiyan in September 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q036
+    difficulty: medium
+    stem: Where in India is the 'slash and burn' agriculture known as 'Kuruwa'?
+    options:
+      A: Western Ghats
+      B: Himalayan Belt
+      C: State of Odisha
+      D: State of Jharkhand
+    answer: D
+    explanation: NCERT lists 'Kuruwa' as the name for slash-and-burn farming in Jharkhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q037
+    difficulty: medium
+    stem: With a donation of ₹7,904 crore, ______ was declared the most generous philanthropist in India by the 'EdelGive Hurun India Philanthropy List 2020'.
+    options:
+      A: Azim Premji
+      B: Kumar Mangalam Birla
+      C: Mukesh Ambani
+      D: Shiv Nadar
+    answer: A
+    explanation: Azim Premji topped the EdelGive Hurun India Philanthropy List 2020, with donations of ₹7,904 crore.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q038
+    difficulty: medium
+    stem: Which of the following events occurred first during the Indian National Movement?
+    options:
+      A: Arrival of Simon Commission
+      B: Partition of Bengal
+      C: Kheda Satyagraha
+      D: Dandi March
+    answer: B
+    explanation: Partition of Bengal 1905, Kheda Satyagraha 1918, Simon Commission 1928, Dandi March 1930.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q039
+    difficulty: medium
+    stem: The ______ Amendment of the Constitution of India envisages the Gram Sabha as the foundation of the Panchayat Raj System to perform functions and powers entrusted to it by the State Legislatures.
+    options:
+      A: 71st
+      B: 72nd
+      C: 73rd
+      D: 74th
+    answer: C
+    explanation: The 73rd Amendment (1992) gave constitutional status to Panchayati Raj, with the Gram Sabha as its base (Article 243A).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q040
+    difficulty: medium
+    stem: ______ is a vocal form of music from the state of Punjab.
+    options:
+      A: Qawwali
+      B: Ghazal
+      C: Tappa
+      D: Bhajan
+    answer: C
+    explanation: Tappa is a vocal form that grew out of the folk songs of Punjab's camel riders.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q041
+    difficulty: medium
+    stem: Dantidurga, who set up his capital at Malkhed was a ______ ruler.
+    options:
+      A: Pala
+      B: Pratihara
+      C: Rashtrakuta
+      D: Satavahana
+    answer: C
+    explanation: Dantidurga founded the Rashtrakuta dynasty, whose capital was Manyakheta (Malkhed).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q042
+    difficulty: medium
+    stem: Badminton player ______ won the All England Open men's single title in March 2021.
+    options:
+      A: Lee Chong Wei
+      B: Momota Kento
+      C: Viktor Axelsen
+      D: Lee Zii Jia
+    answer: D
+    explanation: Malaysia's Lee Zii Jia won the 2021 All England men's singles title, beating Viktor Axelsen.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q043
+    difficulty: medium
+    stem: As per Economic Survey 2020-2021, India's real GDP is estimated to grow by ______ in financial year 2021-22.
+    options:
+      A: 3%
+      B: 11%
+      C: 7%
+      D: 9%
+    answer: B
+    explanation: The Economic Survey 2020-21 projected real GDP growth of 11% for 2021-22.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q044
+    difficulty: medium
+    stem: The range of ______ force is of the order of 10⁻¹⁶ m.
+    options:
+      A: electromagnetic
+      B: gravitational
+      C: strong nuclear
+      D: weak nuclear
+    answer: D
+    explanation: The weak nuclear force acts over about 10⁻¹⁶ m, shorter than the strong force's range of about 10⁻¹⁵ m.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q045
+    difficulty: medium
+    stem: Which of the following Amendments to the Constitution of India was passed with the primary objective to constitutionally encode the re-organisation of Indian States based on language?
+    options:
+      A: Tenth Amendment
+      B: Sixth Amendment
+      C: Seventh Amendment
+      D: Fourth Amendment
+    answer: C
+    explanation: The Seventh Amendment (1956) carried out the States Reorganisation on linguistic lines.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q046
+    difficulty: medium
+    stem: In the Rigvedas there is a hymn in the form of a dialogue between Sage Vishvamitra and two rivers that were worshipped as goddesses. Which are these rivers?
+    options:
+      A: Alakananda and Bhagirathi
+      B: Ravi and Chenab
+      C: Ganga and Yamuna
+      D: Beas and Sutlej
+    answer: D
+    explanation: Rigveda III.33 is a dialogue between Vishvamitra and the rivers Vipash (Beas) and Shutudri (Sutlej).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q047
+    difficulty: medium
+    stem: Who among the following was the first Dr Shanti Swarup Bhatnagar awardee?
+    options:
+      A: MN Saha
+      B: KS Krishnan
+      C: CV Raman
+      D: S Chandrasekhar
+    answer: B
+    explanation: The first Shanti Swarup Bhatnagar Prize, in 1958, went to K. S. Krishnan.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q048
+    difficulty: medium
+    stem: The ______ aims to provide tap water connection to every rural home by 2024.
+    options:
+      A: Jal Kranti Abhiyan
+      B: Jal Shakti Abhiyan
+      C: Atal Bhujal Yojana
+      D: Jal Jeevan Mission
+    answer: D
+    explanation: The Jal Jeevan Mission aims to give every rural household a functional tap connection by 2024.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q049
+    difficulty: medium
+    stem: As per Union Budget 2021-22, Fiscal deficit is estimated at ______ per cent of GDP in 2021-22.
+    options:
+      A: "5.1"
+      B: "6.8"
+      C: "7.6"
+      D: "7.2"
+    answer: B
+    explanation: The Union Budget 2021-22 estimated the fiscal deficit at 6.8% of GDP for 2021-22.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q050
+    difficulty: medium
+    stem: ______ refers to an environment in which oxygen is readily available.
+    options:
+      A: Anthropogenic
+      B: Anaerobic
+      C: Aerobic
+      D: Acidification
+    answer: C
+    explanation: Aerobic means in the presence of oxygen; anaerobic means without it.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift1-q051
+    difficulty: medium
+    stem: 13, a, b, c are four distinct numbers and the HCF of each pair of numbers (13, a); (13, b); (13, c) is 13, where a, b, c are each less than 60 and a < b < c. What is the value of (a + c)/b ?
+    options:
+      A: "3.5"
+      B: "2"
+      C: "5"
+      D: "4.5"
+    answer: B
+    explanation: "a, b and c must be multiples of 13 below 60 other than 13: 26, 39 and 52. (26 + 52)/39 = 2."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q052
+    difficulty: medium
+    stem: "A train covers a distance of 225 km in 2½ hours with a uniform speed. The time taken, in hours, to cover a distance of 450 km with the same speed is:"
+    options:
+      A: "5"
+      B: "4"
+      C: "3"
+      D: "6"
+    answer: A
+    explanation: Speed = 225/2.5 = 90 km/h, so 450 km takes 5 h.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q053
+    difficulty: medium
+    stem: In ΔABC, D is a point on side BC such that ∠ADC = ∠BAC. If CA = 12 cm, CD = 8 cm, then CB (in cm) = ?
+    options:
+      A: "18"
+      B: "12"
+      C: "15"
+      D: "10"
+    answer: A
+    explanation: ΔADC ~ ΔBAC (common ∠C and ∠ADC = ∠BAC), so CA/CB = CD/CA and CB = 12²/8 = 18 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q054
+    difficulty: medium
+    stem: |-
+      Find the value of the following expression:
+
+      (tan³45° + 4 cos³60°) / (2 cosec²45° − 3 sec²30° + sin 30°)
+    options:
+      A: 3/4
+      B: 1 + √2
+      C: 4/3
+      D: "3"
+    answer: D
+    explanation: Numerator = 1 + 4 × 1/8 = 3/2. Denominator = 2 × 2 − 3 × 4/3 + 1/2 = 1/2. The value is 3.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q055
+    difficulty: medium
+    stem: "A, B and C start a business. A invests 33⅓% of the total capital, B invests 25% of the remaining and C, the rest. If the total profit at the end of the year is ₹2,19,000, then A's share (in ₹) is:"
+    options:
+      A: 65,000
+      B: 71,000
+      C: 73,000
+      D: 79,000
+    answer: C
+    explanation: A = 1/3, B = 1/4 × 2/3 = 1/6, C = 1/2 of the capital. A's share = 2,19,000/3 = ₹73,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q056
+    difficulty: medium
+    stem: Chords AB and CD of a circle, when produced, meet at the point P. If AB = 6.3 cm, BP = 4.5 cm, and CD = 3.6 cm, then the length (in cm) of PD is
+    options:
+      A: 4.8 cm
+      B: 3.5 cm
+      C: 3.1 cm
+      D: 5.4 cm
+    answer: D
+    explanation: "PA × PB = PC × PD: 10.8 × 4.5 = 48.6 = PD(PD + 3.6), which gives PD = 5.4 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q057
+    difficulty: medium
+    stem: The average of five numbers is 30. If one number is excluded, the average becomes 31. What is the excluded number?
+    options:
+      A: "26"
+      B: "24"
+      C: "31"
+      D: "30"
+    answer: A
+    explanation: 5 × 30 − 4 × 31 = 150 − 124 = 26.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q058
+    difficulty: medium
+    stem: A cylindrical vessel of diameter 32 cm is partially filled with water. A solid metallic sphere of radius 12 cm is dropped into it. What will be the increase in the level of water in the vessel (in cm)?
+    options:
+      A: "9"
+      B: "72"
+      C: "27"
+      D: "2.25"
+    answer: A
+    explanation: The rise h satisfies π × 16² × h = (4/3)π × 12³, so h = 2304/256 = 9 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q059
+    difficulty: medium
+    stem: "If 5 sin θ − 4 cos θ = 0, 0° < θ < 90°, then the value of (5 sin θ + 2 cos θ)/(5 sin θ + 3 cos θ) is:"
+    options:
+      A: 4/7
+      B: 6/7
+      C: 2/7
+      D: 3/7
+    answer: B
+    explanation: "tan θ = 4/5. Dividing by cos θ: (4 + 2)/(4 + 3) = 6/7."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q060
+    difficulty: medium
+    stem: "If the length of a diagonal of a square is (a+b), then the area of the square is:"
+    options:
+      A: a² + b²
+      B: 1/2 (a² + b²) + ab
+      C: a² + b² + 2ab
+      D: 1/2 (a² + b²)
+    answer: B
+    explanation: Area = d²/2 = (a + b)²/2 = ½(a² + b²) + ab.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q061
+    difficulty: medium
+    stem: |-
+      The given pie charts show the monthly household expenditure of Family A and Family B under various heads. The monthly expenditures incurred for Family A and Family B are ₹50,000 and ₹75,000, respectively.
+
+      Study the charts carefully and answer the question that follows.
+
+      Monthly Household Expenditure of ₹50,000 under various heads of Family A; Monthly household expenditure of ₹75,000 under various heads for Family B
+
+      | Head | Family A | Family B |
+      |---|---|---|
+      | Food | 30% | 32% |
+      | Education | 15% | 15% |
+      | Entertainment | 10% | 12% |
+      | Electricity | 9% | 8% |
+      | Travel | 10% | 8% |
+      | Medicines | 15% | 18% |
+      | Miscellaneous | 11% | 7% |
+
+      If the monthly expenditures of both families are combined together then the expenditures on Entertainment of both families together will be what percentage of the total monthly expenditures of both families? Express your answer to the nearest integer.
+
+      *(Figure: Two pie charts (Family A, Family B) with percentage shares as in the table.)*
+    options:
+      A: 23%
+      B: 10%
+      C: 22%
+      D: 11%
+    answer: D
+    explanation: Entertainment = 5,000 + 9,000 = 14,000 out of 1,25,000 = 11.2% ≈ 11%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q062
+    difficulty: medium
+    stem: "If x + y + z = 18, xyz = 81 and xy + yz + zx = 90, then the value of x³ + y³ + z³ + xyz is:"
+    options:
+      A: "1321"
+      B: "1296"
+      C: "1225"
+      D: "1250"
+    answer: B
+    explanation: x³ + y³ + z³ − 3xyz = 18(18² − 3 × 90) = 18 × 54 = 972. So x³ + y³ + z³ = 972 + 243 = 1215, and adding xyz gives 1296.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q063
+    difficulty: medium
+    stem: A tea seller used to make 50% of profit by selling tea at ₹9 per cup. When the cost of ingredients increased by 25%, he started selling tea at ₹10 per cup. What is his profit percentage now?
+    options:
+      A: 33⅔
+      B: "25"
+      C: 33⅓
+      D: "30"
+    answer: C
+    explanation: Old cost = 9/1.5 = ₹6; new cost = 6 × 1.25 = ₹7.5. Profit = 2.5/7.5 = 33⅓%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q064
+    difficulty: medium
+    stem: If 4 men and 6 boys can do a work in 8 days and 6 men and 4 boys can do the same work in 7 days, then how many days will 5 men and 4 boys take to do the same work?
+    options:
+      A: "6"
+      B: "8"
+      C: "5"
+      D: "7"
+    answer: B
+    explanation: 8(4m + 6b) = 7(6m + 4b) gives m = 2b. The work is 8 × 14b = 112b, and 5 men + 4 boys = 14b, so it takes 8 days.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q065
+    difficulty: medium
+    stem: A shopkeeper allows 28% discount on the marked price of an article and still makes a profit of 20%. If he gains ₹3,080 on the sale of one article, then what is the selling price (in ₹) of the article?
+    options:
+      A: 14,880
+      B: 18,480
+      C: 18,840
+      D: 10,884
+    answer: B
+    explanation: A 20% profit is ₹3,080, so CP = ₹15,400 and SP = 1.2 × 15,400 = ₹18,480.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q066
+    difficulty: medium
+    stem: |-
+      What is the value of x, if
+
+      5(1 − x/5) − (5 − x) − 1/200 of (20 − x) = 0.08?
+    options:
+      A: "36"
+      B: "9"
+      C: "18"
+      D: "24"
+    answer: A
+    explanation: 5 − x − 5 + x cancels, leaving −(20 − x)/200 = 0.08, so 20 − x = −16 and x = 36.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q067
+    difficulty: medium
+    stem: In a triangle ABC, D and E are points on BC such that AD = AE and ∠BAD = ∠CAE. If AB = (2p + 3), BD = 2p, AC = (3q − 1) and CE = q, then find the value of (p + q).
+    options:
+      A: "3"
+      B: "4.5"
+      C: "3.6"
+      D: "2"
+    answer: A
+    explanation: "AD = AE gives ∠ADB = ∠AEC, so ΔABD ≅ ΔACE. Then AB = AC and BD = CE: 2p + 3 = 3q − 1 and 2p = q, so p = 1, q = 2 and p + q = 3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q068
+    difficulty: medium
+    stem: In a circle of diameter 20 cm, chords AB and CD are parallel to each other. BC is diameter. If AB is 6 cm from the centre of the circle, what is the length (in cm) of the chord CD?
+    options:
+      A: "8"
+      B: "12"
+      C: "20"
+      D: "16"
+    answer: D
+    explanation: AB ∥ CD with BC a diameter makes CD the mirror image of AB through the centre, so CD = AB = 2√(10² − 6²) = 16 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q069
+    difficulty: medium
+    stem: A kite flying at a height of 120 m is attached to a string which makes an angle of 60° with the horizontal. What is the length (in m) of the string?
+    options:
+      A: 90√3
+      B: 75√3
+      C: 84√3
+      D: 80√3
+    answer: D
+    explanation: String = 120/sin 60° = 240/√3 = 80√3 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q070
+    difficulty: medium
+    stem: |-
+      The given pie chart represents the percentage-wise distribution of the total number of vanilla cakes and chocolate cakes sold every day. The total number of cakes sold in a week = 10500. Study the pie chart and answer the question that follows.
+
+      | Day | Share |
+      |---|---|
+      | Sunday | 20% |
+      | Monday | 8% |
+      | Tuesday | 9% |
+      | Wednesday | 22% |
+      | Thursday | 15% |
+      | Friday | 10% |
+      | Saturday | 16% |
+
+      The ratio of vanilla cakes sold to chocolate cakes sold on Friday is 4:3. If the price of one vanilla cake is ₹9 and that of one chocolate cake is ₹10, then the total amount earned (in ₹) by selling all vanilla cakes and chocolate cakes on Friday is:
+
+      *(Figure: Pie chart of cakes sold by day of the week; shares as in the table.)*
+    options:
+      A: 8,900
+      B: 10,000
+      C: 9,900
+      D: 11,000
+    answer: C
+    explanation: "Friday = 10% of 10,500 = 1,050 cakes: 600 vanilla and 450 chocolate. 600 × 9 + 450 × 10 = ₹9,900."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q071
+    difficulty: medium
+    stem: Simple interest on a certain sum is one-fourth of the sum and the interest rate percentage per annum is 4 times the number of years. If the rate of interest increases by 2%, then what will be the simple interest (in ₹) on ₹5,000 for 3 years?
+    options:
+      A: "300"
+      B: 1,500
+      C: 2,000
+      D: 1,800
+    answer: D
+    explanation: RT = 25 and R = 4T give T = 2.5 and R = 10%. At 12%, SI = 5,000 × 12 × 3/100 = ₹1,800.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q072
+    difficulty: medium
+    stem: |-
+      The given bar graph shows the income and expenditure (in crores ₹) of a company over 5 years, from 2014 to 2018. Study the bar graph and answer the question that follows.
+
+      Income and expenditure (in crores ₹) of a company over 5 years
+
+      | Year | Income | Expenditure |
+      |---|---|---|
+      | 2014 | 225 | 175 |
+      | 2015 | 280 | 250 |
+      | 2016 | 325 | 275 |
+      | 2017 | 350 | 300 |
+      | 2018 | 350 | 325 |
+
+      In which of the following years is the ratio of expenditure to income the minimum?
+
+      *(Figure: Grouped bar graph of income and expenditure by year; values as in the table.)*
+    options:
+      A: "2016"
+      B: "2017"
+      C: "2018"
+      D: "2014"
+    answer: D
+    explanation: Expenditure/income is 175/225 ≈ 0.78 in 2014, the lowest (2016 ≈ 0.85, 2017 ≈ 0.86, 2018 ≈ 0.93).
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q073
+    difficulty: medium
+    stem: If the 9-digit number 7x79251y8 is divisible by 36, What is the value of (10x² − 3y²) for the largest possible value of y?
+    options:
+      A: "490"
+      B: "289"
+      C: "192"
+      D: "298"
+    answer: D
+    explanation: Divisible by 4 needs y8 divisible by 4, so y is even. Divisible by 9 needs x + y = 6 or 15. The largest y = 8 gives x = 7, and 10 × 49 − 3 × 64 = 298.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q074
+    difficulty: medium
+    stem: "In a factory with 400 employees, the ratio of the number of male employees to that of female employees is 5 : 3. There are 87.5% regular employees in the factory. If 92% of male employees are regular employees, then what is the percentage of regular female employees?"
+    options:
+      A: 80%
+      B: 78%
+      C: 87.5%
+      D: 85%
+    answer: A
+    explanation: "There are 250 men and 150 women, and 350 regular staff. 92% of 250 = 230, so 120 of the 150 women are regular: 80%."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q075
+    difficulty: medium
+    stem: |-
+      The following histogram shows the marks scored by 40 students in a test of 30 marks. A student has to score a minimum of 10 marks to pass the test.
+
+      How many students have passed the test and obtained less than 50% marks?
+
+      Marks scored in 30 marks test
+
+      | Marks | Number of students |
+      |---|---|
+      | 0-5 | 2 |
+      | 5-10 | 8 |
+      | 10-15 | 7 |
+      | 15-20 | 8 |
+      | 20-25 | 10 |
+      | 25-30 | 5 |
+
+      *(Figure: Histogram of marks (number of students vs marks); values as in the table.)*
+    options:
+      A: "17"
+      B: "7"
+      C: "15"
+      D: "10"
+    answer: B
+    explanation: "Passing (≥ 10) but below 50% (< 15) is the 10–15 class: 7 students."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift1-q076
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in direct speech.
+
+      Manan said that he had no work to do that day.
+    options:
+      A: Manan said, ‘I have no work to do today.’
+      B: Manan said, ‘I have no work to do that day.’
+      C: Manan said, ‘Have I no work to do today?’
+      D: Manan says, ‘I had no work to do that day.’
+    answer: A
+    explanation: In direct speech 'he had' becomes 'I have' and 'that day' becomes 'today'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Lacuna
+    options:
+      A: Misfortune
+      B: Languor
+      C: Apathy
+      D: Hiatus
+    answer: D
+    explanation: A lacuna is a gap or missing part, that is, a hiatus.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Ascent
+    options:
+      A: Descent
+      B: Patent
+      C: Present
+      D: Resent
+    answer: A
+    explanation: The opposite of ascent (going up) is descent.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Dark horse
+    options:
+      A: An honest fellow
+      B: An unexpected winner
+      C: A mean person
+      D: A slow runner
+    answer: B
+    explanation: A dark horse is a little-known competitor who wins unexpectedly.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q080
+    difficulty: medium
+    stem: |-
+      Select the correct passive voice of the given sentence.
+
+      Preeti invited Ritu for a party.
+    options:
+      A: Ritu is invited for a party by Preeti.
+      B: Ritu was invited for a party by Preeti.
+      C: Preeti has been invited for a party by Ritu.
+      D: Preeti was invited for a party by Ritu.
+    answer: B
+    explanation: "A simple past active becomes 'was + past participle': 'Ritu was invited for a party by Preeti.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q081
+    difficulty: medium
+    stem: Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution required'. The old lady needed love and care **beyond** money.
+    options:
+      A: besides
+      B: No substitution required
+      C: beside
+      D: beneath
+    answer: A
+    explanation: The sense is 'in addition to money', which is 'besides'. 'Beside' means next to.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      CLENCH
+    options:
+      A: Tighten
+      B: Clasp
+      C: Hold
+      D: Relax
+    answer: D
+    explanation: To clench is to grip or tighten; the opposite is relax.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q083
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The Smiths have put up a huge Christmas tree.
+    options:
+      A: A huge Christmas tree has been put up by the Smiths.
+      B: A huge Christmas tree is put up by the Smiths.
+      C: A huge Christmas tree is being put up by the Smiths.
+      D: A huge Christmas tree was put up by the Smiths.
+    answer: A
+    explanation: "A present perfect active becomes 'has been + past participle': 'A huge Christmas tree has been put up by the Smiths.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      This question / is quite too / simple for me / to answer.
+    options:
+      A: to answer
+      B: is quite too
+      C: This question
+      D: simple for me
+    answer: B
+    explanation: "'Quite' and 'too' cannot go together; it should be 'much too simple' (or 'quite simple')."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q085
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Drawings or writing scribbled on walls in public places
+    options:
+      A: Graffiti
+      B: Posters
+      C: Sketches
+      D: Hoardings
+    answer: A
+    explanation: Graffiti is writing or drawing scribbled on walls in public places.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Solemn
+    options:
+      A: Dignified
+      B: Trivial
+      C: Excited
+      D: Frivolous
+    answer: A
+    explanation: Solemn means serious and dignified.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q087
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don't find any error, mark 'No error' as your answer.
+
+      There is a very little time / for them to prepare / for the show.
+    options:
+      A: for them to prepare
+      B: for the show
+      C: No error
+      D: There is a very little time
+    answer: D
+    explanation: "'Little' meaning hardly any takes no article, so 'There is very little time'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Harish's voice ______ in the empty rooms of their new house.
+    options:
+      A: relapsed
+      B: reverted
+      C: resounded
+      D: resorted
+    answer: C
+    explanation: A voice resounds (echoes) in empty rooms.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q089
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      If he wants / farther information, / send him / to me.
+    options:
+      A: farther information
+      B: to me
+      C: If he wants
+      D: send him
+    answer: A
+    explanation: "'Further' means additional; 'farther' is for physical distance. So 'further information'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q090
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Study of insects
+    options:
+      A: Entomology
+      B: Geology
+      C: Ecology
+      D: Biology
+    answer: A
+    explanation: Entomology is the study of insects.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Stone's throw
+    options:
+      A: Short distance
+      B: Large hurdle
+      C: Difficult problem
+      D: Hurt slightly
+    answer: A
+    explanation: "'A stone's throw' means a short distance."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q092
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Aisle
+      B: Adorn
+      C: Attick
+      D: Altar
+    answer: C
+    explanation: The correct spelling is 'Attic'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution required'.
+
+      I imagine you have learnt a valuable lesson from this experience, **didn't you?**
+    options:
+      A: did you?
+      B: haven't you?
+      C: have you?
+      D: No substitution required
+    answer: B
+    explanation: The tag follows the reported clause 'you have learnt', which is positive, so the tag is 'haven't you?'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q094
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Your eldest sister / lives in / a big city, / does she?
+    options:
+      A: lives in
+      B: does she
+      C: a big city
+      D: Your eldest sister
+    answer: B
+    explanation: "A positive statement takes a negative tag: 'lives in a big city, doesn't she?'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q095
+    difficulty: medium
+    stem: |-
+      Given below are four sentences which are jumbled. Pick the option that gives their correct order.
+
+      A. It is a Park quite different from any other we have seen.  
+      B. One difference is that it is made from nearly 250 tons of scrap.  
+      C. Another difference is that it is powered by wind and solar energy  
+      D. A new Park called Bharat Darshan Park has been thrown open to the public in New Delhi.
+    options:
+      A: ACDB
+      B: DABC
+      C: BACD
+      D: DBCA
+    answer: B
+    explanation: D introduces the park, A says it is different, B gives one difference and C another.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      If you thought that yoga was all about bending and twisting your body in odd shapes, it's time to rethink. Yoga is (1) ______ more. In very simple words, giving care (2) ______ your body, mind and breath is yoga. Derived (3) ______ the Sankrit word 'yuj' which means 'to unite or integrate', yoga is (4) ______ 5,000-year-old Indian body of knowledge. Yoga is all about harmonising the body (5) ______ the mind and breath through means of various breathing exercises, yoga poses (asanas) and meditation.
+
+      Select the most appropriate option to fill in blank no. 1.
+    options:
+      A: many
+      B: much
+      C: all
+      D: few
+    answer: B
+    explanation: "'Much more' is used with an uncountable idea: 'Yoga is much more.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      If you thought that yoga was all about bending and twisting your body in odd shapes, it's time to rethink. Yoga is (1) ______ more. In very simple words, giving care (2) ______ your body, mind and breath is yoga. Derived (3) ______ the Sankrit word 'yuj' which means 'to unite or integrate', yoga is (4) ______ 5,000-year-old Indian body of knowledge. Yoga is all about harmonising the body (5) ______ the mind and breath through means of various breathing exercises, yoga poses (asanas) and meditation.
+
+      Select the most appropriate option to fill in blank no. 2.
+    options:
+      A: on
+      B: to
+      C: at
+      D: for
+    answer: B
+    explanation: We give care to something.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      If you thought that yoga was all about bending and twisting your body in odd shapes, it's time to rethink. Yoga is (1) ______ more. In very simple words, giving care (2) ______ your body, mind and breath is yoga. Derived (3) ______ the Sankrit word 'yuj' which means 'to unite or integrate', yoga is (4) ______ 5,000-year-old Indian body of knowledge. Yoga is all about harmonising the body (5) ______ the mind and breath through means of various breathing exercises, yoga poses (asanas) and meditation.
+
+      Select the most appropriate option to fill in blank no. 3.
+    options:
+      A: by
+      B: from
+      C: of
+      D: out
+    answer: B
+    explanation: A word is derived from its source.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      If you thought that yoga was all about bending and twisting your body in odd shapes, it's time to rethink. Yoga is (1) ______ more. In very simple words, giving care (2) ______ your body, mind and breath is yoga. Derived (3) ______ the Sankrit word 'yuj' which means 'to unite or integrate', yoga is (4) ______ 5,000-year-old Indian body of knowledge. Yoga is all about harmonising the body (5) ______ the mind and breath through means of various breathing exercises, yoga poses (asanas) and meditation.
+
+      Select the most appropriate option to fill in blank no. 4.
+    options:
+      A: one
+      B: a
+      C: the
+      D: an
+    answer: B
+    explanation: "'5,000-year-old' begins with a consonant sound ('five'), so the article is 'a'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift1-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      If you thought that yoga was all about bending and twisting your body in odd shapes, it's time to rethink. Yoga is (1) ______ more. In very simple words, giving care (2) ______ your body, mind and breath is yoga. Derived (3) ______ the Sankrit word 'yuj' which means 'to unite or integrate', yoga is (4) ______ 5,000-year-old Indian body of knowledge. Yoga is all about harmonising the body (5) ______ the mind and breath through means of various breathing exercises, yoga poses (asanas) and meditation.
+
+      Select the most appropriate option to fill in blank no. 5.
+    options:
+      A: on
+      B: across
+      C: at
+      D: with
+    answer: D
+    explanation: We harmonise one thing with another.
+    tags:
+      - english

@@ -1,0 +1,1334 @@
+slug: 2022-04-13-all-shifts-shift3
+title: SSC CGL 2021 Tier 1
+date: 2022-04-13
+label: 13 Apr, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b72bf004-db03-11ed-a630-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q5, Q6, Q7, Q17, Q20, Q21, Q29."
+questions:
+  - slug: cgl-2022-04-13-all-ss-shift3-q001
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      240, 120, ?, 180, 360, 900
+    options:
+      A: "120"
+      B: "148"
+      C: "150"
+      D: "130"
+    answer: A
+    explanation: "The multipliers rise by 0.5: 240 × 0.5 = 120, 120 × 1 = 120, 120 × 1.5 = 180, 180 × 2 = 360, 360 × 2.5 = 900."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q002
+    difficulty: medium
+    stem: In a certain code language, 'MANIA' is written as 'NZOHZ' and 'PROUD' is written as 'QSNTE'. How will 'DONKEY' be written in that language?
+    options:
+      A: EPOLFZ
+      B: CNONDZ
+      C: ENPLDX
+      D: ENOLDZ
+    answer: D
+    explanation: Consonants move +1 and vowels move −1 (MANIA → NZOHZ, PROUD → QSNTE). DONKEY → E, N, O, L, D, Z.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q003
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: LRPV
+      B: SYGM
+      C: DBJH
+      D: CNDV
+    answer: D
+    explanation: In LRPV, SYGM and DBJH both letter pairs have the same gap (+6, +6, −2). In CNDV the gaps are +11 and +18.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q004
+    difficulty: medium
+    stem: In a certain code language, LOOK is coded as 2330 and BALL is coded as 1413. How will HELP be coded in that language?
+    options:
+      A: "2417"
+      B: "3461"
+      C: "2415"
+      D: "2420"
+    answer: A
+    explanation: "Code = (1st + 4th letter) then (2nd + 3rd letter): LOOK = 12 + 11 | 15 + 15 = 23|30. HELP = 8 + 16 | 5 + 12 = 24|17 = 2417."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q008
+    difficulty: medium
+    stem: If the numbers 15 and 21 are interchanged, then which of the following equations will be correctly balanced?
+    options:
+      A: 62 ÷ 31 – 21 + 15 × 3 = 80
+      B: 26 + 21 × 15 ÷ 3 – 14 = 108
+      C: 24 – 21 ÷ 3 + 15 – 7 = 23
+      D: 63 ÷ 15 + 21 × 5 – 4 = 74
+    answer: D
+    explanation: After swapping 15 and 21, option D reads 63 ÷ 21 + 15 × 5 − 4 = 3 + 75 − 4 = 74.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q009
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      Q _ T _ S _ K _ R _ _ K _ R S
+    options:
+      A: K R Q T S K T
+      B: K R Q T S Q T
+      C: K R T R S Q T
+      D: K R Q T S Q R
+    answer: B
+    explanation: "The block 'QKTRS' repeats three times: QKTRS QKTRS QKTRS."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q010
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+      34 * 17 * 54 * 18 * 6 * 56
+    options:
+      A: +, ÷, ×, −, =
+      B: ÷, −, +, ×, =
+      C: ×, +, ÷, −, =
+      D: ÷, −, ×, +, =
+    answer: B
+    explanation: 34 ÷ 17 − 54 + 18 × 6 = 2 − 54 + 108 = 56.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q011
+    difficulty: medium
+    stem: If Arpita is the only daughter of Pritam's wife's mother's husband, then how is Arpita related to Pritam's son?
+    options:
+      A: Sister
+      B: Paternal granddaughter
+      C: Daughter
+      D: Mother
+    answer: D
+    explanation: Pritam's wife's mother's husband is his father-in-law, whose only daughter is Pritam's wife. Arpita is therefore the mother of Pritam's son.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q012
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      No police officer is a doctor.  
+      Some doctors are specialists.  
+      All engineers are doctors.
+
+      **Conclusions:**
+
+      I. Some engineers are police officers.  
+      II. No engineer is a police officer.  
+      III. Some doctors are engineers.
+    options:
+      A: Only conclusion II follows.
+      B: Only conclusions I and II follow.
+      C: Either conclusion I or II and III follow(s).
+      D: Only conclusions II and III follow.
+    answer: D
+    explanation: All engineers are doctors and no doctor is a police officer, so no engineer is a police officer (II). Engineers exist inside doctors, so some doctors are engineers (III).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q013
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.
+
+      1. Displaying  
+      2. Sketching  
+      3. Colouring  
+      4. Framing
+    options:
+      A: 4, 3, 1, 2
+      B: 2, 1, 4, 3
+      C: 2, 3, 4, 1
+      D: 3, 4, 2, 1
+    answer: C
+    explanation: "A picture is sketched, coloured, framed and then displayed: 2, 3, 4, 1."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q014
+    difficulty: medium
+    stem: |-
+      Select the number that can replace the question mark (?) in the given table.
+
+      | | | |
+      |---|---|---|
+      | 5 | 16 | 77 |
+      | 8 | 19 | 149 |
+      | 13 | 12 | ? |
+    options:
+      A: "153"
+      B: "157"
+      C: "155"
+      D: "151"
+    answer: A
+    explanation: "Third number = product − 3: 5 × 16 − 3 = 77 and 8 × 19 − 3 = 149, so 13 × 12 − 3 = 153."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q015
+    difficulty: medium
+    stem: Five friends, Vishnu, Chirag, Raina, Kavya and Surbhi, are sitting around a circular table, facing the centre. Vishnu is to the immediate right of Kavya. Chirag is third to the left of Kavya. Surbhi is not adjacent to Chirag. Who is second to the left of Kavya?
+    options:
+      A: Chirag
+      B: Raina
+      C: Surbhi
+      D: Vishnu
+    answer: B
+    explanation: With Kavya fixed, Vishnu is on her right and Chirag third to her left. Surbhi cannot sit next to Chirag, so she is immediately left of Kavya and Raina is second to her left.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q016
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      7 : 56 :: 11 : ?
+    options:
+      A: "132"
+      B: "77"
+      C: "98"
+      D: "101"
+    answer: A
+    explanation: 7 × 8 = 56, i.e. n × (n + 1). So 11 × 12 = 132.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q018
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown, the six faces of which are numbered from 1 to 6. Select the number that will be on the face opposite to the one having 4.
+
+      *(Figure: Two dice views (top, left, right): (4, 2, 3); (5, 3, 2).)*
+    options:
+      A: "1"
+      B: "5"
+      C: "6"
+      D: "2"
+    answer: B
+    explanation: Both views show 2 and 3 together, with 4 in the first and 5 in the second at the same corner. So 4 and 5 are the two faces adjacent to both 2 and 3, which means they are opposite each other.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q019
+    difficulty: medium
+    stem: The average score (runs/match) of Mithali before the start of the women's national series was 45. In the women's national series of 10 matches, her total score was 500 runs. Find the total number of matches played by her till date, if her new average after the series is 47.5.
+    options:
+      A: "38"
+      B: "20"
+      C: "30"
+      D: "28"
+    answer: B
+    explanation: "If n matches were played before: 45n + 500 = 47.5(n + 10), so 2.5n = 25 and n = 10. Total = 10 + 10 = 20 matches."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q022
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      7, 11, 14, 25, 29, 55, ?
+    options:
+      A: "59"
+      B: "60"
+      C: "95"
+      D: "90"
+    answer: B
+    explanation: "Alternate steps: ×2 − 3, then +3, +4, +5. 7 → 11 → 14 → 25 → 29 → 55 → 55 + 5 = 60."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q023
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter cluster.
+
+      KCH : GXS :: TJD : ?
+    options:
+      A: QMX
+      B: PQW
+      C: PNH
+      D: QNW
+    answer: B
+    explanation: The first letter moves −4 (K → G) and the other two are replaced by their opposites (C ↔ X, H ↔ S). TJD → P, Q, W.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q024
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      DJRZ, HDZP, LXHF, PRPV, ?
+    options:
+      A: TMXK
+      B: TLXM
+      C: ULYL
+      D: TLXL
+    answer: D
+    explanation: "Positions move +4, −6, +8, −10: D→H→L→P→T, J→D→X→R→L, R→Z→H→P→X, Z→P→F→V→L. So TLXL."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q025
+    difficulty: medium
+    stem: |-
+      In a certain code language,
+
+      'cool drinks available here' is written as 'bhu man juk lop',  
+      'available lost objects here' is written as 'gan bhu nut juk',  
+      'be cool search objects' is written as 'vax der man nut', and  
+      'available drinks desert search' is written as 'but juk der lop'.
+
+      How will 'lost drinks' be written in that language?
+    options:
+      A: gan lop
+      B: nut gan
+      C: lop bhu
+      D: juk gan
+    answer: A
+    explanation: "'available' = juk, 'here' = bhu, 'cool' = man, 'objects' = nut, so 'lost' = gan and 'drinks' = lop."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift3-q026
+    difficulty: medium
+    stem: During the rule of which dynasty were Nalanda and Vikramashila universities founded?
+    options:
+      A: The Palas
+      B: The Senas
+      C: The Pratihara
+      D: The Rashtrakutas
+    answer: A
+    explanation: Vikramashila was founded by the Pala king Dharmapala, and Nalanda was revived and patronised by the Palas. Of the options, the Palas are the dynasty linked to both.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q027
+    difficulty: medium
+    stem: Which of the following is commonly referred to as 'Ozone Hole'?
+    options:
+      A: Lithosphere
+      B: Troposphere
+      C: Biosphere
+      D: Stratosphere
+    answer: D
+    explanation: The ozone layer, and the seasonal 'ozone hole' over Antarctica, lies in the stratosphere.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q028
+    difficulty: medium
+    stem: In which of the following years was the Citizenship Act passed for the first time in India?
+    options:
+      A: "1962"
+      B: "1959"
+      C: "1955"
+      D: "1947"
+    answer: C
+    explanation: India's first citizenship law was the Citizenship Act, 1955.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q030
+    difficulty: medium
+    stem: "The Mesopotamians wrote on tablets made of:"
+    options:
+      A: clay
+      B: sandstone
+      C: limestone
+      D: slate
+    answer: A
+    explanation: Mesopotamians wrote cuneiform script on clay tablets.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q031
+    difficulty: medium
+    stem: For Rabi marketing season 2021-22, the Cabinet Committee on Economic Affairs (CCEA) announced highest increase in Minimum Support Price (MSP) for ______.
+    options:
+      A: lentil
+      B: gram
+      C: barley
+      D: wheat
+    answer: A
+    explanation: For RMS 2021-22 the largest MSP increase was for lentil (₹300 per quintal), followed by gram and rapeseed-mustard (₹225 each) (PIB, Sept 2020).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q032
+    difficulty: medium
+    stem: "Who among the following is the author of the book 'Myth = Mithya : Decoding Hindu Mythology'?"
+    options:
+      A: Shashi Tharoor
+      B: Devdutt Pattanaik
+      C: Vikram Seth
+      D: Amitav Ghosh
+    answer: B
+    explanation: "'Myth = Mithya: Decoding Hindu Mythology' is by Devdutt Pattanaik."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q033
+    difficulty: medium
+    stem: Who among the following won the 'Crossword Book Award 2020' for a debut novel?
+    options:
+      A: Siddhartha Sarma
+      B: Twinkle Khanna
+      C: Madhuri Vijay
+      D: Shals Mahajan
+    answer: C
+    explanation: Madhuri Vijay won the Crossword Book Award (fiction) in January 2020 for her debut novel 'The Far Field'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q034
+    difficulty: medium
+    stem: Which of the following mountains is located near the river Dhauliganga?
+    options:
+      A: Kamet
+      B: Nanda Devi
+      C: Anamudi
+      D: Hathi Parvat
+    answer: B
+    explanation: The Dhauliganga flows near Nanda Devi in Chamoli, Uttarakhand (site of the February 2021 flood).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q035
+    difficulty: medium
+    stem: A typical adult human body contains about ______ of magnesium.
+    options:
+      A: 20 g
+      B: 10 g
+      C: 15 g
+      D: 25 g
+    answer: D
+    explanation: The adult human body contains about 25 g of magnesium, mostly in bone.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q036
+    difficulty: medium
+    stem: Which of the following two teams played against each other in the first match of IPL 2021?
+    options:
+      A: Chennai Super Kings and Sunrisers Hyderabad
+      B: Punjab Kings and Delhi Capitals
+      C: Kolkata Knight Riders and Rajasthan Royals
+      D: Mumbai Indians and Royal Challengers Bangalore
+    answer: D
+    explanation: IPL 2021 opened on 9 April 2021 with Mumbai Indians vs Royal Challengers Bangalore in Chennai.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q037
+    difficulty: medium
+    stem: In which year was the Immunization Programme introduced in India as 'Expanded Programme of Immunization' (EPI) by the Ministry of Health and Family Welfare?
+    options:
+      A: "1982"
+      B: "1974"
+      C: "1978"
+      D: "1980"
+    answer: C
+    explanation: India launched the Expanded Programme of Immunization in 1978. It became the Universal Immunization Programme in 1985.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q038
+    difficulty: medium
+    stem: In which of the following years did the Ramsar convention to promote conservation and wise use of all wetlands through regional actions and international cooperation come to force in India?
+    options:
+      A: "1989"
+      B: "1990"
+      C: "1980"
+      D: "1982"
+    answer: D
+    explanation: The Ramsar Convention came into force for India on 1 February 1982.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q039
+    difficulty: medium
+    stem: Which of the following is correctly paired?
+    options:
+      A: Cyanide ion - CN⁻
+      B: Ammonia - OH⁻
+      C: Bromide ion - F⁻
+      D: Fluoride ion - Cl⁻
+    answer: A
+    explanation: The cyanide ion is CN⁻. Ammonia is NH₃, bromide is Br⁻ and fluoride is F⁻.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q040
+    difficulty: medium
+    stem: On 21 October 1943, Subhash Chandra Bose proclaimed the formation of the Provisional Government of Free India in ______.
+    options:
+      A: Russia
+      B: Singapore
+      C: Japan
+      D: Germany
+    answer: B
+    explanation: Subhas Chandra Bose proclaimed the Provisional Government of Free India (Azad Hind) in Singapore on 21 October 1943.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q041
+    difficulty: medium
+    stem: "According to the Output Method, GDP is calculated as:"
+    options:
+      A: GDP at Constant Prices – Taxes + Subsidies
+      B: GDP at Constant Prices + Subsidies
+      C: GDP at Constant Prices – Taxes
+      D: GDP at Constant Prices + Taxes – Subsidies
+    answer: A
+    explanation: "SSC's key takes A: GDP at constant prices minus taxes plus subsidies. Under the output (value-added) method, GDP is the sum of value added, and the gap between market prices and basic or factor cost is net taxes."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q042
+    difficulty: medium
+    stem: South Asian leaders signed the SAARC Charter at the first summit in ______ in the year 1985.
+    options:
+      A: Colombo
+      B: Dhaka
+      C: Delhi
+      D: Thimphu
+    answer: B
+    explanation: The SAARC Charter was signed at the first summit in Dhaka in December 1985.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q043
+    difficulty: medium
+    stem: In which of the following Indian states will you find the Tibetan Buddhist Golden Temple?
+    options:
+      A: Sikkim
+      B: Karnataka
+      C: Himachal Pradesh
+      D: Tamil Nadu
+    answer: B
+    explanation: The Golden Temple (Namdroling Monastery) is at Bylakuppe in Karnataka.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q044
+    difficulty: medium
+    stem: Who among the following was selected for the inaugural Chhattisgarh Veerni Award in April 2021?
+    options:
+      A: Trimbak Sharma
+      B: Teejan Bai
+      C: Dutee Chand
+      D: Kishore Sahu
+    answer: C
+    explanation: Sprinter Dutee Chand was among those honoured with the first Chhattisgarh Veerni Award in April 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q045
+    difficulty: medium
+    stem: With which bank have Dena Bank and Vijaya Bank been merged?
+    options:
+      A: Punjab National Bank
+      B: United Bank of India
+      C: Corporation Bank
+      D: Bank of Baroda
+    answer: D
+    explanation: Dena Bank and Vijaya Bank merged into Bank of Baroda with effect from 1 April 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q046
+    difficulty: medium
+    stem: Fouaad Mirza is an Indian ______
+    options:
+      A: golfer
+      B: boxer
+      C: cricketer
+      D: equestrian
+    answer: D
+    explanation: Fouaad Mirza is an Indian equestrian (eventing), an Asian Games medallist and Olympian.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q047
+    difficulty: medium
+    stem: The ______ Scheme, which is an initiative of the Ministry of Drinking Water and Sanitation, seeks to provide water to 115 Indian districts to help them in meeting their basic needs such as drinking, cooking and other domestic essentials.
+    options:
+      A: PRAJWAL
+      B: NEER
+      C: NIRMAL
+      D: SWAJAL
+    answer: D
+    explanation: The Swajal scheme of the Ministry of Drinking Water and Sanitation covers 115 aspirational districts.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q048
+    difficulty: medium
+    stem: Which amendment to the Constitution of India changed the description of India from a 'sovereign democratic republic' to a 'sovereign, socialist secular democratic republic' and also changed the words 'unity of the nation' to 'unity and integrity of the nation'?
+    options:
+      A: 44th
+      B: 40th
+      C: 42nd
+      D: 47th
+    answer: C
+    explanation: The 42nd Amendment (1976) added 'socialist' and 'secular' and changed 'unity of the Nation' to 'unity and integrity of the Nation'.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q049
+    difficulty: medium
+    stem: As per the Census of 2011, which of the following states/UT has literacy rate of more than 90%?
+    options:
+      A: Rajasthan
+      B: Mizoram
+      C: Goa
+      D: Tripura
+    answer: B
+    explanation: "Census 2011: Mizoram's literacy rate was about 91.3%, above 90%."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q050
+    difficulty: medium
+    stem: In which of the following Indian states is the Gorichen peak located?
+    options:
+      A: Madhya Pradesh
+      B: Arunachal Pradesh
+      C: Himachal Pradesh
+      D: Nagaland
+    answer: B
+    explanation: Gorichen is a peak in Tawang/West Kameng, Arunachal Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift3-q051
+    difficulty: medium
+    stem: A person travels 5x distance at a speed of 5 km/h, x distance at a speed of 5 km/h, and 4x distance at a speed of 6 km/h, and takes a total of 112 minutes. What is the total distance (in km) travelled by the person?
+    options:
+      A: "8"
+      B: "10"
+      C: "9"
+      D: "12"
+    answer: B
+    explanation: Time = 5x/5 + x/5 + 4x/6 = 28x/15 h = 112/60 h, so x = 1. Total distance = 10x = 10 km.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q052
+    difficulty: medium
+    stem: Let x cm² be the surface area and y cm³ be the volume of a sphere such that y = 14x. What is the radius (in cm) of the sphere?
+    options:
+      A: "102"
+      B: "42"
+      C: "51"
+      D: "68"
+    answer: B
+    explanation: (4/3)πr³ = 14 × 4πr² gives r/3 = 14, so r = 42 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q053
+    difficulty: medium
+    stem: The average of 46 numbers is 50.5. The average of the first 25 numbers is 45 and that of the last 18 numbers is 56. The 28th number is 67. If the 26th and 27th numbers are excluded, then what is the average of the remaining numbers?
+    options:
+      A: "51.5"
+      B: "50.4"
+      C: "50"
+      D: "51"
+    answer: C
+    explanation: Total = 2323; first 25 = 1125 and last 18 = 1008, so the 26th–28th sum to 190 and the 26th + 27th = 123. The remaining 44 numbers average (2323 − 123)/44 = 50.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q054
+    difficulty: medium
+    stem: What is the least number which when decreased by 7 is divisible by 15, 24, 28 and 32?
+    options:
+      A: "10097"
+      B: "10087"
+      C: "10067"
+      D: "10077"
+    answer: B
+    explanation: LCM(15, 24, 28, 32) = 3360. The numbers are 3360k + 7, and among the options 10087 = 3360 × 3 + 7.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q055
+    difficulty: medium
+    stem: If x + y + z = 2, xy + yz + zx = −11, and xyz = −12, then what is the value of x³ + y³ + z³ ?
+    options:
+      A: "36"
+      B: "38"
+      C: "40"
+      D: "42"
+    answer: B
+    explanation: x³ + y³ + z³ = 3xyz + (x + y + z)[(x + y + z)² − 3(xy + yz + zx)] = −36 + 2(4 + 33) = 38.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q056
+    difficulty: medium
+    stem: |-
+      Study the given bar graph and answer the question that follows.
+
+      The bar graph shows the exports of cars of type A and B (in ₹ millions) from 2014 to 2018.
+
+      | Year | A | B |
+      |---|---|---|
+      | 2014 | 200 | 225 |
+      | 2015 | 150 | 250 |
+      | 2016 | 275 | 200 |
+      | 2017 | 175 | 275 |
+      | 2018 | 300 | 325 |
+
+      What is the ratio of the total exports of cars of type A in 2016 and 2018 to the total exports of cars of type B in 2015 and 2017?
+
+      *(Figure: Grouped bar graph, Exports (in ₹ millions) vs Years; values as in the table.)*
+    options:
+      A: "13 : 12"
+      B: "10 : 9"
+      C: "5 : 4"
+      D: "23 : 21"
+    answer: D
+    explanation: "A in 2016 + 2018 = 275 + 300 = 575; B in 2015 + 2017 = 250 + 275 = 525. Ratio 575 : 525 = 23 : 21."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q057
+    difficulty: medium
+    stem: What is the value of p, if 25(3 + 4p) ÷ 12 of 5 − 3 × 8 = 6 ?
+    options:
+      A: "72"
+      B: "69"
+      C: 15⅓
+      D: 17¼
+    answer: D
+    explanation: "'12 of 5' = 60, so 25(3 + 4p)/60 − 24 = 6, giving 3 + 4p = 72 and p = 69/4 = 17¼."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q058
+    difficulty: medium
+    stem: "A, B and C start a business. A invests 33⅓% of the total capital, B invests 25% of the remaining, and C invests the rest. If the total profit at the end of the year is ₹1,86,000, then A's share of the profit (in ₹) is:"
+    options:
+      A: 62,000
+      B: 64,000
+      C: 61,000
+      D: 59,000
+    answer: A
+    explanation: A invests one-third of the capital, so A's share = 1,86,000 ÷ 3 = ₹62,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q059
+    difficulty: medium
+    stem: If sin²θ − cos²θ − 3sinθ + 2 = 0, 0° < θ < 90°, then what is the value of 1 + secθ + tanθ ?
+    options:
+      A: −1 + √3
+      B: −1 − √3
+      C: 1 + √3
+      D: 1 − √3
+    answer: C
+    explanation: "Using cos²θ = 1 − sin²θ: 2sin²θ − 3sinθ + 1 = 0, so sinθ = ½ and θ = 30°. Then 1 + 2/√3 + 1/√3 = 1 + √3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q060
+    difficulty: medium
+    stem: The base of a triangle is increased by 40%. By what percentage (correct to two decimal places) should its height be increased so that the area increases by 60%?
+    options:
+      A: 14.29%
+      B: 20.01%
+      C: 15.54%
+      D: 18.62%
+    answer: A
+    explanation: 1.4 × h' = 1.6, so h' = 1.6/1.4 = 1.1429. The height rises by 14.29%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q061
+    difficulty: medium
+    stem: "Let ΔABC ~ ΔPQR and ar(ΔABC)/ar(ΔQPR) = 64/169. If AB = 10 cm, BC = 7 cm and AC = 16 cm, then PR (in cm) is equal to:"
+    options:
+      A: "21"
+      B: "13"
+      C: "26"
+      D: "15"
+    answer: C
+    explanation: The side ratio is √(64/169) = 8/13, and PR corresponds to AC = 16, so PR = 16 × 13/8 = 26.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q062
+    difficulty: medium
+    stem: "The sides PQ and PR of ΔPQR are produced to points S and T, respectively. The bisectors of ∠SQR and ∠TRQ meet at point U. If ∠QUR = 69°, then the measure of ∠P is:"
+    options:
+      A: 31°
+      B: 69°
+      C: 21°
+      D: 42°
+    answer: D
+    explanation: The external bisectors meet at an angle of 90° − ∠P/2. So 69° = 90° − P/2, giving ∠P = 42°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q063
+    difficulty: medium
+    stem: The length of the shadow on the ground of a tall tree of height 45 m is 15√3 m. What is the angle (in degrees) of elevation of the sun?
+    options:
+      A: 60°
+      B: 45°
+      C: 90°
+      D: 30°
+    answer: A
+    explanation: tan θ = 45/(15√3) = √3, so θ = 60°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q064
+    difficulty: medium
+    stem: Find the value of (1.6)³ − (0.9)³ − (0.7)³ .
+    options:
+      A: "3.024"
+      B: −3.024
+      C: −3.24
+      D: "3.24"
+    answer: A
+    explanation: Since 1.6 = 0.9 + 0.7, a³ − b³ − c³ = 3abc = 3 × 1.6 × 0.9 × 0.7 = 3.024.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q065
+    difficulty: medium
+    stem: |-
+      Study the given histogram that shows the marks obtained by students in an examination and answer the question that follows.
+
+      | Marks | Number of Students |
+      |---|---|
+      | 150-200 | 30 |
+      | 200-250 | 45 |
+      | 250-300 | 60 |
+      | 300-350 | 35 |
+      | 350-400 | 40 |
+      | 400-450 | 35 |
+
+      The number of students who obtained less than 200 marks is what percentage less than the number of students who obtained 400 or more marks (correct to one decimal place)?
+
+      *(Figure: Histogram, Number of Students vs Marks (150 to 500 axis); values as in the table.)*
+    options:
+      A: 11.9%
+      B: 17.8%
+      C: 21.6%
+      D: 14.3%
+    answer: D
+    explanation: "Below 200: 30 students; 400 or more: 35. (35 − 30)/35 × 100 ≈ 14.3% less."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q066
+    difficulty: medium
+    stem: The curved surface area of a right circular cylinder is 616 cm² and the area of its base is 38.5 cm². What is the volume (in cm³) of the cylinder? (Take π = 22/7)
+    options:
+      A: "1155"
+      B: "1408"
+      C: "1243"
+      D: "1078"
+    answer: D
+    explanation: πr² = 38.5 gives r = 3.5; 2πrh = 616 gives h = 28. Volume = 38.5 × 28 = 1078 cm³.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q067
+    difficulty: medium
+    stem: (secØ − tanØ)² (1 + sinØ)² ÷ cos²Ø = ?
+    options:
+      A: cos²Ø
+      B: "1"
+      C: cot²Ø
+      D: −1
+    answer: B
+    explanation: secØ − tanØ = (1 − sinØ)/cosØ, so the expression = (1 − sin²Ø)²/cos⁴Ø = cos⁴Ø/cos⁴Ø = 1.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q068
+    difficulty: medium
+    stem: A shopkeeper allows 28% discount on the marked price of an article and still makes a profit of 30%. If he gains ₹30.90 on the sale of one article, then what is the marked price (to the nearest ₹) of the article?
+    options:
+      A: "103"
+      B: "134"
+      C: "194"
+      D: "186"
+    answer: D
+    explanation: 30% of CP = 30.90, so CP = 103 and SP = 133.90. MP = 133.90/0.72 ≈ ₹186.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q069
+    difficulty: medium
+    stem: Person A can do one-fifth of the work in 3 days, while B's efficiency is half of that of A. In how many days A and B working together can do half of the work?
+    options:
+      A: "4"
+      B: "7"
+      C: "6"
+      D: "5"
+    answer: D
+    explanation: "A does the whole work in 15 days and B (half as efficient) in 30 days. Together: 1/15 + 1/30 = 1/10 per day, so half the work takes 5 days."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q070
+    difficulty: medium
+    stem: |-
+      Study the given pie-chart and answer the question that follows.
+
+      The chart represents the percentage-wise distribution of total number of vanilla cakes and chocolate cakes sold every day in a week. Total number of cakes sold in a week = 10500.
+
+      | Day | Share |
+      |---|---|
+      | Sunday | 20% |
+      | Monday | 8% |
+      | Tuesday | 9% |
+      | Wednesday | 22% |
+      | Thursday | 15% |
+      | Friday | 10% |
+      | Saturday | 16% |
+
+      The ratio of vanilla cakes sold to chocolate cakes sold on Friday is 4 : 3. If the selling price of one vanilla cake is ₹9 and that of one chocolate cake is ₹10, then the total amount earned (in ₹) by selling all the vanilla cakes and chocolate cakes on Friday is:
+
+      *(Figure: Pie chart of cakes sold by day of the week; shares as in the table.)*
+    options:
+      A: 11,000
+      B: 8,900
+      C: 10,000
+      D: 9,900
+    answer: D
+    explanation: "Friday = 10% of 10500 = 1050 cakes: 600 vanilla and 450 chocolate. 600 × 9 + 450 × 10 = ₹9,900."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q071
+    difficulty: medium
+    stem: |-
+      The following bar graph shows the total number of youth (in lakhs) and the number of employed youth (in lakhs) in 5 states A, B, C, D and E.
+
+      What is the percentage of employed youth in states A and E taken together?
+
+      | State | Youth | Employed youth |
+      |---|---|---|
+      | A | 12 | 10.5 |
+      | B | 8 | 7 |
+      | C | 11.5 | 10 |
+      | D | 10 | 7.5 |
+      | E | 9 | 8 |
+
+      *(Figure: Grouped bar graph, Population (in lakhs) vs States; values as in the table.)*
+    options:
+      A: 88 2/21
+      B: 88 8/21
+      C: 82 8/21
+      D: 88 1/21
+    answer: A
+    explanation: (10.5 + 8)/(12 + 9) = 18.5/21 = 88 2/21 %.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q072
+    difficulty: medium
+    stem: A shopkeeper bought 40 pieces of an article at a rate of ₹50 per item. He sold 35 pieces with 20% profit. The remaining 5 pieces were found to be damaged and he sold them with 10% loss. Find his overall profit percentage.
+    options:
+      A: 30%
+      B: 32.5%
+      C: 16.25%
+      D: 10%
+    answer: C
+    explanation: CP = 40 × 50 = 2000. SP = 35 × 60 + 5 × 45 = 2325. Profit = 325/2000 = 16.25%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q073
+    difficulty: medium
+    stem: If the nine-digit number 9m2365n48 is completely divisible by 88, what is the value of (m² × n²), for the smallest value of n, where m and n are natural numbers?
+    options:
+      A: "36"
+      B: "64"
+      C: "32"
+      D: "20"
+    answer: B
+    explanation: For 8, n48 must be divisible by 8, so n is even; the smallest is n = 2. For 11, (9 + 2 + 6 + 2 + 8) − (m + 3 + 5 + 4) = 15 − m = 0, so m = 4. m²n² = 16 × 4 = 64.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q074
+    difficulty: medium
+    stem: An isosceles ΔMNP is inscribed in a circle. If MN = MP = 16√5 cm, and NP = 32 cm, what is the radius (in cm) of the circle?
+    options:
+      A: "20"
+      B: 18√5
+      C: "18"
+      D: 20√5
+    answer: A
+    explanation: The altitude from M = √(1280 − 256) = 32 and the area = ½ × 32 × 32 = 512. R = abc/(4 × area) = (1280 × 32)/2048 = 20 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q075
+    difficulty: medium
+    stem: If Seema invests ₹17,650 in an account that yields 8.5% p.a. simple interest, then how much (to nearest ₹) will she have after 5 years?
+    options:
+      A: 25,151
+      B: 21,155
+      C: 21,551
+      D: 25,115
+    answer: A
+    explanation: SI = 17650 × 8.5 × 5/100 = 7501.25. Amount = 25151.25 ≈ ₹25,151.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift3-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution required'.
+
+      When Sirisha **knock at the door** someone peeped through the window.
+    options:
+      A: knocked door
+      B: knocked at the door
+      C: knocked on door
+      D: No substitution required
+    answer: B
+    explanation: "The past tense matches 'peeped', and 'knock at the door' is the idiom: 'knocked at the door'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q077
+    difficulty: medium
+    stem: |-
+      Select the option that gives the most appropriate meaning of the underlined idiom.
+
+      You have put me in **a tight corner** by telling me to keep quiet.
+    options:
+      A: An embarrassing situation
+      B: A comfortable situation
+      C: A difficult situation
+      D: A secret place
+    answer: C
+    explanation: To be in 'a tight corner' is to be in a difficult situation.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Ransack
+    options:
+      A: Seize
+      B: Raid
+      C: Protect
+      D: Pilfer
+    answer: C
+    explanation: "'Ransack' means to plunder or rob; the opposite is 'protect'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      CENTRE
+    options:
+      A: Periphery
+      B: Clear
+      C: Mainstream
+      D: Definite
+    answer: A
+    explanation: The opposite of 'centre' is the outer edge, the 'periphery'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Now after the COVID-19 situation has ______, Bangladesh has started air travel services for other countries including India.
+    options:
+      A: improved
+      B: progressed
+      C: advanced
+      D: enriched
+    answer: A
+    explanation: A situation 'improves'; the other verbs do not fit a recovering pandemic situation.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Eventually
+    options:
+      A: Initially
+      B: Primarily
+      C: Originally
+      D: Ultimately
+    answer: D
+    explanation: "'Eventually' means in the end, 'ultimately'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q082
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A tank for fish or water plants
+    options:
+      A: Reservoir
+      B: Aviary
+      C: Aquarium
+      D: Museum
+    answer: C
+    explanation: A tank for fish or water plants is an aquarium.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q083
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      An image of a God used for worship
+    options:
+      A: Model
+      B: Idol
+      C: Icon
+      D: Temple
+    answer: B
+    explanation: An image of a god used for worship is an idol.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q084
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. Finally, it can be termed as the channel for all trade, and what is more important, of all ideas.  
+      B. It also provides framework to all economic development.  
+      C. It is the road which determines the site of many cities and the growth and nourishment of all.  
+      D. The road is one of the great fundamental institutions of mankind.
+    options:
+      A: CABD
+      B: DCBA
+      C: BDAC
+      D: DBAC
+    answer: B
+    explanation: D introduces the road as an institution, C gives its role in cities, B adds ('also') the economic framework, and A concludes ('Finally').
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q085
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Athens was / a most luminous / of all city-states / of ancient Greece.
+    options:
+      A: Athens was
+      B: of all city-states
+      C: of ancient Greece
+      D: a most luminous
+    answer: D
+    explanation: "A superlative takes 'the': 'the most luminous of all city-states'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q086
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      They catch whale sharks commercially in some places around the world.
+    options:
+      A: Whale sharks were caught commercially in some places around the world.
+      B: Whale sharks are being caught commercially in some places around the world.
+      C: Whale sharks have been caught commercially in some places around the world.
+      D: Whale sharks are caught commercially in some places around the world.
+    answer: D
+    explanation: Simple present active (catch) becomes 'are caught' in the passive.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q087
+    difficulty: medium
+    stem: |-
+      Select the correct active voice form of the given sentence
+
+      A cartoon film is being watched by Praveen.
+    options:
+      A: Praveen would like to watch a cartoon film.
+      B: Praveen had been watching a cartoon film.
+      C: Praveen is watched a cartoon film.
+      D: Praveen is watching a cartoon film.
+    answer: D
+    explanation: "'Is being watched' is present continuous passive, so the active is 'Praveen is watching a cartoon film.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q088
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      She said to her, "Will you ready my suit tomorrow?"
+    options:
+      A: She asked her if she would ready her suit tomorrow.
+      B: She asked her if she would ready her suit the next day.
+      C: She asked her that if she would ready her suit tomorrow
+      D: She said her if she would ready her suit tomorrow.
+    answer: B
+    explanation: A yes/no question is reported with 'asked … if', 'will' becomes 'would' and 'tomorrow' becomes 'the next day'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q089
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don't find any error, mark 'No error' as your answer.
+
+      We ordered a Pizza / which are one of / my favourite foods.
+    options:
+      A: which are one of
+      B: No error
+      C: my favourite foods
+      D: We ordered a Pizza
+    answer: A
+    explanation: "'Which' refers to the singular 'Pizza', so it should be 'which is one of'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q090
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      We thought / there was a good idea / to wear snow boots / before we stepped out.
+    options:
+      A: We thought
+      B: before we stepped out
+      C: to wear snow boots
+      D: there was a good idea
+    answer: D
+    explanation: "The dummy subject needed is 'it': 'it was a good idea to wear snow boots'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q091
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Deceive
+      B: Leisure
+      C: Believe
+      D: Wellfare
+    answer: D
+    explanation: The correct spelling is 'Welfare'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Trendy
+    options:
+      A: Common
+      B: Foreign
+      C: Popular
+      D: Familiar
+    answer: C
+    explanation: "'Trendy' means fashionable or popular."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select 'No substitution required'.
+
+      None of the boys was **willing to admit** that he was in the wrong.
+    options:
+      A: No substitution required
+      B: willing to admitting
+      C: ready to admitting
+      D: admit
+    answer: A
+    explanation: "'Willing to admit' (to + base verb) is correct, and 'None … was' agrees, so no change is needed."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the following idiom.
+
+      Nip in the bud
+    options:
+      A: To destroy early
+      B: To cut the buds
+      C: To destroy late
+      D: Not to destroy
+    answer: A
+    explanation: To 'nip in the bud' is to stop or destroy something at an early stage.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q095
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'.
+
+      You are welcome **to partake** this light refreshment.
+    options:
+      A: No improvement required
+      B: to partake of
+      C: for partaking
+      D: in partaken
+    answer: B
+    explanation: "'Partake' takes 'of' when it means to eat or drink something: 'to partake of this light refreshment'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      There is always something so fascinating about trains and journeys. There (1) ______ certain symbols and signages inside and outside of the train. The (2) ______ of most of them might not be known to everyone. (3) ______ you are a frequent traveller or not, you may have (4) ______ the letter X or a cross mark on the back of the last (5) ______ of the train.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: were
+      B: are
+      C: had been
+      D: will be
+    answer: B
+    explanation: "The passage is in the present tense with a plural subject (symbols and signages): 'There are'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      There is always something so fascinating about trains and journeys. There (1) ______ certain symbols and signages inside and outside of the train. The (2) ______ of most of them might not be known to everyone. (3) ______ you are a frequent traveller or not, you may have (4) ______ the letter X or a cross mark on the back of the last (5) ______ of the train.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: senses
+      B: charge
+      C: worth
+      D: meanings
+    answer: D
+    explanation: Most people may not know the 'meanings' of these symbols.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      There is always something so fascinating about trains and journeys. There (1) ______ certain symbols and signages inside and outside of the train. The (2) ______ of most of them might not be known to everyone. (3) ______ you are a frequent traveller or not, you may have (4) ______ the letter X or a cross mark on the back of the last (5) ______ of the train.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: Whether
+      B: Whichever
+      C: Whatever
+      D: However
+    answer: A
+    explanation: "'Whether … or not' introduces the two alternatives."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      There is always something so fascinating about trains and journeys. There (1) ______ certain symbols and signages inside and outside of the train. The (2) ______ of most of them might not be known to everyone. (3) ______ you are a frequent traveller or not, you may have (4) ______ the letter X or a cross mark on the back of the last (5) ______ of the train.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: distinguished
+      B: recognised
+      C: noticed
+      D: known
+    answer: C
+    explanation: You may have 'noticed' (seen) the X mark on the back of the train.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift3-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      There is always something so fascinating about trains and journeys. There (1) ______ certain symbols and signages inside and outside of the train. The (2) ______ of most of them might not be known to everyone. (3) ______ you are a frequent traveller or not, you may have (4) ______ the letter X or a cross mark on the back of the last (5) ______ of the train.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: booth
+      B: coach
+      C: bus
+      D: rail
+    answer: B
+    explanation: The X mark is on the last coach of a train.
+    tags:
+      - english

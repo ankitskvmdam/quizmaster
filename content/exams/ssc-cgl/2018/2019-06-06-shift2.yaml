@@ -1,0 +1,1354 @@
+slug: 2019-06-06-shift2
+title: SSC CGL 2018 Tier 1
+date: 2019-06-06
+label: 6 Jun, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132625/SSC-CGL-QUESTION-PAPER-06-June-2). Left out (picture-only options or incomplete in the source): Q5, Q11, Q13, Q14, Q15, Q21."
+questions:
+  - slug: cgl-2019-06-06-s2-q001
+    difficulty: medium
+    stem: In a family of eight persons, there are two couples, each having two children. C and D are cousin brothers. The father of E is married to G, who is the aunt of F. F's mother, H, is married to B, the brother of A. C is the nephew of H. How is A related to D?
+    options:
+      A: Uncle
+      B: Brother
+      C: Nephew
+      D: Father
+    answer: A
+    explanation: |-
+      G (F's aunt) is married to A, B's brother, so A and G are E's and C's parents, while B and H are the parents of F and D.
+      A is the brother of D's father B, so A is D's uncle.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q002
+    difficulty: medium
+    stem: ‘Dumbness’ is related to ‘Speech’ in the same way as ‘_____’ is related to ‘Memory’.
+    options:
+      A: Thoughtlessness
+      B: Amnesia
+      C: Recognition
+      D: Illusion
+    answer: B
+    explanation: Dumbness is the loss of speech; amnesia is the loss of memory.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q003
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (15, 22, 31)
+    options:
+      A: (7, 14, 23)
+      B: (5, 11, 20)
+      C: (23, 30, 40)
+      D: (11, 18, 29)
+    answer: A
+    explanation: 15 → 22 → 31 goes +7, +9; likewise 7 → 14 → 23 goes +7, +9.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q004
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series.
+
+      dc_abc_cb_bcd_ba_c
+    options:
+      A: dbacb
+      B: cbadb
+      C: bdacb
+      D: bdcab
+    answer: C
+    explanation: Filling b, d, a, c, b gives dcbabc dcbabc dcbabc, the block 'dcbabc' repeated.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q006
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      Happy : Mirthful :: Sad : ?
+    options:
+      A: Contented
+      B: Jolly
+      C: Morose
+      D: Gleeful
+    answer: C
+    explanation: Mirthful is a synonym of happy; morose is a synonym of sad.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q007
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown. Which number will be at the top if 1 is at the bottom?
+
+      *(Figure: Two views of a die. View 1: top 6, front-left 1, front-right 3. View 2: top 4, front-left 3, front-right 2.)*
+    options:
+      A: "4"
+      B: "2"
+      C: "6"
+      D: "5"
+    answer: A
+    explanation: |-
+      3 is common to both views. Reading each corner in the same rotational order from 3 gives 3-6-1 and 3-2-4, so 6 is opposite 2 and 1 is opposite 4.
+      With 1 at the bottom, 4 is on top.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q008
+    difficulty: medium
+    stem: |-
+      Which number will replace the question mark (?) in the following series?
+
+      2, 3, 6, 10, 17, 28, ?
+    options:
+      A: "45"
+      B: "39"
+      C: "43"
+      D: "46"
+    answer: D
+    explanation: The differences are 1, 3, 4, 7, 11, 18, where each difference is the sum of the previous two. So the next term is 28 + 18 = 46.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q009
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: ZOOM
+      B: PAST
+      C: BIRD
+      D: DECK
+    answer: A
+    explanation: ZOOM has two vowels and a repeated letter; PAST, BIRD and DECK each have four different letters with one vowel.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q010
+    difficulty: medium
+    stem: |-
+      Select the number-pair in which the two numbers are related in the same way as are the two numbers of the following number-pair.
+
+      28 : 63
+    options:
+      A: "16 : 36"
+      B: "36 : 78"
+      C: "12 : 28"
+      D: "48 : 98"
+    answer: A
+    explanation: "28 : 63 = 4 × 7 : 9 × 7 (ratio 4 : 9); 16 : 36 = 4 × 4 : 9 × 4 is also 4 : 9."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q012
+    difficulty: medium
+    stem: ₹820 is divided among 6 men, 8 women and 12 boys in such a way that every woman gets an amount equal to that received by one man and one boy combined and that every man gets one and a half times the amount received by a boy. What is the total amount received by 8 women?
+    options:
+      A: ₹400
+      B: ₹300
+      C: ₹240
+      D: ₹380
+    answer: A
+    explanation: |-
+      Let a boy get b. Then a man gets 1.5b and a woman gets 2.5b, so 9b + 20b + 12b = 41b = 820 and b = 20.
+      The 8 women get 8 × 2.5 × 20 = ₹400.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q016
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Writing  
+      2. Distributing  
+      3. Publishing  
+      4. Printing  
+      5. Editing
+    options:
+      A: 1, 2, 3, 4, 5
+      B: 2, 4, 3, 1, 5
+      C: 2, 3, 4, 5, 1
+      D: 1, 5, 4, 3, 2
+    answer: D
+    explanation: "A book is written, edited, printed, published and then distributed: 1, 5, 4, 3, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q017
+    difficulty: medium
+    stem: If POSTER is coded as 592314 and DARK is coded as 8647, then how will STROKE be coded as?
+    options:
+      A: "234917"
+      B: "234971"
+      C: "493287"
+      D: "329417"
+    answer: B
+    explanation: From the codes, S = 2, T = 3, R = 4, O = 9, K = 7, E = 1, so STROKE = 234971.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q018
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.
+
+      JKLM : HLKO :: PQRS : ?
+    options:
+      A: NRQU
+      B: MRQV
+      C: NQRU
+      D: ORQT
+    answer: A
+    explanation: The letters move −2, +1, −1, +2 (J→H, K→L, L→K, M→O). P→N, Q→R, R→Q, S→U gives NRQU.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q019
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (12, 16, 28)
+    options:
+      A: (18, 24, 42)
+      B: (9, 15, 21)
+      C: (36, 48, 77)
+      D: (20, 25, 35)
+    answer: A
+    explanation: 12 + 16 = 28; likewise 18 + 24 = 42.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q020
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged in the following equation to make it correct?
+
+      12 – 6 ÷ 12 × 6 + 6 = 9
+    options:
+      A: ÷ and ×
+      B: + and ÷
+      C: – and +
+      D: × and +
+    answer: C
+    explanation: Swapping − and + gives 12 + 6 ÷ 12 × 6 − 6 = 12 + 3 − 6 = 9.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q022
+    difficulty: medium
+    stem: |-
+      Two statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      Some students are players.  
+      Some players are athletes.
+
+      **Conclusions:**
+
+      I. Some students are athletes.  
+      II. Some players are students.  
+      III. No student is an athlete.
+    options:
+      A: Only conclusion II and either conclusion I or III follow
+      B: None of the conclusions follows
+      C: Only conclusion I follows
+      D: Only conclusions II and III follow
+    answer: A
+    explanation: "'Some players are students' is the converse of the first statement, so II follows. I and III form a complementary pair (some / no), so either I or III follows."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q023
+    difficulty: medium
+    stem: Three of the following four numbers are alike in a certain way and one is different. Pick the number that is different from the rest.
+    options:
+      A: "166"
+      B: "341"
+      C: "132"
+      D: "209"
+    answer: A
+    explanation: 341 = 11 × 31, 132 = 11 × 12 and 209 = 11 × 19 are multiples of 11; 166 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q024
+    difficulty: medium
+    stem: In a code language, TEACHING is written as SDBDGHOH. How will BOOKWORM be written as in that language?
+    options:
+      A: ANPLXNNS
+      B: ANPLXPSL
+      C: CPNJXPSL
+      D: ANPLVNSN
+    answer: D
+    explanation: TEACHING → SDBDGHOH shifts the letters −1, −1, +1, +1 in each block of four. BOOK WORM → ANPL VNSN.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q025
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the following figure?
+
+      *(Figure: A top horizontal line. From its left end a line runs to a bottom-right point; from its right end a line runs to a bottom-left point. From the midpoint of the top line, lines run to the bottom-left and bottom-right points, and a vertical line runs from the midpoint down to the crossing point of the first two lines.)*
+    options:
+      A: "12"
+      B: "13"
+      C: "11"
+      D: "15"
+    answer: D
+    explanation: "The figure has six lines: the top line, the two long crossing diagonals, the two lines from the top midpoint and the vertical. Counting every set of three lines that meet in three separate points gives 15 triangles."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-06-s2-q026
+    difficulty: medium
+    stem: _______ is a scientific discipline concerned with the study of plant pollen, spores, and certain microscopic planktonic organisms, in both, living and fossil form.
+    options:
+      A: Paleobotany
+      B: Ethnobotany
+      C: Dendrology
+      D: Palynology
+    answer: D
+    explanation: Palynology is the study of pollen, spores and similar microscopic particles, living or fossil.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q027
+    difficulty: medium
+    stem: _____ is the branch of zoology concerned with the study of amphibians.
+    options:
+      A: Herpetology
+      B: Ethology
+      C: Mammology
+      D: Morphology
+    answer: A
+    explanation: Herpetology is the branch of zoology that studies amphibians and reptiles.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q028
+    difficulty: medium
+    stem: ______ is the study of the microanatomy of cells, tissues and organs as seen through a microscope.
+    options:
+      A: Paleontology
+      B: Histology
+      C: Ichthyology
+      D: Entomology
+    answer: B
+    explanation: Histology is the microscopic study of cells and tissues.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q029
+    difficulty: medium
+    stem: Kala Bhavana, founded in 1919, is a noted institution of education and research in visual arts. It is located in _______.
+    options:
+      A: Bihar
+      B: Uttar Pradesh
+      C: West Bengal
+      D: Sikkim
+    answer: C
+    explanation: Kala Bhavana is the art institute of Visva-Bharati at Santiniketan, West Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q030
+    difficulty: medium
+    stem: Which of the following passes connects Tawang with Lhasa?
+    options:
+      A: Chankan Pass
+      B: Bum La Pass
+      C: Hpungan Pass
+      D: Kumjawng Pass
+    answer: B
+    explanation: Bum La Pass, near Tawang in Arunachal Pradesh, is on the route into Tibet (Lhasa).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q031
+    difficulty: medium
+    stem: Poush Mela displays local artisians displaying folk dances, music, food and culture of _____.
+    options:
+      A: Gujarat
+      B: West Bengal
+      C: Rajasthan
+      D: Uttarakhand
+    answer: B
+    explanation: Poush Mela is held every winter at Santiniketan, West Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q032
+    difficulty: medium
+    stem: Pramod Sawant became Chief Minister of which Indian state in March, 2019?
+    options:
+      A: Tamil Nadu
+      B: Goa
+      C: Kerala
+      D: Maharashtra
+    answer: B
+    explanation: Pramod Sawant became Chief Minister of Goa in March 2019, after Manohar Parrikar's death.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q033
+    difficulty: medium
+    stem: In March 2019, who among the followings was appointed as India's first Lokpal?
+    options:
+      A: Justice A K Sikri
+      B: Justice N V Ramana
+      C: Justice Pinaki Chandra Ghose
+      D: Justice S A Bobde
+    answer: C
+    explanation: Justice Pinaki Chandra Ghose was appointed India's first Lokpal in March 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q034
+    difficulty: medium
+    stem: In March 2019, India won five silver medals at the Makran Cup Boxing Tournament in Iran. Who among the following is NOT one of the silver medallists?
+    options:
+      A: Duryodhan Singh Negi
+      B: P Lalitha Prasad
+      C: Deepak Singh
+      D: Manish Kaushik
+    answer: C
+    explanation: Deepak Singh won gold at the 2019 Makran Cup; Duryodhan Singh Negi, P Lalitha Prasad and Manish Kaushik were among the silver medallists.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q035
+    difficulty: medium
+    stem: The invasion of Delhi by Timur in ____ A.D marked the end of the Tughlaq empire.
+    options:
+      A: "1645"
+      B: "1398"
+      C: "1452"
+      D: "1215"
+    answer: B
+    explanation: Timur sacked Delhi in 1398, which broke the Tughlaq dynasty's power.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q036
+    difficulty: medium
+    stem: Who among the following was one of the Governors during the reign of Alauddin Khilji?
+    options:
+      A: Jalal-ud-din Khilji
+      B: Shams-ud-din Iltutmish
+      C: Ghiyasuddin Tughlaq
+      D: Nasiruddin Mahmud
+    answer: C
+    explanation: Ghiyasuddin Tughlaq (Ghazi Malik) served Alauddin Khilji as governor of Dipalpur before founding the Tughlaq dynasty.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q037
+    difficulty: medium
+    stem: TV remote controls work on the principle of ______.
+    options:
+      A: Ultrasonic waves
+      B: Laser technology
+      C: Bluetooth technology
+      D: Infrared waves
+    answer: D
+    explanation: TV remote controls send their signals as infrared light.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q038
+    difficulty: medium
+    stem: Who was appointed as the director of Bhabha Atomic Research Centre (BARC) for a period of three years in March 2019?
+    options:
+      A: Vishvapavan Pati
+      B: Kamlesh Nilkanth Vyas
+      C: Satyajeet Rajan
+      D: Ajit Kumar Mohanty
+    answer: D
+    explanation: Ajit Kumar Mohanty became Director of BARC in March 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q039
+    difficulty: medium
+    stem: |-
+      Government of India nominated member of NITI Aayog, ______ to head the Food and
+
+      Agricultural Organisation (FAO) in March 2019.
+    options:
+      A: Ramesh Chand
+      B: Binay Ranjan Sen
+      C: V K Paul
+      D: Amitabh Kant
+    answer: A
+    explanation: India nominated NITI Aayog member Ramesh Chand for the post of Director-General of the FAO in 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q040
+    difficulty: medium
+    stem: Who founded the Sayyid dynasty?
+    options:
+      A: Nizam Shah
+      B: Muhammad-bin-Farid
+      C: Khizr Khan
+      D: Bahlul Khan
+    answer: C
+    explanation: Khizr Khan founded the Sayyid dynasty in 1414.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q041
+    difficulty: medium
+    stem: Majuli, the largest river island in the world is located in
+    options:
+      A: Arunachal Pradesh
+      B: Assam
+      C: Nagaland
+      D: Uttar Pradesh
+    answer: B
+    explanation: Majuli is a river island in the Brahmaputra, in Assam.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q042
+    difficulty: medium
+    stem: Which of the following passes is known as the gateway connecting Jammu and Srinagar?
+    options:
+      A: Lanak-La Pass
+      B: Chang-La Pass
+      C: Banihal Pass
+      D: Aghil Pass
+    answer: C
+    explanation: Banihal Pass in the Pir Panjal range carries the road between Jammu and Srinagar.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q043
+    difficulty: medium
+    stem: ________ in Himachal Pradesh is a famous tourist attraction.
+    options:
+      A: Aghil Pass
+      B: Chang-La Pass
+      C: Mintaka Pass
+      D: Rohtang Pass
+    answer: D
+    explanation: Rohtang Pass, near Manali in Himachal Pradesh, is a popular tourist spot.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q044
+    difficulty: medium
+    stem: In March 2019, the government of India appointed ________as the director-general of the National Archives of India.
+    options:
+      A: Kamlesh Vyas
+      B: Binay Sen
+      C: V K Paul
+      D: P V Ramesh
+    answer: D
+    explanation: In March 2019 the government named P V Ramesh Director-General of the National Archives of India.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q045
+    difficulty: medium
+    stem: A sustained rise in the general price level in an economy is called ______.
+    options:
+      A: Disinflation
+      B: Deflation
+      C: Inflation
+      D: Stagflation
+    answer: C
+    explanation: Inflation is a sustained rise in the general price level.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q046
+    difficulty: medium
+    stem: Who founded the Indian Statistical Institute on 17 December 1931?
+    options:
+      A: P.C. Mahalanobis
+      B: R.A. Fischer
+      C: F. Yates
+      D: M.H. Hansen
+    answer: A
+    explanation: P.C. Mahalanobis founded the Indian Statistical Institute in Kolkata in 1931.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q047
+    difficulty: medium
+    stem: _________ was observed nationwide from 24th to 30th April, 2019.
+    options:
+      A: World Tourism Week
+      B: World Immunization Week
+      C: World Environment Week
+      D: World Postal Week
+    answer: B
+    explanation: World Immunization Week is observed every year from 24 to 30 April.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q048
+    difficulty: medium
+    stem: Rust needs three components to occur, i.e., ______.
+    options:
+      A: Steel, iron and oxygen
+      B: Iron, oxygen and moisture
+      C: Iron, nitrogen and moisture
+      D: Helium, hydrogen and nitrogen
+    answer: B
+    explanation: Iron rusts only when both oxygen and moisture are present.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q049
+    difficulty: medium
+    stem: ________ created history in its second Twenty20 International against Ireland by achieving the highest ever T20 total at the Rajiv Gandhi International Cricket Stadium in Dehradun, Uttarakhand.
+    options:
+      A: Pakistan
+      B: India
+      C: Afghanistan
+      D: Australia
+    answer: C
+    explanation: Afghanistan scored 278/3 against Ireland in Dehradun in February 2019, then the highest T20I total.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q050
+    difficulty: medium
+    stem: Which of the following articles promotes equal justice and free legal aid for all the citizens?
+    options:
+      A: 39A
+      B: 32A
+      C: 43A
+      D: 48A
+    answer: A
+    explanation: Article 39A (a Directive Principle) provides for equal justice and free legal aid.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-06-s2-q051
+    difficulty: medium
+    stem: "The efficiencies of A, B and C are in the ratio 5 : 3 : 8. Working together they can complete a work in 30 days. A and B worked together for 20 days. The remaining work will be completed by C alone in:"
+    options:
+      A: 40 days
+      B: 36 days
+      C: 30 days
+      D: 32 days
+    answer: A
+    explanation: Work = (5 + 3 + 8) × 30 = 480 units. A and B do 8 × 20 = 160 units, so C (8 units a day) finishes the remaining 320 in 40 days.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q052
+    difficulty: medium
+    stem: "If cos² θ/(cot² θ − cos² θ) = 3, 0° < θ < 90°, then the value of cot θ + cosec θ is:"
+    options:
+      A: √3
+      B: √3/2
+      C: 2√3
+      D: 3√3/4
+    answer: A
+    explanation: |-
+      cos²θ / (cot²θ − cos²θ) = cos²θ / (cos⁴θ/sin²θ) = tan²θ = 3, so θ = 60°.
+      cot 60° + cosec 60° = 1/√3 + 2/√3 = √3.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q053
+    difficulty: medium
+    stem: In Δ ABC with sides 6 cm, 7 cm and 8 cm, the angle bisector of the largest angle divides the opposite side into two segments. What is the length of the shorter segment?
+    options:
+      A: 24/5 cm
+      B: 21/5 cm
+      C: 48/13 cm
+      D: 56/13 cm
+    answer: C
+    explanation: "The bisector of the largest angle (opposite the 8 cm side) divides that side in the ratio 6 : 7, giving 48/13 cm and 56/13 cm. The shorter segment is 48/13 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q054
+    difficulty: medium
+    stem: The distance between two stations A and B is 800 km. A train X starts from A and moves towards B at 40 km/h and another train Y starts from B and moves towards A at 60 km/h. How far from A will they cross each other?
+    options:
+      A: 380 km
+      B: 320 km
+      C: 300 km
+      D: 360 km
+    answer: B
+    explanation: They meet after 800 / (40 + 60) = 8 hours, when X has gone 40 × 8 = 320 km from A.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q055
+    difficulty: medium
+    stem: "If 2x² + y² + 6x − 2xy + 9 = 0, then the value of (4x³ − y³ + x²y²) is:"
+    options:
+      A: "0"
+      B: "9"
+      C: −3
+      D: −9
+    answer: A
+    explanation: |-
+      The equation is (x − y)² + (x + 3)² = 0, so x = y = −3.
+      Then 4(−27) − (−27) + 81 = 0.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q056
+    difficulty: medium
+    stem: The vertices of a Δ PQR lie on a circle with centre O. SR is a tangent to the circle at the point R. If QR bisects the ∠ORS, then what is the measure of ∠RPQ?
+    options:
+      A: 60°
+      B: 45°
+      C: 40°
+      D: 30°
+    answer: B
+    explanation: OR ⊥ SR, so ∠ORS = 90° and ∠QRS = 45°. By the alternate segment theorem, ∠RPQ = ∠QRS = 45°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q057
+    difficulty: medium
+    stem: In a circle with centre O, ACBO is a parallelogram where C is a point on the minor arc AB. What is the measure of ∠ AOB?
+    options:
+      A: 150°
+      B: 100°
+      C: 110°
+      D: 120°
+    answer: D
+    explanation: OA = OB, so the parallelogram ACBO is a rhombus. OC is a radius, so triangles OAC and OBC are equilateral and ∠AOB = 60° + 60° = 120°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q058
+    difficulty: medium
+    stem: If sin θ = 4 cos θ, then what is the value of sin θ cos θ ?
+    options:
+      A: 2/9
+      B: 3/10
+      C: 4/17
+      D: 3/4
+    answer: C
+    explanation: tan θ = 4, so sin θ cos θ = tan θ / (1 + tan²θ) = 4/17.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q059
+    difficulty: medium
+    stem: ABDC is a parallelogram in which diagonals AD and BC intersect at O. AE and DF are perpendiculars on BC at E and F, respectively. Which of the following is NOT true?
+    options:
+      A: Δ ABC ≅ Δ DCB
+      B: Δ AOE ≅ Δ DOF
+      C: Δ AEB ≅ Δ DFC
+      D: Δ ADC ≅ Δ ABD
+    answer: D
+    explanation: The first three pairs are congruent (SSS, AAS and RHS). In ΔADC and ΔABD with that correspondence, AD would have to equal AB, which is not true in general.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q060
+    difficulty: medium
+    stem: The average of twelve numbers is 46. The average of the first four numbers is 43 and that of the last five numbers is 49.4.The 5th and the 6th numbers are respectively 4 and 6 more than the 7th number. What is the average of the 5th and the 7th numbers?
+    options:
+      A: "43.5"
+      B: "43"
+      C: "44.5"
+      D: "44"
+    answer: B
+    explanation: |-
+      The 5th, 6th and 7th numbers total 552 − 172 − 247 = 133. With the 7th number = n, 3n + 10 = 133, so n = 41 and the 5th is 45.
+      Their average is (45 + 41)/2 = 43.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q061
+    difficulty: medium
+    stem: "The value of 9/15 of (2/3 ÷ 2/3 of 3/2) ÷ (3/4 × 3/4 ÷ 3/4 of 4/3) of (5/4 ÷ 5/2 × 2/5 of 4/5) is:"
+    options:
+      A: 20/9
+      B: 4/25
+      C: 18/125
+      D: 40/9
+    answer: D
+    explanation: "The brackets are 2/3, 9/16 and 4/25. Doing 'of' first: (9/15 × 2/3) ÷ (9/16 × 4/25) = (2/5) ÷ (9/100) = 40/9."
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q062
+    difficulty: medium
+    stem: "If x + y = 12 and xy = 27, x > y, then the value of (x³ − y³) is:"
+    options:
+      A: "720"
+      B: "702"
+      C: "724"
+      D: "710"
+    answer: B
+    explanation: x − y = √(144 − 108) = 6, so x³ − y³ = (x − y)³ + 3xy(x − y) = 216 + 486 = 702.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q063
+    difficulty: medium
+    stem: What is the compound interest on a sum of ₹10,000 at 14% p.a. for 2 5/7 years where the interest is compounded yearly? (nearest to ₹ 1)
+    options:
+      A: ₹4,259
+      B: ₹4,296
+      C: ₹4,439
+      D: ₹4,394
+    answer: B
+    explanation: Amount = 10000 × 1.14² × (1 + 0.14 × 5/7) = 12996 × 1.10 = 14295.6, so CI ≈ ₹4,296.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q064
+    difficulty: medium
+    stem: "Abhi bought two articles for ₹624. He sold one at a loss of 14% and the other at a profit of 14%. If the selling price of both the articles is equal, then the difference between their cost prices (in ₹) is:"
+    options:
+      A: "89.64"
+      B: "87.36"
+      C: "89.68"
+      D: "88.84"
+    answer: B
+    explanation: "0.86 × CP₁ = 1.14 × CP₂, so CP₁ : CP₂ = 57 : 43. The cost prices are 355.68 and 268.32, a difference of ₹87.36."
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q065
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 54 | 58 | 60 | 63 | 55 |
+      | B | 40 | 54 | 56 | 61 | 67 |
+      | C | 46 | 50 | 63 | 73 | 77 |
+      | D | 33 | 35 | 48 | 45 | 49 |
+      | E | 47 | 43 | 53 | 48 | 52 |
+
+      The total production of type E cars in 2012 and 2013 is approximately what percent more than the average production of type A cars during the years 2012 to 2016?
+
+      *(Figure: Table of car production (in thousands) by type A–E for 2012–2016, printed as an image (transcribed as a table in the stem).)*
+    options:
+      A: "53.8"
+      B: "55.2"
+      C: "52.2"
+      D: "56.4"
+    answer: B
+    explanation: |-
+      Type E in 2012 and 2013 = 47 + 43 = 90. Type A averages 290/5 = 58.
+      (90 − 58)/58 × 100 ≈ 55.2%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q066
+    difficulty: medium
+    stem: "The length of a metallic pipe is 7.56 m. Its external and internal radii are 2.5 cm and 1.5 cm respectively. If 1 cm³ of the metal weigh 7.5 g, then the weight of the pipe is: (Take π = 22/7)"
+    options:
+      A: 72.82 kg
+      B: 70.14 kg
+      C: 71.28 kg
+      D: 69.68 kg
+    answer: C
+    explanation: Volume = (22/7) × (2.5² − 1.5²) × 756 = 9504 cm³. Weight = 9504 × 7.5 g = 71.28 kg.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q067
+    difficulty: medium
+    stem: Let a = 2 sin x/(1 + sin x + cos x) and b = c/(1 + sin x). Then a = b, if c = ?
+    options:
+      A: 1 − sin x cos x
+      B: 1 + sin x − cos x
+      C: 1 + sin x cos x
+      D: 1 + cos x − sin x
+    answer: B
+    explanation: (1 + sin x − cos x)(1 + sin x + cos x) = (1 + sin x)² − cos²x = 2 sin x (1 + sin x). So c = 1 + sin x − cos x makes a = b.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q068
+    difficulty: medium
+    stem: "If x² + y² + z² = 133, xy + yz + zx = 114 and xyz = 216 , then the value of x³ + y³ + z³ is:"
+    options:
+      A: "948"
+      B: "999"
+      C: "942"
+      D: "1009"
+    answer: D
+    explanation: |-
+      (x + y + z)² = 133 + 2 × 114 = 361, so x + y + z = 19.
+      x³ + y³ + z³ = 3xyz + 19 × (133 − 114) = 648 + 361 = 1009.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q069
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 54 | 58 | 60 | 63 | 55 |
+      | B | 40 | 54 | 56 | 61 | 67 |
+      | C | 46 | 50 | 63 | 73 | 77 |
+      | D | 33 | 35 | 48 | 45 | 49 |
+      | E | 47 | 43 | 53 | 48 | 52 |
+
+      The total production of all type of cars, except type B, in 2012 is what percent less than the total production of all types of cars in 2016?
+
+      *(Figure: Same table as question 65 (transcribed as a table in the stem).)*
+    options:
+      A: "40"
+      B: "25.8"
+      C: "26.7"
+      D: "42"
+    answer: A
+    explanation: |-
+      2012 without B: 54 + 46 + 33 + 47 = 180. All types in 2016: 55 + 67 + 77 + 49 + 52 = 300.
+      (300 − 180)/300 = 40% less.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q070
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 54 | 58 | 60 | 63 | 55 |
+      | B | 40 | 54 | 56 | 61 | 67 |
+      | C | 46 | 50 | 63 | 73 | 77 |
+      | D | 33 | 35 | 48 | 45 | 49 |
+      | E | 47 | 43 | 53 | 48 | 52 |
+
+      If the data related to the production of type D cars is represented by a pie chart, then the central angle of the sector representing the production of cars in 2013 will be:
+
+      *(Figure: Same table as question 65 (transcribed as a table in the stem).)*
+    options:
+      A: 84°
+      B: 75°
+      C: 60°
+      D: 77°
+    answer: C
+    explanation: Type D totals 33 + 35 + 48 + 45 + 49 = 210. The 2013 sector is 35/210 × 360° = 60°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q071
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 54 | 58 | 60 | 63 | 55 |
+      | B | 40 | 54 | 56 | 61 | 67 |
+      | C | 46 | 50 | 63 | 73 | 77 |
+      | D | 33 | 35 | 48 | 45 | 49 |
+      | E | 47 | 43 | 53 | 48 | 52 |
+
+      What is the ratio of the total production of type E cars in 2014 and type C cars in 2016 taken together to the total production of type B cars in 2014 and type D cars in 2013 taken together?
+
+      *(Figure: Same table as question 65 (transcribed as a table in the stem).)*
+    options:
+      A: "9 : 8"
+      B: "10 : 7"
+      C: "11 : 8"
+      D: "11 : 5"
+    answer: B
+    explanation: "(53 + 77) : (56 + 35) = 130 : 91 = 10 : 7."
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q072
+    difficulty: medium
+    stem: "When the price of an item was reduced by 20%, then its sale increased by x%. If there is an increase of 60% in the receipt of the revenue, then the value of x is:"
+    options:
+      A: "120"
+      B: "96"
+      C: "100"
+      D: "80"
+    answer: C
+    explanation: "Revenue = price × sales: 0.8 × (1 + x/100) = 1.6, so x = 100."
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q073
+    difficulty: medium
+    stem: "The ratio of the present ages of A and B is 8 : 9. After 9 years, this ratio will become 19 : 21. C is 3 years younger to B. What is the present age (in years) of C?"
+    options:
+      A: "49"
+      B: "48"
+      C: "51"
+      D: "52"
+    answer: C
+    explanation: (8k + 9)/(9k + 9) = 19/21 gives k = 6, so B is 54 and C is 54 − 3 = 51.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q074
+    difficulty: medium
+    stem: "If a 9-digit number 32x4115y2 is divisible by 88, then the value of (4x − y) for the smallest possible value of y, is:"
+    options:
+      A: "31"
+      B: "20"
+      C: −1
+      D: "11"
+    answer: C
+    explanation: |-
+      **Disputed.** SSC's answer is C; our check suggests A.
+
+      The official key (−1) uses x = 1 and y = 5: 321411552 is divisible by 8 (552) and by 11 (alternating sums 12 and 12), and 4 × 1 − 5 = −1. With the smallest y (y = 1), x = 8 and 4x − y would be 31.
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q075
+    difficulty: medium
+    stem: "A trader marks his goods at 40% above the cost price. He sells 70% of the goods at the marked price and the rest, he sells by allowing a 40% discount on the marked price. His percentage profit is:"
+    options:
+      A: "23.4"
+      B: "24.2"
+      C: "23.2"
+      D: "24.4"
+    answer: C
+    explanation: "With CP 100 and MP 140: 70 × 1.40 + 30 × 0.84 = 98 + 25.2 = 123.2 for goods costing 100, a profit of 23.2%."
+    tags:
+      - quant
+  - slug: cgl-2019-06-06-s2-q076
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. Canada accounts for nearly one-third of the world's production of news print.  
+      B. Forest products, therefore, have been important export items of Canada for more than a century.  
+      C. A large part of Canada is covered with coniferous trees.  
+      D. Pulp and paper are the two most important forest products.
+    options:
+      A: ABCD
+      B: DCAB
+      C: CBDA
+      D: BACD
+    answer: C
+    explanation: "C introduces Canada's forests, B draws the conclusion ('therefore'), D names the main products and A gives the newsprint figure: CBDA."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      The Head has been **so busy to go through** these files and resolve the matter.
+    options:
+      A: such busy to go through
+      B: too busy to go through
+      C: No improvement
+      D: too so busy to go through
+    answer: B
+    explanation: "The pattern 'too + adjective + to-infinitive' expresses excess: 'too busy to go through'."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      The wall of this park is being painted by children.
+    options:
+      A: Children are painting the wall of this park.
+      B: The wall is painting children of this park.
+      C: Children have been painting the wall of this park.
+      D: Children painted the wall of this park.
+    answer: A
+    explanation: The passive 'is being painted' is present continuous, so the active is 'Children are painting the wall of this park.'
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q079
+    difficulty: medium
+    stem: |-
+      Select the synonym of the given word.
+
+      ENTICE
+    options:
+      A: ensue
+      B: entail
+      C: enrage
+      D: entrap
+    answer: D
+    explanation: Entice means to lure or tempt, closest to entrap.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q080
+    difficulty: medium
+    stem: |-
+      Select the synonym of the given word.
+
+      DUBIOUS
+    options:
+      A: certain
+      B: fishy
+      C: loyal
+      D: steady
+    answer: B
+    explanation: Dubious means doubtful or suspicious, i.e. fishy.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q081
+    difficulty: medium
+    stem: |-
+      Select the antonym of the given word.
+
+      FINITE
+    options:
+      A: finished
+      B: limited
+      C: bound
+      D: endless
+    answer: D
+    explanation: Finite means limited; its opposite is endless.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Couch potato
+    options:
+      A: a person who sleeps all day
+      B: a person who watches too much television
+      C: a person who remains relaxed and calm
+      D: a person who is simple in nature
+    answer: B
+    explanation: A couch potato is a person who spends a lot of time sitting and watching television.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q083
+    difficulty: medium
+    stem: Select the wrongly spelt word.
+    options:
+      A: rendezvous
+      B: renassaince
+      C: remuneration
+      D: remonstrate
+    answer: B
+    explanation: The correct spelling is 'renaissance'.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      In many countries the ______ in pay for men and women is quite common, for example, in Germany women are paid 21 per cent less as compared to men.
+    options:
+      A: unlikeliness
+      B: equivalence
+      C: disagreement
+      D: disparity
+    answer: D
+    explanation: Disparity means inequality, which fits the pay gap described.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Lead someone by the nose
+    options:
+      A: to do the right thing
+      B: to force someone to take the blame
+      C: to dominate someone
+      D: to quarrel with someone
+    answer: C
+    explanation: To lead someone by the nose is to control or dominate them completely.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q086
+    difficulty: medium
+    stem: Select the wrongly spelt word.
+    options:
+      A: megre
+      B: meadow
+      C: matter
+      D: measure
+    answer: A
+    explanation: The correct spelling is 'meagre' (or 'meager').
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      You won't tell the secret, **won't you**?
+    options:
+      A: No improvement
+      B: would you
+      C: will you
+      D: isn't it
+    answer: C
+    explanation: "A negative statement takes a positive question tag in the same auxiliary: 'You won't tell…, will you?'"
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q088
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      In 1914 a war began in Europe which engulfed the entire world. The damage (1)______ by this war has no precedent in history. (2)______ the earlier wars, the civilian populations were (3)______ not involved and the casualties were mostly (4)______ to the warring armies. The war (5)______ began in 1914 was a total war in which all the resources of the warring states were mobilized.
+
+      Select the most appropriate option for blank No. 1.
+    options:
+      A: made
+      B: caused
+      C: generated
+      D: began
+    answer: B
+    explanation: Damage is 'caused' by a war.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q089
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      In 1914 a war began in Europe which engulfed the entire world. The damage (1)______ by this war has no precedent in history. (2)______ the earlier wars, the civilian populations were (3)______ not involved and the casualties were mostly (4)______ to the warring armies. The war (5)______ began in 1914 was a total war in which all the resources of the warring states were mobilized.
+
+      Select the most appropriate option for blank No. 2.
+    options:
+      A: At
+      B: Into
+      C: In
+      D: On
+    answer: C
+    explanation: "'In the earlier wars' is the idiomatic preposition for a period or event."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q090
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      In 1914 a war began in Europe which engulfed the entire world. The damage (1)______ by this war has no precedent in history. (2)______ the earlier wars, the civilian populations were (3)______ not involved and the casualties were mostly (4)______ to the warring armies. The war (5)______ began in 1914 was a total war in which all the resources of the warring states were mobilized.
+
+      Select the most appropriate option for blank No. 3.
+    options:
+      A: generally
+      B: broadly
+      C: chiefly
+      D: finally
+    answer: A
+    explanation: "'Generally not involved' means that, as a rule, civilians were not involved."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q091
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      In 1914 a war began in Europe which engulfed the entire world. The damage (1)______ by this war has no precedent in history. (2)______ the earlier wars, the civilian populations were (3)______ not involved and the casualties were mostly (4)______ to the warring armies. The war (5)______ began in 1914 was a total war in which all the resources of the warring states were mobilized.
+
+      Select the most appropriate option for blank No. 4.
+    options:
+      A: belonged
+      B: confined
+      C: reatrained
+      D: bound
+    answer: B
+    explanation: Casualties were 'confined to' (limited to) the warring armies.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q092
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      In 1914 a war began in Europe which engulfed the entire world. The damage (1)______ by this war has no precedent in history. (2)______ the earlier wars, the civilian populations were (3)______ not involved and the casualties were mostly (4)______ to the warring armies. The war (5)______ began in 1914 was a total war in which all the resources of the warring states were mobilized.
+
+      Select the most appropriate option for blank No. 5.
+    options:
+      A: which
+      B: whom
+      C: what
+      D: who
+    answer: A
+    explanation: "'Which' is the relative pronoun for a thing (the war)."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      Persons living at the same time
+    options:
+      A: cosmopolitans
+      B: compatriots
+      C: colleagues
+      D: contemporaries
+    answer: D
+    explanation: Contemporaries are people living at the same time.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Catholics and Protestants have a long history of ______ in Northern Ireland but volunteers from both communities came together to build the monument of Peace.
+    options:
+      A: truce
+      B: agreement
+      C: contest
+      D: conflict
+    answer: D
+    explanation: "'But … came together' signals a contrast, so the long history is one of conflict."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q095
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. In China, thousands of people celebrated it.  
+      B. The Lunar New Year of the Pig began on 5th February.  
+      C. Others burned the first joss sticks of the year to bring them good fortune.  
+      D. Some performers re-enacted historical ceremonies.
+    options:
+      A: ABCD
+      B: BADC
+      C: DABC
+      D: BDCA
+    answer: B
+    explanation: "B introduces the Lunar New Year, A says people celebrated it, and D ('Some performers') and C ('Others') describe how: BADC."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q096
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      Take this suitcase upstairs.
+    options:
+      A: You are requested to take this suitcase upstairs.
+      B: You must be taking this suitcase upstairs.
+      C: This suitcase should be taken upstairs.
+      D: Let this suitcase been taken upstairs.
+    answer: C
+    explanation: "The passive of an imperative uses 'should be' + past participle: 'This suitcase should be taken upstairs.'"
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q097
+    difficulty: medium
+    stem: |-
+      Select the antonym of the given word.
+
+      REPRIMAND
+    options:
+      A: apprehend
+      B: reproach
+      C: compliment
+      D: blame
+    answer: C
+    explanation: Reprimand means to scold formally; its opposite is compliment.
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q098
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      I know the cobbler which mends the shoes outside the gate of our colony.
+    options:
+      A: I know the cobbler
+      B: the shoes
+      C: which mends
+      D: outside the gate
+    answer: C
+    explanation: "The relative pronoun for a person is 'who': 'the cobbler who mends the shoes'."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q099
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      The street artist Satish Munjal has been painting this wall since the past one week.
+    options:
+      A: has been painting
+      B: The street artist
+      C: this wall
+      D: since the past one week
+    answer: D
+    explanation: "'Since' needs a point in time; a period takes 'for': 'for the past one week'."
+    tags:
+      - english
+  - slug: cgl-2019-06-06-s2-q100
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      Someone who believes that people cannot change the way events will happen
+    options:
+      A: prophet
+      B: fatalist
+      C: fanatic
+      D: seer
+    answer: B
+    explanation: A fatalist believes events are fixed in advance and cannot be changed.
+    tags:
+      - english
