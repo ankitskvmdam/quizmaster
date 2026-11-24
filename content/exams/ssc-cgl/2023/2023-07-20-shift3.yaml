@@ -1,0 +1,1289 @@
+slug: 2023-07-20-shift3
+title: SSC CGL 2023 Tier 1
+date: 2023-07-20
+label: 20 Jul, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/2025/07/17133513/SSC-CGL-Tier-1-Question-Paper_20.07.2023_). Left out (picture-only options or incomplete in the source): Q6, Q10, Q12, Q16, Q20, Q22."
+questions:
+  - slug: cgl-2023-07-20-s3-q001
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth term is related to the third term.  
+      32 : 8 :: 72 : 12 :: 128 : ?
+    options:
+      A: "18"
+      B: "16"
+      C: "14"
+      D: "15"
+    answer: B
+    explanation: "Second term = √(2 × first): √64 = 8, √144 = 12, so √256 = 16."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q002
+    difficulty: medium
+    stem: |-
+      In this question, three statements are given, followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusion(s) logically follows/follow from the statements.
+
+      Statements:  
+      All cricketers are wealthy.  
+      Some wealthy are Indians.  
+      All Indians are honest.
+
+      Conclusions:  
+      I. All Indians are cricketers.  
+      II. Some cricketers are honest.
+    options:
+      A: Only conclusion II follows.
+      B: Only conclusion I follows.
+      C: Neither conclusions I nor II follows.
+      D: Both conclusions I and II follow.
+    answer: C
+    explanation: Cricketers and Indians are linked only through "some wealthy", so neither "all Indians are cricketers" nor "some cricketers are honest" is certain.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q003
+    difficulty: medium
+    stem: |-
+      If ‘+’ means ‘subtraction’, ‘−’ means ‘multiplication’, ‘÷’ means ‘addition’ and ‘×’ means ‘division’, then what is the value of the following expression?  
+      23 − 31 + 135 × 15 ÷ 16
+    options:
+      A: "698"
+      B: "794"
+      C: "680"
+      D: "720"
+    answer: D
+    explanation: Swapping the signs gives 23 × 31 − 135 ÷ 15 + 16 = 713 − 9 + 16 = 720.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q004
+    difficulty: medium
+    stem: P, M, Z, A and L are part of a five-member family and all except L are females. Z and L are in a marital relationship and P, M and A are their children. How is M related to Z?
+    options:
+      A: Granddaughter
+      B: Wife
+      C: Mother
+      D: Daughter
+    answer: D
+    explanation: Z is a female married to L, and M (a female) is their child, so M is Z's daughter.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q005
+    difficulty: medium
+    stem: |-
+      Which number should replace the question mark (?) in the following number series?  
+      5475, 1100, 225, 50, ?, 8, 6.6
+    options:
+      A: "30"
+      B: "15"
+      C: "20"
+      D: "25"
+    answer: B
+    explanation: "Each term = previous ÷ 5 + 5: 50 ÷ 5 + 5 = 15 (then 15 ÷ 5 + 5 = 8)."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q007
+    difficulty: medium
+    stem: In a certain code language, ‘BACKED’ is coded as ‘GHNFDE’ and ‘CLOSER’ is coded as ‘UHVROF’. How will ‘JUNIOR’ be coded in the same language?
+    options:
+      A: VSNRYN
+      B: TRMQYM
+      C: USMRYN
+      D: URLQXM
+    answer: D
+    explanation: "Reverse the word and shift each letter +3: BACKED → DEKCAB → GHNFDE; JUNIOR → ROINUJ → URLQXM."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q008
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.  
+      (4, 2, 18)  
+      (1, 7, 24)  
+      (5, 4, ?)  
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: "19"
+      B: "27"
+      C: "18"
+      D: "24"
+    answer: B
+    explanation: "(first + second) × 3: (4 + 2) × 3 = 18, (1 + 7) × 3 = 24, so (5 + 4) × 3 = 27."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q009
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation.  
+      16 * 31 * 18 * 2 * 11 * 494
+    options:
+      A: −, ×, +, ÷, =
+      B: ÷, +, −, ×, =
+      C: +, −, ÷, ×, =
+      D: ×, +, ÷, −, =
+    answer: D
+    explanation: 16 × 31 + 18 ÷ 2 − 11 = 496 + 9 − 11 = 494.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q011
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.  
+      17, 24, 38, 59, 87, ?
+    options:
+      A: "122"
+      B: "137"
+      C: "117"
+      D: "109"
+    answer: A
+    explanation: Differences are 7, 14, 21, 28, so the next is 87 + 35 = 122.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q013
+    difficulty: medium
+    stem: |-
+      Select the option that represents the correct order of the given words as they would appear in an English dictionary.  
+      1. Penguins  
+      2. Pendants  
+      3. Penthouse  
+      4. Pendulum  
+      5. Pentagon  
+      6. Penalize
+    options:
+      A: 6, 2, 4, 1, 3, 5
+      B: 6, 2, 4, 1, 5, 3
+      C: 6, 4, 2, 1, 5, 3
+      D: 4, 2, 6, 1, 3, 5
+    answer: B
+    explanation: Penalize, Pendants, Pendulum, Penguins, Pentagon, Penthouse → 6, 2, 4, 1, 5, 3.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q014
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.  
+      192 : 24 :: 48 : 12 :: 432 : ?
+    options:
+      A: "42"
+      B: "32"
+      C: "48"
+      D: "36"
+    answer: D
+    explanation: "First = (second)² ÷ 3: 24² ÷ 3 = 192, 12² ÷ 3 = 48, and 36² ÷ 3 = 432."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q015
+    difficulty: medium
+    stem: In a certain code language, if ‘DGOUT’ is written as ‘25131918’ and ‘RCQFM’ is written as ‘16115411’, how will ‘OVHPI’ be written in the same code language?
+    options:
+      A: "11186048"
+      B: "13196149"
+      C: "13206147"
+      D: "12196247"
+    answer: C
+    explanation: "Each letter's position − 2: O(15)→13, V(22)→20, H(8)→6, P(16)→14, I(9)→7 = 13206147."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q017
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.  
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)  
+      School : Principal :: Prison : ?
+    options:
+      A: Doctor
+      B: Engineer
+      C: Plumber
+      D: Jailor
+    answer: D
+    explanation: A principal heads a school; a jailor is in charge of a prison.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q018
+    difficulty: medium
+    stem: |-
+      If,  
+      ‘B % D’ means ‘B is the brother of D’,  
+      ‘B & D’ means ‘B is the mother of D’,  
+      ‘B × D’ means ‘B is the husband of D’,  
+      ‘B # D’ means ‘B is the sister of D’,  
+      ‘B \$ D’ means ‘B is the son of D’,  
+      ‘B @ D’ means ‘B is the father of D’,
+
+      then which of the given options is correct regarding the following expression?  
+      S & Z \$ F % B % E @ G
+    options:
+      A: E is the sister of F.
+      B: Z is the son of E's brother
+      C: S is the mother of G.
+      D: B is the maternal uncle of Z.
+    answer: B
+    explanation: Z is the son of F, and F, B and E are brothers (E is a father, so male); so Z is the son of E's brother.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q019
+    difficulty: medium
+    stem: |-
+      Which of the given letter-clusters will replace the question mark (?) in the following series?  
+      DMHR, AJEO, XGBL, ?, RAVF
+    options:
+      A: UDYI
+      B: UCYI
+      C: YDYH
+      D: UDXI
+    answer: A
+    explanation: "Each letter moves back 3 places in each step: XGBL → UDYI → RAVF."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q021
+    difficulty: medium
+    stem: ‘Blank’ is related to ‘Empty’ in the same way as ‘Void’ is related to ‘________’.
+    options:
+      A: Evasion
+      B: Vacuum
+      C: Full
+      D: Oval
+    answer: B
+    explanation: Blank and Empty are synonyms; the synonym of Void is Vacuum.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q023
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that, when sequentially placed from left to right in the blanks below, will complete the letter series.  
+      _ _ SRDAT _ _ DA _ SR _ _ TS _ D
+    options:
+      A: ASRTTDAR
+      B: ATSRTDAR
+      C: ATSRTADR
+      D: ATSRDTAR
+    answer: B
+    explanation: The series is "ATSRD" repeated four times; the blanks are A, T, S, R, T, D, A, R.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q024
+    difficulty: medium
+    stem: The second number in the given number pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) are followed in all the number pairs except one. Find that odd number pair.
+    options:
+      A: "19 : 363"
+      B: "13 : 171"
+      C: "3 : 17"
+      D: "7 : 51"
+    answer: C
+    explanation: "Rule is n² + 2: 19 → 363, 13 → 171, 7 → 51; but 3² + 2 = 11, not 17."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q025
+    difficulty: medium
+    stem: In a certain code language, “DEAF” is written as “4516” and “KILL” is written as “1191212”. How will “LORD” be written in that language?
+    options:
+      A: "1014145"
+      B: "1114166"
+      C: "1215184"
+      D: "1116641"
+    answer: C
+    explanation: "Each letter is written as its alphabet position: L12 O15 R18 D4 = 1215184."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-20-s3-q026
+    difficulty: medium
+    stem: Which type of liverworts form umbrella-shaped structures that raise gametangia above the main gametophyte body and sporophytes develop below these structures?
+    options:
+      A: Polytrichum
+      B: Funaria
+      C: Sphagnum
+      D: Marchantia
+    answer: D
+    explanation: Marchantia bears umbrella-like gametophores (antheridiophores and archegoniophores) that raise the sex organs; sporophytes hang below them.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q027
+    difficulty: medium
+    stem: In Five year plans, Plan Holiday is from ________.
+    options:
+      A: 1966-1969
+      B: 1974-1979
+      C: 1961-1966
+      D: 1969-1974
+    answer: A
+    explanation: After the Third Plan, three annual plans ran from 1966 to 1969 — the "Plan Holiday".
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q028
+    difficulty: medium
+    stem: Who among the following leaders from INC attended the Second Round Table Conference?
+    options:
+      A: Mahatma Gandhi
+      B: Subhash Chandra Bose
+      C: Sucheta Kripalani
+      D: Jawaharlal Nehru
+    answer: A
+    explanation: Mahatma Gandhi was the sole representative of the INC at the Second Round Table Conference (London, 1931).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q029
+    difficulty: medium
+    stem: Who among the following Indian musicians is known as ‘Pancham Da’?
+    options:
+      A: Sachin Dev Barman
+      B: Kishore Kumar
+      C: Nitin Mukesh
+      D: Rahul Dev Barman
+    answer: D
+    explanation: Rahul Dev Burman, son of S. D. Burman, was nicknamed "Pancham Da".
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q030
+    difficulty: medium
+    stem: Who among the following became the first Indian female sailor to qualify for the Olympics when she qualified for the Tokyo 2020 Olympics?
+    options:
+      A: Maana Patel
+      B: Nethra Kumanan
+      C: Bhavani Devi
+      D: Manu Bhaker
+    answer: B
+    explanation: Nethra Kumanan (Laser Radial) became India's first woman sailor to qualify for the Olympics, for Tokyo 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q031
+    difficulty: medium
+    stem: Where were the 35th National Games held in the year 2015?
+    options:
+      A: Delhi
+      B: Mumbai
+      C: Punjab
+      D: Kerala
+    answer: D
+    explanation: The 35th National Games were held in Kerala in 2015.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q032
+    difficulty: medium
+    stem: Which of the following sponsored ‘Ubharte Sitaare Fund’, in August 2021?
+    options:
+      A: IDBI and LIC
+      B: ICICI bank
+      C: HDFC
+      D: Exim Bank and SIDBI
+    answer: D
+    explanation: The Ubharte Sitaare Fund (August 2021) was set up by Exim Bank and SIDBI to back export-oriented MSMEs.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q033
+    difficulty: medium
+    stem: What is the total number of rivers including tributaries in Bangladesh?
+    options:
+      A: About 1000
+      B: About 800
+      C: About 700
+      D: About 500
+    answer: C
+    explanation: Bangladesh has about 700 rivers including tributaries.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q034
+    difficulty: medium
+    stem: ‘Kalasam’ is a dance sequence in which of the following classical dances of India?
+    options:
+      A: Kathak
+      B: Kathakali
+      C: Bharatanatyam
+      D: Manipuri
+    answer: B
+    explanation: Kalasam is a pure-dance passage that closes sections of acting in Kathakali.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q035
+    difficulty: medium
+    stem: Through which of the following organisations did Annie Besant promote the studies of ancient Indian religions, philosophies and doctrines?
+    options:
+      A: Arya Samaj
+      B: Theosophical Society
+      C: Paramhans Mandali
+      D: Prarthana Samaj
+    answer: B
+    explanation: Annie Besant led the Theosophical Society, which promoted the study of ancient Indian religions and philosophy.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q036
+    difficulty: medium
+    stem: In February 2022, the Delhi High Court reserved judgement on a series of Public Interest Litigations (PILs) challenging which exception in Section 375 of the Indian Penal Code (IPC)?
+    options:
+      A: Physical torture
+      B: Marital rape
+      C: Suicide
+      D: Dowry death
+    answer: B
+    explanation: Exception 2 to Section 375 IPC exempts marital rape; the Delhi High Court reserved judgement on PILs against it in February 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q037
+    difficulty: medium
+    stem: Meandrina is the generic name of which Coelenterata animal having soft tube-shaped bodies that live together in large groups?
+    options:
+      A: Brain coral
+      B: Sea anemone
+      C: Sea-fan
+      D: Medusa
+    answer: A
+    explanation: Meandrina is the genus of brain coral, a colonial coelenterate.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q038
+    difficulty: medium
+    stem: The Chairman of a State Public Service Commission can be removed by the order of the ___________.
+    options:
+      A: Prime Minister
+      B: President
+      C: Governor
+      D: Chief Minister
+    answer: B
+    explanation: Under Article 317, the Chairman of a State PSC is appointed by the Governor but can be removed only by the President.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q039
+    difficulty: medium
+    stem: Goods and Service Tax is an example of ________.
+    options:
+      A: compensation to employees
+      B: direct tax
+      C: transfer payment
+      D: indirect tax
+    answer: D
+    explanation: GST is levied on the supply of goods and services and passed on to the consumer, so it is an indirect tax.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q040
+    difficulty: medium
+    stem: What type of vegetation is found in the plateau of Meghalaya, Sahyadri and the central and southern islands of the Nicobar group?
+    options:
+      A: Dry Tropical Deciduous Vegetation
+      B: Dry Tropical Thorny Vegetation
+      C: Alpine Vegetation
+      D: Moist Tropical Semi-Evergreen Vegetation
+    answer: D
+    explanation: Moist tropical semi-evergreen forests occur on the Meghalaya plateau, the Sahyadri and the central and southern Nicobar islands.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q041
+    difficulty: medium
+    stem: The first railway line in India was started from _____ to ______ in 1853.
+    options:
+      A: Bombay to Palghar
+      B: Bombay to Poona
+      C: Bombay to Karjat
+      D: Bombay to Thane
+    answer: D
+    explanation: India's first passenger train ran from Bombay (Bori Bunder) to Thane on 16 April 1853.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q042
+    difficulty: medium
+    stem: Which of the following is a synthetic fluorinated compound with an extremely stable molecular structure known to be the most potent greenhouse gas ever found?
+    options:
+      A: Hydrogen fluoride
+      B: Sodium monofluorophosphate
+      C: Sulphur hexafluoride
+      D: Calcium fluoride
+    answer: C
+    explanation: Sulphur hexafluoride (SF₆) is a synthetic, very stable fluorinated gas with the highest global-warming potential known.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q043
+    difficulty: medium
+    stem: The local communities of merchants were known as ________ in the Vijayanagara empire.
+    options:
+      A: Rachavarus
+      B: Narapattis
+      C: Kudirai Chettis
+      D: Gajapattis
+    answer: C
+    explanation: In Vijayanagara, local merchant groups such as the horse traders were called kudirai chettis.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q044
+    difficulty: medium
+    stem: In case an Indian citizen is arrested and denied the right to be defended, then in such a situation, which Article of the Indian Constitution can provide a relief?
+    options:
+      A: Article 22
+      B: Article 23
+      C: Article 25
+      D: Article 24
+    answer: A
+    explanation: Article 22 guarantees an arrested person the right to consult and be defended by a lawyer of his choice.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q045
+    difficulty: medium
+    stem: Who wrote the Mauryan period book Arthashastra?
+    options:
+      A: Bindusara
+      B: Vishnu Gupta
+      C: Chandragupta Maurya
+      D: Bhanugupta
+    answer: B
+    explanation: The Arthashastra was written by Kautilya (Chanakya), also called Vishnugupta.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q046
+    difficulty: medium
+    stem: Which of the following helps the coffee flowers to blossom in Karnataka?
+    options:
+      A: Nor’westers
+      B: Loo
+      C: Mango shower
+      D: Blossom shower
+    answer: D
+    explanation: Pre-monsoon "blossom showers" in Karnataka and Kerala make coffee plants flower.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q047
+    difficulty: medium
+    stem: On August 15, 2022, India celebrated its ___________ Independence Day from the British rule.
+    options:
+      A: 77th
+      B: 73rd
+      C: 72nd
+      D: 76th
+    answer: D
+    explanation: Counting from 15 August 1947 as the first, 15 August 2022 was the 76th Independence Day (75 years of independence).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q048
+    difficulty: medium
+    stem: "Tila, Seti and Beri are the tributaries of:"
+    options:
+      A: Tamsa
+      B: Ghaghara
+      C: Mahi
+      D: Sabarmati
+    answer: B
+    explanation: The Tila, Seti and Beri rise in Nepal and join the Ghaghara.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q049
+    difficulty: medium
+    stem: The 36th National games was organised by____.
+    options:
+      A: Haryana
+      B: Gujarat
+      C: Karnataka
+      D: Maharashtra
+    answer: B
+    explanation: The 36th National Games were held in Gujarat (September–October 2022).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q050
+    difficulty: medium
+    stem: The National Nritya Shiromani Award 2022 was awarded to Aparna Satheesan for which of the following dance forms?
+    options:
+      A: Bharatanatyam
+      B: Kuchipudi
+      C: Kathakali
+      D: Odissi
+    answer: B
+    explanation: Aparna Satheesan received the National Nritya Shiromani Award 2022 (Cuttack Mahotsav) for Kuchipudi.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-20-s3-q051
+    difficulty: medium
+    stem: "From a point Q, the length of the tangent to a circle is 20 cm and the distance of Q from the centre of the circle is 25 cm. The radius of the circle is:"
+    options:
+      A: 5 cm
+      B: 10 cm
+      C: 15 cm
+      D: 12.5 cm
+    answer: C
+    explanation: "The tangent is perpendicular to the radius: r = √(25² − 20²) = √225 = 15 cm."
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q052
+    difficulty: medium
+    stem: |-
+      Solve the following expression.  
+      8 + (− 9 − 3) − (−12 − 5)
+    options:
+      A: "14"
+      B: "13"
+      C: "16"
+      D: "15"
+    answer: B
+    explanation: 8 + (−12) − (−17) = 8 − 12 + 17 = 13.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q053
+    difficulty: medium
+    stem: Supraja and Kausalya can complete a work in 30 days and 20 days, respectively. If Supraja starts the work and they work on alternate days, in how many days will 75% of the work be completed?
+    options:
+      A: "28"
+      B: "24"
+      C: "20"
+      D: "18"
+    answer: D
+    explanation: Two days together do 1/30 + 1/20 = 1/12; 75% = 9/12 needs 9 pairs = 18 days.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q054
+    difficulty: medium
+    stem: A and B can do a project in 9 days. B and C can do it in 12 days while C and A can do it in 18 days. In how many days A, B and C all working together, can finish the project?
+    options:
+      A: "9"
+      B: "8"
+      C: "11"
+      D: "10"
+    answer: B
+    explanation: 2(A + B + C) = 1/9 + 1/12 + 1/18 = 1/4, so A + B + C = 1/8 per day → 8 days.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q055
+    difficulty: medium
+    stem: In a circle with centre O, PA and PB are the tangents at A and B, respectively, from an external point P. If ∠APB = 24° , then find ∠AOB.
+    options:
+      A: 158°
+      B: 48°
+      C: 156°
+      D: 180°
+    answer: C
+    explanation: In quadrilateral OAPB the angles at A and B are 90°, so ∠AOB = 180° − 24° = 156°.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q056
+    difficulty: medium
+    stem: A and B working together can finish a piece of work in 8 days while B alone can do it in 24 days. In how many days can A alone finish the work?
+    options:
+      A: "10"
+      B: "16"
+      C: "12"
+      D: "14"
+    answer: C
+    explanation: A's rate = 1/8 − 1/24 = 2/24 = 1/12, so A takes 12 days.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q057
+    difficulty: medium
+    stem: A person invests ₹9,840 at 5% per annum simple interest to obtain a total amount of ₹12,300. For how many years did he invest the sum?
+    options:
+      A: 5 years
+      B: 4.5 years
+      C: 3.5 years
+      D: 3 years
+    answer: A
+    explanation: SI = 12,300 − 9,840 = 2,460; per year 9,840 × 5% = 492, so t = 2,460 ÷ 492 = 5 years.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q058
+    difficulty: medium
+    stem: P gives Q a head-start of 2 seconds in a 400 m race, but both finish the race at the same time. Find the time taken by P to finish the race if the speed of Q is 2 m/sec.
+    options:
+      A: 198 seconds
+      B: 199 seconds
+      C: 200 seconds
+      D: 195 seconds
+    answer: A
+    explanation: Q takes 400 ÷ 2 = 200 s; P starts 2 s later and finishes together, so P takes 198 s.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q059
+    difficulty: medium
+    stem: The price of an article is increased by r%. The new price was decreased by r% later. Now the latest price is Rs.1.What was the original price of the article?
+    options:
+      A: 10000/(10000 − r²)
+      B: (10000 − r²)/10000
+      C: 100/(100 − r²)
+      D: 100/(1 − r²)
+    answer: A
+    explanation: P(1 + r/100)(1 − r/100) = 1 → P = 10000/(10000 − r²).
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q060
+    difficulty: medium
+    stem: |-
+      Study the given bar-graph and answer the question that follows.  
+      A company provides five different products. The sales of these five products (in 1000 number of packs) during 2019 are shown in the bar-graph.
+
+      Sales of different products during 2019
+
+      | Product | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Sales (in 1000 number of packs) | 20 | 25 | 30 | 35 | 40 |
+
+      What is the approximate ratio of sales of product A to product E in 2019?
+
+      *(Figure: Vertical bar chart ‘Sales of different products during 2019’ (y-axis ‘Sales (in 1000 number of packs)’ 0–45, x-axis ‘Different products’); bar labels as in the table.)*
+    options:
+      A: "1 : 2"
+      B: "1 : 3"
+      C: "2 : 3"
+      D: "2 : 1"
+    answer: A
+    explanation: "Sales A : E = 20 : 40 = 1 : 2."
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q061
+    difficulty: medium
+    stem: The cost of 50 dozens of bananas is ₹2,400 and the transport cost per banana is ₹0.25. The selling price is ₹10 for a pair of bananas. What is the profit percentage (rounded off up to one decimal place)?
+    options:
+      A: 14.5%
+      B: 17.6%
+      C: 15.4%
+      D: 16.7%
+    answer: B
+    explanation: Cost = 2,400 + 600 × 0.25 = 2,550; SP = 600 × 5 = 3,000; profit 450/2,550 = 17.6%.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q062
+    difficulty: medium
+    stem: The three sides of a triangle are 12, 17 and x units. Which of the following options is correct?
+    options:
+      A: 5 < x < 29
+      B: 5 ≤ x < 29
+      C: 5 ≤ x ≤ 29
+      D: 5 < x ≤ 29
+    answer: A
+    explanation: "A side must lie strictly between the difference and sum of the other two: 17 − 12 < x < 17 + 12."
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q063
+    difficulty: medium
+    stem: |-
+      The following bar graph represents the demand and production for five companies, V, W, X, Y and Z.On the basis of the bar graph, answer the question.
+
+      | Company | V | W | X | Y | Z |
+      |---|---|---|---|---|---|
+      | Demand | 2400 | 400 | 2000 | 1200 | 2800 |
+      | Production | 1200 | 1600 | 800 | 2000 | 2400 |
+
+      If K% of the production for company X equals the demand for company W, then K equals:
+
+      *(Figure: Grouped bar chart (Demand in blue, Production in red) for companies V, W, X, Y, Z, y-axis 0–2800; bar labels as in the table.)*
+    options:
+      A: "40"
+      B: "45"
+      C: "35"
+      D: "50"
+    answer: D
+    explanation: K% of 800 = 400 → K = 50.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q064
+    difficulty: medium
+    stem: A thief is noticed by a policeman from a distance of 200 m. The thief starts running as soon as he is noticed, and the policeman chases him simultaneously. The thief and the policeman run at the speeds of 10 km/h and 11 km/h, respectively. What is the distance (in m) between them after 6 min policeman starts chasing?
+    options:
+      A: "75"
+      B: "100"
+      C: "125"
+      D: "150"
+    answer: B
+    explanation: The gap closes at 1 km/h; in 6 min that is 100 m, so 200 − 100 = 100 m remain.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q065
+    difficulty: medium
+    stem: "If a + b + c = 7, ab + bc + ca = 11 and abc = -1, then a³ + b³ + c³ is equal to:"
+    options:
+      A: "101"
+      B: "107"
+      C: "109"
+      D: "111"
+    answer: C
+    explanation: a² + b² + c² = 49 − 22 = 27; a³ + b³ + c³ = 3abc + (a + b + c)(27 − 11) = −3 + 112 = 109.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q066
+    difficulty: medium
+    stem: "The maximum value of (sin¹² θ + cos²⁰ θ) for all the real values of θ is:"
+    options:
+      A: "2"
+      B: "3"
+      C: "1"
+      D: "0"
+    answer: C
+    explanation: sin¹²θ ≤ sin²θ and cos²⁰θ ≤ cos²θ, so the sum ≤ 1, reached at θ = 0°.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q067
+    difficulty: medium
+    stem: Find the value of (2/3) tan² 60° + 3 cos² 30° − 2 sec² 30° − (3/4) cot² 60°.
+    options:
+      A: "2.33"
+      B: "2.01"
+      C: "1.33"
+      D: "3.33"
+    answer: C
+    explanation: (2/3)(3) + 3(3/4) − 2(4/3) − (3/4)(1/3) = 2 + 2.25 − 2.667 − 0.25 = 1.33.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q068
+    difficulty: medium
+    stem: The square of 72 is equal to the product of 216 and a number. Find the number.
+    options:
+      A: "36"
+      B: "18"
+      C: "24"
+      D: "48"
+    answer: C
+    explanation: 72² = 5184 = 216 × 24.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q069
+    difficulty: medium
+    stem: P and Q can do a job in 24 days, Q and R can do it in 30 days, while P and R can do it in 40 days. X is four times as efficient as P, Y is half as efficient as Q, and Z is 2.5 times as efficient as R. Determine the number of days required to complete the same job if X, Y and Z work together.
+    options:
+      A: "9"
+      B: "12"
+      C: "8"
+      D: "10"
+    answer: D
+    explanation: "With 120 units: P = 2, Q = 3, R = 1 per day; X = 8, Y = 1.5, Z = 2.5 → 12 per day → 10 days."
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q070
+    difficulty: medium
+    stem: |-
+      Simplify.  
+      325 + 276 ÷ [150 − {9 × 9 + (83 − 4 × 15)}]
+    options:
+      A: "332"
+      B: "333"
+      C: "334"
+      D: "331"
+    answer: D
+    explanation: 83 − 60 = 23; 81 + 23 = 104; 150 − 104 = 46; 276 ÷ 46 = 6; 325 + 6 = 331.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q071
+    difficulty: medium
+    stem: A retailer announces a discount of 30% for selling an air-conditioner marked at ₹92,000. The cost price of the air-conditioner is 70% below the marked price. He offers a further discount of 20% if the buyer presents his membership card of the retailer’s store. The profit of the retailer with the membership card scheme is what percentage of the profit of the retailer without the membership card scheme?
+    options:
+      A: 62%
+      B: 65%
+      C: 70%
+      D: 74%
+    answer: B
+    explanation: CP = 27,600; profit without card = 64,400 − 27,600 = 36,800; with card = 51,520 − 27,600 = 23,920 = 65% of it.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q072
+    difficulty: medium
+    stem: If (x − 1/x) = 2√2, and x > 1, what is the value of (x⁶ − 1/x⁶)?
+    options:
+      A: 372√6
+      B: 384√6
+      C: 396√6
+      D: 420√6
+    answer: C
+    explanation: x + 1/x = 2√3, so x² − 1/x² = 4√6; x⁶ − 1/x⁶ = (4√6)³ + 3(4√6) = 384√6 + 12√6 = 396√6.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q073
+    difficulty: medium
+    stem: If (2y + 2/y) = 7, find the value of (y² + 1/y²).
+    options:
+      A: 41/4
+      B: 45/4
+      C: 49/4
+      D: 49/2
+    answer: A
+    explanation: y + 1/y = 7/2, so y² + 1/y² = 49/4 − 2 = 41/4.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q074
+    difficulty: medium
+    stem: |-
+      The slant height of a cone is 10 cm, and the radius is 6 cm. What is the total surface area of the cone?  
+      Take π = 3.14
+    options:
+      A: 292.4 cm²
+      B: 312.2 cm²
+      C: 305.4 cm²
+      D: 301.44 cm²
+    answer: D
+    explanation: TSA = πr(l + r) = 3.14 × 6 × 16 = 301.44 cm².
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q075
+    difficulty: medium
+    stem: What is the value of sin(−405°)?
+    options:
+      A: √5/2
+      B: 1/2
+      C: −1/2
+      D: −1/√2
+    answer: D
+    explanation: sin(−405°) = −sin 405° = −sin 45° = −1/√2.
+    tags:
+      - quant
+  - slug: cgl-2023-07-20-s3-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.  
+      It is raining cats and dogs means:
+    options:
+      A: it is raining very heavily
+      B: there are showers
+      C: something that does not upset you
+      D: it is drizzling
+    answer: A
+    explanation: '"Raining cats and dogs" means raining very heavily.'
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.  
+      He was quite **violent** in his behaviour.
+    options:
+      A: Crazy
+      B: Aggressive
+      C: Gentle
+      D: Savage
+    answer: C
+    explanation: Violent means rough and forceful; its opposite is gentle.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word in the given sentence to fill in the blank.  
+      We usually had ___________ visitors dropping by, but now we have very **less** visitors.
+    options:
+      A: insufficient
+      B: a handful of
+      C: slighter
+      D: umpteen
+    answer: D
+    explanation: The opposite of "very few" visitors is "umpteen" (very many).
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      The man was convicted for murder by the jury but he **is not committed it**.
+    options:
+      A: have not committed it
+      B: has not committed it
+      C: had not committed it
+      D: am not committed it
+    answer: C
+    explanation: The past perfect "had not committed" fits a past situation (was convicted).
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q080
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Hardik’s horoscope says / that the stars / will be exercised / a benign influence on his life.
+    options:
+      A: will be exercised
+      B: Hardik’s horoscope says
+      C: that the stars
+      D: a benign influence on his life
+    answer: A
+    explanation: The stars are the doers, so the active "will exercise" is needed, not the passive "will be exercised".
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q081
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Someone who dishonestly pretends to deceive under an assumed character
+    options:
+      A: Imposter
+      B: Imitator
+      C: Explorer
+      D: Imbecile
+    answer: A
+    explanation: An imposter pretends to be someone else in order to deceive.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q082
+    difficulty: medium
+    stem: |-
+      Select the grammatically correct sentence.
+
+      A.Today is sixth day of our workshop. All the participants are highly enthusiastic.  
+      B. Today is a sixth day of our workshop. All the participants are highly enthusiastic.  
+      C. Today is the sixth day of our workshop. All the participants are highly enthusiastic.  
+      D. Today is sixth day of our workshop. All participants are highly enthusiastic.
+    options:
+      A: D
+      B: C
+      C: B
+      D: A
+    answer: B
+    explanation: 'An ordinal number takes "the": "Today is the sixth day of our workshop" (sentence C).'
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q083
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.  
+      Was the conference not attended by them?
+    options:
+      A: Did they not attend the conference?
+      B: Does they not attend the conference?
+      C: Do they not attend the conference?
+      D: Do they attend the conference?
+    answer: A
+    explanation: A past simple passive question ("Was … attended by them?") becomes "Did they not attend …?" in the active.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q084
+    difficulty: medium
+    stem: |-
+      Select the option that express the given sentence in active voice.  
+      Was the beggar not being beaten by her?
+    options:
+      A: Was not she beating the beggar?
+      B: Was she beating the beggar?
+      C: Was the beggar beaten by her?
+      D: Was she not beating the beggar?
+    answer: D
+    explanation: A past continuous passive question ("was … being beaten by her") becomes "Was she not beating the beggar?"
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.  
+      Neither John nor Simon **are coming to the meeting.**
+    options:
+      A: were coming to the meeting
+      B: No substitution
+      C: are coming to meeting
+      D: is coming to the meeting
+    answer: D
+    explanation: 'With "neither … nor" the verb agrees with the nearer singular subject (Simon): "is coming".'
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q086
+    difficulty: medium
+    stem: |-
+      The given sentence has some words with incorrect spellings. Select the most appropriate option that corrects the spellings.
+
+      Being a milionaire, he is leading a luxurius life.
+    options:
+      A: Being a millioneire, he is leading a luxrious life.
+      B: Being a millionaire, he is leading a luxurious life.
+      C: Being a millionaire, he is leeding a luxurous life.
+      D: Being a millinaire, he is leading a luxurious life.
+    answer: B
+    explanation: The correct spellings are "millionaire" and "luxurious".
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q087
+    difficulty: medium
+    stem: |-
+      Select the option that is similar in meaning to the given word.
+
+      Hapless
+    options:
+      A: Happy
+      B: Unfortunate
+      C: Fortunate
+      D: Distasteful
+    answer: B
+    explanation: Hapless means unlucky, i.e. unfortunate.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      I find that students nowadays are not interested in _________ letters by hand.
+    options:
+      A: righting
+      B: rioting
+      C: rating
+      D: writing
+    answer: D
+    explanation: Letters are written by hand; "righting", "rioting" and "rating" do not fit.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q089
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Consultancy
+      B: Constitution
+      C: Conspirasy
+      D: Configuration
+    answer: C
+    explanation: The correct spelling is "Conspiracy".
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q090
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given phrase.
+
+      Waver between different opinions or actions
+    options:
+      A: Sway
+      B: Viaduct
+      C: Thrifty
+      D: Vacillate
+    answer: D
+    explanation: To vacillate is to waver between different opinions or actions.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q091
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.  
+      One who looks at the negative side of everything
+    options:
+      A: Optimist
+      B: Activist
+      C: Racist
+      D: Pessimist
+    answer: D
+    explanation: A pessimist expects or sees the worst in everything.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.  
+      Taking a bull by the horns
+    options:
+      A: Wearing a skull cap
+      B: To decapitate a bull for beef
+      C: To make a stupid decision thinking it to be daring
+      D: To deal with a difficult situation in a very direct or confident way
+    answer: D
+    explanation: '"To take the bull by the horns" is to face a difficult situation directly and confidently.'
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.  
+      Heavy outfits make the movement of trekkers **sluggish.**
+    options:
+      A: Active
+      B: Distorted
+      C: Eye catching
+      D: Comfortable
+    answer: A
+    explanation: Sluggish means slow-moving; its opposite is active.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      The family is neither interested in selling the house **or rebuilding** it.
+    options:
+      A: yet rebuilding
+      B: not only rebuilding
+      C: nor rebuilding
+      D: but also rebuilding
+    answer: C
+    explanation: '"Neither" pairs with "nor": neither in selling nor rebuilding.'
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym for the underlined word in the given sentence.
+
+      She had the **temerity** to call her teacher a liar.
+    options:
+      A: impudence
+      B: tedious
+      C: taciturn
+      D: trenchant
+    answer: A
+    explanation: Temerity means rash boldness, i.e. impudence.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The (1) _________ of climate change is one of the most pressing issues facing the world today. Rising temperatures, extreme weather events and melting ice caps are just a few of the (2) _________ of a changing climate. To combat this, many countries have pledged to reduce their greenhouse gas emissions, but progress has been slow. In addition, some people are still sceptical of the (3) _________ of climate change or believe that it’s a natural occurrence that humans can’t do much about. However, scientists agree that urgent action is needed to prevent the worst impacts of climate change. This includes not only reducing emissions but also adapting to the changes that have already (4) _________ . This might involve building sea walls to protect against rising sea levels, planting drought-resistant crops or developing new technologies to remove carbon from the atmosphere. Ultimately, addressing climate change will require a (5) _________ effort from individuals, governments and businesses around the world.
+
+      Select the most appropriate option to fill in blank no. 1.
+    options:
+      A: advantage
+      B: challenge
+      C: solution
+      D: aspect
+    answer: B
+    explanation: A "pressing issue" is a challenge; climate change is not an advantage or a solution.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The (1) _________ of climate change is one of the most pressing issues facing the world today. Rising temperatures, extreme weather events and melting ice caps are just a few of the (2) _________ of a changing climate. To combat this, many countries have pledged to reduce their greenhouse gas emissions, but progress has been slow. In addition, some people are still sceptical of the (3) _________ of climate change or believe that it’s a natural occurrence that humans can’t do much about. However, scientists agree that urgent action is needed to prevent the worst impacts of climate change. This includes not only reducing emissions but also adapting to the changes that have already (4) _________ . This might involve building sea walls to protect against rising sea levels, planting drought-resistant crops or developing new technologies to remove carbon from the atmosphere. Ultimately, addressing climate change will require a (5) _________ effort from individuals, governments and businesses around the world.
+
+      Select the most appropriate option to fill in blank no. 2.
+    options:
+      A: benefits
+      B: advancements
+      C: consequences
+      D: improvements
+    answer: C
+    explanation: Rising temperatures and melting ice caps are harmful results — consequences — of climate change.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The (1) _________ of climate change is one of the most pressing issues facing the world today. Rising temperatures, extreme weather events and melting ice caps are just a few of the (2) _________ of a changing climate. To combat this, many countries have pledged to reduce their greenhouse gas emissions, but progress has been slow. In addition, some people are still sceptical of the (3) _________ of climate change or believe that it’s a natural occurrence that humans can’t do much about. However, scientists agree that urgent action is needed to prevent the worst impacts of climate change. This includes not only reducing emissions but also adapting to the changes that have already (4) _________ . This might involve building sea walls to protect against rising sea levels, planting drought-resistant crops or developing new technologies to remove carbon from the atmosphere. Ultimately, addressing climate change will require a (5) _________ effort from individuals, governments and businesses around the world.
+
+      Select the most appropriate option to fill in blank no. 3.
+    options:
+      A: fiction
+      B: myth
+      C: reality
+      D: deception
+    answer: C
+    explanation: Sceptics doubt the reality (existence) of climate change.
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The (1) _________ of climate change is one of the most pressing issues facing the world today. Rising temperatures, extreme weather events and melting ice caps are just a few of the (2) _________ of a changing climate. To combat this, many countries have pledged to reduce their greenhouse gas emissions, but progress has been slow. In addition, some people are still sceptical of the (3) _________ of climate change or believe that it’s a natural occurrence that humans can’t do much about. However, scientists agree that urgent action is needed to prevent the worst impacts of climate change. This includes not only reducing emissions but also adapting to the changes that have already (4) _________ . This might involve building sea walls to protect against rising sea levels, planting drought-resistant crops or developing new technologies to remove carbon from the atmosphere. Ultimately, addressing climate change will require a (5) _________ effort from individuals, governments and businesses around the world.
+
+      Select the most appropriate option to fill in blank no. 4.
+    options:
+      A: ceasing
+      B: reversing
+      C: occurred
+      D: stabilising
+    answer: C
+    explanation: '"Changes that have already occurred" — the past participle completes "have already".'
+    tags:
+      - english
+  - slug: cgl-2023-07-20-s3-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The (1) _________ of climate change is one of the most pressing issues facing the world today. Rising temperatures, extreme weather events and melting ice caps are just a few of the (2) _________ of a changing climate. To combat this, many countries have pledged to reduce their greenhouse gas emissions, but progress has been slow. In addition, some people are still sceptical of the (3) _________ of climate change or believe that it’s a natural occurrence that humans can’t do much about. However, scientists agree that urgent action is needed to prevent the worst impacts of climate change. This includes not only reducing emissions but also adapting to the changes that have already (4) _________ . This might involve building sea walls to protect against rising sea levels, planting drought-resistant crops or developing new technologies to remove carbon from the atmosphere. Ultimately, addressing climate change will require a (5) _________ effort from individuals, governments and businesses around the world.
+
+      Select the most appropriate option to fill in blank no. 5.
+    options:
+      A: joint
+      B: individual
+      C: solitary
+      D: separate
+    answer: A
+    explanation: An effort by individuals, governments and businesses together is a joint effort.
+    tags:
+      - english

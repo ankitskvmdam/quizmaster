@@ -1,0 +1,1282 @@
+slug: 2023-07-18-shift2
+title: SSC CGL 2023 Tier 1
+date: 2023-07-18
+label: 18 Jul, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/2025/07/17133458/SSC-CGL-Tier-1-Question-Paper_18.07.2023_). Left out (picture-only options or incomplete in the source): Q5, Q8, Q13, Q17, Q20, Q22."
+questions:
+  - slug: cgl-2023-07-18-s2-q001
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.  
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)  
+      Weight : Pounds :: Height : ?
+    options:
+      A: Dozen
+      B: Metres
+      C: High
+      D: Kilograms
+    answer: B
+    explanation: Weight is measured in pounds; in the same way, height is measured in metres.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q002
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.  
+      55 * 63 * 9 * 8 * 3 = 38
+    options:
+      A: ÷ × − +
+      B: × ÷ + −
+      C: + − × ÷
+      D: + ÷ − ×
+    answer: D
+    explanation: 55 + 63 ÷ 9 − 8 × 3 = 55 + 7 − 24 = 38.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q003
+    difficulty: medium
+    stem: The second number in the given number pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) are followed in all the number pairs except one. Find that odd number pair.
+    options:
+      A: "81 : 19"
+      B: "121 : 23"
+      C: "1 : 3"
+      D: "64 : 9"
+    answer: D
+    explanation: "Second = 2 × √first + 1: √81 = 9 → 19, √121 = 11 → 23, √1 = 1 → 3. But √64 = 8 gives 17, not 9."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q004
+    difficulty: medium
+    stem: F is C's son. C is the only daughter of B. D is A's only son-in-law. B is C's father. A is B's wife. How is D related to F?
+    options:
+      A: Brother-in-law
+      B: Father
+      C: Father-in-law
+      D: Brother
+    answer: B
+    explanation: C is the only daughter of A and B, so their only son-in-law, D, is C's husband. F is C's son, so D is F's father.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q006
+    difficulty: medium
+    stem: |-
+      Three statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      Statements:  
+      All fruits are wines.  
+      Some wines are juices.  
+      All juices are alcohols.
+
+      Conclusions:  
+      I. Some alcohols are juices.  
+      II. Some wines are alcohols.  
+      III. Some wines are fruits.
+    options:
+      A: Only conclusions I and II follow
+      B: All conclusions follow
+      C: Only conclusions I and III follow
+      D: Only conclusions II and III follow
+    answer: B
+    explanation: Some wines are juices and all juices are alcohols, so some wines are alcohols (II) and some alcohols are juices (I). All fruits are wines, so some wines are fruits (III). All three follow.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q007
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.  
+      (5, 19, 4)  
+      (1, 7, 4)  
+      (6, ?, 1)  
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: "7"
+      B: "9"
+      C: "19"
+      D: "13"
+    answer: C
+    explanation: "Middle = 3 × first + third: 3 × 5 + 4 = 19 and 3 × 1 + 4 = 7, so 3 × 6 + 1 = 19."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q009
+    difficulty: medium
+    stem: |-
+      Select the option that represents the correct order of the given words as they would appear in an English dictionary.  
+      1. Believe  
+      2. Breathe  
+      3. Bereave  
+      4. Blight  
+      5. Brave  
+      6. Banter
+    options:
+      A: 6, 1, 3, 4, 5, 2
+      B: 6, 3, 1, 4, 5, 2
+      C: 6, 1, 4, 3, 5, 2
+      D: 6, 4, 1, 5, 3, 2
+    answer: A
+    explanation: "In dictionary order: Banter, Believe, Bereave, Blight, Brave, Breathe, which is 6, 1, 3, 4, 5, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q010
+    difficulty: medium
+    stem: |-
+      Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.  
+      King : Palace
+    options:
+      A: "Bee : Honey"
+      B: "Nun : Convent"
+      C: "Ice : Igloo"
+      D: "Horse : Den"
+    answer: B
+    explanation: A king lives in a palace; in the same way, a nun lives in a convent.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q011
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.  
+      (7, 5, 10)  
+      (2, 1, 5)  
+      (16, 6, ?)  
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: "32"
+      B: "50"
+      C: "45"
+      D: "24"
+    answer: B
+    explanation: "Third = (first − second) × 5: (7 − 5) × 5 = 10 and (2 − 1) × 5 = 5, so (16 − 6) × 5 = 50."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q012
+    difficulty: medium
+    stem: |-
+      If ‘+’ means ‘subtraction’, ‘−’ means ‘multiplication’, ‘÷’ means ‘addition’ and ‘×’ means ‘division’, then what is the value of the following expression?  
+      3 − 21 + 153 × 17 ÷ 26
+    options:
+      A: "84"
+      B: "80"
+      C: "76"
+      D: "58"
+    answer: B
+    explanation: Replacing the signs gives 3 × 21 − 153 ÷ 17 + 26 = 63 − 9 + 26 = 80.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q014
+    difficulty: medium
+    stem: |-
+      Which number should replace the question mark (?) in the following number series?  
+      49, 54, 44, 59, ?, 64, 34
+    options:
+      A: "51"
+      B: "36"
+      C: "39"
+      D: "44"
+    answer: C
+    explanation: "Two series alternate: 49, 44, ?, 34 falls by 5 each time, so the missing term is 39 (and 54, 59, 64 rises by 5)."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q015
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that, when sequentially placed from left to right in the blanks below, will complete the letter series.  
+      DY_GMI_ _YTG_ILDYT_MILD_TGM_L
+    options:
+      A: TLDGMIY
+      B: TDLGMYI
+      C: TLDMGYI
+      D: TLDYMIG
+    answer: C
+    explanation: The series repeats DYTGMIL four times, so the blanks are T, L, D, M, G, Y, I.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q016
+    difficulty: medium
+    stem: |-
+      Select the option that represents the correct order of the given words as they would appear in an English dictionary.  
+      1. Decline  
+      2. Decouple  
+      3. Decrease  
+      4. Decorate  
+      5. Decorum  
+      6. Decode
+    options:
+      A: 1, 6, 4, 5, 2, 3
+      B: 1, 4, 6, 2, 5, 3
+      C: 1, 6, 4, 2, 5, 3
+      D: 1, 6, 5, 4, 2, 3
+    answer: A
+    explanation: "In dictionary order: Decline, Decode, Decorate, Decorum, Decouple, Decrease, which is 1, 6, 4, 5, 2, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q018
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+    options:
+      A: HLOP
+      B: FHJL
+      C: AEHI
+      D: QUXY
+    answer: B
+    explanation: HLOP, AEHI and QUXY all move +4, +3, +1. FHJL moves +2, +2, +2.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q019
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.  
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)  
+      (8, 388, 18)  
+      (11, 137, 4)
+    options:
+      A: (15, 230, 2)
+      B: (3, 51, 7)
+      C: (10, 118, 9)
+      D: (14, 221, 5)
+    answer: D
+    explanation: "Middle = first² + third²: 8² + 18² = 388 and 11² + 4² = 137. Likewise 14² + 5² = 221."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q021
+    difficulty: medium
+    stem: In a certain code language, ‘ROSE’ is coded as ‘228’ and TULIP’ is coded as ‘390’. How will ‘LOTUS’ be coded in that language?
+    options:
+      A: "435"
+      B: "425"
+      C: "430"
+      D: "420"
+    answer: A
+    explanation: "Code = (sum of letter positions) × (number of letters): ROSE = 57 × 4 = 228, TULIP = 78 × 5 = 390, LOTUS = 87 × 5 = 435."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q023
+    difficulty: medium
+    stem: In a certain code language, ‘PLACE’ is written as ‘CONHA’ and ‘SHOCK’ is written as ‘QKQNA’. How will ‘FROWN’ be written in that language?
+    options:
+      A: QUDQU
+      B: RVRST
+      C: RUSRT
+      D: QVQDU
+    answer: A
+    explanation: Shift the letters by −2, +3, +2, −2, +3, then reverse the first three and swap the last two. FROWN → DUQUQ → QUD + QU = QUDQU (PLACE → NOCAH → CONHA works the same way).
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q024
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.  
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. For e.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (24, 3, 10)  
+      (144, 9, 18)
+    options:
+      A: (54, 9, 4)
+      B: (156, 8, 19)
+      C: (72, 8, 9)
+      D: (133, 7, 21)
+    answer: D
+    explanation: "First = second × (third − 2): 3 × 8 = 24 and 9 × 16 = 144. Likewise 7 × 19 = 133."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q025
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.  
+      FUELED : DXBOAG :: GELATO : EHIDPR :: HEARTY : ?
+    options:
+      A: OPBSUJ
+      B: MQADFH
+      C: FHXUPB
+      D: LNFXCA
+    answer: C
+    explanation: "The letters shift by −2, +3, −3, +3, −4, +3 in turn: HEARTY → F, H, X, U, P, B = FHXUPB."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-18-s2-q026
+    difficulty: medium
+    stem: Narthaki Nataraj, Padma Shri awardee in 2019, was conferred this award for which of the following contributions?
+    options:
+      A: Popularizing Indian cuisine in the world
+      B: Specialising in Indian knowledge system, Nyayshastra
+      C: Bringing the women empowerment through agriculture
+      D: Overcoming social exclusion through Bharatanatyam dance performances
+    answer: D
+    explanation: Narthaki Nataraj, a transgender Bharatanatyam dancer, received the Padma Shri (2019) for her art and for overcoming social exclusion.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q027
+    difficulty: medium
+    stem: Muhammad bin Tughlaq introduced a copper coin called __________ in place of the silver coin.
+    options:
+      A: Rupak
+      B: Rupee
+      C: Jittal
+      D: Tanka
+    answer: C
+    explanation: Muhammad bin Tughlaq's token currency replaced the silver tanka with copper/bronze coins. The jital was the copper coin of the Delhi Sultanate.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q028
+    difficulty: medium
+    stem: "The approximate amount of silica present in cement is:"
+    options:
+      A: between 27% and 35%
+      B: between 37% and 45%
+      C: between 17% and 25%
+      D: between 47% and 55%
+    answer: C
+    explanation: Portland cement has about 17–25% silica (SiO₂); lime (CaO) is the largest part, at about 60–67%.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q029
+    difficulty: medium
+    stem: According to Article _________of the Constitution of India, it shall be the duty of every citizen of India to develop the scientific temper, humanism and the spirit of inquiry and reform.
+    options:
+      A: 52A
+      B: 50A
+      C: 49A
+      D: 51A
+    answer: D
+    explanation: Article 51A(h) makes it a fundamental duty to develop the scientific temper, humanism and the spirit of inquiry and reform.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q030
+    difficulty: medium
+    stem: According to Koeppen's Scheme, which type of climate is denoted by ‘Cwg’ in India?
+    options:
+      A: Monsoon with dry winter
+      B: Semi-arid steppe climate
+      C: Polar type
+      D: Monsoon with dry summer
+    answer: A
+    explanation: In Koeppen's scheme, 'Cwg' is a monsoon-type climate with dry winters, as in the Ganga plain.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q031
+    difficulty: medium
+    stem: The Hemis Festival has an influence of which religion?
+    options:
+      A: Jainism
+      B: Islam
+      C: Buddhism
+      D: Hinduism
+    answer: C
+    explanation: The Hemis festival in Ladakh marks the birth of Guru Padmasambhava and is a Buddhist festival.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q032
+    difficulty: medium
+    stem: In cells, proteins are synthesised in ____.
+    options:
+      A: Mitochondria
+      B: Golgi apparatus
+      C: Nucleus
+      D: Ribosome
+    answer: D
+    explanation: Ribosomes are where proteins are made in the cell.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q033
+    difficulty: medium
+    stem: The Telugu movie RRR created history by winning a Golden Globe for the Natu Natu song composed by whom among the following personalities?
+    options:
+      A: Shankar–Ehsaan–Loy
+      B: Mervin Solomon
+      C: MM Keeravani
+      D: AR Rahman
+    answer: C
+    explanation: "'Naatu Naatu' from RRR was composed by M. M. Keeravani and won the Golden Globe in 2023."
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q034
+    difficulty: medium
+    stem: In July 2021, the Government of India launched a National Initiative for Proficiency in Reading with Understanding and Numeracy (NIPUN Bharat) for ensuring that every child in the country necessarily attains foundational literacy and numeracy by the end of Grade ______.
+    options:
+      A: "3"
+      B: "4"
+      C: "2"
+      D: "5"
+    answer: A
+    explanation: NIPUN Bharat aims for every child to gain foundational literacy and numeracy by the end of Grade 3 (2026–27).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q035
+    difficulty: medium
+    stem: ‘Alarippu’ is a dance piece from which of the following classical dances of India?
+    options:
+      A: Bharatanatyam
+      B: Kathakali
+      C: Odissi
+      D: Kathak
+    answer: A
+    explanation: Alarippu is the opening piece of a Bharatanatyam recital.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q036
+    difficulty: medium
+    stem: What is Typhlops?
+    options:
+      A: Blind snake
+      B: Sea snake
+      C: Glass snakes
+      D: Grass snake
+    answer: A
+    explanation: Typhlops is a genus of blind snakes.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q037
+    difficulty: medium
+    stem: Which of the following periods is referred to as a period of stagnant or stationary phase of growth of India's population?
+    options:
+      A: 1921 - 1941
+      B: 1901 - 1921
+      C: 1961 - 1981
+      D: 1941 - 1961
+    answer: B
+    explanation: India's population grew very slowly, and was even negative, in 1901–1921, the stagnant phase.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q038
+    difficulty: medium
+    stem: In which Five-Year Plan was the process of economic reforms introduced in India?
+    options:
+      A: Tenth
+      B: Fifth
+      C: Eighth
+      D: Sixth
+    answer: C
+    explanation: The 1991 economic reforms were carried forward in the Eighth Plan (1992–97), the first plan after liberalisation.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q039
+    difficulty: medium
+    stem: How many points are there in the 4th set in volleyball?
+    options:
+      A: "15"
+      B: "16"
+      C: "25"
+      D: "8"
+    answer: C
+    explanation: Sets 1–4 in volleyball are played to 25 points; only the deciding 5th set is played to 15.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q040
+    difficulty: medium
+    stem: Who among the following leaders led the Bardoli Satyagraha?
+    options:
+      A: Lala Lajpat Rai
+      B: Motilal Nehru
+      C: C Rajagopalachari
+      D: Vallabhbhai Patel
+    answer: D
+    explanation: Vallabhbhai Patel led the Bardoli Satyagraha of 1928, which earned him the title 'Sardar'.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q041
+    difficulty: medium
+    stem: Which of the following is an institutional source of credit in India?
+    options:
+      A: Money lenders
+      B: Commission agents
+      C: Traders
+      D: Commercial banks
+    answer: D
+    explanation: Commercial banks are formal (institutional) lenders; moneylenders, traders and commission agents are informal ones.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q042
+    difficulty: medium
+    stem: In India The State election Commissioner is appointed by the __________ .
+    options:
+      A: Chief Justice
+      B: President
+      C: Governor
+      D: Chief Minister
+    answer: C
+    explanation: Under Article 243K, the State Election Commissioner is appointed by the Governor.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q043
+    difficulty: medium
+    stem: Which scientist revised the nebular hypothesis in 1796?
+    options:
+      A: Neville Chamberlain
+      B: Edwin Hubble
+      C: Pierre Laplace
+      D: Harold Jeffrey
+    answer: C
+    explanation: Pierre-Simon Laplace revised Kant's nebular hypothesis in 1796.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q044
+    difficulty: medium
+    stem: Who among the following has been named as the World Bank Education Advisor for the period of June 2021 to June 2024?
+    options:
+      A: Keisha Thorpe
+      B: Peter Tabichi
+      C: Vishwavir Ahuja
+      D: Ranjitsinh Disale
+    answer: D
+    explanation: Ranjitsinh Disale, winner of the Global Teacher Prize, was named World Bank Education Advisor for 2021–24.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q045
+    difficulty: medium
+    stem: Which region has the maximum concentration of iron and steel industries in India?
+    options:
+      A: Deccan Plateau
+      B: Malwa Plateau
+      C: Chota Nagpur plateau
+      D: Chhattisgarh Plateau
+    answer: C
+    explanation: The Chota Nagpur plateau, rich in iron ore and coal, has the most iron and steel plants.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q046
+    difficulty: medium
+    stem: The Indian Railways on October 7, 2021, launched and operated two long-haul freight trains named __________, to provide a very effective solution to the problem of capacity constraints in critical rail sections.
+    options:
+      A: Himalaya and Thar
+      B: Aakash and Vijay
+      C: Sagar and Prithvi
+      D: Trishul and Garuda
+    answer: D
+    explanation: In October 2021, Indian Railways ran 'Trishul' and 'Garuda', its first long-haul freight trains.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q047
+    difficulty: medium
+    stem: Maximum how many overs can a bowler bowl in ODI cricket matches?
+    options:
+      A: "11"
+      B: "9"
+      C: "10"
+      D: "8"
+    answer: C
+    explanation: In a 50-over ODI, a bowler may bowl at most 10 overs.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q048
+    difficulty: medium
+    stem: Who among the following Mauryan kings gave up war after the battle of Kalinga?
+    options:
+      A: Chandragupta Maurya
+      B: Ashoka
+      C: Mahinda
+      D: Bindusara
+    answer: B
+    explanation: Ashoka gave up war after the Kalinga war (about 261 BCE) and followed Dhamma.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q049
+    difficulty: medium
+    stem: Who among the following was the founder of the Aligarh Movement, which was largely responsible for the revival of Muslims in India?
+    options:
+      A: Mirza Ghulam Ahmad
+      B: Muhammad Iqbal
+      C: Abdul Gaffar Khan
+      D: Sayyid Ahmad Khan
+    answer: D
+    explanation: Sir Syed Ahmad Khan founded the Aligarh Movement (MAO College, 1875).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q050
+    difficulty: medium
+    stem: Which of the following are metalloids?
+    options:
+      A: Boron, oxygen, aluminium
+      B: Boron, mercury, iron
+      C: Boron, silicon, antimony
+      D: Aluminium, mercury, copper
+    answer: C
+    explanation: Boron, silicon and antimony are metalloids; oxygen is a non-metal and the rest are metals.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-18-s2-q051
+    difficulty: medium
+    stem: "If the areas of two similar triangles are in the ratio 196 : 625,what would be the ratio of the corresponding sides?"
+    options:
+      A: 14:25
+      B: 13:20
+      C: 14:20
+      D: 13:25
+    answer: A
+    explanation: "The sides are in the ratio of the square roots of the areas: √196 : √625 = 14 : 25."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q052
+    difficulty: medium
+    stem: If secθ + tanθ = 5, then find the value of tanθ.
+    options:
+      A: 5/12
+      B: 13/5
+      C: 13/3
+      D: 12/5
+    answer: D
+    explanation: sec θ − tan θ = 1/5, since sec² − tan² = 1. Then tan θ = (5 − 1/5)/2 = 12/5.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q053
+    difficulty: medium
+    stem: "The ratio of the length of each equal side and the third side of an isosceles triangle is 3 : 5. If the area of the triangle is 30√11 cm², then the length of the third side (in cm) is:"
+    options:
+      A: 10√6
+      B: 5√6
+      C: 13√6
+      D: 11√6
+    answer: A
+    explanation: Take the sides as 3k, 3k, 5k. The height = √(9k² − 6.25k²) = (√11/2)k, so the area = (5√11/4)k² = 30√11. That gives k² = 24, so the third side = 5k = 10√6.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q054
+    difficulty: medium
+    stem: |-
+      In a factory, utensils are manufactured in three plants, plant A, B and C. How many plates are manufactured by plant B if total plates are 3260?
+
+      *(Figure: 100% stacked 3-D bar chart titled ‘Share in manufacturing’ (y-axis 0%–100%) for Bowl, Spoons, Plates and Glass, each bar split into Plant A (blue, bottom), Plant B (orange, middle) and Plant C (grey, top). Approximate readings — Bowl: A 0–30%, B 30–75%, C 75–100%; Spoons: A 0–25%, B 25–55%, C 55–100%; Plates: A 0–30%, B 30–70%, C 70–100%; Glass: A 0–25%, B 25–60%, C 60–100%.)*
+    options:
+      A: "1467"
+      B: "1304"
+      C: "1254"
+      D: "1141"
+    answer: B
+    explanation: "Plant B makes about 40% of plates (30% to 70% on the bar): 40% of 3260 = 1304."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q055
+    difficulty: medium
+    stem: "The value of (1/sin θ + 1/tan θ)(1/sin θ − 1/tan θ) is:"
+    options:
+      A: "0"
+      B: "2"
+      C: "3"
+      D: "1"
+    answer: D
+    explanation: (cosec θ + cot θ)(cosec θ − cot θ) = cosec²θ − cot²θ = 1.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q056
+    difficulty: medium
+    stem: The percentage profit earned by selling an article for ₹2,000 is the same as the percentage loss incurred by selling the same article for ₹1,200. At what price should that article be sold to make a profit of 20%?
+    options:
+      A: ₹2,000
+      B: ₹1,800
+      C: ₹1,920
+      D: ₹1,840
+    answer: C
+    explanation: "Equal profit and loss percentages mean CP = (2000 + 1200)/2 = 1600. For 20% profit: 1600 × 1.2 = ₹1920."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q057
+    difficulty: medium
+    stem: Which number among 24963, 24973, 24983 and 24993 is divisible by 7?
+    options:
+      A: "24973"
+      B: "24983"
+      C: "24963"
+      D: "24993"
+    answer: B
+    explanation: 24983 = 7 × 3569.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q058
+    difficulty: medium
+    stem: |-
+      Simplify the following:  
+      sin 2x + 2 sin 4x + sin 6x
+    options:
+      A: 4 cos² x sin 4x
+      B: 4 cos² x sin x
+      C: 2 cos² x sin 4x
+      D: 4 sin² x sin 4x
+    answer: A
+    explanation: sin 2x + sin 6x = 2 sin 4x cos 2x, so the sum = 2 sin 4x (1 + cos 2x) = 2 sin 4x × 2cos²x = 4cos²x sin 4x.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q059
+    difficulty: medium
+    stem: "If 405 : y :: y : 125, and y > 0, then find the value of y."
+    options:
+      A: "225"
+      B: "205"
+      C: "215"
+      D: "235"
+    answer: A
+    explanation: "y is the mean proportional: y² = 405 × 125 = 50625, so y = 225."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q060
+    difficulty: medium
+    stem: A policeman follows a thief who is 600 m ahead of the policeman. If the policeman and the thief run at speeds of 10 km/h and 8 km/h, respectively, in how much time (in minutes), will the policeman catch the thief?
+    options:
+      A: "16"
+      B: "14"
+      C: "18"
+      D: "12"
+    answer: C
+    explanation: The gap closes at 10 − 8 = 2 km/h, so 0.6 km takes 0.3 h = 18 minutes.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q061
+    difficulty: medium
+    stem: Which of the following numbers is divisible by 36?
+    options:
+      A: "47502"
+      B: "29412"
+      C: "54732"
+      D: "87064"
+    answer: B
+    explanation: A number divisible by 36 must be divisible by both 4 and 9. 29412 ends in 12 (divisible by 4) and its digits add up to 18 (divisible by 9).
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q062
+    difficulty: medium
+    stem: Amar can complete a work in 15 days, and Prem, in 12 days. Starting with Amar, they work on alternate days. In how many days will the work be completed?
+    options:
+      A: 13 2/5
+      B: 12 1/6
+      C: 13 1/2
+      D: "13"
+    answer: A
+    explanation: "Take the work as 60 units: Amar does 4 a day and Prem 5. Every 2 days they do 9, so 12 days give 54. Amar's 13th day makes 58, and Prem needs 2/5 of a day for the rest: 13 2/5 days."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q063
+    difficulty: medium
+    stem: A and B alone can do a piece of work in 4 and 9 days, respectively. In how many days will the work be completed, if they both work on alternate days, starting with B?
+    options:
+      A: 5 1/3
+      B: 5 2/3
+      C: "5"
+      D: 5 1/4
+    answer: B
+    explanation: "Take the work as 36 units: A does 9 a day and B 4. Every 2 days they do 13, so 4 days give 26. B's 5th day makes 30, and A needs 6/9 = 2/3 of a day: 5 2/3 days."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q064
+    difficulty: medium
+    stem: "If two qualities of pulses ‘X’ and ‘Y’ of prices ₹100 and ₹150 per kg are mixed in the ratio 7 : 20, then what is the price (in ₹) of this mixture of pulses (correct to the nearest Rupee)?"
+    options:
+      A: "137"
+      B: "135"
+      C: "134"
+      D: "136"
+    answer: A
+    explanation: Price of the mixture = (7 × 100 + 20 × 150)/27 = 3700/27 ≈ ₹137.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q065
+    difficulty: medium
+    stem: If x − 1/x = − 6, what will be the value of x⁵ − 1/x⁵?
+    options:
+      A: − 8898
+      B: − 8896
+      C: − 8886
+      D: − 8892
+    answer: C
+    explanation: x² + 1/x² = 36 + 2 = 38 and x³ − 1/x³ = (−6)³ + 3(−6) = −234. Then x⁵ − 1/x⁵ = 38 × (−234) − (−6) = −8886.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q066
+    difficulty: medium
+    stem: |-
+      Study the following bar chart and answer the question.
+
+      Sales of XYZ Phones over the years
+
+      | Year | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
+      |---|---|---|---|---|---|---|
+      | Sales of XYZ phones | 48 | 40 | 30 | 20 | 18 | 40 |
+
+      Find the percentage increase of sales of XYZ phones from 2019 to 2020? (Rounded up to 2 decimal places)
+
+      *(Figure: Vertical bar chart ‘Sales of XYZ Phones over the years’ (y-axis ‘Sales of XYZ phones’ 0–60, x-axis ‘Years’); bar labels as in the table.)*
+    options:
+      A: 122.22 Percent
+      B: 110.11 Percent
+      C: 119.19 Percent
+      D: 121.89 Percent
+    answer: A
+    explanation: "Sales rose from 18 to 40: (40 − 18)/18 × 100 = 122.22%."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q067
+    difficulty: medium
+    stem: In a factory, 48% of the number of male workers is equal to two-third of the number of female workers. What is the ratio of the number of males to that of the females in the factory?
+    options:
+      A: "25 : 12"
+      B: "12 : 25"
+      C: "18 : 25"
+      D: "25 : 18"
+    answer: D
+    explanation: "0.48M = (2/3)F, so M : F = (2/3) : 0.48 = 25 : 18."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q068
+    difficulty: medium
+    stem: If (a + b + c) = 19, and (a² + b² + c²) = 155, find the value of (a – b)² + (b – c)² + (c – a)².
+    options:
+      A: "104"
+      B: "108"
+      C: "100"
+      D: "98"
+    answer: A
+    explanation: ab + bc + ca = (19² − 155)/2 = 103. The required sum = 2(155) − 2(103) = 104.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q069
+    difficulty: medium
+    stem: "The difference (in ₹) between a discount of 35% on ₹3,600 and two successive discounts of 30% and 5% on the same amount is:"
+    options:
+      A: "54"
+      B: "78"
+      C: "82"
+      D: "52"
+    answer: A
+    explanation: A 35% discount is 1260. Successive 30% and 5% discounts equal 33.5%, which is 1206. The difference is ₹54.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q070
+    difficulty: medium
+    stem: Raja and Rocky together can complete painting work in 5 days. Together they both start painting, but after 2 days, Rocky falls sick and leaves the work. If Raja completes the remaining painting in 4 days, find the number of days in which Rocky alone can do the work.
+    options:
+      A: 12 days
+      B: 15 days
+      C: 20 days
+      D: 10 days
+    answer: C
+    explanation: In 2 days the two do 2/5 of the work. Raja does the other 3/5 in 4 days, so he does 3/20 a day. Rocky does 1/5 − 3/20 = 1/20 a day, so 20 days.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q071
+    difficulty: medium
+    stem: "If sinA = −3/5, A lies in III quadrant, the value of sec A is:"
+    options:
+      A: −4/5
+      B: −5/4
+      C: −3/4
+      D: 3/4
+    answer: B
+    explanation: "In quadrant III cos A is negative: cos A = −4/5, so sec A = −5/4."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q072
+    difficulty: medium
+    stem: A and B can do a piece of work in 5 days and 10 days, respectively. They began the work together but A left after some days and B finished the remaining work in 8 days. After how many days did A leave?
+    options:
+      A: 3 1/8
+      B: 5 1/8
+      C: 6 1/8
+      D: 2/3
+    answer: D
+    explanation: If A worked t days and B worked t + 8 days, then t/5 + (t + 8)/10 = 1, so t = 2/3.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q073
+    difficulty: medium
+    stem: To go a distance of 144 km upstream, a rower takes 12 hours while it takes her only 9 hours to row the same distance downstream. What is the speed of the stream?
+    options:
+      A: 3 km/h
+      B: 1 km/h
+      C: 1.5 km/h
+      D: 2 km/h
+    answer: D
+    explanation: Upstream speed = 12 km/h and downstream speed = 16 km/h, so the stream's speed = (16 − 12)/2 = 2 km/h.
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q074
+    difficulty: medium
+    stem: The perimeter of an equilateral triangle is 48 cm. Find its area (in cm²).
+    options:
+      A: 81√3
+      B: 8√3
+      C: 25√3
+      D: 64√3
+    answer: D
+    explanation: Each side is 16 cm, so the area = (√3/4) × 16² = 64√3 cm².
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q075
+    difficulty: medium
+    stem: The cost of 32 pens and 12 pencils is ₹790. What is the total cost (in ₹) of 8 pens and 3 pencils together?
+    options:
+      A: "200.5"
+      B: "197.5"
+      C: "180.5"
+      D: "220.5"
+    answer: B
+    explanation: "8 pens + 3 pencils is a quarter of 32 pens + 12 pencils: 790/4 = ₹197.5."
+    tags:
+      - quant
+  - slug: cgl-2023-07-18-s2-q076
+    difficulty: medium
+    stem: |-
+      Identify the word in the given sentence that is the ANTONYM of the word ‘frugal’.  
+      At present, people are paying extravagant prices for houses because they have to have accommodation.
+    options:
+      A: prices
+      B: accommodation
+      C: present
+      D: extravagant
+    answer: D
+    explanation: Frugal means spending little; 'extravagant' means spending too much.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q077
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Horticulture
+      B: Ignision
+      C: Copulate
+      D: Portion
+    answer: B
+    explanation: The correct spelling is 'Ignition'.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      I will not go out if **is raining**.
+    options:
+      A: raining
+      B: It rains
+      C: will rain
+      D: rained
+    answer: B
+    explanation: "A conditional clause needs a subject and the simple present: 'if it rains'."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.
+
+      Please ask the dog to **get of my** couch.
+    options:
+      A: get of mine
+      B: get off my
+      C: get off mine
+      D: No substitution
+    answer: B
+    explanation: "'Get off' (leave or come down from) is the correct phrasal verb: 'get off my couch'."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q080
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      I fell / asleep while / I read / the book.
+    options:
+      A: the book
+      B: I read
+      C: asleep while
+      D: I fell
+    answer: B
+    explanation: "An action in progress when another happened needs the past continuous: 'while I was reading the book'."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      Those streets are very **lonely**.
+    options:
+      A: Crowded
+      B: Isolated
+      C: Empty
+      D: Remote
+    answer: A
+    explanation: Lonely (deserted) streets are the opposite of crowded ones.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q082
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Concieve
+      B: Detect
+      C: Predict
+      D: Stimulate
+    answer: A
+    explanation: The correct spelling is 'Conceive' (i before e, except after c).
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.  
+      The mob **drove on the rampage** and looted several shops in the locality.
+    options:
+      A: played on the rampage
+      B: went on the rampage
+      C: ran on the rampage
+      D: strolled on the rampage
+    answer: B
+    explanation: The idiom is 'go on the rampage', so 'went on the rampage'.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q084
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A secret plan, made to do something (usually wrong)
+    options:
+      A: Strategy
+      B: Planning
+      C: Conditioning
+      D: Conspiracy
+    answer: D
+    explanation: A conspiracy is a secret plan, usually to do something wrong.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q085
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A.After a few months, the two countries engaged in the Kargil war.  
+      B.Furthermore, a number of violent wars were fought between India and Pakistan.  
+      C.In February 1999, during the winter invasion, India and Pakistan signed the Lahore Declaration, which was predicated on peace.  
+      D.The engagements were extremely challenging for the Indian army since they had to fight on rough rocky terrain.
+    options:
+      A: DCAB
+      B: CABD
+      C: CDBA
+      D: DABC
+    answer: B
+    explanation: C (the Lahore Declaration, February 1999) is followed by A (a few months later, Kargil), then B (more wars) and D (how hard the engagements were).
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      By the skin of your teeth
+    options:
+      A: Confident of victory
+      B: Kind towards the weak
+      C: Determined to strike
+      D: Just barely
+    answer: D
+    explanation: "'By the skin of your teeth' means only just, barely."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q087
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      I can’t talk right now. / I am being really busy. / I’ll call you later.
+    options:
+      A: I can’t talk right now
+      B: I am being really busy
+      C: No error
+      D: I’ll call you later
+    answer: B
+    explanation: "'Busy' is a state here, so it takes the simple present: 'I am really busy', not 'am being'."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      To put off doing something, especially out of habitual carelessness or laziness
+    options:
+      A: Accelerate
+      B: Lacerate
+      C: Procrastinate
+      D: Recuperate
+    answer: C
+    explanation: To procrastinate is to keep putting off tasks.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.  
+      **Seldom** had he been so joyous in other’s happiness.
+    options:
+      A: Hardly
+      B: Rarely
+      C: Frequently
+      D: Occasionally
+    answer: C
+    explanation: Seldom means rarely; its opposite is frequently.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q090
+    difficulty: medium
+    stem: Describe how you will tell your friends that Rohit helps Reghu in passive voice.
+    options:
+      A: Reghu will been helped by Rohit.
+      B: Reghu is helped by Rohit.
+      C: Rohit help Reghu.
+      D: Reghu is being help by Rohit.
+    answer: B
+    explanation: Simple present active 'Rohit helps Reghu' becomes 'Reghu is helped by Rohit'.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.  
+      They are playing songs so ______that the entire neighbourhood is disturbed.
+    options:
+      A: lord
+      B: loved
+      C: laud
+      D: loud
+    answer: D
+    explanation: Songs played 'so loud' disturb the neighbourhood.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q092
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice  
+      The cards were being distributed by her to her friends.
+    options:
+      A: She was distributing the cards to her friends.
+      B: Her friends were distributing the cards for her.
+      C: The cards were been distributed to her friends.
+      D: Her cards were distributed by her friends.
+    answer: A
+    explanation: "'Were being distributed' (past continuous passive) becomes 'She was distributing the cards to her friends'."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      He brought **disgrace** to his family by being involved in illegal activities.
+    options:
+      A: Suspicion
+      B: Shame
+      C: Discord
+      D: Honour
+    answer: D
+    explanation: The opposite of disgrace is honour.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.  
+      Divergence
+    options:
+      A: Convergence
+      B: Existence
+      C: Resilience
+      D: Transience
+    answer: A
+    explanation: Divergence means moving apart; convergence means coming together.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q095
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A person who gives help and sympathy to people who need it.
+    options:
+      A: Preacher
+      B: Moralist
+      C: Samaritan
+      D: Pardoner
+    answer: C
+    explanation: A (Good) Samaritan is someone who helps and comforts people in need.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The Maasais live in (1)_________ very beautiful part of Africa. They live on the wide plains in southern and northern Kenya and northern Tanzania. The area (2)_______ of miles of rolling grass land, on which you can find thorny bushes and rocky hills. The people move from one place to another according to the seasons, looking for grasses and other plants (3)________ which their cattle can graze. They have no permanent home. When they want to settle in a place for some time, they build a kind of camp called a ‘Manyatta’, where a few families live for a (4)_________ weeks or months. Then they move on again, taking their few (5)_______ with them, and burning the old ‘Manyatta’ to the ground.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: a
+      B: that
+      C: their
+      D: some
+    answer: A
+    explanation: "'In a very beautiful part' — the indefinite article fits."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The Maasais live in (1)_________ very beautiful part of Africa. They live on the wide plains in southern and northern Kenya and northern Tanzania. The area (2)_______ of miles of rolling grass land, on which you can find thorny bushes and rocky hills. The people move from one place to another according to the seasons, looking for grasses and other plants (3)________ which their cattle can graze. They have no permanent home. When they want to settle in a place for some time, they build a kind of camp called a ‘Manyatta’, where a few families live for a (4)_________ weeks or months. Then they move on again, taking their few (5)_______ with them, and burning the old ‘Manyatta’ to the ground.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: surrounds
+      B: measures
+      C: considers
+      D: consists
+    answer: D
+    explanation: "'Consists of' is the correct phrase: the area consists of miles of grassland."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The Maasais live in (1)_________ very beautiful part of Africa. They live on the wide plains in southern and northern Kenya and northern Tanzania. The area (2)_______ of miles of rolling grass land, on which you can find thorny bushes and rocky hills. The people move from one place to another according to the seasons, looking for grasses and other plants (3)________ which their cattle can graze. They have no permanent home. When they want to settle in a place for some time, they build a kind of camp called a ‘Manyatta’, where a few families live for a (4)_________ weeks or months. Then they move on again, taking their few (5)_______ with them, and burning the old ‘Manyatta’ to the ground.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: on
+      B: by
+      C: with
+      D: at
+    answer: A
+    explanation: Cattle graze 'on' plants.
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The Maasais live in (1)_________ very beautiful part of Africa. They live on the wide plains in southern and northern Kenya and northern Tanzania. The area (2)_______ of miles of rolling grass land, on which you can find thorny bushes and rocky hills. The people move from one place to another according to the seasons, looking for grasses and other plants (3)________ which their cattle can graze. They have no permanent home. When they want to settle in a place for some time, they build a kind of camp called a ‘Manyatta’, where a few families live for a (4)_________ weeks or months. Then they move on again, taking their few (5)_______ with them, and burning the old ‘Manyatta’ to the ground.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: little
+      B: significant
+      C: least
+      D: few
+    answer: D
+    explanation: "'A few weeks or months' — 'few' is used with countable nouns."
+    tags:
+      - english
+  - slug: cgl-2023-07-18-s2-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.  
+      The Maasais live in (1)_________ very beautiful part of Africa. They live on the wide plains in southern and northern Kenya and northern Tanzania. The area (2)_______ of miles of rolling grass land, on which you can find thorny bushes and rocky hills. The people move from one place to another according to the seasons, looking for grasses and other plants (3)________ which their cattle can graze. They have no permanent home. When they want to settle in a place for some time, they build a kind of camp called a ‘Manyatta’, where a few families live for a (4)_________ weeks or months. Then they move on again, taking their few (5)_______ with them, and burning the old ‘Manyatta’ to the ground.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: inhibitions
+      B: experiences
+      C: antiques
+      D: belongings
+    answer: D
+    explanation: They move on taking their few 'belongings' (possessions) with them.
+    tags:
+      - english

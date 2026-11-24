@@ -1,0 +1,1336 @@
+slug: 2022-12-13-shift1
+title: SSC CGL 2022 Tier 1
+date: 2022-12-13
+label: 13 Dec, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via adda247.com — https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07132914/13-Dec-9AM-EN.pdf). Left out (picture-only options or incomplete in the source): Q2, Q3, Q8, Q12, Q14, Q22, Q24, Q25, Q75."
+questions:
+  - slug: cgl-2022-12-13-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g., 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed).
+
+      (16, 7, 81)
+
+      (24, 16, 64)
+    options:
+      A: (13, 7, 36)
+      B: (48, 39, 18)
+      C: (37, 25, 100)
+      D: (21, 19, 8)
+    answer: A
+    explanation: "Third number = (first − second)²: (16 − 7)² = 81 and (24 − 16)² = 64. Likewise (13 − 7)² = 36."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+      68 : 19 :: 76 : 21 :: 164 : ?
+    options:
+      A: "45"
+      B: "39"
+      C: "43"
+      D: "41"
+    answer: C
+    explanation: "Second = first ÷ 4 + 2: 68/4 + 2 = 19 and 76/4 + 2 = 21, so 164/4 + 2 = 43."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q005
+    difficulty: medium
+    stem: In a certain code language, ‘COMMUNITY’ is written as ‘YITUNMCOM’ and ‘AUTHORITY’ is written as ‘YITORHAUT’. How will ‘ISOLATION’ be written in that language?
+    options:
+      A: NIAOTLISO
+      B: NIOATILSO
+      C: NIOATLIOS
+      D: NIOATLISO
+    answer: D
+    explanation: "Split the word into three blocks of three letters and write them in reverse order. The last letter of the third block moves to its front, the first block stays as it is, and the first letter of the second block moves to its end: ION → NIO, LAT → ATL, ISO → ISO, giving NIOATLISO."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q006
+    difficulty: medium
+    stem: In a certain code language ‘BOTTLE’ is written as ‘148’, ‘SIPPER’ is written as ‘166’. How will ‘BUMPER’ be written in that language?
+    options:
+      A: "160"
+      B: "170"
+      C: "150"
+      D: "180"
+    answer: C
+    explanation: "Code = 2 × (sum of letter positions): BOTTLE = 2 × 74 = 148, SIPPER = 2 × 83 = 166, BUMPER = 2 × 75 = 150."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q007
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.
+
+      ACCUSED : UCCASDE :: FACTORY : TCAFOYR :: DYNAMIC : ?
+    options:
+      A: YNMICAD
+      B: DNYMACI
+      C: ANYDMCI
+      D: DANYMIC
+    answer: C
+    explanation: "Reverse the first four letters and swap the last two: DYNA → ANYD and MIC → MCI, giving ANYDMCI."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q009
+    difficulty: medium
+    stem: |-
+      A # B means ‘A is the sister of B’.
+
+      A @ B means ‘A is the son of B’.
+
+      A & B means ‘A is the father of B’.
+
+      A % B means ‘A is the mother of B’.
+
+      If W & Q # T & Y @ M % K, then how is Q related to K?
+    options:
+      A: Mother’s sister
+      B: Sister
+      C: Father’s sister
+      D: Father’s mother
+    answer: C
+    explanation: W is Q's father, and Q is the sister of T. T is the father of Y, Y is the son of M, and M is the mother of K, so K is T's child. Q is therefore K's father's sister.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q010
+    difficulty: medium
+    stem: |-
+      Read the given statement(s) and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statement(s).
+
+      Statements:
+
+      Some pencils are rods.
+
+      No rod is a door.
+
+      All balls are rods.
+
+      Conclusions:
+
+      I. Some pencils being balls is a possibility.
+
+      II. No ball is a door.
+
+      III. All rods are balls.
+
+      IV. No pencil is a door.
+    options:
+      A: Only Conclusions I, II and IV follow
+      B: Only Conclusions I and II follow
+      C: Only Conclusion I follows
+      D: Only Conclusions II and III follow
+    answer: B
+    explanation: All balls are rods and no rod is a door, so no ball is a door (II). Pencils being balls is possible (I). III and IV do not follow, because pencils that are not rods could be doors.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q011
+    difficulty: medium
+    stem: |-
+      Select the word-pair that best represents a similar relationship to the one expressed in the given pair of words.
+
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)
+
+      Rice : Carbohydrates
+    options:
+      A: "Eggplant : Vegetable"
+      B: "Flesh : Chicken"
+      C: "Cottage cheese : Protein"
+      D: "Orange : Fruit"
+    answer: C
+    explanation: Rice is a source rich in carbohydrates; in the same way, cottage cheese (paneer) is a source rich in protein.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q013
+    difficulty: medium
+    stem: |-
+      Which of the following letter-clusters will replace the question mark (?) in the given series?
+
+      DBK, GDL, JFM, MHN, ?
+    options:
+      A: QKN
+      B: PKO
+      C: PJO
+      D: QJO
+    answer: C
+    explanation: Letter 1 moves +3 (D, G, J, M, P), letter 2 moves +2 (B, D, F, H, J) and letter 3 moves +1 (K, L, M, N, O), giving PJO.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q015
+    difficulty: medium
+    stem: If A × B means that A is the brother of B, A – B means that A is the sister of B, A + B means that A is the father of B then which of the following expression shows that P is the father of R?
+    options:
+      A: P + Q × R
+      B: P × Q + R
+      C: P + Q ÷ R
+      D: P – Q × R
+    answer: A
+    explanation: In P + Q × R, P is the father of Q and Q is the brother of R, so P is the father of R.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q016
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:
+
+      I. No A is B.
+
+      II. No C is B.
+
+      Conclusion:
+
+      I. Some C are not A.
+
+      II. Some A are B.
+    options:
+      A: Neither conclusion follows
+      B: Only conclusion II follows
+      C: Only conclusion I follows
+      D: Both conclusions I and II follows
+    answer: A
+    explanation: "'No A is B' rules out 'Some A are B'. A and C are both outside B but may overlap fully, so 'Some C are not A' is not certain. Neither conclusion follows."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q017
+    difficulty: medium
+    stem: |-
+      By Interchanging the given two numbers which of the following equation will be correct?
+
+      4 and 6
+    options:
+      A: 4 ÷ 2 + 3 – 6 × 5 = –14
+      B: 9 ÷ 3 + 6 × 5 – 4 = 18
+      C: 4 × 3 + 6 – 2 ÷ 1 = 21
+      D: 4 – 6 ÷ 2 + 3 × 5 = 20
+    answer: A
+    explanation: Swapping 4 and 6 in option A gives 6 ÷ 2 + 3 – 4 × 5 = 3 + 3 – 20 = –14, which is correct.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q018
+    difficulty: medium
+    stem: "Select the odd group of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)"
+    options:
+      A: (14 – 28 – 42)
+      B: (16 – 32 – 64 )
+      C: (18 –36 –72 )
+      D: (12 –24 – 48 )
+    answer: A
+    explanation: In B, C and D each number is double the one before it (×2, ×2). In (14, 28, 42), 42 is 28 + 14, not 28 × 2.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q019
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fourth term in the same way as the first term is related to the second term and the fifth term is related to the sixth term.
+
+      16 : 96 :: ? : 161 :: 18 : 120
+    options:
+      A: "22"
+      B: "21"
+      C: "20"
+      D: "24"
+    answer: B
+    explanation: "Second = first × (first + 2) ÷ 3: 16 × 18 / 3 = 96 and 18 × 20 / 3 = 120. So 21 × 23 / 3 = 161."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q020
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation.
+
+      50 * 10 * 20 * 5 * 105
+    options:
+      A: ÷, ×, +, =
+      B: ×, −, +, =
+      C: ÷, ×, −, =
+      D: ×, ÷, +, =
+    answer: A
+    explanation: 50 ÷ 10 × 20 + 5 = 5 × 20 + 5 = 105.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q021
+    difficulty: medium
+    stem: |-
+      After arranging the given words according to dictionary order, which word will come at ‘Third’ position?
+
+      1. Overwork
+
+      2. Overwrought
+
+      3. Overwhelming
+
+      4. Overweight
+
+      5. Overweening
+    options:
+      A: Overwhelming
+      B: Overwrought
+      C: Overweight
+      D: Overweening
+    answer: A
+    explanation: "In dictionary order: Overweening, Overweight, Overwhelming, Overwork, Overwrought. The third word is Overwhelming."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q023
+    difficulty: medium
+    stem: Three of the following letter-clusters are alike in some manner and hence form a group. Which letter-cluster does not belong to that group?
+    options:
+      A: PONM
+      B: EDCB
+      C: SRQP
+      D: BYXW
+    answer: D
+    explanation: PONM, EDCB and SRQP are four consecutive letters in reverse order. BYXW breaks this, as B is followed by Y.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-13-s1-q026
+    difficulty: medium
+    stem: In which year was Asha Bhosle's name entered into the Guinness Book of World Records for most studio recordings?
+    options:
+      A: "2017"
+      B: "2020"
+      C: "2014"
+      D: "2011"
+    answer: D
+    explanation: In 2011, Guinness World Records recognised Asha Bhosle as the most recorded artist in music history.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q027
+    difficulty: medium
+    stem: Which article of Indian constitution is related with the Special provisions with respect to the State of Sikkim?
+    options:
+      A: Article 371C
+      B: Article 371
+      C: Article 371F
+      D: Article 371A
+    answer: C
+    explanation: Article 371F has the special provisions for Sikkim; 371A is Nagaland and 371C is Manipur.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q028
+    difficulty: medium
+    stem: |-
+      Which of the following statement is correct with respect to the Sangam literature?
+
+      I. These texts were supposed to be composed and compiled in assemblies of poets.
+
+      II. The Sangam literature compiled in assemblies of poets were held in the city of Madurai.
+    options:
+      A: Neither I nor II
+      B: Both I and II
+      C: Only I
+      D: Only II
+    answer: B
+    explanation: Sangam texts are said to have been composed and compiled in assemblies (sangams) of poets held in Madurai (NCERT).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q029
+    difficulty: medium
+    stem: Which of the following have mountain range young fold mountains?
+    options:
+      A: Appalachians mountain range
+      B: Alps mountain range
+      C: Aravali mountain range
+      D: Ural mountain range
+    answer: B
+    explanation: The Alps are young fold mountains. The Appalachians, Aravalis and Urals are old, worn-down fold mountains.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q030
+    difficulty: medium
+    stem: Identify a fomite from the following.
+    options:
+      A: Drinking water
+      B: Blood
+      C: Saliva
+      D: Glass
+    answer: D
+    explanation: A fomite is a non-living object, such as glass, that can carry infection; body fluids and water are not fomites.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q031
+    difficulty: medium
+    stem: Kullu Dussehra is a colourful festival majorly celebrated in which state/union territory?
+    options:
+      A: Delhi
+      B: Telangana
+      C: Uttar Pradesh
+      D: Himachal Pradesh
+    answer: D
+    explanation: Kullu Dussehra is celebrated in the Kullu valley of Himachal Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q032
+    difficulty: medium
+    stem: Peat coal has ______ carbon and ______ moisture content?
+    options:
+      A: High, Low
+      B: Low , high
+      C: High, High
+      D: Low, Low
+    answer: B
+    explanation: Peat is the first stage of coal formation, with low carbon and high moisture content.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q033
+    difficulty: medium
+    stem: After the ______, Mahatma Gandhi called off the Non-Cooperation Movement.
+    options:
+      A: Jallianwala Bagh massacre
+      B: Chauri Chaura incidence
+      C: Bengal partition
+      D: Round Table conferences
+    answer: B
+    explanation: Gandhi called off the Non-Cooperation Movement in February 1922 after the violence at Chauri Chaura.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q034
+    difficulty: medium
+    stem: The Kashi Yatra Scheme was introduced by the government of ________.
+    options:
+      A: Karnataka
+      B: Uttar Pradesh
+      C: Punjab
+      D: Kerala
+    answer: A
+    explanation: The Kashi Yatra scheme, which subsidises pilgrims going to Varanasi, is run by the Karnataka government.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q035
+    difficulty: medium
+    stem: The national highway network connecting Delhi, Mumbai, Chennai and Kolkata is called ______.
+    options:
+      A: Diamond quadrilateral
+      B: Diamond polygon
+      C: Golden polygon
+      D: Golden Quadrilateral
+    answer: D
+    explanation: The Golden Quadrilateral highway network links Delhi, Mumbai, Chennai and Kolkata.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q036
+    difficulty: medium
+    stem: Synecology can be defined as which of the following?
+    options:
+      A: A branch of science that deals with the interrelationship of individual species with its environment.
+      B: A branch of science that deals with the interrelationship of two species.
+      C: A branch of science that deals with the interrelationship of whole biome.
+      D: A branch of ecology that deals with the structure, development and distribution of ecological communities.
+    answer: D
+    explanation: Synecology (community ecology) studies the structure, development and distribution of ecological communities. Autecology studies individual species.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q037
+    difficulty: medium
+    stem: "'Thaipoosam’ festival is celebrated in which state of India?"
+    options:
+      A: Bihar
+      B: Andhra Pradesh
+      C: Tamil Nadu
+      D: Goa
+    answer: C
+    explanation: Thaipusam, the festival of Lord Murugan, is celebrated mainly in Tamil Nadu.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q038
+    difficulty: medium
+    stem: The Kuchipudi dance form originated in which of the following states of India?
+    options:
+      A: Uttar Pradesh
+      B: Kerala
+      C: Assam
+      D: Andhra Pradesh
+    answer: D
+    explanation: Kuchipudi takes its name from a village in Krishna district, Andhra Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q039
+    difficulty: medium
+    stem: The SI unit of speed is ______.
+    options:
+      A: m/s
+      B: km/s
+      C: km/hr
+      D: m/hr
+    answer: A
+    explanation: The SI unit of speed is metre per second (m/s).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q040
+    difficulty: medium
+    stem: On the occasion of teacher’s day 2022, the Indian Science Technology and Engineering facilities Map (I-STEM) launched an initiative to strengthen the efforts of scientifically inclined women. What is the name of this initiative?
+    options:
+      A: KUSUM
+      B: KALYAN
+      C: WEST
+      D: NAMASTE
+    answer: C
+    explanation: On Teachers' Day 2022, I-STEM launched 'WEST' (Women in Engineering, Science and Technology) for women in science.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q041
+    difficulty: medium
+    stem: The first English Factory in Bengal set up on the banks of river “Hugli” in ______.
+    options:
+      A: "1671"
+      B: "1641"
+      C: "1661"
+      D: "1651"
+    answer: D
+    explanation: The English set up their first factory in Bengal at Hugli in 1651.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q042
+    difficulty: medium
+    stem: In which of the following cities did Prime Minister Narendra Modi participate in 2019 as part of the celebration of International Day of Yoga on June 21?
+    options:
+      A: Ranchi
+      B: Lucknow
+      C: New Delhi
+      D: Chandigarh
+    answer: A
+    explanation: PM Modi led the 2019 International Day of Yoga event at Prabhat Tara ground in Ranchi.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q043
+    difficulty: medium
+    stem: What should be the standard length of a tennis court according the laws of the International Tennis Federation (ITF), 2021?
+    options:
+      A: 23.77 m
+      B: 22.45 m
+      C: 26.42 m
+      D: 25.34 m
+    answer: A
+    explanation: Under ITF rules a tennis court is 23.77 m (78 ft) long.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q044
+    difficulty: medium
+    stem: Article 20 of the Constitution of India deals with ______________.
+    options:
+      A: protection of life and personal liberty
+      B: protection in respect of conviction for offences
+      C: abolition of untouchability
+      D: right to education
+    answer: B
+    explanation: Article 20 gives protection in respect of conviction for offences; Article 21 covers life and liberty.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q045
+    difficulty: medium
+    stem: Who is the father of the modern ecology?
+    options:
+      A: Robert Brown
+      B: Charles Darwin
+      C: E P Odum
+      D: Robert Hook
+    answer: C
+    explanation: Eugene P. Odum is called the father of modern ecology.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q046
+    difficulty: medium
+    stem: Which of the following Indian states receive rainfall during October and November due to the North-East monsoon?
+    options:
+      A: Uttar Pradesh
+      B: Maharashtra
+      C: Madhya Pradesh
+      D: Tamil Nadu
+    answer: D
+    explanation: The north-east (retreating) monsoon brings rain to Tamil Nadu in October–November.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q047
+    difficulty: medium
+    stem: Who is the Ex-officio Chairman of NITI Aayog?
+    options:
+      A: President
+      B: Prime Minister
+      C: Home Minister
+      D: Finance Minister
+    answer: B
+    explanation: The Prime Minister is the ex-officio Chairperson of NITI Aayog.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q048
+    difficulty: medium
+    stem: |-
+      Which of the following statements is true?
+
+      A)Wage bill of the government is a capital expenditure.
+
+      B) Disinvestment by the government in a company is a capital receipt.
+    options:
+      A: Only (A)
+      B: Neither (A) nor (B)
+      C: Both (A) and (B)
+      D: Only (B)
+    answer: D
+    explanation: Salaries are revenue expenditure, so A is false. Disinvestment reduces assets, so it is a capital receipt, and B is true.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q049
+    difficulty: medium
+    stem: Who has been appointed as the 37th CRPF Director General?
+    options:
+      A: Rajendra Kumar
+      B: Sujoy Lal Thaosen
+      C: Anil Chauhan
+      D: Vijay Jasuja
+    answer: B
+    explanation: Sujoy Lal Thaosen became the 37th Director General of the CRPF in 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q050
+    difficulty: medium
+    stem: Who among the following gave up his traditional professions and took to arms, successfully established kingdom in Karnataka?
+    options:
+      A: Vasudeva Kanva
+      B: Gurjara-Pratihara Harichandra
+      C: Pushyamitra Shunga
+      D: Kadamba Mayurasharman
+    answer: D
+    explanation: Mayurasharman, a Brahmin, gave up his traditional calling, took up arms and founded the Kadamba kingdom in Karnataka.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-13-s1-q051
+    difficulty: medium
+    stem: ∆ABC ~ ∆DEF and the perimeters of these triangles are 32 cm and 12 cm, respectively. If DE = 6 cm, then what will be the length of AB?
+    options:
+      A: 16 cm
+      B: 14 cm
+      C: 12 cm
+      D: 18 cm
+    answer: A
+    explanation: "In similar triangles the sides are in the ratio of the perimeters: AB = 6 × 32/12 = 16 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q052
+    difficulty: medium
+    stem: |-
+      The bar graph given below shows the percentage distribution of the total production of six different types of cars by a car manufacturing company over 2 years.
+
+      If 75% of the T type cars produced in each year were sold by the company, how many T type cars remain unsold?
+
+      *(Figure: Stacked bar chart ‘Percentage of Six different types of Cars manufactured by a Company over Two Years’. 2000 (total cars produced = 3,50,000): P 30%, Q 15%, R 20%, S 10%, T 15%, U 10%. 2001 (total cars produced = 4,40,000): P 40%, Q 20%, R 15%, S 10%, T 10%, U 5%.)*
+    options:
+      A: "23500"
+      B: "22000"
+      C: "24125"
+      D: "25000"
+    answer: C
+    explanation: T cars = 15% of 3,50,000 + 10% of 4,40,000 = 52,500 + 44,000 = 96,500. 25% of these unsold = 24,125.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q053
+    difficulty: medium
+    stem: |-
+      The table given below shows the number of working days of a company in 5 years.
+
+      | Years | Working days |
+      |---|---|
+      | P | 110 |
+      | Q | 310 |
+      | R | 160 |
+      | S | 60 |
+      | T | 210 |
+
+      What are ratio of number of working days in year R to the number of working days in year T?
+    options:
+      A: "16 : 21"
+      B: "15 : 22"
+      C: "21 : 17"
+      D: "21 : 16"
+    answer: A
+    explanation: "160 : 210 = 16 : 21."
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q054
+    difficulty: medium
+    stem: The monthly income of Mr. Roy is Rs.18,000. He took a loan of Rs.30,000 on simple interest for 3 years at the rate of 5% per annum. The amount that he will be paying as simple interest in 3 years is what percent of his monthly salary?
+    options:
+      A: 30%
+      B: 35%
+      C: 20%
+      D: 25%
+    answer: D
+    explanation: SI = 30000 × 5 × 3/100 = 4500, which is 4500/18000 = 25% of his monthly income.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q055
+    difficulty: medium
+    stem: "When m¹²– 1 is divided by m + 1, the remainder is:"
+    options:
+      A: "1"
+      B: "2"
+      C: "0"
+      D: –1
+    answer: C
+    explanation: "By the remainder theorem, put m = −1: (−1)¹² − 1 = 0."
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q056
+    difficulty: medium
+    stem: |-
+      The table given below shows the number of salesman in five companies.
+
+      | Companies | Salesman |
+      |---|---|
+      | J | 45 |
+      | K | 20 |
+      | L | 40 |
+      | M | 15 |
+      | N | 25 |
+
+      Number of salesman in J is what percent of the number of salesman in K?
+    options:
+      A: 250 percent
+      B: 150 percent
+      C: 125 percent
+      D: 225 percent
+    answer: D
+    explanation: 45/20 × 100 = 225%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q057
+    difficulty: medium
+    stem: Ramesh purchases a table and a chair for Rs.3,900. He sells the table at a profit of 8% and the chair at a profit of 16%. He earns a profit of Rs.540. What is the difference between the original price of the table and the chair?
+    options:
+      A: Rs.2,000
+      B: Rs.1,800
+      C: Rs.1,900
+      D: Rs.1,700
+    answer: B
+    explanation: 0.08T + 0.16C = 540 and T + C = 3900. Taking 8% of 3900 (= 312) away from 540 leaves 0.08C = 228, so C = 2850 and T = 1050. The difference is Rs 1800.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q058
+    difficulty: medium
+    stem: |-
+      Which of the following statement is correct?
+
+      I. If x =12, y = –2 and z = –10, then x³ + y³ + z³ = 360.
+
+      II. If x + y = 48 and 4xy = 128, then 4x² + 4y² = 4480.
+    options:
+      A: Neither I nor II
+      B: Only I
+      C: Both I and II
+      D: Only II
+    answer: A
+    explanation: "I: x + y + z = 0, so x³ + y³ + z³ = 3xyz = 720, not 360. II: xy = 32, so x² + y² = 48² − 64 = 2240 and 4(x² + y²) = 8960, not 4480. Neither is correct."
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q059
+    difficulty: medium
+    stem: The number of units manufactured by a company A was 12500 units in 2019 and 10625 units in 2020. While in company B, the production fell from 34000 units in 2019 to 30600 units in 2020. If X and Y are the percentage decrease in the number of units manufactured by company A and B respectively from 2019 to 2020, then what will be the ratio of X and Y?
+    options:
+      A: "5 : 3"
+      B: "3 : 4"
+      C: "3 : 2"
+      D: "8 : 5"
+    answer: C
+    explanation: "A fell by 1875/12500 = 15% and B by 3400/34000 = 10%, so X : Y = 3 : 2."
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q060
+    difficulty: medium
+    stem: |-
+      Study the given graph and answer the following question.
+
+      The number of lecturers recruited in state B in the year 2019 was what percentage of the number of lecturers recruited in state C in the year 2021? (Correct to 2 decimal places.)
+
+      *(Figure: Bar chart ‘Number of Lecturers recruited (in hundreds) in three different states in five different years’ (A, B, C). 2017: A 10, B 14, C 22. 2018: A 23, B 52, C 48. 2019: A 52, B 22, C 56. 2020: A 15, B 58, C 35. 2021: A 75, B 55, C 38.)*
+    options:
+      A: 56.25%
+      B: 50.25%
+      C: 48.62%
+      D: 57.89%
+    answer: D
+    explanation: B in 2019 = 22 and C in 2021 = 38 (hundreds); 22/38 × 100 = 57.89%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q061
+    difficulty: medium
+    stem: The circumference of the two circles is 110 cm and 330 cm respectively. What is the difference between their radii?
+    options:
+      A: 70 cm
+      B: 15 cm
+      C: 46 cm
+      D: 35 cm
+    answer: D
+    explanation: The circumferences differ by 220 = 2π(r₂ − r₁), so r₂ − r₁ = 220 × 7/44 = 35 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q062
+    difficulty: medium
+    stem: If K + 1/K + 2 = 0 and K < 0, then what is the value of K¹¹ + 1/K⁴ ?
+    options:
+      A: "0"
+      B: –2
+      C: –1
+      D: –17
+    answer: A
+    explanation: K + 1/K = −2 gives K = −1, so K¹¹ + 1/K⁴ = −1 + 1 = 0.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q063
+    difficulty: medium
+    stem: If sec²A + tan²A = 3, then what is the value of cot A?
+    options:
+      A: 1/√3
+      B: "0"
+      C: "1"
+      D: √3
+    answer: C
+    explanation: sec²A + tan²A = 1 + 2tan²A = 3, so tan A = 1 and cot A = 1.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q064
+    difficulty: medium
+    stem: An article costs Rs.4,000 to a shopkeeper, who marks its price at Rs.8,400. The shopkeeper sells it to a customer at a discount of 25%. The customer gets a further discount of 15% on the discounted price if the customer redeems a coupon issued by the store previously. What is the profit percentage (to the nearest integer) earned by the shopkeeper in this transaction?
+    options:
+      A: 34%
+      B: 51%
+      C: 42%
+      D: 36%
+    answer: A
+    explanation: Selling price = 8400 × 0.75 × 0.85 = 5355, so the profit is 1355/4000 = 33.9% ≈ 34%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q065
+    difficulty: medium
+    stem: If the numerical value of twice the curved surface area of a right circular cylinder is equal to the numerical value of its volume, then what is the numerical value of the radius of the base of the cylinder?
+    options:
+      A: "2"
+      B: "3"
+      C: "5"
+      D: "4"
+    answer: D
+    explanation: 2 × 2πrh = πr²h gives r = 4.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q066
+    difficulty: medium
+    stem: If x + 1/x = 6, then find the value of 3x/(2x² − 5x + 2).
+    options:
+      A: "1"
+      B: 3/7
+      C: 2/3
+      D: "0"
+    answer: B
+    explanation: "Dividing top and bottom by x: 3/(2(x + 1/x) − 5) = 3/(12 − 5) = 3/7."
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q067
+    difficulty: medium
+    stem: The hour hand moves through 4 hours and has a length of 6 cm. Find the area (in cm²,rounded off to two decimal places) of the sector covered by the hour hand.
+    options:
+      A: "32.69"
+      B: "30.67"
+      C: "37.71"
+      D: "35.75"
+    answer: C
+    explanation: 4 hours = 120°, so the area is (120/360) × (22/7) × 6² = 37.71 cm².
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q068
+    difficulty: medium
+    stem: "If θ is an acute angle and tan θ + cot θ =2, then the value of tan²⁰⁰θ + cot²⁰⁰θ is:"
+    options:
+      A: "1"
+      B: "2"
+      C: −1
+      D: "0"
+    answer: B
+    explanation: tan θ + cot θ = 2 only when tan θ = 1, so tan²⁰⁰θ + cot²⁰⁰θ = 1 + 1 = 2.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q069
+    difficulty: medium
+    stem: |-
+      In the figure BCDE is a square and ∆ABC is equilateral triangle then ∠ADC is:
+
+      *(Figure: Square BCDE with B top-left, C top-right, D bottom-right, E bottom-left; equilateral triangle ABC drawn on top side BC with apex A above; lines AE and AD drawn.)*
+    options:
+      A: 45°
+      B: 30°
+      C: 60°
+      D: 15°
+    answer: D
+    explanation: ∠ACD = 60° + 90° = 150° and CA = CD (both equal the side), so ∠ADC = (180° − 150°)/2 = 15°.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q070
+    difficulty: medium
+    stem: "Salaries of Rida and Riya are in the ratio of 3 : 5, respectively. If the salary of each one is increased by Rs.5,000, then the new ratio becomes 5 : 7. What is Riya’s present salary?"
+    options:
+      A: Rs.12,500
+      B: Rs.7,500
+      C: Rs.2,500
+      D: Rs.10,000
+    answer: A
+    explanation: (3x + 5000)/(5x + 5000) = 5/7 gives x = 2500, so Riya's salary = 5x = Rs 12,500.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q071
+    difficulty: medium
+    stem: Ram, Shyam, Rohan, Reeta and Mukesh are five members of a family who are weighed consecutively and their average weight is calculated after each member is weighed. If the average weight increases by 2 kg each time, how much heavier is Mukesh than Ram?
+    options:
+      A: 14 kg
+      B: 18 kg
+      C: 16 kg
+      D: 12 kg
+    answer: C
+    explanation: With the average rising by 2 each time, Mukesh = 5(a + 8) − 4(a + 6) = a + 16, where a is Ram's weight. So Mukesh is 16 kg heavier.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q072
+    difficulty: medium
+    stem: A is 20% more efficient than B. How much time will they working together take to complete a job which A alone could have done in 29 days?
+    options:
+      A: 145/11
+      B: 116/11
+      C: 203/11
+      D: 174/11
+    answer: D
+    explanation: Take A's efficiency as 6 and B's as 5. The work = 29 × 6 = 174, so together they take 174/11 days.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q073
+    difficulty: medium
+    stem: "Determine the LCM of two numbers if their HCF is 9 and their ratio is 14 : 19."
+    options:
+      A: "2394"
+      B: "3990"
+      C: "1596"
+      D: "3192"
+    answer: A
+    explanation: The numbers are 9 × 14 and 9 × 19, so their LCM = 9 × 14 × 19 = 2394.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q074
+    difficulty: medium
+    stem: In ∆PQR, ∠Q = 90°, PQ=8 cm and ∠PRQ=45°. Find the length of QR.
+    options:
+      A: 6 cm
+      B: 3 cm
+      C: 5 cm
+      D: 8 cm
+    answer: D
+    explanation: With ∠R = 45° and ∠Q = 90°, the triangle is isosceles, so QR = PQ = 8 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-12-13-s1-q076
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      One of the students is always / late to the class; he has been warn / by the teacher many times; / but still, he keeps on being late.
+    options:
+      A: One of the students is always
+      B: but still, he keeps on being late
+      C: by the teacher many times;
+      D: late to the class; he has been warn
+    answer: D
+    explanation: "The passive needs the past participle: 'he has been warned'."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the word segment that substitutes (replaces) the bracketed word segment correctly and completes the sentence meaningfully.
+
+      The percentage of employees who called in sick and the number of employees who left their jobs within 2 years (were reflective of the level of job satisfaction).
+    options:
+      A: are reflective of the level of job satisfaction
+      B: is reflective of the level of job satisfaction
+      C: has reflected the level of job satisfaction
+      D: were reflective on the level of job satisfaction
+    answer: A
+    explanation: The subject is two nouns joined by 'and' (the percentage … and the number …), so it takes the plural 'are'. 'Reflective of' is the correct phrase.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q078
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. Omnivores get energy and nutrients from plant and animal materials by digesting carbs, protein, fat and fibre and metabolising the nutrients and energy of the sources ingested.
+
+      B. The many diverse animals categorised as omnivores may be divided into sub-categories based on their dietary habits.
+
+      C. An omnivore is an animal that can feed and thrive on both, plant and animal substances.
+
+      D. They also have the capacity to integrate food sources like algae, fungus and bacteria into their diet.
+    options:
+      A: CABD
+      B: ACDB
+      C: CADB
+      D: DCBA
+    answer: C
+    explanation: C defines an omnivore, A says how it gets its energy, D adds ('also') other foods, and B moves on to sub-categories.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word in the following sentence.
+
+      Roads in villages during rainy seasons become **muddy.**
+    options:
+      A: fuzzy
+      B: filthy
+      C: blurred
+      D: unsoiled
+    answer: B
+    explanation: Muddy roads are dirty, or 'filthy'.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word.
+
+      The poet managed to paint a **vivid** picture of the landscape by the river through words.
+    options:
+      A: Metaphoric
+      B: Evocative
+      C: Contemporary
+      D: Blurred
+    answer: B
+    explanation: A vivid picture is one that brings strong images to mind, so it is 'evocative'.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      I was fascinated by the novel.
+    options:
+      A: The novel was fascinated to me.
+      B: The novel fascinated me.
+      C: The novel fascinate me.
+      D: The novel fascinates me.
+    answer: B
+    explanation: "'Was fascinated' is simple past passive, so the active form is 'The novel fascinated me'."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the INCORRECTLY spelt word in the following sentence.
+
+      There lies no guarantee that the hierchical structural framework between the elite and downtrodden sections of the society is right.
+    options:
+      A: hierchical
+      B: guarantee
+      C: structural
+      D: downtrodden
+    answer: A
+    explanation: The correct spelling is 'hierarchical'.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q083
+    difficulty: medium
+    stem: Select the sentences that contains no spelling errors.
+    options:
+      A: Diabeties is a chronic disease.
+      B: Diabetes is a chronic disease.
+      C: Daibetes is a chronic disease.
+      D: Diabites is a chronic disease.
+    answer: B
+    explanation: The correct spelling is 'Diabetes'.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      The man who / was committed / the theft last night / was caught this evening.
+    options:
+      A: was caught this evening.
+      B: was committed
+      C: The man who
+      D: the theft last night
+    answer: B
+    explanation: The man did the act himself, so it needs the active 'who committed', not 'was committed'.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      Health club membership has grown **by leaps and bounds** after the pandemic.
+    options:
+      A: slowly and gradually
+      B: full of speed and excitement
+      C: hurriedly
+      D: very quickly
+    answer: D
+    explanation: "'By leaps and bounds' means very quickly."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Steer clear of
+    options:
+      A: Show someone how to do a job or activity
+      B: Be very easy
+      C: Avoid someone or something because it is dangerous for you
+      D: Be mentally and physically exhausted
+    answer: C
+    explanation: To 'steer clear of' something is to avoid it.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution’.
+
+      The students decided to surprise **their teacher on her birthday**.
+    options:
+      A: their teacher at her birthday
+      B: there teacher on her birthday
+      C: her teacher  on her birthday
+      D: No substitution
+    answer: D
+    explanation: "'Surprise their teacher on her birthday' is already correct."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      The driver was taken to the nearest dispensary by the beggars.
+    options:
+      A: The beggars take the driver to the nearest dispensary.
+      B: The beggars took the driver to dispensary.
+      C: The beggars took the driver to the nearest dispensary.
+      D: To the nearest dispensary, the beggars took the driver.
+    answer: C
+    explanation: "'Was taken' (past passive) becomes 'took' in the active, and the full phrase 'the nearest dispensary' is kept."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      He **was sitting besides his** best friend during the event.
+    options:
+      A: was sitting about his
+      B: was sitting beside his
+      C: were sitting besides his
+      D: was sitting besides her
+    answer: B
+    explanation: "'Beside' means next to; 'besides' means in addition to."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word in the given sentence.
+
+      The efforts of the doctors came to a **futile** end with the death of the patient.
+    options:
+      A: Fruitless
+      B: Enriching
+      C: Startling
+      D: Terrifying
+    answer: A
+    explanation: Futile means fruitless, producing no result.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q091
+    difficulty: medium
+    stem: |-
+      Complete the following collocation.
+
+      When I got the job, I knew what _______ money really is.
+    options:
+      A: effort-earned
+      B: soft-earned
+      C: hard-earned
+      D: honest-earned
+    answer: C
+    explanation: "'Hard-earned money' is the standard collocation."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q092
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      Russell Wilson, an NFL
+
+      P. about Naomi Osaka saying that her
+
+      Q. has been spectacular to watch
+
+      R. humility and dedication to others
+
+      S. player for the Seattle Seahawks, wrote
+    options:
+      A: SPRQ
+      B: PRQS
+      C: RPQS
+      D: QPRS
+    answer: A
+    explanation: Russell Wilson, an NFL (S) player for the Seattle Seahawks, wrote (P) about Naomi Osaka saying that her (R) humility and dedication to others (Q) has been spectacular to watch.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate collocating word to fill in the blank.
+
+      This statement of the political leader has created________confusion.
+    options:
+      A: utter
+      B: heavy
+      C: weighty
+      D: vast
+    answer: A
+    explanation: "'Utter confusion' is the standard collocation."
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word.
+
+      Marcella seemed **morose** and downcast when she refused to have dinner.
+    options:
+      A: Jocund
+      B: Excited
+      C: Gloomy
+      D: Liberal
+    answer: C
+    explanation: Morose means sullen and gloomy.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the correct direct form of the given sentence.
+
+      Shravan said that the prisoner had slept throughout the journey.
+    options:
+      A: Shravan said, ‘The prisoner sleeps throughout the journey.’
+      B: Shravan said, ‘The prisoner had been sleeping throughout the journey.’
+      C: Shravan says, ‘The prisoner has slept throughout the journey.’
+      D: Shravan said, ‘The prisoner had slept throughout the journey.’
+    answer: D
+    explanation: A past perfect verb stays past perfect when changed back to direct speech, so 'The prisoner had slept throughout the journey.'
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Comics have (1) ________ many superheroes. Bantul, the great was (2) ________ in the year 1965 in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964 and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976 wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga and Shakti together called Brahman Rakshak (protectors of the universe).
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: built
+      B: produced
+      C: fabricated
+      D: manufactured
+    answer: B
+    explanation: Comics have 'produced' many superheroes.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Comics have (1) ________ many superheroes. Bantul, the great was (2) ________ in the year 1965 in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964 and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976 wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga and Shakti together called Brahman Rakshak (protectors of the universe).
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: generated
+      B: inspired
+      C: promoted
+      D: created
+    answer: D
+    explanation: A character is 'created'.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Comics have (1) ________ many superheroes. Bantul, the great was (2) ________ in the year 1965 in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964 and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976 wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga and Shakti together called Brahman Rakshak (protectors of the universe).
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: employed
+      B: ordered
+      C: contracted
+      D: authorised
+    answer: A
+    explanation: Indrajal Comics 'employed' Aabid Surti.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Comics have (1) ________ many superheroes. Bantul, the great was (2) ________ in the year 1965 in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964 and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976 wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga and Shakti together called Brahman Rakshak (protectors of the universe).
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: invaded
+      B: penetrated
+      C: entered
+      D: pierced
+    answer: C
+    explanation: Raj Comics 'entered' into this sphere.
+    tags:
+      - english
+  - slug: cgl-2022-12-13-s1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Comics have (1) ________ many superheroes. Bantul, the great was (2) ________ in the year 1965 in the backdrop of the Indo-Pak war. Indrajal comics was set up in 1964 and (3) __________ Aabid Surti, who gave birth to a character called Bhadur in 1976 wearing kurta and jeans. Raj comics too (4) ________ into this sphere with their (5) ________ toons Nagraj, Tiranga and Shakti together called Brahman Rakshak (protectors of the universe).
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: noted
+      B: influential
+      C: famous
+      D: good
+    answer: C
+    explanation: "'Famous toons' such as Nagraj suits the context."
+    tags:
+      - english

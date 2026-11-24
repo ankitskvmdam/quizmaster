@@ -1,0 +1,1392 @@
+slug: 2022-12-06-shift3
+title: SSC CGL 2022 Tier 1
+date: 2022-12-06
+label: 6 Dec, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via adda247.com — https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07132743/6-Dec-2.30PM-EN.pdf). Left out (picture-only options or incomplete in the source): Q1, Q2, Q5, Q6, Q11, Q23."
+questions:
+  - slug: cgl-2022-12-06-s3-q003
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.
+
+      OILS : UNLS :: PAIN : PKDT :: QUIK : ?
+    options:
+      A: MLXU
+      B: MKXV
+      C: MLYV
+      D: MKXU
+    answer: D
+    explanation: "Reverse the cluster, then add +2, +2, +3, +4: OILS → SLIO → UNLS; PAIN → NIAP → PKDT. QUIK → KIUQ → MKXU."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q004
+    difficulty: medium
+    stem: |-
+      Three statements are given followed by three conclusions numbered I, II and III.
+
+      Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      All javascript are binary.
+
+      All binary are minecraft.
+
+      All roblox are minecraft.
+
+      Conclusions:
+
+      I. Some javascript are roblox.
+
+      II. Some javascript are minecraft.
+
+      III. All javascript are minecraft.
+    options:
+      A: Only conclusions I and III follow
+      B: Only conclusions I and II follow
+      C: All conclusions follow
+      D: Only conclusions II and III follow
+    answer: D
+    explanation: All javascript are binary and all binary are minecraft, so all (and hence some) javascript are minecraft. Nothing links javascript to roblox.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q007
+    difficulty: medium
+    stem: |-
+      Which letter cluster will replace the question mark (?) to complete the given series?
+
+      ZUPK, YTOJ, ?, WRMH, VQLG
+    options:
+      A: XSNI
+      B: XSMI
+      C: XSNJ
+      D: XTNI
+    answer: A
+    explanation: "Every letter moves back 1 each step: ZUPK → YTOJ → XSNI → WRMH → VQLG."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q008
+    difficulty: medium
+    stem: |-
+      Which of the following interchange of numbers and signs would make the given equation correct?
+
+      10 − 4 ÷ 20 + 16 × 8 = 16
+    options:
+      A: 10 and 16, × and ÷
+      B: 4 and 8, × and−
+      C: 4 and 20, + and ÷
+      D: 10 and 20, + and ×
+    answer: B
+    explanation: "Swapping 4 and 8, and × and −: 10 × 8 ÷ 20 + 16 − 4 = 4 + 16 − 4 = 16."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q009
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fourth term in the same way as the first term is related to the second term and the fifth term is related to the sixth term.
+
+      47 : 9 :: ? : 14 :: 92 : 18
+    options:
+      A: "72"
+      B: "73"
+      C: "37"
+      D: "27"
+    answer: A
+    explanation: "Second = (first − 2)/5: (47 − 2)/5 = 9, (92 − 2)/5 = 18. So ? = 14 × 5 + 2 = 72."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q010
+    difficulty: medium
+    stem: |-
+      If ‘+’ means ‘÷’, ‘–’ means ‘+’, ‘×’ means ‘–’ and ‘÷’ means ‘×’, what will be the value of the following expression?
+
+      [{(32 × 20) - (2 ÷ 3)} + (2 - 4)] ÷ 3
+    options:
+      A: "8"
+      B: "10"
+      C: "9"
+      D: "6"
+    answer: C
+    explanation: "After replacing signs: [{(32 − 20) + (2 × 3)} ÷ (2 + 4)] × 3 = (18 ÷ 6) × 3 = 9."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q012
+    difficulty: medium
+    stem: |-
+      Which number will replace the question mark (?) in the following series?
+
+      27, 29, ?, 182, 730, 3652
+    options:
+      A: "58"
+      B: "110"
+      C: "122"
+      D: "60"
+    answer: D
+    explanation: "Multiply by 1, 2, 3, 4, 5 and add 2: 27 → 29 → 60 → 182 → 730 → 3652."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q013
+    difficulty: medium
+    stem: |-
+      By Interchanging the given two numbers which of the following equation will be correct?
+
+      1 and 7
+    options:
+      A: 7 × 2 + 1 – 5 = 6
+      B: 1 × 2 – 7 + 8 ÷ 2 = 16
+      C: 7 + 1 × 2 – 6 ÷ 3 = 13
+      D: 7 + 6 ÷ 3 – 5 × 1 = – 10
+    answer: C
+    explanation: "Swapping 1 and 7 in C: 1 + 7 × 2 − 6 ÷ 3 = 1 + 14 − 2 = 13."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q014
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are NOT related in the same way as are the numbers of the given set.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+
+      (16, 7, 112)
+    options:
+      A: (18, 3, 54)
+      B: (14, 5, 70)
+      C: (22, 7, 154)
+      D: (26, 5, 132)
+    answer: D
+    explanation: "The third number is the product of the first two: 16 × 7 = 112. In D, 26 × 5 = 130, not 132."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q015
+    difficulty: medium
+    stem: |-
+      ‘A @ B’ means ‘A is the husband of B’.
+
+      ‘A & B’ means ‘A is the mother of B’.
+
+      ‘A # B’ means ‘B is the daughter of A’.
+
+      If D # E # F & G @ H # I, then how is G related to E?
+    options:
+      A: Daughter
+      B: Son
+      C: Father
+      D: Daughter’s son
+    answer: D
+    explanation: E is D's daughter, F is E's daughter, G is F's child and is a husband (male). So G is E's daughter's son.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q016
+    difficulty: medium
+    stem: If A + B means that A is the father of B, A –B means that A is the mother of B, A × B means that A is the brother of B then which of the following expression shows that Q is the son of P?
+    options:
+      A: P – R × Q
+      B: Q – P × R
+      C: P – Q + R
+      D: P – Q × R
+    answer: D
+    explanation: "P – Q × R: P is the mother of Q and Q is the brother of R, so Q is the son of P."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q017
+    difficulty: medium
+    stem: |-
+      After arranging the given words according to dictionary order, which word will come at ‘Third’ position?
+
+      1. Oblivion
+
+      2. Oblique
+
+      3. Oblige
+
+      4. Oblate
+
+      5. Oblong
+    options:
+      A: Oblate
+      B: Oblique
+      C: Oblige
+      D: Oblivion
+    answer: B
+    explanation: "Dictionary order: Oblate, Oblige, Oblique, Oblivion, Oblong. The third word is Oblique."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q018
+    difficulty: medium
+    stem: |-
+      Three of the following four letter-clusters are alike in a certain way and one is different.
+
+      Pick the odd one out.
+    options:
+      A: IJM
+      B: ABE
+      C: XYA
+      D: EFI
+    answer: C
+    explanation: IJM, ABE and EFI follow +1, +3 (I J M). XYA is +1, +2 (X Y Z A would need B).
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q019
+    difficulty: medium
+    stem: "Select the odd group of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)"
+    options:
+      A: 20 – 406
+      B: 14 – 200
+      C: 10 – 106
+      D: 12 – 150
+    answer: B
+    explanation: "Second = first² + 6: 20² + 6 = 406, 10² + 6 = 106, 12² + 6 = 150. But 14² + 6 = 202, not 200."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q020
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)
+
+      Cricket : Pitch :: Badminton : ?
+    options:
+      A: Track
+      B: Field
+      C: Court
+      D: Pool
+    answer: C
+    explanation: Cricket is played on a pitch; badminton is played on a court.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q021
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+      12 : 120 :: 20 : 360 :: 3 : ?
+    options:
+      A: "15"
+      B: "32"
+      C: "7"
+      D: "3"
+    answer: D
+    explanation: "Second = first × (first − 2): 12 × 10 = 120, 20 × 18 = 360. So 3 × 1 = 3."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q022
+    difficulty: medium
+    stem: In a certain code language, 'GLAND’ is written as 'GQDOJ' and 'MEANS' is written as 'VQDHP'. How will 'CYSTS' be written in that language?
+    options:
+      A: VWVCF
+      B: FBVWV
+      C: UVUAE
+      D: VWVBF
+    answer: D
+    explanation: "Reverse the word, then move each letter +3: GLAND → DNALG → GQDOJ. CYSTS → STSYC → VWVBF."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q024
+    difficulty: medium
+    stem: In a certain code language, ‘birds are flying’ is coded as '536', ‘the nest is big’ is coded as '3423' and ‘close the door’ is coded as '534'. How will ‘complete your work’ be coded in that language?
+    options:
+      A: "844"
+      B: "484"
+      C: "733"
+      D: "955"
+    answer: A
+    explanation: "Each word is coded by its number of letters: birds are flying = 5 3 6. So complete your work = 8 4 4."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q025
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:
+
+      I. No A is D.
+
+      II. All D are E.
+
+      Conclusions:
+
+      I. No D is A.
+
+      II. Some E are D.
+    options:
+      A: Neither conclusion follows
+      B: Both conclusions I and II follows
+      C: Only conclusion II follows
+      D: Only conclusion I follows
+    answer: B
+    explanation: '"No A is D" converts to "No D is A", and "All D are E" gives "Some E are D". Both follow.'
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-06-s3-q026
+    difficulty: medium
+    stem: What is the difference in the number of years between the summer and winter Olympic events?
+    options:
+      A: "1"
+      B: "2"
+      C: "4"
+      D: "3"
+    answer: B
+    explanation: The Summer and Winter Olympics each happen every 4 years, staggered so that one of them is held every 2 years.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q027
+    difficulty: medium
+    stem: Battle of Plassey was fought between English company and Nawab of Bengal in which year?
+    options:
+      A: "1750"
+      B: "1757"
+      C: "1850"
+      D: "1857"
+    answer: B
+    explanation: The Battle of Plassey was fought on 23 June 1757 between the East India Company and Siraj-ud-Daulah.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q028
+    difficulty: medium
+    stem: Which of the following countries hosted the 2022 Asian Wresting Championships where Ravi Dahiya became the first Indian freestyle wrestler to win a hat-trick of gold medals?
+    options:
+      A: Almaty, Kazakhstan
+      B: New Delhi, India
+      C: Ulaanbaatar, Mongolia
+      D: Xi'an, China
+    answer: C
+    explanation: The 2022 Asian Wrestling Championships were held in Ulaanbaatar, Mongolia, where Ravi Dahiya won his third straight gold.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q029
+    difficulty: medium
+    stem: |-
+      In April 2022, ‘SVANidhi se Samriddhi’ program was launched in additional 126 cities.
+
+      This program provides ________.
+    options:
+      A: insurance cover
+      B: scholarships to students
+      C: hospital facilities
+      D: social security benefits
+    answer: D
+    explanation: SVANidhi se Samriddhi profiles PM SVANidhi street vendors and their families and links them to central social security and welfare schemes.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q030
+    difficulty: medium
+    stem: In which of the following state of India, coniferous trees are found?
+    options:
+      A: Uttarakhand
+      B: Bihar
+      C: Uttar Pradesh
+      D: Madhya Pradesh
+    answer: A
+    explanation: Coniferous forests (pine, deodar, fir) grow in the Himalayan region, e.g. Uttarakhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q031
+    difficulty: medium
+    stem: |-
+      Which of the following is natural acid-base indicator?
+
+      I. Litmus
+
+      II. Turmeric
+    options:
+      A: Only II
+      B: Only I
+      C: Neither I nor II
+      D: Both I and II
+    answer: D
+    explanation: Litmus (from lichens) and turmeric are both natural acid-base indicators.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q032
+    difficulty: medium
+    stem: |-
+      Which of the following objectives of NAMASTE scheme launched by the centre in August 2022 is correct?
+
+      I. Zero fatalities in sanitation work in India
+
+      II. Sanitation workers are collectivized into SHGs and are empowered to run sanitation enterprises
+    options:
+      A: Both I and II
+      B: Only II
+      C: Only I
+      D: Neither I nor II
+    answer: A
+    explanation: NAMASTE aims at zero fatalities in sanitation work and at collectivising sanitation workers into SHGs to run sanitation enterprises.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q033
+    difficulty: medium
+    stem: Who among the following was the first Indian female musician to win the Grammy award?
+    options:
+      A: Neeti Mohan
+      B: Tanvi Shah
+      C: Shweta Pandit
+      D: Shalmali Kholgade
+    answer: B
+    explanation: Tanvi Shah became the first Indian woman to win a Grammy (2010) for "Jai Ho" from Slumdog Millionaire.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q034
+    difficulty: medium
+    stem: According to census 2011, number of literates in India is ______ million.
+    options:
+      A: "767.5"
+      B: "765.5"
+      C: "769.5"
+      D: "763.5"
+    answer: D
+    explanation: Census 2011 counted about 763.5 million literates in India.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q035
+    difficulty: medium
+    stem: Identify the function of plasmid DNA.
+    options:
+      A: None of the given options are correct
+      B: To form blood cells
+      C: To confer certain unique phenotypic characters to bacteria
+      D: To help in the formation of rRNA
+    answer: C
+    explanation: Plasmids are extra-chromosomal DNA that give bacteria special traits such as antibiotic resistance.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q036
+    difficulty: medium
+    stem: When, for the first time, did the Election Commission of India become a multi-member body?
+    options:
+      A: "1995"
+      B: "1985"
+      C: "1989"
+      D: "1994"
+    answer: C
+    explanation: The Election Commission first became multi-member on 16 October 1989, when two more Election Commissioners were appointed.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q037
+    difficulty: medium
+    stem: Krishna III of Manyakheta belonged to which dynasty?
+    options:
+      A: Chera
+      B: Pala
+      C: Rashtrakuta
+      D: Gurjara-Pratihara
+    answer: C
+    explanation: Krishna III, with his capital at Manyakheta, was a Rashtrakuta king.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q038
+    difficulty: medium
+    stem: Who among the following was the first recipient of the State annual award Nishagandhi Puraskaram from the Government of Kerala in 2013?
+    options:
+      A: Madhavi Mudgal
+      B: Shobana C Pillai
+      C: Uday Shankar
+      D: Mrinalini Sarabhai
+    answer: D
+    explanation: The first Nishagandhi Puraskaram (Kerala Tourism, 2013) was given to dancer Mrinalini Sarabhai.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q039
+    difficulty: medium
+    stem: Which of the following dance forms did NOT originate in South India?
+    options:
+      A: Kathakali
+      B: Kuchipudi
+      C: Sattriya
+      D: Bharatanatyam
+    answer: C
+    explanation: Sattriya is a classical dance of Assam; Kathakali, Kuchipudi and Bharatanatyam are South Indian.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q040
+    difficulty: medium
+    stem: Who among the following won a Padma Vibhushan award in year 1971?
+    options:
+      A: Rajee Narayan
+      B: S Swaminathan
+      C: Devjani Chaliha
+      D: Uday Shankar
+    answer: D
+    explanation: Dancer Uday Shankar received the Padma Vibhushan in 1971.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q041
+    difficulty: medium
+    stem: The fundamental duty of a parent or guradian to provide opportunities for education to his child or, as the case may be, ward between the age of 6 and ______.
+    options:
+      A: "20"
+      B: "14"
+      C: "18"
+      D: "16"
+    answer: B
+    explanation: Article 51A(k) (86th Amendment, 2002) asks parents or guardians to provide education to children aged 6 to 14.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q042
+    difficulty: medium
+    stem: Which of the following is NOT associated with Aryabhata?
+    options:
+      A: Stated that day and night were caused by the rotation of the earth on its axis.
+      B: Developed a scientific explanation for eclipses
+      C: Found a way of calculating the circumference of a circle
+      D: Spoke about elaborate surgical procedures
+    answer: D
+    explanation: Aryabhata explained Earth's rotation, eclipses and the circumference of a circle; surgical procedures are from Sushruta.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q043
+    difficulty: medium
+    stem: The Sahara Desert is located in which of the following continent?
+    options:
+      A: South America
+      B: North America
+      C: Africa
+      D: Australia
+    answer: C
+    explanation: The Sahara, the largest hot desert, is in northern Africa.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q044
+    difficulty: medium
+    stem: Which of the following is NOT a part of the institutional structure of rural banking?
+    options:
+      A: Moneylenders
+      B: Regional rural banks
+      C: Commercial banks
+      D: Cooperative and land development banks
+    answer: A
+    explanation: Institutional rural credit comes from cooperatives and land development banks, commercial banks and RRBs; moneylenders are non-institutional.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q045
+    difficulty: medium
+    stem: Who among the following proposed the term ‘ecosystem’?
+    options:
+      A: AG Tansely
+      B: Grinnel
+      C: Lindeman
+      D: Turreson
+    answer: A
+    explanation: A.G. Tansley coined the term "ecosystem" in 1935.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q046
+    difficulty: medium
+    stem: How many anions surround a sodium ion in a crystal lattice of sodium chloride?
+    options:
+      A: Six
+      B: Eight
+      C: Seven
+      D: Nine
+    answer: A
+    explanation: In NaCl each Na⁺ is surrounded by six Cl⁻ ions (octahedral, coordination number 6).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q047
+    difficulty: medium
+    stem: The Balance of Payment Account of an economy is related to the ____________.
+    options:
+      A: agriculture sector
+      B: external sector
+      C: government sector
+      D: private sector
+    answer: B
+    explanation: The Balance of Payments records a country's transactions with the rest of the world, i.e. the external sector.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q048
+    difficulty: medium
+    stem: Identify the step that is NOT a part of decomposition.
+    options:
+      A: Leaching
+      B: Humification
+      C: Catabolism
+      D: Soil erosion
+    answer: D
+    explanation: Decomposition has fragmentation, leaching, catabolism, humification and mineralisation; soil erosion is not a step.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q049
+    difficulty: medium
+    stem: Who among the following has launched the US Startup SETU programme?
+    options:
+      A: Amit Shah
+      B: Yogi Adityanath
+      C: Nitin Gadkari
+      D: Piyush Goyal
+    answer: D
+    explanation: Commerce Minister Piyush Goyal launched the Startup "SETU" programme in the US (San Francisco) in September 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q050
+    difficulty: medium
+    stem: Nagabhata was the king of which of the following dynasty?
+    options:
+      A: Kakatiya
+      B: Vardhana
+      C: Pratihara
+      D: Reddy
+    answer: C
+    explanation: Nagabhata I and II were rulers of the Gurjara-Pratihara dynasty.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-06-s3-q051
+    difficulty: medium
+    stem: Calculate the area of a sector of a circle with radius 10 metres and angle of 90 degrees at the centre.
+    options:
+      A: 79.3 m²
+      B: 79.5 m²
+      C: 78.5 m²
+      D: 75 m²
+    answer: C
+    explanation: Area = (90/360) × π × 10² = 25π ≈ 78.5 m².
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q052
+    difficulty: medium
+    stem: |-
+      In the figure, O is the centre of the circle. Its two chords AB and CD intersect each other at the point P within the circle. If AB = 20 cm, PB = 12 cm and CP = 8 cm, then find the measure of PD.
+
+      [Figure: circle with centre O; chord AB from upper-left to lower-right and chord CD from lower-left to upper-right cross at P, just below O]
+
+      *(Figure: Circle with centre O and chords AB and CD crossing at P.)*
+    options:
+      A: 12 cm
+      B: 11 cm
+      C: 22 cm
+      D: 14 cm
+    answer: A
+    explanation: "AP = 20 − 12 = 8. Intersecting chords: AP × PB = CP × PD → 8 × 12 = 8 × PD, so PD = 12 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q053
+    difficulty: medium
+    stem: A dealer buys an article listed at ₹3,000 and gets successive discounts of 15% and 15%. He spends ₹250 on transportation and sells it at a profit of 20%. Find the selling price of the article.
+    options:
+      A: ₹3,300
+      B: ₹2,901
+      C: ₹3,250
+      D: ₹3,200
+    answer: B
+    explanation: Cost = 3000 × 0.85 × 0.85 + 250 = 2417.5; SP = 2417.5 × 1.2 = ₹2,901.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q054
+    difficulty: medium
+    stem: In a linear race of 1000 m, A beats B by 50 m or 5 seconds. What is the difference between the speeds (in m/s) of A and B?
+    options:
+      A: 1 10/19
+      B: 10/19
+      C: 9/19
+      D: 9/10
+    answer: B
+    explanation: B runs 50 m in 5 s, so B = 10 m/s and takes 100 s; A takes 95 s, so A = 200/19 m/s. Difference = 10/19 m/s.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q055
+    difficulty: medium
+    stem: |-
+      The table given below shows the cost price and selling price of 5 different articles.
+
+      | Article | Cost price | Selling price |
+      |---|---|---|
+      | A1 | 350 | 450 |
+      | A2 | 550 | 550 |
+      | A3 | 450 | 650 |
+      | A4 | 250 | 550 |
+      | A5 | 150 | 650 |
+
+      What is the ratio of cost price of A1 to the selling price of A4?
+    options:
+      A: "1 : 2"
+      B: "1 : 3"
+      C: "7 : 5"
+      D: "7 : 11"
+    answer: D
+    explanation: "CP of A1 : SP of A4 = 350 : 550 = 7 : 11."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q056
+    difficulty: medium
+    stem: The selling price of 28 items is equal to the cost price of 17 items. What is the percentage of profit or loss?
+    options:
+      A: 39 2/7% loss
+      B: 39 2/7% profit
+      C: 33 2/7% profit
+      D: 33 2/7% loss
+    answer: A
+    explanation: SP of 28 = CP of 17, so loss = 11 on 28 = 11/28 × 100 = 39 2/7% loss.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q057
+    difficulty: medium
+    stem: |-
+      If the price of petrol is increased by 28%, by what percentage should the consumption be decreased by the consumer, if the expenditure on petrol remains unchanged?
+
+      (Correct to 2 decimal places)
+    options:
+      A: 12.35%
+      B: 21.88%
+      C: 20.25%
+      D: 25.75%
+    answer: B
+    explanation: Cut in consumption = 28/128 × 100 = 21.875% ≈ 21.88%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q058
+    difficulty: medium
+    stem: A sum of money amounts to ₹767 in 3 years, and to ₹806 in 4 years on simple interest at 6% annum. What is the sum?
+    options:
+      A: ₹600
+      B: ₹560
+      C: ₹675
+      D: ₹650
+    answer: D
+    explanation: "Interest for one year = 806 − 767 = 39 = 6% of P, so P = ₹650 (check: 650 + 3 × 39 = 767)."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q059
+    difficulty: medium
+    stem: |-
+      Study the given pie-chart and answer the question that follows.
+
+      The pie-chart represents the spending of a state on various sports during a particular year.
+
+      [Pie chart: Cricket 72°, Basket Ball 59°, Golf 40°, Hockey 53°, Tennis 54°, Football 60°, Others 22°]
+
+      How much percent more is spent on cricket than on tennis(correct up to 2 decimal places)?
+
+      *(Figure: Pie chart of sports spending (degrees): Cricket 72°, Basket Ball 59°, Golf 40°, Hockey 53°, Tennis 54°, Football 60°, Others 22°.)*
+    options:
+      A: 33.33%
+      B: 32.75%
+      C: 30.35%
+      D: 28.25%
+    answer: A
+    explanation: (72 − 54)/54 × 100 = 33.33%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q060
+    difficulty: medium
+    stem: |-
+      Simplify the following.
+
+      cot13° cot27° cot45° cot63° cot77° = ?
+    options:
+      A: "1"
+      B: √3
+      C: "2"
+      D: √2
+    answer: A
+    explanation: cot13° cot77° = 1 and cot27° cot63° = 1 (complementary angles), and cot45° = 1, so the product is 1.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q061
+    difficulty: medium
+    stem: The average of eight consecutive odd numbers is 48. Find the sum of the fifth and seventh numbers.
+    options:
+      A: "102"
+      B: "86"
+      C: "89"
+      D: "90"
+    answer: A
+    explanation: The numbers are 41, 43, …, 55 (average 48). 5th + 7th = 49 + 53 = 102.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q062
+    difficulty: medium
+    stem: "The sides of a triangle are in the ratio 1/3 : 1/5 : 1/6. If the perimeter is 147 cm, then the length of the smallest side is________."
+    options:
+      A: 12 cm
+      B: 25 cm
+      C: 30 cm
+      D: 35 cm
+    answer: D
+    explanation: "1/3 : 1/5 : 1/6 = 10 : 6 : 5 (total 21). Smallest side = 5/21 × 147 = 35 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q063
+    difficulty: medium
+    stem: |-
+      Solve the following to find its value in terms of trigonometric ratios.
+
+      (sin A + cos A)(1 – sin A cosA)
+    options:
+      A: sin³A + cos³A
+      B: sin²A − cos²A
+      C: "[cosA − sin A] [sin²A + cos²A]"
+      D: sin³A − cos³A
+    answer: A
+    explanation: a³ + b³ = (a + b)(a² − ab + b²); with sin²A + cos²A = 1 this is (sinA + cosA)(1 − sinA cosA).
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q064
+    difficulty: medium
+    stem: "The ratio of the outer and the inner circumference of a circular path is 5 : 4. If path is 50 metres wide, then what is the radius of the inner circle?"
+    options:
+      A: 250 metres
+      B: 300 metres
+      C: 200 metres
+      D: 210 metres
+    answer: C
+    explanation: R/r = 5/4 and R − r = 50, so r = 4 × 50 = 200 m.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q065
+    difficulty: medium
+    stem: If 2a + 3b = 10 and ab = 3, then find the value of 4a² + 9b².
+    options:
+      A: "60"
+      B: "62"
+      C: "64"
+      D: "66"
+    answer: C
+    explanation: 4a² + 9b² = (2a + 3b)² − 12ab = 100 − 36 = 64.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q066
+    difficulty: medium
+    stem: |-
+      Study the following table and answer the question that follows.
+
+      | School Name | Total number of Student enrolled | Percentage of students who opted for statistics |
+      |---|---|---|
+      | A | 450 | 20 |
+      | B | 200 | 18 |
+      | C | 500 | 12 |
+      | D | 400 | 15 |
+
+      What is the average number of students who opted for other than statistics subject in school A and D?
+    options:
+      A: "7340"
+      B: "360"
+      C: "355"
+      D: "350"
+    answer: D
+    explanation: "A: 450 × 80% = 360; D: 400 × 85% = 340. Average = (360 + 340)/2 = 350."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q067
+    difficulty: medium
+    stem: If (4x − 7y) = 11 and xy = 8, what is the value of 16x² + 49y², given that x and y are positive numbers?
+    options:
+      A: "596"
+      B: "484"
+      C: "569"
+      D: "448"
+    answer: C
+    explanation: 16x² + 49y² = (4x − 7y)² + 56xy = 121 + 448 = 569.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q068
+    difficulty: medium
+    stem: What is the smallest perfect square which is completely divisible by each of 16, 18 and 36?
+    options:
+      A: "144"
+      B: "81"
+      C: "196"
+      D: "169"
+    answer: A
+    explanation: LCM of 16, 18, 36 = 144 = 12², already a perfect square.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q069
+    difficulty: medium
+    stem: "If sin θ = 1/2, then the value of (3cos θ − 4 cos³ θ) is:"
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: −1
+    answer: A
+    explanation: sinθ = 1/2 → θ = 30°. 3cosθ − 4cos³θ = −cos3θ = −cos90° = 0.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q070
+    difficulty: medium
+    stem: Find the mean proportion of (a³ + b³)/(a − b) and (a² − b²)/(a² − ab + b²).
+    options:
+      A: "1"
+      B: a + b
+      C: (a + b)/(a − b)
+      D: √(a + b)
+    answer: B
+    explanation: Product = [(a + b)(a² − ab + b²)/(a − b)] × [(a − b)(a + b)/(a² − ab + b²)] = (a + b)², so the mean proportional is a + b.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q071
+    difficulty: medium
+    stem: "Numbers divisible by 9 between 43 and 481 are:"
+    options:
+      A: "51"
+      B: "49"
+      C: "48"
+      D: "50"
+    answer: B
+    explanation: "Multiples of 9 from 45 (9 × 5) to 477 (9 × 53): 53 − 5 + 1 = 49."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q072
+    difficulty: medium
+    stem: "A and B can complete a piece of work in 10 and 16 days respectively. A begins to do the work and they work alternatively one at a time for one day each. The whole work will be completed in :"
+    options:
+      A: 12 1/4 days
+      B: 13 1/4 days
+      C: 15 1/4 days
+      D: 14 1/4 days
+    answer: A
+    explanation: Two days = 1/10 + 1/16 = 13/80. In 12 days 78/80 is done; A finishes the last 2/80 in 1/4 day. Total 12 1/4 days.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q073
+    difficulty: medium
+    stem: What is the value of (k − 1/k)(k² + 1/k²)(k⁴ + 1/k⁴)(k⁸ + 1/k⁸)(k¹⁶ + 1/k¹⁶)(k³² + 1/k³²) ?
+    options:
+      A: (k⁶⁴ − 1/k⁶⁴)/(k + 1/k)
+      B: (k³² − 1/k³²)/(k − 1/k)
+      C: (k³² − 1/k³²)/(k + 1/k)
+      D: (k³² + 1/k³²)/(k + 1/k)
+    answer: A
+    explanation: "Multiply and divide by (k + 1/k): each factor doubles the power, (k − 1/k)(k + 1/k) = k² − 1/k², … ending in (k⁶⁴ − 1/k⁶⁴)/(k + 1/k)."
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q074
+    difficulty: medium
+    stem: |-
+      The following pie charts show the number of start-ups started in various sectors since 2016 and the number of successful start-ups in those sectors respectively.
+
+      | Sector | Number of start-ups (since 2016) | Number of successful start-ups |
+      |---|---|---|
+      | Ed-tech | 720 | 320 |
+      | Fin-tech | 256 | 104 |
+      | Food | 650 | 260 |
+      | Travel | 324 | 108 |
+      | Entertainment | 560 | 175 |
+
+      Out of all the start-ups that started since 2016, what percentage (approx. up to two decimal places) started in travel sector?
+
+      *(Figure: Two pie charts: start-ups since 2016 (Ed-tech 720, Fin-tech 256, Food 650, Travel 324, Entertainment 560) and successful start-ups (Ed-tech 320, Fin-tech 104, Food 260, Travel 108, Entertainment 175).)*
+    options:
+      A: 13.12%
+      B: 12.19%
+      C: 12.91%
+      D: 13.21%
+    answer: C
+    explanation: Total = 720 + 256 + 650 + 324 + 560 = 2510; travel = 324/2510 × 100 ≈ 12.91%.
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q075
+    difficulty: medium
+    stem: If the volume of a sphere is 179 2/3 m³, what is its surface area?
+    options:
+      A: 221 m²
+      B: 154 m²
+      C: 144 m²
+      D: 151 m²
+    answer: B
+    explanation: (4/3)πr³ = 539/3 → r³ = 42.875, r = 3.5 m. Surface area = 4π(3.5)² = 154 m².
+    tags:
+      - quant
+  - slug: cgl-2022-12-06-s3-q076
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      When the train pulled in / at the station, it take / Joseph some time / to get off.
+    options:
+      A: When the train pulled in
+      B: at the station, it take
+      C: Joseph some time
+      D: to get off
+    answer: B
+    explanation: The sentence is in the past ("pulled in"), so "it take" should be "it took".
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q077
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Thyriod
+      B: Disaster
+      C: System
+      D: Distance
+    answer: A
+    explanation: The correct spelling is "thyroid".
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q078
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      The government will build an amphitheatre.
+    options:
+      A: An amphitheatre will be build by the government.
+      B: An amphitheatre will be built by the government.
+      C: An amphitheatre would be built by the government.
+      D: An amphitheatre be build by the government.
+    answer: B
+    explanation: Future active "will build" → passive "will be built" (past participle).
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      She acted **as if she is** the one who was hurt.
+    options:
+      A: as if she has been
+      B: as if she will be
+      C: as if she would
+      D: as if she was
+    answer: D
+    explanation: '"As if" after a past verb takes the past form: "as if she was (were) the one who was hurt".'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      A rolling stone gathers no moss
+    options:
+      A: A person who settles for a short time and runs from place to place, enjoying his freedom
+      B: A person who does not settle anywhere for a short time, and is always searching for gold
+      C: A person who settles for a long time and leads a boring and useless life
+      D: A person who does not settle in one place for a long time, does not gain wealth, name or fame
+    answer: D
+    explanation: '"A rolling stone gathers no moss": a person who keeps moving and never settles gains nothing lasting.'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q081
+    difficulty: medium
+    stem: |-
+      Choose the most appropriate meaning of the underlined word in the given sentence.
+
+      The students have decided to **conspire** to steal the test papers.
+    options:
+      A: Enact
+      B: Moderate
+      C: Plot
+      D: Assist
+    answer: C
+    explanation: To conspire is to plot secretly.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q082
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      An eccentric manner of living
+    options:
+      A: Bohemian
+      B: Numismatist
+      C: Gourmet
+      D: Misanthrope
+    answer: A
+    explanation: Bohemian describes an unconventional, eccentric way of living.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      One must aim to develop **intrinsic** motivation within learners for better retention of knowledge.
+    options:
+      A: Elemental
+      B: Introjected
+      C: Extrinsic
+      D: Inherent
+    answer: C
+    explanation: Intrinsic (from within) is the opposite of extrinsic (from outside).
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q084
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Don’t pluck the flowers.
+    options:
+      A: The flowers should not be pluck.
+      B: You are requested not to plucked the flowers.
+      C: I am requesting you to pluck the flowers.
+      D: Let the flowers not be plucked.
+    answer: D
+    explanation: 'A negative command becomes passive with "Let … not be + past participle": Let the flowers not be plucked.'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q085
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labeled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P. The demand for fish has increased.
+
+      Q. However, adequate fish is not available in the lake.
+
+      R. This is mainly because the migratory fish from Chindwin-Irrawaddy river system to Manipur river system have declined steadily after the barrage came up.
+
+      S. At least two lakh people are directly dependent on the lake for fishing.
+    options:
+      A: SPQR
+      B: RPSQ
+      C: QRPS
+      D: RQSP
+    answer: A
+    explanation: S (people depend on the lake) → P (demand has grown) → Q ("However", not enough fish) → R ("This is mainly because…").
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the word identify from the given sentence:
+
+      My pet dog can classify and identify our family friends easily and doesn’t overlook anonymous and unknown ones
+    options:
+      A: anonymous
+      B: spot
+      C: classify
+      D: overlook
+    answer: D
+    explanation: To identify is to recognise; to overlook is to fail to notice.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q087
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      One element that
+
+      P. is timing, in particular ensuring that
+
+      Q. is essential to navigating deep space
+
+      R. the time on board spacecraft is synchronised
+
+      S. with the time on the ground
+    options:
+      A: PRQS
+      B: PSQR
+      C: RSPQ
+      D: QPRS
+    answer: D
+    explanation: One element that (Q) is essential to navigating deep space (P) is timing, in particular ensuring that (R) the time on board spacecraft is synchronised (S) with the time on the ground.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate collocation to fill in the blank.
+
+      We came to _____ as we were passing through.
+    options:
+      A: give a hand
+      B: say hello
+      C: slow in
+      D: take a look
+    answer: B
+    explanation: '"Came to say hello as we were passing through" is the natural phrase for a brief visit.'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q089
+    difficulty: medium
+    stem: |-
+      Select the INCORRECTLY spelt word in the following sentence.
+
+      Apparently, he seems to be an amature person, but I know that he is a disciplined and committed person when it comes to doing something seriously.
+    options:
+      A: amature
+      B: apparently
+      C: committed
+      D: disciplined
+    answer: A
+    explanation: The correct spelling is "amateur".
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word in the given sentence.
+
+      The money she offered him was insufficient to **persuade** him to sell.
+    options:
+      A: Clade
+      B: Propagandize
+      C: Discourage
+      D: Influence
+    answer: C
+    explanation: To persuade is to encourage someone to act; the opposite is "discourage".
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q091
+    difficulty: medium
+    stem: Select the sentence with the appropriate use of preposition.
+    options:
+      A: Children are fond to sweets.
+      B: Children are fond off sweets.
+      C: Children are fond with sweets.
+      D: Children are fond of sweets.
+    answer: D
+    explanation: The adjective "fond" takes the preposition "of".
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The great director Satyajit Ray after receiving the Honorary Academic Award from Audrey Hepburn,________in his Kolkata home.
+    options:
+      A: breathed his last
+      B: nipped in the bud
+      C: kept the ball rolling
+      D: dug the grave
+    answer: A
+    explanation: '"Breathed his last" means died; Ray died in 1992 soon after receiving the honorary Oscar.'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q093
+    difficulty: medium
+    stem: |-
+      Fill in the blank by selecting the appropriate word from the given options that would complete the collocation.
+
+      The judge directed the advocate general to _________ an enquiry on the case.
+    options:
+      A: make
+      B: produce
+      C: hold
+      D: get
+    answer: C
+    explanation: '"Hold an enquiry" is the standard collocation.'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q094
+    difficulty: medium
+    stem: |-
+      Select the correct indirect form of the given sentence.
+
+      “We had opened the lock.” they told me.
+    options:
+      A: They said that we had opened the lock.
+      B: They said to me that they have opened the lock.
+      C: They told me that they had opened the lock.
+      D: They says that we had opened the lock.
+    answer: C
+    explanation: '"They told me" stays; "we" becomes "they", and past perfect "had opened" stays the same.'
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q095
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      The property left to someone by a will
+    options:
+      A: Ledger
+      B: Legacy
+      C: Legend
+      D: Lexical
+    answer: B
+    explanation: Property handed down by a will is a legacy.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      A new world research shows that the French (1) ______ large amounts of cheese and butter. Therefore, they have low levels of heart disease. The research (2) ______ that animal fat is good for human body and helps in reducing the risks of heart attack. This study was (3) ______ in 2018 in 21 low and middle income countries. However, it (4) ______ that eating moderately is the (5) ______ key in this regard.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: consume
+      B: drink
+      C: gobble
+      D: take
+    answer: A
+    explanation: The French "consume" large amounts of cheese and butter.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      A new world research shows that the French (1) ______ large amounts of cheese and butter. Therefore, they have low levels of heart disease. The research (2) ______ that animal fat is good for human body and helps in reducing the risks of heart attack. This study was (3) ______ in 2018 in 21 low and middle income countries. However, it (4) ______ that eating moderately is the (5) ______ key in this regard.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: accepts
+      B: credits
+      C: trusts
+      D: believes
+    answer: D
+    explanation: The research "believes" (holds) that animal fat is good for the body.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      A new world research shows that the French (1) ______ large amounts of cheese and butter. Therefore, they have low levels of heart disease. The research (2) ______ that animal fat is good for human body and helps in reducing the risks of heart attack. This study was (3) ______ in 2018 in 21 low and middle income countries. However, it (4) ______ that eating moderately is the (5) ______ key in this regard.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: directed
+      B: managed
+      C: supervised
+      D: conducted
+    answer: D
+    explanation: A study is "conducted".
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      A new world research shows that the French (1) ______ large amounts of cheese and butter. Therefore, they have low levels of heart disease. The research (2) ______ that animal fat is good for human body and helps in reducing the risks of heart attack. This study was (3) ______ in 2018 in 21 low and middle income countries. However, it (4) ______ that eating moderately is the (5) ______ key in this regard.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: closed
+      B: concluded
+      C: finished
+      D: stopped
+    answer: B
+    explanation: A study "concluded" that eating moderately is key.
+    tags:
+      - english
+  - slug: cgl-2022-12-06-s3-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      A new world research shows that the French (1) ______ large amounts of cheese and butter. Therefore, they have low levels of heart disease. The research (2) ______ that animal fat is good for human body and helps in reducing the risks of heart attack. This study was (3) ______ in 2018 in 21 low and middle income countries. However, it (4) ______ that eating moderately is the (5) ______ key in this regard.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: crucial
+      B: diligent
+      C: principle
+      D: eminent
+    answer: A
+    explanation: '"Crucial" (decisive) fits "the crucial key".'
+    tags:
+      - english

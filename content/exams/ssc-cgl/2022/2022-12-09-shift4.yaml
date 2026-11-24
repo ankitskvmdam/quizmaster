@@ -1,0 +1,1358 @@
+slug: 2022-12-09-shift4
+title: SSC CGL 2022 Tier 1
+date: 2022-12-09
+label: 9 Dec, Shift 4
+source: "SSC candidate response sheet with the official answer marked (via adda247.com — https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07132839/9-Dec-5.15PM-EN.pdf). Left out (picture-only options or incomplete in the source): Q5, Q8, Q9, Q15, Q16, Q17, Q25."
+questions:
+  - slug: cgl-2022-12-09-s4-q001
+    difficulty: medium
+    stem: In a certain code language, ‘FLOAT’ is written as ‘WONZI’ and ‘TRIBE’ is written as ‘DUHEW’. How will ‘GARDEN’ be written in that language?
+    options:
+      A: QZQGDJ
+      B: QZUHDJ
+      C: QZUGDJ
+      D: QDUGHJ
+    answer: C
+    explanation: Swap the first and last letters, then shift each letter by +3 or −1 (TRIBE → ERIBT → DUHEW). In the same way GARDEN → NARDEG → N+3, A−1, R+3, D+3, E−1, G+3 = QZUGDJ.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q002
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+      (21, 33, 31)
+
+      (42, 17, 26)
+    options:
+      A: (36, 14, 35)
+      B: (46, 19, 24)
+      C: (35, 27, 29)
+      D: (32, 39, 20)
+    answer: A
+    explanation: The numbers in each set add up to 85 (21 + 33 + 31 = 42 + 17 + 26 = 85). Only (36, 14, 35) also sums to 85.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q003
+    difficulty: medium
+    stem: |-
+      By interchanging the given two signs and numbers which of the following equation will be correct?
+
+      + and –, 6 and 3
+    options:
+      A: 8 – 3 × 4 ÷ 6 + 9 = 18
+      B: 8 + 4 × 6 ÷ 3 – 9 = 15
+      C: 9 ÷ 3 × 4 – 6 + 7 = 10
+      D: 6 ÷ 2 × 8 + 3 – 1 = 20
+    answer: B
+    explanation: After swapping + with – and 6 with 3, option B becomes 8 – 4 × 3 ÷ 6 + 9 = 8 – 2 + 9 = 15.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q004
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word)
+
+      Pain : Agony :: Anger: ?
+    options:
+      A: Calm
+      B: Rage
+      C: Sad
+      D: Peace
+    answer: B
+    explanation: Agony is an extreme form of pain; in the same way, rage is an extreme form of anger.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q006
+    difficulty: medium
+    stem: |-
+      By Interchanging the given two numbers which of the following equation will be correct?
+
+      1 and 9
+    options:
+      A: 9 × 3 – 4 ÷ 2 + 1 = 10
+      B: 1 + 9 × 3 – 4 ÷ 2 = 18
+      C: 9 × 2 + 1 – 8 ÷ 4 = 12
+      D: 9 – 1 + 6 ÷ 2 × 3 = 7
+    answer: A
+    explanation: Swapping 1 and 9 in option A gives 1 × 3 – 4 ÷ 2 + 9 = 3 – 2 + 9 = 10, which is correct.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q007
+    difficulty: medium
+    stem: Which of the following calendars will be the same as the calendar for the year 2009?
+    options:
+      A: "2025"
+      B: "2015"
+      C: "2036"
+      D: "2042"
+    answer: B
+    explanation: 2009 is a non-leap year. The odd days from 2009 to 2014 add up to 1+1+1+2+1+1 = 7, so 2015 (also non-leap) starts on the same day and has the same calendar.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q010
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘3’.
+
+      *(Figure: Figure 1: top 5, front-left 1, front-right 3. Figure 2: top 5, front-left 3, front-right 6. Figure 3: top 1, front-left 5, front-right 4.)*
+    options:
+      A: "2"
+      B: "1"
+      C: "4"
+      D: "6"
+    answer: C
+    explanation: 1, 3, 6 and 4 all touch 5, so 2 is opposite 5. The faces touching 3 are 5, 1 and 6, so 3 is opposite the only face left, 4.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q011
+    difficulty: medium
+    stem: If P ÷ Q means that P is the mother of Q, P – Q means that P is the father of Q, P × Q means that P is the sister of Q, then which of the following expression shows that B is the daughter of A?
+    options:
+      A: B – A ÷ C
+      B: A – B ÷ C
+      C: A – B × C
+      D: C ÷ B – A
+    answer: B
+    explanation: In A – B ÷ C, A is the father of B, and B is the mother of C, so B is female. That makes B the daughter of A.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q012
+    difficulty: medium
+    stem: |-
+      Three statements are followed by three conclusions numbered I, II and III. You have to consider these statements to be true, even if they seem to be at variance with commonly known facts. Decide which of the given conclusions logically follow/s from the given statements.
+
+      Statements:
+
+      Some watches are projectors.
+
+      All projectors are lamps.
+
+      Some heaters are watches.
+
+      Conclusions:
+
+      (I) Some heaters are projectors.
+
+      (II) Some lamps are heaters.
+
+      (III) All watches are lamps.
+    options:
+      A: Only conclusion II follows
+      B: None of the conclusions follow
+      C: Only conclusion I follows
+      D: Either conclusion I or conclusion III follows
+    answer: B
+    explanation: Projectors overlap watches, but nothing links them to heaters. Lamps need not meet heaters, and only some watches are known to be lamps. So none of the conclusions follows.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q013
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+
+      Paint : Art :: Prose : ?
+    options:
+      A: Music
+      B: Literature
+      C: Drama
+      D: Theatre
+    answer: B
+    explanation: Painting is a form of art; in the same way, prose is a form of literature.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q014
+    difficulty: medium
+    stem: |-
+      A # B means ‘A is the brother of B’
+
+      A @ B means ‘A is the son of B’
+
+      A & B means ‘A is the wife of B’
+
+      A % B means ‘A is the mother of B’
+
+      If A % B & C # D @ E, then how is B related to E?
+    options:
+      A: Sister
+      B: Wife
+      C: Daughter
+      D: Daughter-in-law
+    answer: D
+    explanation: A is the mother of B, B is the wife of C, C is the brother of D, and D is the son of E. So C is E's son and B, his wife, is E's daughter-in-law.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q018
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+      (4, 21, 33)
+
+      (10, 111, 141)
+    options:
+      A: (13, 45, 97)
+      B: (25, 53, 128)
+      C: (65, 60, 244)
+      D: (24, 52, 128)
+    answer: B
+    explanation: "Third = second + 3 × first: 21 + 12 = 33 and 111 + 30 = 141. Likewise 53 + 75 = 128."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q019
+    difficulty: medium
+    stem: |-
+      Which of the following letter-clusters will replace the question mark (?) in the given series?
+
+      ARC, EPF, JNI, PLL, ?
+    options:
+      A: WJO
+      B: QLP
+      C: WLQ
+      D: QKP
+    answer: A
+    explanation: Letter 1 moves +4, +5, +6, +7 (A, E, J, P, W), letter 2 moves −2 (R, P, N, L, J) and letter 3 moves +3 (C, F, I, L, O), giving WJO.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q020
+    difficulty: medium
+    stem: Three of the following letter-clusters are alike in some manner and hence form a group. Which letter-cluster does not belong to that group?
+    options:
+      A: DOL
+      B: MIP
+      C: ARI
+      D: NEV
+    answer: B
+    explanation: In DOL, ARI and NEV, the last two letters are opposite letters, whose positions add to 27 (O+L, R+I, E+V). In MIP, I + P = 9 + 16 = 25.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q021
+    difficulty: medium
+    stem: In a certain code language, 'TEACHER' is written as 'AETCREH' and ‘STUDENT’ is written as ‘UTSDTNE’. How will 'CLASSES' be written in that language?
+    options:
+      A: ALCSSES
+      B: SESSALC
+      C: ALCSESS
+      D: CLASESS
+    answer: A
+    explanation: "Reverse the first three letters, keep the middle letter, and reverse the last three letters: CLA-S-SES → ALC-S-SES = ALCSSES."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q022
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the given equation correct?
+
+      81 * 9 + 15 ÷ 3 – 4 = 50
+    options:
+      A: – and *
+      B: + and –
+      C: ÷ and –
+      D: ÷ and *
+    answer: D
+    explanation: Swapping ÷ and * gives 81 ÷ 9 + 15 × 3 – 4 = 9 + 45 – 4 = 50.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q023
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:
+
+      I. Some A are W.
+
+      II. Some W are C.
+
+      Conclusions:
+
+      I. All A are C.
+
+      II. No C is W.
+
+      III. No W is A.
+    options:
+      A: Neither conclusion follows
+      B: Only conclusion II follows
+      C: All conclusion follows
+      D: Only conclusion I follows
+    answer: A
+    explanation: From 'some A are W' and 'some W are C', nothing certain can be said about A and C. The other two conclusions contradict the statements, so none follows.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q024
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+      12 : 132 :: 20 : 380 :: 2 : ?
+    options:
+      A: "8"
+      B: "6"
+      C: "12"
+      D: "2"
+    answer: D
+    explanation: "Each number is multiplied by the number one less than it: 12 × 11 = 132 and 20 × 19 = 380, so 2 × 1 = 2."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-09-s4-q026
+    difficulty: medium
+    stem: Prithviraja III defeated an Afghan ruler named ______ in 1191.
+    options:
+      A: Sultan Mahmud
+      B: Muhammad Ibn Abbas
+      C: Muhammad Ibn Suri
+      D: Sultan Muhammad Ghori
+    answer: D
+    explanation: In the First Battle of Tarain (1191), Prithviraj Chauhan (Prithviraja III) defeated Muhammad Ghori.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q027
+    difficulty: medium
+    stem: Sharmila Biswas, who was awarded the ‘Best Choreography Award’ in 1998 by the Ministry of Information and Broadcasting, represents which of the following classical dance forms?
+    options:
+      A: Manipuri
+      B: Odissi
+      C: Kathakali
+      D: Kathak
+    answer: B
+    explanation: Sharmila Biswas is an Odissi dancer and choreographer from Kolkata.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q028
+    difficulty: medium
+    stem: The Paralympics Games - 2024 will be hosted by _______.
+    options:
+      A: USA
+      B: China
+      C: Spain
+      D: France
+    answer: D
+    explanation: The 2024 Summer Paralympics were held in Paris, France.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q029
+    difficulty: medium
+    stem: The women of which tribe perform the traditional folk dance called Chakri?
+    options:
+      A: Kaul
+      B: Kanjar
+      C: Gond
+      D: Bharia
+    answer: B
+    explanation: Chakri is a folk dance of Rajasthan performed by women of the Kanjar tribe.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q030
+    difficulty: medium
+    stem: Which of the following terms is NOT included in the Preamble of Indian Constitution?
+    options:
+      A: Sovereign
+      B: Justice
+      C: Fraternity
+      D: Federalism
+    answer: D
+    explanation: The Preamble includes sovereign, justice and fraternity, but the word 'federalism' does not appear in it.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q031
+    difficulty: medium
+    stem: The State Finance Commission is appointed every ____ years by the _____.
+    options:
+      A: 5, state government
+      B: 5, central government
+      C: 2.5, state government
+      D: 2.5, central government
+    answer: A
+    explanation: Under Article 243-I, the Governor (the state government) sets up a State Finance Commission every five years.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q032
+    difficulty: medium
+    stem: The Energy Conservation (Amendment) Bill, 2022 amends the Energy Conservation Act, 2001 to empower the central government to specify a _______.
+    options:
+      A: carbon credit trading scheme
+      B: coal based station
+      C: coastal regulation scheme
+      D: eco-sensitive zone
+    answer: A
+    explanation: The Energy Conservation (Amendment) Bill, 2022 lets the central government specify a carbon credit trading scheme.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q033
+    difficulty: medium
+    stem: The Delhi Municipal Corporation (Amendment) Bill 2022 seeks to unify the how many municipal corporations into a single one?
+    options:
+      A: Four
+      B: Three
+      C: Two
+      D: Five
+    answer: B
+    explanation: The Bill merged the North, South and East Delhi Municipal Corporations into one MCD.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q034
+    difficulty: medium
+    stem: What is the role of ribosomes of a polysome?
+    options:
+      A: The ribosomes synthesise the fats
+      B: The ribosomes of a polysome translate the mRNA into proteins.
+      C: The ribosomes of a polysome translate the rRNA into proteins.
+      D: The ribosomes of a monosome translate the rRNA into proteins.
+    answer: B
+    explanation: A polysome is a group of ribosomes on one mRNA, all translating that mRNA into proteins at the same time.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q035
+    difficulty: medium
+    stem: Which type of tax acts as an automatic stabiliser in the economy?
+    options:
+      A: Professional tax
+      B: Wealth tax
+      C: Capital gains tax
+      D: Proportional income tax
+    answer: D
+    explanation: An income tax charged at a rate on income (proportional income tax) collects more in a boom and less in a slump, so it acts as an automatic stabiliser (NCERT Macroeconomics).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q036
+    difficulty: medium
+    stem: The world’s largest river lies in which of the following continent?
+    options:
+      A: South America
+      B: Australia
+      C: Africa
+      D: North America
+    answer: A
+    explanation: The Amazon, the world's largest river by volume, flows through South America.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q037
+    difficulty: medium
+    stem: In which of the following months is Gokulashtami celebrated every year as per Hindu tradition?
+    options:
+      A: Vaishakh
+      B: Bhadrapada
+      C: Asadha
+      D: Chaitra
+    answer: B
+    explanation: Janmashtami (Gokulashtami) falls on the eighth day (Ashtami) of the dark half of Bhadrapada.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q038
+    difficulty: medium
+    stem: Which of the following is NOT a method of measuring national income?
+    options:
+      A: Intermediate goods method
+      B: Expenditure method
+      C: Income method
+      D: Product method
+    answer: A
+    explanation: National income is measured by the product (value added), income and expenditure methods. 'Intermediate goods' are left out to avoid double counting.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q039
+    difficulty: medium
+    stem: Sambhar Lake is situated in which of the following states?
+    options:
+      A: Kerala
+      B: Madhya Pradesh
+      C: Rajasthan
+      D: Karnataka
+    answer: C
+    explanation: Sambhar Lake, India's largest inland salt lake, is in Rajasthan.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q040
+    difficulty: medium
+    stem: Which of the following waterways separates India from Sri Lanka?
+    options:
+      A: Arabian Sea
+      B: Bay of Bengal
+      C: Andaman Sea
+      D: Palk Strait
+    answer: D
+    explanation: The Palk Strait separates Tamil Nadu (India) from Sri Lanka.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q041
+    difficulty: medium
+    stem: Which of the following is the highest gravity dam in India?
+    options:
+      A: Hirakund Dam
+      B: Bhakra Dam
+      C: Sardar Sarovar Dam
+      D: Mettur Dam
+    answer: B
+    explanation: The Bhakra Dam on the Sutlej (about 226 m) is India's highest concrete gravity dam.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q042
+    difficulty: medium
+    stem: Identify the chemical formula of ammonium hydroxide.
+    options:
+      A: NH₄OH
+      B: NH₄O₂
+      C: NH₃O
+      D: NH₂OH
+    answer: A
+    explanation: Ammonium hydroxide is NH₄OH, ammonia dissolved in water.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q043
+    difficulty: medium
+    stem: Which of the following sites of Harappan civilization is located near Bolan Pass?
+    options:
+      A: Mehrgarh
+      B: Chirand
+      C: Gufkral
+      D: Koldihwa
+    answer: A
+    explanation: Mehrgarh, a Neolithic site that came before Harappa, lies on the Kachhi plain near the Bolan Pass in Balochistan.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q044
+    difficulty: medium
+    stem: How much percentage of nitrogen is present in the atmosphere?
+    options:
+      A: 78%
+      B: 89%
+      C: 67%
+      D: 71%
+    answer: A
+    explanation: Nitrogen makes up about 78% of the atmosphere by volume.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q045
+    difficulty: medium
+    stem: Partition of Bengal held in ______.
+    options:
+      A: "1901"
+      B: "1903"
+      C: "1905"
+      D: "1907"
+    answer: C
+    explanation: Lord Curzon partitioned Bengal in 1905.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q046
+    difficulty: medium
+    stem: In which year was India House established by Shyamji Verma?
+    options:
+      A: "1905"
+      B: "1899"
+      C: "1902"
+      D: "1909"
+    answer: A
+    explanation: Shyamji Krishna Varma founded India House in London in 1905.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q047
+    difficulty: medium
+    stem: In September 2022, which High Court has declared the “Duare Ration” scheme as illegal and against the National Food Security Act?
+    options:
+      A: Delhi
+      B: Calcutta
+      C: Patna
+      D: Allahabad
+    answer: B
+    explanation: In September 2022, the Calcutta High Court held West Bengal's 'Duare Ration' scheme to be against the National Food Security Act.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q048
+    difficulty: medium
+    stem: Which country beat India in the men's hockey semi-final event at Tokyo Olympics, 2020?
+    options:
+      A: Germany
+      B: Pakistan
+      C: Belgium
+      D: Australia
+    answer: C
+    explanation: Belgium beat India 5–2 in the men's hockey semi-final at Tokyo 2020; India then won bronze.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q049
+    difficulty: medium
+    stem: According to census 2011, the literacy rate of India is ______.
+    options:
+      A: 75.04 percent
+      B: 74.04 percent
+      C: 77.04 percent
+      D: 76.04 percent
+    answer: B
+    explanation: The 2011 Census put India's literacy rate at 74.04%.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q050
+    difficulty: medium
+    stem: With which instrument is Ustad Sultan Khan associated?
+    options:
+      A: Sitar
+      B: Sarod
+      C: Tabla
+      D: Sarangi
+    answer: D
+    explanation: Ustad Sultan Khan was a famous sarangi player.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-09-s4-q051
+    difficulty: medium
+    stem: |-
+      The pie chart given below shows the number of boys in 8 schools. The total number of boys in all these 8 school is 6000. Number of boys in a particular school is shown as a percent of total number of boys in all these 8 schools.
+
+      Which of the following statement is correct?
+
+      I. The difference between number of boys in school M and Q are 1660.
+
+      II. The sum of number of boys in school J, K and L are 2400.
+
+      *(Figure: Pie chart (percent of 6000 boys): J 12%, K 6%, L 22%, M 34%, N 9%, O 7%, P 2%, Q 8%.)*
+    options:
+      A: Both I and II
+      B: Only I
+      C: Only II
+      D: Neither I nor II
+    answer: C
+    explanation: M − Q = 34% − 8% = 26% of 6000 = 1560, not 1660, so I is wrong. J + K + L = 40% of 6000 = 2400, so II is right.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q052
+    difficulty: medium
+    stem: "The remainder when 19¹⁹ + 20 is divided by 18, is:"
+    options:
+      A: "3"
+      B: "2"
+      C: "1"
+      D: "0"
+    answer: A
+    explanation: 19 leaves remainder 1 when divided by 18, so 19¹⁹ also does. Then 1 + 20 = 21 leaves remainder 3.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q053
+    difficulty: medium
+    stem: What is the value of sin 75° + sin 15°?
+    options:
+      A: 1/√2
+      B: √3/2
+      C: √(3/2)
+      D: 3/√2
+    answer: C
+    explanation: sin 75° + sin 15° = 2 sin 45° cos 30° = 2 × (1/√2) × (√3/2) = √3/√2 = √(3/2).
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q054
+    difficulty: medium
+    stem: |-
+      The following table shows the number of elected persons from various parties in a state assembly.
+
+      | Party \ Years | 2015 | 2016 | 2017 | 2018 | 2019 | 2020 |
+      |---|---|---|---|---|---|---|
+      | P | 62 | 70 | 52 | 90 | 82 | 80 |
+      | Q | 80 | 90 | 60 | 70 | 76 | 70 |
+      | R | 90 | 80 | 100 | 50 | 80 | 65 |
+      | S | 55 | 60 | 70 | 80 | 75 | 72 |
+
+      Find the difference between the number of seats won by party R and party Q in all the elections put together.
+    options:
+      A: "18"
+      B: "19"
+      C: "17"
+      D: "20"
+    answer: B
+    explanation: R's total = 465 and Q's total = 446, so the difference is 19.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q055
+    difficulty: medium
+    stem: |-
+      The table given below shows the number of students joining in 6 different universities.
+
+      | Universities | Students |
+      |---|---|
+      | A | 275 |
+      | B | 215 |
+      | C | 350 |
+      | D | 250 |
+      | E | 450 |
+      | F | 170 |
+
+      What is the ratio number of students joining in university A to the number of student joining in university F?
+    options:
+      A: "17 : 39"
+      B: "51 : 37"
+      C: "34 : 51"
+      D: "55 : 34"
+    answer: D
+    explanation: "275 : 170 = 55 : 34 (dividing by 5)."
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q056
+    difficulty: medium
+    stem: A grocery shop is offering 10% discount on the purchase of Rs.500 and above. A 5% discount is given on the purchase of value above Rs.250 but below Rs.500. A discount of additional 1% is given if payment is made instantly in cash. How much would a customer have to pay by cash if he buys 25 packets of biscuits and one packet is priced at Rs.30?
+    options:
+      A: Rs.670.25
+      B: Rs.668.25
+      C: Rs.675
+      D: Rs.667.05
+    answer: B
+    explanation: "25 × 30 = Rs 750, which earns 10% off: Rs 675. The extra 1% for cash gives 675 × 0.99 = Rs 668.25."
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q057
+    difficulty: medium
+    stem: "If the ratio of corresponding sides of two similar triangles is √5 : √7 then what is the ratio of the area of the two triangles?"
+    options:
+      A: "∛5 : √7"
+      B: "25 : 49"
+      C: "√5 : √7"
+      D: "5 : 7"
+    answer: D
+    explanation: "The areas of similar triangles are in the ratio of the squares of their sides: (√5)² : (√7)² = 5 : 7."
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q058
+    difficulty: medium
+    stem: If cosec θ + cot θ = 2, then what is the value of cosec θ?
+    options:
+      A: 5/4
+      B: √2
+      C: √5
+      D: 3/2
+    answer: A
+    explanation: Since cosec²θ − cot²θ = 1, cosec θ − cot θ = 1/2. Adding this to cosec θ + cot θ = 2 gives 2 cosec θ = 5/2, so cosec θ = 5/4.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q059
+    difficulty: medium
+    stem: |-
+      In the given figure, ABC is an isosceles triangle with BC = 8 cm and AB = AC = 5 cm. The value of tan C – cot B is _______.
+
+      *(Figure: Triangle ABC with apex A, base BC marked 8 cm, equal-length tick marks on AB and AC.)*
+    options:
+      A: −5/12
+      B: −7/12
+      C: 7/12
+      D: 5/12
+    answer: B
+    explanation: The altitude from A = √(5² − 4²) = 3, so tan C = 3/4 and cot B = 4/3. Then 3/4 − 4/3 = −7/12.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q060
+    difficulty: medium
+    stem: "The LCM of 3/8, 5/16 and 7/2 is:"
+    options:
+      A: 101 1/2
+      B: 52 1/2
+      C: 28 1/2
+      D: 25 1/4
+    answer: B
+    explanation: LCM of fractions = LCM(3, 5, 7) / HCF(8, 16, 2) = 105/2 = 52 1/2.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q061
+    difficulty: medium
+    stem: In an election between two candidates, a candidate who gets 64% of the votes polled is elected by a majority of 252 votes. What is the total number of votes polled?
+    options:
+      A: "950"
+      B: "900"
+      C: "850"
+      D: "800"
+    answer: B
+    explanation: The majority is 64% − 36% = 28% of the votes = 252, so the total is 252/0.28 = 900.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q062
+    difficulty: medium
+    stem: |-
+      The table given below shows the number of salesman in five companies.
+
+      | Companies | Salesman |
+      |---|---|
+      | C1 | 35 |
+      | C2 | 10 |
+      | C3 | 30 |
+      | C4 | 5 |
+      | C5 | 15 |
+
+      What is the average number of salesman in C2, C4 and C5?
+    options:
+      A: "5"
+      B: "10"
+      C: "15"
+      D: "20"
+    answer: B
+    explanation: (10 + 5 + 15)/3 = 10.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q063
+    difficulty: medium
+    stem: "If y + 1/y = 11, then the value of y³ − 1/y³ is:"
+    options:
+      A: 345√13
+      B: 360√13
+      C: 352√13
+      D: 368√13
+    answer: B
+    explanation: (y − 1/y)² = 11² − 4 = 117, so y − 1/y = 3√13. Then y³ − 1/y³ = (3√13)³ + 3(3√13) = 351√13 + 9√13 = 360√13.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q064
+    difficulty: medium
+    stem: "The number of solid spheres, each of diameter 6 cm, that could be moulded to form a solid metal cylinder of height 90cm and diameter 4 cm is:"
+    options:
+      A: "10"
+      B: "14"
+      C: "16"
+      D: "13"
+    answer: A
+    explanation: Cylinder volume = π × 2² × 90 = 360π and sphere volume = (4/3)π × 3³ = 36π, so 360π/36π = 10 spheres.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q065
+    difficulty: medium
+    stem: If b cos θ = a, then cosecθ + cotθ = _________.
+    options:
+      A: √(1/(b + a))
+      B: √((b − a)/(b + a))
+      C: √((b + a)/(b − a))
+      D: √(1/(b − a))
+    answer: C
+    explanation: cos θ = a/b, and cosec θ + cot θ = (1 + cos θ)/sin θ = √((1 + cos θ)/(1 − cos θ)) = √((b + a)/(b − a)).
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q066
+    difficulty: medium
+    stem: If (x − 1/x)² = 12, what is the value of (x² − 1/x²), given that x > 0?
+    options:
+      A: 6√2
+      B: 8√3
+      C: 6√3
+      D: 8√2
+    answer: B
+    explanation: x − 1/x = 2√3 and x + 1/x = √(12 + 4) = 4, so x² − 1/x² = 4 × 2√3 = 8√3.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q067
+    difficulty: medium
+    stem: If the average of s numbers is r⁴ and the average of r numbers is s⁴, then find the average of all r + s numbers?
+    options:
+      A: rs (r² + s² − rs)
+      B: rs
+      C: r² + s²
+      D: rs (r² + s²)
+    answer: A
+    explanation: Average = (s·r⁴ + r·s⁴)/(r + s) = rs(r³ + s³)/(r + s) = rs(r² − rs + s²).
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q068
+    difficulty: medium
+    stem: A man sells two cows for Rs.15,640 each, gaining 15% on one and losing 15% on the other. Find his total gain or loss.
+    options:
+      A: Rs.720 loss
+      B: Rs.360 loss
+      C: Rs.720 gain
+      D: Rs.360 gain
+    answer: A
+    explanation: Cost prices = 15640/1.15 = 13600 and 15640/0.85 = 18400, a total of 32000. They sell for 31280, so the loss is Rs 720.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q069
+    difficulty: medium
+    stem: Two persons P and Q can do a job together in 36 days. P is 3 times as efficient as Q. In how many days can Q alone complete the work?
+    options:
+      A: "148"
+      B: "140"
+      C: "144"
+      D: "146"
+    answer: C
+    explanation: P = 3Q, so together they do 4 Q-units a day. The job is 4 × 36 = 144 Q-days, so Q alone takes 144 days.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q070
+    difficulty: medium
+    stem: The area of a sector of a circle is 88 sq. cm., and the angle of the sector is 45°. Find the radius of the circle. (Use π = 22/7)
+    options:
+      A: 3√11 cm
+      B: 4√14 cm
+      C: 6√13 cm
+      D: 5√14 cm
+    answer: B
+    explanation: (45/360) × πr² = 88 gives πr² = 704, so r² = 704 × 7/22 = 224 and r = 4√14 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q071
+    difficulty: medium
+    stem: What is the fourth proportional to 7, 15 and 21?
+    options:
+      A: "29"
+      B: "30"
+      C: "48"
+      D: "45"
+    answer: D
+    explanation: The fourth proportional is 15 × 21 / 7 = 45.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q072
+    difficulty: medium
+    stem: A, B and C can separately do a work in 6, 10 and 15 days respectively. They started to work together but C left after 2 days. In how many days will the remaining work be finished?
+    options:
+      A: 1 2/4
+      B: 1 1/4
+      C: 1 5/8
+      D: 2 7/4
+    answer: B
+    explanation: "Take the work as 30 units: A, B and C do 5, 3 and 2 a day. In 2 days they do 20, leaving 10. A and B finish it in 10/8 = 1 1/4 days."
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q073
+    difficulty: medium
+    stem: a³ + b³ + c³ = 3abc if ______.
+    options:
+      A: a = b = c
+      B: a + b + c = 0
+      C: a + b + c = 1
+      D: a + b + c = –1
+    answer: B
+    explanation: a³ + b³ + c³ − 3abc = (a + b + c)(a² + b² + c² − ab − bc − ca), so the equation holds when a + b + c = 0. (It also holds when a = b = c, so option A is true too; the key takes B.)
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q074
+    difficulty: medium
+    stem: In how many least number of complete years a sum of money become more than four times of itself at the rate of 50 percent per annum on simple interest?
+    options:
+      A: 9 years
+      B: 7 years
+      C: 6 years
+      D: 5 years
+    answer: B
+    explanation: To become more than 4 times itself, the sum needs interest of more than 300%. At 50% a year that takes more than 6 years, so 7 complete years.
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q075
+    difficulty: medium
+    stem: The length of the side of a cube is 1.4 cm. What is the volume of the largest sphere that can be taken out of the cube?
+    options:
+      A: 1.44 cm³
+      B: 3.26 cm³
+      C: 2.66 cm³
+      D: 5.64 cm³
+    answer: A
+    explanation: "The largest sphere has radius 0.7 cm: (4/3) × (22/7) × 0.343 ≈ 1.44 cm³."
+    tags:
+      - quant
+  - slug: cgl-2022-12-09-s4-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      After several years of cheating on his PhD work, the candidate finally had to **face the music** and lose the opportunity.
+    options:
+      A: Accept ignorance
+      B: To accept unpleasant consequences
+      C: Choose another alternative that is uninteresting
+      D: Be exposed
+    answer: B
+    explanation: "'Face the music' means to accept the unpleasant results of one's actions."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Sunil cannot _________ a trip to the US now because he has already spent a lot for the completion of his house.
+    options:
+      A: visit
+      B: afford
+      C: spend
+      D: earn
+    answer: B
+    explanation: "'Afford' (to have enough money for) fits, since he has already spent a lot."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      He was not **able to adopt himself to** the new environment of the hostel.
+    options:
+      A: able to adept himself to
+      B: able for adopt himself to
+      C: able to adopt himself with
+      D: able to adapt himself to
+    answer: D
+    explanation: "'Adapt' means to adjust to new conditions. 'Adopt' means to take up, so the phrase should be 'able to adapt himself to'."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q079
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      NFTs are
+
+      P. digital collectables that exist on
+
+      Q. and are better known for recently
+
+      R. taking the art world by storm
+
+      S. online ledgers known as blockchains
+    options:
+      A: PSQR
+      B: RPQS
+      C: RQPS
+      D: SPRQ
+    answer: A
+    explanation: NFTs are digital collectables that exist on (P) online ledgers known as blockchains (S) and are better known for recently (Q) taking the art world by storm (R).
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q080
+    difficulty: medium
+    stem: Choose the incorrectly spelt word.
+    options:
+      A: Flawless
+      B: Rudimentary
+      C: Primitive
+      D: Impracticle
+    answer: D
+    explanation: The correct spelling is 'impractical'.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q081
+    difficulty: medium
+    stem: |-
+      A part of the given sentence which has been underlined may contain a spelling error.
+
+      Select the option that correctly rectifies the spelling error. If there is no error, select ‘No error’.
+
+      The police came to the accident spot after receiving an **annonymous** phone call.
+    options:
+      A: Anonnymous
+      B: No error
+      C: Anonymous
+      D: Anonymaus
+    answer: C
+    explanation: The correct spelling is 'anonymous'.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q082
+    difficulty: medium
+    stem: |-
+      Parts of the following sentence have been underlined and given as options. Select the option that contains an error.
+
+      I **told** Rahu **on** wait **for** two hours **at** the bus stop.
+    options:
+      A: at
+      B: for
+      C: told
+      D: on
+    answer: D
+    explanation: "'Told someone to do something' takes 'to', not 'on': 'I told Rahu to wait…'."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word in the given sentence.
+
+      The director is at the **apex** of the managing committee.
+    options:
+      A: Core
+      B: Bottom
+      C: Corner
+      D: Pinnacle
+    answer: D
+    explanation: Apex means the highest point, the pinnacle.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q084
+    difficulty: medium
+    stem: |-
+      Select the correct indirect form of the given sentence.
+
+      “Meena, will you assist me to pack our belongings?” Asked her mother.
+    options:
+      A: Meena's mother asked her whether she will assist her to pack their belongings.
+      B: Meena's mother asked her whether if she would assist her to pack their belongings.
+      C: Meena's mother asked her whether she would assist her to pack their belongings.
+      D: Meena's mother asked her whether she can assist her to pack their belongings.
+    answer: C
+    explanation: A yes/no question becomes 'whether' in indirect speech, and 'will' moves back to 'would' after a past reporting verb.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q085
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error.
+
+      Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Huda lived in / the southern part / off Germany.
+    options:
+      A: off Germany
+      B: the southern part
+      C: No error
+      D: Huda lived in
+    answer: A
+    explanation: It should be 'part of Germany'; 'off' is a different word.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Everlasting
+    options:
+      A: Eternal
+      B: Transient
+      C: Fatuous
+      D: Misled
+    answer: B
+    explanation: Everlasting means lasting for ever; transient means lasting only a short time.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q087
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      Our machine is shipped to ten different countries.
+    options:
+      A: We shipped our machine to ten different countries.
+      B: We are shipping our machine to ten different countries.
+      C: Someone ship our machine on ten different countries.
+      D: We ship our machine to ten different countries.
+    answer: D
+    explanation: "'Is shipped' is simple present passive, so the active form is 'We ship our machine to ten different countries'."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q088
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      The citizens have chosen that man as their leader.
+    options:
+      A: That man had been chosen by the citizens as their leader.
+      B: That man has been chosen by the citizens as their leader.
+      C: That man is chosen by the citizens as their leader.
+      D: That man was chosen by the citizens as their leader.
+    answer: B
+    explanation: Present perfect active 'have chosen' becomes 'has been chosen' in the passive.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q089
+    difficulty: medium
+    stem: |-
+      Select the word segment that substitutes (replaces) the bracketed word segment correctly and completes the sentence meaningfully.
+
+      Neither the teachers (or the principal likes the new budget) cuts.
+    options:
+      A: either the principal likes the new budget
+      B: or the principal like the new budget
+      C: nor the principal like the new budget
+      D: nor the principal likes the new budget
+    answer: D
+    explanation: "'Neither' pairs with 'nor', and the verb agrees with the nearer subject, 'the principal' (singular), so 'likes'."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the word ‘ACQUISITION’ from the given sentence.
+
+      The head coach got surprised with the level of enthusiasm shown by the players as they all were demoralised after the first loss.
+    options:
+      A: Enthusiasm
+      B: Demoralised
+      C: Surprised
+      D: Loss
+    answer: D
+    explanation: "The paper misprints the word: 'acquisition' is not in the sentence. The question can still be answered, because acquisition (gaining something) is the opposite of loss, and 'loss' is in the sentence."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word.
+
+      The fraudsters **hoodwinked** us and took away all our valuables.
+    options:
+      A: Coerced
+      B: Threatened
+      C: Misguided
+      D: Deceived
+    answer: D
+    explanation: To hoodwink is to trick or deceive.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q092
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      One who loves humanity or believes in universal brotherhood
+    options:
+      A: Humane
+      B: Magnanimous
+      C: Philanthropist
+      D: Misanthropist
+    answer: C
+    explanation: A philanthropist loves humankind and works for others' welfare. A misanthropist is the opposite.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q093
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labeled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P. I had my own crib in the bedroom next to our parent’s room.
+
+      Q. Annie awoke hungry at 2:30 a.m. each morning.
+
+      R. When Annie would cry out, I would climb out of my crib and come running into our parent’s room to check on her.
+
+      S. For the first few months, Annie slept in a crib by our parents’ bed.
+    options:
+      A: PRSQ
+      B: RPQS
+      C: QRSP
+      D: SPQR
+    answer: D
+    explanation: S says where Annie slept, P where the narrator slept, Q says Annie woke at night, and R says what the narrator did then.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q094
+    difficulty: medium
+    stem: |-
+      A sentence has been given with a blank to be filled with an appropriate word. Choose the correct alternative.
+
+      Writing down instructions, steps and remembering them can make you look really efficient and ________.
+    options:
+      A: diligent
+      B: dormant
+      C: operable
+      D: sluggish
+    answer: A
+    explanation: "'Diligent' (careful and hard-working) goes with 'efficient'; the other words have negative meanings."
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Lose your marbles
+    options:
+      A: To go insane
+      B: To handle stress
+      C: To lower down anger
+      D: To be patient
+    answer: A
+    explanation: To 'lose your marbles' is to go mad.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Mob lynching is the act of a group of people murdering a person without due process of law for an (1)_________ infraction. In recent years, mob lynching has become one of the hate (2)_________ that targets persons of a certain identity, members of a minority population, or strangers on the basis of a mere (3)___________. Without obeying any principles of law, the mob takes the law into their own hands to punish the supposed (4)__________ in the name of justice. Mob lynching is a breach of human dignity and a (5)_________ violation of the Universal Declaration of Human Rights, according to Article 21 of the Indian Constitution.
+
+      Select the most appropriate answer to fill in blank 1.
+    options:
+      A: alleged
+      B: advantaged
+      C: applied
+      D: encouraged
+    answer: A
+    explanation: Lynching punishes an 'alleged' infraction, one that was claimed but never proven in court.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Mob lynching is the act of a group of people murdering a person without due process of law for an (1)_________ infraction. In recent years, mob lynching has become one of the hate (2)_________ that targets persons of a certain identity, members of a minority population, or strangers on the basis of a mere (3)___________. Without obeying any principles of law, the mob takes the law into their own hands to punish the supposed (4)__________ in the name of justice. Mob lynching is a breach of human dignity and a (5)_________ violation of the Universal Declaration of Human Rights, according to Article 21 of the Indian Constitution.
+
+      Select the most appropriate answer to fill in blank 2.
+    options:
+      A: crimes
+      B: gossips
+      C: goals
+      D: desires
+    answer: A
+    explanation: Mob lynching is one of the 'hate crimes'.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Mob lynching is the act of a group of people murdering a person without due process of law for an (1)_________ infraction. In recent years, mob lynching has become one of the hate (2)_________ that targets persons of a certain identity, members of a minority population, or strangers on the basis of a mere (3)___________. Without obeying any principles of law, the mob takes the law into their own hands to punish the supposed (4)__________ in the name of justice. Mob lynching is a breach of human dignity and a (5)_________ violation of the Universal Declaration of Human Rights, according to Article 21 of the Indian Constitution.
+
+      Select the most appropriate answer to fill in blank 3.
+    options:
+      A: suspicion
+      B: trust
+      C: evidence
+      D: logic
+    answer: A
+    explanation: Victims are targeted on 'a mere suspicion', without proof.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Mob lynching is the act of a group of people murdering a person without due process of law for an (1)_________ infraction. In recent years, mob lynching has become one of the hate (2)_________ that targets persons of a certain identity, members of a minority population, or strangers on the basis of a mere (3)___________. Without obeying any principles of law, the mob takes the law into their own hands to punish the supposed (4)__________ in the name of justice. Mob lynching is a breach of human dignity and a (5)_________ violation of the Universal Declaration of Human Rights, according to Article 21 of the Indian Constitution.
+
+      Select the most appropriate answer to fill in blank 4.
+    options:
+      A: innocent
+      B: lawman
+      C: faultless
+      D: accused
+    answer: D
+    explanation: The mob punishes the supposed 'accused'.
+    tags:
+      - english
+  - slug: cgl-2022-12-09-s4-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Mob lynching is the act of a group of people murdering a person without due process of law for an (1)_________ infraction. In recent years, mob lynching has become one of the hate (2)_________ that targets persons of a certain identity, members of a minority population, or strangers on the basis of a mere (3)___________. Without obeying any principles of law, the mob takes the law into their own hands to punish the supposed (4)__________ in the name of justice. Mob lynching is a breach of human dignity and a (5)_________ violation of the Universal Declaration of Human Rights, according to Article 21 of the Indian Constitution.
+
+      Select the most appropriate answer to fill in blank 5.
+    options:
+      A: prevalent
+      B: convenient
+      C: covert
+      D: flagrant
+    answer: D
+    explanation: A 'flagrant' violation is an obvious and shocking one.
+    tags:
+      - english
