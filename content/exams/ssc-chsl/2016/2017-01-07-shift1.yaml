@@ -1,0 +1,1310 @@
+slug: 2017-01-07-shift1
+title: SSC CHSL 2016 Tier 1
+date: 2017-01-07
+label: 7 Jan, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com — https://docs.aglasem.com/view/ff683184-dfa9-11ed-a407-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q9, Q10, Q12, Q13, Q17, Q23, Q24, Q25."
+questions:
+  - slug: chsl-2017-01-07-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      Hirakund : Mahanadi : : Tehri Dam : ?
+    options:
+      A: Damodar
+      B: Bhagirathi
+      C: Yamuna
+      D: Son
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      LG : WM : : DC : ?
+    options:
+      A: IJ
+      B: EF
+      C: GE
+      D: LI
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      IM : RZ : : HF : ?
+    options:
+      A: MP
+      B: OK
+      C: PL
+      D: QR
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      16 : 40 : : 20 : ?
+    options:
+      A: "29"
+      B: "21"
+      C: "50"
+      D: "60"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q005
+    difficulty: medium
+    stem: Find out the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: Mohammad Azharuddin
+      B: Sunil Gavaskar
+      C: Dhyan Chand
+      D: Yuvraj Singh
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q006
+    difficulty: medium
+    stem: Find out the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: EV
+      B: GT
+      C: JQ
+      D: MO
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q007
+    difficulty: medium
+    stem: Find out the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: "4246"
+      B: "8314"
+      C: "9546"
+      D: "7284"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q008
+    difficulty: medium
+    stem: Find out the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: 78, 26
+      B: 19, 20
+      C: 20, 40
+      D: 36, 12
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q011
+    difficulty: medium
+    stem: |-
+      In the following question, two statements are given each followed by two conclusions I and II. You have to consider the statements to be true even if they seem to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.
+
+      Statements:
+
+      (I) Some scooters are trucks.
+
+      (II) All trucks are trains.
+
+      Conclusion:
+
+      (I) Some scooters are trains.
+
+      (II) No truck is a scooter.
+    options:
+      A: Conclusion I follows
+      B: Conclusion II follows
+      C: Neither I nor II follows
+      D: Both I and II follows
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q014
+    difficulty: medium
+    stem: If yesterday was Tuesday, then what day of the week will the tenth day from today be?
+    options:
+      A: Friday
+      B: Sunday
+      C: Monday
+      D: Saturday
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q015
+    difficulty: medium
+    stem: |-
+      Arrange the given words in the sequence in which they occur in the dictionary.
+
+      i. Collaborate
+
+      ii. Constant
+
+      iii. Correspondence
+
+      iv. Combination
+    options:
+      A: iv, ii, i, iii
+      B: iii, ii, iv, i
+      C: iv, iii, i, ii
+      D: i, iv, ii, iii
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q016
+    difficulty: medium
+    stem: In a certain code language, 'TAPERECORDER' is written as '!#&@^@?%^+@^'. How is 'REPORT' written in that code language?
+    options:
+      A: ^@&^%!
+      B: ^@&%!
+      C: ^@&%^!
+      D: ^@%&^!
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q018
+    difficulty: medium
+    stem: If "*" denotes "added to", "&" denotes "divided by", "@" denotes "multiplied by" and "%" denotes "subtracted from", then 153 & 17 @ 6 % 9 * 18 = ?
+    options:
+      A: "63"
+      B: "98"
+      C: "93"
+      D: "10"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q019
+    difficulty: medium
+    stem: |-
+      In the following question, which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?
+
+      d_fde_ _deee_
+    options:
+      A: eeff
+      B: cdef
+      C: ddee
+      D: deee
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q020
+    difficulty: medium
+    stem: A man travels 25 km towards the west and then turns 90° to his left and travels another 4 km. Finally, he turns left and covers 25 km. In which direction is he now from his original position?
+    options:
+      A: West
+      B: East
+      C: South
+      D: North
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q021
+    difficulty: medium
+    stem: |-
+      A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example, 'N' can be represented by 21, 67 etc. and 'R' can be represented by 66, 57 etc. Similarly, you have to identify the set for the word 'HUNT'.
+
+      **Matrix-I**
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | T | R | A | N | B |
+      | 1 | W | U | N | H | U |
+      | 2 | E | N | S | G | U |
+      | 3 | N | Y | P | U | M |
+      | 4 | H | T | U | F | A |
+
+      **Matrix-II**
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | T | A | R | I | H |
+      | 6 | X | R | N | W | B |
+      | 7 | C | S | Y | E | U |
+      | 8 | S | N | T | M | S |
+      | 9 | G | B | E | R | H |
+
+      *(Figure: Question printed as an image: instructions plus two 5×5 letter matrices (Matrix-I rows/columns 0–4, Matrix-II rows/columns 5–9), transcribed as tables in the stem.)*
+    options:
+      A: 40, 33, 03, 88
+      B: 99, 23, 56, 00
+      C: 59, 42, 12, 79
+      D: 13, 11, 30, 41
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q022
+    difficulty: medium
+    stem: Introducing a girl, a man says, "She is the daughter of the daughter of my wife". How is man related to the girl?
+    options:
+      A: Maternal uncle
+      B: Son
+      C: Maternal grandfather
+      D: Father
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q026
+    difficulty: medium
+    stem: Group of 4 bits forms a
+    options:
+      A: Byte
+      B: Nibble
+      C: Gigabyte
+      D: Terabyte
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q027
+    difficulty: medium
+    stem: Barograph was invented by
+    options:
+      A: Lucien Vidi
+      B: John Venn
+      C: Theophilus Van Kannel
+      D: Lewis Urry
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q028
+    difficulty: medium
+    stem: Diabetes is caused by
+    options:
+      A: Excess of insulin
+      B: Low production of Insulin
+      C: Malfunction of liver
+      D: Higher production of bilirubin
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q029
+    difficulty: medium
+    stem: Tectona grandis Linn is the scientific name of
+    options:
+      A: Guava
+      B: Teak
+      C: Amla
+      D: Chiku
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q030
+    difficulty: medium
+    stem: Sea-Anemones belongs to the phylum
+    options:
+      A: Arthropoda
+      B: Cnidaria
+      C: Porifera
+      D: Mollusca
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q031
+    difficulty: medium
+    stem: Which among the following is present inside the nucleus of an atom?
+    options:
+      A: Protons and Neutrons
+      B: Electrons and Protons
+      C: Neutrons and Electrons
+      D: Neutrons, Protons, Electrons
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q032
+    difficulty: medium
+    stem: What is baking soda?
+    options:
+      A: Aluminium bicarbonate
+      B: Sodium isolate
+      C: Sodium bicarbonate
+      D: Aluminium sulphate
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q033
+    difficulty: medium
+    stem: Elephanta Caves is in
+    options:
+      A: Maharashtra
+      B: Orissa
+      C: Rajasthan
+      D: Sikkim
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q034
+    difficulty: medium
+    stem: Which of the following is a classical dance from North India?
+    options:
+      A: Bharatanatyam
+      B: Kuchipudi
+      C: Kathak
+      D: Kathakali
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q035
+    difficulty: medium
+    stem: If demand curve for camping tents is D = 100000 - 17P and supply curve is S = 50000 + 8P, find the equilibrium Price?
+    options:
+      A: Rs. 1000
+      B: Rs. 2000
+      C: Rs. 4000
+      D: Rs. 500
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q036
+    difficulty: medium
+    stem: Value of Total Goods and Services produced in a country is its _____________ .
+    options:
+      A: Gross Domestic Product
+      B: Gross Revenue Income
+      C: Total Goods Revenue
+      D: Total Income
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q037
+    difficulty: medium
+    stem: Dissolved oxygen in rivers is close to _________ parts per million.
+    options:
+      A: "125"
+      B: "25"
+      C: "5"
+      D: "0"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q038
+    difficulty: medium
+    stem: Which of the following is also known as a Common Water Hyacinth?
+    options:
+      A: Pistia
+      B: Opuntia
+      C: Aegilops
+      D: Echhornia
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q039
+    difficulty: medium
+    stem: Rukmini Devi Arundale is associated with _______.
+    options:
+      A: Kathak
+      B: Bharatnatyam
+      C: Kuchipudi
+      D: Bhangra
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q040
+    difficulty: medium
+    stem: Which state does not share a common border with Haryana?
+    options:
+      A: Uttar Pradesh
+      B: Madhya Pradesh
+      C: Himachal Pradesh
+      D: Rajasthan
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q041
+    difficulty: medium
+    stem: Which planet is also referred to as a "Dwarf planet"?
+    options:
+      A: Pluto
+      B: Mercury
+      C: Jupiter
+      D: Saturn
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q042
+    difficulty: medium
+    stem: Who was the founder of the Brahmo Samaj, founded in 1828?
+    options:
+      A: Rabindranath Tagore
+      B: Subhash Chandra Bose
+      C: Sardar Vallabh Bhai Patel
+      D: Raja Ram Mohan Roy
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q043
+    difficulty: medium
+    stem: Shah Jahan built Taj Mahal in memory of ___________.
+    options:
+      A: Ruqayya Sultan Begum
+      B: Jodha Bai
+      C: Mumtaz Mahal
+      D: Nur Jahan
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q044
+    difficulty: medium
+    stem: Which actor won the best actor award in the 1st Filmfare Awards?
+    options:
+      A: Dev Anand
+      B: Rajesh Khanna
+      C: Dilip Kumar
+      D: Amitabh Bachchan
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q045
+    difficulty: medium
+    stem: Which of the following physical quantities is a scalar quantity?
+    options:
+      A: Weight
+      B: Impulse
+      C: Young's Modulus
+      D: acceleration
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q046
+    difficulty: medium
+    stem: Which among the following elements is a liquid at room temperature?
+    options:
+      A: Phosphorus
+      B: Mercury
+      C: Sodium
+      D: Aluminium
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q047
+    difficulty: medium
+    stem: How many maximum terms, a person can serve as Prime Minister of India?
+    options:
+      A: "3"
+      B: "5"
+      C: "7"
+      D: No limit
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q048
+    difficulty: medium
+    stem: If the president declares emergency then this proclamation must be approved by the Parliament within _____.
+    options:
+      A: 1 year
+      B: 6 months
+      C: 3 months
+      D: one month
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q049
+    difficulty: medium
+    stem: Deepika Kumari is associated with _______.
+    options:
+      A: Archery
+      B: Wrestling
+      C: Boxing
+      D: Swimming
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q050
+    difficulty: medium
+    stem: The Arthashastra was written by
+    options:
+      A: Chanakya
+      B: Kalidasa
+      C: Harsha Vardhana
+      D: Vatsyayana
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q051
+    difficulty: medium
+    stem: In ΔABC, D and E are points on side AB and AC respectively. DE is parallel to BC. If lengths of AD, DB and DE are 10 cm, 5 cm and 6 cm respectively. What is the length of BC?
+    options:
+      A: 9 cm
+      B: 2 cm
+      C: 3 cm
+      D: 11 cm
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q052
+    difficulty: medium
+    stem: If 2x - 1 < 5x + 2 and 2x + 5 < 6 - 3x, then x can take which of the following values?
+    options:
+      A: "1"
+      B: "0"
+      C: "2"
+      D: "-2"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q053
+    difficulty: medium
+    stem: A carpenter can build a cupboard in 60 hours. After 15 hours he takes a break. What fraction of the cupboard is yet to be built?
+    options:
+      A: "0.5"
+      B: "0.9"
+      C: "0.75"
+      D: "0.25"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q054
+    difficulty: medium
+    stem: There is 75% increase in an amount in 5 years at simple interest. What will be the compound interest of Rs 40000 after 2 years at the same rate?
+    options:
+      A: Rs 25800
+      B: Rs 32250
+      C: Rs 12900
+      D: Rs 19350
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q055
+    difficulty: medium
+    stem: Which of the following equations has the sum of its roots as 5?
+    options:
+      A: x² - 5x + 6 = 0
+      B: x² - 5x - 6 = 0
+      C: x² + 5x + 6 = 0
+      D: x² + 5x - 6 = 0
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q056
+    difficulty: medium
+    stem: The base angle of an isosceles trapezium is 45°. If the shorter side and both the equal sides are 10 cm each, what is the area of the trapezium?
+    options:
+      A: 50√2 + 50 sq cm
+      B: 50√2 + 100 sq cm
+      C: 100√2 + 50 sq cm
+      D: 100√2 + 100 sq cm
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q057
+    difficulty: medium
+    stem: Rahul sells a machine for Rs 50 lakhs at a loss. Had he sold it for Rs 60 lakh, his gain would have been 7 times the earlier loss. What is the cost price of the machine?
+    options:
+      A: Rs 51.25 lakhs
+      B: Rs 58.75 lakhs
+      C: Rs 67.14 lakhs
+      D: Rs 43.75 lakhs
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q058
+    difficulty: medium
+    stem: If the radius of a circle is increased by 27%, then its area will increase by
+    options:
+      A: 61.29 percent
+      B: 54 percent
+      C: 27 percent
+      D: 30.645 percent
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q059
+    difficulty: medium
+    stem: If Girilal's salary is 11/7 times of Hariram's and Shekhar's is 3/4 times of Hariram's, what is the ratio of Girilal's salary to Shekhar's salary.
+    options:
+      A: 44:21
+      B: 28:33
+      C: 33:28
+      D: 21:44
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q060
+    difficulty: medium
+    stem: (cosA + sinA)² + (cosA - sinA)² is equals to
+    options:
+      A: "1"
+      B: 1/2
+      C: "2"
+      D: "0"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q061
+    difficulty: medium
+    stem: If a merchant offers a discount of 20% on the list price, then she makes a loss of 16%. What % profit or % loss will she make if she sells goods at a discount of 10% of the list price?
+    options:
+      A: 14 percent profit
+      B: 20 percent profit
+      C: 50 percent profit
+      D: 5.5 percent loss
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q062
+    difficulty: medium
+    stem: The sum of all prime numbers between 30 and 42 is
+    options:
+      A: "103"
+      B: "109"
+      C: "105"
+      D: "104"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q063
+    difficulty: medium
+    stem: The curved surface area of a hemisphere is 2772 sq cm and volume is 19404 cubic cm, what is its radius? (Take π = 22/7)
+    options:
+      A: 42 cms
+      B: 21 cms
+      C: 10.5 cms
+      D: 31.5 cms
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q064
+    difficulty: medium
+    stem: If cosC - cosD = x, then value of x is
+    options:
+      A: 2sin[(C+D)/2]cos[(C-D)/2]
+      B: 2cos[(C+D)/2]sin[(C-D)/2]
+      C: 2sin[(C+D)/2]sin[(D-C)/2]
+      D: 2cos[(C+D)/2]cos[(C-D)/2]
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q065
+    difficulty: medium
+    stem: The value of x for which the expressions 12 - 6x and 4x + 2 become equal is
+    options:
+      A: "0"
+      B: "2"
+      C: "1"
+      D: "4"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q066
+    difficulty: medium
+    stem: Δ DEF and Δ GHI are similar triangles. Length of DE is 4 cm and length of the corresponding side GH is 9 cm. What is the ratio of areas of Δ DEF and ΔGHI?
+    options:
+      A: 81:16
+      B: 4:9
+      C: 16:81
+      D: 9:4
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q067
+    difficulty: medium
+    stem: To travel 816 km, an Express train takes 9 hours more than Rajdhani. If however, the speed of the Express train is doubled, it takes 4 hours less than Rajdhani. What is the speed of Rajdhani?
+    options:
+      A: 48 km/hr
+      B: 62.8 km/hr
+      C: 33.2 km/hr
+      D: 77.5 km/hr
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q068
+    difficulty: medium
+    stem: What would be the equation of the line, which intercepts x-axis at -5 and is perpendicular to the line y = 2x + 3?
+    options:
+      A: x - 2y = -5
+      B: x + 2y = 5
+      C: x + 2y = -5
+      D: x - 2y = 5
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q069
+    difficulty: medium
+    stem: If 4pxy = (x + 2y)² - (x - 2y)², then what will be the value of p?
+    options:
+      A: "0.5"
+      B: "0.25"
+      C: "4"
+      D: "2"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q070
+    difficulty: medium
+    stem: In the first 26 overs of a cricket match, the run rate was 5.4 runs/over. What is the required run rate in the remaining 24 overs to reach the target of 294 runs?
+    options:
+      A: "7"
+      B: "6.4"
+      C: "7.6"
+      D: "5.8"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q071
+    difficulty: medium
+    stem: What is the value of tan -5π/6?
+    options:
+      A: -1/√3
+      B: 1/√3
+      C: √3
+      D: -√3
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q072
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      |  | Number of employees | Annual salary (in lakhs) | Bonus as percent of annual salary |
+      |---|---|---|---|
+      | Manager | 1 | 48 | 40% |
+      | Executive | 6 | 16 | 20% |
+      | Trainee | 2 | 2 | 20% |
+
+      What is the average bonus (in rupees)?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: "3920004"
+      B: "220000"
+      C: "228000"
+      D: "435556"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q073
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      |  | 2011 | 2012 | 2013 | 2014 | 2015 |
+      |---|---|---|---|---|---|
+      | Company A | 4000 | 3000 | 3000 | 1000 | 2000 |
+      | Company B | 1000 | 1000 | 1000 | 5000 | 4000 |
+      | Company C | 1000 | 1000 | 4000 | 2000 | 1000 |
+
+      For which of the following pairs of years the total exports from the three Companies together are equal?  
+      (Note: Figures given are in lakh rupees)
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: 2013 & 2014
+      B: 2013 & 2015
+      C: 2011 & 2012
+      D: 2014 & 2015
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q074
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      | Year | Profit or (-Loss) in Rs Crore |
+      |---|---|
+      | 2011 | 5 |
+      | 2012 | -5 |
+      | 2013 | 20 |
+      | 2014 | 5 |
+      | 2015 | -5 |
+
+      What was the total Profit or Loss of the company in last 5 years?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: Profit of Rs 30 crores
+      B: Loss of Rs 20 crores
+      C: Loss of Rs 30 crores
+      D: Profit of Rs 20 crores
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q075
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      | India's exports in 2015 | Value in million US dollars |
+      |---|---|
+      | Jewellery | 500 |
+      | Software | 850 |
+      | Cotton | 950 |
+      | Steel | 1000 |
+      | Electronics | 875 |
+
+      Electronics was what percent of total exports?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem. The column header prints ‘Value in million US’ followed by the dollar sign; written here as ‘US dollars’.)*
+    options:
+      A: 23.46 percent
+      B: 25.96 percent
+      C: 18.46 percent
+      D: 20.96 percent
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q076
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.
+
+      **Open to more than one interpretation; not having one obvious meaning.**
+    options:
+      A: trite
+      B: opposite
+      C: exceptional
+      D: ambiguous
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q077
+    difficulty: medium
+    stem: Select the word with the correct spelling.
+    options:
+      A: humanoide
+      B: rikshaw
+      C: deviance
+      D: virtuos
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q078
+    difficulty: medium
+    stem: |-
+      Select the antonym of
+
+      **vibrant**
+    options:
+      A: drab
+      B: gaudy
+      C: jazzy
+      D: vivid
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q079
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      **If you are caught using a calculator in the exam then it will be ______________.**
+    options:
+      A: taken
+      B: confiscated
+      C: confisticate
+      D: under possession
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q080
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best express the same sentence in Indirect/Direct speech.
+
+      **"Please don't hit me" Rita said to the attacker.**
+    options:
+      A: Rita begged the attacker to not to hit her.
+      B: Rita told the attacker to not hit her.
+      C: Rita begged the attacker not to hit her.
+      D: Rita pleaded with the attacker to not to hit her.
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the synonym of
+
+      **dignity**
+    options:
+      A: decency
+      B: immoral
+      C: primacy
+      D: chagrin
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q082
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      **Indian Defence forces(A)/fought the enemy(B)/till the last soldier was standing.(C)/No error(D)**
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q083
+    difficulty: medium
+    stem: |-
+      Choose the synonym of
+
+      **defecate**
+    options:
+      A: chaff
+      B: quench
+      C: ingest
+      D: secrete
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q084
+    difficulty: medium
+    stem: Select the word with the correct spelling.
+    options:
+      A: bargundy
+      B: panacea
+      C: revolwer
+      D: cantinue
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q085
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      **_______ and my younger brother went to the movies all by ourselves.**
+    options:
+      A: I
+      B: Mine
+      C: Myself
+      D: My own self
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q086
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order
+
+      **The truth about these**
+
+      **P-communities is that**
+
+      **Q-they deserve to die**
+
+      **R-dysfunctional, downscale**
+    options:
+      A: PQR
+      B: QPR
+      C: RPQ
+      D: RQP
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q087
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      The unfortunate old man was knocked **(away by)** the rash driver.
+    options:
+      A: out by
+      B: off by
+      C: by
+      D: no improvement
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q088
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase
+
+      **Something widely feared as a possible dangerous occurrence.**
+    options:
+      A: spectre
+      B: beguile
+      C: monolith
+      D: canny
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q089
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      **The landlord could not(A)/tell which of the servant(B)/broke the glass.(C)/No error(D)**
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q090
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      One should get **(trained)** to prepare one's own breakfast.
+    options:
+      A: habituated
+      B: used
+      C: prepared
+      D: no improvement
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q091
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      **Mrs. Vaijanthi teaches us literature.**
+    options:
+      A: We have been taught literature by Mrs. Vaijanthi.
+      B: Literature is being taught by Mrs. Vaijanthi to us.
+      C: Literature is being taught to us by Mrs. Vaijanthi.
+      D: Literature is taught by Mrs. Vaijanthi to us.
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q092
+    difficulty: medium
+    stem: |-
+      Select the antonym of
+
+      **deep-seated**
+    options:
+      A: chronic
+      B: temporary
+      C: inbred
+      D: subconscious
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q093
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      **Zero tolerance**
+    options:
+      A: Accuracy is paramount
+      B: Non-acceptance of antisocial behaviour
+      C: No return without risk
+      D: No problem at all
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q094
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      **Do not be anxious about**
+
+      **P-thanksgiving, present your requests to God**
+
+      **Q-and petition, with**
+
+      **R-anything, but in every situation, by prayer**
+    options:
+      A: PRQ
+      B: PQR
+      C: QRP
+      D: RQP
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q095
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      **Variety is the spice of life**
+    options:
+      A: New experiences make life more interesting
+      B: Experimentation may be risky
+      C: Life is very beautiful
+      D: There is no life without excitement
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q096
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Potholes and _____________ placed speed breakers of all shapes and sizes on city streets have become a health ______________ for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ______________ back and neck-related complications, potholes have become an _______________ for those on the road. Doctors report an increase in patients with injuries and serious bone-related __________________ in the monsoon.**
+
+      **Potholes and _____ placed speed breakers**
+    options:
+      A: haphazardly
+      B: accidently
+      C: casually
+      D: randomly
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q097
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Potholes and _____________ placed speed breakers of all shapes and sizes on city streets have become a health ______________ for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ______________ back and neck-related complications, potholes have become an _______________ for those on the road. Doctors report an increase in patients with injuries and serious bone-related __________________ in the monsoon.**
+
+      **a health ______________ for two-wheeler riders.**
+    options:
+      A: risk
+      B: threat
+      C: danger
+      D: hazard
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q098
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Potholes and _____________ placed speed breakers of all shapes and sizes on city streets have become a health ______________ for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ______________ back and neck-related complications, potholes have become an _______________ for those on the road. Doctors report an increase in patients with injuries and serious bone-related __________________ in the monsoon.**
+
+      **to serious and ______________ back and neck-related complications**
+    options:
+      A: chronic
+      B: painful
+      C: hurtful
+      D: terrible
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q099
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Potholes and _____________ placed speed breakers of all shapes and sizes on city streets have become a health ______________ for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ______________ back and neck-related complications, potholes have become an _______________ for those on the road. Doctors report an increase in patients with injuries and serious bone-related __________________ in the monsoon.**
+
+      **potholes have become an _______________**
+    options:
+      A: health risk
+      B: dangerous situation
+      C: imminent threat
+      D: epidemic
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-07-s1-q100
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Potholes and _____________ placed speed breakers of all shapes and sizes on city streets have become a health ______________ for two-wheeler riders. From cuts and bruises, wounds, and a visit to the emergency room to serious and ______________ back and neck-related complications, potholes have become an _______________ for those on the road. Doctors report an increase in patients with injuries and serious bone-related __________________ in the monsoon.**
+
+      **serious bone-related __________________ in the monsoon.**
+    options:
+      A: confusions
+      B: complications
+      C: complexities
+      D: difficulties
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english

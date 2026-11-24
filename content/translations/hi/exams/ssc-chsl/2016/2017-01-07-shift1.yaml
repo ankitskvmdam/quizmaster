@@ -1,0 +1,870 @@
+slug: 2017-01-07-shift1
+title: एसएससी सीएचएसएल 2016 टियर 1
+date: 2017-01-07
+label: 7 Jan, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com — https://docs.aglasem.com/view/ff683184-dfa9-11ed-a407-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q9, Q10, Q12, Q13, Q17, Q23, Q24, Q25."
+questions:
+  - slug: chsl-2017-01-07-s1-q001
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित शब्द/अक्षर/संख्या को चुनिए।
+
+      हिराकुंड : महानदी : : टिहरी बाँध : ?
+    options:
+      A: दामोदर
+      B: भागीरथी
+      C: यमुना
+      D: सोन
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q002
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित शब्द/अक्षर/संख्या को चुनिए।
+
+      LG : WM : : DC : ?
+    options:
+      A: IJ
+      B: EF
+      C: GE
+      D: LI
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q003
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित शब्द/अक्षर/संख्या को चुनिए।
+
+      IM : RZ : : HF : ?
+    options:
+      A: MP
+      B: OK
+      C: PL
+      D: QR
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q004
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित शब्द/अक्षर/संख्या को चुनिए।
+
+      16 : 40 : : 20 : ?
+    options:
+      A: "29"
+      B: "21"
+      C: "50"
+      D: "60"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q005
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या/संख्या युग्म चुनिए।
+    options:
+      A: मोहम्मद अज़हरुद्दीन
+      B: सुनील गावस्कर
+      C: ध्यान चंद
+      D: युवराज सिंह
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q006
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या/संख्या युग्म चुनिए।
+    options:
+      A: EV
+      B: GT
+      C: JQ
+      D: MO
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q007
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या/संख्या युग्म चुनिए।
+    options:
+      A: "4246"
+      B: "8314"
+      C: "9546"
+      D: "7284"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q008
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या/संख्या युग्म चुनिए।
+    options:
+      A: 78, 26
+      B: 19, 20
+      C: 20, 40
+      D: 36, 12
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q011
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में, दो कथन दिए गए हैं जिनके आगे दो निष्कर्ष I और II निकाले गए हैं। आपको मानना है कि कथन सत्य है चाहे वे सामान्यतः ज्ञात तथ्यों से भिन्न प्रतीत होते हों। आपको निर्णय करना है कि दिए गए निष्कर्षों में से कौन सा/कौन से निश्चित रूप से कथनों द्वारा सही निकाला जा सकता है/सकते हैं, यदि कोई हो।
+
+      कथनः
+
+      (I) कुछ स्कूटर, ट्रक हैं।
+
+      (II) सभी ट्रक, रेलगाड़ी हैं।
+
+      निष्कर्षः
+
+      (I) कुछ स्कूटर, रेलगाड़ी हैं।
+
+      (II) कोई ट्रक, स्कूटर नहीं है।
+    options:
+      A: निष्कर्ष I सही है
+      B: निष्कर्ष II सही है
+      C: न तो I और न ही II सही है
+      D: I और II दोनों सही हैं
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q014
+    difficulty: medium
+    stem: यदि कल मंगलवार था, तो आज से दसवाँ दिन सप्ताह का कौन-सा दिन होगा?
+    options:
+      A: शुक्रवार
+      B: रविवार
+      C: सोमवार
+      D: शनिवार
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q015
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में आने वाले क्रम के अनुसार लिखें।
+
+      i. Collaborate
+
+      ii. Constant
+
+      iii. Correspondence
+
+      iv. Combination
+    options:
+      A: iv, ii, i, iii
+      B: iii, ii, iv, i
+      C: iv, iii, i, ii
+      D: i, iv, ii, iii
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q016
+    difficulty: medium
+    stem: एक विशिष्ट कोड भाषा में 'TAPERECORDER' को '!#&@^@?%^+@^' लिखा जाता है। इस कोड भाषा में 'REPORT' को किस प्रकार लिखा जाएगा?
+    options:
+      A: ^@&^%!
+      B: ^@&%!
+      C: ^@&%^!
+      D: ^@%&^!
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q018
+    difficulty: medium
+    stem: यदि "*" का अर्थ "जोड़" है, "&" का अर्थ "भाग" है,"@" का अर्थ "गुणा" है और "%" का अर्थ "घटाना" है, तो 153 & 17 @ 6 % 9 * 18 = ?
+    options:
+      A: "63"
+      B: "98"
+      C: "93"
+      D: "10"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q019
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में अक्षरों का कौन सा समूह खाली स्थानों पर क्रमवार रखने से दी गई अक्षर श्रृंखला को पूरा करेगा?
+
+      d_fde_ _deee_
+    options:
+      A: eeff
+      B: cdef
+      C: ddee
+      D: deee
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q020
+    difficulty: medium
+    stem: एक व्यक्ति पश्चिम दिशा की ओर 25 कि.मी. जाता है और फिर 90 डिग्री पर अपने बाएं मुड़कर 4 कि.मी जाता है। अंत में, वह बाएं मुड़कर 25 कि.मी. जाता है। वह अब अपने मूल स्थान से किस दिशा में है?
+    options:
+      A: पश्चिम
+      B: पूर्व
+      C: दक्षिण
+      D: उत्तर
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q021
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि दिए गए दो आव्युहों में है। आव्यूह-I के स्तम्भ और पंक्ति की संख्या 0 से 4 और आव्यूह-II की 5 से 9 है। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए 'N' को 21, 67 आदि द्वारा दर्शाया जा सकता है तथा 'R' को 66, 57 आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए शब्द 'HUNT' के लिए समूह को पहचानना है।
+
+      **Matrix-I / आव्यूह - I**
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | T | R | A | N | B |
+      | 1 | W | U | N | H | U |
+      | 2 | E | N | S | G | U |
+      | 3 | N | Y | P | U | M |
+      | 4 | H | T | U | F | A |
+
+      **Matrix-II / आव्यूह - II**
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | T | A | R | I | H |
+      | 6 | X | R | N | W | B |
+      | 7 | C | S | Y | E | U |
+      | 8 | S | N | T | M | S |
+      | 9 | G | B | E | R | H |
+
+      *(चित्र: Question printed as an image: instructions plus two 5×5 letter matrices (Matrix-I rows/columns 0–4, Matrix-II rows/columns 5–9), transcribed as tables in the stem.)*
+    options:
+      A: 40, 33, 03, 88
+      B: 99, 23, 56, 00
+      C: 59, 42, 12, 79
+      D: 13, 11, 30, 41
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q022
+    difficulty: medium
+    stem: एक लड़की का परिचय कराते हुए एक व्यक्ति कहता है, "वह मेरी पत्नी की बेटी की बेटी है।" वह व्यक्ति उस लड़की से कैसे संबंधित है?
+    options:
+      A: मामा
+      B: बेटा
+      C: नाना
+      D: पिता
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-07-s1-q026
+    difficulty: medium
+    stem: 4 बिट्स का एक समूह एक________बनाता है।
+    options:
+      A: बाईट
+      B: निबल
+      C: गीगाबाइट
+      D: टेराबाईट
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q027
+    difficulty: medium
+    stem: वायुदाबलेखी (बैरोग्राफ़) का_________द्वारा आविष्कार किया गया था।
+    options:
+      A: लूसियां वीदी
+      B: जॉन वेन
+      C: थियोफ़िलस वान केनल
+      D: लुईस उरी
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q028
+    difficulty: medium
+    stem: मधुमेह होने का कारण है
+    options:
+      A: इंसुलिन की बहुलता
+      B: इंसुलिन का कम उत्पादन
+      C: यकृत के कार्य में गड़बड़ी होना
+      D: बिलुरुबिन का उच्चतर उत्पादन
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q029
+    difficulty: medium
+    stem: टेक्टोना ग्रैन्डिस लिन _______ का वैज्ञानिक नाम है।
+    options:
+      A: अमरूद
+      B: सागौन
+      C: आंवला
+      D: चीकू
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q030
+    difficulty: medium
+    stem: सी-एनीमोन्स________ प्रजाति के अंतर्गत आते हैं।
+    options:
+      A: एन्थ्रोपोडा
+      B: नीड़ेरिया
+      C: पोरीफेरा
+      D: मोलस्क
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q031
+    difficulty: medium
+    stem: निम्नलिखित में से कौन किसी परमाणु के केन्द्रक के अंदर स्थित होते हैं?
+    options:
+      A: प्रोटॉन्स और न्यूट्रॉन्स
+      B: इलेक्ट्रॉन्स और प्रोटॉन्स
+      C: न्यूट्रॉन्स और इलेक्ट्रॉन्स
+      D: न्यूट्रॉन्स, प्रोटॉन्स, इलेक्ट्रॉन्स
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q032
+    difficulty: medium
+    stem: बेकिंग सोडा क्या होता है?
+    options:
+      A: एल्युमिनियम बाइकार्बोनेट
+      B: सोडियम आयसोलेट
+      C: सोडियम बाइकार्बोनेट
+      D: एल्युमिनियम सल्फेट
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q033
+    difficulty: medium
+    stem: एलीफेंटा की गुफाएं________में है।
+    options:
+      A: महाराष्ट्र
+      B: ओड़िशा
+      C: राजस्थान
+      D: सिक्किम
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q034
+    difficulty: medium
+    stem: निम्न में से कौन सा उत्तर भारत का एक शास्त्रीय नृत्य है?
+    options:
+      A: भरतनाट्यम
+      B: कुचिपुड़ी
+      C: कथक
+      D: कथकली
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q035
+    difficulty: medium
+    stem: यदि कैम्पिंग टेंट के लिए मांग वक्र है D = 100000 - 17P और आपूर्ति वक्र S= 50000 + 8P तो संतुलन कीमत ज्ञात करें।
+    options:
+      A: रू. 1000
+      B: रू. 2000
+      C: रू. 4000
+      D: रू. 500
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q036
+    difficulty: medium
+    stem: किसी देश में उत्पादन किये गये संपूर्ण सामान और सेवाओं का मूल्य उसका ______ कहलाता है।
+    options:
+      A: सकल घरेलू उत्पाद
+      B: सकल राजस्व आय
+      C: कुल सामान का राजस्व
+      D: कुल आय
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q037
+    difficulty: medium
+    stem: नदियों में घुली हुई ऑक्सीजन की मात्रा प्रति मिलियन ______ भाग होती है।
+    options:
+      A: "125"
+      B: "25"
+      C: "5"
+      D: "0"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q038
+    difficulty: medium
+    stem: निम्नलिखित में से किसे आम जलकुंभी भी कहा जाता है?
+    options:
+      A: पिस्टिया
+      B: ओपंशिया
+      C: एजिलोप्स
+      D: एकोर्निया
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q039
+    difficulty: medium
+    stem: रुक्मिणी देवी अरुंडेल _______ के साथ जुड़ी हुई हैं।
+    options:
+      A: कथक
+      B: भरतनाट्यम
+      C: कुचिपुड़ी
+      D: भांगड़ा
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q040
+    difficulty: medium
+    stem: कौन सा राज्य हरियाणा के साथ अपनी सीमा साझा नही करता?
+    options:
+      A: उत्तरप्रदेश
+      B: मध्यप्रदेश
+      C: हिमाचल प्रदेश
+      D: राजस्थान
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q041
+    difficulty: medium
+    stem: किस ग्रह को एक "बौना ग्रह" कहकर भी संबोधित किया जाता है?
+    options:
+      A: प्लूटो
+      B: बुध
+      C: बृहस्पति
+      D: शनि
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q042
+    difficulty: medium
+    stem: वर्ष 1828 में स्थापित ब्रह्म समाज के संस्थापक कौन थे?
+    options:
+      A: रबिन्द्रनाथ टैगोर
+      B: सुभाषचंद्र बोस
+      C: सरदार वल्लभभाई पटेल
+      D: राजा राममोहन रॉय
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q043
+    difficulty: medium
+    stem: शाहजहाँ ने ताजमहल का निर्माण ______ की याद में करवाया था।
+    options:
+      A: रुकय्या सुल्तान बेगम
+      B: जोधाबाई
+      C: मुमताज महल
+      D: नूरजहाँ
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q045
+    difficulty: medium
+    stem: निम्नलिखित भौतिक मात्राओं में से कौन सी एक अदिश राशि है?
+    options:
+      A: भार
+      B: आवेग
+      C: यंग का मापांक
+      D: त्वरण
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q046
+    difficulty: medium
+    stem: निम्नलिखित तत्वों में से कौन सा तत्व कमरे के तापमान पर द्रव रूप में होता है?
+    options:
+      A: फास्फोरस
+      B: पारा
+      C: सोडियम
+      D: एल्युमिनियम
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q047
+    difficulty: medium
+    stem: कोई भी व्यक्ति भारतीय प्रधानमंत्री के रूप में अधिकतम कितनी बार सेवारत हो सकता है?
+    options:
+      A: "3"
+      B: "5"
+      C: "7"
+      D: कोई सीमा नहीं है।
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q049
+    difficulty: medium
+    stem: दीपिका कुमारी ______ से संबंधित है।
+    options:
+      A: तीरंदाजी
+      B: कुश्ती
+      C: मुक्केबाजी
+      D: तैराकी
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q050
+    difficulty: medium
+    stem: अर्थशास्त्र ______ ने लिखा था।
+    options:
+      A: चाणक्य
+      B: कालिदास
+      C: हर्षवर्धन
+      D: वात्सायन
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-07-s1-q051
+    difficulty: medium
+    stem: ΔABC में, D और E क्रमशः AB और AC पर स्थित बिंदु हैं। DE, BC के समानांतर है। यदि AD, DB और DE की लंबाई क्रमशः 10 से.मी., 5 से.मी. और 6 से.मी. है तो BC की लंबाई क्या हैं?
+    options:
+      A: 9 से.मी.
+      B: 2 से.मी.
+      C: 3 से.मी.
+      D: 11 से.मी.
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q052
+    difficulty: medium
+    stem: यदि 2x - 1 < 5x + 2 और 2x + 5 < 6 - 3x, फिर x का निम्न मानों में से क्या मान होगा?
+    options:
+      A: "1"
+      B: "0"
+      C: "2"
+      D: "-2"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q053
+    difficulty: medium
+    stem: एक बढ़ई एक अलमारी को 60 घंटे में बनाता है। 15 घंटे बाद वह विराम लेता है. अलमारी का कितना भाग अभी भी बनाना बाकी है?
+    options:
+      A: "0.5"
+      B: "0.9"
+      C: "0.75"
+      D: "0.25"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q054
+    difficulty: medium
+    stem: एक राशि में 5 वर्षों में साधारण ब्याज पर 75% की वृद्धि होती है। उसी दर पर 2 वर्षों में 40000 रुपयों का चक्रवृद्धि ब्याज कितना होगा?
+    options:
+      A: 25800 रु
+      B: 32250 रु
+      C: 12900 रु
+      D: 19350 रु
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q055
+    difficulty: medium
+    stem: निम्नलिखित समीकरणों में से किसके मूल का योग 5 है?
+    options:
+      A: x² - 5x + 6 = 0
+      B: x² - 5x - 6 = 0
+      C: x² + 5x + 6 = 0
+      D: x² + 5x - 6 = 0
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q056
+    difficulty: medium
+    stem: एक समद्विबाहु समलम्ब के आधार का कोण 45° है। यदि छोटी भुजा और दो बराबर भुजाएँ प्रत्येक 10 से.मी. हैं, तो उस समलम्ब का क्षेत्रफल क्या होगा?
+    options:
+      A: 50√2 + 50 वर्ग से.मी.
+      B: 50√2 + 100 वर्ग से.मी.
+      C: 100√2 + 50 वर्ग से.मी.
+      D: 100√2 + 100 वर्ग से.मी.
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q057
+    difficulty: medium
+    stem: राहुल एक मशीन 50 लाख रुपए में घाटे में बेचता है। यदि उसने उसे 60 लाख में बेचा होता, तो उसका लाभ उसके पूर्व घाटे का 7 गुना होता। मशीन का क्रय मूल्य क्या है?
+    options:
+      A: 51.25 लाख रु
+      B: 58.75 लाख रु
+      C: 67.14 लाख रु
+      D: 43.75 लाख रु
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q058
+    difficulty: medium
+    stem: यदि एक वृत्त की त्रिज्या में 27% की वृद्धि की जाती है, तो उसका क्षेत्रफल कितने प्रतिशत बढ़ जाएगा?
+    options:
+      A: 61.29 प्रतिशत
+      B: 54 प्रतिशत
+      C: 27 प्रतिशत
+      D: 30.645 प्रतिशत
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q059
+    difficulty: medium
+    stem: यदि गिरिलाल का वेतन हरिराम के वेतन से 11/7 गुना है और शेखर का वेतन हरिराम के वेतन से 3/4 गुना है, तो गिरिलाल के वेतन का शेखर के वेतन से अनुपात क्या होगा?
+    options:
+      A: 44:21
+      B: 28:33
+      C: 33:28
+      D: 21:44
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q060
+    difficulty: medium
+    stem: (cosA + sinA)² + (cosA - sinA)² किसके बराबर है?
+    options:
+      A: "1"
+      B: 1/2
+      C: "2"
+      D: "0"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q061
+    difficulty: medium
+    stem: यदि एक व्यापारी सूची मूल्य पर 20% की छूट प्रदान करती है, तो उसे 16% का नुकसान होता है। यदि वह सूची मूल्य पर 10% की छूट पर माल बेचती है तो उसे कितने % लाभ या कितने % हानि होगी?
+    options:
+      A: 14 प्रतिशत लाभ
+      B: 20 प्रतिशत लाभ
+      C: 50 प्रतिशत लाभ
+      D: 5.5 प्रतिशत हानि
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q062
+    difficulty: medium
+    stem: 30 और 42 के बीच की सभी अविभाज्य संख्याओं का योग क्या है?
+    options:
+      A: "103"
+      B: "109"
+      C: "105"
+      D: "104"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q063
+    difficulty: medium
+    stem: एक अर्द्धगोल के घुमावदार सतह का क्षेत्रफल 2772 वर्ग से.मी. है और आयतन 19404 घन से.मी. है, इसकी त्रिज्या क्या है? (π = 22/7 लीजिये)
+    options:
+      A: 42 से.मी.
+      B: 21 से.मी.
+      C: 10.5 से.मी.
+      D: 31.5 से.मी.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q064
+    difficulty: medium
+    stem: यदि cosC - cosD = x, तो x का मान क्या है ?
+    options:
+      A: 2sin[(C+D)/2]cos[(C-D)/2]
+      B: 2cos[(C+D)/2]sin[(C-D)/2]
+      C: 2sin[(C+D)/2]sin[(D-C)/2]
+      D: 2cos[(C+D)/2]cos[(C-D)/2]
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q065
+    difficulty: medium
+    stem: x का मान क्या है, जिसके लिए समीकरण 12 - 6x और 4x + 2 बराबर होंगे?
+    options:
+      A: "0"
+      B: "2"
+      C: "1"
+      D: "4"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q066
+    difficulty: medium
+    stem: Δ DEF और Δ GHI समरूप त्रिभुज है। DE की लंबाई 4 से.मी. है और संगत भुजा GH की लंबाई 9 से.मी. है। Δ DEF और Δ GHI के क्षेत्रफलों का अनुपात क्या है?
+    options:
+      A: 81:16
+      B: 4:9
+      C: 16:81
+      D: 9:4
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q067
+    difficulty: medium
+    stem: 816 कि.मी. की यात्रा करने के लिए एक एक्सप्रेस ट्रेन राजधानी से 9 घंटे अधिक लेती है। यदि फिर एक्सप्रेस ट्रेन की गति दुगुनी कर दी जाती है, तो वह राजधानी की तुलना में 4 घंटे कम समय लेती है। राजधानी की गति क्या है?
+    options:
+      A: 48 कि.मी./घंटा
+      B: 62.8 कि.मी./घंटा
+      C: 33.2 कि.मी./घंटा
+      D: 77.5 कि.मी./घंटा
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q068
+    difficulty: medium
+    stem: उस रेखा का समीकरण क्या है, जो x-अक्ष को -5 पर काटती है और रेखा y = 2x + 3 पर एक लंब है?
+    options:
+      A: x - 2y = -5
+      B: x + 2y = 5
+      C: x + 2y = -5
+      D: x - 2y = 5
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q069
+    difficulty: medium
+    stem: यदि 4pxy = (x + 2y)² - (x - 2y)² है, तो p का मान क्या होगा?
+    options:
+      A: "0.5"
+      B: "0.25"
+      C: "4"
+      D: "2"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q070
+    difficulty: medium
+    stem: एक क्रिकेट मैच के पहले 26 ओवर में रन रेट 5.4 रन/ओवर था। शेष 24 ओवरों में 294 रन के लक्ष्य तक पहुँचने के लिए अपेक्षित रन रेट क्या होगा?
+    options:
+      A: "7"
+      B: "6.4"
+      C: "7.6"
+      D: "5.8"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q071
+    difficulty: medium
+    stem: tan -5π/6 का मान क्या है?
+    options:
+      A: -1/√3
+      B: 1/√3
+      C: √3
+      D: -√3
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q072
+    difficulty: medium
+    stem: |-
+      नीचे दिये गए डेटा तालिका के आधार पर निम्नलिखित प्रश्न का उत्तर दें।
+
+      |  | कर्मचारियों की संख्या | वार्षिक वेतन (लाखों में) | वार्षिक वेतन के प्रतिशत के रूप में बोनस |
+      |---|---|---|---|
+      | प्रबंधक | 1 | 48 | 40% |
+      | कार्यकारी | 6 | 16 | 20% |
+      | प्रशिक्षु | 2 | 2 | 20% |
+
+      औसत बोनस (रुपये में) कितना है?
+
+      *(चित्र: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: "3920004"
+      B: "220000"
+      C: "228000"
+      D: "435556"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q073
+    difficulty: medium
+    stem: |-
+      नीचे दिये गए डेटा तालिका के आधार पर निम्नलिखित प्रश्न का उत्तर दें।
+
+      |  | 2011 | 2012 | 2013 | 2014 | 2015 |
+      |---|---|---|---|---|---|
+      | कंपनी A | 4000 | 3000 | 3000 | 1000 | 2000 |
+      | कंपनी B | 1000 | 1000 | 1000 | 5000 | 4000 |
+      | कंपनी C | 1000 | 1000 | 4000 | 2000 | 1000 |
+
+      निम्न में से वर्षों की कौन सी जोड़ी के लिए तीनों कंपनियों का कुल निर्यात बराबर है?  
+      (नोट: दिए गए आँकड़े लाख रुपए में है)
+
+      *(चित्र: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: 2013 एवं 2014
+      B: 2013 एवं 2015
+      C: 2011 एवं 2012
+      D: 2014 एवं 2015
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-07-s1-q075
+    difficulty: medium
+    stem: |-
+      नीचे दिये गए डेटा तालिका के आधार पर निम्नलिखित प्रश्न का उत्तर दें।
+
+      | वर्ष 2015 में भारत का निर्यात | मिलियन डॉलर में मूल्य |
+      |---|---|
+      | जेवर | 500 |
+      | सॉफ्टवेयर | 850 |
+      | कपास | 950 |
+      | इस्पात | 1000 |
+      | इलेक्ट्रानिक्स | 875 |
+
+      इलेक्ट्रॉनिक्स का निर्यात भारत के कुल निर्यात का कितना प्रतिशत था?
+
+      *(चित्र: Question printed as an image (bilingual data table), transcribed as a table in the stem. The column header prints ‘Value in million US’ followed by the dollar sign; written here as ‘US dollars’.)*
+    options:
+      A: 23.46 प्रतिशत
+      B: 25.96 प्रतिशत
+      C: 18.46 प्रतिशत
+      D: 20.96 प्रतिशत
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant

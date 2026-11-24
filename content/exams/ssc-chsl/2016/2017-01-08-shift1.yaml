@@ -1,0 +1,1314 @@
+slug: 2017-01-08-shift1
+title: SSC CHSL 2016 Tier 1
+date: 2017-01-08
+label: 8 Jan, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com — https://docs.aglasem.com/view/ff87d5e8-dfa9-11ed-b556-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q9, Q10, Q11, Q12, Q17, Q23, Q24, Q25."
+questions:
+  - slug: chsl-2017-01-08-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      Ganga : India : : Nile : ?
+    options:
+      A: Pakistan
+      B: Egypt
+      C: America
+      D: United Kingdom
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      RM : XG : : ER : ?
+    options:
+      A: PK
+      B: LK
+      C: KL
+      D: PL
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      ET : VG : : NO : ?
+    options:
+      A: IM
+      B: MI
+      C: ML
+      D: LM
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      97 : 63 : : 67 : ?
+    options:
+      A: "38"
+      B: "56"
+      C: "42"
+      D: "45"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q005
+    difficulty: medium
+    stem: Findout the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: Daman and Diu
+      B: Puducherry
+      C: Delhi
+      D: Chennai
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q006
+    difficulty: medium
+    stem: Findout the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: POR
+      B: MEF
+      C: TUD
+      D: STD
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q007
+    difficulty: medium
+    stem: Findout the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: "636"
+      B: "749"
+      C: "864"
+      D: "989"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q008
+    difficulty: medium
+    stem: Findout the odd word/letters/number/number pair from the given alternatives.
+    options:
+      A: "1728"
+      B: "2197"
+      C: "3266"
+      D: "2744"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q013
+    difficulty: medium
+    stem: |-
+      In the following question, two statements are given each followed by two conclusions I and II. You have to consider the statements to be true even if they seem to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.
+
+      Statements:
+
+      (I) Some notes are coins.
+
+      (II) No coin is a card.
+
+      Conclusion:
+
+      (I) All cards can be notes.
+
+      (II) Some notes are neither coins nor cards.
+    options:
+      A: Conclusion I follows
+      B: Conclusion II follows
+      C: Neither I nor II follows
+      D: Both I and II follows
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q014
+    difficulty: medium
+    stem: If 27th December 2009 was a Thursday, then what day of the week was it on 1st March 2010?
+    options:
+      A: Thursday
+      B: Friday
+      C: Sunday
+      D: Monday
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q015
+    difficulty: medium
+    stem: |-
+      Arrange the given words in the sequence in which they occur in the dictionary.
+
+      i. Obstacle
+
+      ii. Obscure
+
+      iii. Obsession
+
+      iv. Obstruct
+    options:
+      A: iii, iv, i, ii
+      B: i, iv, iii, ii
+      C: ii, iii, i, iv
+      D: iv, iii, ii, i
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q016
+    difficulty: medium
+    stem: In a certain code language, "REMINDER" is written as "SFNJMCDQ". How is "STANDARD" written in that code language?
+    options:
+      A: TUBOEQZE
+      B: CZQETUBO
+      C: TUBOCZQC
+      D: TUBOEBSE
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q018
+    difficulty: medium
+    stem: If "A" denotes "added to", "B" denotes "divided by", "C" denotes "multiplied by" and "D" denotes "subtracted from", then 116 B 29 C 6 A 24 D 45 = ?
+    options:
+      A: "4"
+      B: "3"
+      C: "5"
+      D: "6"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q019
+    difficulty: medium
+    stem: |-
+      Which set of letters when sequentially placed at the gaps in the given letter series shall complete it?
+
+      _r_r_t_r_r_t
+    options:
+      A: tpprpp
+      B: ttprrp
+      C: tpptpp
+      D: ttpprp
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q020
+    difficulty: medium
+    stem: A man is facing towards the east. He turns 270 degrees clockwise and then takes a right turn. Finally, he turns 90 degrees anticlockwise. Which direction is he facing now?
+    options:
+      A: West
+      B: South
+      C: North
+      D: East
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q021
+    difficulty: medium
+    stem: |-
+      A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example, 'F' can be represented by 32, 42 etc., and 'M' can be represented by 88, 68 etc. Similarly, you have to identify the set for the word 'DOWN'.
+
+      **Matrix-I**
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | I | N | U | H | E |
+      | 1 | U | I | N | L | L |
+      | 2 | W | G | I | N | E |
+      | 3 | W | W | F | I | U |
+      | 4 | W | W | F | N | E |
+
+      **Matrix-II**
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | I | D | D | R | O |
+      | 6 | O | I | I | M | D |
+      | 7 | O | D | G | I | O |
+      | 8 | D | M | T | M | I |
+      | 9 | D | D | D | M | D |
+
+      *(Figure: Question printed as an image: instructions plus two 5×5 letter matrices (Matrix-I rows/columns 0–4, Matrix-II rows/columns 5–9), transcribed as tables in the stem.)*
+    options:
+      A: 76, 59, 21, 33
+      B: 95, 79, 40, 43
+      C: 99, 57, 30, 42
+      D: 69, 65, 20, 85
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q022
+    difficulty: medium
+    stem: Nishi's grandfather is the brother of Om's father. Hemant is the son of Om. How is Hemant related to Nishi?
+    options:
+      A: Brother
+      B: Son
+      C: Cousin
+      D: Nephew
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2017-01-08-s1-q026
+    difficulty: medium
+    stem: Web pages are created by using which of the following?
+    options:
+      A: HTTP
+      B: SMTP
+      C: HTML
+      D: SGML
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q027
+    difficulty: medium
+    stem: Seismometer was invented by
+    options:
+      A: Alexander Parkes
+      B: Luigi Palmieri
+      C: Alexey Pajitnov
+      D: Ransom Eli Olds
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q028
+    difficulty: medium
+    stem: Deficiency of which of the following causes non-clotting of blood?
+    options:
+      A: Vitamin C
+      B: Vitamin K
+      C: Vitamin E
+      D: Vitamin B12
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q029
+    difficulty: medium
+    stem: The process of producing energy in plants is known as
+    options:
+      A: Absorption
+      B: Reduction
+      C: Photosynthesis
+      D: Transpiration
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q030
+    difficulty: medium
+    stem: Which Virus causes Chicken Pox?
+    options:
+      A: Rubella Virus
+      B: Herpes Zoster Virus
+      C: Rabies
+      D: Variola Virus
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q031
+    difficulty: medium
+    stem: Which among the following is an endothermic reaction?
+    options:
+      A: Respiration
+      B: Combustion
+      C: Sweating
+      D: Burning of natural gas
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q032
+    difficulty: medium
+    stem: Name the catalyst used in the conversion of milk into curd.
+    options:
+      A: Pepsin
+      B: Invertase
+      C: Lactase
+      D: Diastase
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q033
+    difficulty: medium
+    stem: Bibi Ka Maqbara was built by
+    options:
+      A: Humayun
+      B: Azam Shah
+      C: Babur
+      D: Aurangzeb
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q034
+    difficulty: medium
+    stem: In which state of India 'Bodo language' is primarily spoken ?
+    options:
+      A: Assam
+      B: Karnataka
+      C: Rajasthan
+      D: Andhra Pradesh
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q035
+    difficulty: medium
+    stem: A company faces a -2.5 price elasticity of demand for its product. It is presently selling 10,000 units/month. If it wants to increase quantity sold by 6%, it must lower its price by
+    options:
+      A: 3.50%
+      B: 15%
+      C: 2.50%
+      D: 2.40%
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q036
+    difficulty: medium
+    stem: Lowering of value of currency relative to a foreign reference currency is called _________.
+    options:
+      A: Devaluation
+      B: Revaluation
+      C: Down valuation
+      D: Negative valuation
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q037
+    difficulty: medium
+    stem: What does BOD5 refer to?
+    options:
+      A: Biochemical Oxygen Demand in 5 days
+      B: Biochemical Oxygen Demand in 5 hours
+      C: Biochemical Oxygen Demand in 5 minutes
+      D: Biochemical Oxygen Demand in 5 Months
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q038
+    difficulty: medium
+    stem: Kanha National Park saving the rare and almost extinct species of the Swamp Deer, also known as
+    options:
+      A: Barasingha
+      B: Black Buck
+      C: Chinkara
+      D: Nilgai
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q039
+    difficulty: medium
+    stem: Which is the highest grossing movie of all time?
+    options:
+      A: Avatar
+      B: Star Wars
+      C: Jurassic Park
+      D: Deadpool
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q040
+    difficulty: medium
+    stem: Which state in India has the largest cover area of forest?
+    options:
+      A: Uttarakhand
+      B: Madhya Pradesh
+      C: Kerala
+      D: Uttar Pradesh
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q041
+    difficulty: medium
+    stem: Longest day in the Northern hemisphere is ________.
+    options:
+      A: 21st March
+      B: 21st September
+      C: 21st June
+      D: 21st April
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q042
+    difficulty: medium
+    stem: World War I broke out in the year
+    options:
+      A: "1904"
+      B: "1914"
+      C: "1924"
+      D: "1934"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q043
+    difficulty: medium
+    stem: Name the poet who wrote "Prithviraj Raso", a poem describing Prithviraj Chauhan's life.
+    options:
+      A: Vir Siroja
+      B: Chand Bardai
+      C: Meerja Umed
+      D: Nur Fateh
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q044
+    difficulty: medium
+    stem: __________ is the 2016 Oscar Winner for Best Supporting Actress.
+    options:
+      A: Alicia Vikander
+      B: Jennifer Jason Leigh
+      C: Rooney Mara
+      D: Kate Winslet
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q045
+    difficulty: medium
+    stem: For every action, there is an equal and opposite reaction, is Newton's
+    options:
+      A: First law
+      B: Second law
+      C: Third law
+      D: Fourth law
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q046
+    difficulty: medium
+    stem: Which among the following is false about displacement?
+    options:
+      A: It can be positive, negative or zero
+      B: Displacement is never greater than Distance
+      C: Its SI unit is meter
+      D: It is always positive
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q047
+    difficulty: medium
+    stem: The Governor takes the oath of office by
+    options:
+      A: Chief Justice of High Court
+      B: Chief Justice of India
+      C: President of India
+      D: Vice President of India
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q048
+    difficulty: medium
+    stem: Which fundamental right is abolished by the 44th Amendment?
+    options:
+      A: Right to Liberty
+      B: Right to Property
+      C: Right to Equality
+      D: Right to Religion
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q049
+    difficulty: medium
+    stem: In which sport in Asian Games, India has won maximum Gold Medals?
+    options:
+      A: Athletics
+      B: Hockey
+      C: Wrestling
+      D: Shooting
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q050
+    difficulty: medium
+    stem: '"An Extraordinary Life, An Indian Destiny" is a biography on'
+    options:
+      A: Manmohan Singh
+      B: Sonia Gandhi
+      C: Shashi Tharoor
+      D: Indira Gandhi
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2017-01-08-s1-q051
+    difficulty: medium
+    stem: What is the value of (4a² - 9b²)/(2a + 3b) is
+    options:
+      A: 2a - 3b
+      B: 2a + 3b
+      C: 2a
+      D: 3b
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q052
+    difficulty: medium
+    stem: 5% discount is offered on an item. By applying a promo code the customer wins 20% cash back. What is the effective discount?
+    options:
+      A: 28.8 percent
+      B: 24 percent
+      C: 25 percent
+      D: 21 percent
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q053
+    difficulty: medium
+    stem: A student multiplied a number by 5/6 instead of 6/5. What is the percentage error in the calculation?
+    options:
+      A: 44 percent
+      B: 30.56 percent
+      C: 15.28 percent
+      D: 22 percent
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q054
+    difficulty: medium
+    stem: The difference between simple and compound interests compounded annually on a certain sum of money for 2 years at 12% per annum is Rs 900. What is the value of given sum (in Rs)?
+    options:
+      A: "125000"
+      B: "250000"
+      C: "62500"
+      D: "187500"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q055
+    difficulty: medium
+    stem: "Given: 6x + 2(6-x) > 2x -2 < 5x/2 - 3x/4; then x can take which of the following values?"
+    options:
+      A: "9"
+      B: "-8"
+      C: "5"
+      D: "-9"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q056
+    difficulty: medium
+    stem: At least one pair of opposite angles is congruent in a _____.
+    options:
+      A: Cyclic quadrilateral
+      B: Trapezium
+      C: Isosceles trapezium
+      D: Kite
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q057
+    difficulty: medium
+    stem: A rice trader buys 25 quintals of rice for Rs 1,825. 27% rice is lost in transportation. At what rate should he sell to earn 20% profit?
+    options:
+      A: Rs 44.4 per quintal
+      B: Rs 120 per quintal
+      C: Rs 87.6 per quintal
+      D: Rs 115.8 per quintal
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q058
+    difficulty: medium
+    stem: (1 + sinA)/(1 - sinA) is equal to?
+    options:
+      A: (cosecA - 1)/(cosecA + 1)
+      B: (cosecA + 1)/(cosecA - 1)
+      C: (secA + 1)/(secA - 1)
+      D: (secA - 1)/(secA + 1)
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q059
+    difficulty: medium
+    stem: Expanded and simplification of (x + 3)(x - 1) will be equal to
+    options:
+      A: x² + 2x - 3
+      B: x² + 3x + 2
+      C: x² - 2x + 3
+      D: x² + 3x - 2
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q060
+    difficulty: medium
+    stem: If 4/5th of 6/7th of a number is 216, then 8/9th of that number will be
+    options:
+      A: "179"
+      B: "280"
+      C: "160"
+      D: "269"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q061
+    difficulty: medium
+    stem: In an army selection process, the ratio of selected to unselected candidates was 9:2. If 80 less had applied and 20 less selected, the ratio of selected to unselected would have been 5:1. How many candidates had applied for the process?
+    options:
+      A: "6160"
+      B: "1540"
+      C: "3080"
+      D: "9240"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q062
+    difficulty: medium
+    stem: If sin 30° + cos 45° = X, then the value of X.
+    options:
+      A: (2√2-√3)/2
+      B: 4/√3
+      C: (1-√3)/√3
+      D: (1+√2)/2
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q063
+    difficulty: medium
+    stem: Product of digits of a 2-digit number is 18. If we add 63 to the number, the new number obtained is a number formed by interchange of the digits. Find the number.
+    options:
+      A: "92"
+      B: "29"
+      C: "36"
+      D: "63"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q064
+    difficulty: medium
+    stem: The average weight of Somdev, Gurdeep and Ritu is 85 kg. If the average weight of Somdev and Gurdeep be 79 kg and that of Gurdeep and Ritu be 73 kg, then the weight of Gurdeep is
+    options:
+      A: "78"
+      B: "49"
+      C: "72"
+      D: "90"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q065
+    difficulty: medium
+    stem: If sinC + sinD =X, then the value of X is?
+    options:
+      A: 2cos[(C+D)/2]sin[(C-D)/2]
+      B: 2sin[(C+D)/2]cos[(C-D)/2]
+      C: 2cos[(C+D)/2]cos[(C-D)/2]
+      D: 2sin[(C+D)/2]sin[(D-C)/2]
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q066
+    difficulty: medium
+    stem: 4 hrs after a goods train passed a station, another train travelling at a speed of 72 km/hr following that goods train passed through that station. If after passing the station the train overtakes the goods train in 8 hours. What is the speed of the goods train?
+    options:
+      A: 48 km/hr
+      B: 57.6 km/hr
+      C: 72 km/hr
+      D: 38.4 km/hr
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q067
+    difficulty: medium
+    stem: Find co-ordinates of the mid point of the segment joining points C (3,-5) and D (-7,3).
+    options:
+      A: (-2, -1)
+      B: (5, -4)
+      C: (-5, 4)
+      D: (2, 1)
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q068
+    difficulty: medium
+    stem: A line passing through the origin perpendicularly cuts the line 2x + 3y = 6 at point M. Find M?
+    options:
+      A: (6/11, 9/11)
+      B: (6/7, 9/7)
+      C: (6/11, -9/11)
+      D: (-6/7, 9/7)
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q069
+    difficulty: medium
+    stem: P and Q can do a project in 6 and 12 days respectively. In how many days can they complete 25% of the project if they work together?
+    options:
+      A: 2 days
+      B: 4 days
+      C: 1 days
+      D: 8 days
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q070
+    difficulty: medium
+    stem: Find the radius of the circle if the length of its arc is 33 cm whose corresponding central angle is 90° ?
+    options:
+      A: 21 cm
+      B: 14 cm
+      C: 7 cm
+      D: 28 cm
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q071
+    difficulty: medium
+    stem: A cylindrical vessel of radius 6 cm is partially filled with water. By how much will the water level rise if a sphere of radius 5 cm is completely immersed in this water? (Take π = 22/7)
+    options:
+      A: 6.67 cm
+      B: 5.56 cm
+      C: 6.94 cm
+      D: 4.63 cm
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q072
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      | Division / Standard | Boys | Girls |
+      |---|---|---|
+      | Division A / Standard 5 | 30 | 25 |
+      | Division B / Standard 5 | 15 | 25 |
+      | Division C / Standard 5 | 40 | 25 |
+      | Division A / Standard 6 | 20 | 40 |
+      | Division B/Standard 6 | 10 | 20 |
+      | Division C / Standard 6 | 30 | 40 |
+
+      What is the ratio of boys to girls?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: "29 : 35"
+      B: "35 : 29"
+      C: "31 : 37"
+      D: "37 : 31"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q073
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      | Marks | Number of students |
+      |---|---|
+      | 40 and above | 26 |
+      | 30 and above | 42 |
+      | 30 and above | 55 |
+      | 10 and above | 77 |
+      | 0 and above | 107 |
+
+      How many students have scored marks 20 or more but less than 40?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: "55"
+      B: "29"
+      C: "42"
+      D: "97"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q074
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      | Year | GDP growth rate for the year (in %) |
+      |---|---|
+      | 2011 | 8 |
+      | 2012 | 5 |
+      | 2013 | -6 |
+      | 2014 | 6 |
+      | 2015 | -8 |
+
+      If the GDP of the country was USD 1 trillion at the end of 2013, what was it at the beginning of 2015?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem. The paper writes these amounts with the dollar symbol before the number; written here as ‘USD’.)*
+    options:
+      A: USD 0.94 trillion
+      B: USD 0.92 trillion
+      C: USD 1.06 trillion
+      D: USD 0.98 trillion
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q075
+    difficulty: medium
+    stem: |-
+      Refer the below data table and answer the following Question.
+
+      | Subjects | Marks scored |
+      |---|---|
+      | English | 80 |
+      | Hindi | 40 |
+      | Math | 30 |
+      | Science | 80 |
+      | Arts | 30 |
+
+      Five points are to be deducted from the students average of marks scored because of poor attendance. What will be the students net average marks scored?
+
+      *(Figure: Question printed as an image (bilingual data table), transcribed as a table in the stem.)*
+    options:
+      A: "42"
+      B: "37"
+      C: "52"
+      D: "47"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2017-01-08-s1-q076
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      **I asked the shopkeeper (A)/"Do you have change(B)/for a five hundred rupees note?"(C)/No error(D)**
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q077
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.
+
+      **things that have been discarded as worthless.**
+    options:
+      A: remains
+      B: flotsam
+      C: shambles
+      D: havoc
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q078
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      **(I myself think)** that this investigation is biased.
+    options:
+      A: I think myself
+      B: I thought myself
+      C: I myself thought
+      D: no improvement
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q079
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      **Each boy was given (A)/a toy as a parting gift,(B)/which made them happy.(C)/No error(D)**
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q080
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      **The __________ with which she manages the task is remarkable.**
+    options:
+      A: calm
+      B: comfort
+      C: ease
+      D: satisfaction
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q081
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best express the same sentence in Indirect/Direct speech.
+
+      **The preacher said, "May God grant peace to the departed!"**
+    options:
+      A: The preacher prays that God will grant peace to the departed.
+      B: The preacher prayed that God would grant peace to the departed.
+      C: The preacher said that God may grant peace to the departed.
+      D: The preacher said, God may grant peace to the departed.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the antonym of
+
+      **ingestion**
+    options:
+      A: gulp
+      B: slug
+      C: excrete
+      D: chug
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q083
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      **Today, however, when one in four rural Indians**
+
+      **P-in identifying the poor are far greater**
+
+      **Q-is poor, our chances of being wrong**
+
+      **R-and one in six urban Indians**
+    options:
+      A: PRQ
+      B: RQP
+      C: QRP
+      D: QPR
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q084
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      Fans **(queue)** for the concert tickets since early morning.
+    options:
+      A: has queued up
+      B: have had queued
+      C: have been queuing up
+      D: no improvement
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q085
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase.
+
+      **become apparent through the appearance of symptoms.**
+    options:
+      A: manifest
+      B: distinct
+      C: visible
+      D: divulged
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q086
+    difficulty: medium
+    stem: |-
+      Select the synonym of
+
+      **splinter**
+    options:
+      A: stub
+      B: share
+      C: chip
+      D: friction
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q087
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      **In that case,**
+
+      **P-put together the best gender-just**
+
+      **Q-practices from all Personal Laws**
+
+      **R-a Uniform Civil Code would simply**
+    options:
+      A: RPQ
+      B: QRP
+      C: RQP
+      D: PQR
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q088
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      **Wear your heart on your sleeve**
+    options:
+      A: a very bold person
+      B: a noble pure person
+      C: make one's feelings apparent
+      D: being overtly polite at all times
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q089
+    difficulty: medium
+    stem: Select the word with the correct spelling.
+    options:
+      A: comando
+      B: coolants
+      C: limphoid
+      D: permutted
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the synonym of
+
+      **spartan**
+    options:
+      A: garish
+      B: forgiven
+      C: civilized
+      D: brave
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q091
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      **The Directors failed to understand the ______________ behind the decision to suspend the manager.**
+    options:
+      A: belief
+      B: politics
+      C: ideology
+      D: rationale
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q092
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      **When it rains, it pours**
+    options:
+      A: one getting much less than what one expected
+      B: calamity always occurs in bad times
+      C: you always fall into trouble when you are least prepared
+      D: When something bad occurs, it usually occurs more than once
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q093
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Active/Passive voice. Out of four alternatives suggested, select the one, which best expresses the same sentence in Passive/Active voice.
+
+      **Dark clouds have overcast the evening sky.**
+    options:
+      A: By the dark clouds the evening sky was overcast.
+      B: The evening sky has been overcast by the dark clouds.
+      C: Dark clouds overcastted the evening sky.
+      D: The sky of the evening was overcasted by dark clouds.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q094
+    difficulty: medium
+    stem: |-
+      Select the antonym of
+
+      **horrify**
+    options:
+      A: affright
+      B: petrify
+      C: appall
+      D: soothe
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q095
+    difficulty: medium
+    stem: Select the word with the correct spelling.
+    options:
+      A: pillages
+      B: spliter
+      C: palenes
+      D: bloting
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q096
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Words give reality to life. Some do better than others, offering ____________ as in twenty shades of grey. They do not _____________ describe reality, they create it, giving it colour, depth, and form. __________ all, what I am really interested in here is talking about just one word which reveals a great ___________ about India. The word tells us about its politics, its social self, and its communities. __________, that word is not jugaad. It's close, but the word is matlabi.**
+
+      **offering ____________ as in twenty shades of grey.**
+    options:
+      A: distinction
+      B: nuance
+      C: hint
+      D: implication
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q097
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Words give reality to life. Some do better than others, offering ____________ as in twenty shades of grey. They do not _____________ describe reality, they create it, giving it colour, depth, and form. __________ all, what I am really interested in here is talking about just one word which reveals a great ___________ about India. The word tells us about its politics, its social self, and its communities. __________, that word is not jugaad. It's close, but the word is matlabi.**
+
+      **They do not ______________ describe reality**
+    options:
+      A: so
+      B: just
+      C: somewhat
+      D: whatsoever
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q098
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Words give reality to life. Some do better than others, offering ____________ as in twenty shades of grey. They do not _____________ describe reality, they create it, giving it colour, depth, and form. __________ all, what I am really interested in here is talking about just one word which reveals a great ___________ about India. The word tells us about its politics, its social self, and its communities. __________, that word is not jugaad. It's close, but the word is matlabi.**
+
+      **__________ all, what I am really interested in here is talking about**
+    options:
+      A: Hence
+      B: So
+      C: Henceforth
+      D: But
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q099
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Words give reality to life. Some do better than others, offering ____________ as in twenty shades of grey. They do not _____________ describe reality, they create it, giving it colour, depth, and form. __________ all, what I am really interested in here is talking about just one word which reveals a great ___________ about India. The word tells us about its politics, its social self, and its communities. __________, that word is not jugaad. It's close, but the word is matlabi.**
+
+      **one word which reveals a great ___________ about India.**
+    options:
+      A: deal
+      B: amount
+      C: quantity
+      D: information
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: chsl-2017-01-08-s1-q100
+    difficulty: medium
+    stem: |-
+      In the following passage, some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      **Words give reality to life. Some do better than others, offering ____________ as in twenty shades of grey. They do not _____________ describe reality, they create it, giving it colour, depth, and form. __________ all, what I am really interested in here is talking about just one word which reveals a great ___________ about India. The word tells us about its politics, its social self, and its communities. __________, that word is not jugaad. It's close, but the word is matlabi.**
+
+      **__________, that word is not jugaad.**
+    options:
+      A: Because
+      B: But
+      C: No
+      D: Yes
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
