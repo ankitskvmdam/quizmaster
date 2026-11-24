@@ -164,8 +164,8 @@ export const caTestFile = z
 // ---------------------------------------------------------------------------
 export const bookFile = z
   .object({
-    /** "topic": written for one syllabus topic (shown on the Topics shelf, chapters called sections) rather than a published book. */
-    kind: z.enum(['book', 'topic']).default('book'),
+    /** "topic": written for one syllabus topic rather than a published book; "monthly": one month of current affairs. Each has its own shelf, and their chapters are called sections. */
+    kind: z.enum(['book', 'topic', 'monthly']).default('book'),
     title: z.string().min(1),
     author: z.string().optional(),
     edition: text.optional(),
@@ -175,13 +175,13 @@ export const bookFile = z
   })
   .strict()
 
-/** covers: tree paths relative to the subject, e.g. "ancient/india" (or "" / "." for the whole subject). */
+/** covers: tree paths relative to the subject, e.g. "ancient/india", or "." for the whole subject. */
 export const chapterFrontmatter = z
   .object({
     slug,
     number: z.number().int().positive(),
     title: z.string().min(1),
-    covers: z.array(z.string().regex(/^[a-z0-9-]+(\/[a-z0-9-]+)*$/, 'must be a path like ancient/india')).min(1),
+    covers: z.array(z.string().regex(/^(\.|[a-z0-9-]+(\/[a-z0-9-]+)*)$/, 'must be a path like ancient/india, or "." for the whole subject')).min(1),
   })
   .strict()
 

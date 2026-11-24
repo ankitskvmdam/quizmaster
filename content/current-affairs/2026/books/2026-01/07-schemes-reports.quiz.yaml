@@ -1,0 +1,112 @@
+# Section 7 — Government Schemes, Reports & Indices (January 2026)
+- slug: ca-2601-sch-01
+  difficulty: easy
+  stem: "Which organisation publishes the Global Risks Report?"
+  options: { A: "World Bank", B: "International Monetary Fund", C: "United Nations Development Programme", D: "World Economic Forum" }
+  answer: D
+  explanation: "The World Economic Forum publishes the Global Risks Report; the 2026 edition ranked geoeconomic confrontation as the top risk."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-02
+  difficulty: easy
+  stem: "The Export Preparedness Index is released by"
+  options: { A: "NITI Aayog", B: "the Reserve Bank of India", C: "the Ministry of Finance", D: "the EXIM Bank" }
+  answer: A
+  explanation: "NITI Aayog releases the Export Preparedness Index; Maharashtra topped the large States in the 2024 edition."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-03
+  difficulty: easy
+  stem: "The Bureau of Energy Efficiency, which gives star labels to appliances, works under the Ministry of"
+  options: { A: "New and Renewable Energy", B: "Power", C: "Consumer Affairs", D: "Environment, Forest and Climate Change" }
+  answer: B
+  explanation: "BEE is a body under the Ministry of Power; it made star labelling compulsory for more appliances from 1 January 2026."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-04
+  difficulty: easy
+  stem: "The Bal Vivah Mukt Bharat Abhiyan is a campaign against"
+  options: { A: "child labour", B: "malnutrition", C: "child marriage", D: "school dropout" }
+  answer: C
+  explanation: "The campaign, launched in 2024 by the Ministry of Women and Child Development, aims to end child marriage."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-05
+  difficulty: medium
+  stem: "Which State ranked first among large States in NITI Aayog's Export Preparedness Index 2024?"
+  options: { A: "Gujarat", B: "Tamil Nadu", C: "Maharashtra", D: "Karnataka" }
+  answer: C
+  explanation: "Maharashtra was first, followed by Tamil Nadu and Gujarat."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-06
+  difficulty: medium
+  stem: "According to the Global Risks Report 2026, what is the top risk for India?"
+  options: { A: "Extreme weather", B: "Cybersecurity", C: "Inflation", D: "Water shortage" }
+  answer: B
+  explanation: "The report named cybersecurity as India's top risk, with income and wealth inequality second."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-07
+  difficulty: medium
+  stem: "The VB-G RAM G Act, 2025, guarantees how many days of rural employment in a year?"
+  options: { A: "125", B: "100", C: "150", D: "200" }
+  answer: A
+  explanation: "The Act raises the statutory guarantee of rural employment to 125 days."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-08
+  difficulty: medium
+  stem: "The PANKHUDI portal was launched by the Ministry of"
+  options: { A: "Education", B: "Social Justice and Empowerment", C: "Rural Development", D: "Women and Child Development" }
+  answer: D
+  explanation: "PANKHUDI is a single-window portal of the Ministry of Women and Child Development for CSR and partnership support."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-09
+  difficulty: medium
+  stem: "India's first nationwide Adult Skill Assessment Survey (2026) will be conducted by"
+  options: { A: "NITI Aayog", B: "MoSPI", C: "the National Skill Development Corporation", D: "the Ministry of Labour and Employment" }
+  answer: B
+  explanation: "The Ministry of Statistics and Programme Implementation will conduct the survey at the request of the Skill Development Ministry."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-10
+  difficulty: hard
+  stem: "Which district is India's first child-marriage-free district?"
+  options: { A: "Balod, Chhattisgarh", B: "Surajpur, Chhattisgarh", C: "Udhampur, Jammu and Kashmir", D: "Una, Himachal Pradesh" }
+  answer: A
+  explanation: "Balod in Chhattisgarh was declared India's first child-marriage-free district."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-11
+  difficulty: hard
+  stem: "The Responsible Nations Index, covering 154 countries, was launched by the"
+  options: { A: "World Economic Forum", B: "Observer Research Foundation", C: "World Intellectual Foundation", D: "United Nations Environment Programme" }
+  answer: C
+  explanation: "The World Intellectual Foundation launched the Responsible Nations Index."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-12
+  difficulty: hard
+  stem: "The report 'State of Finance for Nature 2026' was published by"
+  options: { A: "the World Bank", B: "the IUCN", C: "the FAO", D: "UNEP" }
+  answer: D
+  explanation: "UNEP's report found that finance harming nature reached USD 7.3 trillion in 2023."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-13
+  difficulty: hard
+  stem: "'Kaladi', a GI-tagged dairy product to be promoted under One District One Product, belongs to"
+  options: { A: "Udhampur", B: "Kangra", C: "Leh", D: "Almora" }
+  answer: A
+  explanation: "Kaladi is a traditional cheese of Udhampur in Jammu and Kashmir."
+  tags: ["2026-01"]
+
+- slug: ca-2601-sch-14
+  difficulty: hard
+  stem: "Under the Tex-RAMPS scheme, the Ministry of Textiles signed MoUs with 15 States at a conference held in"
+  options: { A: "Surat", B: "Guwahati", C: "Coimbatore", D: "Varanasi" }
+  answer: B
+  explanation: "The MoUs were signed at the National Textile Ministers' Conference in Guwahati."
+  tags: ["2026-01"]

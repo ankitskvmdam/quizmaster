@@ -1,0 +1,112 @@
+# Section 5 — Environment & Ecology (January 2026)
+- slug: ca-2601-env-01
+  difficulty: easy
+  stem: "With the addition of Patna Bird Sanctuary and Chhari-Dhand, the number of Ramsar sites in India rose to"
+  options: { A: "89", B: "94", C: "98", D: "102" }
+  answer: C
+  explanation: "The two new sites took India's total number of Ramsar wetlands to 98."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-02
+  difficulty: easy
+  stem: "The United Nations is observing 2026 as the International Year of"
+  options: { A: "Rangelands and Pastoralists", B: "Millets", C: "Glaciers' Preservation", D: "Cooperatives" }
+  answer: A
+  explanation: "The UN declared 2026 the International Year of Rangelands and Pastoralists, led by the FAO."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-03
+  difficulty: easy
+  stem: "Gahirmatha, India's largest mass nesting site of the olive ridley turtle, is in"
+  options: { A: "Tamil Nadu", B: "Odisha", C: "Andhra Pradesh", D: "West Bengal" }
+  answer: B
+  explanation: "Gahirmatha on the Odisha coast is the largest mass nesting site of olive ridley turtles in India."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-04
+  difficulty: easy
+  stem: "The Valley of Flowers National Park, where a winter forest fire was reported, is in"
+  options: { A: "Himachal Pradesh", B: "Sikkim", C: "Jammu and Kashmir", D: "Uttarakhand" }
+  answer: D
+  explanation: "The Valley of Flowers National Park is in Chamoli district of Uttarakhand."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-05
+  difficulty: medium
+  stem: "Patna Bird Sanctuary, newly added to the Ramsar list, is in which State?"
+  options: { A: "Bihar", B: "Jharkhand", C: "Madhya Pradesh", D: "Uttar Pradesh" }
+  answer: D
+  explanation: "Despite its name, Patna Bird Sanctuary is in Etah district of Uttar Pradesh."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-06
+  difficulty: medium
+  stem: "The Solid Waste Management Rules, 2026, require waste to be separated at source into how many streams?"
+  options: { A: "Two", B: "Four", C: "Three", D: "Five" }
+  answer: B
+  explanation: "The rules require four streams: wet, dry, sanitary and special care waste. They come into force on 1 April 2026."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-07
+  difficulty: medium
+  stem: "Which country's municipality gave legal rights to stingless bees, the first insects in the world to get them?"
+  options: { A: "Peru", B: "Ecuador", C: "Brazil", D: "New Zealand" }
+  answer: A
+  explanation: "Satipo municipality in Peru adopted a declaration of rights for native stingless bees."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-08
+  difficulty: medium
+  stem: "The Kaziranga Elevated Corridor, whose foundation stone was laid in January 2026, is being built on"
+  options: { A: "NH-27", B: "NH-37A", C: "NH-715", D: "NH-44" }
+  answer: C
+  explanation: "The corridor of about 34.5 km is on NH-715 in Assam, so that vehicles do not cross the animals' paths."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-09
+  difficulty: medium
+  stem: "What is the IUCN status of the white-bellied heron, whose habitat is affected by the Kalai-II hydropower project?"
+  options: { A: "Vulnerable", B: "Critically Endangered", C: "Near Threatened", D: "Least Concern" }
+  answer: B
+  explanation: "The white-bellied heron is Critically Endangered, with fewer than 60 birds left in the wild."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-10
+  difficulty: hard
+  stem: "The Ice Memory Sanctuary, the world's first store of mountain ice cores, has been set up in"
+  options: { A: "Greenland", B: "Svalbard, Norway", C: "Ladakh", D: "Antarctica" }
+  answer: D
+  explanation: "The sanctuary was opened at Concordia Station on the Antarctic plateau."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-11
+  difficulty: hard
+  stem: "The 'Striped Tiger' was declared the State Butterfly of"
+  options: { A: "Chandigarh", B: "Goa", C: "Sikkim", D: "Puducherry" }
+  answer: A
+  explanation: "Chandigarh chose the Striped Tiger as its State Butterfly after a public vote."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-12
+  difficulty: hard
+  stem: "'Gegeneophis valmiki', discovered in Satara district of Maharashtra, is a new species of"
+  options: { A: "gecko", B: "freshwater fish", C: "caecilian (legless amphibian)", D: "orchid" }
+  answer: C
+  explanation: "Gegeneophis valmiki is a caecilian, a legless burrowing amphibian, found in the northern Western Ghats."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-13
+  difficulty: hard
+  stem: "Chhari-Dhand, newly added to the Ramsar list, is a wetland in"
+  options: { A: "Rajasthan", B: "Gujarat", C: "Haryana", D: "Punjab" }
+  answer: B
+  explanation: "Chhari-Dhand is a seasonal wetland in Kutch, Gujarat, beside the Banni grassland."
+  tags: ["2026-01"]
+
+- slug: ca-2601-env-14
+  difficulty: hard
+  stem: "Dong village, where the first Sunrise Festival was held, is in which district of Arunachal Pradesh?"
+  options: { A: "Tawang", B: "Kamle", C: "Lohit", D: "Anjaw" }
+  answer: D
+  explanation: "Dong, in Anjaw district, is the place in India that receives the first sunrise."
+  tags: ["2026-01"]

@@ -1,0 +1,104 @@
+# Section 8 — Awards, Appointments & Persons in News (January 2026)
+- slug: ca-2601-aps-01
+  difficulty: easy
+  stem: "Who was awarded the Ashoka Chakra on Republic Day 2026?"
+  options: { A: "Group Captain Prashanth Balakrishnan Nair", B: "Group Captain Shubhanshu Shukla", C: "Major Arshdeep Singh", D: "Lt Col Seeta Ashok Shelke" }
+  answer: B
+  explanation: "Group Captain Shubhanshu Shukla, the first Indian to visit the International Space Station, received the Ashoka Chakra."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-02
+  difficulty: easy
+  stem: "National Youth Day (12 January) marks the birth anniversary of"
+  options: { A: "Swami Vivekananda", B: "Subhas Chandra Bose", C: "Lala Lajpat Rai", D: "Swami Dayanand Saraswati" }
+  answer: A
+  explanation: "National Youth Day is observed on 12 January, the birth anniversary of Swami Vivekananda."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-03
+  difficulty: easy
+  stem: "How many Padma Awards were announced in 2026?"
+  options: { A: "113", B: "121", C: "139", D: "131" }
+  answer: D
+  explanation: "There were 131 awards: 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-04
+  difficulty: easy
+  stem: "Parakram Diwas is observed on"
+  options: { A: "12 January", B: "15 January", C: "23 January", D: "30 January" }
+  answer: C
+  explanation: "Parakram Diwas is observed on 23 January, the birth anniversary of Subhas Chandra Bose."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-05
+  difficulty: medium
+  stem: "Who received the Indira Gandhi Peace Prize for 2025?"
+  options: { A: "Graça Machel", B: "Michelle Bachelet", C: "Daniel Barenboim", D: "David Attenborough" }
+  answer: A
+  explanation: "The prize for 2025 went to Graça Machel, a rights activist from Mozambique."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-06
+  difficulty: medium
+  stem: "Madhav Gadgil, who died in January 2026, headed an expert panel on the"
+  options: { A: "Himalayan glaciers", B: "Sundarbans", C: "Western Ghats", D: "Aravalli hills" }
+  answer: C
+  explanation: "Gadgil chaired the Western Ghats Ecology Expert Panel, set up in 2010 and known as the Gadgil Committee."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-07
+  difficulty: medium
+  stem: "Which of the following did NOT receive the Padma Vibhushan in 2026?"
+  options: { A: "Dharmendra", B: "V.S. Achuthanandan", C: "N. Rajam", D: "Mammootty" }
+  answer: D
+  explanation: "Mammootty received the Padma Bhushan; the other three were among the five Padma Vibhushan awardees."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-08
+  difficulty: medium
+  stem: "Which State won the first prize for the best tableau at the Republic Day parade of 2026?"
+  options: { A: "Kerala", B: "Maharashtra", C: "Uttar Pradesh", D: "Gujarat" }
+  answer: B
+  explanation: "Maharashtra's tableau on Ganeshotsav won the first prize."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-09
+  difficulty: medium
+  stem: "What was the theme of National Voters' Day 2026?"
+  options: { A: "Nothing Like Voting, I Vote for Sure", B: "Making Elections Inclusive", C: "My India, My Vote", D: "No Voter to be Left Behind" }
+  answer: C
+  explanation: "National Voters' Day is observed on 25 January; the 2026 theme was 'My India, My Vote'."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-10
+  difficulty: hard
+  stem: "Which was the Focus Country at the New Delhi World Book Fair 2026?"
+  options: { A: "Qatar", B: "Spain", C: "Russia", D: "Saudi Arabia" }
+  answer: A
+  explanation: "Qatar was the Focus Country; the fair's theme was 'Indian Military History: Valour and Wisdom @75'."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-11
+  difficulty: hard
+  stem: "Which institution won the Subhash Chandra Bose Aapda Prabandhan Puraskar 2026?"
+  options: { A: "National Disaster Response Force", B: "Odisha State Disaster Management Authority", C: "Indian National Centre for Ocean Information Services", D: "Sikkim State Disaster Management Authority" }
+  answer: D
+  explanation: "The Sikkim State Disaster Management Authority won in the institutional category; Lt Col Seeta Ashok Shelke won the individual award."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-12
+  difficulty: hard
+  stem: "How many Kirti Chakras were among the 70 gallantry awards approved on the eve of Republic Day 2026?"
+  options: { A: "One", B: "Three", C: "Six", D: "Thirteen" }
+  answer: B
+  explanation: "The list had one Ashoka Chakra, three Kirti Chakras and 13 Shaurya Chakras."
+  tags: ["2026-01"]
+
+- slug: ca-2601-aps-13
+  difficulty: hard
+  stem: "Parbati Giri, whose birth centenary fell on 19 January 2026, was a freedom fighter from"
+  options: { A: "Assam", B: "West Bengal", C: "Bihar", D: "Odisha" }
+  answer: D
+  explanation: "Parbati Giri of Odisha, known as 'Banhi Kanya', took part in the Quit India Movement."
+  tags: ["2026-01"]

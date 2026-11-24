@@ -2,7 +2,7 @@ import 'server-only'
 import { cache } from 'react'
 import { createClient } from '@/lib/supabase/server'
 import { selectAll } from '@/lib/content/select-all'
-import { buildTree, type Tree } from '@/lib/courses/tree'
+import { buildTree, type BookKind, type Tree } from '@/lib/courses/tree'
 import { pick } from '@/lib/lang'
 import { getContentLang } from './user'
 
@@ -127,7 +127,7 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       id: b.id,
       topicId: b.topic_id,
       slug: b.slug,
-      kind: b.kind === 'topic' ? ('topic' as const) : ('book' as const),
+      kind: (b.kind === 'topic' || b.kind === 'monthly' ? b.kind : 'book') as BookKind,
       title: pick(lang, b.title, b.title_hi),
       author: b.author,
       edition: b.edition,

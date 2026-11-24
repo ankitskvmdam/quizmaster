@@ -54,7 +54,7 @@ export type BookItem = {
   subjectSlug: string
   topicPath: string // the subject node the book sits on, e.g. "history"
   slug: string
-  kind: 'book' | 'topic'
+  kind: 'book' | 'topic' | 'monthly'
   title: string
   author: string | null
   edition: string | null
@@ -468,7 +468,7 @@ export async function loadContent(root: string): Promise<ContentBundle> {
             issues.push({ file: rel(f), message: `${fm.slug}: covers lists "${repeated}" more than once` })
             continue
           }
-          const covers = fm.covers.map((c) => `${subjectPath}/${c}`.replace(/\/$/, ''))
+          const covers = fm.covers.map((c) => (c === '.' ? subjectPath : `${subjectPath}/${c}`))
           pendingCovers.push({ file: rel(f), slug: fm.slug, covers, subjectSlug: subject!.slug })
           const chapterItem: ChapterItem = { bookRef, slug: fm.slug, number: fm.number, title: fm.title, gist_md: body, position: fm.number, covers }
           bundle.chapters.push(chapterItem)

@@ -1,6 +1,6 @@
 import Link from 'next/link'
-import { ArrowLeft, ArrowRight, BookOpen, Check, Dumbbell, FileQuestion, Layers, Tag } from 'lucide-react'
-import type { BookNode, RawChapter, RawLesson, TreeNode, Tree } from '@/lib/courses/tree'
+import { ArrowLeft, ArrowRight, BookOpen, CalendarDays, Check, Dumbbell, FileQuestion, Layers, Tag } from 'lucide-react'
+import type { BookKind, BookNode, RawChapter, RawLesson, TreeNode, Tree } from '@/lib/courses/tree'
 import { formatScore } from '@/lib/format'
 import { startTest, startTopicPractice } from '@/app/(app)/actions'
 import { PageHeader } from '@/components/page-header'
@@ -87,8 +87,9 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
           </Panel>
         )}
 
-        <Shelf id="books" title="Books" unit="chapters" icon={<BookOpen />} base={nodeHref(ctx, node.path)} books={node.books.filter((b) => b.kind === 'book')} />
-        <Shelf id="topics" title="Topics" unit="sections" icon={<Layers />} base={nodeHref(ctx, node.path)} books={node.books.filter((b) => b.kind === 'topic')} />
+        {(['monthly', 'book', 'topic'] as const).map((kind) => (
+          <Shelf key={kind} kind={kind} base={nodeHref(ctx, node.path)} books={node.books.filter((b) => b.kind === kind)} />
+        ))}
         {node.children.length > 0 && (
           <section aria-labelledby="sections">
             <h2 id="sections" className="mb-3 text-lg font-semibold">
@@ -190,9 +191,30 @@ export function LessonView({
   )
 }
 
-/** A row of cards for a subject's books, or for its topics (exam-focused material laid out like a book). */
-function Shelf({ id, title, unit, icon, base, books }: { id: string; title: string; unit: string; icon: React.ReactNode; base: string; books: BookNode[] }) {
+/**
+ * What each kind of book is called on screen. The names follow what exam-prep sites use: book chapters, topic-wise
+ * material in sections, and "Monthly Current Affairs" with a monthly quiz.
+ */
+const KIND_WORDS: Record<BookKind, { shelf: string; eyebrow: string; part: string; parts: string; wholeQuiz: string; partQuiz: string; icon: React.ReactNode }> = {
+  book: { shelf: 'Books', eyebrow: 'Book', part: 'chapter', parts: 'Chapters', wholeQuiz: 'Full book quiz', partQuiz: 'Take the chapter quiz', icon: <BookOpen /> },
+  topic: { shelf: 'Topics', eyebrow: 'Topic', part: 'section', parts: 'Sections', wholeQuiz: 'Full topic quiz', partQuiz: 'Take the section quiz', icon: <Layers /> },
+  monthly: {
+    shelf: 'Monthly Current Affairs',
+    eyebrow: 'Monthly Current Affairs',
+    part: 'section',
+    parts: 'Sections',
+    wholeQuiz: 'Monthly quiz',
+    partQuiz: 'Take the section quiz',
+    icon: <CalendarDays />,
+  },
+}
+
+/** A row of cards for one kind of book on a subject: its books, its topics, or its months of current affairs. */
+function Shelf({ kind, base, books }: { kind: BookKind; base: string; books: BookNode[] }) {
   if (books.length === 0) return null
+  const { shelf: title, parts, icon } = KIND_WORDS[kind]
+  const id = `shelf-${kind}`
+  const unit = parts.toLowerCase()
   return (
     <section aria-labelledby={id}>
       <h2 id={id} className="mb-3 text-lg font-semibold">
@@ -240,14 +262,14 @@ export function BookView({
   /** The quiz over the whole book or topic, when it has one. */
   wholeQuiz: { testId: string; best: number | null; questionCount: number } | null
 }) {
-  const topic = book.kind === 'topic'
-  const unit = topic ? 'section' : 'chapter'
+  const words = KIND_WORDS[book.kind]
+  const unit = words.part
   const base = `${nodeHref(ctx, subject.path)}/books/${book.slug}`
   return (
     <>
       <Breadcrumbs items={trail(ctx, subject.path, true)} current={book.title} />
       <PageHeader
-        eyebrow={topic ? 'Topic' : 'Book'}
+        eyebrow={words.eyebrow}
         title={book.title}
         description={
           <>
@@ -259,7 +281,7 @@ export function BookView({
       {wholeQuiz && wholeQuiz.questionCount > 0 && (
         <Panel className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
           <div>
-            <h2 className="text-lg font-semibold">{topic ? 'Whole-topic quiz' : 'Whole-book quiz'}</h2>
+            <h2 className="text-lg font-semibold">{words.wholeQuiz}</h2>
             <p className="text-sm text-muted-foreground">
               <Mono>{wholeQuiz.questionCount}</Mono> questions across every {unit}
               {wholeQuiz.best !== null && (
@@ -277,10 +299,10 @@ export function BookView({
         </Panel>
       )}
       <Panel>
-        <h2 className="mb-1 text-lg font-semibold">{topic ? 'Sections' : 'Chapters'}</h2>
+        <h2 className="mb-1 text-lg font-semibold">{words.parts}</h2>
         {book.chapters.length === 0 ? (
-          <EmptyState icon={<BookOpen />} title={topic ? 'No sections yet' : 'No chapters yet'}>
-            {topic ? 'Sections' : 'Chapter gists'} appear here as soon as they are added.
+          <EmptyState icon={<BookOpen />} title={`No ${words.parts.toLowerCase()} yet`}>
+            {words.parts} appear here as soon as they are added.
           </EmptyState>
         ) : (
           <ol className="divide-y divide-hairline">
@@ -382,7 +404,7 @@ export function ChapterView({
             <div className="flex flex-col items-end gap-1">
               <ActionButton action={startTest.bind(null, quiz.testId, 'practice')}>
                 <FileQuestion />
-                {book.kind === 'topic' ? 'Take the section quiz' : 'Take the chapter quiz'}
+                {KIND_WORDS[book.kind].partQuiz}
               </ActionButton>
               <p className="text-[13px] text-muted-foreground">
                 <Mono>{quiz.questionCount}</Mono> questions

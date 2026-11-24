@@ -1,0 +1,112 @@
+# Section 2 — Economy & Banking (January 2026)
+- slug: ca-2601-eco-01
+  difficulty: easy
+  stem: "According to the First Advance Estimates released in January 2026, India's real GDP is expected to grow in 2025-26 by"
+  options: { A: "6.5 per cent", B: "7.4 per cent", C: "8.0 per cent", D: "8.2 per cent" }
+  answer: B
+  explanation: "The National Statistics Office estimated real GDP growth of 7.4 per cent for 2025-26, against 6.5 per cent in 2024-25."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-02
+  difficulty: easy
+  stem: "Which country did India overtake to become the world's fourth-largest economy?"
+  options: { A: "Germany", B: "The United Kingdom", C: "France", D: "Japan" }
+  answer: D
+  explanation: "With a nominal GDP of about USD 4.18 trillion, India moved ahead of Japan to fourth place."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-03
+  difficulty: easy
+  stem: "National Startup Day is observed on"
+  options: { A: "16 January", B: "12 January", C: "25 January", D: "28 January" }
+  answer: A
+  explanation: "National Startup Day is 16 January; in 2026 it marked ten years of the Startup India initiative."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-04
+  difficulty: easy
+  stem: "The headquarters of SIDBI, for which the Cabinet approved an equity infusion of Rs 5,000 crore, are in"
+  options: { A: "Mumbai", B: "New Delhi", C: "Lucknow", D: "Hyderabad" }
+  answer: C
+  explanation: "The Small Industries Development Bank of India (SIDBI) has its headquarters in Lucknow."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-05
+  difficulty: medium
+  stem: "The Economic Survey 2025-26 projected India's growth in 2026-27 in the range of"
+  options: { A: "5.8–6.2 per cent", B: "6.3–6.8 per cent", C: "7.4–7.8 per cent", D: "6.8–7.2 per cent" }
+  answer: D
+  explanation: "The Survey projected growth of 6.8 to 7.2 per cent for 2026-27."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-06
+  difficulty: medium
+  stem: "The base year of India's GDP series is being revised from 2011-12 to"
+  options: { A: "2022-23", B: "2017-18", C: "2019-20", D: "2020-21" }
+  answer: A
+  explanation: "The new GDP series will have 2022-23 as its base year in place of 2011-12."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-07
+  difficulty: medium
+  stem: "Which country was the largest source of FDI into India in April–September 2025?"
+  options: { A: "Mauritius", B: "The United States", C: "Singapore", D: "Japan" }
+  answer: C
+  explanation: "Singapore was the top source of FDI in the first half of 2025-26, when inflows rose to USD 35.2 billion."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-08
+  difficulty: medium
+  stem: "India became the world's largest producer of rice in 2025 by overtaking"
+  options: { A: "Indonesia", B: "China", C: "Bangladesh", D: "Vietnam" }
+  answer: B
+  explanation: "India overtook China as the largest rice producer; it also supplies about 40 per cent of world rice exports."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-09
+  difficulty: medium
+  stem: "Which mineral was declared a critical and strategic mineral under the MMDR Act, 1957?"
+  options: { A: "Coking coal", B: "Bauxite", C: "Limestone", D: "Iron ore" }
+  answer: A
+  explanation: "Coking coal, needed for steel making and largely imported, was added to the list of critical and strategic minerals."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-10
+  difficulty: hard
+  stem: "The committee set up by PFRDA on assured payouts under the National Pension System is headed by"
+  options: { A: "Narayan Ramachandran", B: "Uday Kotak", C: "Praveen Vashista", D: "M.S. Sahoo" }
+  answer: D
+  explanation: "M.S. Sahoo heads the 15-member PFRDA committee on assured payouts; Narayan Ramachandran heads a separate PFRDA committee on asset allocation and risk governance."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-11
+  difficulty: hard
+  stem: "The RBI's Report on Trend and Progress of Banking in India 2024-25 put the gross NPA ratio of banks in March 2025 at"
+  options: { A: "1.2 per cent", B: "2.2 per cent", C: "3.9 per cent", D: "5.1 per cent" }
+  answer: B
+  explanation: "The gross NPA ratio fell to 2.2 per cent in March 2025, a multi-decade low."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-12
+  difficulty: hard
+  stem: "'Niryat Protsahan' and 'Niryat Disha' are the two parts of the"
+  options: { A: "Production Linked Incentive scheme", B: "PM Gati Shakti National Master Plan", C: "Export Promotion Mission", D: "National Logistics Policy" }
+  answer: C
+  explanation: "The Export Promotion Mission, implemented by the DGFT, has two parts: Niryat Protsahan (financial support) and Niryat Disha (non-financial support)."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-13
+  difficulty: hard
+  stem: "Which airline became the fifth Indian member of the International Air Transport Association (IATA)?"
+  options: { A: "Akasa Air", B: "Star Air", C: "Alliance Air", D: "Fly91" }
+  answer: A
+  explanation: "Akasa Air joined IATA after Air India, Air India Express, IndiGo and SpiceJet."
+  tags: ["2026-01"]
+
+- slug: ca-2601-eco-14
+  difficulty: hard
+  stem: "In the Supreme Court's January 2026 ruling on Tiger Global, the tax dispute was about the sale of its stake in"
+  options: { A: "Paytm", B: "Zomato", C: "Ola", D: "Flipkart" }
+  answer: D
+  explanation: "The Court held that Tiger Global's sale of its Flipkart stake to Walmart is taxable in India."
+  tags: ["2026-01"]

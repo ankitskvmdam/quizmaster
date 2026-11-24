@@ -8,7 +8,7 @@ import { EmptyState } from '@/components/empty-state'
 import { AttemptList } from '@/components/tests/attempt-list'
 import { Button } from '@/components/ui/button'
 
-export const metadata: Metadata = { title: 'Past tests' }
+export const metadata: Metadata = { title: 'My Attempts' }
 
 export default async function PastPage({ searchParams }: PageProps<'/past'>) {
   const sp = await searchParams
@@ -17,7 +17,7 @@ export default async function PastPage({ searchParams }: PageProps<'/past'>) {
 
   return (
     <>
-      <PageHeader title="Past tests" description="Every test you have taken, with a full review. Previous-year papers are under Tests." />
+      <PageHeader title="My Attempts" description="Every test you have taken, with a full review." />
 
       <section aria-labelledby="mine">
         <h2 id="mine" className="mb-3 text-lg font-semibold">

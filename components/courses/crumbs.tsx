@@ -16,7 +16,7 @@ export type Crumb = { href: string; label: string };
 export const CRUMB_ROOTS = {
   courses: { href: "/courses", label: "Courses", icon: Library },
   tests: { href: "/tests", label: "Tests", icon: ClipboardList },
-  past: { href: "/past", label: "Past tests", icon: History },
+  past: { href: "/past", label: "My Attempts", icon: History },
 } satisfies Record<string, Crumb & { icon: LucideIcon }>;
 
 /**

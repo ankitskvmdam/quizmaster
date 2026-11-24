@@ -1,0 +1,112 @@
+# Section 10 — Bihar Current Affairs (January 2026)
+- slug: ca-2601-bih-01
+  difficulty: easy
+  stem: "Who took oath as the 47th Chief Justice of the Patna High Court in January 2026?"
+  options: { A: "Justice Sudhir Singh", B: "Justice P.B. Bajanthri", C: "Justice Sangam Kumar Sahoo", D: "Justice K. Vinod Chandran" }
+  answer: C
+  explanation: "Justice Sangam Kumar Sahoo, earlier a judge of the Orissa High Court, became the 47th Chief Justice of the Patna High Court."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-02
+  difficulty: easy
+  stem: "The 'Samriddhi Yatra', begun in January 2026, was undertaken by"
+  options: { A: "Nitish Kumar", B: "Samrat Choudhary", C: "Tejashwi Yadav", D: "Arif Mohammed Khan" }
+  answer: A
+  explanation: "Chief Minister Nitish Kumar began the Samriddhi Yatra to review development schemes in the districts."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-03
+  difficulty: easy
+  stem: "Which is the first tiger reserve of Bihar?"
+  options: { A: "Kaimur", B: "Bhimbandh", C: "Rajgir", D: "Valmiki" }
+  answer: D
+  explanation: "Valmiki Tiger Reserve in West Champaran is Bihar's first tiger reserve; Kaimur is proposed as the second."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-04
+  difficulty: easy
+  stem: "Which wildlife sanctuary is proposed as the second tiger reserve of Bihar?"
+  options: { A: "Bhimbandh Wildlife Sanctuary", B: "Kaimur Wildlife Sanctuary", C: "Gautam Buddha Wildlife Sanctuary", D: "Udaipur Wildlife Sanctuary" }
+  answer: B
+  explanation: "The State Cabinet has approved Kaimur Wildlife Sanctuary as a tiger reserve; the NTCA's final approval is awaited."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-05
+  difficulty: medium
+  stem: "From which district did the Samriddhi Yatra begin on 16 January 2026?"
+  options: { A: "Vaishali", B: "Gopalganj", C: "West Champaran", D: "Nalanda" }
+  answer: C
+  explanation: "The yatra began from West Champaran (Bettiah) and its first phase ended in Vaishali."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-06
+  difficulty: medium
+  stem: "Kajra, where the first phase of a solar power project with battery storage was commissioned, is in which district?"
+  options: { A: "Lakhisarai", B: "Munger", C: "Jamui", D: "Banka" }
+  answer: A
+  explanation: "The Kajra project is in Lakhisarai district; its first phase has 185 MW of solar with 254 MWh of battery storage."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-07
+  difficulty: medium
+  stem: "The Indrapuri Reservoir Project, approved by the Bihar Cabinet, is on which river?"
+  options: { A: "Gandak", B: "Kosi", C: "Punpun", D: "Sone" }
+  answer: D
+  explanation: "The Indrapuri Reservoir Project is on the Sone in Rohtas district; it followed a draft water-sharing agreement with Jharkhand."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-08
+  difficulty: medium
+  stem: "Who administered the oath of office to the new Chief Justice of the Patna High Court in January 2026?"
+  options: { A: "The President of India", B: "Governor Arif Mohammed Khan", C: "The Chief Justice of India", D: "Chief Minister Nitish Kumar" }
+  answer: B
+  explanation: "The Governor administers the oath to the Chief Justice of a High Court; Governor Arif Mohammed Khan did so in Patna."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-09
+  difficulty: medium
+  stem: "Bihar's power distribution companies NBPDCL and SBPDCL received an 'A' grade in ratings brought out by the"
+  options: { A: "Central Electricity Authority", B: "NITI Aayog", C: "Power Finance Corporation", D: "Bureau of Energy Efficiency" }
+  answer: C
+  explanation: "The Power Finance Corporation conducts the Integrated Rating of power distribution utilities; both Bihar companies got an 'A' in the 14th edition."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-10
+  difficulty: hard
+  stem: "Under the draft Sone water-sharing agreement, how much water is Bihar's share out of 7.75 million acre-feet?"
+  options: { A: "5.75 million acre-feet", B: "2.0 million acre-feet", C: "4.75 million acre-feet", D: "6.25 million acre-feet" }
+  answer: A
+  explanation: "Bihar gets 5.75 million acre-feet and Jharkhand 2.0 million acre-feet."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-11
+  difficulty: hard
+  stem: "Which folk singer from Bihar was named for the Padma Shri in 2026?"
+  options: { A: "Sharda Sinha", B: "Bharat Sharma Vyas", C: "Vindhyavasini Devi", D: "Bharat Singh Bharti" }
+  answer: D
+  explanation: "Bharat Singh Bharti, a folk singer of Bhojpur, was one of three people from Bihar named for the Padma Shri 2026."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-12
+  difficulty: hard
+  stem: "With the appointment of two new judges in January 2026, the working strength of the Patna High Court rose to"
+  options: { A: "30", B: "36", C: "42", D: "53" }
+  answer: B
+  explanation: "The appointment of Ritesh Kumar and Praveen Kumar took the number of judges to 36."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-13
+  difficulty: hard
+  stem: "The total planned capacity of the Kajra solar project in Bihar is"
+  options: { A: "185 MW solar with 254 MWh storage", B: "116 MW solar with 241 MWh storage", C: "301 MW solar with 495 MWh storage", D: "500 MW solar with 1,000 MWh storage" }
+  answer: C
+  explanation: "The two phases together give 301 MW of solar and 495 MWh of battery storage."
+  tags: ["2026-01"]
+
+- slug: ca-2601-bih-14
+  difficulty: hard
+  stem: "According to an RBI study of State finances released in January 2026, which State has the lowest median age?"
+  options: { A: "Bihar", B: "Uttar Pradesh", C: "Jharkhand", D: "Kerala" }
+  answer: A
+  explanation: "Bihar has the lowest median age, 23 years; Kerala has the highest, 37 years."
+  tags: ["2026-01"]

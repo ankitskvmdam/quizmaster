@@ -16,13 +16,13 @@ export default async function TestsPage() {
     <>
       <PageHeader
         title="Tests"
-        description="Previous-year papers by exam. Take one against the clock, or practise it with explanations as you go."
+        description="Previous year papers (PYQ) by exam. Take one against the clock, or practise it with explanations as you go."
       />
 
       {exams.length === 0 && mocks.length === 0 && (
         <Panel>
           <EmptyState icon={<ClipboardList />} title="No tests yet">
-            Previous-year papers and mock tests appear here as soon as they are added.
+            Previous year papers and mock tests appear here as soon as they are added.
           </EmptyState>
         </Panel>
       )}
@@ -30,7 +30,7 @@ export default async function TestsPage() {
       {exams.length > 0 && (
         <section aria-labelledby="exams" className="mb-8">
           <h2 id="exams" className="mb-3 text-lg font-semibold">
-            Previous-year papers
+            Previous Year Papers (PYQ)
           </h2>
           <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {exams.map((e) => (

@@ -1,0 +1,112 @@
+# Section 3 — International Relations (January 2026)
+- slug: ca-2601-int-01
+  difficulty: easy
+  stem: "Which country became the 21st member of the eurozone on 1 January 2026?"
+  options: { A: "Romania", B: "Croatia", C: "Bulgaria", D: "Hungary" }
+  answer: C
+  explanation: "Bulgaria gave up its currency, the lev, and adopted the euro on 1 January 2026."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-02
+  difficulty: easy
+  stem: "The chief guests at India's 77th Republic Day in 2026 were the leaders of"
+  options: { A: "the European Union", B: "ASEAN", C: "the African Union", D: "BRICS" }
+  answer: A
+  explanation: "António Costa, President of the European Council, and Ursula von der Leyen, President of the European Commission, were the chief guests."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-03
+  difficulty: easy
+  stem: "The headquarters of the International Solar Alliance, from which the United States announced its withdrawal, are at"
+  options: { A: "Paris", B: "Abu Dhabi", C: "New Delhi", D: "Gurugram" }
+  answer: D
+  explanation: "The International Solar Alliance, launched by India and France in 2015, has its headquarters at Gurugram in Haryana."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-04
+  difficulty: easy
+  stem: "With which partner did India conclude talks on a Free Trade Agreement in January 2026?"
+  options: { A: "The United States", B: "The European Union", C: "The Gulf Cooperation Council", D: "Canada" }
+  answer: B
+  explanation: "India and the European Union announced the conclusion of FTA talks; the EU is India's 22nd FTA partner."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-05
+  difficulty: medium
+  stem: "'Operation Absolute Resolve', carried out by the United States in January 2026, was directed against the President of"
+  options: { A: "Venezuela", B: "Cuba", C: "Iran", D: "Colombia" }
+  answer: A
+  explanation: "In this operation US forces captured Venezuelan President Nicolás Maduro."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-06
+  difficulty: medium
+  stem: "The BBNJ Agreement, which came into force on 17 January 2026, deals with"
+  options: { A: "the non-proliferation of nuclear weapons", B: "trade in endangered species", C: "plastic pollution on land", D: "marine biodiversity of areas beyond national jurisdiction" }
+  answer: D
+  explanation: "The BBNJ Agreement, or High Seas Treaty, was adopted under UNCLOS to protect marine biodiversity beyond national jurisdiction."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-07
+  difficulty: medium
+  stem: "From how many international organisations did the United States announce its withdrawal in January 2026?"
+  options: { A: "16", B: "31", C: "66", D: "99" }
+  answer: C
+  explanation: "The US announced withdrawal from 66 international organisations, of which 31 are UN bodies."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-08
+  difficulty: medium
+  stem: "India and the UAE have set a target to raise their bilateral trade by 2032 to"
+  options: { A: "USD 100 billion", B: "USD 200 billion", C: "USD 300 billion", D: "USD 500 billion" }
+  answer: B
+  explanation: "During the UAE President's visit, the two countries set a trade target of USD 200 billion by 2032."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-09
+  difficulty: medium
+  stem: "Who became the first Indian to chair the UN Secretary-General's Advisory Board on Disarmament Matters?"
+  options: { A: "D.B. Venkatesh Varma", B: "Syed Akbaruddin", C: "T.S. Tirumurti", D: "Ruchira Kamboj" }
+  answer: A
+  explanation: "D.B. Venkatesh Varma was nominated to chair the Advisory Board on Disarmament Matters for 2026–27."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-10
+  difficulty: hard
+  stem: "The Board of Peace for Gaza was set up under which UN Security Council resolution?"
+  options: { A: "Resolution 1267", B: "Resolution 1373", C: "Resolution 2334", D: "Resolution 2803" }
+  answer: D
+  explanation: "The Board of Peace for Gaza was established under UN Security Council Resolution 2803 of 2025, with Donald Trump as its chair."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-11
+  difficulty: hard
+  stem: "Under the India–EU Free Trade Agreement, the EU is to open what share of its tariff lines to India?"
+  options: { A: "75 per cent", B: "85 per cent", C: "97 per cent", D: "100 per cent" }
+  answer: C
+  explanation: "The EU will open 97 per cent of its tariff lines, while India will open 92.1 per cent of its own."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-12
+  difficulty: hard
+  stem: "'Pax Silica', which India is to be invited to join, is a US-led grouping concerned with"
+  options: { A: "peace in West Asia", B: "the silicon and AI supply chain", C: "Arctic shipping routes", D: "nuclear disarmament" }
+  answer: B
+  explanation: "Pax Silica is a US-led coalition for a secure supply chain in silicon (chips) and artificial intelligence."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-13
+  difficulty: hard
+  stem: "India and which country are marking 2026 as a 'Dual Year of Culture, Tourism and AI'?"
+  options: { A: "Spain", B: "Germany", C: "Israel", D: "Vietnam" }
+  answer: A
+  explanation: "India and Spain, marking 70 years of diplomatic ties, declared 2026 their Dual Year of Culture, Tourism and AI."
+  tags: ["2026-01"]
+
+- slug: ca-2601-int-14
+  difficulty: hard
+  stem: "The Shaksgam Valley, where India objected to Chinese construction, was handed to China by Pakistan under an agreement of"
+  options: { A: "1954", B: "1971", C: "1993", D: "1963" }
+  answer: D
+  explanation: "Pakistan ceded the Shaksgam Valley to China under their boundary agreement of 1963, which India does not accept."
+  tags: ["2026-01"]
