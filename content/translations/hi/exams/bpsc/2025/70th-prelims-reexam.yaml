@@ -1,0 +1,1499 @@
+slug: 70th-prelims-reexam
+title: बीपीएससी 70वीं प्रारंभिक परीक्षा (पुनर्परीक्षा)
+date: 2025-01-04
+label: Series I
+source: "BPSC official question booklet and final answer key (bpsc.bihar.gov.in). Deleted by BPSC (left out): Q5, Q13, Q79, Q91."
+questions:
+  - slug: bpsc-70re-q001
+    difficulty: medium
+    stem: दुनिया की सर्वाधिक प्राचीन सभ्यता कौन-सी है ?
+    options:
+      A: इजिप्सियन
+      B: मेसापोटामिया (इराक)
+      C: चाइनीज
+      D: सिंधु घाटी
+    answer: B
+    explanation: Mesopotamian (Sumerian) civilization, from about 3500 BCE, is generally taken as the oldest; Egyptian and Indus civilizations came slightly later.
+  - slug: bpsc-70re-q002
+    difficulty: medium
+    stem: दो तरलों A तथा B को मिलाने पर आदर्श तरल प्राप्त करने के लिए
+    options:
+      A: मिश्रण की तापीय धारिता शून्य होनी चाहिए
+      B: मिश्रण की एन्ट्रॉपी शून्य होनी चाहिए
+      C: मिश्रण की मुक्त ऊर्जा शून्य होनी चाहिए
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: An ideal solution obeys Raoult's law, so the enthalpy (and volume) of mixing is zero; entropy of mixing is positive and free energy of mixing is negative.
+  - slug: bpsc-70re-q003
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शृंखला में ? के स्थान पर क्या आएगा ?
+
+      117, 98, 80, 64, ?, 42
+    options:
+      A: "51"
+      B: "55"
+      C: "46"
+      D: "48"
+    answer: A
+    explanation: The differences are 19, 18, 16, 13, 9 (they shrink by 1, 2, 3, 4), so 64 - 13 = 51 and 51 - 9 = 42.
+  - slug: bpsc-70re-q004
+    difficulty: medium
+    stem: भारत सरकार अधिनियम 1935 के तहत बिहार विधान परिषद के प्रथम निर्वाचित सभापति कौन थे ?
+    options:
+      A: राजेंद्र प्रसाद
+      B: राय बहादुर सतीश चंद्र
+      C: राजीव रंजन सिन्हा
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: Rajiv Ranjan Prasad Sinha is named as the first elected Chairman of the Bihar Legislative Council set up under the 1935 Act. (The council's own site says Rai Bahadur Satish Chandra Sinha was first appointed Chairman by the Governor, but the question asks who was elected.)
+  - slug: bpsc-70re-q006
+    difficulty: medium
+    stem: भारत में किस क्षेत्र को वैश्वीकरण से सबसे अधिक लाभ हुआ है ?
+    options:
+      A: विनिर्माण
+      B: कृषि
+      C: सभी क्षेत्रों को समान रूप से लाभ हुआ है
+      D: सेवाएँ
+    answer: D
+    explanation: After the 1991 liberalisation the services sector (IT, telecom, finance) gained most, and it now contributes over half of India's GDP.
+  - slug: bpsc-70re-q007
+    difficulty: medium
+    stem: जब टीके के द्वारा शरीर में एन्टीजन प्रवेश करता है तब संक्रमण से लड़ने के लिए एन्टीबाडी की उत्पत्ति होती है
+    options:
+      A: केवल टी कोशिकाओं द्वारा
+      B: बी एवं टी दोनों कोशिकाओं द्वारा
+      C: केवल बी कोशिकाओं द्वारा
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Antibodies are made only by B lymphocytes, which become plasma cells. T cells help them and kill infected cells but make no antibodies.
+  - slug: bpsc-70re-q008
+    difficulty: medium
+    stem: केन्द्र और राज्य के मध्य विवादों का समाधान भारत के सर्वोच्च न्यायालय के किस क्षेत्राधिकार के अन्तर्गत आता है ?
+    options:
+      A: परामर्शी क्षेत्राधिकार
+      B: संवैधानिक क्षेत्राधिकार
+      C: प्रारम्भिक क्षेत्राधिकार
+      D: अपीलीय क्षेत्राधिकार
+    answer: C
+    explanation: Article 131 gives the Supreme Court exclusive original jurisdiction over disputes between the Centre and the States.
+  - slug: bpsc-70re-q009
+    difficulty: medium
+    stem: "किस अखबार ने भारतीय राष्ट्रीय काँग्रेस की संभावित भविष्य की भूमिका के बारे में निम्नलिखित लिखा : ‘... हमारे देश की भावी संसद का केंद्र है ... और यह हमारे देशवासियों के लिए अकल्पनीय परिमाण की भलाई की ओर ले जाएगा’ ?"
+    options:
+      A: द टाइम्स ऑफ इंडिया
+      B: द इंडियन मिरर
+      C: द न्यूयॉर्क टाइम्स
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: The Indian Mirror welcomed the founding of the Congress in 1885 as the nucleus of a future Indian Parliament.
+  - slug: bpsc-70re-q010
+    difficulty: medium
+    stem: |-
+      निम्नलिखित आकृति में कितने त्रिभुज हैं ?
+
+      *(चित्र: A large triangle with its apex at the top. Inside it, a line runs from the apex down to a point on the base (a little right of the middle of the base). A second straight line runs from the bottom-left vertex up to a point on the right side, crossing the first line about halfway down it. A third segment joins that crossing point to the bottom-right vertex. No other lines.)*
+    options:
+      A: "10"
+      B: "8"
+      C: "14"
+      D: "12"
+    answer: D
+    explanation: "With apex A, base BC, D on the base, E on side AC and P where AD meets BE, the triangles are ABC, ABD, ABE, ABP, ACD, ACP, AEP, BCE, BCP, BDP, CDP and CEP: 12 in all."
+  - slug: bpsc-70re-q011
+    difficulty: medium
+    stem: मध्य प्रदेश की सर्वाधिक लम्बी सीमा किस राज्य के साथ है ?
+    options:
+      A: उत्तर प्रदेश
+      B: राजस्थान
+      C: आंध्र प्रदेश
+      D: महाराष्ट्र
+    answer: A
+    explanation: Uttar Pradesh shares Madhya Pradesh's longest boundary, along its whole northern and north-eastern side. Most sources say so, though a few name Maharashtra.
+  - slug: bpsc-70re-q012
+    difficulty: medium
+    stem: 1917 में चंपारण सत्याग्रह का नेतृत्व किसने किया ?
+    options:
+      A: सरदार पटेल
+      B: महात्मा गांधी
+      C: सुभाष चंद्र बोस
+      D: जवाहरलाल नेहरू
+    answer: B
+    explanation: Mahatma Gandhi led the Champaran Satyagraha of 1917 against the tinkathia indigo system, his first satyagraha in India.
+  - slug: bpsc-70re-q014
+    difficulty: medium
+    stem: 2024 में किसे भारतरत्न दिया गया ?
+    options:
+      A: चन्द्रशेखर
+      B: प्रणब मुखर्जी
+      C: एम. एस. स्वामीनाथन
+      D: सी. एन. आर. राव
+    answer: C
+    explanation: The 2024 Bharat Ratna went to M. S. Swaminathan, Karpoori Thakur, Charan Singh, P. V. Narasimha Rao and L. K. Advani. Pranab Mukherjee received it in 2019 and C. N. R. Rao in 2014.
+  - slug: bpsc-70re-q015
+    difficulty: medium
+    stem: एक्स-रे का एक गुण यह है कि उन्हें विक्षेपित किया जा सकता है
+    options:
+      A: केवल चुम्बकीय क्षेत्र से
+      B: विद्युत एवं चुम्बकीय दोनों क्षेत्र के साथ
+      C: केवल विद्युत क्षेत्र से
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: X-rays are electromagnetic waves with no charge, so neither electric nor magnetic fields deflect them.
+  - slug: bpsc-70re-q016
+    difficulty: medium
+    stem: |-
+      नवीकरणीय ऊर्जा का अर्थ है
+
+      1. सौर ऊर्जा से उत्पादित बिजली
+      2. थर्मल प्लांट से उत्पादित बिजली
+      3. कोयले से उत्पादित बिजली
+      4. पवन ऊर्जा से उत्पादित बिजली
+
+      नीचे दिए गए विकल्पों में से सही उत्तर चुनें :
+    options:
+      A: केवल 1, 2 और 3
+      B: केवल 1 और 3
+      C: केवल 1, 3 और 4
+      D: केवल 1 और 4
+    answer: D
+    explanation: Solar and wind power are renewable. Thermal and coal-based power come from fossil fuels.
+  - slug: bpsc-70re-q017
+    difficulty: medium
+    stem: "निम्नलिखित में से किस अधिनियम ने बिहार के एकसदनीय विधानमंडल को द्विसदनीय में बदल दिया : बिहार विधान सभा और बिहार विधान परिषद ?"
+    options:
+      A: भारत सरकार अधिनियम 1935
+      B: भारत सरकार अधिनियम 1919
+      C: भारत सरकार अधिनियम 1909
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: |-
+      **Disputed.** BPSC's final key says B; our check suggests A.
+
+      The key gives B (Government of India Act 1919). This is doubtful: the 1935 Act made Bihar's legislature bicameral, with the Assembly and Council first meeting in 1937. (Wikipedia's Bihar Legislative Council page does credit the 1919 Act.)
+  - slug: bpsc-70re-q018
+    difficulty: medium
+    stem: दक्षिणी अमेरिका महाद्वीप का सबसे प्राचीन पर्वत कौन-सा है ?
+    options:
+      A: एण्डीज पर्वत
+      B: ब्राज़ील पर्वत
+      C: टुमक-हूमक
+      D: पैकारैमा
+    answer: D
+    explanation: The key gives Pacaraima, part of the Guiana Highlands on the Precambrian Guiana Shield. Mount Roraima's rocks there are among the oldest on Earth, whereas the Andes are young fold mountains.
+  - slug: bpsc-70re-q020
+    difficulty: medium
+    stem: निम्नलिखित में से किस राज्य को लॉर्ड डलहौजी के हडप नीति के तहत शामिल **नहीं** किया गया था ?
+    options:
+      A: संभलपुर
+      B: सतारा
+      C: जयपुर
+      D: नागपुर
+    answer: C
+    explanation: Satara (1848), Sambalpur (1849) and Nagpur (1854) were annexed under the Doctrine of Lapse. Jaipur was never annexed.
+  - slug: bpsc-70re-q021
+    difficulty: medium
+    stem: बिहार के किस जिले में गेहूँ का उत्पादन सर्वाधिक होता है ?
+    options:
+      A: रोहतास
+      B: पटना
+      C: भोजपुर
+      D: जहानाबाद
+    answer: A
+    explanation: Rohtas, in the canal-irrigated Sone command area, is Bihar's leading wheat-producing district.
+  - slug: bpsc-70re-q022
+    difficulty: medium
+    stem: मैदान में खेले जाने वाला कौन-सा खेल दुनिया में सर्वाधिक लोक प्रिय है ?
+    options:
+      A: सोसर (फुटबाल)
+      B: क्रिकेट
+      C: वौलीबाल
+      D: होकी
+    answer: A
+    explanation: Football (soccer) is the world's most popular field game by players and audience.
+  - slug: bpsc-70re-q023
+    difficulty: medium
+    stem: ‘पावर्टी एण्ड अन-ब्रिटिश रूल इन इण्डिया’ पुस्तक 1901 में किसके द्वारा प्रकाशित की गई थी ?
+    options:
+      A: आर. सी. दत्त
+      B: फीरोजशाह मेहता
+      C: एस. एन. बनर्जी
+      D: दादाभाई नौरोजी
+    answer: D
+    explanation: Dadabhai Naoroji published 'Poverty and Un-British Rule in India' in 1901, setting out his drain theory.
+  - slug: bpsc-70re-q024
+    difficulty: medium
+    stem: कलकत्ता में फोर्ट विलियम कॉलेज की स्थापना
+    options:
+      A: 1800 ई. में केवल भारतीय सिविल सेवकों को प्रशिक्षित करने के लिए की गई थी
+      B: 1800 ई. में सिविल सेवकों को भारतीय भाषाओं में प्रशिक्षित करने हेतु की गई थी
+      C: 1802 ई. में भारतीय संस्कृति और परंपरा को समझने के लिए की गई थी
+      D: 1802 ई. में भारतीय भाषाओं में ऐतिहासिक शोध के लिए की गई थी
+    answer: B
+    explanation: Wellesley founded Fort William College in 1800 to train British civil servants in Indian languages and customs.
+  - slug: bpsc-70re-q025
+    difficulty: medium
+    stem: अशोक के स्तम्भ पर कौन-सी लिपि लिखी गई है ?
+    options:
+      A: पाली
+      B: संस्कृत
+      C: सामरी
+      D: ब्राह्मी
+    answer: D
+    explanation: Ashoka's pillar edicts are mostly in Prakrit written in the Brahmi script. A few in the north-west use Kharosthi, Greek or Aramaic.
+  - slug: bpsc-70re-q026
+    difficulty: medium
+    stem: वनस्पति तेल को वनस्पति घी में हाइड्रोजनीकरण हेतु उपयोग में आने वाला उत्प्रेरक है
+    options:
+      A: Ni
+      B: Pd
+      C: Fe
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Finely divided nickel catalyses the hydrogenation of vegetable oils into vanaspati.
+  - slug: bpsc-70re-q027
+    difficulty: medium
+    stem: ग्रे क्रांति किससे संबंधित है ?
+    options:
+      A: तिलहन
+      B: आलू
+      C: उर्वरक
+      D: मत्स्य पालन
+    answer: C
+    explanation: The Grey Revolution is linked to fertilizers (and is also used for wool).
+  - slug: bpsc-70re-q028
+    difficulty: medium
+    stem: भारतीय संविधान का कौन-सा अनुच्छेद आपातकाल की घोषणा से संबंधित है ?
+    options:
+      A: अनुच्छेद 356
+      B: अनुच्छेद 352
+      C: अनुच्छेद 365
+      D: अनुच्छेद 360
+    answer: B
+    explanation: Article 352 covers a national emergency. Article 356 is President's Rule and Article 360 a financial emergency.
+  - slug: bpsc-70re-q029
+    difficulty: medium
+    stem: निम्नलिखित में से किस सुफी सिलसिले की स्थापना बिहार में हुई थी ?
+    options:
+      A: कलंदर
+      B: कुबरिया
+      C: फिरदोसिया
+      D: क़ादरिया
+    answer: C
+    explanation: The Firdausia silsilah became established in Bihar through Sheikh Sharfuddin Ahmad Yahya Maneri, at Maner and Bihar Sharif.
+  - slug: bpsc-70re-q030
+    difficulty: medium
+    stem: निम्न में से कौन-सा देश G7 का सदस्य **नहीं** है ?
+    options:
+      A: फ्रांस
+      B: रूस
+      C: अमेरिका
+      D: इटली
+    answer: B
+    explanation: The G7 is the US, UK, France, Germany, Italy, Japan and Canada. Russia was suspended from the G8 in 2014.
+  - slug: bpsc-70re-q031
+    difficulty: medium
+    stem: साइटोप्लास्ट के अन्दर प्रकाश संश्लेषण की अन्धेरी अभिक्रिया का वास्तविक स्थल होता है
+    options:
+      A: स्ट्रोमा
+      B: ग्रैनम
+      C: ग्रैना लैमेला
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The light-independent (Calvin cycle) reactions take place in the stroma of the chloroplast.
+  - slug: bpsc-70re-q032
+    difficulty: medium
+    stem: "राज एक बिंदु X से Y की तरफ 80 मीटर की सीधी दूरी तय करता है । वह दाएँ मुड़कर 50 मीटर चलता है, फिर पुन: दाएँ मुड़कर 70 मीटर चलता है । अंत में, दाएँ मुड़कर 50 मीटर चलता है । वह प्रारंभिक बिन्दु से कितनी दूर है ?"
+    options:
+      A: 20 मीटर
+      B: 10 मीटर
+      C: 45 मीटर
+      D: 30 मीटर
+    answer: B
+    explanation: 80 m east, 50 m south, 70 m west, then 50 m north leaves him 80 - 70 = 10 m from X.
+  - slug: bpsc-70re-q033
+    difficulty: medium
+    stem: झांसी के पास देवगड़ का मन्दिर और इलाहाबाद के पास गढ़वा मन्दिर में बनी मूर्तिया किस कला के महत्त्वपूर्ण अवशेष हैं ?
+    options:
+      A: मौर्य कला
+      B: राष्ट्रकूट कला
+      C: गुप्त कला
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The Dashavatara temple at Deogarh and the Garhwa sculptures are classic Gupta-period remains.
+  - slug: bpsc-70re-q034
+    difficulty: medium
+    stem: बिहार में किसका भारत के वार्षिक उत्पादन का 71 प्रतिशत हिस्सा पैदा होता है ?
+    options:
+      A: लीची
+      B: आम
+      C: संतरा
+      D: अनानास
+    answer: A
+    explanation: Bihar, centred on Muzaffarpur, is India's largest lychee producer. The 71% figure is the older commonly quoted share.
+  - slug: bpsc-70re-q035
+    difficulty: medium
+    stem: 2023 में भारत में जी20 शिखर सम्मेलन किस शहर में आयोजित किया गया था ?
+    options:
+      A: मुंबई
+      B: नई दिल्ली
+      C: हैदराबाद
+      D: बेंगलुरु
+    answer: B
+    explanation: The 18th G20 Summit was held at Bharat Mandapam, New Delhi, on 9-10 September 2023.
+  - slug: bpsc-70re-q036
+    difficulty: medium
+    stem: चन्द्रमा की सतह पर कोई वातावरण नहीं है क्योंकि
+    options:
+      A: वह पृथ्वी के चारों ओर भ्रमण करता है
+      B: वह सूर्य से प्रकाश प्राप्त करता है
+      C: गैस अणुओं का पलायन वेग उनमें वेग के मूल माध्य वर्ग से कम होता है
+      D: वह पृथ्वी के नजदीक है
+    answer: C
+    explanation: The Moon's escape velocity (about 2.4 km/s) is low, so the rms speeds of gas molecules exceed it and the gases escape.
+  - slug: bpsc-70re-q037
+    difficulty: medium
+    stem: मौर्य साम्राज्य के संस्थापक कौन थे ?
+    options:
+      A: अशोक
+      B: चंद्रगुप्त मौर्य
+      C: बृहद्रथ
+      D: बिंदुसार
+    answer: B
+    explanation: Chandragupta Maurya founded the Maurya Empire in about 321 BCE with Chanakya's help.
+  - slug: bpsc-70re-q038
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा प्राचीन भारत में बौद्ध शिक्षा प्रसिद्ध केन्द्र **नहीं** था ?
+    options:
+      A: विक्रमशिला
+      B: नालंदा
+      C: वल्लभी
+      D: नागपुर
+    answer: D
+    explanation: Vikramshila, Nalanda and Valabhi were ancient Buddhist centres of learning. Nagpur was not.
+  - slug: bpsc-70re-q039
+    difficulty: medium
+    stem: 2023 के विश्व आर्थिक मंच की बैठक की मेज़बानी किस देश ने की ?
+    options:
+      A: जर्मनी
+      B: स्विट्ज़रलैंड
+      C: कनाडा
+      D: जापान
+    answer: B
+    explanation: The WEF Annual Meeting is held in Davos, Switzerland, including in January 2023.
+  - slug: bpsc-70re-q040
+    difficulty: medium
+    stem: निम्न में से कौन-सा विटामिन पानी में घुलनशील है ?
+    options:
+      A: विटामिन K
+      B: विटामिन A
+      C: विटामिन D
+      D: इनमें से कोई नहीं
+    answer: D
+    explanation: Vitamins A, D, E and K are fat-soluble. Only B-complex and C are water-soluble.
+  - slug: bpsc-70re-q041
+    difficulty: medium
+    stem: 1939 में जब सुभाष चंद्र बोस ने इस्तीफा दिया तब भारतीय राष्ट्रीय काँग्रेस के अध्यक्ष कौन बने ?
+    options:
+      A: जवाहर लाल नेहरू
+      B: राजेंद्र प्रसाद
+      C: अबुल कलाम आज़ाद
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Rajendra Prasad became Congress President after Subhas Chandra Bose resigned at Tripuri in 1939.
+  - slug: bpsc-70re-q042
+    difficulty: medium
+    stem: 2 और 3 बजे की बीच किस समय एक घड़ी की सुईयाँ साथ-साथ होगी ?
+    options:
+      A: 2 बज कर 10 10/43 मिनट
+      B: 2 बज कर 10 10/11 मिनट
+      C: 2 बज कर 38 10/11 मिनट
+      D: 2 बज कर 38 2/11 मिनट
+    answer: B
+    explanation: The hands coincide 60/11 x 2 = 10 10/11 minutes past 2.
+  - slug: bpsc-70re-q043
+    difficulty: medium
+    stem: निम्न में से भारत में किस संविधान संशोधन ने एक राज्य में मुख्यमंत्री सहित मंत्रीपरिषद की अधिकतम संख्या निर्धारित की है ?
+    options:
+      A: 81वें संवैधानिक संशोधन ने
+      B: 91वें संवैधानिक संशोधन ने
+      C: 86 वें संवैधानिक संशोधन ने
+      D: उपर्युक्त में से किसी संशोधन ने नहीं
+    answer: B
+    explanation: The 91st Amendment (2003), Article 164(1A), caps a State Council of Ministers, Chief Minister included, at 15% of the Assembly (minimum 12).
+  - slug: bpsc-70re-q044
+    difficulty: medium
+    stem: मलेरिया फैलाने के अतिरिक्त, एनोफेलस मच्छर वाहक हैं
+    options:
+      A: एन्सेफेलाइटिस एवं फाइलेरियासिस
+      B: डेंगू एवं फाइलेरियासिस
+      C: डेंगू एवं एन्सेफेलाइटिस
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The key gives A. Anopheles mosquitoes also carry the Wuchereria/Brugia filarial worms, but encephalitis is mostly Culex-borne, so the option is loosely worded.
+  - slug: bpsc-70re-q045
+    difficulty: medium
+    stem: "2022 में फ्रांस के राष्ट्रपति के रूप में किसे पुन: चुना गया ?"
+    options:
+      A: मरीन ले पेन
+      B: इमैनुएल मैक्रों
+      C: एरिक ज़ेमौर
+      D: जीन-ल्यूक मेलेंचॉन
+    answer: B
+    explanation: Emmanuel Macron defeated Marine Le Pen in April 2022 to win a second term.
+  - slug: bpsc-70re-q046
+    difficulty: medium
+    stem: निम्नलिखित विकल्पों में से सही युग्म चुनें ।
+    options:
+      A: तृतीय वर्ष योजना – वैश्वीकरण पर ध्यान
+      B: प्रथम पंचवर्षीय योजना – कृषि पर ध्यान
+      C: पांचवीं पंचवर्षीय योजना – उद्योग पर ध्यान
+      D: चौथी पंचवर्षीय योजना – सेवा पर ध्यान
+    answer: B
+    explanation: The First Five-Year Plan (1951-56) gave priority to agriculture and irrigation.
+  - slug: bpsc-70re-q047
+    difficulty: medium
+    stem: एशिया माइनर के भूमध्यसागरीय तट पर स्थित पर्वत श्रेणी कौन-सी है ?
+    options:
+      A: टारस
+      B: पोन्टिक
+      C: एलबुर्ज
+      D: किरथर
+    answer: A
+    explanation: The Taurus Mountains run along Turkey's southern, Mediterranean coast. The Pontic range lies along the Black Sea.
+  - slug: bpsc-70re-q048
+    difficulty: medium
+    stem: 2026 में आयोजित होनेवाले 20 वें एशियन खेलों की मेजबानी किस देश को मिली है ?
+    options:
+      A: जापान
+      B: भारत
+      C: इन्डोनेशिया
+      D: चीन
+    answer: A
+    explanation: The 20th Asian Games are in Aichi-Nagoya, Japan, in 2026.
+  - slug: bpsc-70re-q049
+    difficulty: medium
+    stem: 2022 शीतकालीन ओलंपिक की मेज़बानी किस देश ने की ?
+    options:
+      A: कनाडा
+      B: जापान
+      C: दक्षिण कोरिया
+      D: चीन
+    answer: D
+    explanation: Beijing, China, hosted the 2022 Winter Olympics.
+  - slug: bpsc-70re-q050
+    difficulty: medium
+    stem: हल्दी पौध के किस भाग से हल्दी पाउडर प्राप्त होता है ?
+    options:
+      A: बीज
+      B: सूखा आधार
+      C: सूखी जड़
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Turmeric powder comes from the dried rhizome, an underground stem, not a seed or root, so 'none of the above' is correct.
+  - slug: bpsc-70re-q051
+    difficulty: medium
+    stem: किस वायसराय ने भारत में औपनिवेशिक आर्थिक संरचना का विकेंद्रीकरण किया ?
+    options:
+      A: रिपन
+      B: मेयो
+      C: कर्जन
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Lord Mayo's 1870 resolution began financial decentralisation, giving provinces control over some revenue heads.
+  - slug: bpsc-70re-q052
+    difficulty: medium
+    stem: निम्न में से कौन यूरोप का खेल का मैदान कहलाता है ?
+    options:
+      A: इटली
+      B: फ्रांस
+      C: स्विट्जरलेन्ड
+      D: जर्मनी
+    answer: C
+    explanation: Switzerland is called the 'Playground of Europe' for its Alpine scenery and winter sports.
+  - slug: bpsc-70re-q053
+    difficulty: medium
+    stem: बिरसा मुण्ड़ा विद्रोह कहाँ हुआ था?
+    options:
+      A: राँची
+      B: चम्पारण
+      C: बालिया
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Birsa Munda's Ulgulan (1899-1900) took place in the Ranchi region of Chhotanagpur.
+  - slug: bpsc-70re-q054
+    difficulty: medium
+    stem: 2023 में 200 अरब अमेरिकी डॉलर का बाजार पूंजीकरण पार करने वाली पहली भारतीय कंपनी कौन-सी बनी ?
+    options:
+      A: टीसीएस
+      B: रिलायंस इंडस्ट्रीज
+      C: एचडीएफसी बैंक
+      D: इन्फोसिस
+    answer: B
+    explanation: Reliance Industries was the first Indian company to pass USD 200 billion in market capitalisation.
+  - slug: bpsc-70re-q055
+    difficulty: medium
+    stem: एक संधारित्र का प्रतिघात होता है
+    options:
+      A: आवृत्ति के व्युत्क्रमानुपाती
+      B: आवृत्ति के समानुपाती
+      C: आवृत्ति के वर्गमूल के व्युत्क्रमानुपाती
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Xc = 1/(2*pi*f*C), so capacitive reactance is inversely proportional to frequency.
+  - slug: bpsc-70re-q056
+    difficulty: medium
+    stem: निम्नलिखित में से कानूनी रूप से निर्धारित अधिकतम आकार जिसके आगे कोई भी किसान कोई भूमि नहीं रख सकता है ?
+    options:
+      A: बिचौलियों का उन्मूलन
+      B: काश्तकारी सुधार
+      C: भूमि सीमा
+      D: भूमि समेकन
+    answer: C
+    explanation: A land ceiling is the legal maximum area of land one holder may own.
+  - slug: bpsc-70re-q057
+    difficulty: medium
+    stem: स्थानीय प्रेस अधिनियम की अनुमति
+    options:
+      A: यदि समाचार पत्रों में कुछ भी प्रकाशित किया गया जो आपत्तिजनक पाया गया तो प्रिंटिंग प्रेस को जब्त कर लिया जाएगा
+      B: यदि समाचार पत्रों में कुछ भी आपत्तिजनक प्रकाशित हुआ तो समाचार पत्र की संपत्ति जब्त कर ली जाएगी
+      C: यदि समाचार पत्रों में कुछ भी प्रकाशित किया गया जो आपत्तिजनक नहीं पाया गया तो प्रिंटिंग प्रेस को जब्त कर लिया जाएगा
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: The Vernacular Press Act 1878 let the government confiscate the press, papers and security deposit of a newspaper that printed objectionable matter, so more than one option applies.
+  - slug: bpsc-70re-q058
+    difficulty: medium
+    stem: कोसी मैदान की समुद्र तल से औसत ऊँचाई है
+    options:
+      A: 150 मीटर
+      B: 300 मीटर
+      C: 30 मीटर
+      D: 100 मीटर
+    answer: C
+    explanation: The Kosi plain of north-east Bihar is a low alluvial plain, averaging about 30-60 m above sea level.
+  - slug: bpsc-70re-q059
+    difficulty: medium
+    stem: जी.एस.टी. परिषद का चेयरपर्सन कौन होता है ?
+    options:
+      A: वित्त आयोग का चेयरमेन
+      B: केन्द्रीय वित्त मंत्री
+      C: निगमित मामलों का केन्द्रीय मंत्री
+      D: भारतीय रिजर्व बैंक का गवर्नर
+    answer: B
+    explanation: Under Article 279A the Union Finance Minister chairs the GST Council.
+  - slug: bpsc-70re-q060
+    difficulty: medium
+    stem: बिहार राज्य कब प्रतिष्ठित हुआ ?
+    options:
+      A: "1906"
+      B: "1915"
+      C: "1911"
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Bihar (with Orissa) was carved out of Bengal Presidency on 22 March 1912, which is not among the options.
+  - slug: bpsc-70re-q061
+    difficulty: medium
+    stem: सिरके में खट्टे स्वाद का कारक है
+    options:
+      A: साइट्रिक अम्ल
+      B: टारटारिक अम्ल
+      C: लैक्टिक अम्ल
+      D: इनमें से कोई नहीं
+    answer: D
+    explanation: Vinegar is a 5-8% solution of acetic acid, which is not among the options.
+  - slug: bpsc-70re-q062
+    difficulty: medium
+    stem: दिल्ली सल्तनत के दौरान ‘मुकद्दम’ पद का इस्तमाल किनके लिए किया जाता था ?
+    options:
+      A: राजस्व अधिकारी
+      B: गाँव के सरपंच
+      C: गाँव के लेखाकार
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Under the Delhi Sultanate, muqaddam or chaudhuri meant the village headman (or a group of villages' headman). The accountant was the patwari.
+  - slug: bpsc-70re-q063
+    difficulty: medium
+    stem: 2023 में नोबेल शांति पुरस्कार किसे मिला ?
+    options:
+      A: नर्गेस मोहम्मदी
+      B: मारिया रेसा
+      C: नादिया मुराद
+      D: अबी अहमद
+    answer: A
+    explanation: The 2023 Nobel Peace Prize went to Narges Mohammadi of Iran.
+  - slug: bpsc-70re-q064
+    difficulty: medium
+    stem: ‘तारीख-ए-फिरोज शाही’ किसके द्वारा लिखी गई थी ?
+    options:
+      A: मिन्हाज सिराज
+      B: इसामी
+      C: याह्या सरहिन्दी
+      D: शम्स सिराज अफीफ
+    answer: D
+    explanation: Shams Siraj Afif wrote a 'Tarikh-i-Firoz Shahi'. Barani also wrote one, but he is not offered.
+  - slug: bpsc-70re-q065
+    difficulty: medium
+    stem: निम्नलिखित विकल्पों में से बेजोड़ जोड़ी का चयन करें ।
+    options:
+      A: "थार : भारत"
+      B: "सहारा : अफ्रीका"
+      C: "कालाहारी : अमेरिका"
+      D: "गोबी : मंगोलिया"
+    answer: C
+    explanation: The Kalahari is in southern Africa, not America. The other desert-region pairs are correct.
+  - slug: bpsc-70re-q066
+    difficulty: medium
+    stem: भौतिक रूप में किस प्रकार हाइड्रोजन को भण्डारित किया जाता है ?
+    options:
+      A: हाइड्रोजन गैस के संपीड़न से
+      B: हाइड्राइड के रूप में
+      C: जल के रूप में
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Physical storage of hydrogen means compressed gas (or cryogenic liquid). Hydrides are chemical or material-based storage.
+  - slug: bpsc-70re-q067
+    difficulty: medium
+    stem: वर्ष 1946 में बनी अन्तरिम सरकार में डा. राजेन्द्र प्रसाद के पास कौन-सा विभाग था ?
+    options:
+      A: खाद्य एवं कृषि
+      B: प्रतिरक्षा
+      C: गृह
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: In the 1946 Interim Government Dr Rajendra Prasad held Food and Agriculture.
+  - slug: bpsc-70re-q068
+    difficulty: medium
+    stem: भारत का सर्वाधिक क्षमता वाला तेल शोधन कारखाना कौन-सा है ?
+    options:
+      A: ट्रॉम्बे
+      B: कोयली
+      C: मथुरा
+      D: बरौनी
+    answer: B
+    explanation: Of the refineries listed, IOC's Koyali (Gujarat) has the largest capacity, about 13.7 MMTPA. Jamnagar is the largest overall but is not listed.
+  - slug: bpsc-70re-q069
+    difficulty: medium
+    stem: पंचायत राज व्यवस्था में शासन व्यवस्था क्या निर्धारित की गयी है ?
+    options:
+      A: ग्रामीण एवं क्षेत्रीय स्तर पर स्थानीय स्वशासन की द्विस्तरीय संरचना
+      B: ग्रामीण स्तर पर स्थानीय स्वशासन की एक स्तरीय संरचना
+      C: ग्रामीण, क्षेत्रीय, जनपद एवं राज्य स्तर पर स्थानीय स्वशासन की चार स्तरीय संरचना
+      D: ग्रामीण, क्षेत्रीय एवं जनपद स्तर पर स्थानीय स्वशासन की त्रिस्तरीय संरचना
+    answer: D
+    explanation: "The 73rd Amendment set up a three-tier Panchayati Raj: village, intermediate (block) and district."
+  - slug: bpsc-70re-q070
+    difficulty: medium
+    stem: किसी व्यक्ति के रक्त समूह का निर्धारण होता है
+    options:
+      A: आर. बी. सी. के आकार से
+      B: हेमोग्लोबिन की उपस्थिति से
+      C: डब्ल्यू. बी. सी. एवं आर. बी. सी. के संयोजन से
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Blood group depends on the A/B antigens (and Rh) on the RBC surface, not on any listed factor.
+  - slug: bpsc-70re-q072
+    difficulty: medium
+    stem: उत्तरी-पूर्वी भारत का स्कॉटलैण्ड कौन-सा है ?
+    options:
+      A: नागालैण्ड
+      B: मेघालय
+      C: आसाम
+      D: अरुणाचल प्रदेश
+    answer: B
+    explanation: Shillong, Meghalaya, is called the 'Scotland of the East' for its hills and climate.
+  - slug: bpsc-70re-q073
+    difficulty: medium
+    stem: भारतीय संविधान की निम्न में से किस अनुसूची में दल-विरोधी अधिनियम के प्रावधान रखे गये हैं ?
+    options:
+      A: आठवीं अनुसूची
+      B: दसवीं अनुसूची
+      C: द्वितीय अनुसूची
+      D: पाँचवीं अनुसूची
+    answer: B
+    explanation: The anti-defection provisions (52nd Amendment, 1985) are in the Tenth Schedule.
+  - slug: bpsc-70re-q074
+    difficulty: medium
+    stem: भारत में प्रथम 3d मुद्रित मानव जैसे रोबोट का नाम है
+    options:
+      A: मित्र
+      B: मानव
+      C: रॉबकॉप
+      D: इन्द्रो
+    answer: B
+    explanation: Manav, built by A-SET Training & Research Institutes, Delhi (2017), is India's first 3D-printed humanoid robot. Indro is a tall home-built robot.
+  - slug: bpsc-70re-q075
+    difficulty: medium
+    stem: भारतीय संविधान के किस अनुच्छेद के तहत वार्षिक वित्तीय विवरण (बजट) संसद के समक्ष प्रस्तुत किया जाना आवश्यक है ?
+    options:
+      A: अनुच्छेद 112
+      B: अनुच्छेद 111
+      C: अनुच्छेद 114
+      D: अनुच्छेद 113
+    answer: A
+    explanation: Article 112 requires the Annual Financial Statement to be laid before both Houses each year.
+  - slug: bpsc-70re-q076
+    difficulty: medium
+    stem: 2019 – 20 में बिहार के GSDP में किसका 60.2 प्रतिशत हिस्सा था ?
+    options:
+      A: औद्योगिक क्षेत्र
+      B: कृषि क्षेत्र
+      C: विनिर्माण क्षेत्र
+      D: सेवा क्षेत्र
+    answer: D
+    explanation: The tertiary (service) sector made up about 60% of Bihar's GSDP in 2019-20, per the Bihar Economic Survey.
+  - slug: bpsc-70re-q077
+    difficulty: medium
+    stem: बिहार के किस जिले में लीची का उत्पादन सर्वाधिक होता है ?
+    options:
+      A: मुजफ्फरपुर
+      B: छपरा
+      C: सोनपुर
+      D: सिवान
+    answer: A
+    explanation: Muzaffarpur is the lychee capital of India (Shahi Litchi has a GI tag).
+  - slug: bpsc-70re-q078
+    difficulty: medium
+    stem: कौन-सी नदी ‘बिहार का शोक’ के रूप में जानी जाती है ?
+    options:
+      A: कोसी
+      B: गंगा
+      C: गंडक
+      D: सोन
+    answer: A
+    explanation: The Kosi is called the 'Sorrow of Bihar' for its floods and shifting course.
+  - slug: bpsc-70re-q080
+    difficulty: medium
+    stem: इशिहारा टेस्ट किससे सम्बंधित है ?
+    options:
+      A: रंग अंधता
+      B: हीमोग्लोबिन स्तर
+      C: आई.क्यू.
+      D: अस्थि घनत्व
+    answer: A
+    explanation: Ishihara plates test for red-green colour blindness.
+  - slug: bpsc-70re-q081
+    difficulty: medium
+    stem: निम्नलिखित में से कौन आजाद हिन्द फौज (आईएनए) से जुडा **नहीं** है ?
+    options:
+      A: शहनवाज खान
+      B: जनरल मोहन सिंह (General Mohan Singh)
+      C: प्रेम सिंह सहगल
+      D: एस. ए. डांगे
+    answer: D
+    explanation: Shahnawaz Khan, Mohan Singh and Prem Sehgal were INA officers. S. A. Dange was a communist trade-union leader.
+  - slug: bpsc-70re-q082
+    difficulty: medium
+    stem: शिशु मृत्यु दर क्या है ?
+    options:
+      A: उस विशेष वर्ष में पैदा हुए 1000 जीवित बच्चों के अनुपात के रूप में 2 वर्ष की आयु से पहले मरने वाले बच्चों का अनुपात
+      B: उस विशेष वर्ष में पैदा हुए 1000 जीवित बच्चों के अनुपात के रूप में 1 वर्ष की आयु से पहले मरने वाले बच्चों का अनुपात
+      C: उस विशेष वर्ष में पैदा हुए 1000 जीवित बच्चों के अनुपात के रूप में 4 वर्ष की आयु से पहले मरने वाले बच्चों का अनुपात
+      D: उस विशेष वर्ष में पैदा हुए 1000 जीवित बच्चों के अनुपात के रूप में 3 वर्ष की आयु से पहले मरने वाले बच्चों का अनुपात
+    answer: B
+    explanation: Infant mortality rate is the number of infant deaths (under age 1) per 1000 live births in a year.
+  - slug: bpsc-70re-q083
+    difficulty: medium
+    stem: कौन-सा देशान्तर कनाडा तथा अलास्का को अलग करता है ?
+    options:
+      A: 151° प.
+      B: 141° प.
+      C: 161° प.
+      D: 131° प.
+    answer: B
+    explanation: The 141st meridian west forms most of the Alaska-Yukon (Canada) boundary.
+  - slug: bpsc-70re-q084
+    difficulty: medium
+    stem: |-
+      लेखकों की सूची – I को 1857 की पुस्तकों की सूची – II से मिलाएँ और नीचे दिए गए कोड से उत्तर चुनें :
+
+      | सूची – I | सूची – II |
+      |---|---|
+      | a. वी. डी. सावरकर | i. *प्रथम स्वतंत्रता संग्राम* |
+      | b. एस. एन. सेन | ii. *किसान और राज* |
+      | c. एरिक स्टोक्स | iii. *नागरिक विद्रोह और भारतीय विद्रोह में* |
+      | d. एस. बी. चौधरी | iv. *अठारह सौ सत्तावन* |
+
+      कोड :
+    options:
+      A: a-i, b-iv, c-ii, d-iii
+      B: a-iv, b-ii, c-i, d-iii
+      C: a-ii, b-iii, c-i, d-iv
+      D: उपरोक्त में से कोई नहीं
+    answer: A
+    explanation: Savarkar wrote 'The First War of Independence', S. N. Sen 'Eighteen Fifty-Seven', Eric Stokes 'The Peasant and the Raj' and S. B. Chaudhuri 'Civil Rebellion in the Indian Mutinies'.
+  - slug: bpsc-70re-q085
+    difficulty: medium
+    stem: |-
+      समाज सुधारकों की सूची – I को उनके समाजों की सूची – II से सुमेलित करें और नीचे दिए गए कोड से उत्तर चुनें ।
+
+      | सूची – I | सूची – II |
+      |---|---|
+      | a. ब्रह्मा समाज | i. विष्णु शास्त्री पंडित |
+      | b. रामकृष्ण मिशन | ii. स्वामी विवेकानन्द |
+      | c. सर्वेंट्स ऑफ इंडिया सोसाइटी | iii. राजा राममोहन राय |
+      | d. विधवा विवाह समाज | iv. गोपाल कृष्ण गोखले |
+
+      कोड :
+    options:
+      A: a-iii, b-ii, c-i, d-iv
+      B: a-iii, b-i, c-ii, d-iv
+      C: a-iii, b-ii, c-iv, d-i
+      D: उपरोक्त में से कोई नहीं
+    answer: C
+    explanation: "Brahmo Samaj: Rammohan Roy. Ramakrishna Mission: Vivekananda. Servants of India Society: Gokhale. Vidhwa Vivah Samaj: Vishnu Shastri Pandit."
+  - slug: bpsc-70re-q086
+    difficulty: medium
+    stem: हल्के बुलेटप्रूफ हेलमेट तथा आवरण अपने निर्माण में निम्न में किस फाइबर का उपयोग करते हैं ?
+    options:
+      A: केवलार
+      B: टेरीलीन
+      C: नाइलोन
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Kevlar, a high-strength aramid fibre, is used in light bullet-proof vests and helmets.
+  - slug: bpsc-70re-q087
+    difficulty: medium
+    stem: लोकसभा के अध्यक्ष को प्राप्त है
+    options:
+      A: दो मताधिकार – एक सामान्य अवधि में और दूसरा समान मत होने पर
+      B: मतदान का अधिकार नहीं
+      C: सदन के अन्य सदस्यों की भाँति मतदान का अधिकार
+      D: केवल समान मत होने की स्थिति में मतदान का अधिकार
+    answer: D
+    explanation: Under Article 100 the Speaker does not vote in the first instance and has only a casting vote in a tie.
+  - slug: bpsc-70re-q088
+    difficulty: medium
+    stem: जिलिल्लाह शब्द का प्रयोग सबसे पहले किसके द्वारा किया गया था ?
+    options:
+      A: बलबन
+      B: इल्तुतमिश
+      C: अकबर
+      D: अलाउद्दीन खिल्जी
+    answer: A
+    explanation: Balban styled himself Zill-i-Ilahi (Zillillah, shadow of God), drawing on Persian kingship theory.
+  - slug: bpsc-70re-q089
+    difficulty: medium
+    stem: कुल जमा का अनुपात जो एक वाणिज्यिक बैंक को भारतीय रिजर्व बैंक के पास रखना चाहिए, उसे कहा जाता है
+    options:
+      A: नकद आरक्षित अनुपात
+      B: जमा अनुपात
+      C: वैधानिक तरलता अनुपात
+      D: कानूनी आरक्षित अनुपात
+    answer: A
+    explanation: The Cash Reserve Ratio is the share of a bank's net demand and time liabilities kept as cash with the RBI.
+  - slug: bpsc-70re-q090
+    difficulty: medium
+    stem: एक M कि. ग्रा. भार एवं e कूलम्ब आवेश वाला इलेक्ट्रान स्थिर अवस्था से V वोल्ट के विभवान्तर से गति करता है तब उसकी अन्तिम ऊर्जा जूल में होगी
+    options:
+      A: e/V
+      B: MeV
+      C: eV/M
+      D: eV
+    answer: D
+    explanation: Work done on a charge e through potential difference V is eV joules, all of which becomes kinetic energy.
+  - slug: bpsc-70re-q092
+    difficulty: medium
+    stem: निम्नलिखित में से कौन चंद्रगुप्त मौर्य से सम्बंधित **नहीं** है ?
+    options:
+      A: रुद्रदामन का जूनागढ़ शिला-लेख
+      B: विष्णुगुप्त
+      C: साँची
+      D: सुसिमा
+    answer: C
+    explanation: The key gives Sanchi, a stupa site founded by Ashoka. Susima, Ashoka's half-brother, is equally unconnected with Chandragupta, so the question arguably has two answers.
+  - slug: bpsc-70re-q093
+    difficulty: medium
+    stem: नीति आयोग के एसडीजी इंडिया इंडेक्स 2023 में किस भारतीय राज्य ने शीर्ष स्थान प्राप्त किया ?
+    options:
+      A: तमिलनाडु
+      B: केरल
+      C: महाराष्ट्र
+      D: गुजरात
+    answer: B
+    explanation: In the SDG India Index 2023-24 (released July 2024), Kerala and Uttarakhand jointly topped with 79.
+  - slug: bpsc-70re-q094
+    difficulty: medium
+    stem: कलियाँ विशिष्ट रूप से पायी जाती है
+    options:
+      A: पत्तियों के आधार पर
+      B: दोनों पत्तियों के आधार एवं शाखाओं के सिरे पर
+      C: शाखाओं के सिरे पर
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Buds are axillary (in leaf axils) and terminal (at the tips of stems and branches).
+  - slug: bpsc-70re-q095
+    difficulty: medium
+    stem: निम्न में से कौन राष्ट्रपति के निर्वाचक मण्डल के रूप में कार्य करता है लेकिन महाभियोग प्रक्रिया में भाग **नहीं** लेता है ?
+    options:
+      A: राज्यसभा
+      B: लोकसभा
+      C: राज्य विधान सभाएँ
+      D: राज्य विधान परिषदें
+    answer: C
+    explanation: Elected MLAs of State Assemblies vote for the President, but only Parliament conducts impeachment. Legislative Councils play no part in either.
+  - slug: bpsc-70re-q096
+    difficulty: medium
+    stem: सोन नदी का उत्पत्ति स्थल अमरकंटक कहाँ स्थित है ?
+    options:
+      A: मकालू श्रेणी
+      B: मैकाल श्रेणी
+      C: महादेव पहाड़ियाँ
+      D: राजमहल पहाड़ियाँ
+    answer: B
+    explanation: Amarkantak, source of the Son and Narmada, is in the Maikal range.
+  - slug: bpsc-70re-q097
+    difficulty: medium
+    stem: CIRCLE का संबंध RICELC से है उसी प्रकार SQUARE का संबंध ________ से है ।
+    options:
+      A: ERAUQS
+      B: AREUQS
+      C: UQSARE
+      D: UQSERA
+    answer: D
+    explanation: "The letters are rearranged in the order 3,2,1,6,5,4: CIRCLE becomes RICELC and SQUARE becomes UQSERA."
+  - slug: bpsc-70re-q098
+    difficulty: medium
+    stem: निम्न में से कौन-सा इलेक्ट्रोफाइल **नहीं** है ?
+    options:
+      A: H⁺
+      B: Na⁺
+      C: BF₃⁻
+      D: उपर्युक्त सभी
+    answer: B
+    explanation: H+ and BF3 accept electron pairs (electrophiles). Na+ has little tendency to accept electrons and is not treated as an electrophile.
+  - slug: bpsc-70re-q099
+    difficulty: medium
+    stem: अन्तर्राष्ट्रीय संधियों को लागू करने हेतु संसद द्वारा भारत के किसी एक हिस्से या सम्पूर्ण भारत के लिए कानून का निर्माण किया जा सकता है
+    options:
+      A: सम्बन्धित राज्य की सहमति से
+      B: राज्य की सहमति के बिना
+      C: राज्यों के बहुमत की सहमति द्वारा
+      D: सभी राज्यों की सहमति से
+    answer: B
+    explanation: Article 253 lets Parliament legislate to implement international treaties for any part of India without the States' consent.
+  - slug: bpsc-70re-q100
+    difficulty: medium
+    stem: बिहार के किस जिले में मक्का का उत्पादन सर्वाधिक होता है ?
+    options:
+      A: सिवान
+      B: सारण
+      C: पूर्वी चम्पारन
+      D: मुजफ्फरपुर
+    answer: D
+    explanation: The key gives Muzaffarpur. Bihar's maize belt is mainly the Kosi-Purnia region (Katihar, Khagaria, Purnia), which is not offered, so the key's choice cannot be checked against current data.
+  - slug: bpsc-70re-q101
+    difficulty: medium
+    stem: मलेरिया के लिए कुनैन एक सामान्य दवा है जो एक पौधे से प्राप्त होती है । यह दवा पौधे के किस भाग से प्राप्त होती है ?
+    options:
+      A: तने की छाल
+      B: पत्तियाँ
+      C: जड़
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Quinine is extracted from the bark of the Cinchona tree.
+  - slug: bpsc-70re-q102
+    difficulty: medium
+    stem: भारतीय राष्ट्रीय काँग्रेस के पहले मुस्लिम अध्यक्ष कौन थे ?
+    options:
+      A: मौलाना आज़ाद
+      B: हसरत मोहानी
+      C: बदरुद्दीन तैयबजी
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: Badruddin Tyabji presided over the 1887 Madras session as the first Muslim Congress President.
+  - slug: bpsc-70re-q103
+    difficulty: medium
+    stem: कश्मीर घाटी किस प्रकार की घाटी है ?
+    options:
+      A: अपरदनजन्य
+      B: विवर्तनिकी
+      C: अन्धी
+      D: रिफ्ट
+    answer: A
+    explanation: |-
+      **Disputed.** BPSC's final key says A; our check suggests B.
+
+      The key gives A (erosional). This is doubtful: the valley is usually described as a tectonic/synclinal basin, later shaped by Jhelum alluvium and Karewa lake deposits.
+  - slug: bpsc-70re-q104
+    difficulty: medium
+    stem: मेकॉले ने भारतीय शिक्षा पर अपना प्रसिद्ध मिनट कब जारी किया था ?
+    options:
+      A: 02 फरवरी 1835
+      B: 01 फरवरी 1835
+      C: 12 फरवरी 1836
+      D: 12 फरवरी 1835
+    answer: A
+    explanation: Macaulay's Minute on Indian Education is dated 2 February 1835.
+  - slug: bpsc-70re-q105
+    difficulty: medium
+    stem: 1 जनवरी, 2008 को मंगलवार है । 1 जनवरी, 2009 को सप्ताह का कौन-सा दिन होगा ?
+    options:
+      A: बुधवार
+      B: सोमवार
+      C: रविवार
+      D: गुरुवार
+    answer: D
+    explanation: 2008 is a leap year (366 days, two odd days), so Tuesday plus 2 gives Thursday.
+  - slug: bpsc-70re-q106
+    difficulty: medium
+    stem: एक प्रबल विद्युत अपघट्य की चालकता
+    options:
+      A: तनूकरण पर थोड़ी बढ़ती है
+      B: तनूकरण पर घटती है
+      C: तनूकरण पर नहीं परिवर्तित होती है
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Conductivity (specific conductance) falls on dilution because there are fewer ions per unit volume. Molar conductivity rises only slightly for strong electrolytes.
+  - slug: bpsc-70re-q107
+    difficulty: medium
+    stem: संथाल हुल (विद्रोह) आदिवासी आंदोलन कब हुआ था ?
+    options:
+      A: 1855-56
+      B: "1854"
+      C: 1858-59
+      D: 1857-58
+    answer: A
+    explanation: The Santhal Hul led by Sidhu and Kanhu took place in 1855-56.
+  - slug: bpsc-70re-q108
+    difficulty: medium
+    stem: भारतीय अंतरिक्ष अनुसंधान संगठन (इसरो) के वर्तमान अध्यक्ष कौन हैं ?
+    options:
+      A: एस. सोमनाथ
+      B: के. सिवन
+      C: यू. आर. राव
+      D: जी. माधवन नायर
+    answer: A
+    explanation: S. Somanath was ISRO Chairman from January 2022 until V. Narayanan took over on 14 January 2025, after this exam.
+  - slug: bpsc-70re-q109
+    difficulty: medium
+    stem: निम्नलिखित में से कौन आस्ट्रेलिया महाद्वीप से सम्बन्धित **नहीं** है ?
+    options:
+      A: साल्विन पर्वत
+      B: सेल्विन घाटी
+      C: नल्लारबार मैदान
+      D: आयर झील
+    answer: B
+    explanation: Nullarbor Plain, Lake Eyre and the Selwyn Range ('Salwin Mountain') are Australian. No 'Salvin Valley' exists there.
+  - slug: bpsc-70re-q110
+    difficulty: medium
+    stem: 2023 में COP28 जलवायु शिखर सम्मेलन की मेजबानी किस देश ने की ?
+    options:
+      A: यूनाइटेड किंगडम
+      B: संयुक्त अरब अमीरात
+      C: ब्राज़ील
+      D: इटली
+    answer: B
+    explanation: COP28 was held in Dubai, UAE, from November to December 2023.
+  - slug: bpsc-70re-q111
+    difficulty: medium
+    stem: सूर्य के सुव्यवस्थित अध्ययन हेतु आदित्य L – 1 मिशन पर स्थापित वैज्ञानिक उपकरणों की संख्या है
+    options:
+      A: "7"
+      B: "5"
+      C: "6"
+      D: "9"
+    answer: A
+    explanation: "Aditya-L1 carries seven payloads: VELC, SUIT, SoLEXS, HEL1OS, ASPEX, PAPA and the magnetometer."
+  - slug: bpsc-70re-q112
+    difficulty: medium
+    stem: अप्रैल, 2020 में बिहार शिक्षा विभाग ने डीडी बिहार के माध्यम से निम्नलिखित कार्यक्रम शुरू किया
+    options:
+      A: किसानों के लिए करसक-चौपाल कार्यक्रम का प्रसारण
+      B: बिहार की पुरानी संस्कृति को बचाने के लिए एक सांस्कृतिक कार्यक्रम का प्रसारण
+      C: कक्षा IX-X के छात्रों के लिए ई-सामग्री का प्रसारण
+      D: कक्षा V-VI के छात्रों के लिए ई-सामग्री का प्रसारण
+    answer: C
+    explanation: In April 2020, during the lockdown, the Bihar Education Department began telecasting e-content for secondary classes on DD Bihar.
+  - slug: bpsc-70re-q113
+    difficulty: medium
+    stem: अखिल भारतीय ट्रेड यूनियन काँग्रेस का गठन किस वर्ष में हुआ था ?
+    options:
+      A: "1918"
+      B: "1920"
+      C: "1919"
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: AITUC was founded on 31 October 1920 in Bombay, with Lala Lajpat Rai as President.
+  - slug: bpsc-70re-q114
+    difficulty: medium
+    stem: जब एक टेलीस्कोप के अभिदृश्यक लेंस का व्यास बढ़ता है तब टेलीस्कोप की विभेदन क्षमता
+    options:
+      A: बढ़ती है
+      B: घटती है
+      C: लेंस की फोकस दूरी पर निर्भर करती है
+      D: अपरिवर्तित रहती है
+    answer: A
+    explanation: Resolving power is proportional to D/1.22 lambda, so a larger objective diameter gives better resolution.
+  - slug: bpsc-70re-q115
+    difficulty: medium
+    stem: 2024 में इटली के प्रधानमंत्री कौन हैं ?
+    options:
+      A: लौरा बोल्ड्रिनी
+      B: जियोर्जिया मेलोनी
+      C: रोसी बिंदी
+      D: एम्मा बोनिनो
+    answer: B
+    explanation: Giorgia Meloni has been Prime Minister of Italy since October 2022.
+  - slug: bpsc-70re-q116
+    difficulty: medium
+    stem: भारत के किस शहर को यूनेस्को ने भारत का पहला साहित्यिक शहर घोषित किया है ?
+    options:
+      A: कोलकाता प. बं.
+      B: नासिक महाराष्ट्र
+      C: कोजीकोड केरल
+      D: जबलपूर म. प्र.
+    answer: C
+    explanation: UNESCO named Kozhikode India's first City of Literature on 31 October 2023.
+  - slug: bpsc-70re-q117
+    difficulty: medium
+    stem: बिहार के किस जिले में विश्व प्रसिद्ध चित्रांकन मिलता है ?
+    options:
+      A: दरभंगा
+      B: समस्तीपुर
+      C: मधेपुरा
+      D: मधुबनी
+    answer: D
+    explanation: Madhubani (Mithila) painting comes from Madhubani district.
+  - slug: bpsc-70re-q118
+    difficulty: medium
+    stem: एक ब्रिटिश नागरिक जो कि भारत में रह रहा है किस अधिकार की माँग **नहीं** कर सकता है ?
+    options:
+      A: व्यापार और व्यवसाय की स्वतंत्रता
+      B: कानून के समक्ष समानता
+      C: जीवन और वैयक्तिक स्वतंत्रता का संरक्षण
+      D: धार्मिक स्वतंत्रता
+    answer: A
+    explanation: Article 19 freedoms, including trade and profession, belong only to citizens. Articles 14, 21 and 25 cover foreigners too.
+  - slug: bpsc-70re-q119
+    difficulty: medium
+    stem: किसने बंगाल में चिरस्थायी बंदोबस्त प्रणाली के शुरुआत की ?
+    options:
+      A: वारन हेस्टिंग्स
+      B: होल्ट मैकेंजी
+      C: लॉर्ड कार्नवालिस
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793.
+  - slug: bpsc-70re-q120
+    difficulty: medium
+    stem: केन्द्रीय विधान सभा में हानिरहित बम किसने फेंके ?
+    options:
+      A: भगत सिंह
+      B: जतिन दास
+      C: बटुकेश्वर दत्त
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: Bhagat Singh and Batukeshwar Dutt threw the bombs in the Central Legislative Assembly on 8 April 1929.
+  - slug: bpsc-70re-q121
+    difficulty: medium
+    stem: निम्न में से किस बीज का उपयोग अभियांत्रिकीकृत हीरों के उत्पादन में होता है ?
+    options:
+      A: ग्रैफाइट
+      B: घनाकार ज़िरकोनिया
+      C: सफेद नीलम
+      D: मोइज़ानाइट
+    answer: A
+    explanation: The key gives graphite, the carbon feedstock in HPHT synthesis. Strictly, the seed is a diamond plate, so the wording is loose.
+  - slug: bpsc-70re-q122
+    difficulty: medium
+    stem: बिहार के किस जिले में मखाना का उत्पादन सबसे अधिक होता है ?
+    options:
+      A: पटना
+      B: मधुबनी
+      C: मुजफ्फरपुर
+      D: वैशाली
+    answer: B
+    explanation: Makhana (fox nut) is grown mainly in Mithila. Of the options, Madhubani is a leading producer (with Darbhanga and Purnia).
+  - slug: bpsc-70re-q123
+    difficulty: medium
+    stem: प्रसिद्ध पुस्तक गुलामगिरी के लेखक कौन हैं ?
+    options:
+      A: बी. आर. अंबेडकर
+      B: ज्योतिबा फुले
+      C: रामास्वामी नायकर पेरियार
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Jyotiba Phule wrote 'Gulamgiri' (1873) against caste oppression.
+  - slug: bpsc-70re-q124
+    difficulty: medium
+    stem: डालमेटियन तट है
+    options:
+      A: कार्स्टजन्य पर्वत-पदीय
+      B: नदी निक्षेपजन्य
+      C: पर्वत-पदीय
+      D: अन्तरपर्वतीय
+    answer: A
+    explanation: The Dalmatian coast (Croatia) is a concordant coast of drowned, parallel limestone (karst) ridges, which makes A the closest option.
+  - slug: bpsc-70re-q125
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा केंद्रीय बैंक का कार्य है ?
+    options:
+      A: सरकार को बैंक सुविधाएँ
+      B: रेपो-रेट का प्रबंधन करना
+      C: वाणिज्यिक बैंक को ऋण देना
+      D: उपरोक्त सभी
+    answer: D
+    explanation: A central bank is banker to the government, sets the repo rate and is lender of last resort to commercial banks.
+  - slug: bpsc-70re-q127
+    difficulty: medium
+    stem: |-
+      नेताओं की सूची – I को उनके क्षेत्र की सूची – II के साथ सुमेलित करें और नीचे दिए गए कोड से चयनित उत्तर दें :
+
+      | सूची – I | सूची – II |
+      |---|---|
+      | a. कुँवर सिंह | i. फैजाबाद |
+      | b. हजरत महल | ii. बरेली |
+      | c. खान बहादुर | iii. जगदीशपुर |
+      | d. मौलवी अहमदुल्ला | iv. लखनऊ |
+
+      कोड :
+    options:
+      A: a-iii, b-iv, c-ii, d-i
+      B: a-iv, b-i, c-ii, d-iii
+      C: a-ii, b-i, c-iii, d-iv
+      D: उपरोक्त में से कोई नहीं
+    answer: A
+    explanation: Kunwar Singh led at Jagdishpur, Begum Hazrat Mahal at Lucknow, Khan Bahadur Khan at Bareilly and Maulvi Ahmadullah at Faizabad.
+  - slug: bpsc-70re-q128
+    difficulty: medium
+    stem: सिंधु घाटी सभ्यता के प्रमुख नगर का नाम क्या है जिसका पश्चिमी एशिया से व्यापारिक सम्बन्ध था ?
+    options:
+      A: कालीबंगा (कालीबंगन)
+      B: रोपार
+      C: लोथाल
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Lothal in Gujarat, with its dockyard, was a port trading with West Asia.
+  - slug: bpsc-70re-q129
+    difficulty: medium
+    stem: निम्न में से कौन छाया की उत्पत्ति के लिए जिम्मेदार है ?
+    options:
+      A: विवर्तन
+      B: व्यतिकरण
+      C: प्रकाश का ऋजुरेखीय प्रसार
+      D: ध्रुवीकरण
+    answer: C
+    explanation: Light travels in straight lines, so an opaque object blocks it and casts a shadow.
+  - slug: bpsc-70re-q130
+    difficulty: medium
+    stem: राष्ट्रीय काँग्रेस के ई. स. 1922 में गया का अधिवेशन के अध्यक्ष कौन थे ?
+    options:
+      A: चित्तरंजन दास
+      B: महात्मा गांधी
+      C: हाकिम आजमल खाँ
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: C. R. Das presided over the Gaya Congress of 1922 and then formed the Swaraj Party.
+  - slug: bpsc-70re-q131
+    difficulty: medium
+    stem: UPI का विस्तृत रूप है
+    options:
+      A: यूनीफाइड पेमेन्ट इन्टरफेस
+      B: यूनाइटेड पेमेन्ट इनीसियेसन
+      C: यूनीफोर्म पेमेन्ट इन्सेप्सन
+      D: अनइन्टरप्टेड पेमेन्ट इनीसियेसन
+    answer: A
+    explanation: UPI stands for Unified Payments Interface, built by NPCI.
+  - slug: bpsc-70re-q132
+    difficulty: medium
+    stem: यकृत में भण्डारित होते हैं
+    options:
+      A: A, B एवं C विटामिन
+      B: A, B, C एवं D विटामिन
+      C: केवल A तथा B विटामिन
+      D: इनमें से कोई नहीं
+    answer: D
+    explanation: Final key changed B to D. The liver stores the fat-soluble vitamins A, D, E and K and much of B12 but not vitamin C, so A, B and C are wrong.
+  - slug: bpsc-70re-q133
+    difficulty: medium
+    stem: भारत के किस राज्य को खनिजलवणों का राज्य कहते हैं ?
+    options:
+      A: बिहार
+      B: झारखण्ड
+      C: पश्चिम बंगाल
+      D: उड़ीसा
+    answer: D
+    explanation: The key gives Orissa (Odisha), India's leading mineral producer by value. Jharkhand is also popularly called the mineral state, so the question is ambiguous.
+  - slug: bpsc-70re-q134
+    difficulty: medium
+    stem: भारत के किस राज्य में चित्रकूट मंदिर स्थित है ?
+    options:
+      A: मध्य प्रदेश
+      B: उत्तर प्रदेश
+      C: उड़ीसा
+      D: छत्तीसगढ़
+    answer: A
+    explanation: The temples of Chitrakoot (Kamadgiri, Ramghat) are mostly in Satna district, MP, though Chitrakoot also spills into UP.
+  - slug: bpsc-70re-q135
+    difficulty: medium
+    stem: लोकसभा सदस्य, राज्यसभा सदस्य एवं राष्ट्रपति बनने के लिए न्यूनतम उम्र क्या होनी चाहिए ?
+    options:
+      A: 25, 30 एवं 30
+      B: 25, 35 एवं 35
+      C: 25, 35 एवं 45
+      D: 25, 30 एवं 35
+    answer: D
+    explanation: The minimum age is 25 for the Lok Sabha (Article 84), 30 for the Rajya Sabha and 35 for the President (Article 58).
+  - slug: bpsc-70re-q136
+    difficulty: medium
+    stem: चुम्बकीय बल के मापन की ईकाई क्या है ?
+    options:
+      A: ओह्म
+      B: टेस्ला
+      C: एम्पियर
+      D: कोबाल्ट
+    answer: B
+    explanation: The SI unit of magnetic field (flux density) is the tesla.
+  - slug: bpsc-70re-q137
+    difficulty: medium
+    stem: व्यक्ति जो भारत का राष्ट्रपति, अमेरिका, चीन, टर्की और थाइलेंड के राजदूत रहने के साथ साथ जवाहर लाल यूनिवर्सिटी के कुलपति रह चुके हैं । वो हैं
+    options:
+      A: के. आर. नारायण
+      B: आर. वेंकटरमन
+      C: डॉ. शंकर दयाल शर्मा
+      D: डॉ. एस. राधाकृष्णन
+    answer: A
+    explanation: K. R. Narayanan served as ambassador to Thailand, Turkey, China and the USA, was Vice-Chancellor of JNU and became President in 1997.
+  - slug: bpsc-70re-q138
+    difficulty: medium
+    stem: डिवी द्वीप किसकी सरिताओं के मध्य स्थित है ?
+    options:
+      A: गोदावरी
+      B: कृष्णा
+      C: विमसाधारा
+      D: महानन्दा
+    answer: B
+    explanation: Divi Island lies among the distributaries of the Krishna delta in Andhra Pradesh.
+  - slug: bpsc-70re-q139
+    difficulty: medium
+    stem: |-
+      यदि त्रिभुज पुरुषों को दर्शाता है, आयत व्यवसायी को दर्शाता है और वृत्त करोड़पति को दर्शाता है, तो कौन-सा अंक उन पुरुषों को दर्शाता है जो कि व्यवसायी और करोड़पति दोनों हैं ?
+
+      *(चित्र: Venn-type diagram of three overlapping shapes: a circle at top centre; a large rectangle below and to the left whose top edge passes through about the middle of the circle; and a large triangle on the right (apex at top right above the circle, one vertex at bottom right outside the rectangle, the third vertex inside the rectangle below the circle) whose upper-left side cuts diagonally across the circle. Numbers: 7 in the circle only (above the rectangle, left of the triangle); 8 in circle and rectangle, outside the triangle; 3 in circle and triangle just above the rectangle's top edge (outside the rectangle); 10 in the area common to circle, rectangle and triangle; 12 in rectangle and triangle, outside the circle; 13 in the triangle only, right of the rectangle.)*
+    options:
+      A: "10"
+      B: "3"
+      C: "13"
+      D: "12"
+    answer: A
+    explanation: Men who are both businessmen and millionaires lie where the triangle, rectangle and circle all overlap, which is 10.
+  - slug: bpsc-70re-q140
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा राजकोषीय नीति का एक उपकरण है ?
+    options:
+      A: साख सीमा
+      B: बैंक दर
+      C: नकद आरक्षित अनुपात
+      D: कर
+    answer: D
+    explanation: Taxes (with public spending) are fiscal tools. Credit ceiling, bank rate and CRR are monetary tools.
+  - slug: bpsc-70re-q141
+    difficulty: medium
+    stem: वाष्प मीथेन रिफार्मिंग तकनीक के उपयोग से प्राप्त करते हैं
+    options:
+      A: ग्रीन हाइड्रोजन
+      B: ब्राउन हाइड्रोजन
+      C: ग्रे हाइड्रोजन
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Steam methane reforming of natural gas without carbon capture produces grey hydrogen.
+  - slug: bpsc-70re-q142
+    difficulty: medium
+    stem: भारत में वित्त आयोग का प्राथमिक कार्य है
+    options:
+      A: राष्ट्रपति को वित्तीय मामलों में परामर्श देना
+      B: वार्षिक बजट तैयार करना
+      C: संघ एवं राज्य सरकारों के मंत्रालयों को निधि का आवंटन करना
+      D: केन्द्र और राज्यों के मध्य राजस्व का बँटवारा
+    answer: D
+    explanation: Under Article 280 the Finance Commission recommends how tax revenue is shared between the Centre and States.
+  - slug: bpsc-70re-q143
+    difficulty: medium
+    stem: 1857 का विद्रोह किसके द्वारा पहेला वार ‘प्रथम भारतीय स्वतंत्रता संग्राम’ का रूप में वर्णित किया गया था ?
+    options:
+      A: आर. सि. मजुमदार
+      B: वि. डी. सावरकर
+      C: बाल गंगाधर तिलक
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: V. D. Savarkar called the 1857 revolt the 'First War of Indian Independence' in his 1909 book.
+  - slug: bpsc-70re-q144
+    difficulty: medium
+    stem: यदि C, B का भाई है, B, A का पुत्र है, D, C का पिता है और A महिला है, तो A है
+    options:
+      A: D की पत्नी
+      B: D की माता
+      C: D का पति
+      D: D की बहन
+    answer: A
+    explanation: A is B's and C's mother, and D is their father, so A is D's wife.
+  - slug: bpsc-70re-q145
+    difficulty: medium
+    stem: तीन धातुओं A, B एवं C का मानक इलेक्ट्रोड विभव क्रमशः 0.5 V, −3 V एवं −1.2 V है । इन धातुओं की अपचयन शक्ति होगी
+    options:
+      A: C > B > A
+      B: A > C > B
+      C: B > C > A
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "The lower the standard reduction potential, the stronger the reducing agent: B (-3 V) > C (-1.2 V) > A (+0.5 V)."
+  - slug: bpsc-70re-q146
+    difficulty: medium
+    stem: साधन लागत पर एन. एन. पी. ________ के बराबर है ।
+    options:
+      A: प्रयोज्य व्यक्तिगत आय
+      B: राष्ट्रीय आय
+      C: बाजार मूल्य पर जी. एन. पी.
+      D: साधन लागत पर जी.एन.पी.– शुद्ध अप्रत्यक्ष कर
+    answer: B
+    explanation: NNP at factor cost is National Income.
+  - slug: bpsc-70re-q147
+    difficulty: medium
+    stem: |-
+      काँग्रेस-पूर्व संगठनों की सूची – I को उनके नेताओं की सूची – II से मिलाएँ और नीचे दिए गए कोड से उत्तर चुनें ।
+
+      | सूची – I | सूची – II |
+      |---|---|
+      | a. इंडियन एसोसिएशन | i. दादाभाई नौरोजी |
+      | b. मद्रास महाजन सभा | ii. एम. वीरराघवाचार्य |
+      | c. बॉम्बे प्रेसीडेंसी एसोसिएशन | iii. जस्टिस रानाडे |
+      | d. पूना सार्वजनिक सभा | iv. सुरेंद्रनाथ बनर्जी |
+
+      कोड :
+    options:
+      A: a-i, b-ii, c-iv, d-iii
+      B: a-ii, b-i, c-iii, d-iv
+      C: a-iv, b-ii, c-i, d-iii
+      D: उपरोक्त में से कोई नहीं
+    answer: C
+    explanation: "Indian Association: Surendranath Banerjee. Madras Mahajan Sabha: M. Viraraghavachariar. Bombay Presidency Association: Dadabhai Naoroji (among its leaders). Poona Sarvajanik Sabha: Ranade."
+  - slug: bpsc-70re-q148
+    difficulty: medium
+    stem: 100°C ताप पर वायु में जलने की तुलना में 100°C पर स्थित वाष्प में जलना
+    options:
+      A: कम वाष्पीकरण की गुप्त उष्मा के कारण कम खतरनाक है
+      B: कम वाष्पीकरण की गुप्त उष्मा के कारण ज्यादा खतरनाक है
+      C: ज्यादा वाष्पीकरण की गुप्त उष्मा के कारण ज्यादा खतरनाक है
+      D: ज्यादा वाष्पीकरण की गुप्त उष्मा के कारण कम खतरनाक है
+    answer: C
+    explanation: Steam at 100 C also releases its large latent heat of condensation (about 2260 J/g) on the skin, so it burns worse.
+  - slug: bpsc-70re-q149
+    difficulty: medium
+    stem: एक पंक्ति में 15 कुर्सियाँ हैं । P का स्थान मध्य में है, और दाईं ओर से गिनती करने पर Q 12 वें स्थान पर है । P और Q के बीच कितनी कुर्सियाँ हैं ?
+    options:
+      A: "3"
+      B: "2"
+      C: "5"
+      D: "4"
+    answer: A
+    explanation: P is 8th of 15. Q, 12th from the right, is 4th from the left, so 3 chairs (5th to 7th) lie between them.
+  - slug: bpsc-70re-q150
+    difficulty: medium
+    stem: पाटना कॉलेज कब स्थापित हुआ ?
+    options:
+      A: "1861"
+      B: "1865"
+      C: "1863"
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Patna College was founded in 1863.

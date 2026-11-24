@@ -1,0 +1,1712 @@
+slug: 68th-prelims
+title: बीपीएससी 68वीं प्रारंभिक परीक्षा
+date: 2023-02-12
+label: Series A
+source: "BPSC official question booklet and final answer key (bpsc.bihar.gov.in). Deleted by BPSC (left out): Q22."
+questions:
+  - slug: bpsc-68-q001
+    difficulty: medium
+    stem: भारतीय संविधान के अनुच्छेद 14 में लिखा हुआ ‘कानून के समक्ष समानता’ किस देश के संविधान से लिया गया है?
+    options:
+      A: ब्रिटेन
+      B: यू० एस० ए०
+      C: फ्रांस
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "'Equality before law' (Art. 14) comes from the British Constitution (rule of law); 'equal protection of laws' comes from the US Constitution."
+  - slug: bpsc-68-q002
+    difficulty: medium
+    stem: भारतीय संविधान को बनाने में कितना समय लगा?
+    options:
+      A: 1 वर्ष 10 माह और 12 दिन
+      B: 2 वर्ष 10 माह और 5 दिन
+      C: 2 वर्ष 11 माह और 18 दिन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "The Constituent Assembly first met on 9 Dec 1946 and adopted the Constitution on 26 Nov 1949: 2 years, 11 months and 18 days."
+  - slug: bpsc-68-q003
+    difficulty: medium
+    stem: राज्य का मंत्रिपरिषद् सामूहिक तौर पर किसके प्रति उत्तरदायी है?
+    options:
+      A: मुख्यमंत्री
+      B: राज्यपाल
+      C: विधान-सभा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "Article 164(2): the State Council of Ministers is collectively responsible to the Legislative Assembly."
+  - slug: bpsc-68-q004
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए :
+
+      73वें संशोधन के बाद विकेन्द्रीकरण किया गया
+
+      1. निर्णय लेने की शक्तियों का
+      2. पूर्ण व्यवस्था का
+      3. न्यायिक शक्तियों का
+      4. प्रशासनिक शक्तियों का
+
+      उपर्युक्त में से कौन-से कथन सही हैं?
+    options:
+      A: केवल 1, 2 और 3
+      B: केवल 1, 2 और 4
+      C: केवल 2, 3 और 4
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The 73rd Amendment decentralised decision-making, administrative powers and the governance system as a whole; it did not decentralise judicial powers.
+  - slug: bpsc-68-q005
+    difficulty: medium
+    stem: राज्य सभा में प्रतिनिधित्व में शामिल हैं
+    options:
+      A: नागरिकों द्वारा सीधे चुने गए सदस्य
+      B: अप्रत्यक्ष रूप से नागरिकों द्वारा उनके प्रतिनिधियों के माध्यम से चुने गए सदस्य
+      C: भारत के राष्ट्रपति द्वारा मनोनीत सदस्य
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Rajya Sabha has members elected indirectly by elected MLAs and 12 members nominated by the President, so both B and C hold.
+  - slug: bpsc-68-q006
+    difficulty: medium
+    stem: निम्नलिखित में से किसका संबंध भारत के सर्वोच्च न्यायालय से है?
+    options:
+      A: अपीलीय अधिकार क्षेत्र
+      B: मूल अधिकार क्षेत्र
+      C: कॉलेजियम प्रणाली
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Original and appellate jurisdiction and the collegium system all relate to the Supreme Court, so more than one option is correct.
+  - slug: bpsc-68-q007
+    difficulty: medium
+    stem: 73वें संविधान संशोधन अधिनियम के तहत पंचायती राज संस्थाओं में चुनाव लड़ने के लिए न्यूनतम कितनी आयु होना आवश्यक है?
+    options:
+      A: 21 वर्ष
+      B: 25 वर्ष
+      C: 18 वर्ष
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "Article 243F (73rd Amendment): a person who has attained 21 years cannot be disqualified on grounds of age for Panchayat elections."
+  - slug: bpsc-68-q008
+    difficulty: medium
+    stem: भारत में जिला स्तर पर उपभोक्ता विवाद निवारण के संदर्भ में निम्नलिखित में से कौन-सा कथन सही **नहीं** है?
+    options:
+      A: राज्य सरकार यदि उचित समझे तो एक जिले में एक से अधिक जिला फोरम की स्थापना कर सकती है।
+      B: जिला फोरम के सदस्यों में से एक महिला होगी।
+      C: जिला फोरम उन शिकायतों पर विचार करता है जहाँ वस्तुओं या सेवाओं का मूल्य पचास लाख रुपए से अधिक नहीं होता है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: Under the Consumer Protection Act 2019, a State may set up more than one District Commission in a district, the 2020 rules require a woman president or member, and since Dec 2021 the pecuniary limit is Rs 50 lakh. All three statements are correct, so none is 'not correct'.
+  - slug: bpsc-68-q009
+    difficulty: medium
+    stem: एक पंचायत समिति किस स्तर पर एक पंचायती राज संरचना का संचालन करती है?
+    options:
+      A: जिला स्तर
+      B: ग्राम पंचायत स्तर
+      C: ब्लॉक-स्तरीय निकाय
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The Panchayat Samiti is the intermediate tier, at the block level.
+  - slug: bpsc-68-q010
+    difficulty: medium
+    stem: निम्नलिखित में से किसे समुदाय विकास के पहले कार्यक्रम के रूप में स्थापित किया गया था?
+    options:
+      A: राष्ट्रीय विस्तार सेवा
+      B: एकीकृत ग्रामीण विकास कार्यक्रम
+      C: सहयोग आन्दोलन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Of the options, the National Extension Service (1953) was the earliest community-development programme (it followed the 1952 Community Development Programme); IRDP came in 1978-80.
+  - slug: bpsc-68-q011
+    difficulty: medium
+    stem: |-
+      एस० ई० जेड० अधिनियम, 2005 के उद्देश्य क्या हैं?
+
+      1. अतिरिक्त आर्थिक गतिविधियों का उत्पादन
+      2. वस्तुओं और सेवाओं के निर्यात को बढ़ावा
+      3. रोजगार निर्माण
+    options:
+      A: 1, 2 और 3
+      B: केवल 2 और 3
+      C: केवल 1 और 3
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The SEZ Act 2005 lists additional economic activity, export promotion and employment generation among its objectives, so all three apply.
+  - slug: bpsc-68-q012
+    difficulty: medium
+    stem: कृषि विपणन प्रणाली में सुधार के लिए भारत सरकार द्वारा अपनाया गया नीतिगत उपाय क्या है?
+    options:
+      A: न्यूनतम समर्थन मूल्य (एम० एस० पी०)
+      B: बफर स्टॉक का रखरखाव
+      C: सार्वजनिक वितरण प्रणाली (पी० डी० एस०)
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: NCERT lists MSP, buffer stocks and PDS as policy instruments the government uses in agricultural marketing, so more than one option is correct.
+  - slug: bpsc-68-q013
+    difficulty: medium
+    stem: किस समिति ने प्रतिस्पर्धा अधिनियम, 2002 को अधिनियमित करने का सुझाव दिया?
+    options:
+      A: रंगराजन समिति
+      B: एस० वी० एस० राघवन समिति
+      C: विजय केलकर समिति
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The S.V.S. Raghavan Committee (2000) recommended a new competition law, which became the Competition Act 2002.
+  - slug: bpsc-68-q014
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I | सूची–II |
+      |---|---|
+      | a. धूसर क्रांति | 1. प्याज का उत्पादन |
+      | b. गुलाबी क्रांति | 2. टमाटर और मांस उत्पादन |
+      | c. रजत क्रांति | 3. अंडे का उत्पादन |
+      | d. लाल क्रांति | 4. उर्वरक (फर्टिलाइज़र) |
+    options:
+      A: a-4, b-1, c-3, d-2
+      B: a-3, b-1, c-4, d-2
+      C: a-1, b-4, c-2, d-3
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "Grey Revolution: fertilisers; Pink: onion (also prawns/meat); Silver: eggs; Red: tomato and meat."
+  - slug: bpsc-68-q015
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सी पंचवर्षीय योजना, मानव संसाधन विकास पर केन्द्रित थी?
+    options:
+      A: प्रथम
+      B: तृतीय
+      C: पंचम
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: Human resource development was the focus of the Eighth Plan (1992-97), which is not among the options.
+  - slug: bpsc-68-q016
+    difficulty: medium
+    stem: भारत के निम्नलिखित में से किस राज्य ने अप्रैल से सितंबर 2022 के दौरान उच्चतम प्रत्यक्ष विदेशी निवेश (एफ० डी० आइ०), इक्विटी के रूप में प्राप्त किया?
+    options:
+      A: कर्नाटक
+      B: त्रिपुरा
+      C: गुजरात
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: In Apr-Sep 2022 Maharashtra was first and Karnataka second in FDI equity inflows (DPIIT). Among the listed states Karnataka is highest.
+  - slug: bpsc-68-q017
+    difficulty: medium
+    stem: किस बजट में वित्त मंत्री ने उदारीकृत विनिमय दर प्रबंधन प्रणाली की घोषणा की?
+    options:
+      A: यूनियन बजट, 1991–1992
+      B: यूनियन बजट, 1992–1993
+      C: यूनियन बजट, 1993–1994
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: LERMS (dual exchange rate) was announced in the Union Budget 1992-93 and introduced in March 1992.
+  - slug: bpsc-68-q018
+    difficulty: medium
+    stem: |-
+      पंचवर्षीय योजना के उद्देश्य निम्नलिखित में से कौन-से थे?
+
+      1. विकास
+      2. आधुनिकीकरण
+      3. आत्मनिर्भरता
+      4. साहित्य
+    options:
+      A: केवल 1, 3 और 4
+      B: केवल 2, 3 और 4
+      C: केवल 1, 2 और 4
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: The plan goals were growth, modernisation, self-reliance and equity. 'Literature' is not one, and every option includes statement 4, so none is correct.
+  - slug: bpsc-68-q019
+    difficulty: medium
+    stem: गरीबी रेखा को निर्धारित करने के लिए कौन-सा संगठन सर्वेक्षण करता है?
+    options:
+      A: एन० एस० एस० ओ०
+      B: नीति आयोग
+      C: आर० बी० आइ०
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Poverty estimates rely on the NSSO consumption expenditure surveys. NITI Aayog uses the data but does not conduct the survey.
+  - slug: bpsc-68-q020
+    difficulty: medium
+    stem: भारत का व्यापार संतुलन (माल और सेवाएँ) दिसंबर 2022 (अनंतिम) के लिए है
+    options:
+      A: (–) 10·50 अरब अमरीकी डॉलर
+      B: (+) 11·98 अरब अमरीकी डॉलर
+      C: (–) 11·98 अरब अमरीकी डॉलर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The Commerce Ministry's estimate for Dec 2022 was overall exports of about USD 61.82 bn and imports of about USD 73.80 bn, a trade deficit of about USD 11.98 bn.
+  - slug: bpsc-68-q021
+    difficulty: medium
+    stem: वर्ष 2020–2022 के लिए सबसे कम महिला कार्यबल भागीदारी दर कितने प्रतिशत पर बिहार में दर्ज की गई?
+    options:
+      A: 4% ग्रामीण क्षेत्रों में और 6·5% शहरी क्षेत्रों में
+      B: 6% ग्रामीण क्षेत्रों में और 8·1% शहरी क्षेत्रों में
+      C: 7% ग्रामीण क्षेत्रों में और 9·1% शहरी क्षेत्रों में
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Bihar has the lowest female workforce participation among states. The key takes about 4% rural and 6.5% urban.
+  - slug: bpsc-68-q023
+    difficulty: medium
+    stem: केन्द्रीय स्वास्थ्य एवं परिवार कल्याण मंत्रालय द्वारा 24 नवम्बर, 2021 को प्रकाशित राष्ट्रीय परिवार सर्वेक्षण-5 के अनुसार, बिहार के लिंग अनुपात में काफी अच्छा सुधार हुआ है। यह 2015–2016 में ______ से बढ़कर 2020–2022 में ______ हो गया है।
+    options:
+      A: 1062, 1090
+      B: 1040, 1070
+      C: 1030, 1050
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "NFHS-5: Bihar's sex ratio (females per 1000 males) rose from 1062 (NFHS-4, 2015-16) to 1090 (2019-21)."
+  - slug: bpsc-68-q024
+    difficulty: medium
+    stem: बिहार आर्थिक सर्वेक्षण (2021–2022) के अनुसार, 2020–2021 में बिहार के सकल राज्य घरेलू उत्पाद (जी० एस० डी० पी०) की वृद्धि दर कितनी रही?
+    options:
+      A: 3%
+      B: 2%
+      C: 2·5%
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "Bihar Economic Survey 2021-22: GSDP grew 2.5% at constant prices in 2020-21, the COVID year."
+  - slug: bpsc-68-q025
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा एक बिहार की अर्थव्यवस्था के मामले में सही है?
+    options:
+      A: भारत में सबसे कम विकास दर में से एक है जो 2·5% है।
+      B: बिहार में अधिकतर प्राथमिक वस्तुओं का उत्पादन होता है।
+      C: अर्थव्यवस्था का व्यावसायिक ढाँचा ऊपर से स्थिर है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Bihar's growth rate is among the highest (A is false). It mainly produces primary goods, and its occupational structure, with over two-thirds in agriculture, has hardly changed. The key accepts both B and C.
+  - slug: bpsc-68-q026
+    difficulty: medium
+    stem: प्रथम बार संघर्ष के तरीकों के रूप में स्वदेशी एवं बहिष्कार किसके दौरान अपनाए गए थे?
+    options:
+      A: साइमन कमीशन के भारत आगमन
+      B: बंगाल विभाजन
+      C: होम रूल आंदोलन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Swadeshi and Boycott were first adopted as methods of struggle during the anti-partition movement against the Partition of Bengal in 1905.
+  - slug: bpsc-68-q027
+    difficulty: medium
+    stem: 1906 में आयोजित भारतीय राष्ट्रीय काँग्रेस (आइ० एन० सी०) के कलकत्ता अधिवेशन में भारत के लिए स्वराज का झण्डा किसके द्वारा फहराया गया था?
+    options:
+      A: ए० ओ० ह्यूम
+      B: दादाभाई नौरोजी
+      C: जी० के० गोखले
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Dadabhai Naoroji presided over the 1906 Calcutta session, where Swaraj was first declared the Congress goal. Exam sources credit him with unfurling the Swaraj flag.
+  - slug: bpsc-68-q028
+    difficulty: medium
+    stem: स्वतंत्रता संग्राम के दौरान भारतीय राज्यों (कश्मीर, निज़ाम के हैदराबाद, त्रावणकोर आदि जैसे भारतीय शासकों द्वारा शासित राज्यों) में एक समानांतर आंदोलन शुरू किया गया था। उसका नाम था
+    options:
+      A: राज्य जन आंदोलन
+      B: प्रजा मण्डल आंदोलन
+      C: स्वराज आंदोलन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The movement in the princely states was organised through Praja Mandals (and the States' People's Conference).
+  - slug: bpsc-68-q029
+    difficulty: medium
+    stem: भारतीय स्वतंत्रता संग्राम के बारे में निम्नलिखित में से कौन-सा कथन सही **नहीं** है?
+    options:
+      A: चौरी-चौरा कांड के कारण गाँधीजी ने असहयोग आंदोलन से हाथ खींच लिया था।
+      B: गाँधीजी ने अपना पहला प्रमुख सार्वजनिक भाषण बनारस हिन्दू विश्वविद्यालय में दिया था।
+      C: वर्ष 1921 में महात्मा गाँधी को गिरफ्तार कर लिया गया था।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Gandhiji was arrested in March 1922, not 1921. A (Chauri Chaura) and B (BHU speech, 1916) are correct.
+  - slug: bpsc-68-q030
+    difficulty: medium
+    stem: अबुल कलाम आज़ाद के द्वारा किस पत्रिका को संपादित किया गया था?
+    options:
+      A: "*द कॉमरेड*"
+      B: "*अल-हिलाल*"
+      C: "*जमींदार*"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Abul Kalam Azad started Al-Hilal in 1912. The Comrade was Mohammad Ali's and Zamindar was Zafar Ali Khan's.
+  - slug: bpsc-68-q031
+    difficulty: medium
+    stem: 19वीं शताब्दी के अंत में इतिहास के अध्ययन ने भारत में राष्ट्रीयता की भावना पैदा करने में किस प्रकार मदद की?
+    options:
+      A: इतिहास की पुनर्व्याख्या करके और अंग्रेजों द्वारा भारतीयों को पिछड़ा, आदिम और खुद पर शासन करने में असमर्थ के रूप में चित्रित करने का खंडन करके
+      B: भारत के गौरवशाली अतीत के बारे में लिखकर और लोगों से उनकी उपलब्धियों पर गर्व करने का आग्रह करके
+      C: ब्रिटिश शासन के तहत दयनीय स्थितियों को बदलने और संघर्ष करने के लिए लोगों से आग्रह करके
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: "NCERT (Class 10) describes all three: reinterpreting history against the British portrayal, writing about India's glorious past, and urging struggle against British rule."
+  - slug: bpsc-68-q032
+    difficulty: medium
+    stem: |-
+      नगरों में असहयोग आंदोलन के संबंध में निम्नलिखित में से कौन-से कथन सही **नहीं** हैं?
+
+      1. आंदोलन में केवल उच्च जातियों और अमीरों ने भाग लिया।
+      2. मद्रास की जस्टिस पार्टी द्वारा भी काउंसिल के चुनावों का बहिष्कार किया गया।
+      3. हजारों छात्रों ने सरकारी नियंत्रण वाले स्कूलों को छोड़ दिया, प्रधानाध्यापकों और शिक्षकों ने इस्तीफा दे दिया और वकीलों ने अपनी प्रैक्टिस छोड़ दी।
+    options:
+      A: केवल 1 और 3
+      B: केवल 2 और 3
+      C: केवल 1 और 2
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Middle classes, not only the upper castes and the rich, joined (1 is wrong). The Justice Party of Madras contested the council elections (2 is wrong). Statement 3 is correct.
+  - slug: bpsc-68-q033
+    difficulty: medium
+    stem: “एक संन्यासी जो फिजी में एक गिरमिटिया मजदूर के रूप में काम करने के बाद उस जिले में अपनी पीठ पर तुलसीदास *रामायण* की एक प्रति लेकर आया था, जिससे वह ग्रामीण श्रोताओं को छंद सुनाता था।” यहाँ जिस किसान नेता का जिक्र है, वह है
+    options:
+      A: झींगुरी सिंह
+      B: यदुनन्दन शर्मा
+      C: बाबा राम चन्द्र
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Baba Ramchandra, a former indentured labourer in Fiji, led the Awadh peasant movement while reciting the Ramayana.
+  - slug: bpsc-68-q034
+    difficulty: medium
+    stem: ऑल इंडिया हरिजन संघ की स्थापना 1932 में किसके द्वारा की गई थी?
+    options:
+      A: जगजीवन राम
+      B: महात्मा गाँधी
+      C: डॉ० बी० आर० अम्बेडकर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Gandhiji founded the All India Harijan (Sevak) Sangh in 1932 to fight untouchability.
+  - slug: bpsc-68-q035
+    difficulty: medium
+    stem: 20 फरवरी, 1947 को प्रधानमंत्री एटली ने भारत से ब्रिटिश शासन को कब तक वापस लेने की घोषणा की थी?
+    options:
+      A: अगस्त 1947
+      B: जनवरी 1948
+      C: जून 1948
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: On 20 Feb 1947 Attlee announced that the British would leave India by June 1948.
+  - slug: bpsc-68-q036
+    difficulty: medium
+    stem: स्वराज दल की स्थापना बिहार में किसने की थी?
+    options:
+      A: श्री कृष्ण सिंह
+      B: रामलाल शाह
+      C: बंकिम चंद्र मित्र
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Shri Krishna Singh (Sinha) is credited with setting up the Swaraj Dal in Bihar in 1923.
+  - slug: bpsc-68-q037
+    difficulty: medium
+    stem: नमक सत्याग्रह के दौरान बिहार के लोगों ने नमक बनाने के साथ-साथ सरकार के विरुद्ध किस कर का विरोध करने का विकल्प चुना?
+    options:
+      A: हाथी
+      B: विकास
+      C: मलबा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: Alongside salt-making, people in Bihar refused to pay the chowkidari tax, which is not among the options.
+  - slug: bpsc-68-q038
+    difficulty: medium
+    stem: श्री कृष्ण सिंह द्वारा गठित बिहार की निर्वाचित सरकार ने फरवरी 1938 में किस कारण से इस्तीफा दे दिया?
+    options:
+      A: भारत की आजादी के आंदोलन में भाग लेने के कारण
+      B: राजनीतिक कैदियों को छोड़ने के कारण
+      C: गाँधीजी द्वारा ब्रिटिश के विरुद्ध सत्याग्रह आंदोलन के कारण
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Shri Krishna Singh's ministry resigned in Feb 1938 when the Governor refused to release political prisoners.
+  - slug: bpsc-68-q039
+    difficulty: medium
+    stem: किसने चंपारण सत्याग्रह के दौरान बिहार में गाँधीजी की जान बचाई थी?
+    options:
+      A: बतक मियाँ
+      B: हामिद अंसारी
+      C: रवीन्द्र पाठक
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Batak Mian, a cook, refused an indigo planter's order to poison Gandhiji during the Champaran Satyagraha.
+  - slug: bpsc-68-q040
+    difficulty: medium
+    stem: असहयोग आंदोलन के दौरान किसने बिहार में किसानों की अगुवाई की?
+    options:
+      A: स्वामी विद्यानंद
+      B: राज कुमार शुक्ल
+      C: श्री कृष्ण सिंह
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Swami Vidyanand led the kisan agitation, against the Darbhanga Raj, in north Bihar in 1919-20, around the Non-Cooperation period.
+  - slug: bpsc-68-q041
+    difficulty: medium
+    stem: प्राचीन काल में गंगा के दक्षिण क्षेत्र को क्या कहा जाता था?
+    options:
+      A: तक्षशिला
+      B: चोल
+      C: अनर्त
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: The region south of the Ganga (around the Son) was Magadha. Takshashila, Chola and Anarta lay elsewhere.
+  - slug: bpsc-68-q042
+    difficulty: medium
+    stem: भारतीय उपमहाद्वीप में लोहे का प्रयोग कब शुरू हुआ?
+    options:
+      A: प्रायः 12000 वर्ष पूर्व
+      B: प्रायः 6000 वर्ष पूर्व
+      C: प्रायः 9000 वर्ष पूर्व
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: Iron use in the subcontinent began about 3000 years ago (c. 1000 BCE or a little earlier), which no option gives.
+  - slug: bpsc-68-q043
+    difficulty: medium
+    stem: दूसरी शताब्दी के आसपास रचित संस्कृत के शिलालेख के अनुसार, सुदर्शन झील, एक कृत्रिम जलाशय, की मरम्मत किसने की थी?
+    options:
+      A: कनिष्क
+      B: रुद्रदमन
+      C: हर्ष
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Rudradaman's Junagadh (Girnar) Sanskrit inscription (c. 150 CE) records his repair of the Sudarshana lake.
+  - slug: bpsc-68-q044
+    difficulty: medium
+    stem: झाँसी के पास देवगढ़ का मंदिर और इलाहाबाद के पास गढ़वा मंदिर में बनी मूर्तियाँ किस कला के महत्त्वपूर्ण अवशेष हैं?
+    options:
+      A: गुप्त कला
+      B: राष्ट्रकूट कला
+      C: मौर्य कला
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The Dashavatara temple at Deogarh and the Garhwa sculptures are Gupta-period works.
+  - slug: bpsc-68-q045
+    difficulty: medium
+    stem: निम्नलिखित में से किस युद्ध में मुख्य विरोधियों का सही उल्लेख **नहीं** किया गया है?
+    options:
+      A: पानीपत का प्रथम युद्ध—बाबर और इब्राहिम लोदी
+      B: पानीपत का द्वितीय युद्ध—टीपू सुल्तान और मराठा
+      C: हल्दीघाटी का युद्ध—महाराणा प्रताप और अकबर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The Second Battle of Panipat (1556) was fought between Akbar (under Bairam Khan) and Hemu, not between Tipu and the Marathas.
+  - slug: bpsc-68-q046
+    difficulty: medium
+    stem: दिल्ली सल्तनत के दौरान ‘मुकद्दम या चौधरी’ पद का इस्तेमाल किनके लिए किया जाता था?
+    options:
+      A: राजस्व अधिकारी
+      B: गाँव के लेखाकार
+      C: गाँव के सरपंच
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Under the Sultanate, the muqaddam or chaudhari was the village headman.
+  - slug: bpsc-68-q047
+    difficulty: medium
+    stem: "*तबक़ात-ए-अकबरी*, जिसे कभी-कभी अबुल फ़ज़ल के *अकबरनामा* से अधिक विश्वसनीय माना जाता है, किसके द्वारा लिखा गया था?"
+    options:
+      A: निज़ामुद्दीन अहमद
+      B: अब्दुल हामिद लाहौरी
+      C: गुलबदन बेगम
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Tabaqat-i-Akbari was written by Khwaja Nizamuddin Ahmad.
+  - slug: bpsc-68-q048
+    difficulty: medium
+    stem: इनमें से किस प्रसिद्ध शासक ने अपनी माता के नाम पर विजयनगर के पास नागालपुरम की एक उपनगरीय बस्ती की स्थापना की थी?
+    options:
+      A: हरिहर
+      B: बुक्का
+      C: कृष्णदेवराय
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Krishnadevaraya founded Nagalapuram near Vijayanagara and named it after his mother, Nagala Devi.
+  - slug: bpsc-68-q049
+    difficulty: medium
+    stem: 1940 में, पटना महिला महाविद्यालय की स्थापना निम्नलिखित में से किस समाज द्वारा की गई थी?
+    options:
+      A: सोसायटी ऑफ जिसस
+      B: आयरिश क्रिश्चियन ब्रदर्स
+      C: सिस्टर्स ऑफ द एपोस्टोलिक कार्मेल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Patna Women's College was founded in 1940 by the Sisters of the Apostolic Carmel.
+  - slug: bpsc-68-q050
+    difficulty: medium
+    stem: इनमें से किसने 1947 में भारत और पाकिस्तान के बीच अंतर्राष्ट्रीय सीमाएँ खींचने के लिए स्थापित की गई दो सीमा आयोगों का नेतृत्व किया था?
+    options:
+      A: ए० पी० मून
+      B: ए० वी० अलेक्जेंडर
+      C: सिरिल रेडक्लिफ़
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Sir Cyril Radcliffe chaired both the Punjab and the Bengal Boundary Commissions.
+  - slug: bpsc-68-q051
+    difficulty: medium
+    stem: किसने बंगाल में महालवारी बंदोबस्त प्रणाली की शुरुआत की?
+    options:
+      A: लॉर्ड कॉर्नवालिस
+      B: होल्ट मैकेंजी
+      C: लॉर्ड हेस्टिंग्स
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Holt Mackenzie proposed the Mahalwari system (Regulation VII of 1822) for the North-Western Provinces of the Bengal Presidency.
+  - slug: bpsc-68-q052
+    difficulty: medium
+    stem: 1940 में विनोबा भावे ने व्यक्तिगत सत्याग्रह कहाँ से आरंभ किया
+    options:
+      A: खेड़ा जिले में नडियाद, गुजरात
+      B: पवनार, महाराष्ट्र
+      C: पुन्नपरा-वायलार, केरल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Vinoba Bhave, the first individual satyagrahi, began on 17 Oct 1940 from Pavnar, near Wardha.
+  - slug: bpsc-68-q053
+    difficulty: medium
+    stem: 1918 में मोंटफोर्ड सुधारों पर काँग्रेस ने एक महत्त्वपूर्ण रुख अपनाया, जिसके कारण पुराने उदारवादी अवशेष (सप्रू, जयकर और चिंतामणि) टूट गए, जिन्होंने गठन किया
+    options:
+      A: भारत सेवक समाज का
+      B: स्वराज पार्टी का
+      C: इंडियन नैशनल लिबरल फेडरेशन का
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Moderates led by Surendranath Banerjee, Sapru and others left Congress and formed the Indian National Liberal Federation in 1918-19.
+  - slug: bpsc-68-q054
+    difficulty: medium
+    stem: |-
+      कैबिनेट मिशन निम्नलिखित में से किसके लिए भारत भेजा गया था?
+
+      1. एक राष्ट्रीय सरकार की स्थापना के लिए
+      2. सत्ता के हस्तांतरण के लिए एक संवैधानिक व्यवस्था तैयार करने के लिए
+      3. पाकिस्तान के लिए जिन्ना की माँग के ब्यौरों पर काम करने के लिए
+    options:
+      A: केवल 1
+      B: केवल 2
+      C: केवल 3
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The Cabinet Mission (1946) came to negotiate the constitutional arrangements for the transfer of power.
+  - slug: bpsc-68-q055
+    difficulty: medium
+    stem: इनमें से किसने हुमायूँ को यह प्रस्ताव दिया था कि यदि उसे बंगाल पर अधिकार करने दिया गया तो वह बिहार को समर्पित कर देगा और 10 लाख दीनार की वार्षिक श्रद्धांजलि अर्पित करेगा?
+    options:
+      A: शेर ख़ान
+      B: बैरम ख़ान
+      C: बहादुर शाह
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Sher Khan offered to give up Bihar and pay Humayun a tribute of 10 lakh dinars a year if he could keep Bengal.
+  - slug: bpsc-68-q056
+    difficulty: medium
+    stem: विक्रमशिला विश्वविद्यालय किनके द्वारा स्थापित किया गया था?
+    options:
+      A: धर्मपाल
+      B: देवपाल
+      C: गोपाल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The Pala king Dharmapala founded Vikramshila Mahavihara.
+  - slug: bpsc-68-q057
+    difficulty: medium
+    stem: इनमें से बिहार के प्रथम राज्यपाल कौन थे?
+    options:
+      A: सर जेम्स डेविड सिफ्टन
+      B: सर ह्यूग डौ
+      C: सर मौरिस गार्नियर हैलेट
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Sir James David Sifton became the first Governor of Bihar when Bihar was separated from Orissa on 1 April 1936.
+  - slug: bpsc-68-q058
+    difficulty: medium
+    stem: "*महात्मा गाँधी ऐंड बिहार, सम रेमिनिसन्सेस* के लेखक कौन थे?"
+    options:
+      A: जे० पी० नारायण
+      B: कर्पूरी ठाकुर
+      C: डॉ० राजेन्द्र प्रसाद
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "Dr Rajendra Prasad wrote 'Mahatma Gandhi and Bihar: Some Reminiscences'."
+  - slug: bpsc-68-q059
+    difficulty: medium
+    stem: बिहार का सबसे पुराना गिरजाघर कौन-सा है?
+    options:
+      A: ल्यूक चर्च
+      B: स्टीफेन चर्च
+      C: पादरी की हवेली
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Padri Ki Haveli (St Mary's Church, Patna, 1772) is the oldest church in Bihar.
+  - slug: bpsc-68-q060
+    difficulty: medium
+    stem: दिवंगत अभिनेता कुमुदलाल गांगुली, जिन्हें उनके मंचीय नाम अशोक कुमार से भी जाना जाता है, का जन्म बिहार के निम्नलिखित में से किस शहर में हुआ था?
+    options:
+      A: मुंगेर
+      B: भागलपुर
+      C: पटना
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Ashok Kumar (Kumudlal Ganguly) was born in Bhagalpur in 1911.
+  - slug: bpsc-68-q061
+    difficulty: medium
+    stem: निम्नलिखित में से किस केन्द्रीय मंत्रालय ने हाल ही में 2022 में युवा 2.0 योजना का शुभारंभ किया?
+    options:
+      A: स्वास्थ्य एवं परिवार कल्याण मंत्रालय
+      B: शिक्षा मंत्रालय
+      C: आयुष मंत्रालय
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: YUVA 2.0, a mentorship scheme for young authors, was launched by the Ministry of Education in Oct 2022.
+  - slug: bpsc-68-q062
+    difficulty: medium
+    stem: गृह मंत्रालय ने नवंबर 2022 को देश की कितनी भाषाओं की फील्ड वीडियोग्राफी के साथ भारतीय मातृभाषा सर्वेक्षण (एम० टी० एस० आइ०) कार्य को पूरा किया है?
+    options:
+      A: "40"
+      B: "233"
+      C: "576"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The MHA's Mother Tongue Survey of India finished field videography of 576 languages.
+  - slug: bpsc-68-q063
+    difficulty: medium
+    stem: निम्नलिखित में से किस समिति ने 1 जनवरी, 2026 से पूर्ण मूल्य निर्धारण स्वतंत्रता की सिफारिश करते हुए गैस मूल्य निर्धारण पर एक रिपोर्ट प्रस्तुत की है?
+    options:
+      A: अरुण गोयल समिति
+      B: किरीट पारिख समिति
+      C: पी० के० मोहंती समिति
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The Kirit Parikh committee recommended complete freedom in gas pricing from 1 January 2026.
+  - slug: bpsc-68-q064
+    difficulty: medium
+    stem: निम्नलिखित में से किस शहर को स्वच्छ सर्वेक्षण, 2022 के अनुसार पाँच सितारा कचरा-मुक्त शहर रैंक से सम्मानित **नहीं** किया गया था?
+    options:
+      A: सूरत
+      B: भोपाल
+      C: नवी मुंबई
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: In Swachh Survekshan 2022 Surat, Bhopal and Navi Mumbai (with Mysuru, Visakhapatnam and Tirupati) were all rated 5-star garbage-free (PIB), so none fits.
+  - slug: bpsc-68-q065
+    difficulty: medium
+    stem: प्रधानमंत्री ने निम्नलिखित में से किस स्थान पर पहला ग्रीनफील्ड हवाई अड्डा ‘डोनी पोलो हवाई अड्डे’ का उद्घाटन किया?
+    options:
+      A: ढोलका
+      B: ईटानगर
+      C: डिब्रूगढ़
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Donyi Polo Airport, Arunachal Pradesh's first greenfield airport, is at Hollongi near Itanagar (Nov 2022).
+  - slug: bpsc-68-q066
+    difficulty: medium
+    stem: किस जानवर को नवंबर 2022 में भारतीय खाद्य सुरक्षा और मानक प्राधिकरण (एफ० एस० एस० ए० आइ०) द्वारा एक खाद्य पशु के रूप में अनुमोदित किया गया है?
+    options:
+      A: हिमालयी याक
+      B: माउंटेन बकरी
+      C: हिमालयी तहर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: In Nov 2022 the FSSAI approved the Himalayan yak as a food animal.
+  - slug: bpsc-68-q067
+    difficulty: medium
+    stem: भारत का पहला फ्लोटिंग वित्तीय साक्षरता शिविर हाल ही में इंडिया पोस्ट पेमेंट्स बैंक द्वारा निम्नलिखित में से किस स्थान पर आयोजित किया गया था?
+    options:
+      A: श्रीनगर
+      B: अंडमान द्वीप समूह
+      C: केरल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: India Post Payments Bank held the floating financial literacy camp on Dal Lake, Srinagar.
+  - slug: bpsc-68-q068
+    difficulty: medium
+    stem: भारत के राष्ट्रपति ने निम्नलिखित में से किस आइ० आइ० टी० में ‘परम कामरूप’ सुपरकंप्यूटर सुविधा का उद्घाटन किया?
+    options:
+      A: खड़गपुर
+      B: बंबई
+      C: गुवाहाटी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The President inaugurated the PARAM Kamrupa supercomputer at IIT Guwahati in Oct 2022.
+  - slug: bpsc-68-q069
+    difficulty: medium
+    stem: 8 अक्तूबर, 2022 को मनाए गए 90वें भारतीय वायु सेना दिवस पर अस्सी वायुयानों के घंटेभर का हवाई प्रदर्शन निम्नलिखित में से किस स्थान पर आयोजित किया गया था?
+    options:
+      A: गेटवे ऑफ इंडिया, मुंबई
+      B: डल झील, जम्मू और कश्मीर
+      C: सुखना झील, चंडीगढ़
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The 90th Air Force Day flypast was held over Sukhna Lake, Chandigarh.
+  - slug: bpsc-68-q070
+    difficulty: medium
+    stem: भारत सरकार के पोषण अभियान के तहत वर्ष के किस महीने को राष्ट्रीय पोषण माह या नैशनल न्यूट्रिशन मंथ के रूप में मनाया जाता है?
+    options:
+      A: मई
+      B: सितंबर
+      C: जुलाई
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Rashtriya Poshan Maah is observed in September.
+  - slug: bpsc-68-q071
+    difficulty: medium
+    stem: चीन के तियांगोंग अंतरिक्ष स्टेशन के हाल ही में लॉन्च किए गए अंतिम मॉड्यूल का नाम क्या है?
+    options:
+      A: तियान्हे
+      B: वेंटियन
+      C: मेंगटियन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Mengtian (Oct 2022) was the final module of the Tiangong space station.
+  - slug: bpsc-68-q072
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा विश्व का सबसे बड़ा ज्वालामुखी है, जो पिछले 38 वर्षों में पहली बार फूटा था?
+    options:
+      A: माउंट सेंट हेलेंस
+      B: मौना लोआ
+      C: हलेअकाला
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Mauna Loa (Hawaii), the world's largest active volcano, erupted in Nov 2022 for the first time since 1984.
+  - slug: bpsc-68-q073
+    difficulty: medium
+    stem: इनमें से किसे हाल ही में उनके उपन्यास, *द सेवन मून्स ऑफ माली अल्मेडा* के लिए 2022 का बुकर पुरस्कार मिला?
+    options:
+      A: माइकल ओंडाटजे
+      B: प्रदीप मैथ्यू
+      C: शेहान करुणातिलक
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Shehan Karunatilaka of Sri Lanka won the 2022 Booker Prize.
+  - slug: bpsc-68-q074
+    difficulty: medium
+    stem: विश्व अंतरिक्ष सप्ताह, 2022 की थीम क्या थी?
+    options:
+      A: अंतरिक्ष में औरतें
+      B: उपग्रह जीवन को बेहतर बनाते हैं
+      C: अंतरिक्ष और निरंतरता
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The theme of World Space Week 2022 was 'Space and Sustainability'.
+  - slug: bpsc-68-q075
+    difficulty: medium
+    stem: निम्नलिखित में से किस लैबोरेटरी ने दिसंबर 2022 में एक ऐतिहासिक नाभिकीय संलयन सफलता का दावा किया था?
+    options:
+      A: लॉरेंस लिवरमोर नैशनल लैबोरेटरी
+      B: ओक रिज नैशनल लैबोरेटरी
+      C: लॉस अलामोस नैशनल लैबोरेटरी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Lawrence Livermore's National Ignition Facility achieved fusion ignition (net energy gain) in Dec 2022.
+  - slug: bpsc-68-q076
+    difficulty: medium
+    stem: कोलिन्स डिक्शनरी का वर्ड ऑफ द इयर 2022 निम्नलिखित में से कौन-सा है?
+    options:
+      A: Permacrisis
+      B: Carolean
+      C: Lawfare
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Collins chose 'permacrisis' as its 2022 word of the year.
+  - slug: bpsc-68-q077
+    difficulty: medium
+    stem: निम्नलिखित में से किस देश ने सेनेगल के साथ मिलकर COP27 के दौरान अंतर्राष्ट्रीय सूखा लचीलापन गठबंधन का शुभारंभ किया?
+    options:
+      A: इटली
+      B: जर्मनी
+      C: स्पेन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Spain and Senegal launched the International Drought Resilience Alliance at COP27.
+  - slug: bpsc-68-q078
+    difficulty: medium
+    stem: भारत में पहली बार किस देश के दूतावास ने ‘निहोन्शु’ के लिए जी० आइ० टैग के लिए आवेदन किया था?
+    options:
+      A: चीन
+      B: जापान
+      C: दक्षिण कोरिया
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Japan's embassy applied for a GI tag for Nihonshu (sake), the first such application in India.
+  - slug: bpsc-68-q079
+    difficulty: medium
+    stem: निम्नलिखित में से किस अंतरिक्ष एजेंसी ने यह घोषणा की कि उसने अपने EQUULEUS अंतरिक्ष यान को आगे बढ़ाने के लिए भाप का सफलतापूर्वक उपयोग किया है?
+    options:
+      A: नासा (NASA)
+      B: सुपारको (SUPARCO)
+      C: जाक्सा (JAXA)
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: JAXA reported that its EQUULEUS cubesat was propelled with a water (steam) thruster.
+  - slug: bpsc-68-q080
+    difficulty: medium
+    stem: अक्तूबर 2022 में लॉन्च किए गए टेस्ला ह्यूमनॉइड रोबोट का क्या नाम है?
+    options:
+      A: ऑप्टिमस
+      B: ऐटलस
+      C: पेपर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Tesla showed its humanoid robot Optimus on AI Day, Sept/Oct 2022.
+  - slug: bpsc-68-q081
+    difficulty: medium
+    stem: पहला ‘तैरता हुआ सौर ऊर्जा संयंत्र’ बिहार में किस स्थान पर बनाया गया है?
+    options:
+      A: दिलबरपुर, दरभंगा
+      B: जमालपुर, दरभंगा
+      C: कदीराबाद, दरभंगा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Bihar's first floating solar plant is at Kadirabad, Darbhanga.
+  - slug: bpsc-68-q082
+    difficulty: medium
+    stem: वर्ष 2019–2020 के आर्थिक सर्वेक्षण के अनुसार, किस जिले की प्रति व्यक्ति आय सबसे कम है?
+    options:
+      A: शिवहर
+      B: अररिया
+      C: सीतामढ़ी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "Bihar Economic Survey 2019-20: Sheohar has the lowest per capita income."
+  - slug: bpsc-68-q083
+    difficulty: medium
+    stem: वर्ष 2020–2021 के लिए नीति आयोग एस० डी० जी० रिपोर्ट के अनुसार, बिहार राज्य का स्कोर कितना रहा?
+    options:
+      A: 100 में से 22
+      B: 100 में से 35
+      C: 100 में से 52
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Bihar scored 52 out of 100, the lowest, in the NITI Aayog SDG India Index 2020-21.
+  - slug: bpsc-68-q084
+    difficulty: medium
+    stem: खेलो इंडिया महिला टूर्नामेंट में पहली बार किस खेल को शामिल किया गया है?
+    options:
+      A: क्रिकेट
+      B: ट्रैक सायक्लिंग
+      C: तीरंदाजी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Track cycling was included in the Khelo India Women's tournament for the first time (Patiala, Dec 2022).
+  - slug: bpsc-68-q085
+    difficulty: medium
+    stem: निम्नलिखित में से किसे अगस्त 2022 में भौगोलिक संकेतक (जी० आइ०) टैग से सम्मानित किया गया है?
+    options:
+      A: बिहार का एप्लिक (खतवा) वर्क
+      B: बिहार के सिक्की घास उत्पाद
+      C: मिथिला मखाना
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Mithila Makhana received the GI tag in Aug 2022.
+  - slug: bpsc-68-q086
+    difficulty: medium
+    stem: निम्नलिखित में से किसे वर्ष 2022 में यूनेस्को की विश्व धरोहर सूची में जोड़ा गया है?
+    options:
+      A: लंगट सिंह कॉलेज में खगोलीय वेधशाला
+      B: बोधगया स्थित महाबोधि मंदिर परिसर
+      C: नालंदा में नालंदा महाविहार का पुरातात्त्विक स्थल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: No Bihar site was added in 2022. Reports about the Langat Singh College observatory were wrong (UNESCO clarified), and Mahabodhi (2002) and Nalanda (2016) were listed earlier.
+  - slug: bpsc-68-q087
+    difficulty: medium
+    stem: बिजनेस रिफॉर्म्स ऐक्शन प्लान (बी० आर० ए० पी०) द्वारा वर्ष 2020 में व्यापार करने में आसानी में बिहार ने 36 राज्यों में ______ रैंक हासिल की।
+    options:
+      A: 23वीं
+      B: 24वीं
+      C: 25वीं
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: BRAP 2020 placed states in categories (Bihar among 'Aspirers'/emerging ecosystems) rather than giving numbered ranks of 23rd-25th.
+  - slug: bpsc-68-q088
+    difficulty: medium
+    stem: 28 नवंबर, 2022 को मुख्यमंत्री नीतीश कुमार द्वारा गंगा जल आपूर्ति योजना का उद्घाटन किस स्थान पर किया गया था?
+    options:
+      A: लखीसराय
+      B: राजगीर
+      C: बोधगया
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The Ganga Jal Apurti Yojana was inaugurated at Rajgir on 27 Nov 2022 and at Bodh Gaya on 28 Nov 2022.
+  - slug: bpsc-68-q089
+    difficulty: medium
+    stem: निम्नलिखित में से किस एसोसिएशन/बोर्ड ने अक्तूबर 2022 में पुरुष और महिला खिलाड़ियों के लिए समान वेतन की घोषणा की?
+    options:
+      A: बिहार क्रिकेट एसोसिएशन
+      B: भारतीय क्रिकेट कंट्रोल बोर्ड
+      C: गुजरात क्रिकेट एसोसिएशन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: On 27 Oct 2022 the BCCI announced equal match fees for its centrally contracted men and women.
+  - slug: bpsc-68-q090
+    difficulty: medium
+    stem: पिछले दस वर्षों में राज्य का शहरीकरण बहुत तेजी से बढ़ा है। 2011 की जनगणना के अनुसार बिहार में शहरीकरण का स्तर ______ प्रतिशत था, जो बढ़कर वर्तमान में ______ प्रतिशत हुआ है।
+    options:
+      A: 11·3, 15·3
+      B: 12·2, 13·1
+      C: 14·4, 15·5
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Bihar's urbanisation was 11.3% in Census 2011. The Bihar Economic Survey gives a current level of about 15.3% (after new urban bodies were notified).
+  - slug: bpsc-68-q091
+    difficulty: medium
+    stem: अटॉक में अपनी पहाड़ी यात्रा के अंत में सिंधु नदी अफगानिस्तान की किस नदी से जुड़ती है?
+    options:
+      A: अमु दरिया
+      B: काबुल नदी
+      C: हेलमंद नदी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The Kabul river joins the Indus near Attock.
+  - slug: bpsc-68-q092
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा विश्व में सुप्रचारित वन्यजीव अभियान है, जिसे 1973 में शुरू किया गया था?
+    options:
+      A: प्रोजेक्ट टाइगर
+      B: लायन प्रोजेक्ट
+      C: सुंदरबन परियोजना
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Project Tiger was launched in 1973.
+  - slug: bpsc-68-q093
+    difficulty: medium
+    stem: क्षोभमंडल के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?
+    options:
+      A: यह वायुमंडल की सबसे ऊपरी परत है।
+      B: इस परत का तापमान ऊँचाई के साथ बढ़ता है।
+      C: इसकी औसत ऊँचाई 13 कि० मी० है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The troposphere is the lowest layer, its temperature falls with height, and its average height is about 13 km (8 km at the poles, 18 km at the equator).
+  - slug: bpsc-68-q094
+    difficulty: medium
+    stem: पैंजिया से टूटे हुए दक्षिणी महाद्वीप को क्या कहते हैं?
+    options:
+      A: लॉरेशिया
+      B: गोंडवानालैंड
+      C: प्रशांत महासागर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Pangaea split into Laurasia in the north and Gondwanaland in the south.
+  - slug: bpsc-68-q095
+    difficulty: medium
+    stem: आर्कटिक क्षेत्र और अंटार्कटिका महाद्वीप किसके निकट स्थित हैं?
+    options:
+      A: सहारा रेगिस्तान
+      B: उत्तरी और दक्षिणी ध्रुव
+      C: अमेज़न बेसिन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The Arctic surrounds the North Pole and Antarctica the South Pole.
+  - slug: bpsc-68-q096
+    difficulty: medium
+    stem: म्यांमार के साथ भारत के किन राज्यों की सीमाएँ मिलती हैं?
+    options:
+      A: अरुणाचल प्रदेश, नागालैंड, मणिपुर, मिज़ोरम
+      B: अरुणाचल प्रदेश, असम, मणिपुर, मिज़ोरम
+      C: मणिपुर, मिज़ोरम, नागालैंड, त्रिपुरा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The states bordering Myanmar are Arunachal Pradesh, Nagaland, Manipur and Mizoram.
+  - slug: bpsc-68-q097
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा समुद्री जैव विविधता के दृष्टिकोण से दुनिया का सबसे समृद्ध क्षेत्र है, जिसमें ज्वारनदमुख, समुद्र तट, निकटवर्ती पर्यावरण के जंगल, समुद्री घास, प्रवाल भित्तियाँ, नमक दलदल और मैंग्रोव के साथ 21 द्वीप शामिल हैं?
+    options:
+      A: मन्नार खाड़ी बायोस्फीयर रिजर्व
+      B: नंदा देवी बायोस्फीयर रिजर्व
+      C: सुंदरबन बायोस्फीयर रिजर्व
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The Gulf of Mannar Biosphere Reserve has 21 islands and is among the richest marine biodiversity regions.
+  - slug: bpsc-68-q098
+    difficulty: medium
+    stem: कोपेन की वर्गीकरण योजना के अनुसार उत्तर प्रदेश और बिहार किस प्रकार के जलवायु प्रदेश में आते हैं?
+    options:
+      A: Cwg
+      B: Aw
+      C: Dfc
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: The Ganga plains of UP and Bihar fall in Köppen's Cwg (monsoon type with dry winter).
+  - slug: bpsc-68-q099
+    difficulty: medium
+    stem: भारत की क्षेत्रीय सीमा, तट से कितने समुद्री मील/कि० मी० तक समुद्र की ओर फैली हुई है?
+    options:
+      A: 16 समुद्री मील (लगभग 25·9 कि० मी०)
+      B: 12 समुद्री मील (लगभग 21·9 कि० मी०)
+      C: 10 समुद्री मील (लगभग 19·9 कि० मी०)
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Territorial waters extend 12 nautical miles (about 22.2 km; the paper prints 21.9 km).
+  - slug: bpsc-68-q100
+    difficulty: medium
+    stem: भारत में निम्नलिखित में से कौन-सी नदी घाटी कोयले के भण्डारों से समृद्ध है?
+    options:
+      A: दामोदर नदी घाटी
+      B: सोन नदी घाटी
+      C: महानदी नदी घाटी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Gondwana coal lies in the Damodar (Jharia, Raniganj, Bokaro) and Mahanadi (Talcher) valleys, so more than one option is correct.
+  - slug: bpsc-68-q101
+    difficulty: medium
+    stem: भारत में चीनी उद्योग के बारे में निम्नलिखित में से कौन-सा कथन सही है?
+    options:
+      A: यह वजन कम करने वाला उद्योग है।
+      B: महाराष्ट्र देश में अग्रणी चीनी उत्पादक के रूप में उभरा है।
+      C: उत्तर प्रदेश चीनी का दूसरा सबसे बड़ा उत्पादक है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Sugar is a weight-losing industry. Maharashtra has become the leading producer, with UP second in recent seasons, so more than one statement is true.
+  - slug: bpsc-68-q102
+    difficulty: medium
+    stem: ग्रीष्म के अंत में पूर्व-मानसून वर्षा होती है जो केरल और कर्नाटक के तटीय क्षेत्रों में एक सामान्य घटना है। इसे स्थानीय रूप से किस नाम से जाना जाता है?
+    options:
+      A: ब्लॉसम शावर्स
+      B: नॉरवेस्टर्स
+      C: मैंगो शावर्स
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Pre-monsoon showers in Kerala and coastal Karnataka are called mango showers. Blossom showers are coffee showers in interior Karnataka.
+  - slug: bpsc-68-q103
+    difficulty: medium
+    stem: वातावरण मुख्य रूप से किसके द्वारा गर्म होता है?
+    options:
+      A: लघु-तरंग सौर विकिरण
+      B: परावर्तित सौर विकिरण
+      C: दीर्घ-तरंग स्थलीय विकिरण
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The atmosphere absorbs little incoming short-wave radiation and is heated mainly from below by long-wave terrestrial radiation.
+  - slug: bpsc-68-q104
+    difficulty: medium
+    stem: भारत के निम्नलिखित में से किस राज्य की सीमा बिहार में अधिकतम जिलों से लगती है?
+    options:
+      A: उत्तर प्रदेश
+      B: झारखंड
+      C: पश्चिम बंगाल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Uttar Pradesh and Jharkhand each border 8 Bihar districts (BPSC lists them), so more than one option is correct.
+  - slug: bpsc-68-q105
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा भागलपुर से मिर्जा चेउकी की ओर रेलमार्ग में बिहार का अंतिम रेलवे स्टेशन है?
+    options:
+      A: पीरपंती रेलवे स्टेशन
+      B: अम्मापाली रेलवे स्टेशन
+      C: कहलगाँव रेलवे स्टेशन
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Ammapali halt, after Pirpainti on the Sahibganj loop, is the last station in Bihar before Mirza Chauki (Jharkhand).
+  - slug: bpsc-68-q106
+    difficulty: medium
+    stem: |-
+      बिहार में खनिज उत्पादन के संदर्भ में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. रोहतास में पायराइट का सर्वाधिक भंडार है।
+      2. चूना-पत्थर कैमूर (भभुआ), मुंगेर एवं रोहतास जिलों में पाया जाता है।
+      3. जमुई जिले में सोने के भंडार पाए जाते हैं।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: केवल 3
+      B: केवल 1 और 2
+      C: केवल 1 और 3
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: Rohtas (Amjhore) has the largest pyrite deposits, limestone occurs in Kaimur, Munger and Rohtas, and gold in Jamui. All three statements are true, so no option fits.
+  - slug: bpsc-68-q107
+    difficulty: medium
+    stem: बिहार में बहने वाली पवित्र नदी फल्गू निम्नलिखित में से किन नदियों के संगम से बनती है?
+    options:
+      A: लीलाजन और सोन नदी
+      B: सोन और मोहाना नदी
+      C: मोहाना और लीलाजन नदी
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The Phalgu is formed near Bodh Gaya by the confluence of the Lilajan (Niranjana) and the Mohana.
+  - slug: bpsc-68-q108
+    difficulty: medium
+    stem: बिहार में निम्नलिखित में से किस स्थान पर पहली बार चाय बागानों की स्थापना की गई?
+    options:
+      A: ठाकुरगंज
+      B: बहादुरगंज
+      C: सुपौल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Bihar's first tea gardens were set up in the Thakurganj and Pothia blocks of Kishanganj.
+  - slug: bpsc-68-q109
+    difficulty: medium
+    stem: बिहार के निम्नलिखित जिलों का आरोही दशकीय जनसंख्या वृद्धि (2001–2011) के अनुसार सही क्रम चुनिए।
+    options:
+      A: सीवान < किशनगंज < मधेपुरा
+      B: मधेपुरा < किशनगंज < सीवान
+      C: किशनगंज < मधेपुरा < सीवान
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "Census 2011 decadal growth: Siwan about 22.7%, Kishanganj about 30.4%, Madhepura about 31.1%."
+  - slug: bpsc-68-q110
+    difficulty: medium
+    stem: बिहार में कृषि-आधारित उद्योगों में किस खाद्य उद्योग का प्रभुत्व है?
+    options:
+      A: अनाज-आधारित उद्योग
+      B: दाल उद्योग
+      C: गन्ना उद्योग
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Cereal-based units, mainly rice mills, dominate Bihar's agro-based food industry.
+  - slug: bpsc-68-q111
+    difficulty: medium
+    stem: 20 से० मी० फोकस दूरी के एक उत्तल लेंस की सतह पर सफेद घोड़े का प्रतिबिम्ब बनाने के लिए बड़ी संख्या में काले रंग की पतली पट्टियाँ बनाई जाती हैं। वह प्रतिबिम्ब कैसा होगा?
+    options:
+      A: काली पट्टियों का एक ज़ेबरा
+      B: काली पट्टियों का एक घोड़ा
+      C: कम चमक वाला एक घोड़ा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "Every part of the lens still forms the full image, so the strips only cut the light: a complete but dimmer horse."
+  - slug: bpsc-68-q112
+    difficulty: medium
+    stem: ध्वनि की तीक्ष्णता किसके द्वारा निर्धारित की जाती है?
+    options:
+      A: ध्वनि का आयाम
+      B: ध्वनि का तरंगदैर्घ्य
+      C: ध्वनि का वेग
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Shrillness (pitch) depends on frequency, which is inversely related to wavelength. Frequency is not an option, so wavelength is the intended answer.
+  - slug: bpsc-68-q113
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा फोटो-इलेक्ट्रिक उपकरण डिजिटल अनुप्रयोगों के लिए सबसे उपयुक्त है?
+    options:
+      A: फोटो-वोल्टिक सेल
+      B: फोटो-उत्सर्जक
+      C: फोटो-डायोड
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: |-
+      **Disputed.** BPSC's final key says A; our check suggests C.
+
+      The key gives the photovoltaic cell, reasoning that it converts light into an electrical signal. On standard electronics grounds a photodiode is the device suited to digital use.
+  - slug: bpsc-68-q114
+    difficulty: medium
+    stem: बॉल बेयरिंग का उपयोग स्थैतिक घर्षण को निम्नलिखित में से किसमें परिवर्तित करने के लिए किया जाता है?
+    options:
+      A: कर्षण (ड्रैग)
+      B: सर्पी घर्षण
+      C: रोलिंग घर्षण
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Ball bearings replace sliding contact with rolling contact, which gives much lower rolling friction.
+  - slug: bpsc-68-q115
+    difficulty: medium
+    stem: फुटबॉल के खेल में एक गोलकीपर फुटबॉल को गोल में पकड़ने के बाद अपने हाथों को पीछे की ओर खींचता है। यह गोलकीपर को किस प्रकार सक्षम बनाता है?
+    options:
+      A: फुटबॉल पर अधिक बल लगाने में
+      B: फुटबॉल द्वारा हाथों पर लगाए गए बल को बढ़ाने में
+      C: संवेग परिवर्तन की दर को कम करने में
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Pulling the hands back lengthens the stopping time, which lowers the rate of change of momentum (the force).
+  - slug: bpsc-68-q116
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा एक रेडियोधर्मी तत्त्व द्वारा उत्सर्जित धनात्मक रूप से आवेशित कण है?
+    options:
+      A: बीटा किरण
+      B: अल्फा किरण
+      C: कैथोड किरण
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Alpha rays (helium nuclei) are positive. Beta rays and cathode rays are electrons.
+  - slug: bpsc-68-q117
+    difficulty: medium
+    stem: केन्द्राभिमुखी बल किसके लिए जिम्मेदार है?
+    options:
+      A: वस्तु को वृत्ताकार पथ पर गतिमान रखना
+      B: वस्तु को सीधी रेखा के साथ उड़ाना
+      C: अंतरिक्ष में वस्तु की स्वतंत्र गति
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Centripetal force keeps a body moving along a circular path.
+  - slug: bpsc-68-q118
+    difficulty: medium
+    stem: निम्नलिखित में से किस ऊर्जा परिवर्तन में घर्षण बल शामिल होता है?
+    options:
+      A: स्थितिज ऊर्जा से ध्वनि ऊर्जा
+      B: रासायनिक ऊर्जा से ऊष्मा ऊर्जा
+      C: गतिज ऊर्जा से ऊष्मा ऊर्जा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Friction converts kinetic energy into heat.
+  - slug: bpsc-68-q119
+    difficulty: medium
+    stem: एक बस सीधे रास्ते पर चल रही है और अचानक दाईं ओर एक तेज मोड़ लेती है। बस में बैठे यात्री
+    options:
+      A: आगे की ओर गिरेंगे
+      B: बाईं ओर झुकेंगे
+      C: दाईं ओर झुकेंगे
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Through inertia of direction, passengers lean to the left when the bus turns right.
+  - slug: bpsc-68-q120
+    difficulty: medium
+    stem: एक संगीत कार्यक्रम में ऑर्केस्ट्रा बजाने से पहले, एक सितार-वादक तनाव को समायोजित करने की कोशिश करता है और स्ट्रिंग को उपयुक्त रूप से बाँधता है। ऐसा करके वह क्या ठीक करने की कोशिश करता है?
+    options:
+      A: ध्वनि का आयाम
+      B: ध्वनि की तीव्रता
+      C: अन्य वाद्य यंत्रों की आवृत्ति के साथ सितार स्ट्रिंग की आवृत्ति
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Changing the tension tunes the string's natural frequency to match the other instruments.
+  - slug: bpsc-68-q121
+    difficulty: medium
+    stem: पदार्थ के एक रूप का कोई निश्चित आकार नहीं होता है, लेकिन इसका एक निश्चित आयतन होता है। पदार्थ के इस रूप का एक उदाहरण है
+    options:
+      A: क्रिप्टन
+      B: मिट्टी का तेल
+      C: कार्बन स्टील
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Liquids such as kerosene have a fixed volume but no fixed shape. Krypton is a gas and carbon steel is a solid.
+  - slug: bpsc-68-q122
+    difficulty: medium
+    stem: कुछ धातु ऑक्साइड अम्ल और क्षार के साथ अभिक्रिया कर नमक और पानी बनाते हैं। इन्हें उभयधर्मी ऑक्साइड कहते हैं। उभयधर्मी ऑक्साइड के उदाहरण हैं
+    options:
+      A: Al₂O₃ और ZnO
+      B: Al₂O₃ और CuO
+      C: CuO और ZnO
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Al2O3 and ZnO are amphoteric. CuO is basic.
+  - slug: bpsc-68-q123
+    difficulty: medium
+    stem: कौन-सी गैस अपने ग्रीनहाउस प्रभाव से ग्लोबल वॉर्मिंग में योगदान करती है?
+    options:
+      A: नाइट्रस ऑक्साइड
+      B: मीथेन
+      C: कार्बन डाइऑक्साइड
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: CO2, CH4 and N2O are all greenhouse gases, so more than one option is correct.
+  - slug: bpsc-68-q124
+    difficulty: medium
+    stem: अम्ल धातु कार्बोनेट से अभिक्रिया कर ______ गैस मुक्त करते हैं।
+    options:
+      A: CO₂
+      B: CO
+      C: H₂
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Acid + metal carbonate gives salt + water + CO2.
+  - slug: bpsc-68-q125
+    difficulty: medium
+    stem: HOOCCOOH को कौन-सा अम्ल कहा जाता है?
+    options:
+      A: ऑक्सेलिक अम्ल
+      B: ऐसीटिक अम्ल
+      C: कार्बोनिक अम्ल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: HOOC-COOH is oxalic (ethanedioic) acid.
+  - slug: bpsc-68-q126
+    difficulty: medium
+    stem: आपको तीन परखनलियाँ दी गई हैं। उनमें से एक में आसुत जल है और अन्य दो में से एक में अम्लीय विलयन तथा दूसरे में क्षारीय विलयन है। इनमें से किसमें लाल लिटमस नीला हो जाएगा?
+    options:
+      A: अम्ल
+      B: क्षार
+      C: आसुत जल
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: A base turns red litmus blue.
+  - slug: bpsc-68-q127
+    difficulty: medium
+    stem: ऐसीटिक अम्ल की गंध किसके समान होती है?
+    options:
+      A: टमाटर
+      B: मिट्टी का तेल
+      C: सिरका
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Vinegar is a dilute solution of acetic acid, so they smell alike.
+  - slug: bpsc-68-q128
+    difficulty: medium
+    stem: शुष्क HCl गैस, शुष्क लिटमस पत्र का रंग क्यों **नहीं** बदलती?
+    options:
+      A: सूखी HCl गैस की उपस्थिति में नीला लिटमस सूख जाता है।
+      B: कोई H₃O⁺ आयन मौजूद नहीं होंगे। लिटमस केवल H₃O⁺ आयन की उपस्थिति में रंग बदलता है।
+      C: HCl गैस निर्जलीकरण एजेंट के रूप में कार्य करती है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Dry HCl does not ionise, and without water there are no H+/H3O+ ions to change litmus (NCERT).
+  - slug: bpsc-68-q129
+    difficulty: medium
+    stem: विषम का पता लगाइए।
+    options:
+      A: सीमेंट की सेटिंग
+      B: कोयले का जलना
+      C: फल का पकना
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: All three (setting of cement, burning coal, ripening fruit) are chemical changes, so none is the odd one.
+  - slug: bpsc-68-q130
+    difficulty: medium
+    stem: हीरे और ग्रेफाइट के बारे में निम्नलिखित में से कौन-सा कथन सत्य है?
+    options:
+      A: उनके पास समान क्रिस्टल संरचना है।
+      B: उनके पास समान डिग्री की कठोरता है।
+      C: उनकी विद्युत् चालकता समान होती है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: Diamond (tetrahedral, hardest, insulator) and graphite (layered, soft, conductor) differ in all three respects.
+  - slug: bpsc-68-q131
+    difficulty: medium
+    stem: किसमें परिवर्तन के कारण रंध्र खुलते या बंद होते हैं?
+    options:
+      A: कोशिकाओं की प्रोटीन संरचना
+      B: कोशिकाओं में पानी की मात्रा
+      C: कोशिकाओं में न्यूक्लियस की स्थिति
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Stomata open or close as guard cells gain or lose water (turgor).
+  - slug: bpsc-68-q132
+    difficulty: medium
+    stem: क्लोरोफिल सूर्य के प्रकाश के ______ तरंगदैर्घ्य को अवशोषित करता है।
+    options:
+      A: हरे और नीले
+      B: हरे और लाल
+      C: लाल और नीले
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Chlorophyll absorbs mainly red and blue light and reflects green.
+  - slug: bpsc-68-q133
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा मेल सही **नहीं** है?
+    options:
+      A: "आधार के पास शाखाओं के साथ मोटा, कठोर तना : पेड़"
+      B: "कमजोर तना जो सीधा खड़ा नहीं हो सकता : लता"
+      C: "पर्णवृंत : पत्ती को तने से जोड़ता है"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: A thick, hard stem branching near the base describes a shrub, not a tree, so A is the wrong match.
+  - slug: bpsc-68-q134
+    difficulty: medium
+    stem: सक्शन पुल के कारण पेड़ों में पानी बहुत ऊँचाई तक पहुँच जाता है, जिसका कारण है
+    options:
+      A: अवशोषण
+      B: वाष्पोत्सर्जन
+      C: वाष्पीकरण
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Transpiration pull (cohesion-tension) lifts water up tall trees.
+  - slug: bpsc-68-q135
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा क्लोरोप्लास्ट का एक लक्षण है, जो उसे स्व-प्रतिकृति के योग्य बनाता है?
+    options:
+      A: केवल डी० एन० ए० की उपस्थिति
+      B: आर० एन० ए० की अनुपस्थिति
+      C: डी० एन० ए० और आर० एन० ए० दोनों की उपस्थिति
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Chloroplasts carry their own DNA and RNA (and ribosomes), so they are semi-autonomous and can self-replicate.
+  - slug: bpsc-68-q136
+    difficulty: medium
+    stem: कंकाल के वे हिस्से, जो हड्डियों की तरह सख्त नहीं होते हैं और जो मोड़े जा सकते हैं, वे हैं
+    options:
+      A: कार्पल्स
+      B: कार्टिलेज
+      C: वर्टिब्रे
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Cartilage is softer than bone and can bend (for example, the ear).
+  - slug: bpsc-68-q137
+    difficulty: medium
+    stem: लाइकेन में, एक क्लोरोफिल-युक्त पार्टनर, ______ एक-साथ रहते हैं।
+    options:
+      A: कवक और बैक्टीरिया
+      B: शैवाल और वायरस
+      C: शैवाल और कवक
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: A lichen is an association of an alga (the chlorophyll-containing partner) and a fungus.
+  - slug: bpsc-68-q138
+    difficulty: medium
+    stem: मादा एनोफिलीज को मादा क्यूलेक्स से अलग किया जा सकता है क्योंकि यह बैठती है
+    options:
+      A: अधःस्तर के साथ एक कोण पर
+      B: अधःस्तर की सतह के समानांतर
+      C: अधःस्तर की सतह के समकोण पर
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Anopheles rests with its body at an angle (about 45 degrees) to the surface. Culex rests parallel to it.
+  - slug: bpsc-68-q139
+    difficulty: medium
+    stem: शरीर की प्रतिरोधक क्षमता से जुड़ा सबसे महत्त्वपूर्ण कोशिका प्रकार है
+    options:
+      A: प्लेटलेट
+      B: लिम्फोसाइट
+      C: आर० बी० सी०
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Lymphocytes (B and T cells) are the key immune cells.
+  - slug: bpsc-68-q140
+    difficulty: medium
+    stem: मानव शरीर की मांसपेशियों के बारे में निम्नलिखित में से कौन-सा कथन गलत है?
+    options:
+      A: मांसपेशियाँ जोड़े में काम करती हैं।
+      B: सिकुड़ने पर मांसपेशियाँ छोटी, सख्त और मोटी हो जाती हैं।
+      C: मांसपेशियाँ केवल हड्डी को धका दे सकती हैं।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Muscles can only pull, not push, so C is incorrect.
+  - slug: bpsc-68-q141
+    difficulty: medium
+    stem: किसी कूट भाषा में यदि FASTER को 2229212319 लिखते हैं और MONK को 15161412 लिखते हैं, तो GUIDE को इस भाषा में कैसे लिखेंगे?
+    options:
+      A: "212219523"
+      B: "222119522"
+      C: "192019423"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "Letters alternate: odd positions take (27 - position) + 1, even positions take position + 1. FASTER = 22,2,9,21,23,19 and GUIDE = 21,22,19,5,23, i.e. 212219523."
+  - slug: bpsc-68-q142
+    difficulty: medium
+    stem: एक आयत का क्षेत्रफल 30 वर्ग से० मी० है और परिमाप 26 से० मी० है। इसकी भुजाएँ (से० मी० में) हैं
+    options:
+      A: 5, 6
+      B: 2, 15
+      C: 10, 3
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: l + b = 13 and l x b = 30, so the sides are 10 and 3.
+  - slug: bpsc-68-q143
+    difficulty: medium
+    stem: एक दुकानदार किसी वस्तु पर 10% की छूट देता है जिसका अंकित मूल्य ₹ 400 है। यदि वह 10% जी० एस० टी० लेता है, तो उस वस्तु का अंतिम मूल्य क्या है?
+    options:
+      A: ₹ 400
+      B: ₹ 396
+      C: ₹ 380
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: 400 x 0.9 = 360, and 360 x 1.1 = 396.
+  - slug: bpsc-68-q144
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को तार्किक और सार्थक क्रम में सजाइए :
+
+      1. उपराष्ट्रपति
+      2. राष्ट्रपति
+      3. अध्यक्ष
+      4. प्रधानमंत्री
+      5. सांसद
+    options:
+      A: 4, 2, 1, 3, 5
+      B: 2, 1, 4, 3, 5
+      C: 5, 1, 2, 3, 4
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: "Order of precedence: President, Vice President, Prime Minister, Speaker, Members of Parliament."
+  - slug: bpsc-68-q145
+    difficulty: medium
+    stem: रेशमा अपनी संपत्ति का एक-चौथाई एक धर्मार्थ संगठन को देती है और बची हुई संपत्ति को अपने तीन बच्चों में बराबर बाँटती है। प्रत्येक बच्चे को मिलने वाली संपत्ति का भाग है
+    options:
+      A: एक-चौथाई
+      B: दो-तिहाई
+      C: आधा
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: (1 - 1/4) / 3 = 1/4.
+  - slug: bpsc-68-q146
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा कथन असत्य है?
+    options:
+      A: प्रत्येक वर्ग एक आयत होता है।
+      B: प्रत्येक समचतुर्भुज एक समांतरचतुर्भुज होता है।
+      C: प्रत्येक वर्ग एक समचतुर्भुज होता है।
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: All three statements are true, so none is false.
+  - slug: bpsc-68-q147
+    difficulty: medium
+    stem: कुछ सदस्यों के एक परिवार में *B* कहता है कि *R* मेरी बहन *A* की पुत्री है, जो *T* की इकलौती पुत्री है। *X*, *T* और *Z* की संतान है, जो *H* की दादी/नानी है। *K*, *M* की माँ है, जो *H* की इकलौती बहन है। *X* अविवाहित है। यदि *S*, *A* की जीवनसाथी है, तो *K* का *S* से किस प्रकार का संबंध है?
+    options:
+      A: भाभी/ननद/साली
+      B: बहनोई/देवर/साला की पत्नी
+      C: बहनोई/देवर/साला
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: A is T's only daughter, so K's husband (father of H and M, grandchildren of Z) is a son of T and Z, i.e. A's brother. K is therefore the wife of S's brother-in-law.
+  - slug: bpsc-68-q148
+    difficulty: medium
+    stem: शब्द ‘DIARY’ के अक्षरों से कितने शब्द बनाए जा सकते हैं, चाहे उनके अर्थ हों या ना हों?
+    options:
+      A: "5"
+      B: "10"
+      C: "24"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: E
+    explanation: DIARY has 5 distinct letters, giving 5! = 120 arrangements, which is not an option.
+  - slug: bpsc-68-q149
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से लुप्त संख्या को चुनिए :
+
+      | 44 | 49 | 37 |
+      |---|---|---|
+      | 52 | ? | 41 |
+      | 58 | 35 | 53 |
+
+      *(चित्र: A 3×3 grid of numbers (rows: 44, 49, 37 / 52, ?, 41 / 58, 35, 53) with the centre cell missing; transcribed above as a table.)*
+    options:
+      A: "56"
+      B: "77"
+      C: "66"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: "Middle = (left - right) x 7: (44 - 37) x 7 = 49, (58 - 53) x 7 = 35, so (52 - 41) x 7 = 77."
+  - slug: bpsc-68-q150
+    difficulty: medium
+    stem: |-
+      दी गई शृंखला में समान पैटर्न का अनुसरण करते हुए लुप्त संख्या ज्ञात कीजिए :
+
+      15, 20, 32, 62, 118, 248, ?
+    options:
+      A: "322"
+      B: "368"
+      C: "428"
+      D: उपर्युक्त में से एक से अधिक
+      E: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: "The differences are p^2 + odd number for successive primes: 4+1, 9+3, 25+5, 49+7, 121+9, then 169+11 = 180, and 248 + 180 = 428."

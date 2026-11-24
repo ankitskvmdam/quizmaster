@@ -1,0 +1,1537 @@
+slug: 70th-prelims-reexam
+title: BPSC 70th Prelims (re-exam)
+date: 2025-01-04
+label: Series I
+source: "BPSC official question booklet and final answer key (bpsc.bihar.gov.in). Deleted by BPSC (left out): Q5, Q13, Q79, Q91."
+questions:
+  - slug: bpsc-70re-q001
+    difficulty: medium
+    stem: The oldest civilization in the world is
+    options:
+      A: Egyptian
+      B: Mesopotamia (Iraq)
+      C: Chinese
+      D: Indus valley
+    answer: B
+    explanation: Mesopotamian (Sumerian) civilization, from about 3500 BCE, is generally taken as the oldest; Egyptian and Indus civilizations came slightly later.
+  - slug: bpsc-70re-q002
+    difficulty: medium
+    stem: For two liquids A and B to form an ideal solution
+    options:
+      A: Enthalpy of mixing should be zero
+      B: Entropy of mixing must be zero
+      C: Free energy of mixing should be zero
+      D: None of the above
+    answer: A
+    explanation: An ideal solution obeys Raoult's law, so the enthalpy (and volume) of mixing is zero; entropy of mixing is positive and free energy of mixing is negative.
+  - slug: bpsc-70re-q003
+    difficulty: medium
+    stem: |-
+      What should come in place of ? in the following series ?
+
+      117, 98, 80, 64, ?, 42
+    options:
+      A: "51"
+      B: "55"
+      C: "46"
+      D: "48"
+    answer: A
+    explanation: The differences are 19, 18, 16, 13, 9 (they shrink by 1, 2, 3, 4), so 64 - 13 = 51 and 51 - 9 = 42.
+  - slug: bpsc-70re-q004
+    difficulty: medium
+    stem: Under the Government of India Act 1935, who was the first elected Chairman of Bihar Legislative Council ?
+    options:
+      A: Rajendra Prasad
+      B: Rai Bahadur Satish Chandra
+      C: Rajiv Ranjan Sinha
+      D: More than one of the above
+    answer: C
+    explanation: Rajiv Ranjan Prasad Sinha is named as the first elected Chairman of the Bihar Legislative Council set up under the 1935 Act. (The council's own site says Rai Bahadur Satish Chandra Sinha was first appointed Chairman by the Governor, but the question asks who was elected.)
+  - slug: bpsc-70re-q006
+    difficulty: medium
+    stem: Which Sector in India has benefitted the most from Globalization ?
+    options:
+      A: Manufacturing
+      B: Agriculture
+      C: All Sectors have benefitted equally
+      D: Services
+    answer: D
+    explanation: After the 1991 liberalisation the services sector (IT, telecom, finance) gained most, and it now contributes over half of India's GDP.
+  - slug: bpsc-70re-q007
+    difficulty: medium
+    stem: When antigens are introduced in the body through vaccination antibodies are produced to fight off infection
+    options:
+      A: By only T cells
+      B: By both B and T cells
+      C: By only B cells
+      D: None of the above
+    answer: C
+    explanation: Antibodies are made only by B lymphocytes, which become plasma cells. T cells help them and kill infected cells but make no antibodies.
+  - slug: bpsc-70re-q008
+    difficulty: medium
+    stem: The power of the Supreme Court of India to decide disputes between the Centre and the State falls under its
+    options:
+      A: Advisory jurisdiction
+      B: Constitutional jurisdiction
+      C: Original jurisdiction
+      D: Appellate jurisdiction
+    answer: C
+    explanation: Article 131 gives the Supreme Court exclusive original jurisdiction over disputes between the Centre and the States.
+  - slug: bpsc-70re-q009
+    difficulty: medium
+    stem: "Which newspaper wrote the following about the possible future role of the Indian National Congress : ‘... is the nucleus of a future Parliament of our country ... and will lead to the good of inconceivable magnitude for our countrymen’ ?"
+    options:
+      A: The Times of India
+      B: The Indian Mirror
+      C: The New York Times
+      D: More than one of the above
+    answer: B
+    explanation: The Indian Mirror welcomed the founding of the Congress in 1885 as the nucleus of a future Indian Parliament.
+  - slug: bpsc-70re-q010
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the following figure ?
+
+      *(Figure: A large triangle with its apex at the top. Inside it, a line runs from the apex down to a point on the base (a little right of the middle of the base). A second straight line runs from the bottom-left vertex up to a point on the right side, crossing the first line about halfway down it. A third segment joins that crossing point to the bottom-right vertex. No other lines.)*
+    options:
+      A: "10"
+      B: "8"
+      C: "14"
+      D: "12"
+    answer: D
+    explanation: "With apex A, base BC, D on the base, E on side AC and P where AD meets BE, the triangles are ABC, ABD, ABE, ABP, ACD, ACP, AEP, BCE, BCP, BDP, CDP and CEP: 12 in all."
+  - slug: bpsc-70re-q011
+    difficulty: medium
+    stem: Which State has the longest boundary with Madhya Pradesh ?
+    options:
+      A: Uttar Pradesh
+      B: Rajasthan
+      C: Andhra Pradesh
+      D: Maharashtra
+    answer: A
+    explanation: Uttar Pradesh shares Madhya Pradesh's longest boundary, along its whole northern and north-eastern side. Most sources say so, though a few name Maharashtra.
+  - slug: bpsc-70re-q012
+    difficulty: medium
+    stem: Who led the Champaran Satyagraha in 1917 ?
+    options:
+      A: Sardar Patel
+      B: Mahatma Gandhi
+      C: Subhas Chandra Bose
+      D: Jawaharlal Nehru
+    answer: B
+    explanation: Mahatma Gandhi led the Champaran Satyagraha of 1917 against the tinkathia indigo system, his first satyagraha in India.
+  - slug: bpsc-70re-q014
+    difficulty: medium
+    stem: Who among the following is the recipient of Bharat Ratna for 2024 ?
+    options:
+      A: Chandra Shekhar
+      B: Pranab Mukharjee
+      C: M. S. Swaminathan
+      D: C. N. R. Rao
+    answer: C
+    explanation: The 2024 Bharat Ratna went to M. S. Swaminathan, Karpoori Thakur, Charan Singh, P. V. Narasimha Rao and L. K. Advani. Pranab Mukherjee received it in 2019 and C. N. R. Rao in 2014.
+  - slug: bpsc-70re-q015
+    difficulty: medium
+    stem: One of the properties associated with X-rays is that they can be deflected by
+    options:
+      A: Magnetic fields only
+      B: Both electric and magnetic fields together
+      C: Electric fields only
+      D: None of the above
+    answer: D
+    explanation: X-rays are electromagnetic waves with no charge, so neither electric nor magnetic fields deflect them.
+  - slug: bpsc-70re-q016
+    difficulty: medium
+    stem: |-
+      Renewable Energy means
+
+      1. Electricity produced from solar
+      2. Electricity produced from thermal plants
+      3. Electricity produced from coal
+      4. Electricity produced from wind
+
+      Choose the correct answer from the options given below :
+    options:
+      A: 1, 2 and 3 only
+      B: 1 and 3 only
+      C: 1, 3 and 4 only
+      D: 1 and 4 only
+    answer: D
+    explanation: Solar and wind power are renewable. Thermal and coal-based power come from fossil fuels.
+  - slug: bpsc-70re-q017
+    difficulty: medium
+    stem: "Which of the following Acts converted Unicameral Legislature of Bihar into Bicameral : Bihar Legislative Assembly and Bihar Legislative Council ?"
+    options:
+      A: Government of India Act 1935
+      B: Government of India Act 1919
+      C: Government of India Act 1909
+      D: More than one of the above
+    answer: B
+    explanation: |-
+      **Disputed.** BPSC's final key says B; our check suggests A.
+
+      The key gives B (Government of India Act 1919). This is doubtful: the 1935 Act made Bihar's legislature bicameral, with the Assembly and Council first meeting in 1937. (Wikipedia's Bihar Legislative Council page does credit the 1919 Act.)
+  - slug: bpsc-70re-q018
+    difficulty: medium
+    stem: Which is the oldest mountain of South America continent ?
+    options:
+      A: Andese Mountain
+      B: Brazil Mountain
+      C: Turmuc-Humuk
+      D: Pacaraima
+    answer: D
+    explanation: The key gives Pacaraima, part of the Guiana Highlands on the Precambrian Guiana Shield. Mount Roraima's rocks there are among the oldest on Earth, whereas the Andes are young fold mountains.
+  - slug: bpsc-70re-q019
+    difficulty: medium
+    stem: |-
+      Which of the following are matters on which a constitutional amendment is possible only with the ratification of the legislature of **not** less than one-half of the states ?
+
+      1. Election of the President.
+      2. Representation of States in Parliament.
+      3. Any of the lists in the 7th Schedule.
+      4. Abolition of the Legislative Council of a State.
+
+      Choose the correct answer.
+    options:
+      A: 1, 3 and 4
+      B: 1, 2 and 3
+      C: 1, 2 and 4
+      D: 2, 3 and 4
+    answer: B
+    explanation: Under Article 368(2), changes to the election of the President, the representation of States in Parliament and the Seventh Schedule lists need ratification by half the States. Abolishing a Legislative Council (Article 169) needs only a simple law of Parliament.
+  - slug: bpsc-70re-q020
+    difficulty: medium
+    stem: Which of the following State was **not** annexed under Lord Dalhousie’s Doctrine of Lapse ?
+    options:
+      A: Sambhalpur
+      B: Satara
+      C: Jaipur
+      D: Nagpur
+    answer: C
+    explanation: Satara (1848), Sambalpur (1849) and Nagpur (1854) were annexed under the Doctrine of Lapse. Jaipur was never annexed.
+  - slug: bpsc-70re-q021
+    difficulty: medium
+    stem: In which district of Bihar, wheat crop production is maximum ?
+    options:
+      A: Rohtas
+      B: Patna
+      C: Bhojpur
+      D: Jahanabad
+    answer: A
+    explanation: Rohtas, in the canal-irrigated Sone command area, is Bihar's leading wheat-producing district.
+  - slug: bpsc-70re-q022
+    difficulty: medium
+    stem: Which field game is most popular in the world ?
+    options:
+      A: Soccer (Football)
+      B: Cricket
+      C: Volleyball
+      D: Hockey
+    answer: A
+    explanation: Football (soccer) is the world's most popular field game by players and audience.
+  - slug: bpsc-70re-q023
+    difficulty: medium
+    stem: In 1901 who has published the book ‘Poverty and Un-British Rule in India’ ?
+    options:
+      A: R. C. Dutt
+      B: Phirozshah Mehta
+      C: S. N. Banerjee
+      D: Dadabhai Naoroji
+    answer: D
+    explanation: Dadabhai Naoroji published 'Poverty and Un-British Rule in India' in 1901, setting out his drain theory.
+  - slug: bpsc-70re-q024
+    difficulty: medium
+    stem: Fort William College at Calcutta was established in
+    options:
+      A: 1800 CE to train Indian civil servants
+      B: 1800 CE to train civil servants in Indian languages
+      C: 1802 CE to understand Indian culture and tradition
+      D: 1802 CE for historical research in Indian languages
+    answer: B
+    explanation: Wellesley founded Fort William College in 1800 to train British civil servants in Indian languages and customs.
+  - slug: bpsc-70re-q025
+    difficulty: medium
+    stem: The script written on Ashoka’s Pillars is
+    options:
+      A: Pali
+      B: Sanskrit
+      C: Samaritan
+      D: Brahmi
+    answer: D
+    explanation: Ashoka's pillar edicts are mostly in Prakrit written in the Brahmi script. A few in the north-west use Kharosthi, Greek or Aramaic.
+  - slug: bpsc-70re-q026
+    difficulty: medium
+    stem: Catalyst used in hydrogenation of vegetable oil into vanaspati ghee is
+    options:
+      A: Ni
+      B: Pd
+      C: Fe
+      D: None of the above
+    answer: A
+    explanation: Finely divided nickel catalyses the hydrogenation of vegetable oils into vanaspati.
+  - slug: bpsc-70re-q027
+    difficulty: medium
+    stem: Grey revolution is related to
+    options:
+      A: Oilseeds
+      B: Potatoes
+      C: Fertilizers
+      D: Fisheries
+    answer: C
+    explanation: The Grey Revolution is linked to fertilizers (and is also used for wool).
+  - slug: bpsc-70re-q028
+    difficulty: medium
+    stem: Which Article of the Indian Constitution deals with the proclamation of Emergency ?
+    options:
+      A: Article 356
+      B: Article 352
+      C: Article 365
+      D: Article 360
+    answer: B
+    explanation: Article 352 covers a national emergency. Article 356 is President's Rule and Article 360 a financial emergency.
+  - slug: bpsc-70re-q029
+    difficulty: medium
+    stem: Which of the following Sufi Silsilah was founded in Bihar ?
+    options:
+      A: Qalandhar
+      B: Kubriya
+      C: Firdousia
+      D: Quaderia
+    answer: C
+    explanation: The Firdausia silsilah became established in Bihar through Sheikh Sharfuddin Ahmad Yahya Maneri, at Maner and Bihar Sharif.
+  - slug: bpsc-70re-q030
+    difficulty: medium
+    stem: Which of the following country is **not** a member of G7 ?
+    options:
+      A: France
+      B: Russia
+      C: USA
+      D: Italy
+    answer: B
+    explanation: The G7 is the US, UK, France, Germany, Italy, Japan and Canada. Russia was suspended from the G8 in 2014.
+  - slug: bpsc-70re-q031
+    difficulty: medium
+    stem: Actual site of dark reaction in photosynthesis inside cytoplast is
+    options:
+      A: Stroma
+      B: Granum
+      C: Grana Lamella
+      D: None of the above
+    answer: A
+    explanation: The light-independent (Calvin cycle) reactions take place in the stroma of the chloroplast.
+  - slug: bpsc-70re-q032
+    difficulty: medium
+    stem: Raj travelled from a point X straight to Y at a distance of 80 metres. He turned right and walked 50 metres, then again turned right and walked 70 metres. Finally, he turned right and walked 50 metres. How far is he from the starting point ?
+    options:
+      A: 20 metres
+      B: 10 metres
+      C: 45 metres
+      D: 30 metres
+    answer: B
+    explanation: 80 m east, 50 m south, 70 m west, then 50 m north leaves him 80 - 70 = 10 m from X.
+  - slug: bpsc-70re-q033
+    difficulty: medium
+    stem: The temple at Deogarh near Jhansi and the sculptures in the temple at Garhwa near Allahabad are important remains of
+    options:
+      A: Maurya art
+      B: Rashtrakuta art
+      C: Gupta art
+      D: None of the above
+    answer: C
+    explanation: The Dashavatara temple at Deogarh and the Garhwa sculptures are classic Gupta-period remains.
+  - slug: bpsc-70re-q034
+    difficulty: medium
+    stem: Bihar produces 71 percent of India’s annual production of which of these ?
+    options:
+      A: Lychee
+      B: Mango
+      C: Orange
+      D: Pineapple
+    answer: A
+    explanation: Bihar, centred on Muzaffarpur, is India's largest lychee producer. The 71% figure is the older commonly quoted share.
+  - slug: bpsc-70re-q035
+    difficulty: medium
+    stem: In which city was the G20 Summit 2023 held in India ?
+    options:
+      A: Mumbai
+      B: New Delhi
+      C: Hyderabad
+      D: Bangalore
+    answer: B
+    explanation: The 18th G20 Summit was held at Bharat Mandapam, New Delhi, on 9-10 September 2023.
+  - slug: bpsc-70re-q036
+    difficulty: medium
+    stem: There is no atmosphere on the surface of the moon because
+    options:
+      A: It revolves around Earth
+      B: It gets light from Sun
+      C: Escape velocity of gas molecules is less than rms velocity
+      D: It is closer to Earth
+    answer: C
+    explanation: The Moon's escape velocity (about 2.4 km/s) is low, so the rms speeds of gas molecules exceed it and the gases escape.
+  - slug: bpsc-70re-q037
+    difficulty: medium
+    stem: Who was the founder of the Maurya Empire ?
+    options:
+      A: Ashoka
+      B: Chandragupta Maurya
+      C: Brihadratha
+      D: Bindusara
+    answer: B
+    explanation: Chandragupta Maurya founded the Maurya Empire in about 321 BCE with Chanakya's help.
+  - slug: bpsc-70re-q038
+    difficulty: medium
+    stem: Which of the following is **not** the famous centre for Buddhist Learning in Ancient India ?
+    options:
+      A: Vikramshila
+      B: Nalanda
+      C: Valabhi
+      D: Nagpur
+    answer: D
+    explanation: Vikramshila, Nalanda and Valabhi were ancient Buddhist centres of learning. Nagpur was not.
+  - slug: bpsc-70re-q039
+    difficulty: medium
+    stem: Which country hosted the 2023 World Economic forum meeting ?
+    options:
+      A: Germany
+      B: Switzerland
+      C: Canada
+      D: Japan
+    answer: B
+    explanation: The WEF Annual Meeting is held in Davos, Switzerland, including in January 2023.
+  - slug: bpsc-70re-q040
+    difficulty: medium
+    stem: Which of the following vitamins are water soluble ?
+    options:
+      A: Vitamin K
+      B: Vitamin A
+      C: Vitamin D
+      D: None of these
+    answer: D
+    explanation: Vitamins A, D, E and K are fat-soluble. Only B-complex and C are water-soluble.
+  - slug: bpsc-70re-q041
+    difficulty: medium
+    stem: Who became the President of Indian National Congress when Subhash Chandra Bose resigned in 1939 ?
+    options:
+      A: Jawahar Lal Nehru
+      B: Rajendra Prasad
+      C: Abul Kalam Azad
+      D: More than one of the above
+    answer: B
+    explanation: Rajendra Prasad became Congress President after Subhas Chandra Bose resigned at Tripuri in 1939.
+  - slug: bpsc-70re-q042
+    difficulty: medium
+    stem: At what time between 2 and 3 O’Clock will the hands of a clock be together ?
+    options:
+      A: 10 10/43 minutes past 2
+      B: 10 10/11 minutes past 2
+      C: 38 10/11 minutes past 2
+      D: 38 2/11 minutes past 2
+    answer: B
+    explanation: The hands coincide 60/11 x 2 = 10 10/11 minutes past 2.
+  - slug: bpsc-70re-q043
+    difficulty: medium
+    stem: Which of the following Constitutional Amendment in India has decided the maximum strength of the Council of Minister with Chief Minister in a State ?
+    options:
+      A: 81st Constitutional Amendment
+      B: 91st Constitutional Amendment
+      C: 86th Constitutional Amendment
+      D: None of the above Amendment
+    answer: B
+    explanation: The 91st Amendment (2003), Article 164(1A), caps a State Council of Ministers, Chief Minister included, at 15% of the Assembly (minimum 12).
+  - slug: bpsc-70re-q044
+    difficulty: medium
+    stem: Besides spreading Malaria, Anopheles mosquito’s are also vectors of
+    options:
+      A: Encephalitis and Filariasis
+      B: Dengue and Filariasis
+      C: Dengue and Encephalitis
+      D: None of the above
+    answer: A
+    explanation: The key gives A. Anopheles mosquitoes also carry the Wuchereria/Brugia filarial worms, but encephalitis is mostly Culex-borne, so the option is loosely worded.
+  - slug: bpsc-70re-q045
+    difficulty: medium
+    stem: Who was re-elected as the President of France in 2022 ?
+    options:
+      A: Marine Le Pen
+      B: Emmanuel Macron
+      C: Éric Zemmour
+      D: Jean-Luc Mélenchon
+    answer: B
+    explanation: Emmanuel Macron defeated Marine Le Pen in April 2022 to win a second term.
+  - slug: bpsc-70re-q046
+    difficulty: medium
+    stem: Choose the correct pair from the following options.
+    options:
+      A: Third-Year Plan – Focus on Globalisation
+      B: First Five-Year Plan – Focus on Agriculture
+      C: Fifth Five-Year Plan – Focus on Industry
+      D: Fourth Five-Year Plan – Focus on Service
+    answer: B
+    explanation: The First Five-Year Plan (1951-56) gave priority to agriculture and irrigation.
+  - slug: bpsc-70re-q047
+    difficulty: medium
+    stem: Which is the mountain range along the Mediterranean Coast of Asia Minor ?
+    options:
+      A: Taurus
+      B: Pontic
+      C: Alburg
+      D: Kirther
+    answer: A
+    explanation: The Taurus Mountains run along Turkey's southern, Mediterranean coast. The Pontic range lies along the Black Sea.
+  - slug: bpsc-70re-q048
+    difficulty: medium
+    stem: Which of the following country is going to host 20th Asian games in 2026 ?
+    options:
+      A: Japan
+      B: India
+      C: Indonesia
+      D: China
+    answer: A
+    explanation: The 20th Asian Games are in Aichi-Nagoya, Japan, in 2026.
+  - slug: bpsc-70re-q049
+    difficulty: medium
+    stem: Which country hosted the 2022 Winter Olympics ?
+    options:
+      A: Canada
+      B: Japan
+      C: South Korea
+      D: China
+    answer: D
+    explanation: Beijing, China, hosted the 2022 Winter Olympics.
+  - slug: bpsc-70re-q050
+    difficulty: medium
+    stem: Turmeric powder is obtained from which part of turmeric plant ?
+    options:
+      A: Seed
+      B: Dried foot
+      C: Dried root
+      D: None of the above
+    answer: D
+    explanation: Turmeric powder comes from the dried rhizome, an underground stem, not a seed or root, so 'none of the above' is correct.
+  - slug: bpsc-70re-q051
+    difficulty: medium
+    stem: Which Viceroy decentralized the colonial economic structure in India ?
+    options:
+      A: Ripon
+      B: Mayo
+      C: Curzon
+      D: More than one of the above
+    answer: B
+    explanation: Lord Mayo's 1870 resolution began financial decentralisation, giving provinces control over some revenue heads.
+  - slug: bpsc-70re-q052
+    difficulty: medium
+    stem: Which of the following is the playground of Europe ?
+    options:
+      A: Italy
+      B: France
+      C: Switzerland
+      D: Germany
+    answer: C
+    explanation: Switzerland is called the 'Playground of Europe' for its Alpine scenery and winter sports.
+  - slug: bpsc-70re-q053
+    difficulty: medium
+    stem: Where did the revolt of Birsa Munda take place ?
+    options:
+      A: Ranchi
+      B: Champaran
+      C: Ballia
+      D: None of the above
+    answer: A
+    explanation: Birsa Munda's Ulgulan (1899-1900) took place in the Ranchi region of Chhotanagpur.
+  - slug: bpsc-70re-q054
+    difficulty: medium
+    stem: Which company became the first Indian company to cross the 200 billion USD market capitalization in 2023 ?
+    options:
+      A: TCS
+      B: Reliance Industries
+      C: HDFC Bank
+      D: Infosys
+    answer: B
+    explanation: Reliance Industries was the first Indian company to pass USD 200 billion in market capitalisation.
+  - slug: bpsc-70re-q055
+    difficulty: medium
+    stem: Reactance of a capacitor is
+    options:
+      A: Inversely proportional to frequency
+      B: Directly proportional to frequency
+      C: Inversely proportional to sq. root of frequency
+      D: None of the above
+    answer: A
+    explanation: Xc = 1/(2*pi*f*C), so capacitive reactance is inversely proportional to frequency.
+  - slug: bpsc-70re-q056
+    difficulty: medium
+    stem: Legally stipulated maximum size beyond which no individual farmer can hold any land is
+    options:
+      A: Abolition of intermediaries
+      B: Tenancy reforms
+      C: Land ceiling
+      D: Land consolidation
+    answer: C
+    explanation: A land ceiling is the legal maximum area of land one holder may own.
+  - slug: bpsc-70re-q057
+    difficulty: medium
+    stem: The Vernacular Press Act allowed
+    options:
+      A: Confiscation of the printing press if the newspapers published anything that was found objectionable
+      B: Confiscation of the assets of the newspaper if the newspapers published anything that was found objectionable
+      C: Confiscation of the printing press if the newspapers published anything that was not found to be objectionable
+      D: More than one of the above
+    answer: D
+    explanation: The Vernacular Press Act 1878 let the government confiscate the press, papers and security deposit of a newspaper that printed objectionable matter, so more than one option applies.
+  - slug: bpsc-70re-q058
+    difficulty: medium
+    stem: Average height of Kosi Plain from mean sea level is
+    options:
+      A: 150 m
+      B: 300 m
+      C: 30 m
+      D: 100 m
+    answer: C
+    explanation: The Kosi plain of north-east Bihar is a low alluvial plain, averaging about 30-60 m above sea level.
+  - slug: bpsc-70re-q059
+    difficulty: medium
+    stem: Who is the Chairperson of GST Council ?
+    options:
+      A: Chairman of Finance Commission
+      B: Union Finance Minister
+      C: Union Minister of Corporate Affairs
+      D: RBI Governor
+    answer: B
+    explanation: Under Article 279A the Union Finance Minister chairs the GST Council.
+  - slug: bpsc-70re-q060
+    difficulty: medium
+    stem: When was the Bihar State formed ?
+    options:
+      A: "1906"
+      B: "1915"
+      C: "1911"
+      D: None of the above
+    answer: D
+    explanation: Bihar (with Orissa) was carved out of Bengal Presidency on 22 March 1912, which is not among the options.
+  - slug: bpsc-70re-q061
+    difficulty: medium
+    stem: Sour taste of vinegar is due to
+    options:
+      A: Citric acid
+      B: Tartaric acid
+      C: Lactic acid
+      D: None of these
+    answer: D
+    explanation: Vinegar is a 5-8% solution of acetic acid, which is not among the options.
+  - slug: bpsc-70re-q062
+    difficulty: medium
+    stem: During the Delhi Sultanate, the designation ‘Muqaddam or Chaudhuri’ was used for
+    options:
+      A: Revenue officials
+      B: Village headmen
+      C: Village accountant
+      D: None of the above
+    answer: B
+    explanation: Under the Delhi Sultanate, muqaddam or chaudhuri meant the village headman (or a group of villages' headman). The accountant was the patwari.
+  - slug: bpsc-70re-q063
+    difficulty: medium
+    stem: Who won the Nobel Peace Prize in 2023 ?
+    options:
+      A: Narges Mohammadi
+      B: Maria Ressa
+      C: Nadia Murad
+      D: Abiy Ahmed
+    answer: A
+    explanation: The 2023 Nobel Peace Prize went to Narges Mohammadi of Iran.
+  - slug: bpsc-70re-q064
+    difficulty: medium
+    stem: ‘Tarikh-i-Firuz Shahi’ was written by
+    options:
+      A: Minhaj Siraj
+      B: Isami
+      C: Yahya Sarhindi
+      D: Shams Siraj Afif
+    answer: D
+    explanation: Shams Siraj Afif wrote a 'Tarikh-i-Firoz Shahi'. Barani also wrote one, but he is not offered.
+  - slug: bpsc-70re-q065
+    difficulty: medium
+    stem: Choose the odd pair among the following options.
+    options:
+      A: "Thar : India"
+      B: "Sahara : Africa"
+      C: "Kalahari : America"
+      D: "Gobi : Mongolia"
+    answer: C
+    explanation: The Kalahari is in southern Africa, not America. The other desert-region pairs are correct.
+  - slug: bpsc-70re-q066
+    difficulty: medium
+    stem: How is Hydrogen stored physically ?
+    options:
+      A: By compressing hydrogen gas
+      B: In form of hydrides
+      C: In form of water
+      D: None of the above
+    answer: A
+    explanation: Physical storage of hydrogen means compressed gas (or cryogenic liquid). Hydrides are chemical or material-based storage.
+  - slug: bpsc-70re-q067
+    difficulty: medium
+    stem: Which portfolio did Dr. Rajendra Prasad hold during the interim government of 1946 ?
+    options:
+      A: Food and agriculture
+      B: Defense
+      C: Home
+      D: None of the above
+    answer: A
+    explanation: In the 1946 Interim Government Dr Rajendra Prasad held Food and Agriculture.
+  - slug: bpsc-70re-q068
+    difficulty: medium
+    stem: Which is the oil refinery having maximum capacity in India ?
+    options:
+      A: Trombay
+      B: Koyali
+      C: Mathura
+      D: Barauni
+    answer: B
+    explanation: Of the refineries listed, IOC's Koyali (Gujarat) has the largest capacity, about 13.7 MMTPA. Jamnagar is the largest overall but is not listed.
+  - slug: bpsc-70re-q069
+    difficulty: medium
+    stem: What is the system of governance in the Panchayat Raj set-up ?
+    options:
+      A: Two tier system of local self government at the village and block levels
+      B: Single tier structure of local self government at the village level
+      C: Four tier system of local self government at the village, block, district and in the State levels
+      D: Three tier structure of local self government at the village, block and district levels
+    answer: D
+    explanation: "The 73rd Amendment set up a three-tier Panchayati Raj: village, intermediate (block) and district."
+  - slug: bpsc-70re-q070
+    difficulty: medium
+    stem: Blood group of an individual is determined by
+    options:
+      A: Shape of RBC
+      B: Presence of Haemoglobin
+      C: Combination of WBC and RBC
+      D: None of the above
+    answer: D
+    explanation: Blood group depends on the A/B antigens (and Rh) on the RBC surface, not on any listed factor.
+  - slug: bpsc-70re-q071
+    difficulty: medium
+    stem: In 33rd Olympic which game is **not** included ?
+    options:
+      A: Fencing
+      B: Cricket
+      C: Modern Pentathlon
+      D: Triathlon
+    answer: B
+    explanation: The 33rd Olympiad (Paris 2024) had fencing, modern pentathlon and triathlon but no cricket. Cricket returns at LA 2028.
+  - slug: bpsc-70re-q072
+    difficulty: medium
+    stem: Which is the Scotland of North-East India ?
+    options:
+      A: Nagaland
+      B: Meghalaya
+      C: Assam
+      D: Arunachal Pradesh
+    answer: B
+    explanation: Shillong, Meghalaya, is called the 'Scotland of the East' for its hills and climate.
+  - slug: bpsc-70re-q073
+    difficulty: medium
+    stem: Which one of the following Schedules of the Constitution of India contains provisions regarding Anti-defection Act ?
+    options:
+      A: Eighth Schedule
+      B: Tenth Schedule
+      C: Second Schedule
+      D: Fifth Schedule
+    answer: B
+    explanation: The anti-defection provisions (52nd Amendment, 1985) are in the Tenth Schedule.
+  - slug: bpsc-70re-q074
+    difficulty: medium
+    stem: Name of first 3d printed humanoid robot in India is
+    options:
+      A: Mitra
+      B: Manav
+      C: Robcop
+      D: Indro
+    answer: B
+    explanation: Manav, built by A-SET Training & Research Institutes, Delhi (2017), is India's first 3D-printed humanoid robot. Indro is a tall home-built robot.
+  - slug: bpsc-70re-q075
+    difficulty: medium
+    stem: Under which Article of the Indian Constitution the Annual Financial Statement (Budget) is necessary to be laid before the Parliament ?
+    options:
+      A: Article 112
+      B: Article 111
+      C: Article 114
+      D: Article 113
+    answer: A
+    explanation: Article 112 requires the Annual Financial Statement to be laid before both Houses each year.
+  - slug: bpsc-70re-q076
+    difficulty: medium
+    stem: The 60.2 percent share in GSDP of Bihar in 2019 – 20 was of
+    options:
+      A: Industrial Sector
+      B: Agriculture Sector
+      C: Manufacturing Sector
+      D: Service Sector
+    answer: D
+    explanation: The tertiary (service) sector made up about 60% of Bihar's GSDP in 2019-20, per the Bihar Economic Survey.
+  - slug: bpsc-70re-q077
+    difficulty: medium
+    stem: In which district of Bihar, Lichi production is maximum ?
+    options:
+      A: Muzaffarpur
+      B: Chhapara
+      C: Sonpur
+      D: Siwan
+    answer: A
+    explanation: Muzaffarpur is the lychee capital of India (Shahi Litchi has a GI tag).
+  - slug: bpsc-70re-q078
+    difficulty: medium
+    stem: Which river is known as the ‘Sorrow of Bihar’ ?
+    options:
+      A: Kosi
+      B: Ganga
+      C: Gandak
+      D: Son
+    answer: A
+    explanation: The Kosi is called the 'Sorrow of Bihar' for its floods and shifting course.
+  - slug: bpsc-70re-q080
+    difficulty: medium
+    stem: The Ishihara test is related with
+    options:
+      A: Colour blindness
+      B: Haemoglobin level
+      C: IQ
+      D: Bone density
+    answer: A
+    explanation: Ishihara plates test for red-green colour blindness.
+  - slug: bpsc-70re-q081
+    difficulty: medium
+    stem: Who among the following is **not** associated with Azad Hind Fauz (INA) ?
+    options:
+      A: Shahnawaz Khan
+      B: General Mohan Singh
+      C: Prem Singh Sehgal
+      D: S. A. Dange
+    answer: D
+    explanation: Shahnawaz Khan, Mohan Singh and Prem Sehgal were INA officers. S. A. Dange was a communist trade-union leader.
+  - slug: bpsc-70re-q082
+    difficulty: medium
+    stem: What is Infant Mortality rate ?
+    options:
+      A: proportion of children that die before the age of 2 years as a proportion of 1000 live children born in that particular year
+      B: proportion of children that die before the age of 1 year as a proportion of 1000 live children born in that particular year
+      C: proportion of children that die before the age of 4 years as a proportion of 1000 live children born in that particular year
+      D: proportion of children that die before the age of 3 years as a proportion of 1000 live children born in that particular year
+    answer: B
+    explanation: Infant mortality rate is the number of infant deaths (under age 1) per 1000 live births in a year.
+  - slug: bpsc-70re-q083
+    difficulty: medium
+    stem: Which longitude separates Canada and Alaska ?
+    options:
+      A: 151° W
+      B: 141° W
+      C: 161° W
+      D: 131° W
+    answer: B
+    explanation: The 141st meridian west forms most of the Alaska-Yukon (Canada) boundary.
+  - slug: bpsc-70re-q084
+    difficulty: medium
+    stem: |-
+      Match the List – I of authors with List – II of the books on 1857 and choose answers from the code given below :
+
+      | List – I | List – II |
+      |---|---|
+      | a. V. D. Savarkar | i. *The First War of Independence* |
+      | b. S. N. Sen | ii. *The Peasant and the Raj* |
+      | c. Eric Stokes | iii. *Civil Rebellion and in the Indian Mutinies* |
+      | d. S.B. Chaudhuri | iv. *Eighteen Fifty-Seven* |
+
+      Code :
+    options:
+      A: a-i, b-iv, c-ii, d-iii
+      B: a-iv, b-ii, c-i, d-iii
+      C: a-ii, b-iii, c-i, d-iv
+      D: None of the above
+    answer: A
+    explanation: Savarkar wrote 'The First War of Independence', S. N. Sen 'Eighteen Fifty-Seven', Eric Stokes 'The Peasant and the Raj' and S. B. Chaudhuri 'Civil Rebellion in the Indian Mutinies'.
+  - slug: bpsc-70re-q085
+    difficulty: medium
+    stem: |-
+      Match List – I of social reformers with List – II of their societies and choose answer from the code given below :
+
+      | List – I | List – II |
+      |---|---|
+      | a. Brahma Samaj | i. Vishnu Shastri Pandit |
+      | b. Ramkrishna Mission | ii. Swami Vivekananda |
+      | c. Servants of India Society | iii. Raja Rammohan Roy |
+      | d. Vidhwa Vivah Samaj | iv. Gopal Krishna Gokhale |
+
+      Code :
+    options:
+      A: a-iii, b-ii, c-i, d-iv
+      B: a-iii, b-i, c-ii, d-iv
+      C: a-iii, b-ii, c-iv, d-i
+      D: None of the above
+    answer: C
+    explanation: "Brahmo Samaj: Rammohan Roy. Ramakrishna Mission: Vivekananda. Servants of India Society: Gokhale. Vidhwa Vivah Samaj: Vishnu Shastri Pandit."
+  - slug: bpsc-70re-q086
+    difficulty: medium
+    stem: Light weight bullet proof helmets and jackets use which of the following fibres for their production ?
+    options:
+      A: Kevlar
+      B: Terylene
+      C: Nylon
+      D: None of the above
+    answer: A
+    explanation: Kevlar, a high-strength aramid fibre, is used in light bullet-proof vests and helmets.
+  - slug: bpsc-70re-q087
+    difficulty: medium
+    stem: The Speaker of the Lok Sabha enjoys
+    options:
+      A: Two votes – one in ordinary course and the other in case of a tie
+      B: No right to vote
+      C: The right to vote like other members of the House
+      D: The right to vote only in case of a tie
+    answer: D
+    explanation: Under Article 100 the Speaker does not vote in the first instance and has only a casting vote in a tie.
+  - slug: bpsc-70re-q088
+    difficulty: medium
+    stem: The term Zillillah was first used by
+    options:
+      A: Balban
+      B: Iltutmish
+      C: Akbar
+      D: Alauddin Khilji
+    answer: A
+    explanation: Balban styled himself Zill-i-Ilahi (Zillillah, shadow of God), drawing on Persian kingship theory.
+  - slug: bpsc-70re-q089
+    difficulty: medium
+    stem: The ratio of total deposits that a Commercial Banks must keep with Reserve Bank of India is called
+    options:
+      A: Cash Reserve Ratio
+      B: Deposit Ratio
+      C: Statutory Liquidity Ratio
+      D: Legal Reserve Ratio
+    answer: A
+    explanation: The Cash Reserve Ratio is the share of a bank's net demand and time liabilities kept as cash with the RBI.
+  - slug: bpsc-70re-q090
+    difficulty: medium
+    stem: An electron of mass M kg and charge e coulomb travels from rest through a potential difference of V volts. The final energy in joules would be
+    options:
+      A: e/V
+      B: MeV
+      C: eV/M
+      D: eV
+    answer: D
+    explanation: Work done on a charge e through potential difference V is eV joules, all of which becomes kinetic energy.
+  - slug: bpsc-70re-q092
+    difficulty: medium
+    stem: Which of the following is **not** associated with Chandragupta Maurya ?
+    options:
+      A: Junagadh inscription of Rudradaman
+      B: Vishnugupta
+      C: Sanchi
+      D: Susima
+    answer: C
+    explanation: The key gives Sanchi, a stupa site founded by Ashoka. Susima, Ashoka's half-brother, is equally unconnected with Chandragupta, so the question arguably has two answers.
+  - slug: bpsc-70re-q093
+    difficulty: medium
+    stem: Which Indian State topped the NITI Aayog’s SDG India Index 2023 ?
+    options:
+      A: Tamil Nadu
+      B: Kerala
+      C: Maharashtra
+      D: Gujarat
+    answer: B
+    explanation: In the SDG India Index 2023-24 (released July 2024), Kerala and Uttarakhand jointly topped with 79.
+  - slug: bpsc-70re-q094
+    difficulty: medium
+    stem: Buds are typically found
+    options:
+      A: At the base of leaves
+      B: Both at the base of leaves and tip of branches
+      C: At the tip of branches
+      D: None of the above
+    answer: B
+    explanation: Buds are axillary (in leaf axils) and terminal (at the tips of stems and branches).
+  - slug: bpsc-70re-q095
+    difficulty: medium
+    stem: Which one of the following is electoral college for the President but **not** forum for his impeachment ?
+    options:
+      A: Rajya Sabha
+      B: Lok Sabha
+      C: State Legislative Assemblies
+      D: State Legislative Councils
+    answer: C
+    explanation: Elected MLAs of State Assemblies vote for the President, but only Parliament conducts impeachment. Legislative Councils play no part in either.
+  - slug: bpsc-70re-q096
+    difficulty: medium
+    stem: Amarkantak source place of Son river is situated at
+    options:
+      A: Makalu range
+      B: Maikal range
+      C: Mahadeo hills
+      D: Rajmahal hills
+    answer: B
+    explanation: Amarkantak, source of the Son and Narmada, is in the Maikal range.
+  - slug: bpsc-70re-q097
+    difficulty: medium
+    stem: CIRCLE is related to RICELC in the same way SQUARE is related to
+    options:
+      A: ERAUQS
+      B: AREUQS
+      C: UQSARE
+      D: UQSERA
+    answer: D
+    explanation: "The letters are rearranged in the order 3,2,1,6,5,4: CIRCLE becomes RICELC and SQUARE becomes UQSERA."
+  - slug: bpsc-70re-q098
+    difficulty: medium
+    stem: Which of the following is **not** an electrophile ?
+    options:
+      A: H⁺
+      B: Na⁺
+      C: BF₃⁻
+      D: All of the above
+    answer: B
+    explanation: H+ and BF3 accept electron pairs (electrophiles). Na+ has little tendency to accept electrons and is not treated as an electrophile.
+  - slug: bpsc-70re-q099
+    difficulty: medium
+    stem: The Parliament can make any law for the whole or any part of India for implementing International treaties
+    options:
+      A: With the consent of States concerned
+      B: Without the consent of any State
+      C: With the consent of the majority of States
+      D: With the consent of all States
+    answer: B
+    explanation: Article 253 lets Parliament legislate to implement international treaties for any part of India without the States' consent.
+  - slug: bpsc-70re-q100
+    difficulty: medium
+    stem: In which district of Bihar, Maize production is maximum ?
+    options:
+      A: Siwan
+      B: Saran
+      C: East Champaran
+      D: Muzaffarpur
+    answer: D
+    explanation: The key gives Muzaffarpur. Bihar's maize belt is mainly the Kosi-Purnia region (Katihar, Khagaria, Purnia), which is not offered, so the key's choice cannot be checked against current data.
+  - slug: bpsc-70re-q101
+    difficulty: medium
+    stem: Quinine is a common drug for malaria that is obtained from a plant. Which part of the plant yields this drug ?
+    options:
+      A: Stem bark
+      B: Leaves
+      C: Root
+      D: None of the above
+    answer: A
+    explanation: Quinine is extracted from the bark of the Cinchona tree.
+  - slug: bpsc-70re-q102
+    difficulty: medium
+    stem: Who was the first Muslim President of Indian National Congress ?
+    options:
+      A: Maulana Azad
+      B: Hasrat Mohani
+      C: Badruddin Taiyabji
+      D: More than one of the above
+    answer: C
+    explanation: Badruddin Tyabji presided over the 1887 Madras session as the first Muslim Congress President.
+  - slug: bpsc-70re-q103
+    difficulty: medium
+    stem: Kashmir Valley is which type of Valley ?
+    options:
+      A: Erosional
+      B: Tectonic
+      C: Blind
+      D: Rift
+    answer: A
+    explanation: |-
+      **Disputed.** BPSC's final key says A; our check suggests B.
+
+      The key gives A (erosional). This is doubtful: the valley is usually described as a tectonic/synclinal basin, later shaped by Jhelum alluvium and Karewa lake deposits.
+  - slug: bpsc-70re-q104
+    difficulty: medium
+    stem: When did Macaulay issue his famous minute on Indian Education ?
+    options:
+      A: 02 February 1835
+      B: 01 February 1835
+      C: 12 February 1836
+      D: 12 February 1835
+    answer: A
+    explanation: Macaulay's Minute on Indian Education is dated 2 February 1835.
+  - slug: bpsc-70re-q105
+    difficulty: medium
+    stem: January 1, 2008 is Tuesday. What day of the week lies on January 1, 2009 ?
+    options:
+      A: Wednesday
+      B: Monday
+      C: Sunday
+      D: Thursday
+    answer: D
+    explanation: 2008 is a leap year (366 days, two odd days), so Tuesday plus 2 gives Thursday.
+  - slug: bpsc-70re-q106
+    difficulty: medium
+    stem: The conductivity of a strong electrolyte
+    options:
+      A: Increases slightly on dilution
+      B: Decreases on dilution
+      C: Does not changes with dilution
+      D: None of the above
+    answer: B
+    explanation: Conductivity (specific conductance) falls on dilution because there are fewer ions per unit volume. Molar conductivity rises only slightly for strong electrolytes.
+  - slug: bpsc-70re-q107
+    difficulty: medium
+    stem: The Tribal Movement-Santhal *hool* (Rebellion) took place in
+    options:
+      A: 1855-56
+      B: "1854"
+      C: 1858-59
+      D: 1857-58
+    answer: A
+    explanation: The Santhal Hul led by Sidhu and Kanhu took place in 1855-56.
+  - slug: bpsc-70re-q108
+    difficulty: medium
+    stem: Who is the current Chairman of the Indian Space Research Organisation (ISRO) ?
+    options:
+      A: S. Somnath
+      B: K. Sivan
+      C: U. R. Rao
+      D: G. Madhavan Nair
+    answer: A
+    explanation: S. Somanath was ISRO Chairman from January 2022 until V. Narayanan took over on 14 January 2025, after this exam.
+  - slug: bpsc-70re-q109
+    difficulty: medium
+    stem: Which of the following is **not** associated with Australia Continent ?
+    options:
+      A: Salwin Mountain
+      B: Salvin Valley
+      C: Nallarbar Plain
+      D: Eyr Lake
+    answer: B
+    explanation: Nullarbor Plain, Lake Eyre and the Selwyn Range ('Salwin Mountain') are Australian. No 'Salvin Valley' exists there.
+  - slug: bpsc-70re-q110
+    difficulty: medium
+    stem: Which country hosted the COP28 climate summit in 2023 ?
+    options:
+      A: United Kingdom
+      B: United Arab Emirates
+      C: Brazil
+      D: Italy
+    answer: B
+    explanation: COP28 was held in Dubai, UAE, from November to December 2023.
+  - slug: bpsc-70re-q111
+    difficulty: medium
+    stem: The number of scientific payloads on Aditya L – 1 mission for systematic study of Sun is
+    options:
+      A: "7"
+      B: "5"
+      C: "6"
+      D: "9"
+    answer: A
+    explanation: "Aditya-L1 carries seven payloads: VELC, SUIT, SoLEXS, HEL1OS, ASPEX, PAPA and the magnetometer."
+  - slug: bpsc-70re-q112
+    difficulty: medium
+    stem: In April, 2020 the Bihar Education Department started the following program through DD Bihar
+    options:
+      A: the telecast of Karsak-Chopal program for farmers
+      B: the telecast of a cultural program to save old culture of Bihar
+      C: the telecast of e-content for class IX-X students
+      D: the telecast of e-content for class V-VI students
+    answer: C
+    explanation: In April 2020, during the lockdown, the Bihar Education Department began telecasting e-content for secondary classes on DD Bihar.
+  - slug: bpsc-70re-q113
+    difficulty: medium
+    stem: All India Trade Union Congress was formed in the year
+    options:
+      A: "1918"
+      B: "1920"
+      C: "1919"
+      D: More than one of the above
+    answer: B
+    explanation: AITUC was founded on 31 October 1920 in Bombay, with Lala Lajpat Rai as President.
+  - slug: bpsc-70re-q114
+    difficulty: medium
+    stem: As the diameter of objective lens of a telescope increases, the resolution of telescope
+    options:
+      A: Increases
+      B: Decreases
+      C: Depends on focal length of lens
+      D: Remains same
+    answer: A
+    explanation: Resolving power is proportional to D/1.22 lambda, so a larger objective diameter gives better resolution.
+  - slug: bpsc-70re-q115
+    difficulty: medium
+    stem: Who is the Prime Minister of Italy as of 2024 ?
+    options:
+      A: Laura Boldrini
+      B: Giorgia Meloni
+      C: Rosy Bindi
+      D: Emma Bonino
+    answer: B
+    explanation: Giorgia Meloni has been Prime Minister of Italy since October 2022.
+  - slug: bpsc-70re-q116
+    difficulty: medium
+    stem: In India which of the following city has been declared as the first “City of Literature” by UNESCO ?
+    options:
+      A: Kolkata in W.B.
+      B: Nasik in Maharastra
+      C: Kozhikode in Kerala
+      D: Jabalpur in M.P.
+    answer: C
+    explanation: UNESCO named Kozhikode India's first City of Literature on 31 October 2023.
+  - slug: bpsc-70re-q117
+    difficulty: medium
+    stem: World famous painting is found in which district of Bihar ?
+    options:
+      A: Darbhanga
+      B: Samastipur
+      C: Madhepura
+      D: Madhubani
+    answer: D
+    explanation: Madhubani (Mithila) painting comes from Madhubani district.
+  - slug: bpsc-70re-q118
+    difficulty: medium
+    stem: A British Citizen staying in India can **not** claim right to
+    options:
+      A: Freedom of trade and profession
+      B: Equality before law
+      C: Protection of life and personal liberty
+      D: Freedom of religion
+    answer: A
+    explanation: Article 19 freedoms, including trade and profession, belong only to citizens. Articles 14, 21 and 25 cover foreigners too.
+  - slug: bpsc-70re-q119
+    difficulty: medium
+    stem: Who introduced the permanent settlement in Bengal ?
+    options:
+      A: Warren Hastings
+      B: Holt Mackengie
+      C: Lord Cornwallis
+      D: None of the above
+    answer: C
+    explanation: Lord Cornwallis introduced the Permanent Settlement in Bengal in 1793.
+  - slug: bpsc-70re-q120
+    difficulty: medium
+    stem: Who threw harmless bombs in the Central Legislative Assembly ?
+    options:
+      A: Bhagat Singh
+      B: Jatin Das
+      C: Batukeshwar Dutt
+      D: More than one of the above
+    answer: D
+    explanation: Bhagat Singh and Batukeshwar Dutt threw the bombs in the Central Legislative Assembly on 8 April 1929.
+  - slug: bpsc-70re-q121
+    difficulty: medium
+    stem: Which of the following seed is used in production of engineered diamonds ?
+    options:
+      A: Graphite
+      B: Cubic Zirconia
+      C: White sapphire
+      D: Moissanite
+    answer: A
+    explanation: The key gives graphite, the carbon feedstock in HPHT synthesis. Strictly, the seed is a diamond plate, so the wording is loose.
+  - slug: bpsc-70re-q122
+    difficulty: medium
+    stem: In which district of Bihar the fox nut is produced highest ?
+    options:
+      A: Patna
+      B: Madhubani
+      C: Muzaffarpur
+      D: Vaishali
+    answer: B
+    explanation: Makhana (fox nut) is grown mainly in Mithila. Of the options, Madhubani is a leading producer (with Darbhanga and Purnia).
+  - slug: bpsc-70re-q123
+    difficulty: medium
+    stem: Who is the author of the famous book ‘Gulamgiri’ ?
+    options:
+      A: B. R. Ambedkar
+      B: Jyotiba Phule
+      C: Ramaswami Naikar Periyar
+      D: More than one of the above
+    answer: B
+    explanation: Jyotiba Phule wrote 'Gulamgiri' (1873) against caste oppression.
+  - slug: bpsc-70re-q124
+    difficulty: medium
+    stem: Dalmetian Coast is
+    options:
+      A: Foot-hills of Karst
+      B: River depositional
+      C: Foot-hills
+      D: Intermontane
+    answer: A
+    explanation: The Dalmatian coast (Croatia) is a concordant coast of drowned, parallel limestone (karst) ridges, which makes A the closest option.
+  - slug: bpsc-70re-q125
+    difficulty: medium
+    stem: Which of the following is a function of Central Bank ?
+    options:
+      A: Bank facilities to Government
+      B: Manage the Repo-rate
+      C: Lending to Commercial Bank
+      D: All of the above
+    answer: D
+    explanation: A central bank is banker to the government, sets the repo rate and is lender of last resort to commercial banks.
+  - slug: bpsc-70re-q126
+    difficulty: medium
+    stem: A nail is nailed into the trunk of a tree at a point 1 m from the soil level. After 2 years the nail will
+    options:
+      A: Move up
+      B: Remain at same position
+      C: Move sideways
+      D: None of the above
+    answer: B
+    explanation: Trees grow in length only at the tips (apical meristems). The trunk thickens but does not lengthen, so the nail stays at the same height.
+  - slug: bpsc-70re-q127
+    difficulty: medium
+    stem: |-
+      Match List – I of leaders with List – II of their territory and select answer from the code given below :
+
+      | List – I | List – II |
+      |---|---|
+      | a. Kunwar Singh | i. Faizabad |
+      | b. Hazrat Mahal | ii. Bareilly |
+      | c. Khan Bahadur | iii. Jagdishpur |
+      | d. Maulvi Ahmadullah | iv. Lucknow |
+
+      Code :
+    options:
+      A: a-iii, b-iv, c-ii, d-i
+      B: a-iv, b-i, c-ii, d-iii
+      C: a-ii, b-i, c-iii, d-iv
+      D: None of the above
+    answer: A
+    explanation: Kunwar Singh led at Jagdishpur, Begum Hazrat Mahal at Lucknow, Khan Bahadur Khan at Bareilly and Maulvi Ahmadullah at Faizabad.
+  - slug: bpsc-70re-q128
+    difficulty: medium
+    stem: Name the major city of the Indus valley civilization that had trade with West Asia.
+    options:
+      A: Kalibangan
+      B: Ropar
+      C: Lothal
+      D: None of the above
+    answer: C
+    explanation: Lothal in Gujarat, with its dockyard, was a port trading with West Asia.
+  - slug: bpsc-70re-q129
+    difficulty: medium
+    stem: Which of the following is responsible for production of shadow ?
+    options:
+      A: Diffraction
+      B: Interference
+      C: Rectilinear propagation of light
+      D: Polarisation
+    answer: C
+    explanation: Light travels in straight lines, so an opaque object blocks it and casts a shadow.
+  - slug: bpsc-70re-q130
+    difficulty: medium
+    stem: Who was the President of the Indian National Congress at the Gaya Session of 1922 ?
+    options:
+      A: Chittaranjan Das
+      B: Mahatma Gandhi
+      C: Hakim Ajmal Khan
+      D: None of the above
+    answer: A
+    explanation: C. R. Das presided over the Gaya Congress of 1922 and then formed the Swaraj Party.
+  - slug: bpsc-70re-q131
+    difficulty: medium
+    stem: The expanded form of UPI is
+    options:
+      A: Unified Payment Interface
+      B: United Payment Initiation
+      C: Uniform Payment Inception
+      D: Uninterrupted Payment Initiation
+    answer: A
+    explanation: UPI stands for Unified Payments Interface, built by NPCI.
+  - slug: bpsc-70re-q132
+    difficulty: medium
+    stem: Liver stores
+    options:
+      A: A, B and C vitamins
+      B: A, B, C and D vitamins
+      C: Only A and B vitamins
+      D: None of these
+    answer: D
+    explanation: Final key changed B to D. The liver stores the fat-soluble vitamins A, D, E and K and much of B12 but not vitamin C, so A, B and C are wrong.
+  - slug: bpsc-70re-q133
+    difficulty: medium
+    stem: Which State of India is called as the State of Minerals ?
+    options:
+      A: Bihar
+      B: Jharkhand
+      C: West Bengal
+      D: Orissa
+    answer: D
+    explanation: The key gives Orissa (Odisha), India's leading mineral producer by value. Jharkhand is also popularly called the mineral state, so the question is ambiguous.
+  - slug: bpsc-70re-q134
+    difficulty: medium
+    stem: Chitrakoot temple is located in which State of India ?
+    options:
+      A: Madhya Pradesh
+      B: Uttar Pradesh
+      C: Orissa
+      D: Chhattisgarh
+    answer: A
+    explanation: The temples of Chitrakoot (Kamadgiri, Ramghat) are mostly in Satna district, MP, though Chitrakoot also spills into UP.
+  - slug: bpsc-70re-q135
+    difficulty: medium
+    stem: Minimum age for M.P. (Lower house), M.P. (Upper house) and President is
+    options:
+      A: 25, 30 and 30
+      B: 25, 35 and 35
+      C: 25, 35 and 45
+      D: 25, 30 and 35
+    answer: D
+    explanation: The minimum age is 25 for the Lok Sabha (Article 84), 30 for the Rajya Sabha and 35 for the President (Article 58).
+  - slug: bpsc-70re-q136
+    difficulty: medium
+    stem: What is the unit of measure of magnetic field ?
+    options:
+      A: Ohm
+      B: Tesla
+      C: Ampere
+      D: Cobalt
+    answer: B
+    explanation: The SI unit of magnetic field (flux density) is the tesla.
+  - slug: bpsc-70re-q137
+    difficulty: medium
+    stem: The person who has been President of India, Ambassador to USA, China, Turkey and Thailand alongwith vice chancellor to Jawahar Lal University. He is
+    options:
+      A: K. R. Narayan
+      B: R. Venkatraman
+      C: Dr. Shankar Dayal Sharma
+      D: Dr. S. Radha Krishnan
+    answer: A
+    explanation: K. R. Narayanan served as ambassador to Thailand, Turkey, China and the USA, was Vice-Chancellor of JNU and became President in 1997.
+  - slug: bpsc-70re-q138
+    difficulty: medium
+    stem: Amid the distributaries of which river is situated Divi Island ?
+    options:
+      A: Godavari
+      B: Krishna
+      C: Vimasadhara
+      D: Mahananda
+    answer: B
+    explanation: Divi Island lies among the distributaries of the Krishna delta in Andhra Pradesh.
+  - slug: bpsc-70re-q139
+    difficulty: medium
+    stem: |-
+      If triangle represents Men, rectangle represents Businessman and circle represents Millionaire, then which number represents Men that are both Businessman and Millionaire ?
+
+      *(Figure: Venn-type diagram of three overlapping shapes: a circle at top centre; a large rectangle below and to the left whose top edge passes through about the middle of the circle; and a large triangle on the right (apex at top right above the circle, one vertex at bottom right outside the rectangle, the third vertex inside the rectangle below the circle) whose upper-left side cuts diagonally across the circle. Numbers: 7 in the circle only (above the rectangle, left of the triangle); 8 in circle and rectangle, outside the triangle; 3 in circle and triangle just above the rectangle's top edge (outside the rectangle); 10 in the area common to circle, rectangle and triangle; 12 in rectangle and triangle, outside the circle; 13 in the triangle only, right of the rectangle.)*
+    options:
+      A: "10"
+      B: "3"
+      C: "13"
+      D: "12"
+    answer: A
+    explanation: Men who are both businessmen and millionaires lie where the triangle, rectangle and circle all overlap, which is 10.
+  - slug: bpsc-70re-q140
+    difficulty: medium
+    stem: Which among the following is a tool of Fiscal Policy ?
+    options:
+      A: Credit Ceiling
+      B: Bank Rate
+      C: Cash Reserve Ratio
+      D: Taxes
+    answer: D
+    explanation: Taxes (with public spending) are fiscal tools. Credit ceiling, bank rate and CRR are monetary tools.
+  - slug: bpsc-70re-q141
+    difficulty: medium
+    stem: Steam methane reforming technique is used to obtain
+    options:
+      A: Green Hydrogen
+      B: Brown Hydrogen
+      C: Grey Hydrogen
+      D: None of the above
+    answer: C
+    explanation: Steam methane reforming of natural gas without carbon capture produces grey hydrogen.
+  - slug: bpsc-70re-q142
+    difficulty: medium
+    stem: The primary function of the Finance Commission in India is to
+    options:
+      A: Advise the President on financial matters
+      B: Prepare the annual budget
+      C: Allocate funds to various ministries of the Union and State Governments
+      D: Distribution of revenue between the Centre and the States
+    answer: D
+    explanation: Under Article 280 the Finance Commission recommends how tax revenue is shared between the Centre and States.
+  - slug: bpsc-70re-q143
+    difficulty: medium
+    stem: Who first described the Revolt of 1857 as the ‘First Indian War of Independence’ ?
+    options:
+      A: R. C. Majumdar
+      B: V. D. Savarkar
+      C: Bal Gangadhar Tilak
+      D: None of the above
+    answer: B
+    explanation: V. D. Savarkar called the 1857 revolt the 'First War of Indian Independence' in his 1909 book.
+  - slug: bpsc-70re-q144
+    difficulty: medium
+    stem: If C is brother of B, B is son of A, D is father of C and A is female, then A is
+    options:
+      A: Wife of D
+      B: Mother of D
+      C: Husband of D
+      D: Sister of D
+    answer: A
+    explanation: A is B's and C's mother, and D is their father, so A is D's wife.
+  - slug: bpsc-70re-q145
+    difficulty: medium
+    stem: Standard electrode potential of three metals A, B and C are respectively 0.5 V, −3 V and −1.2 V. Reducing power of these metals would be
+    options:
+      A: C > B > A
+      B: A > C > B
+      C: B > C > A
+      D: None of the above
+    answer: C
+    explanation: "The lower the standard reduction potential, the stronger the reducing agent: B (-3 V) > C (-1.2 V) > A (+0.5 V)."
+  - slug: bpsc-70re-q146
+    difficulty: medium
+    stem: NNP at factor cost is equal to
+    options:
+      A: Disposable Personal Income
+      B: National Income
+      C: GNP at Market Price
+      D: GNP at factor cost – Net indirect tax
+    answer: B
+    explanation: NNP at factor cost is National Income.
+  - slug: bpsc-70re-q147
+    difficulty: medium
+    stem: |-
+      Match List – I of Pre-Congress organisations with List – II of their leaders and choose answer from the codes given below :
+
+      | List – I | List – II |
+      |---|---|
+      | a. Indian Association | i. Dadabhai Naoroji |
+      | b. Madras Mahajan Sabha | ii. M. Viraraghavachariar |
+      | c. Bombay Presidency Association | iii. Justice Ranade |
+      | d. Poona Sarvjanik Sabha | iv. Surendranath Banerjee |
+
+      Code :
+    options:
+      A: a-i, b-ii, c-iv, d-iii
+      B: a-ii, b-i, c-iii, d-iv
+      C: a-iv, b-ii, c-i, d-iii
+      D: None of the above
+    answer: C
+    explanation: "Indian Association: Surendranath Banerjee. Madras Mahajan Sabha: M. Viraraghavachariar. Bombay Presidency Association: Dadabhai Naoroji (among its leaders). Poona Sarvajanik Sabha: Ranade."
+  - slug: bpsc-70re-q148
+    difficulty: medium
+    stem: Compared to a burn due to air at 100°C, the burn due to steam at 100°C is
+    options:
+      A: Less dangerous due to low latent heat of evaporation
+      B: More dangerous due to low latent heat of evaporation
+      C: More dangerous due to high latent heat of evaporation
+      D: Less dangerous due to high latent heat of evaporation
+    answer: C
+    explanation: Steam at 100 C also releases its large latent heat of condensation (about 2260 J/g) on the skin, so it burns worse.
+  - slug: bpsc-70re-q149
+    difficulty: medium
+    stem: There are 15 chairs in a row. Position of P is at the middle, and Q is at 12th position counting from the right. How many chairs are there between P and Q ?
+    options:
+      A: "3"
+      B: "2"
+      C: "5"
+      D: "4"
+    answer: A
+    explanation: P is 8th of 15. Q, 12th from the right, is 4th from the left, so 3 chairs (5th to 7th) lie between them.
+  - slug: bpsc-70re-q150
+    difficulty: medium
+    stem: When was the Patna College established ?
+    options:
+      A: "1861"
+      B: "1865"
+      C: "1863"
+      D: None of the above
+    answer: C
+    explanation: Patna College was founded in 1863.

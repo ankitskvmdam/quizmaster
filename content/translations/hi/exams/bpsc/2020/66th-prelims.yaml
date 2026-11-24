@@ -1,0 +1,1669 @@
+slug: 66th-prelims
+title: बीपीएससी 66वीं प्रारंभिक परीक्षा
+date: 2020-12-27
+label: Series A
+marks:
+  correct: 1
+  wrong: 0
+source: BPSC official question booklet and final answer key (bpsc.bihar.gov.in).
+questions:
+  - slug: bpsc-66-q001
+    difficulty: medium
+    stem: मांसपेशियों में दर्द के उपचार में उपयोग किया जाने वाला विकिरण है
+    options:
+      A: इंफ्रारेड
+      B: माइक्रोवेव
+      C: यू० वी०
+      D: एक्स-रे
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Infrared radiation produces heat in tissues, so infrared lamps are used to relieve muscle ache.
+  - slug: bpsc-66-q002
+    difficulty: medium
+    stem: दो समानान्तर प्रतिरोध वाले सर्किट का कुल प्रतिरोध 1·403 किलो-ओम है। यदि एक प्रतिरोधक का मान 2·0 किलो-ओम है, तो दूसरे प्रतिरोधक का मान होगा
+    options:
+      A: 1·403 किलो-ओम
+      B: 2·0 किलो-ओम
+      C: 3·403 किलो-ओम
+      D: 4·70 किलो-ओम
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: 1/R2 = 1/1.403 - 1/2.0 = 0.2128 per kilo-ohm, so R2 = 4.70 kilo-ohm.
+  - slug: bpsc-66-q003
+    difficulty: medium
+    stem: गर्म करने पर एक अर्धचालक का प्रतिरोध
+    options:
+      A: बढ़ता है
+      B: घटता है
+      C: वही रहता है
+      D: पहले बढ़ता है फिर घटता है
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: "A semiconductor has a negative temperature coefficient: heating frees more charge carriers, so resistance decreases."
+  - slug: bpsc-66-q004
+    difficulty: medium
+    stem: फैराडे स्थिरांक
+    options:
+      A: इलेक्ट्रोलाइट की मात्रा पर निर्भर करता है
+      B: इलेक्ट्रोलाइट में पारित विद्युत्-धारा पर निर्भर करता है
+      C: विलायक के आयतन पर निर्भर करता है जिसमें इलेक्ट्रोलाइट घोला गया है
+      D: सार्वभौमिक स्थिरांक है
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Faraday constant (about 96,485 C/mol) is the charge of one mole of electrons, a universal constant.
+  - slug: bpsc-66-q005
+    difficulty: medium
+    stem: "'प्रकाश-वर्ष' किसकी इकाई है?"
+    options:
+      A: समय
+      B: गति
+      C: दूरी
+      D: प्रकाश की तीव्रता
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: A light-year is the distance light travels in one year (about 9.46 x 10^12 km).
+  - slug: bpsc-66-q006
+    difficulty: medium
+    stem: जब प्रकाश एक माध्यम से दूसरे में जाता है, तो निम्न में से कौन-सी/सा **नहीं** बदलती/बदलता है?
+    options:
+      A: वेग/गति
+      B: तरंगदैर्घ्य
+      C: आवृत्ति
+      D: अपवर्तनांक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Frequency is set by the source and stays the same; speed and wavelength change on refraction.
+  - slug: bpsc-66-q007
+    difficulty: medium
+    stem: विद्युत्-चुम्बकीय तरंगों का वेग होता है
+    options:
+      A: 3×10⁸ m s⁻¹
+      B: 3×10⁷ m s⁻¹
+      C: 3×10⁶ m s⁻¹
+      D: 3×10⁵ m s⁻¹
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: All electromagnetic waves travel in vacuum at c = 3 x 10^8 m/s.
+  - slug: bpsc-66-q008
+    difficulty: medium
+    stem: पहला आदमी, जिसने चाँद पर अपना पैर रखा था, है
+    options:
+      A: लीओनोव
+      B: नील आर्मस्ट्रॉन्ग
+      C: माइकेल कॉलिंस
+      D: जेम्स वैन ऐलन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Neil Armstrong (Apollo 11, 20 July 1969) was the first person to step on the Moon.
+  - slug: bpsc-66-q009
+    difficulty: medium
+    stem: प्लूटोनियम न्यूक्लाइड (₉₄Pu²⁴²) के नाभिक में न्यूट्रॉनों की संख्या होती है
+    options:
+      A: "94"
+      B: "148"
+      C: "242"
+      D: "336"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Neutrons = mass number - atomic number = 242 - 94 = 148.
+  - slug: bpsc-66-q010
+    difficulty: medium
+    stem: सबसे ज्यादा श्यानता होती है
+    options:
+      A: जल की
+      B: वायु की
+      C: खून की
+      D: शहद की
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Honey is far more viscous than blood, water or air.
+  - slug: bpsc-66-q011
+    difficulty: medium
+    stem: दूध किसका घटिया स्रोत है?
+    options:
+      A: कैल्सियम
+      B: प्रोटीन
+      C: विटामिन C
+      D: कार्बोहाइड्रेट
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Milk is rich in calcium, protein and carbohydrate (lactose) but has very little vitamin C.
+  - slug: bpsc-66-q012
+    difficulty: medium
+    stem: पुलिस द्वारा नशे में गाड़ी चलाने वाले की साँस की जाँच के लिये फिल्टर पेपर पर क्या होता है?
+    options:
+      A: पोटैशियम डाइक्रोमेट–सल्फ्यूरिक अम्ल
+      B: पोटैशियम परमैंगनेट–सल्फ्यूरिक अम्ल
+      C: सिल्वर नाइट्रेट लेपित सिलिका जेल
+      D: हल्दी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: The breathalyser uses acidified potassium dichromate, which turns from orange to green when it oxidises ethanol.
+  - slug: bpsc-66-q013
+    difficulty: medium
+    stem: ग्लूकोज को एथिल अल्कोहल में किस एंजाइम द्वारा बदल दिया जाता है?
+    options:
+      A: माल्टेज
+      B: इन्वर्टेज
+      C: जाइमेज
+      D: डायस्टेज
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Zymase (from yeast) ferments glucose into ethyl alcohol and CO2.
+  - slug: bpsc-66-q014
+    difficulty: medium
+    stem: चूने का पानी किसके द्वारा दुधिया हो जाता है?
+    options:
+      A: CO
+      B: CO₂
+      C: O₂
+      D: O₃
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: CO2 forms insoluble calcium carbonate with limewater, turning it milky.
+  - slug: bpsc-66-q015
+    difficulty: medium
+    stem: पेट्रोल तथा डीजल के अधूरे जलने से उत्पन्न होती है
+    options:
+      A: नाइट्रिक ऑक्साइड
+      B: नाइट्रोजन डाइऑक्साइड
+      C: कार्बन डाइऑक्साइड
+      D: कार्बन मोनोऑक्साइड
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Incomplete combustion of hydrocarbon fuels in limited oxygen produces carbon monoxide.
+  - slug: bpsc-66-q016
+    difficulty: medium
+    stem: एक घोल का pH, 3 से 6 बदलता है। इसमें H⁺ आयन की सान्द्रता
+    options:
+      A: 3 गुना बढ़ जायेगी
+      B: 3 गुना कम हो जायेगी
+      C: 10 गुना कम हो जायेगी
+      D: 1000 गुना कम हो जायेगी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: "[H+] = 10^-pH, so going from pH 3 to pH 6 lowers [H+] by 10^3 = 1000 times."
+  - slug: bpsc-66-q017
+    difficulty: medium
+    stem: रेत और नैफ्थलीन के मिश्रण को किसके द्वारा अलग किया जा सकता है?
+    options:
+      A: ऊर्ध्वपातन (सब्लिमेशन)
+      B: आसवन (डिस्टिलेशन)
+      C: क्रोमैटोग्राफी
+      D: आंशिक आसवन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Naphthalene sublimes on heating while sand does not, so sublimation separates them.
+  - slug: bpsc-66-q018
+    difficulty: medium
+    stem: बेंजीन में सिग्मा और पाई बन्ध की संख्या होती है
+    options:
+      A: 3, 3
+      B: 3, 6
+      C: 12, 3
+      D: 12, 6
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Benzene has 6 C-C and 6 C-H sigma bonds (12) and 3 pi bonds.
+  - slug: bpsc-66-q019
+    difficulty: medium
+    stem: यूरिया में उपस्थित होने वाले तत्त्व हैं
+    options:
+      A: C, H, O
+      B: C, N, O
+      C: C, H, N
+      D: C, H, N, O
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Urea, CO(NH2)2, contains carbon, hydrogen, nitrogen and oxygen.
+  - slug: bpsc-66-q020
+    difficulty: medium
+    stem: निम्न में से कौन-सा ऊष्मा का सबसे अधिक कुचालक है?
+    options:
+      A: ताँबा
+      B: सीसा
+      C: पारा
+      D: जस्ता
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Mercury's thermal conductivity (about 8 W/m K) is the lowest of these metals; lead is about 35, zinc about 116, copper about 400.
+  - slug: bpsc-66-q021
+    difficulty: medium
+    stem: विटामिन, जो रक्त के थक्के बनाने में प्रभावी होता है, है
+    options:
+      A: विटामिन A
+      B: विटामिन B
+      C: विटामिन D
+      D: विटामिन K
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Vitamin K is needed to make clotting factors such as prothrombin.
+  - slug: bpsc-66-q022
+    difficulty: medium
+    stem: महिला सेक्स हॉर्मोन है
+    options:
+      A: एस्ट्रोजन
+      B: ऐन्ड्रोजन
+      C: इन्सुलिन
+      D: ऑक्सीटोसिन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Estrogen is the principal female sex hormone; androgens are male hormones.
+  - slug: bpsc-66-q023
+    difficulty: medium
+    stem: पार्किन्सन बीमारी के उपचार के विकास के लिये किसको नोबेल पुरस्कार दिया गया?
+    options:
+      A: आर्वीड कार्लसन
+      B: जॉन एफ० एंडर्स
+      C: रॉबर्ट बी० लफलीन
+      D: वाल्टर कोहन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Arvid Carlsson shared the 2000 Nobel Prize in Physiology or Medicine for discovering dopamine's role, which led to L-DOPA treatment of Parkinson's disease.
+  - slug: bpsc-66-q024
+    difficulty: medium
+    stem: थाइरॉइड ग्रंथि की खराबी किसकी कमी के कारण होती है?
+    options:
+      A: विटामिन A
+      B: कैल्सियम
+      C: आयोडीन
+      D: लोहा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Iodine is needed to make thyroid hormones; its deficiency causes goitre and thyroid malfunction.
+  - slug: bpsc-66-q025
+    difficulty: medium
+    stem: कड़वाहट के लिये मानव जीभ का संवेदनशील क्षेत्र है
+    options:
+      A: नोक (टिप)
+      B: मध्य भाग
+      C: पीछे का भाग
+      D: किनारा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Bitter taste is sensed mostly at the back (posterior part) of the tongue.
+  - slug: bpsc-66-q026
+    difficulty: medium
+    stem: अदरक तना है जड़ नहीं, क्योंकि
+    options:
+      A: यह खाद्य सामग्री को संग्रहीत करता है
+      B: इसमें नोड और इंटर्नोड होते हैं
+      C: यह मिट्टी में क्षैतिज रूप से बढ़ता है
+      D: इसमें क्लोरोफिल की कमी है
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Ginger (a rhizome) has nodes and internodes, which are features of a stem, not a root.
+  - slug: bpsc-66-q027
+    difficulty: medium
+    stem: निम्न में सबसे मीठी चीनी है
+    options:
+      A: फ्रुक्टोज
+      B: ग्लूकोज
+      C: माल्टोज
+      D: सूक्रोज
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Fructose is the sweetest natural sugar, sweeter than sucrose and glucose.
+  - slug: bpsc-66-q028
+    difficulty: medium
+    stem: निम्न में कौन-सा एक सच्चा फल **नहीं** है?
+    options:
+      A: सेब
+      B: अंगूर
+      C: खजूर
+      D: आलूबुखारा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: "Apple is a false fruit (pome): its fleshy part develops from the thalamus, not the ovary."
+  - slug: bpsc-66-q029
+    difficulty: medium
+    stem: फलियाँ अत्यधिक पौष्टिक होती हैं, क्योंकि उनमें प्रचुर मात्रा में होती/होता है
+    options:
+      A: चरबी/वसा
+      B: प्रोटीन
+      C: तेल
+      D: स्टार्च
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Legumes (pulses) are rich in protein.
+  - slug: bpsc-66-q030
+    difficulty: medium
+    stem: लौंग, एक मसाला, पौधे के किस भाग से प्राप्त होता है?
+    options:
+      A: फल
+      B: तना
+      C: जड़
+      D: फूल की कली
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Cloves are the dried flower buds of Syzygium aromaticum.
+  - slug: bpsc-66-q031
+    difficulty: medium
+    stem: भारतीय क्रिकेट कंट्रोल बोर्ड द्वारा किसे सर्व भारतीय महिला चयन समिति का अध्यक्ष नियुक्त किया गया है?
+    options:
+      A: मिठू मुखर्जी
+      B: नीतू डेविड
+      C: रेणु मारग्रेट
+      D: वी० कल्पना
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: In September 2020 BCCI named former India spinner Neetu David as chairperson of the women's selection committee.
+  - slug: bpsc-66-q032
+    difficulty: medium
+    stem: महिला एकल यू० एस० ओपन टेनिस टूर्नामेन्ट, 2020 किसने जीता है?
+    options:
+      A: नाओमी ओसाका
+      B: बियांका ऐंड्रेस्कू
+      C: सोफिया केनिन
+      D: के० प्लीस्कोवा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Naomi Osaka beat Victoria Azarenka in the 2020 US Open women's singles final.
+  - slug: bpsc-66-q033
+    difficulty: medium
+    stem: 4 अक्तूबर, 2020 को आयोजित लंदन मेराथन में प्रथम स्थान पर रहने वाला एथलीट है
+    options:
+      A: इलियुड किपचोग
+      B: शुरा किटाटा
+      C: विन्सेंट किपचुंबा
+      D: सिसे लेमा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Ethiopia's Shura Kitata won the elite men's London Marathon on 4 October 2020; Kipchoge finished eighth.
+  - slug: bpsc-66-q034
+    difficulty: medium
+    stem: 15 अगस्त, 2020 को एम० एस० धोनी के साथ किस भारतीय क्रिकेट खिलाड़ी ने अन्तर्राष्ट्रीय क्रिकेट से संन्यास की घोषणा की?
+    options:
+      A: सुरेश रैना
+      B: हरभजन सिंह
+      C: भुवनेश्वर कुमार
+      D: रोहित शर्मा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Suresh Raina announced his international retirement on 15 August 2020, minutes after M. S. Dhoni.
+  - slug: bpsc-66-q035
+    difficulty: medium
+    stem: हाल ही में किसे नैशनल स्कूल ऑफ ड्रामा का अध्यक्ष नियुक्त किया गया है?
+    options:
+      A: महेश भट्ट
+      B: अक्षय कुमार
+      C: अनुपम खेर
+      D: परेश रावल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Actor Paresh Rawal was appointed Chairperson of the National School of Drama in September 2020.
+  - slug: bpsc-66-q036
+    difficulty: medium
+    stem: रक्षा अनुसंधान एवं विकास संगठन का प्रमुख कौन है?
+    options:
+      A: सुरजीत सिंह देसवाल
+      B: डॉ० जी० सतीश रेड्डी
+      C: अरविंद सक्सेना
+      D: चरनजीत सिंह अत्तरा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Dr. G. Satheesh Reddy was Secretary, DoDRD and Chairman of DRDO from 2018.
+  - slug: bpsc-66-q037
+    difficulty: medium
+    stem: किस विषय के लिए डॉ० बुशरा अतीक और डॉ० रितेश अग्रवाल को शांति स्वरूप भटनागर पुरस्कार, 2020 के लिए चुना गया?
+    options:
+      A: रसायन-विज्ञान
+      B: भौतिक विज्ञान
+      C: चिकित्सा-विज्ञान
+      D: गणितीय विज्ञान
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Dr. Bushra Ateeq and Dr. Ritesh Agarwal received the 2020 Shanti Swarup Bhatnagar Prize in Medical Sciences.
+  - slug: bpsc-66-q038
+    difficulty: medium
+    stem: नोबेल शांति पुरस्कार, 2020 के लिए किसे चुना गया?
+    options:
+      A: यूरोपियन यूनियन
+      B: विश्व खाद्य कार्यक्रम
+      C: रॉबर्ट बी० विल्सन
+      D: पॉल आर० मिलग्रॉम
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: The 2020 Nobel Peace Prize went to the UN World Food Programme; Wilson and Milgrom won the Economics prize.
+  - slug: bpsc-66-q039
+    difficulty: medium
+    stem: किस भारतीय फिल्म अभिनेता को 'टाइम मैगजीन' ने 2020 के सबसे प्रभावशाली सौ लोगों की सूची में शामिल किया है?
+    options:
+      A: आयुष्मान खुराना
+      B: शाहरुख ख़ान
+      C: अजय देवगन
+      D: सनी देओल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Ayushmann Khurrana was named in TIME's 100 most influential people of 2020.
+  - slug: bpsc-66-q040
+    difficulty: medium
+    stem: हाल ही में कितने भारतीय समुद्र-तटों को ब्लू फ्लैग सर्टिफिकेशन के लिए अनुशंसित किया गया है?
+    options:
+      A: छः
+      B: सात
+      C: आठ
+      D: नौ
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: In September 2020 India recommended eight beaches for the Blue Flag certification, and all eight received it in October 2020.
+  - slug: bpsc-66-q041
+    difficulty: medium
+    stem: रामविलास पासवान ने अपना राजनीतिक सफर किस राजनीतिक दल से प्रारम्भ किया था?
+    options:
+      A: जनता पार्टी
+      B: भारतीय लोक दल
+      C: संयुक्त सोशलिस्ट पार्टी
+      D: प्रजा सोशलिस्ट पार्टी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Ram Vilas Paswan was first elected to the Bihar Assembly in 1969 as a Samyukta Socialist Party candidate.
+  - slug: bpsc-66-q042
+    difficulty: medium
+    stem: भारत के निर्वाचन आयोग ने कब बिहार विधान-सभा, 2020 के आम चुनाव के लिए प्रेस नोट जारी किया?
+    options:
+      A: 23 सितम्बर, 2020
+      B: 24 सितम्बर, 2020
+      C: 25 सितम्बर, 2020
+      D: 26 सितम्बर, 2020
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Election Commission announced the Bihar Assembly election schedule in a press note dated 25 September 2020.
+  - slug: bpsc-66-q043
+    difficulty: medium
+    stem: 21 सितम्बर, 2020 को वीडियो सम्मेलन द्वारा किस राज्य में 'घर तक फाइबर' योजना प्रारम्भ की गई?
+    options:
+      A: उत्तर प्रदेश
+      B: मध्य प्रदेश
+      C: बिहार
+      D: कर्नाटक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: On 21 September 2020 PM Modi launched the 'Ghar Tak Fibre' scheme to connect all Bihar villages with optical fibre internet.
+  - slug: bpsc-66-q044
+    difficulty: medium
+    stem: बिहार के राजनीतिज्ञ स्वर्गीय रघुवंश प्रसाद सिंह पहली बार किस लोक सभा के लिए निर्वाचित हुए थे?
+    options:
+      A: दसवीं लोक सभा
+      B: ग्यारहवीं लोक सभा
+      C: बारहवीं लोक सभा
+      D: तेरहवीं लोक सभा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Raghuvansh Prasad Singh first entered the Lok Sabha in 1996, the 11th Lok Sabha, from Vaishali.
+  - slug: bpsc-66-q045
+    difficulty: medium
+    stem: काड्रिलैटरल सिक्योरिटी डायलॉग नामक एक अनौपचारिक युद्धनीतिक समूह का निम्न में से कौन सदस्य **नहीं** है?
+    options:
+      A: भारत
+      B: जापान
+      C: चीन
+      D: ऑस्ट्रेलिया
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Quad consists of India, Japan, Australia and the USA; China is not a member.
+  - slug: bpsc-66-q046
+    difficulty: medium
+    stem: सितम्बर 2020 में वीडियो सम्मेलन के माध्यम से ब्रिक्स (BRICS) के संस्कृति मंत्रियों की पाँचवीं बैठक में किसने भारतीय दृष्टिकोण का प्रतिनिधित्व किया?
+    options:
+      A: प्रह्लाद सिंह पटेल
+      B: रमेश पोखरियाल निशंक
+      C: नितिन गडकरी
+      D: रवि शंकर प्रसाद
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Culture Minister Prahlad Singh Patel represented India at the 5th BRICS Culture Ministers' meeting in September 2020.
+  - slug: bpsc-66-q047
+    difficulty: medium
+    stem: जून 2020 में 36वाँ आसियान (ASEAN) शिखर सम्मेलन वर्चुअलि कहाँ आयोजित किया गया?
+    options:
+      A: थाईलैन्ड
+      B: सिंगापुर
+      C: इंडोनेशिया
+      D: वियतनाम
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Vietnam, as ASEAN chair for 2020, hosted the virtual 36th ASEAN Summit in June 2020.
+  - slug: bpsc-66-q048
+    difficulty: medium
+    stem: निम्न में से कौन-सा ह्यूमन कैपिटल इंडेक्स, 2020 में प्रथम स्थान पर रहा?
+    options:
+      A: जापान
+      B: दक्षिण कोरिया
+      C: सिंगापुर
+      D: हांगकांग
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Singapore ranked first in the World Bank's Human Capital Index 2020.
+  - slug: bpsc-66-q049
+    difficulty: medium
+    stem: हाल ही में संयुक्त राज्य अमेरिका में 'ऑपरेशन एम० ए० जी० ए० (मागा)' सम्बन्धित है
+    options:
+      A: कोविड-19 के विरुद्ध अभियान से
+      B: डोनाल्ड ट्रम्प के पुनर्निर्वाचन अभियान से
+      C: जो बाइडेन के चुनाव अभियान से
+      D: "'मेक आर्मी ग्रेट अगेन' अभियान से"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: "'Operation MAGA' was the name of Donald Trump's 2020 re-election campaign push."
+  - slug: bpsc-66-q050
+    difficulty: medium
+    stem: किस अरब देश ने पहला नाभिकीय ऊर्जा संयन्त्र प्रारम्भ किया है?
+    options:
+      A: इराक
+      B: सऊदी अरब
+      C: संयुक्त अरब अमीरात
+      D: मिस्र
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The UAE's Barakah nuclear plant began operating in 2020, the first in the Arab world.
+  - slug: bpsc-66-q051
+    difficulty: medium
+    stem: इज़राइल से शांति समझौता करने वाला पहला अरब देश कौन था?
+    options:
+      A: मिस्र
+      B: जॉर्डन
+      C: बहरीन
+      D: सूडान
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Egypt signed a peace treaty with Israel in 1979, the first Arab state to do so.
+  - slug: bpsc-66-q052
+    difficulty: medium
+    stem: अक्तूबर 2020 से जून 2021 तक के लिए किस देश को अन्तर्राष्ट्रीय श्रम संगठन के संचालक मंडल (गवर्निंग बॉडी) का अध्यक्ष बनाया गया?
+    options:
+      A: जापान
+      B: न्यूज़ीलैंड
+      C: ऑस्ट्रेलिया
+      D: भारत
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: India (Labour Secretary Apurva Chandra) took over as Chair of the ILO Governing Body for October 2020-June 2021.
+  - slug: bpsc-66-q053
+    difficulty: medium
+    stem: सितम्बर 2020 में प्रारम्भ किए गए 'ऑपरेशन मेरी सहेली' का उद्देश्य है
+    options:
+      A: लड़कियों में आत्मरक्षा की शिक्षा को प्रोत्साहन देना
+      B: रेलों में महिला यात्रियों की सुरक्षा को बढ़ावा देना
+      C: महिलाओं के लिए रोज़गार के नए अवसर तलाशना
+      D: लड़कियों के बालश्रम के विरुद्ध जागरूकता बढ़ाना
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: "'Operation My Saheli' is a Railway Protection Force initiative for the safety of women passengers on trains."
+  - slug: bpsc-66-q054
+    difficulty: medium
+    stem: फिट इंडिया अभियान की पहली वर्षगाँठ के अवसर पर 'फिटनेस की डोज़, आधा घण्टा रोज़' मंत्र किसके द्वारा दिया गया?
+    options:
+      A: प्रधानमंत्री नरेन्द्र मोदी
+      B: केन्द्रीय गृहमंत्री अमित शाह
+      C: केन्द्रीय स्वास्थ्य मंत्री डॉ० हर्षवर्धन
+      D: योग गुरु बाबा रामदेव
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: At the first-anniversary Fit India Dialogue on 24 September 2020, PM Modi gave the mantra 'Fitness ki dose, aadha ghanta roz'.
+  - slug: bpsc-66-q055
+    difficulty: medium
+    stem: राजमाता विजय राजे सिंधिया के सौवें जन्म दिवस पर प्रधानमंत्री नरेन्द्र मोदी ने जारी किया
+    options:
+      A: पचास रुपये का सिक्का
+      B: पचास रुपये का नोट
+      C: सौ रुपये का सिक्का
+      D: सौ रुपये का नोट
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: On 12 October 2020 PM Modi released a commemorative Rs 100 coin for Vijaya Raje Scindia's birth centenary.
+  - slug: bpsc-66-q056
+    difficulty: medium
+    stem: किस राज्य की लघु वृत्त-चित्र 'ची लूपो' ने दादा साहेब फाल्के पुरस्कार, 2020 जीता है?
+    options:
+      A: मणिपुर
+      B: नागालैंड
+      C: मेघालय
+      D: अरुणाचल प्रदेश
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Chi Lupo, an Idu Mishmi documentary by Arunachal filmmaker Kombong Darang, won at the Dadasaheb Phalke Film Festival 2020.
+  - slug: bpsc-66-q057
+    difficulty: medium
+    stem: किस निजी क्षेत्र के बैंक ने किसानों के लिए 'ई-किसान धन' ऐप चालू किया है?
+    options:
+      A: ऐक्सिस बैंक
+      B: एच० डी० एफ० सी० बैंक
+      C: आइ० डी० बी० आइ० बैंक
+      D: कोटक महिन्द्रा बैंक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: HDFC Bank launched the 'e-Kisaan Dhan' app for farmers.
+  - slug: bpsc-66-q058
+    difficulty: medium
+    stem: भारत ने किस शहर के अन्तर्राष्ट्रीय हवाई अड्डे पर सबसे पहले कोविड-19 परीक्षण की सुविधा प्रारम्भ की?
+    options:
+      A: कोलकाता
+      B: दिल्ली
+      C: मुंबई
+      D: बेंगलुरु
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: India's first airport COVID-19 testing facility opened at Delhi's Indira Gandhi International Airport in 2020.
+  - slug: bpsc-66-q059
+    difficulty: medium
+    stem: राफेल फाइटर एयरक्राफ्ट को किस वायुसेना स्टेशन पर औपचारिक रूप से भारतीय वायुसेना में सम्मिलित किया गया?
+    options:
+      A: हिंडन
+      B: सरसावा
+      C: अम्बाला
+      D: अमृतसर
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Rafale jets were formally inducted into the IAF at Air Force Station Ambala on 10 September 2020.
+  - slug: bpsc-66-q060
+    difficulty: medium
+    stem: भारत की पहली स्वदेशी ऐंटी-रेडिएशन मिसाइल का नाम है
+    options:
+      A: तांडव
+      B: त्रिनेत्र
+      C: सक्षम
+      D: रुद्रम
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Rudram is India's first indigenous anti-radiation missile, tested in October 2020.
+  - slug: bpsc-66-q061
+    difficulty: medium
+    stem: निम्न में से किस हड़प्पन नगर में जुते हुए खेतों के निशान मिले हैं?
+    options:
+      A: कालीबंगन
+      B: धोलावीरा
+      C: मोहनजोदड़ो
+      D: लोथल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: A ploughed field with furrow marks was excavated at Kalibangan (Rajasthan).
+  - slug: bpsc-66-q062
+    difficulty: medium
+    stem: त्रिरत्न या तीन रत्न, जैसे सटीक ज्ञान, सच्ची आस्था और सटीक क्रिया, निम्न में से किससे संबंधित हैं?
+    options:
+      A: बौद्ध धर्म
+      B: हिंदू धर्म
+      C: जैन धर्म
+      D: ईसाई धर्म
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Right faith, right knowledge and right conduct are the Triratna of Jainism.
+  - slug: bpsc-66-q063
+    difficulty: medium
+    stem: इनमें से किस शासक ने चतुर्थ बौद्ध संगीति कश्मीर में आयोजित की?
+    options:
+      A: अशोक
+      B: अजातशत्रु
+      C: कनिष्क
+      D: कालाशोक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Fourth Buddhist Council was held in Kashmir under Kanishka.
+  - slug: bpsc-66-q064
+    difficulty: medium
+    stem: निम्न में से किस भारतीय दर्शन ने परमाणु सिद्धांत का प्रतिपादन किया?
+    options:
+      A: योग
+      B: न्याय
+      C: सांख्य
+      D: वैशेषिक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The Vaisheshika school of Kanada propounded the atomic theory (paramanu).
+  - slug: bpsc-66-q065
+    difficulty: medium
+    stem: किस दिल्ली सुल्तान ने 'रक्त एवं लौह' की नीति अपनायी?
+    options:
+      A: इल्तुतमिश
+      B: बलबन
+      C: अलाउद्दीन खलजी
+      D: मुहम्मद बिन तुगलक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Balban followed the policy of 'blood and iron' to restore the Sultan's authority.
+  - slug: bpsc-66-q066
+    difficulty: medium
+    stem: कौन-सा मध्यकालीन भारतीय साम्राज्य व्यापक स्तर पर स्थानीय स्वशासन के लिए प्रसिद्ध था?
+    options:
+      A: चालुक्य
+      B: चोल
+      C: सोलंकी
+      D: परमार
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: The Cholas were noted for their elaborate village self-government (Uttaramerur inscriptions).
+  - slug: bpsc-66-q067
+    difficulty: medium
+    stem: पर्चिनकारी (पिट्रा ड्यूरा) निम्न में से किससे संबंधित है?
+    options:
+      A: दीवारों में अर्ध-कीमती पत्थर जड़कर फूलों की नक्काशी करना
+      B: मीनारों में टेढ़ी दीवार बनाना
+      C: संरचना में मेहराब का इस्तेमाल करना
+      D: इमारतों में मार्बल का प्रयोग करना
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Pietra dura is the inlay of semi-precious stones in marble to form floral designs, as in the Taj Mahal.
+  - slug: bpsc-66-q068
+    difficulty: medium
+    stem: किस मुगल शासक ने चित्रकारी के लिए कारखाने बनवाए?
+    options:
+      A: हुमायूँ
+      B: अकबर
+      C: जहाँगीर
+      D: शाहजहाँ
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Akbar set up imperial karkhanas (ateliers) where painters worked under court patronage.
+  - slug: bpsc-66-q069
+    difficulty: medium
+    stem: बंगाल में द्विशासन प्रणाली किसके द्वारा लागू की गयी?
+    options:
+      A: वारेन हेस्टिंग्स
+      B: विलियम बेंटिंक
+      C: रॉबर्ट क्लाइव
+      D: लॉर्ड कर्जन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Robert Clive introduced the Dual System (Diwani with the Company, Nizamat with the Nawab) in Bengal in 1765.
+  - slug: bpsc-66-q070
+    difficulty: medium
+    stem: इनमें से किसने 1893 में शिकागो में आयोजित धर्म संसद में भाग लिया?
+    options:
+      A: दयानंद सरस्वती
+      B: स्वामी विवेकानंद
+      C: महात्मा गाँधी
+      D: राजा राममोहन राय
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Swami Vivekananda spoke at the World's Parliament of Religions in Chicago in 1893.
+  - slug: bpsc-66-q071
+    difficulty: medium
+    stem: 1923 में स्वराज पार्टी का गठन किसने किया?
+    options:
+      A: महात्मा गाँधी
+      B: वल्लभ भाई पटेल
+      C: सी० आर० दास व मोतीलाल नेहरू
+      D: बी० आर० अम्बेडकर
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: C. R. Das and Motilal Nehru founded the Swaraj Party in 1923.
+  - slug: bpsc-66-q072
+    difficulty: medium
+    stem: प्रसिद्ध नाटक 'नील दर्पण', जिसमें इंडिगो की खेती करने वाले किसानों के दमन का चित्रण किया गया, की रचना किसने की?
+    options:
+      A: शरतचंद्र चटर्जी
+      B: रवीन्द्रनाथ टैगोर
+      C: बारींद्र घोष
+      D: दीनबंधु मित्र
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Dinabandhu Mitra wrote Neel Darpan (1860) on the oppression of indigo cultivators.
+  - slug: bpsc-66-q073
+    difficulty: medium
+    stem: 1760 का प्रसिद्ध वांडीवाश का युद्ध अंग्रेज़ों द्वारा किसके खिलाफ लड़ा गया?
+    options:
+      A: फ्रांसीसी
+      B: स्पेन
+      C: मैसूर
+      D: कार्नेटिक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: At Wandiwash (1760) the British under Eyre Coote defeated the French under Lally.
+  - slug: bpsc-66-q074
+    difficulty: medium
+    stem: निम्न में से किस अधिनियम ने भारत में पृथक् निर्वाचक मंडल का आरंभ किया?
+    options:
+      A: रेग्यूलेटिंग अधिनियम, 1773
+      B: चार्टर अधिनियम, 1833
+      C: पिट इंडिया अधिनियम, 1784
+      D: भारतीय परिषद् अधिनियम, 1909
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The Indian Councils Act, 1909 (Morley-Minto Reforms) introduced separate electorates for Muslims.
+  - slug: bpsc-66-q075
+    difficulty: medium
+    stem: 1831 में बुद्धो भगत के नेतृत्व में कोल विद्रोह किस क्षेत्र में हुआ?
+    options:
+      A: कच्छ
+      B: सिंहभूम
+      C: पश्चिमी घाट
+      D: सतारा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: The Kol uprising of 1831-32 under Buddho Bhagat affected Chotanagpur and Singhbhum.
+  - slug: bpsc-66-q076
+    difficulty: medium
+    stem: बिहार में 1857 के विद्रोह का नेतृत्व किसने किया?
+    options:
+      A: नाना साहब
+      B: ताँत्या टोपे
+      C: कुँवर सिंह
+      D: मौलवी अहमदुल्लाह
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Babu Kunwar Singh of Jagdishpur led the 1857 Revolt in Bihar.
+  - slug: bpsc-66-q077
+    difficulty: medium
+    stem: चम्पारण में इंडिगो के किसानों की दशा की ओर गाँधीजी का ध्यान किसने आकर्षित किया?
+    options:
+      A: राजेन्द्र प्रसाद
+      B: अनुग्रह नारायण सिन्हा
+      C: आचार्य कृपलानी
+      D: राजकुमार शुक्ल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Raj Kumar Shukla persuaded Gandhiji to visit Champaran to see the indigo peasants' plight.
+  - slug: bpsc-66-q078
+    difficulty: medium
+    stem: प्राचीन महाजनपद मगध की प्रथम राजधानी कौन-सी थी?
+    options:
+      A: पाटलीपुत्र
+      B: वैशाली
+      C: चम्पा
+      D: अंग
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: Magadh's first capital was Rajagriha (Girivraja), which is not among A-D, so the answer is E.
+  - slug: bpsc-66-q079
+    difficulty: medium
+    stem: स्वामी सहजानंद निम्न में से किससे संबंधित थे?
+    options:
+      A: बिहार में जनजातीय आंदोलन
+      B: बिहार में मजदूर आंदोलन
+      C: बिहार में किसान आंदोलन
+      D: बिहार में जाति आंदोलन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Swami Sahajanand Saraswati led the Bihar Provincial Kisan Sabha and the peasant movement.
+  - slug: bpsc-66-q080
+    difficulty: medium
+    stem: निम्न में से कौन-सा भारत में गाँधीजी का प्रथम सत्याग्रह आंदोलन था, जिसमें उन्होंने सविनय अवज्ञा का प्रयोग किया?
+    options:
+      A: चम्पारण
+      B: खेड़ा
+      C: अहमदाबाद
+      D: रौलेट सत्याग्रह
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Champaran (1917) was Gandhiji's first Satyagraha in India, defying the order to leave the district.
+  - slug: bpsc-66-q081
+    difficulty: medium
+    stem: भौगोलिक क्षेत्र की दृष्टि से जापान का सबसे बड़ा द्वीप है
+    options:
+      A: होकैडो
+      B: होंशु
+      C: शिकोकु
+      D: क्युशु
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Honshu is Japan's largest island.
+  - slug: bpsc-66-q082
+    difficulty: medium
+    stem: ग्रीनलैंड निम्न देशों में से किस देश का भाग है?
+    options:
+      A: डेनमार्क
+      B: फिनलैंड
+      C: कनाडा
+      D: युनाइटेड किंगडम
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Greenland is an autonomous territory of the Kingdom of Denmark.
+  - slug: bpsc-66-q083
+    difficulty: medium
+    stem: दिसम्बर 2018 तक के अनुसार विश्व के निम्न देशों में से किस देश में सबसे अधिक भारतीय आबादी है?
+    options:
+      A: संयुक्त अरब अमीरात
+      B: मलेशिया
+      C: युनाइटेड किंगडम
+      D: संयुक्त राज्य अमेरिका
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: MEA data (December 2018) show the USA with the most overseas Indians (NRIs + PIOs), about 4.46 million, ahead of the UAE and Malaysia.
+  - slug: bpsc-66-q084
+    difficulty: medium
+    stem: निम्न देशों में से किस देश में 2019 में सालाना सबसे अधिक सोने का उत्पादन (टन में) हुआ?
+    options:
+      A: रूस
+      B: ऑस्ट्रेलिया
+      C: चीन
+      D: संयुक्त राज्य अमेरिका
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: China was the largest gold producer in 2019, at about 380 tonnes, ahead of Russia and Australia.
+  - slug: bpsc-66-q085
+    difficulty: medium
+    stem: निम्न में से किस महाद्वीप में सबसे अधिक देश हैं?
+    options:
+      A: यूरोप
+      B: एशिया
+      C: अफ्रीका
+      D: उत्तरी अमेरिका
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Africa has the most countries (54).
+  - slug: bpsc-66-q086
+    difficulty: medium
+    stem: 2011 की जनगणना के अनुसार भारत के किस राज्य के आदिवासियों की आबादी का प्रतिशत उसकी कुल आबादी की तुलना में सबसे अधिक है?
+    options:
+      A: अरुणाचल प्रदेश
+      B: नागालैंड
+      C: मिज़ोरम
+      D: मेघालय
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Mizoram has the highest share of Scheduled Tribes in its population (94.4%, Census 2011).
+  - slug: bpsc-66-q087
+    difficulty: medium
+    stem: निम्न कॉफी उत्पादक क्षेत्रों में से कौन-सा क्षेत्र कर्नाटक में **नहीं** है?
+    options:
+      A: चिकमगलूर
+      B: कूर्ग
+      C: बाबा बुदनगिरी
+      D: पुलनेज
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The Palni (Pulney) Hills coffee area is in Tamil Nadu; Chikmagalur, Coorg and Baba Budangiri are in Karnataka.
+  - slug: bpsc-66-q088
+    difficulty: medium
+    stem: भौगोलिक क्षेत्र की दृष्टि से भारत के निम्न जिलों में से कौन-सा जिला सबसे बड़ा है?
+    options:
+      A: लेह
+      B: कच्छ
+      C: जैसलमेर
+      D: बाड़मेर
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: The final key changed this answer from Kutch to Leh, presumably counting Leh's full notional area (including territory not under Indian control) on India's 2019 map. By administered area, Kutch (about 45,674 sq km) is larger than Leh (about 45,110 sq km).
+  - slug: bpsc-66-q089
+    difficulty: medium
+    stem: भारत के किस राज्य में वन्यजीव अभयारण्य सबसे अधिक संख्या में हैं?
+    options:
+      A: कर्नाटक
+      B: तमिलनाडु
+      C: महाराष्ट्र
+      D: मध्य प्रदेश
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Maharashtra has the most wildlife sanctuaries of any State (Andaman and Nicobar, a UT, has more).
+  - slug: bpsc-66-q090
+    difficulty: medium
+    stem: बिहार में प्रवाहित होने वाली निम्न नदियों में से उत्तर की ओर प्रवाहित होने वाली कौन-सी नदी है?
+    options:
+      A: बागमती
+      B: कमला
+      C: कोसी
+      D: गण्डक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: Bagmati, Kamla, Kosi and Gandak all flow south from the Himalaya to the Ganga. North-flowing rivers in Bihar are the southern tributaries such as Son and Punpun, so the answer is E.
+  - slug: bpsc-66-q091
+    difficulty: medium
+    stem: निम्न हिमालय पर्वतश्रेणियों में से किस पर्वतश्रेणी को अटल टनेल पार करती है?
+    options:
+      A: जांस्कर
+      B: पश्चिमी पीरपंजाल
+      C: लद्दाख
+      D: पूर्वी पीरपंजाल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Atal Tunnel runs under the Rohtang Pass in the Eastern Pir Panjal range.
+  - slug: bpsc-66-q092
+    difficulty: medium
+    stem: भारत का 13वाँ प्रधान बन्दरगाह किस राज्य में स्थापित किया जाने वाला है?
+    options:
+      A: केरल
+      B: गुजरात
+      C: महाराष्ट्र
+      D: तमिलनाडु
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Vadhavan port in Palghar, Maharashtra, was approved as India's 13th major port.
+  - slug: bpsc-66-q093
+    difficulty: medium
+    stem: निम्न राज्यों में से कौन-सा राज्य भारत में सर्वाधिक सौर ऊर्जा का उत्पादक है?
+    options:
+      A: तेलंगाना
+      B: कर्नाटक
+      C: आन्ध्र प्रदेश
+      D: राजस्थान
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Karnataka had the highest installed solar capacity in India in 2019-20.
+  - slug: bpsc-66-q094
+    difficulty: medium
+    stem: खनिज और जिले के निम्न जोड़ों में से कौन-सा जोड़ा सही है?
+    options:
+      A: लाइमस्टोन—कैमूर
+      B: माइका—भागलपुर
+      C: कार्ट्जाइट—मधुबनी
+      D: लेड-जिंक—गया
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Kaimur-Rohtas plateau has Bihar's limestone deposits.
+  - slug: bpsc-66-q095
+    difficulty: medium
+    stem: उद्योग और स्थान के निम्न जोड़ों में से कौन-सा जोड़ा सही **नहीं** है?
+    options:
+      A: ऑयल रिफाइनरी—बरौनी
+      B: सीमेंट—बंजारी
+      C: फर्टिलाइजर—भौराही
+      D: रेलडिब्बा और अभियान्त्रिकी—भागलपुर
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Bihar's wagon industry is at Mokama and Muzaffarpur, not Bhagalpur.
+  - slug: bpsc-66-q096
+    difficulty: medium
+    stem: बिहार के निम्न जिलों में से किस जिले में ही पीड्मोंट स्वैम्प मिट्टी पाई जाती है?
+    options:
+      A: मधुबनी
+      B: भागलपुर
+      C: पश्चिमी चम्पारण
+      D: सीतामढ़ी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Piedmont swamp (terai) soil occurs in West Champaran along the foothills.
+  - slug: bpsc-66-q097
+    difficulty: medium
+    stem: बिहार के निम्न प्रशासनिक विभागीय जोड़ों में से किस जोड़े से गंगा नदी **नहीं** बहती है?
+    options:
+      A: दरभंगा—मुंगेर
+      B: पूर्णिया—भागलपुर
+      C: तिरहुत—सारण
+      D: कोशी—मगध
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The Ganga does not pass through Kosi division (Saharsa, Madhepura, Supaul) or Magadh division (Gaya and nearby districts).
+  - slug: bpsc-66-q098
+    difficulty: medium
+    stem: जनजाति और जिले के निम्न जोड़ों में से कौन-सा जोड़ा सही **नहीं** है ?
+    options:
+      A: सन्थाल—बांका
+      B: मुण्डा—जमुई
+      C: उराँव—सुपौल
+      D: खरवार—भागलपुर
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Munda are concentrated in Purnea/Katihar, not Jamui; Santhal-Banka, Oraon-Supaul and Kharwar-Bhagalpur are correct pairs.
+  - slug: bpsc-66-q099
+    difficulty: medium
+    stem: बिहार राज्य के कुल भौगोलिक क्षेत्र की तुलना में समस्त वन्यक्षेत्र का प्रतिशत है
+    options:
+      A: 7·27
+      B: 6·87
+      C: 3·21
+      D: 12·77
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: The final key changed this from 7.27 to E. 7.27% was Bihar's forest cover in ISFR 2011; ISFR 2019 gives forest cover of about 7.76% of the area, which matches none of the options.
+  - slug: bpsc-66-q100
+    difficulty: medium
+    stem: निम्न में से किस जिले में बिहार का एकमात्र राष्ट्रीय उद्यान स्थित है?
+    options:
+      A: नालन्दा
+      B: भागलपुर
+      C: पश्चिमी चम्पारण
+      D: पूर्वी चम्पारण
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Valmiki National Park in West Champaran is Bihar's only national park.
+  - slug: bpsc-66-q101
+    difficulty: medium
+    stem: हाल ही में संसद की नई इमारत के निर्माण की बोली किसने जीत लिया है?
+    options:
+      A: एल० ऐंड टी० लिमिटेड
+      B: रिलायंस प्रोजेक्ट्स लिमिटेड
+      C: टाटा प्रोजेक्ट्स लिमिटेड
+      D: नैशनल हाइवे अथॉरिटी ऑफ इंडिया
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Tata Projects Ltd won the bid in September 2020 to build the new Parliament building.
+  - slug: bpsc-66-q102
+    difficulty: medium
+    stem: भारत के संविधान का कौन-सा अनुच्छेद भारतीय निर्वाचन आयोग की स्थापना से संबंधित है?
+    options:
+      A: अनुच्छेद 324
+      B: अनुच्छेद 148
+      C: अनुच्छेद 342
+      D: अनुच्छेद 325
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Article 324 vests superintendence of elections in an Election Commission.
+  - slug: bpsc-66-q103
+    difficulty: medium
+    stem: वर्तमान में राष्ट्रीय महिला आयोग की प्रमुख कौन है?
+    options:
+      A: ममता शर्मा
+      B: ललिता कुमारमंगलम
+      C: रेखा शर्मा
+      D: स्मृति ईरानी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Rekha Sharma has been NCW Chairperson since 2018.
+  - slug: bpsc-66-q104
+    difficulty: medium
+    stem: "'विधि का नियम' या 'कानून का अधिराज्य' का मतलब क्या है?"
+    options:
+      A: सभी के लिए एक कानून और सभी के लिए एक न्यायतंत्र
+      B: सभी के लिए एक कानून और सभी के लिए एक राज्य
+      C: सभी के लिए एक राज्य और सभी के लिए एक न्यायतंत्र
+      D: एक के लिए सभी कानून और सभी के लिए एक न्यायतंत्र
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Rule of law means one law equally applicable to all and one system of courts for all.
+  - slug: bpsc-66-q105
+    difficulty: medium
+    stem: पंचायती राज संस्थाओं को 29 कार्यों की सूची किस अनुच्छेद के तहत दी गई है?
+    options:
+      A: अनुच्छेद 243 (H)
+      B: अनुच्छेद 243 (E)
+      C: अनुच्छेद 243 (F)
+      D: अनुच्छेद 243 (G)
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Article 243G empowers Panchayats on the 29 subjects listed in the Eleventh Schedule.
+  - slug: bpsc-66-q106
+    difficulty: medium
+    stem: नागरिकता (संशोधन) कानून कब पारित हुआ?
+    options:
+      A: 11 दिसम्बर, 2018
+      B: 11 दिसम्बर, 2019
+      C: 11 अक्तूबर, 2019
+      D: 11 अक्तूबर, 2020
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Parliament passed the Citizenship (Amendment) Act on 11 December 2019 (Rajya Sabha vote).
+  - slug: bpsc-66-q107
+    difficulty: medium
+    stem: 73वें संविधान संशोधन कानून की वैधानिक शुरुआत किस संविधान संशोधन बिल से हुई?
+    options:
+      A: 61वाँ संविधान संशोधन बिल
+      B: 62वाँ संविधान संशोधन बिल
+      C: 63वाँ संविधान संशोधन बिल
+      D: 64वाँ संविधान संशोधन बिल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The 64th Constitutional Amendment Bill (1989) on Panchayati Raj is the forerunner of the 73rd Amendment.
+  - slug: bpsc-66-q108
+    difficulty: medium
+    stem: वर्ष 1632 में बिहार के पटना शहर में कौन-सी कम्पनी ने अपनी फैक्टरी स्थापित की?
+    options:
+      A: ब्रिटिश ईस्ट इंडिया कंपनी
+      B: डच ईस्ट इंडिया कंपनी
+      C: पुर्तगाली ईस्ट इंडिया कंपनी
+      D: फ्रेंच ईस्ट इंडिया कम्पनी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: The Dutch East India Company set up its factory at Patna in 1632.
+  - slug: bpsc-66-q109
+    difficulty: medium
+    stem: निम्न में से कौन-सा विकेन्द्रीकरण का वैशिष्ट्य **नहीं** है?
+    options:
+      A: स्वायत्तता
+      B: लोक-सहभागिता
+      C: स्थानीय समुदायों में आत्मविश्वास को नहीं जगाना
+      D: स्थानीय समुदायों को सशक्त बनाना
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Decentralisation aims to build confidence and empower local communities, not to instil non-confidence.
+  - slug: bpsc-66-q110
+    difficulty: medium
+    stem: ब्रिटिश शासन काल में संविधान के विकास में कौन-सा कानून ऐतिहासिक **नहीं** था?
+    options:
+      A: रेग्युलेटिंग ऐक्ट, 1773
+      B: चार्टर ऐक्ट, 1833
+      C: गवर्नमेंट ऑफ इंडिया ऐक्ट, 1919
+      D: प्रोटेक्शन ऑफ सिविल राइट्स ऐक्ट, 1955
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The Protection of Civil Rights Act, 1955 is a post-independence law, not a British-era constitutional landmark.
+  - slug: bpsc-66-q111
+    difficulty: medium
+    stem: भारत में खाद्य प्रबन्धन का निम्न में से कौन-सा एक उद्देश्य **नहीं** है?
+    options:
+      A: खाद्यान्नों का वितरण
+      B: खाद्यान्नों की खरीद
+      C: खाद्यान्नों के बफर स्टॉक का रखरखाव
+      D: खाद्यान्नों का निर्यात
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Food management covers procurement, buffer stocks and distribution; export is not one of its objectives.
+  - slug: bpsc-66-q112
+    difficulty: medium
+    stem: भारत में राजस्व घाटे से तात्पर्य है कि
+    options:
+      A: भारत सरकार को अपने उन व्ययों के वित्तपोषण के लिए उधार लेने की आवश्यकता है जो पूँजीगत परिसम्पत्तियों का निर्माण करते हैं
+      B: भारत सरकार को अपने उन व्ययों के वित्तपोषण के लिए उधार लेने की आवश्यकता है जो पूँजीगत परिसम्पत्तियों का निर्माण नहीं करते हैं
+      C: भारत सरकार को भारतीय रिजर्व बैंक से सरकारी प्रतिभूतियों के बदले उधार लेने की आवश्यकता है
+      D: भारत सरकार को अन्तर्राष्ट्रीय वित्तीय संस्थाओं से उधार लेने की आवश्यकता है
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Revenue deficit means revenue expenditure exceeds revenue receipts, so borrowing finances spending that creates no capital assets.
+  - slug: bpsc-66-q113
+    difficulty: medium
+    stem: वर्ष 2019–20 में निम्न में से कौन-सा देश भारत का सर्वाधिक व्यापारिक भागीदारी वाला देश है?
+    options:
+      A: संयुक्त राज्य अमेरिका
+      B: चीन
+      C: संयुक्त अरब अमीरात
+      D: सऊदी अरब
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: The USA was India's largest trading partner in 2019-20 (about USD 88.9 bn), ahead of China.
+  - slug: bpsc-66-q114
+    difficulty: medium
+    stem: भारतमाला परियोजना से भारत का निम्न में से कौन-सा इन्फ्रास्ट्रक्चर क्षेत्र सम्बन्धित है?
+    options:
+      A: दूरसंचार क्षेत्र
+      B: रेलवे
+      C: सड़क इन्फ्रास्ट्रक्चर
+      D: बन्दरगाह क्षेत्र
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Bharatmala Pariyojana is a highway and road infrastructure programme.
+  - slug: bpsc-66-q115
+    difficulty: medium
+    stem: भारत में औद्योगिक क्षेत्र की उपलब्धि को मापने के लिए निम्न में से कौन-सी संस्था औद्योगिक उत्पादन के सूचकांक को जारी करती है?
+    options:
+      A: राष्ट्रीय प्रतिदर्श सर्वेक्षण कार्यालय (एन० एस० एस० ओ०)
+      B: भारतीय रिजर्व बैंक (आर० बी० आइ०)
+      C: केन्द्रीय सांख्यिकी कार्यालय (सी० एस० ओ०)
+      D: भारतीय सांख्यिकीय संस्थान (आइ० एस० आइ०)
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The CSO (now NSO under MoSPI) compiles and releases the Index of Industrial Production.
+  - slug: bpsc-66-q116
+    difficulty: medium
+    stem: व्यवसाय करने की सरलता पर 2020 की रिपोर्ट के अनुसार भारत ने अपने क्रम में सुधार किया है, जो है
+    options:
+      A: विगत वर्ष के 77 से 63वाँ स्थान
+      B: विगत वर्ष के 130 से 100वाँ स्थान
+      C: विगत वर्ष के 100 से 77वाँ स्थान
+      D: विगत वर्ष के 77 से 67वाँ स्थान
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: In Doing Business 2020 India rose from 77th to 63rd.
+  - slug: bpsc-66-q117
+    difficulty: medium
+    stem: भारत के केन्द्रीय बजट में संस्थागत कृषि साख का प्रवाह बढ़ाने के लिए वर्ष 2020–21 के लिए क्या साख लक्ष्य रखा गया है?
+    options:
+      A: ₹ 10 लाख करोड़
+      B: ₹ 13·5 लाख करोड़
+      C: ₹ 15 लाख करोड़
+      D: ₹ 16·5 लाख करोड़
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Union Budget 2020-21 set the agricultural credit target at Rs 15 lakh crore.
+  - slug: bpsc-66-q118
+    difficulty: medium
+    stem: पी० एम०-कुसुम योजना का उद्देश्य है
+    options:
+      A: सिंचाई के लिए किसानों की मॉनसून पर निर्भरता कम करना
+      B: ऋण के लिए किसानों की साहूकारों पर निर्भरता में कमी करना
+      C: भारत में फूलों की खेती का संवर्धन
+      D: किसानों की डीजल और केरोसीन पर निर्भरता समाप्त करना तथा पम्प सेटों को सौर ऊर्जा से जोड़ना
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: PM-KUSUM aims to solarise farm pumps and cut farmers' dependence on diesel and kerosene.
+  - slug: bpsc-66-q119
+    difficulty: medium
+    stem: निम्न में से भारत का कौन-सा व्यापारिक बैंक विश्व के शीर्ष 100 बैंकों में शामिल है?
+    options:
+      A: आइ० सी० आइ० सी० आइ० बैंक
+      B: भारतीय स्टेट बैंक
+      C: एच० डी० एफ० सी० बैंक
+      D: कोटक महिन्द्रा बैंक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: SBI is the only Indian bank in the top 100 global banks.
+  - slug: bpsc-66-q120
+    difficulty: medium
+    stem: भारत सरकार ने 2020–21 के बजट में एक नयी योजना 'निर्भीक (NIRVIK)' घोषित की है। अर्थव्यवस्था का निम्न में से कौन-सा क्षेत्र इस योजना से लाभान्वित होगा?
+    options:
+      A: कृषि क्षेत्र
+      B: औद्योगिक क्षेत्र
+      C: स्वास्थ्य क्षेत्र
+      D: निर्यात क्षेत्र
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: NIRVIK (Niryat Rin Vikas Yojana) gives exporters greater credit insurance cover.
+  - slug: bpsc-66-q121
+    difficulty: medium
+    stem: बिहार सरकार ने 1 अप्रैल, 2019 से सार्वजनिक वित्तीय प्रबन्धन प्रणाली (सी० एफ० एम० एस०) शुरू की है। यह प्रणाली
+    options:
+      A: राज्य में समस्त वित्तीय कार्यकलापों को ऑनलाइन तथा कागजरहित बनाएगी
+      B: बैंकों की एन० पी० ए० की समस्या को हल करेगी
+      C: राज्य परियोजनाओं के प्रभावी क्रियान्वयन को सुनिश्चित करेगी
+      D: स्थानीय निकायों सहित राज्य सरकार के वित्त का प्रबन्ध करेगी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: The final key changed this from A to E, treating more than one statement as a valid description of CFMS (for example A and D). CFMS replaced CTMIS from 1 April 2019 to put all State financial transactions online.
+  - slug: bpsc-66-q122
+    difficulty: medium
+    stem: भारत सरकार ने 2 जनवरी, 2020 को बिहार राज्य को कृषि कर्मण पुरस्कार प्रदान किया। यह पुरस्कार दिया गया था
+    options:
+      A: मक्का और गेहूँ के उत्पादन और उत्पादकता के लिए
+      B: खाद्यान्नों के उत्पादन के लिए
+      C: चावल के उत्पादन के लिए
+      D: तिलहनों के उत्पादन के लिए
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Bihar's Krishi Karman Award (2017-18), presented on 2 January 2020, was for maize and wheat production and productivity.
+  - slug: bpsc-66-q123
+    difficulty: medium
+    stem: बिहार सरकार ने अगस्त 2018 में एक नयी योजना 'सतत जीविकोपार्जन योजना' शुरू की। इस योजना का उद्देश्य है
+    options:
+      A: युवाओं को बेरोजगारी भत्ता देना
+      B: ग्रामीण क्षेत्रों में स्थानीय निकायों के माध्यम से रोजगार प्रदान करना
+      C: अत्यधिक गरीब परिवारों को सतत आय का सृजन करने वाली परिसम्पत्ति प्रदान करना
+      D: युवाओं में दक्षता की वृद्धि के लिए निःशुल्क प्रशिक्षण प्रदान करना
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: |-
+      **Disputed.** BPSC's final key says E; our check suggests C.
+
+      The final key changed this from C to E, without published reasons. The scheme's stated aim is to give sustainable income-generating assets to extremely poor households, which is option C.
+  - slug: bpsc-66-q124
+    difficulty: medium
+    stem: बिहार सरकार के सात निश्चयों में निम्न में से कौन-सा सम्मिलित **नहीं** है?
+    options:
+      A: महिला रोजगार
+      B: साफ पीने का पानी
+      C: सभी परिवारों को बिजली की आपूर्ति
+      D: बाल-कल्याण
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: The Saat Nishchay include women's reservation in jobs, Har Ghar Bijli and Har Ghar Nal ka Jal; child welfare is not one of them.
+  - slug: bpsc-66-q125
+    difficulty: medium
+    stem: बिहार का प्रति व्यक्ति शुद्ध राज्य घरेलू उत्पाद स्थिर कीमतों पर देश की तुलना में कम है। वर्ष 2018–19 में यह था
+    options:
+      A: राष्ट्रीय औसत का 75 प्रतिशत
+      B: राष्ट्रीय औसत का 60 प्रतिशत
+      C: राष्ट्रीय औसत का 50 प्रतिशत
+      D: राष्ट्रीय औसत का 33 प्रतिशत
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Bihar's per capita NSDP is about one-third of the national average (Bihar Economic Survey).
+  - slug: bpsc-66-q126
+    difficulty: medium
+    stem: निम्न में से किस कॉलेज में गाँधीजी ने पढ़ाई की थी?
+    options:
+      A: शामलदास कॉलेज, भावनगर
+      B: धर्मेन्द्रसिंहजी कॉलेज, राजकोट
+      C: गुजरात कॉलेज, अहमदाबाद
+      D: बहाउद्दीन कॉलेज, जूनागढ़
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Gandhiji briefly studied at Samaldas College, Bhavnagar in 1888.
+  - slug: bpsc-66-q127
+    difficulty: medium
+    stem: इनमें से किसने 1857 के विद्रोह में सक्रिय भाग लिया था?
+    options:
+      A: नाना साहेब (कानपुर)
+      B: बेगम हज़रत महल (लखनऊ)
+      C: मौलवी अहमदुल्लाह (फैज़ाबाद)
+      D: बेगम ज़ीनत महल (दिल्ली)
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: "Nana Saheb, Begum Hazrat Mahal and Maulavi Ahmadullah all led the 1857 revolt, so more than one option is correct: E."
+  - slug: bpsc-66-q128
+    difficulty: medium
+    stem: किस अधिनियम के बारे में जवाहरलाल नेहरू ने कहा था कि “हमें एक ऐसी कार दी गई थी जिसमें सब ब्रेक थे किन्तु इंजन नहीं था”?
+    options:
+      A: 1858 का अधिनियम
+      B: 1909 का अधिनियम
+      C: 1919 का अधिनियम
+      D: 1935 का अधिनियम
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: D
+    explanation: Nehru described the Government of India Act, 1935 as 'a machine with strong brakes but no engine'.
+  - slug: bpsc-66-q129
+    difficulty: medium
+    stem: दांडी यात्रा कितने दिन चली थी?
+    options:
+      A: 10 दिन
+      B: 20 दिन
+      C: 24 दिन
+      D: 30 दिन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Dandi March lasted 24 days (12 March-5/6 April 1930).
+  - slug: bpsc-66-q130
+    difficulty: medium
+    stem: प्रसिद्ध गीत 'सरफरोशी की तमन्ना अब हमारे दिल में है' के रचयिता कौन हैं?
+    options:
+      A: सूर्य सेन
+      B: चंद्रशेखर आज़ाद
+      C: सरदार भगत सिंह
+      D: रामप्रसाद बिस्मिल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: E
+    explanation: "'Sarfaroshi ki tamanna' was written by Bismil Azimabadi of Patna and made famous by Ram Prasad Bismil, so none of A-D is the author: E."
+  - slug: bpsc-66-q131
+    difficulty: medium
+    stem: बंगाल विभाजन के प्रत्याघात के रूप में कौन-सा आंदोलन शुरू हुआ था?
+    options:
+      A: असहयोग आंदोलन
+      B: सविनय अवज्ञा आंदोलन
+      C: स्वदेशी आंदोलन
+      D: पूर्ण स्वराज आंदोलन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: The Swadeshi Movement began in 1905 against the Partition of Bengal.
+  - slug: bpsc-66-q132
+    difficulty: medium
+    stem: इनमें से 1945–46 में दिल्ली में हुए आइ० एन० ए० के मुकदमों के पक्ष में पेश हुए वकील थे
+    options:
+      A: डॉ० राजेन्द्र प्रसाद
+      B: भूलाभाई देसाई
+      C: के० एम० मुंशी
+      D: सरदार पटेल
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Bhulabhai Desai led the defence at the INA trials at the Red Fort in 1945-46.
+  - slug: bpsc-66-q133
+    difficulty: medium
+    stem: मैडम कामा ने भारत के त्रिरंगी स्वतंत्रता ध्वज को कहाँ फहराया था?
+    options:
+      A: पेरिस
+      B: लंदन
+      C: स्टुटगार्ट
+      D: जिनेवा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Madam Bhikaji Cama unfurled the Indian flag at the International Socialist Congress in Stuttgart in 1907.
+  - slug: bpsc-66-q134
+    difficulty: medium
+    stem: निम्न में से कौन-सी जोड़ी सही है?
+    options:
+      A: विनोबा भावे—द्वितीय व्यक्तिगत सत्याग्रही
+      B: सी० आर० दास—देशबन्धु
+      C: विलियम वेडरबर्न—1907 के कांग्रेस सभापति
+      D: श्यामजी कृष्ण वर्मा—पेरिस में इन्डिया हाउस के संस्थापक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: C. R. Das was called Deshbandhu. Vinoba was the first individual satyagrahi, Wedderburn presided in 1889 and 1910, and India House was in London.
+  - slug: bpsc-66-q135
+    difficulty: medium
+    stem: भारतीय राष्ट्रीय कांग्रेस द्वारा किस दिन को 'पूर्ण स्वराज दिवस' घोषित किया गया था?
+    options:
+      A: 26-01-1930
+      B: 15-08-1947
+      C: 30-01-1948
+      D: 31-12-1950
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Congress observed 26 January 1930 as Purna Swaraj Day.
+  - slug: bpsc-66-q136
+    difficulty: medium
+    stem: बिहार की स्थापना कब की गई थी?
+    options:
+      A: "1911"
+      B: "1912"
+      C: "1913"
+      D: "1914"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Bihar was separated from the Bengal Presidency on 22 March 1912.
+  - slug: bpsc-66-q137
+    difficulty: medium
+    stem: बिहार में तीनकठिया पद्धति में नील की खेती के लिए भूमि का कितना भाग अमानत रखा जाता था?
+    options:
+      A: 01/10
+      B: 01/03
+      C: 03/20
+      D: 03/25
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Under the Tinkathia system, 3 kathas out of 20 (3/20) of land were reserved for indigo.
+  - slug: bpsc-66-q138
+    difficulty: medium
+    stem: बिहार के प्रथम मुख्यमंत्री कौन थे?
+    options:
+      A: श्रीकृष्ण सिंह
+      B: सत्यपाल मलिक
+      C: नीतीश कुमार
+      D: राबड़ी देवी
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Shri Krishna Singh was Bihar's first Chief Minister.
+  - slug: bpsc-66-q139
+    difficulty: medium
+    stem: बिहार में कांग्रेस का प्रथम अधिवेशन कहाँ रखा गया था?
+    options:
+      A: पटना
+      B: गया
+      C: मुज़फ्फरपुर
+      D: दरभंगा
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: The 1912 Congress session in Bihar was held at Bankipur, Patna.
+  - slug: bpsc-66-q140
+    difficulty: medium
+    stem: जयप्रकाश नारायण को कौन-सी उपाधि दी गई थी?
+    options:
+      A: प्रजा हितेच्छु
+      B: लोकनायक
+      C: लोकमान्य
+      D: राष्ट्रनायक
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Jayaprakash Narayan is known as 'Lok Nayak'.
+  - slug: bpsc-66-q141
+    difficulty: medium
+    stem: अनुक्रम 4, 18, 48, 100, ?, 294, 448 में लुप्त संख्या है
+    options:
+      A: "94"
+      B: "164"
+      C: "180"
+      D: "192"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Terms are n^3 - n^2 for n = 2..8, so the missing term is 6^3 - 6^2 = 180.
+  - slug: bpsc-66-q142
+    difficulty: medium
+    stem: "यदि ²ⁿC₃ : ⁿC₂ = 44 : 3 हो, तो *n* का मान है"
+    options:
+      A: "1"
+      B: "6"
+      C: "11"
+      D: "4"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: 2nC3 / nC2 = 4(2n-1)/3 = 44/3 gives 2n - 1 = 11, so n = 6.
+  - slug: bpsc-66-q143
+    difficulty: medium
+    stem: यदि *m* संख्याओं का औसत *n*² और *n* संख्याओं का औसत *m*² है, तो *m* + *n* संख्याओं का औसत है
+    options:
+      A: n/m
+      B: m/n
+      C: mn
+      D: m − n
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: Average = (m*n^2 + n*m^2)/(m + n) = mn.
+  - slug: bpsc-66-q144
+    difficulty: medium
+    stem: एक स्कूल में एथलेटिक टीमों के एक समूह में 21 बास्केटबॉल टीम में, 26 हॉकी टीम में और 29 फुटबॉल टीम में हैं। अगर 14 हॉकी और बास्केटबॉल खेलते हैं, 12 फुटबॉल और बास्केटबॉल खेलते हैं, 15 हॉकी और फुटबॉल खेलते हैं, 8 तीनों खेल खेलते हैं, तो कितने केवल फुटबॉल खेलते हैं?
+    options:
+      A: "10"
+      B: "29"
+      C: "21"
+      D: "18"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: Football only = 29 - 12 - 15 + 8 = 10.
+  - slug: bpsc-66-q145
+    difficulty: medium
+    stem: मोहन 25 दिनों में एक काम कर सकता है जिसे सोहन 20 दिनों में पूरा कर सकता है। दोनों एक साथ 5 दिनों के लिए श्रम करते हैं और उसके बाद मोहन काम छोड़ देता है। शेष काम को पूरा करने में सोहन को कितना समय लगेगा?
+    options:
+      A: 20 दिन
+      B: 11 दिन
+      C: 14 दिन
+      D: 21 दिन
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Together for 5 days they do 5(1/25 + 1/20) = 9/20. The remaining 11/20 at Sohan's 1/20 per day takes 11 days.
+  - slug: bpsc-66-q146
+    difficulty: medium
+    stem: एक घड़ी दोपहर 12:00 बजे चलना शुरू करती है। 5:00 बजकर 10 मिनट पर घंटे की सुई घूम जाएगी
+    options:
+      A: 135°
+      B: 145°
+      C: 155°
+      D: 165°
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: C
+    explanation: "The hour hand moves 0.5 degrees per minute: 310 minutes x 0.5 = 155 degrees."
+  - slug: bpsc-66-q147
+    difficulty: medium
+    stem: निम्न में से कौन-सा प्रकृत संख्या का वर्ग **नहीं** हो सकता है?
+    options:
+      A: "26569"
+      B: "143642"
+      C: "30976"
+      D: "28561"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: No perfect square ends in 2, so 143642 cannot be a square.
+  - slug: bpsc-66-q148
+    difficulty: medium
+    stem: |-
+      दिया गया है
+
+      217*x* + 131*y* = 913
+
+      131*x* + 217*y* = 827
+
+      तब *x* तथा *y* हैं क्रमशः
+    options:
+      A: 5 और 7
+      B: 3 और 2
+      C: −5 और −7
+      D: 2 और 5
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: B
+    explanation: Adding gives x + y = 5 and subtracting gives x - y = 1, so x = 3, y = 2.
+  - slug: bpsc-66-q149
+    difficulty: medium
+    stem: ((598 + 479)² − (598 − 479)²) / (598 × 479) = ?
+    options:
+      A: "4"
+      B: "10"
+      C: "132"
+      D: "8"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: (a+b)^2 - (a-b)^2 = 4ab, so the expression equals 4.
+  - slug: bpsc-66-q150
+    difficulty: medium
+    stem: एक शहर की जनसंख्या 176400 है। यदि यह 5% की दर से सालाना बढ़ती है, तो दो साल बाद इसकी जनसंख्या होगी
+    options:
+      A: "194481"
+      B: "296841"
+      C: "394481"
+      D: "396841"
+      E: उपर्युक्त में से कोई नहीं/उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: 176400 x 1.05^2 = 194481.

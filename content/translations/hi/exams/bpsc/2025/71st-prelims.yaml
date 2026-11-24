@@ -1,0 +1,1585 @@
+slug: 71st-prelims
+title: बीपीएससी 71वीं प्रारंभिक परीक्षा
+date: 2025-09-13
+label: Series E
+source: "BPSC official question booklet and final answer key (bpsc.bihar.gov.in). Deleted by BPSC (left out): Q11, Q69, Q75, Q96, Q118."
+questions:
+  - slug: bpsc-71-q001
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में, नीचे दिए हुए चार शब्दों में तीन में एक प्रकार की समानता है तथा चौथा भिन्न है। भिन्न शब्द को ज्ञात करें।
+    options:
+      A: सुक्ष्मदर्शी यन्त्र
+      B: दूरबीन
+      C: स्टैथोस्कोप (परिश्रावक)
+      D: परिदर्शी यंत्र
+    answer: C
+    explanation: Microscope, telescope and periscope are optical instruments for seeing; a stethoscope is for listening.
+  - slug: bpsc-71-q002
+    difficulty: medium
+    stem: SPRING को कोड में UNUFRC लिखा जाता है। उसी कोड भाषा में MOBILE शब्द को कैसे लिखेंगे?
+    options:
+      A: OMEFPA
+      B: OMPGNC
+      C: MPQSUL
+      D: SEGRFT
+    answer: A
+    explanation: "Letter shifts are +2, −2, +3, −3, +4, −4 (S→U, P→N, R→U, I→F, N→R, G→C). Applied to MOBILE: M→O, O→M, B→E, I→F, L→P, E→A = OMEFPA."
+  - slug: bpsc-71-q003
+    difficulty: medium
+    stem: मुकेश ने अपने मित्र से कहा, “रीता मेरे पुत्र की पत्नी की बेटी की माँ है।” मुकेश का रीता के साथ क्या रिश्ता है?
+    options:
+      A: पिता
+      B: दामाद
+      C: बेटा
+      D: ससुर
+    answer: D
+    explanation: Mukesh’s son’s wife’s daughter is his granddaughter; her mother Rita is his son’s wife (daughter-in-law), so Mukesh is her father-in-law.
+  - slug: bpsc-71-q004
+    difficulty: medium
+    stem: राम उत्तर दिशा में जाता है, फिर दाएं मुड़ता है, फिर दुबारा दाएं चलता है और अन्त में बाएं जाता है। अब राम किस दिशा में है?
+    options:
+      A: पूर्व
+      B: दक्षिण
+      C: उत्तर
+      D: पश्चिम
+    answer: A
+    explanation: North → right = East → right = South → left = East.
+  - slug: bpsc-71-q005
+    difficulty: medium
+    stem: अंग्रेजी वर्णमाला क्रम में लिखते हुए, निम्नलिखित में से कौन सा नाम सबसे अंत में आएगा?
+    options:
+      A: Mahinder
+      B: Mohinder
+      C: Mohender
+      D: Mahendra
+    answer: B
+    explanation: "Alphabetical order: Mahendra, Mahinder, Mohender, Mohinder; Mohinder comes last."
+  - slug: bpsc-71-q006
+    difficulty: medium
+    stem: 39 विद्यार्थियों की कक्षा में नितिन जोगिन्द्र से 7 रैंक (श्रेणी) आगे है। यदि जोगिन्द्र का रैंक अंतिम से 17 वाँ है तो नितिन का रैंक आरम्भ से कितना है?
+    options:
+      A: 17 वाँ
+      B: 15 वाँ
+      C: 18 वाँ
+      D: 16 वाँ
+    answer: D
+    explanation: Joginder is 17th from the last in 39, i.e. 39 − 17 + 1 = 23rd from the start; Nitin, 7 ranks ahead, is 16th.
+  - slug: bpsc-71-q007
+    difficulty: medium
+    stem: "यदि + का अर्थ ×, × का अर्थ −, ÷ का अर्थ + तथा − का अर्थ ÷, तब 175 − 25 ÷ 5 + 20 × 3 + 10 के समान है:"
+    options:
+      A: "77"
+      B: "87"
+      C: "140"
+      D: "70"
+    answer: A
+    explanation: "After substitution: 175 ÷ 25 + 5 × 20 − 3 × 10 = 7 + 100 − 30 = 77."
+  - slug: bpsc-71-q008
+    difficulty: medium
+    stem: राहुल की आयु सीमा से 3 गुणा अधिक है। चार वर्ष पूर्व लक्ष्मी की आयु राहुल से दुगणी थी। अगले चार वर्षों में राहुल 31 वर्ष का हो जाएगा। सीमा तथा लक्ष्मी की वर्तमान आयु क्या हैं?
+    options:
+      A: 10, 50
+      B: 9, 52
+      C: 9, 45
+      D: 9, 50
+    answer: D
+    explanation: Rahul is 31 − 4 = 27, so Seema is 9. Four years ago Laxmi was 2 × 23 = 46, so she is 50 now.
+  - slug: bpsc-71-q009
+    difficulty: medium
+    stem: |-
+      निम्नलिखित विकल्पों से लुप्त संख्या ज्ञात करें।
+
+      | 28 | 20 | 7 |
+      |---|---|---|
+      | 84 | ? | 12 |
+      | 45 | 25 | 9 |
+
+      *(चित्र: A 3×3 grid of numbers (rows: 28 20 7 / 84 ? 12 / 45 25 9), reproduced as a table.)*
+    options:
+      A: "30"
+      B: "35"
+      C: "20"
+      D: "25"
+    answer: B
+    explanation: "In each row (first ÷ third) × 5 = middle: 28/7 × 5 = 20, 45/9 × 5 = 25, so 84/12 × 5 = 35."
+  - slug: bpsc-71-q010
+    difficulty: medium
+    stem: RAIN को कोड में 8\$%6 लिखा जाता है तथा MORE को 7#8@ दर्शाया जाता है। उसी कोड भाषा में REMAIN को कैसे दर्शाया जाएगा?
+    options:
+      A: "@\\$86%7"
+      B: "%7@%6#"
+      C: 86@\$#7
+      D: 8@7\$%6
+    answer: D
+    explanation: From the codes R=8, A=\$, I=%, N=6, M=7, E=@, so REMAIN = 8@7\$%6.
+  - slug: bpsc-71-q012
+    difficulty: medium
+    stem: कोसी–मेची लिंक परियोजना से बिहार के कौन–कौन से जिलों को लाभ होगा?
+    options:
+      A: पटना, नालंदा, गया, सिवान
+      B: दरभंगा, मुजफ्फरपुर, सीतामढ़ी, बेगूसराय
+      C: अररिया, पूर्णिया, किशनगंज, कटिहार
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: "The Kosi–Mechi intra-state link irrigates the Mahananda basin in north-east Bihar: Araria, Purnea, Kishanganj and Katihar."
+  - slug: bpsc-71-q013
+    difficulty: medium
+    stem: किन भारतीय भाषाओं को शास्त्रीय भाषा का दर्जा प्राप्त है?
+    options:
+      A: तेलुगु
+      B: मराठी
+      C: बंगाली
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: Telugu became a classical language in 2008; Marathi and Bengali were added in October 2024, so all three apply.
+  - slug: bpsc-71-q014
+    difficulty: medium
+    stem: नागी पक्षी अभयारण्य स्थल को महत्वपूर्ण पक्षी और जैव विविधता क्षेत्र (IBA) के रूप में किस संगठन ने मान्यता दी?
+    options:
+      A: यूनेस्को
+      B: वर्ल्ड वाइल्डलाइफ फंड
+      C: बर्ड लाइफ इंटरनेशनल
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: BirdLife International (through its partner BNHS) recognised Nagi Dam bird sanctuary in Jamui as an IBA.
+  - slug: bpsc-71-q015
+    difficulty: medium
+    stem: राष्ट्रीय पंचायती राज दिवस 2025 का आयोजन कहाँ किया गया था?
+    options:
+      A: पटना
+      B: मधुबनी
+      C: गया
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: The national event on 24 April 2025 was held at Jhanjharpur in Madhubani, Bihar, addressed by the Prime Minister.
+  - slug: bpsc-71-q017
+    difficulty: medium
+    stem: अफ्रीकानर्स से अभिप्राय किन लोगों से है?
+    options:
+      A: अमेरिका में इंडो–अफ्रीकी मूल के लोग
+      B: अफ्रीका में आदिवासी समुदाय
+      C: दक्षिण अफ्रीका में श्वेत अल्पसंख्यक समूह
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: Afrikaners are the white, Afrikaans-speaking minority of mainly Dutch descent in South Africa.
+  - slug: bpsc-71-q018
+    difficulty: medium
+    stem: उस 16 वीं सदी की बावड़ी का नाम क्या है, जिसे भारतीय पुरातत्व सर्वेक्षण ने हाल ही में वर्ल्ड मॉन्युमेंट्स फंड इंडिया के सहयोग से संरक्षित किया है?
+    options:
+      A: अग्रसेन की बावली
+      B: राजों की बावली
+      C: चौकी बावड़ी
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: ASI and World Monuments Fund India restored the 16th-century Rajon ki Baoli in Mehrauli, Delhi (2025).
+  - slug: bpsc-71-q019
+    difficulty: medium
+    stem: न्यूयॉर्क सिटी के मेयर का नाम क्या है जिन्होंने 14 अप्रैल, 2025 को डॉ. बी. आर. अंबेडकर दिवस घोषित किया?
+    options:
+      A: बिल डी ब्लासियो
+      B: एरिक एडम्स
+      C: सादिक खान
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: New York City Mayor Eric Adams proclaimed 14 April 2025 as Dr. B. R. Ambedkar Day.
+  - slug: bpsc-71-q020
+    difficulty: medium
+    stem: यूरोविज़न सॉन्ग कॉन्टेस्ट का स्थायी नारा क्या है?
+    options:
+      A: म्यूजिक यूनाइट्स अस
+      B: टुगेदर इन सॉन्ग
+      C: यूनाइटेड बाई म्यूजिक
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: “United By Music” was adopted as the permanent slogan of the Eurovision Song Contest from 2024.
+  - slug: bpsc-71-q021
+    difficulty: medium
+    stem: इसरो के GSLV-F15 मिशन के बारे में क्या सत्य है?
+    options:
+      A: इससे NVS-02 उपग्रह को ले जाया गया
+      B: यह श्रीहरिकोटा से इसरो का 101 वां प्रक्षेपण था
+      C: यह श्रीहरिकोटा से इसरो का 100 वां प्रक्षेपण था
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: GSLV-F15 (29 January 2025) carried NVS-02 and was ISRO’s 100th launch from Sriharikota, so A and C are both true.
+  - slug: bpsc-71-q022
+    difficulty: medium
+    stem: G20 के 18 वें शिखर सम्मेलन के बारे में क्या सत्य है?
+    options:
+      A: यह रियो डी जनेरियो में आयोजित हुआ
+      B: "इसका विषय था : “बिल्डिंग अ जस्ट वर्ल्ड एंड अ सस्टेनेबल प्लेनेट”"
+      C: रियो डी जनेरियो घोषणा पत्र में अरबपतियों पर कर लगाने पर जोर दिया गया
+      D: उपरोक्त में से कोई नही
+    answer: D
+    explanation: The 18th G20 Summit was in New Delhi (2023). Rio de Janeiro, the “Just World and Sustainable Planet” theme and the billionaire-tax language belong to the 19th summit (2024), so none of A–C fits.
+  - slug: bpsc-71-q023
+    difficulty: medium
+    stem: 2024 में बाकू में आयोजित संयुक्त राष्ट्र जलवायु सम्मेलन में किस समझौते पर सहमति बनी?
+    options:
+      A: 2030 तक वैश्विक स्तर पर जीवाश्म ईंधन पर प्रतिबंध का लक्ष्य
+      B: विकसित देशों से 2030 तक प्रति वर्ष कम से कम 500 बिलियन डॉलर देने की अपील
+      C: विकसित देशों से 2035 तक प्रति वर्ष कम से कम 300 बिलियन डॉलर देने की अपील
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: COP29 in Baku set a new goal of at least USD 300 billion a year from developed to developing countries by 2035.
+  - slug: bpsc-71-q024
+    difficulty: medium
+    stem: 2024 में साहित्य का नोबेल पुरस्कार प्राप्त करने वाली हान कांग के उपन्यास ‘द वेजिटेरियन’ को कौन–सा अन्य प्रतिष्ठित पुरस्कार प्राप्त हुआ था?
+    options:
+      A: पुलित्जर पुरस्कार
+      B: पेन अमेरिका लिटरेरी अवार्ड्स
+      C: इंटरनेशनल बुकर पुरस्कार
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: The Vegetarian (tr. Deborah Smith) won the International Booker Prize in 2016.
+  - slug: bpsc-71-q025
+    difficulty: medium
+    stem: निम्नलिखित में से नेपाल के किस ग्लेशियर को मई 2025 में ‘मृत’ घोषित किया गया?
+    options:
+      A: खुम्बु ग्लेशियर
+      B: याला ग्लेशियर
+      C: इम्जा ग्लेशियर
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Nepal’s Yala Glacier (Langtang) was declared “dead” at a memorial ceremony in May 2025.
+  - slug: bpsc-71-q026
+    difficulty: medium
+    stem: यूएनडीपी के मानव विकास सूचकांक (HDI) रिपोर्ट 2025 के अनुसार, भारत में जीवन प्रत्याशा 1990 में 58.6 वर्ष थी। यह 2023 में कितनी हो गई?
+    options:
+      A: 72 वर्ष
+      B: 73 वर्ष
+      C: 74 वर्ष
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: HDR 2025 gives India’s life expectancy as about 72 years in 2023 (up from 58.6 in 1990).
+  - slug: bpsc-71-q027
+    difficulty: medium
+    stem: फरवरी 2025 में एआई एक्शन समिट किस शहर में आयोजित हुआ था?
+    options:
+      A: बेंगलुरू
+      B: पेरिस
+      C: रोम
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: The AI Action Summit was held in Paris on 10–11 February 2025, co-chaired by France and India.
+  - slug: bpsc-71-q028
+    difficulty: medium
+    stem: 96 वें अकादमी पुरस्कार (2024) में, एम्मा स्टोन को किस फिल्म में मुख्य भूमिका के लिए ऑस्कर मिला?
+    options:
+      A: ला ला लैंड
+      B: पुअर थिंग्स
+      C: द फेवरेट
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Emma Stone won Best Actress at the 96th Oscars for Poor Things.
+  - slug: bpsc-71-q029
+    difficulty: medium
+    stem: किस गुजराती फिल्म ने 70 वें राष्ट्रीय फिल्म पुरस्कार में राष्ट्रीय, सामाजिक और पर्यावरणीय मूल्यों को बढ़ावा देने के लिए सर्वश्रेष्ठ फीचर फिल्म का पुरस्कार जीता?
+    options:
+      A: हेल्लारो
+      B: छेल्लो शो
+      C: कच्छ एक्सप्रेस
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: Kutch Express won the 70th National Film Award for Best Feature Film Promoting National, Social and Environmental Values.
+  - slug: bpsc-71-q030
+    difficulty: medium
+    stem: निम्नलिखित में से किस व्यक्ति या संगठन को 2024 का रेमन मैग्सेसे पुरस्कार प्राप्त हुआ?
+    options:
+      A: फुंत्शो, कर्मा
+      B: रुरल डॉक्टर्स मूवमेंट
+      C: मियाज़ाकी हायाओ
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: The 2024 Magsaysay awardees included Karma Phuntsho, Rural Doctors Movement (Thailand) and Miyazaki Hayao, so all three options are recipients.
+  - slug: bpsc-71-q031
+    difficulty: medium
+    stem: आकाशतीर के बारे में निम्न में से कौन–से कथन सही हैं?
+    options:
+      A: आकाशतीर भारतीय सेना की एयर डिफेंस प्रणाली का मूल है।
+      B: यह भारत की व्यापक C4ISR प्रणाली को सहजता से एकीकृत करता है।
+      C: यह निष्क्रिय रक्षा से सक्रिय प्रतिकार के रणनीतिक बदलाव को दर्शाता है।
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: Akashteer is the Army’s automated air-defence control and reporting system, integrated with the wider C4ISR network and credited with a proactive posture (Operation Sindoor), so all three statements hold.
+  - slug: bpsc-71-q032
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–से रक्षा प्लेटफॉर्म ‘मेक इन इंडिया’ पहल के तहत भारत की स्वदेशी सैन्य प्रणाली का हिस्सा हैं?
+    options:
+      A: F-35 लाइटनिंग II
+      B: मुख्य युद्धक टैंक (MBT) अर्जुन
+      C: उन्नत टोव्ड आर्टिलरी गन सिस्टम (ATAGS)
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: MBT Arjun and ATAGS are indigenous Make in India platforms; the F-35 is an American aircraft, so B and C apply.
+  - slug: bpsc-71-q033
+    difficulty: medium
+    stem: कौन–सा दिन होलोकॉस्ट मेमोरियल डे के रूप में जाना जाता है?
+    options:
+      A: 15 जनवरी
+      B: 27 जनवरी
+      C: 10 फरवरी
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: International Holocaust Remembrance Day is 27 January, the anniversary of the liberation of Auschwitz.
+  - slug: bpsc-71-q034
+    difficulty: medium
+    stem: बानू मुश्ताक की किस पुस्तक को 2025 का अंतर्राष्ट्रीय बुकर पुरस्कार मिला?
+    options:
+      A: लाइट ऑफ द हार्ट
+      B: हार्ट लैम्प
+      C: सोल लैन्टन्
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Banu Mushtaq’s Heart Lamp (tr. Deepa Bhasthi) won the 2025 International Booker Prize.
+  - slug: bpsc-71-q035
+    difficulty: medium
+    stem: सिंधु जल संधि के अनुसार, तीन पूर्वी नदियाँ भारत को आवंटित की गई हैं। निम्नलिखित में से कौन–सी उनमें शामिल नहीं है?
+    options:
+      A: झेलम
+      B: रावी
+      C: सतलुज
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: The eastern rivers given to India are Ravi, Beas and Sutlej; Jhelum is a western river.
+  - slug: bpsc-71-q036
+    difficulty: medium
+    stem: |-
+      UNDP द्वारा विकसित क्षमता गरीबी माप (CPM) के बारे में निम्नलिखित में से कौन–सा/से कथन सही है/हैं?
+
+      1. सी. पी. एम. में स्वास्थ्य और पोषण की कमी के प्रतिनिधि के रूप में बाल कुपोषण को शामिल किया गया है।
+      2. शिक्षा और ज्ञान में अभाव को दर्शाने के लिए महिला निरक्षरता को शामिल किया गया है।
+      3. यह पुरुष निरक्षरता को क्षमता गरीबी का एक प्रमुख संकेतक मानता है।
+      4. इसमें क्षमता गरीबी के एक महत्वपूर्ण संकेतक के रूप में स्वच्छ पेयजल तक पहुंच की कमी शामिल है।
+
+      नीचे दिए गए कोड का उपयोग करके सही उत्तर चुनें :
+    options:
+      A: 1 और 2
+      B: 1, 2 और 3
+      C: केवल 1
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: UNDP’s CPM (HDR 1996) uses underweight children under five, births unattended by trained personnel and female illiteracy; male illiteracy and drinking water are not in it, so 1 and 2.
+  - slug: bpsc-71-q037
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सी वस्तु/वस्तुएं अप्रैल–सितंबर 2024-25 के दौरान भारत के निर्यात की शीर्ष दस प्रमुख वस्तुओं में से नहीं है?
+    options:
+      A: पेट्रोलियम उत्पाद
+      B: लोहा और इस्पात
+      C: बासमती चावल
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: Basmati rice is not a separate entry among the top ten principal export commodities for April–September 2024-25; petroleum products and iron and steel are.
+  - slug: bpsc-71-q038
+    difficulty: medium
+    stem: "भारत वन स्थिति रिपोर्ट 2023 (ISFR 2023) के अनुसार:"
+    options:
+      A: देश का कुल वन और वृक्ष आवरण देश के भौगोलिक क्षेत्र का 15% है।
+      B: सबसे बड़े दर्ज वन क्षेत्र (आरएफए) वाले शीर्ष तीन राज्य झारखंड, अंडमान और निकोबार और मणिपुर हैं।
+      C: सबसे अधिक वृक्षावरण महाराष्ट्र राज्य में पाया गया है और उसके बाद राजस्थान और उत्तर प्रदेश का स्थान है।
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: ISFR 2023 puts forest and tree cover at about 25% (not 15%), and the largest RFA states are not those listed; it reports maximum tree cover in Maharashtra, then Rajasthan and Uttar Pradesh.
+  - slug: bpsc-71-q039
+    difficulty: medium
+    stem: 2023 में वैश्विक सेवाओं के निर्यात में निम्नलिखित में से किस देश की भारत से अधिक हिस्सेदारी थी?
+    options:
+      A: रूस
+      B: आयरलैंड
+      C: इंडोनेशिया
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Ireland’s share of world services exports (about 5%) exceeded India’s (about 4.3–4.6%) in 2023; Russia and Indonesia were far smaller.
+  - slug: bpsc-71-q040
+    difficulty: medium
+    stem: स्वास्थ्य और परिवार कल्याण मंत्रालय के U-WIN पोर्टल के बारे में निम्नलिखित में से कौन–सा/से कथन **सही नहीं** है/हैं?
+    options:
+      A: यह क्यूआर (QR)-आधारित ई–टीकाकरण प्रमाणपत्र प्रदान करता है।
+      B: यह माता–पिता और बच्चों के लिए आयुष्मान भारत स्वास्थ्य खातों (ABHA) के निर्माण की सुविधा प्रदान करता है।
+      C: पोर्टल 11 क्षेत्रीय भाषाओं में उपलब्ध है।
+      D: उपरोक्त में से कोई नहीं
+    answer: D
+    explanation: U-WIN gives QR-based e-vaccination certificates, creates ABHA IDs and is available in 11 regional languages, so none of the statements is incorrect.
+  - slug: bpsc-71-q041
+    difficulty: medium
+    stem: किस संगठन ने संयुक्त रूप से आवास और शहरी मामलों के मंत्रालय (MoHUA) के साथ राष्ट्रीय शहरी नवाचार स्टैक (NUIS) डिजिटल ब्लूप्रिंट विकसित किया है?
+    options:
+      A: इलेक्ट्रॉनिक्स और आईटी मंत्रालय
+      B: राष्ट्रीय शहरी मामले संस्थान (एनआईयूए)
+      C: नीति आयोग
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: The NUIS digital blueprint was developed by MoHUA together with the National Institute of Urban Affairs (NIUA).
+  - slug: bpsc-71-q042
+    difficulty: medium
+    stem: 31 अक्टूबर 2024 तक भारतमाला परियोजना के तहत किस राज्य में सबसे अधिक निर्मित सड़क की लंबाई थी?
+    options:
+      A: राजस्थान
+      B: उत्तर प्रदेश
+      C: महाराष्ट्र
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: Ministry data (Lok Sabha reply, December 2024) on Bharatmala progress to 31 October 2024 shows Rajasthan with the most constructed length.
+  - slug: bpsc-71-q043
+    difficulty: medium
+    stem: किसान ऋण पोर्टल (केआरपी) के शुभारंभ से पहले, किसान ब्याज अनुदान और शीघ्र पुनर्भुगतान प्रोत्साहन योजनाओं के तहत मैन्युअल दावे निम्नलिखित में से किस संस्थान को प्रस्तुत करते थे?
+    options:
+      A: कृषि और किसान कल्याण मंत्रालय और नाबार्ड
+      B: भारतीय रिजर्व बैंक और नाबार्ड
+      C: भारतीय राष्ट्रीय भुगतान निगम और भारतीय रिजर्व बैंक
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: Before KRP, lending institutions filed manual interest-subvention and prompt-repayment claims with the RBI (for public and private banks) and NABARD (for RRBs and co-operative banks).
+  - slug: bpsc-71-q044
+    difficulty: medium
+    stem: "भारत का विदेशी मुद्रा भंडार :"
+    options:
+      A: दिसंबर 2024 के अंत तक बढ़कर लगभग 640 बिलियन अमरिकी डॉलर हो गया
+      B: दुनिया में सातवें सबसे बड़े हैं
+      C: 2024 में लगभग 24 बिलियन अमरिकी डॉलर के BoP घाटे के कारण कमी आई
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: "Economic Survey 2024-25: reserves were about USD 640 billion at end-December 2024, the fourth largest in the world (so B is wrong)."
+  - slug: bpsc-71-q045
+    difficulty: medium
+    stem: NFHS-5 के आंकड़ों के अनुसार, निम्नलिखित में से किस राज्य ने 2019-20 में 6% से कम आबादी को बहुआयामी रूप से गरीब के रूप में दर्ज किया?
+    options:
+      A: जम्मू और कश्मीर
+      B: हिमाचल प्रदेश
+      C: उत्तर प्रदेश
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: NITI Aayog’s National MPI from NFHS-5 puts Himachal Pradesh at about 4.9% poor, UP at about 23%. The final key counts only states, and J&K had become a UT in October 2019, so only Himachal Pradesh qualifies.
+  - slug: bpsc-71-q046
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II के साथ सुमेलित कीजिए।
+
+      | सूची–I | सूची–II |
+      |---|---|
+      | a) प्रदर्शन, उपलब्धि और व्यापार (पीएटी) योजना | 1) 2023-24 के केंद्रीय बजट में पेश किया गया |
+      | b) तटरेखा आवास और मूर्त आय के लिए मैंग्रोव पहल (MISHTI) | 2) ऊर्जा–गहन उद्योगों में उत्सर्जन को कम करने का लक्ष्य |
+      | c) पर्यावरण के लिए जीवन शैली (LiFE) पहल | 3) राष्ट्रीय स्तर की रणनीति के रूप में 2019 में लॉन्च किया गया |
+      | d) राष्ट्रीय स्वच्छ वायु कार्यक्रम (NCAP) | 4) नवंबर 2021 में ग्लासगो में COP26 में लॉन्च किया गया |
+    options:
+      A: a-1, b-3, c-2, d-4
+      B: a-3, b-4, c-1, d-2
+      C: a-2, b-1, c-4, d-3
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: PAT targets energy-intensive industries; MISHTI was announced in Budget 2023-24; LiFE was launched at COP26, Glasgow (2021); NCAP was launched in 2019.
+  - slug: bpsc-71-q047
+    difficulty: medium
+    stem: "वार्षिक पीएलएफएस 2023-24 रिपोर्ट के अनुसार :"
+    options:
+      A: वर्ष 2021-22 के बाद से शहरी महिलाओं की तुलना में ग्रामीण महिलाओं के श्रम बल भागीदारी दर (LFPR) में अधिक वृद्धि हुई है।
+      B: 36 राज्यों और केंद्र शासित प्रदेशों में से 90 फीसदी राज्यों में कार्यबल भागीदारी दर (WPR) (सभी उम्र के लिए) राष्ट्रीय औसत 43.7 फीसदी से नीचे है।
+      C: कृषि में महिला श्रमिकों की हिस्सेदारी 2017-18 से 2023-24 तक काफी कम हो गई है।
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: "PLFS 2023-24: rural female LFPR (about 35.5%) rose far more than urban female LFPR (about 22–25%) since 2021-22. The share of women working in agriculture rose, not fell, and B is false."
+  - slug: bpsc-71-q048
+    difficulty: medium
+    stem: निम्नलिखित में से क्या विज्ञान, प्रौद्योगिकी और नवाचार नीति 2020 का परिणाम **नहीं** था?
+    options:
+      A: एक राष्ट्र, एक सदस्यता
+      B: अनुसंधान और नवाचार उत्कृष्टता फ्रेमवर्क (आरआईईएफ)
+      C: अटल इनोवेशन मिशन
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: The Atal Innovation Mission was set up by NITI Aayog in 2016, before STIP 2020; One Nation One Subscription and RIEF come from STIP 2020.
+  - slug: bpsc-71-q049
+    difficulty: medium
+    stem: देश के सकल मूल्य वर्धित (GVA) में सूक्ष्म, लघु और मध्यम उद्यमों की हिस्सेदारी 2020-21 में ........ से बढ़कर 2022-23 में ........ हो गई है।
+    options:
+      A: 30.3%, 35.6%
+      B: 27.3%, 30.1%
+      C: 35.1%, 38.2%
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: "Economic Survey 2024-25: the MSME share of GVA rose from 27.3% in 2020-21 to 30.1% in 2022-23."
+  - slug: bpsc-71-q050
+    difficulty: medium
+    stem: |-
+      भारतीय सीमेंट उद्योग के संबंध में निम्नलिखित में से कौन सा कथन सही है/हैं?
+
+      1. भारत का लगभग 87% सीमेंट उद्योग राजस्थान, आंध्र प्रदेश और मध्य प्रदेश जैसे कुछ प्रमुख राज्यों में केंद्रित है।
+      2. भारत दुनिया में सीमेंट का सबसे बड़ा उत्पादक है।
+      3. भारत में अधिकांश सीमेंट संयंत्र कच्चे माल के स्त्रोतों से दूर और निर्यात का समर्थन करने के लिए बंदरगाहों के पास स्थित हैं।
+
+      नीचे दिए गए कोड का उपयोग करके सही उत्तर चुनें :
+    options:
+      A: "1"
+      B: "2"
+      C: 1 और 3
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: Cement capacity is concentrated in a few states (Economic Survey 2024-25). India is the second-largest producer after China, and plants sit near limestone sources, so only 1 is correct.
+  - slug: bpsc-71-q051
+    difficulty: medium
+    stem: बिहार के मिशन दक्ष का प्राथमिक उद्देश्य क्या है?
+    options:
+      A: ग्रामीण क्षेत्रों में प्राथमिक विद्यालयों में स्कूल नामांकन बढ़ाना।
+      B: वरिष्ठ–माध्यमिक स्तर पर शिक्षकों को व्यावसायिक प्रशिक्षण प्रदान करना।
+      C: ग्रेड–स्तरीय दक्षताओं तक पहुंचने के लिए पिछड़ने वाले छात्रों के लिए व्यक्तिगत सलाह प्रदान करना।
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: Mission Daksh (Bihar, 2023) gives remedial mentoring to academically weak students of classes 3–8 to bring them to grade-level competency.
+  - slug: bpsc-71-q052
+    difficulty: medium
+    stem: बिहार स्टार्टअप नीति 2022 के YUVA ढांचे के तहत निम्नलिखित में से कौन–सा/से घटक नहीं है/हैं?
+    options:
+      A: शिक्षा प्रणाली में जीवंतता
+      B: समर्थन के लिए नियामक समर्थक
+      C: अंतर्राष्ट्रीय बाजार विस्तार योजनाएं
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: The YUVA framework in the Bihar Startup Policy 2022 covers education-system vibrancy, regulatory enablers and similar supports; it has no international market expansion scheme.
+  - slug: bpsc-71-q053
+    difficulty: medium
+    stem: 2023-24 में बिहार के आर्थिक प्रदर्शन के बारे में निम्नलिखित में से कौन–सा/से कथन सही है/हैं?
+    options:
+      A: मौजूदा कीमतों पर बिहार की प्रति व्यक्ति जीएसडीपी पिछले वर्ष की तुलना में 2023-24 में 12.8% बढ़ी
+      B: 2023-24 में बिहार के जीएसवीए (स्थिर मूल्य) में तृतीयक क्षेत्र की अनुमानित हिस्सेदारी 58.6% थी
+      C: सकल स्थायी पूंजी निर्माण (जीएफसीएफ) 2023-24 में वर्तमान मूल्यों पर जीएसडीपी का 4.6% था।
+      D: उपरोक्त में से एक से अधिक
+    answer: D
+    explanation: The Bihar Economic Survey 2024-25 figures for 2023-24 (12.8% per-capita GSDP growth, tertiary sector share and GFCF share) match more than one of the statements, so the key gives D.
+  - slug: bpsc-71-q054
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए।
+
+      1. बिहार में युवा जनसंख्या (0-19 वर्ष) के अनुपात में 2041 तक काफी गिरावट का अनुमान है।
+      2. बिहार का जनसांख्यिकीय लाभांश 2041 के आसपास चरम पर होने की उम्मीद है।
+      3. बिहार में बुजुर्ग आबादी (60+ वर्ष) भारत की तुलना में अधिक तेजी से बढ़ने की उम्मीद है।
+
+      नीचे दिए गए कोड का उपयोग करके सही उत्तर चुनें :
+    options:
+      A: 1 और 2 सही हैं
+      B: 1 और 3 सही हैं
+      C: 2 और 3 सही हैं
+      D: उपरोक्त में से एक से अधिक
+    answer: A
+    explanation: "Bihar Economic Survey 2024-25 projections: the young population falls sharply and the demographic dividend peaks around 2041. Bihar’s elderly share rises less (about 11.6%) than India’s (about 16%), so 3 is wrong."
+  - slug: bpsc-71-q055
+    difficulty: medium
+    stem: पीएलएफएस 2023-24 के अनुसार, निम्नलिखित में से कौन–सा कथन बिहार में महिलाओं के बीच रोजगार की प्रकृति का सबसे अच्छा वर्णन करता है?
+    options:
+      A: ज्यादातर महिलाएं औपचारिक, नियमित वेतन वाली नौकरियों में कार्यरत हैं।
+      B: अधिकांश महिलाएं स्व–नियोजित हैं, जो अक्सर घरेलू उद्यमों में सहायक के रूप में काम करती हैं।
+      C: अधिकांश महिलाएं द्वितीयक क्षेत्र में कार्यरत थीं
+      D: उपरोक्त में से एक से अधिक
+    answer: B
+    explanation: "PLFS 2023-24: most women workers in Bihar are self-employed, largely as unpaid helpers in household enterprises, mainly in agriculture."
+  - slug: bpsc-71-q056
+    difficulty: medium
+    stem: "लोकसभा के सचिवालय स्टाफ की नियुक्ति की शक्ति निहित है :"
+    options:
+      A: प्रधानमंत्री कार्यालय में
+      B: संघ लोक सेवा आयोग में
+      C: कर्मचारी चयन आयोग में
+      D: लोकसभा अध्यक्ष से परामर्श उपरान्त राष्ट्रपति में
+    answer: D
+    explanation: Under Art. 98(3), until Parliament legislates, the President may, after consulting the Speaker, make rules on recruitment of the Lok Sabha secretariat staff.
+  - slug: bpsc-71-q057
+    difficulty: medium
+    stem: "भारत का महान्यायवादी :"
+    options:
+      A: सर्वोच्च न्यायालय के अतिरिक्त सुनवाई हेतु अर्ह नही है।
+      B: राष्ट्रपति को विधिक मामलों में परामर्श देता है।
+      C: संसद के सदन की प्रक्रिया में भाग नहीं ले सकता है।
+      D: सरकार का पूर्ण कालिक सलाहकार है।
+    answer: B
+    explanation: The Attorney General advises the Government of India on legal matters referred by the President (Art. 76). He has audience in all courts, can take part in Parliament’s proceedings, and is not a full-time government counsel.
+  - slug: bpsc-71-q058
+    difficulty: medium
+    stem: |-
+      भारतीय संविधान के विभिन्न सूचियों के निम्नलिखित विषयों पर विचार कीजिए। निम्नलिखित में से कौन विषय समवर्त्ती सूची में आते है?
+
+      1. वन्यजीवों की सुरक्षा
+      2. कृषि पर आय
+      3. विद्युत उपभोग अथवा विक्री पर कर
+      4. मूल्य नियंत्रण
+
+      इनमें से :
+    options:
+      A: 1 तथा 4 सही है
+      B: 2 तथा 3 सही है
+      C: केवल 4 सही है
+      D: केवल 2 सही है
+    answer: A
+    explanation: Protection of wild animals and birds (17B) and price control (34) are in the Concurrent List; tax on agricultural income and tax on electricity are State List subjects.
+  - slug: bpsc-71-q059
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन–सा नीति निर्देशक तत्त्व गांधीवादी सिद्धांतों के अनुरूप नही है?
+
+      1. ग्राम पंचायतों का गठन
+      2. समान नागरिक संहिता
+      3. ग्रामीण क्षेत्रों में कुटीर उद्योगों की प्रोन्नति
+      4. काम का अधिकार
+    options:
+      A: 1 तथा 2
+      B: केवल 2
+      C: 2 और 4
+      D: 1 और 3
+    answer: C
+    explanation: Village panchayats (Art. 40) and cottage industries (Art. 43) are Gandhian; the Uniform Civil Code (Art. 44) is liberal-intellectual and the right to work (Art. 41) is socialist.
+  - slug: bpsc-71-q061
+    difficulty: medium
+    stem: |-
+      केन्द्रीय सरकार के बारे में निम्न कथनों पर विचार कीजिए।
+
+      1. मंत्रालय तथा विभागों का निर्माण प्रधानमंत्री द्वारा कैबिनेट सचिव के परामर्श से होता है।
+      2. प्रत्येक मंत्री को मंत्रालय राष्ट्रपति द्वारा प्रधानमंत्री के परामर्श पर आवंटित किया जाता है।
+
+      इनमें से :
+    options:
+      A: केवल 1 सही है
+      B: केवल 2 सही है
+      C: 1 और 2 सही है
+      D: न तो 1 सही है और न ही 2 सही है
+    answer: B
+    explanation: Portfolios are allocated by the President on the PM’s advice under the Allocation of Business Rules (Art. 77(3)); ministries are not created by the PM in consultation with the Cabinet Secretary.
+  - slug: bpsc-71-q062
+    difficulty: medium
+    stem: राज्य विधायिका की कार्यवाही के बारे में क्या सत्य है?
+    options:
+      A: विधायिका में कार्य केवल राज्य की सरकारी भाषा में अथवा हिन्दी अथवा अंग्रेजी में निष्पादित किए जाएगें।
+      B: महाधिवक्ता को मत देने का अधिकार है।
+      C: यह किसी उच्च न्यायालय के न्यायाधीश के आचरण पर चर्चा कर सकती है।
+      D: किसी कथित अनियमितता के आधार पर कार्यवाही को वैधता पर प्रश्न किए जा सकते हैं।
+    answer: A
+    explanation: Art. 210 allows business in the state’s official language(s) or Hindi or English. The Advocate General cannot vote (Art. 177), judges’ conduct cannot be discussed (Art. 211), and proceedings cannot be questioned for irregularity (Art. 212).
+  - slug: bpsc-71-q063
+    difficulty: medium
+    stem: |-
+      भारतीय संविधान मौलिक अधिकारों पर औचित्यपूर्ण प्रतिबंध का प्रावधान करता है किन्तु औचित्य को ध्यान में रखना चाहिए कि :
+
+      1. सामान्य जन का हित संरक्षित हो
+      2. विद्यमान सामाजिक मूल्य एवं सामाजिक आवश्यक्ताएं अवरोध न हो।
+      3. राज्य के नीति निर्देशक सिद्धांतों को नजर अंदाज किया जा सकता है।
+      4. सामूहिक हित बृहत्तर नही है।
+
+      इनमें से :
+    options:
+      A: 1 और 2 सही है
+      B: 2 और 3 सही है
+      C: केवल 4 सही है
+      D: केवल 1 सही है
+    answer: A
+    explanation: Reasonableness of a restriction is judged by the public interest and by prevailing social values and needs (State of Madras v. V.G. Row), so 1 and 2.
+  - slug: bpsc-71-q064
+    difficulty: medium
+    stem: निम्नलिखित में से कौन वित्त आयोग के सदस्य के लिए आवश्यक अर्हताओं का निर्धारण करता है?
+    options:
+      A: भारत का राष्ट्रपति
+      B: मंत्रिपरिषद
+      C: संसद विधि द्वारा
+      D: संघीय कैबिनेट
+    answer: C
+    explanation: "Art. 280(2): Parliament may by law fix the qualifications of Finance Commission members (Finance Commission Act, 1951)."
+  - slug: bpsc-71-q065
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए।
+
+      1. सदन को आहूत करने का अर्थ दीक्षांत है।
+      2. स्थगन से सत्रावसान होता है।
+      3. विघटन सदन को समाप्त करता है।
+      4. स्थगन सदन के नेता द्वारा अकेले किया जा सकता है।
+
+      इनमें से कौन–सा सही **नहीं** है?
+    options:
+      A: 2 तथा 3
+      B: 1 तथा 3
+      C: केवल 2
+      D: केवल 4
+    answer: D
+    explanation: Summoning convenes a House, prorogation ends a session and dissolution ends the House. Prorogation is done by the President, not by the Leader of the House, so 4 is untrue.
+  - slug: bpsc-71-q066
+    difficulty: medium
+    stem: पंचायतों की वित्तीय स्थिति की समीक्षा के लिए कौन अधिकृत है?
+    options:
+      A: मुख्यमंत्री
+      B: ब्लॉक समिति का अध्यक्ष
+      C: जिला परिषद का अध्यक्ष
+      D: राज्यपाल द्वारा गठित वित्त आयोग
+    answer: D
+    explanation: "Art. 243-I: the Governor sets up a State Finance Commission every five years to review the finances of Panchayats."
+  - slug: bpsc-71-q067
+    difficulty: medium
+    stem: |-
+      सरकार द्वारा घोषित आत्म निर्भर भारत योजना सहयोग करती है :
+
+      1. भारत की निर्माण क्षमता वृद्धि तथा उद्योगों से निर्यात में
+      2. घरेलू उत्पादन में विदेशी निवेश को प्रोत्साहित करने में
+
+      इनमें से :
+    options:
+      A: 1 सही है
+      B: 2 सही है
+      C: 1 और 2 दोनों सही हैं
+      D: न तो 1 सही है और न ही 2 सही है
+    answer: C
+    explanation: Atmanirbhar Bharat measures (PLI schemes, MSME support) aim to raise manufacturing and exports and to draw investment, including FDI, into domestic production.
+  - slug: bpsc-71-q068
+    difficulty: medium
+    stem: पंचायती राज का क्या मुख्य उद्देश्य है?
+    options:
+      A: कृषि उत्पादन में वृद्धि करना
+      B: रोजगार सृजन
+      C: जनता में राजनीतिक चेतना में वृद्धि करना
+      D: जनता को विकास के प्रशासन में प्रतिभाग करने योग्य बनाना
+    answer: D
+    explanation: Panchayati Raj is meant as democratic decentralisation, so that people take part in local development administration.
+  - slug: bpsc-71-q070
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा विषय उच्च न्यायालय और सर्वोच्च न्यायालय दोनों के अधिकार क्षेत्र में आता है?
+    options:
+      A: केंद्र और राज्य के बीच विवाद
+      B: राज्यों के बीच विवाद
+      C: मौलिक अधिकारों का संरक्षण
+      D: संविधान के उल्लंघन से संरक्षण
+    answer: C
+    explanation: Fundamental rights can be enforced in both the Supreme Court (Art. 32) and the High Courts (Art. 226). Centre–state and inter-state disputes belong only to the Supreme Court (Art. 131).
+  - slug: bpsc-71-q071
+    difficulty: medium
+    stem: कांग्रेस में किस भारतीय नेता ने प्रथम बार उदारवादियों पर ‘सुरक्षित–वाल्व सिद्धांत’ का प्रयोग करने का आक्षेप लगाया गया था?
+    options:
+      A: बिपिन चन्द्र पाल
+      B: लाला लाजपत राय
+      C: बाल गंगाधर तिलक
+      D: दादाभाई नारौजी
+    answer: B
+    explanation: Lala Lajpat Rai (Young India, 1916) used the safety-valve theory, that Hume founded the Congress as a safety valve, to attack the Moderates.
+  - slug: bpsc-71-q072
+    difficulty: medium
+    stem: दिल्ली में उसके राजकीय प्रवेश के अवसर पर किस वायसराय पर एक बम फेंका गया था?
+    options:
+      A: लार्ड कर्जन
+      B: लार्ड मिन्टो
+      C: लार्ड हार्डिंग्ज
+      D: लार्ड वेवल
+    answer: C
+    explanation: A bomb was thrown at Lord Hardinge on 23 December 1912 during his state entry into Delhi (Delhi Conspiracy Case).
+  - slug: bpsc-71-q073
+    difficulty: medium
+    stem: 1911 में कॅलिफोर्निया विश्वविद्यालय में भारतीय दर्शन–शास्त्र के प्रोफेसर बनने का किसे अवसर मिला?
+    options:
+      A: सोहन सिंह भकना
+      B: वीरेन्द्रनाथ चट्टोपाध्याय
+      C: हर दयाल
+      D: श्यामजी कृष्ण वर्मा
+    answer: C
+    explanation: Har Dayal lectured in Indian philosophy and Sanskrit at Stanford/Berkeley, California, in 1911–12 before founding the Ghadar Party.
+  - slug: bpsc-71-q074
+    difficulty: medium
+    stem: एम. ए. ओ. कॉलेज, अलिगढ़ के प्रधानाचार्य का नाम बताईये जिसने 19 वीं सदी के अन्तिम दशकों में मुस्लिम साम्प्रादायिकतावाद को बढ़ावा दिया था?
+    options:
+      A: डनलप स्मिथ
+      B: मिन्टों
+      C: विलियम मौरिस
+      D: थियोडोर बैक
+    answer: D
+    explanation: Theodore Beck, principal of MAO College (1883–99), promoted Muslim separatism and pro-British loyalism.
+  - slug: bpsc-71-q076
+    difficulty: medium
+    stem: किस कमीशन ने सभी राजनीतिक समूहों और दलों के किसी भी भारतीय सदस्य को शामिल नही करने के कारण बेचैनी को बल मिला?
+    options:
+      A: वैलबी कमीशन
+      B: क्रिप्स मिशन
+      C: साईमन कमीशन
+      D: कैबिनेट मिशन
+    answer: C
+    explanation: The all-white Simon Commission (1927) with no Indian member was boycotted by almost all Indian parties.
+  - slug: bpsc-71-q077
+    difficulty: medium
+    stem: किसने आजाद हिन्द फौज का नेतृत्व संभाला और ‘चलो दिल्ली’ की प्रसिद्ध लड़ाई का नारा दिया था?
+    options:
+      A: रास बिहारी बोस
+      B: मोहन सिंह
+      C: शाह नवाज खाँ
+      D: सुभाष चन्द्र बोस
+    answer: D
+    explanation: Subhas Chandra Bose took command of the INA in 1943 and gave the call “Chalo Delhi”.
+  - slug: bpsc-71-q078
+    difficulty: medium
+    stem: “हम या तो भारत को स्वतन्त्र करेंगे या अभियान में मर जायेंगे...” यह किसने कहा?
+    options:
+      A: जवाहरलाल नेहरू
+      B: महात्मा गाँधी
+      C: अबुल कलाम आजाद
+      D: वी. डी. सावरकर
+    answer: B
+    explanation: "Gandhi’s “Do or Die” Quit India speech (8 August 1942): “We shall either free India or die in the attempt.”"
+  - slug: bpsc-71-q079
+    difficulty: medium
+    stem: किसने “बाँटो और छोड़ो” के नारे को बुलन्द किया था?
+    options:
+      A: एम. ए. अंसारी
+      B: एम. ए. जिन्नाह
+      C: जवाहरलाल नेहरू
+      D: मुहम्मद इकबाल
+    answer: B
+    explanation: Jinnah answered the Quit India call with “Divide and Quit”.
+  - slug: bpsc-71-q080
+    difficulty: medium
+    stem: किस अधिनियम ने भारत के विभाजन के लिए दो नये स्वतन्त्र भारत और पाकिस्तान के राज्यों को मूर्तिरूप दिया था?
+    options:
+      A: भारत सरकार अधिनियम, 1919
+      B: भारत सरकार अधिनियम, 1935
+      C: भारतीय स्वतन्त्रता अधिनियम, 1947
+      D: उपरोक्त में से कोई नही
+    answer: C
+    explanation: The Indian Independence Act, 1947 created the two independent dominions of India and Pakistan.
+  - slug: bpsc-71-q081
+    difficulty: medium
+    stem: किस कांग्रेसी नेता ने 1918 में बिहार की यात्रा की ताकि होम रूल लीग की गतिविधियों को बल मिल सके?
+    options:
+      A: बी.जी. तिलक
+      B: ऐनी बेसैन्त
+      C: महात्मा गाँधी
+      D: एम. ए. अन्सारी
+    answer: B
+    explanation: Annie Besant toured Bihar in July 1918 to promote the Home Rule League (the Patna branch was set up in December 1917 under Mazharul Haq).
+  - slug: bpsc-71-q082
+    difficulty: medium
+    stem: चम्पारन कृषि कमेटी की नियुक्ति में किसके बीच समझौता हुआ?
+    options:
+      A: भारतीय सरकार और गाँधीजी
+      B: भारतीय सरकार और राज कुमार शुक्ला
+      C: भारतीय सरकार और राजेन्द्र प्रसाद
+      D: भारतीय सरकार और अनुग्रह नारायण सिंह
+    answer: A
+    explanation: The Government of Bihar and Orissa appointed the Champaran Agrarian Committee (1917) with Gandhi as a member, as agreed with him.
+  - slug: bpsc-71-q083
+    difficulty: medium
+    stem: बिहार में किसान सभा का प्रमुख नेता कौन था?
+    options:
+      A: राज कुमार शुक्ला
+      B: सहजानन्द सरस्वती
+      C: आचार्य नरेन्द्र देव
+      D: बाबा रामचन्द्र
+    answer: B
+    explanation: Swami Sahajanand Saraswati founded and led the Bihar Provincial Kisan Sabha (1929).
+  - slug: bpsc-71-q084
+    difficulty: medium
+    stem: बिक्रम पुलिस थाने के अन्तर्गत राष्ट्रीय ध्वज को फहराते समय किसको मार दिया गया था?
+    options:
+      A: गोराखड़ी के रघुनाथ सिंह
+      B: बिक्रमपुर के राम नारायण
+      C: गोराखड़ी के सत्येन्द्र
+      D: उपरोक्त में से कोई नही
+    answer: D
+    explanation: The final key says the martyr was Rang Nath Sharma alias Raghunath Sharma, a name none of the options gives, so “None of the above” (changed from A in the provisional key).
+  - slug: bpsc-71-q085
+    difficulty: medium
+    stem: मार्च 1939 में बिहार के मुख्यमन्त्री कौन बने?
+    options:
+      A: अनुग्रह नारायण सिंह
+      B: राजेन्द्र प्रसाद
+      C: श्री कृष्ण सिंह
+      D: उपरोक्त में से कोई नही
+    answer: D
+    explanation: Shri Krishna Sinha had been Premier of Bihar since 1937, and no “Chief Minister” post was created in March 1939, so the final key gives “None of the above”.
+  - slug: bpsc-71-q086
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II के साथ सुमेलित कीजिए।
+
+      | सूची–I (प्राचीन भारत के स्थल) | सूची–II (वर्तमान में किस राज्य में) |
+      |---|---|
+      | a) कर्णसुवर्ण | 1) महाराष्ट्र |
+      | b) प्राग्ज्योतिष | 2) गुजरात |
+      | c) गिरनार | 3) पश्चिम बंगाल |
+      | d) प्रतिष्ठान | 4) असम |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए :
+    options:
+      A: a-4, b-3, c-1, d-2
+      B: a-3, b-4, c-2, d-1
+      C: a-3, b-2, c-4, d-1
+      D: a-4, b-2, c-1, d-3
+    answer: B
+    explanation: Karnasuvarna is in West Bengal, Pragjyotisha in Assam, Girnar in Gujarat and Pratishthana (Paithan) in Maharashtra.
+  - slug: bpsc-71-q087
+    difficulty: medium
+    stem: निम्नलिखित में से कौन एक ऋग्वैदिक युग से सम्बन्धित नहीं है?
+    options:
+      A: घोषा
+      B: गार्गी
+      C: अपाला
+      D: विश्ववारा
+    answer: B
+    explanation: Ghosha, Apala and Vishvavara are Rigvedic women seers; Gargi belongs to the later Vedic/Upanishadic period.
+  - slug: bpsc-71-q088
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II के साथ सुमेलित कीजिए।
+
+      | सूची–I (घटना/स्थान) | सूची–II (सम्बन्धित व्यक्ति) |
+      |---|---|
+      | a) चोल गंगम झील | 1) चन्द्रगुप्त मौर्य |
+      | b) धर्म महामात्र की नियुक्ति | 2) हर्षवर्धन |
+      | c) प्रयाग की सभा | 3) राजेन्द्र प्रथम |
+      | d) सुदर्शन झील | 4) अशोक |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए :
+    options:
+      A: a-3, b-4, c-2, d-1
+      B: a-1, b-4, c-2, d-3
+      C: a-3, b-4, c-1, d-2
+      D: a-2, b-3, c-1, d-4
+    answer: A
+    explanation: "Chola Gangam lake: Rajendra I; Dharma Mahamatras: Ashoka; Prayag assembly: Harshavardhana; Sudarshan lake: Chandragupta Maurya."
+  - slug: bpsc-71-q089
+    difficulty: medium
+    stem: निम्नलिखित शासकों में से किसने सबसे अधिक समय तक शासन किया?
+    options:
+      A: अलाउद्दीन खिलजी
+      B: मुहम्मद बिन तुगलक
+      C: बहलोल लोदी
+      D: बलबन
+    answer: C
+    explanation: Bahlol Lodi ruled 1451–89 (about 38 years), longer than Alauddin (20), Muhammad bin Tughluq (26) or Balban (about 20).
+  - slug: bpsc-71-q090
+    difficulty: medium
+    stem: |-
+      प्राचीन भारत के निम्नलिखित राजवंशों पर विचार कीजिए।
+
+      1. शुंग
+      2. मौर्य
+      3. कुषाण
+      4. कण्व
+
+      निम्नलिखित में से उनके शासन का सही कालानुक्रमिक क्रम कौन–सा है?
+    options:
+      A: 2-1-4-3
+      B: 1-2-3-4
+      C: 2-3-1-4
+      D: 2-1-3-4
+    answer: A
+    explanation: Maurya → Shunga → Kanva → Kushana.
+  - slug: bpsc-71-q091
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सी एक तुलसीदास द्वारा नहीं लिखी गयी है?
+    options:
+      A: गीतावली
+      B: विनयपत्रिका
+      C: साहित्यलहरी
+      D: कवितावली
+    answer: C
+    explanation: Sahitya Lahari is by Surdas; Gitavali, Vinay Patrika and Kavitavali are by Tulsidas.
+  - slug: bpsc-71-q092
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II के साथ सुमेलित कीजिए।
+
+      | सूची–I (इमारत) | सूची–II (बनवाने वाला/वाली) |
+      |---|---|
+      | a) काबुली बाग मस्जिद | 1) कुतुबुद्दीन ऐबक |
+      | b) अढ़ाई दिन का झोपड़ा | 2) नूरजहाँ |
+      | c) इलाहाबाद का किला | 3) अकबर |
+      | d) एतमाद–उद–दौला का मकबरा | 4) बाबर |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए :
+    options:
+      A: a-4, b-1, c-3, d-2
+      B: a-2, b-1, c-4, d-3
+      C: a-4, b-1, c-2, d-3
+      D: a-1, b-4, c-3, d-2
+    answer: A
+    explanation: "Kabuli Bagh mosque: Babur; Adhai Din Ka Jhonpra: Qutb-ud-din Aibak; Allahabad Fort: Akbar; Itmad-ud-Daulah: Nur Jahan."
+  - slug: bpsc-71-q093
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन एक सही सुमेलित नहीं है?
+
+      व्यक्ति – सम्बन्धित रहे
+    options:
+      A: जेम्स ऑगस्टस हिक्की – केलकटा क्रोनिकल
+      B: दयानन्द सरस्वती – सत्यार्थ प्रकाश
+      C: रामास्वामी नैकर – जस्टिस पार्टी
+      D: ज्योतिराव फूले – सत्यशोधक समाज
+    answer: A
+    explanation: J. A. Hicky founded Hicky’s Bengal Gazette (1780), not the Calcutta Chronicle; the other pairs are correct.
+  - slug: bpsc-71-q094
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II के साथ सुमेलित कीजिए।
+
+      | सूची–I (पिता) | सूची–II (पुत्र) |
+      |---|---|
+      | a) बाबर | 1) सलीम |
+      | b) अकबर | 2) खुसरो |
+      | c) शाहजहाँ | 3) कामरान |
+      | d) जहाँगीर | 4) मुराद |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए :
+    options:
+      A: a-4, b-1, c-3, d-2
+      B: a-3, b-1, c-4, d-2
+      C: a-3, b-1, c-2, d-4
+      D: a-4, b-2, c-3, d-1
+    answer: B
+    explanation: Babur’s son Kamran, Akbar’s son Salim, Shah Jahan’s son Murad, Jahangir’s son Khusrau.
+  - slug: bpsc-71-q095
+    difficulty: medium
+    stem: कौन –सी बौद्ध संगीति बिहार में आयोजित नहीं की गई थी?
+    options:
+      A: प्रथम
+      B: द्वितीय
+      C: तृतीय
+      D: चतुर्थ
+    answer: D
+    explanation: The first three councils were at Rajgir, Vaishali and Pataliputra (Bihar); the fourth was in Kashmir (Kundalvana).
+  - slug: bpsc-71-q097
+    difficulty: medium
+    stem: निम्नलिखित में से कौन नालन्दा विश्वविद्यालय में आचार्य नहीं थे?
+    options:
+      A: नागार्जुन
+      B: कौटिल्य
+      C: शीलभद्र
+      D: शांतिरक्षित
+    answer: B
+    explanation: Nagarjuna, Shilabhadra and Shantarakshita were associated with Nalanda; Kautilya was linked with Taxila, not Nalanda.
+  - slug: bpsc-71-q098
+    difficulty: medium
+    stem: |-
+      आधुनिक भारतीय इतिहास को निम्नलिखित घटनाओं पर विचार कीजिए।
+
+      1. राजा नंदकुमार को मृत्युदण्ड
+      2. सालबाई की संधि
+      3. वन्दिवाश की लड़ाई
+      4. टीपू सुल्तान की मृत्यु
+
+      निम्नलिखित में से उपरोक्त घटनाओं का सही कालानुक्रमिक क्रम कौन–सा है?
+    options:
+      A: 2-3-4-1
+      B: 3-1-2-4
+      C: 2-4-1-3
+      D: 3-2-1-4
+    answer: B
+    explanation: Wandiwash (1760) → Nand Kumar hanged (1775) → Treaty of Salbai (1782) → Tipu’s death (1799).
+  - slug: bpsc-71-q099
+    difficulty: medium
+    stem: बिहार के निम्नलिखित समाचार पत्रों में से सबसे पहले किसका प्रकाशन प्रारम्भ हुआ था?
+    options:
+      A: बिहार बंधु
+      B: पटना हरकारा
+      C: अखबार–ए–बिहार
+      D: बिहार हेरल्ड्
+    answer: B
+    explanation: The final key, citing Syed Ahmad Qadri’s “Urdu Sahafat Bihar mein”, holds that Patna Harkara was the first newspaper published from Bihar, before Akhbar-e-Bihar (1856) and Bihar Bandhu (1872).
+  - slug: bpsc-71-q100
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II के साथ सुमेलित कीजिए।
+
+      | सूची–I (घटना/संगठन) | सूची–II (सम्बन्धित व्यक्ति) |
+      |---|---|
+      | a) चंपारन सत्याग्रह | 1) जयप्रकाश नारायण |
+      | b) आज़ाद दस्ता | 2) श्याम नारायण सिंह |
+      | c) 1940 में बिहार में व्यक्तिगत सत्याग्रह | 3) सहजानन्द सरस्वती |
+      | d) किसान सभा बिहार | 4) डॉ. राजेन्द्र प्रसाद |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए :
+    options:
+      A: a-4, b-2, c-3, d-1
+      B: a-2, b-3, c-1, d-4
+      C: a-1, b-4, c-3, d-2
+      D: a-4, b-1, c-2, d-3
+    answer: D
+    explanation: "Champaran: Rajendra Prasad; Azad Dasta: Jayaprakash Narayan; individual satyagraha in Bihar (1940): Shyam Narayan Singh; Kisan Sabha: Sahajanand Saraswati."
+  - slug: bpsc-71-q101
+    difficulty: medium
+    stem: मैजिनाट रेखा किन देशों के बीच विद्यमान है?
+    options:
+      A: यू. एस. ए. एवं कॅनडा
+      B: फ्रांस एवं जर्मनी
+      C: नामीबिया एवं अंगोला
+      D: साउथ कोरिया एवं नार्थ कोरिया
+    answer: B
+    explanation: The Maginot Line was France’s line of fortifications along the German border.
+  - slug: bpsc-71-q102
+    difficulty: medium
+    stem: "होर्मुज जलडमरूमध्य जोडता है :"
+    options:
+      A: परशिया की खाड़ी से ओमान की खाड़ी
+      B: लाल सागर से अढन की खाड़ी
+      C: लाल सागर से हिन्द महासागर
+      D: मेडीटरेनियन सागर से लाल सागर
+    answer: A
+    explanation: The Strait of Hormuz joins the Persian Gulf to the Gulf of Oman.
+  - slug: bpsc-71-q103
+    difficulty: medium
+    stem: ‘ग्राउन्ड जीरो’ कहाँ है?
+    options:
+      A: ग्रीनविच
+      B: न्यूयार्क
+      C: इंदिरा प्वाइन्ट
+      D: श्रीहरिकोटा
+    answer: B
+    explanation: “Ground Zero” is the site of the destroyed World Trade Center twin towers in New York.
+  - slug: bpsc-71-q104
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा स्थलडमरूमध्य है जो कि ‘डेविल्स नेक’ के नाम से जाना जाता है?
+    options:
+      A: पनामा स्थलडमरुमध्य
+      B: क्रा स्थलडमरूमध्य
+      C: कोरेलियान स्थलडमरूमध्य
+      D: कोरिन्थ स्थलडमरूमध्य
+    answer: B
+    explanation: The key (both provisional and final) gives the Kra Isthmus as the “Devil’s Neck”.
+  - slug: bpsc-71-q105
+    difficulty: medium
+    stem: "लडंग सन्दर्भित करता है :"
+    options:
+      A: स्थानान्तरित कृषि
+      B: वृक्षारोपण कृषि
+      C: कृषि का पदार्थ प्रकार
+      D: शुष्क कृषि
+    answer: A
+    explanation: Ladang is the name for slash-and-burn shifting cultivation in Malaysia and Indonesia.
+  - slug: bpsc-71-q106
+    difficulty: medium
+    stem: दुनिया का सबसे बडा नदी द्वीप कौन–सा है?
+    options:
+      A: श्रीरंगम द्वीप
+      B: माजुली द्वीप
+      C: भवानी द्वीप
+      D: आगात्ती द्वीप
+    answer: B
+    explanation: Majuli on the Brahmaputra is recognised (Guinness) as the largest river island in the world.
+  - slug: bpsc-71-q107
+    difficulty: medium
+    stem: "भारत का सबसे बड़ा द्वितीय नदी बेसिन है :"
+    options:
+      A: महानदी नदी बेसिन
+      B: नर्मदा नदी बेसिन
+      C: गोदावरी नदी बेसिन
+      D: कावेरी नदी बेसिन
+    answer: C
+    explanation: The Godavari basin is the largest in peninsular India and second in India after the Ganga basin.
+  - slug: bpsc-71-q108
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा अलकनन्दा और भगीरथी के संगम का स्थल है?
+    options:
+      A: विष्णु प्रयाग
+      B: कर्ण प्रयाग
+      C: रूद्र प्रयाग
+      D: देव प्रयाग
+    answer: D
+    explanation: The Alaknanda and Bhagirathi meet at Devprayag to form the Ganga.
+  - slug: bpsc-71-q109
+    difficulty: medium
+    stem: "भारतीय क्षेत्र में दो ज्वालामुखी द्वीप है :"
+    options:
+      A: कावारत्ती एवं न्यु मूर
+      B: बितरा एवं कावारत्ती
+      C: पमबन एवं बेरन
+      D: नारकोण्डम एवं बेरन
+    answer: D
+    explanation: Barren Island (active) and Narcondam (dormant) in the Andaman Sea are India’s volcanic islands.
+  - slug: bpsc-71-q110
+    difficulty: medium
+    stem: मेरठ में किस आइटम कि शिल्पकला को जी. आई. टैग मिला है?
+    options:
+      A: खेलकूद सामाग्री
+      B: संगीत उपकरण
+      C: लड्डू
+      D: कैंची
+    answer: D
+    explanation: Meerut’s handmade scissors (Meerut Kainchi) hold a GI tag.
+  - slug: bpsc-71-q111
+    difficulty: medium
+    stem: भारत में समशीतोष्ण वन अनुसंधान केन्द्र किस शहर में है?
+    options:
+      A: शिमला
+      B: रांची
+      C: श्रीनगर
+      D: देहरादून
+    answer: A
+    explanation: ICFRE’s Himalayan Forest Research Institute in Shimla handles temperate forest research.
+  - slug: bpsc-71-q112
+    difficulty: medium
+    stem: "कान्हा नेशनल पार्क स्थित है :"
+    options:
+      A: उत्तराखण्ड में
+      B: असम में
+      C: मध्य प्रदेश में
+      D: महाराष्ट्र में
+    answer: C
+    explanation: Kanha National Park and Tiger Reserve is in Madhya Pradesh (Mandla and Balaghat).
+  - slug: bpsc-71-q113
+    difficulty: medium
+    stem: ‘लोकतक’ एक ........ है।
+    options:
+      A: घाटी
+      B: झील
+      C: नदी
+      D: पर्वत श्रंखला
+    answer: B
+    explanation: Loktak is a freshwater lake in Manipur, known for its phumdis.
+  - slug: bpsc-71-q114
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा पार्क/अभ्यारण्य बिहार में बाघ परियोजना के अर्न्तगत आता है?
+    options:
+      A: वाल्मीकी राष्ट्रीय पार्क
+      B: उदयपुर वन्यजीव अभ्यारण्य
+      C: भीमबन्द वन्यजीव अभ्यारण्य
+      D: इनमें से कोई नहीं
+    answer: A
+    explanation: Valmiki National Park in West Champaran is Bihar’s Project Tiger reserve.
+  - slug: bpsc-71-q115
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा बिहार का राज्य पशु है?
+    options:
+      A: गाय
+      B: बैल
+      C: भैंसा
+      D: घोडा
+    answer: B
+    explanation: Bihar’s state animal is the gaur (Indian bison); the key treats “Bull” (a wild ox, the male gaur) as the matching option.
+  - slug: bpsc-71-q116
+    difficulty: medium
+    stem: बिहार में नालन्दा विश्वविद्यालय की पुर्न–स्थापना किस वर्ष हुई थी?
+    options:
+      A: "2005"
+      B: "2007"
+      C: "2008"
+      D: "2014"
+    answer: D
+    explanation: The Nalanda University Act was passed in 2010 and the revived university started functioning in 2014.
+  - slug: bpsc-71-q117
+    difficulty: medium
+    stem: "कर्मनाशा नदी का उद्गम स्थल है :"
+    options:
+      A: कैमूर जिला
+      B: वैशाली जिला
+      C: पटना जिला
+      D: बिक्रम जिला
+    answer: A
+    explanation: The Karmanasa rises in the Kaimur hills in Kaimur district; “Bikram District” does not exist.
+  - slug: bpsc-71-q119
+    difficulty: medium
+    stem: बिहार के किस जिले में सोना पाया जाता है?
+    options:
+      A: गया जिला
+      B: जमुई जिला
+      C: नालन्दा जिला
+      D: भागलपुर जिला
+    answer: B
+    explanation: Gold deposits in Bihar are at Karmatiya/Sono in Jamui district.
+  - slug: bpsc-71-q120
+    difficulty: medium
+    stem: बिहार का अधिकांश भाग निम्नलिखित में से किस प्रकार की जलवायु के अन्तर्गत आता है?
+    options:
+      A: उपोष्ण कटिबंधीय मानसून
+      B: उष्णकटिबंधीय सवाना
+      C: गर्म एवं शुष्क
+      D: गर्म एवं शुष्क मरुस्थल
+    answer: A
+    explanation: Most of Bihar has a humid subtropical monsoon climate.
+  - slug: bpsc-71-q121
+    difficulty: medium
+    stem: "हम एक लकड़ी के बक्से को 200 न्यूटन बल लगाकर उसे नियत वेग से फर्श पर ढकलते है। सीमान्त घर्षण बल होगा :"
+    options:
+      A: 100 न्यूटन
+      B: 200 न्यूटन
+      C: 300 न्यूटन
+      D: 400 न्यूटन
+    answer: B
+    explanation: At constant velocity the net force is zero, so friction equals the applied 200 N.
+  - slug: bpsc-71-q122
+    difficulty: medium
+    stem: "एक ट्रक विराम अवस्था से किसी पहाड़ी से नीचे की ओर नियत त्वरण से लुढकना शुरू करता है। यह 20 सेकेण्ड में 400 मीटर की दूरी तय करता है। यदि ट्रक का द्रव्यमान 7 टन है तो इस पर लगने वाला बल होगा :"
+    options:
+      A: 11000 न्यूटन
+      B: 12000 न्यूटन
+      C: 13000 न्यूटन
+      D: 14000 न्यूटन
+    answer: D
+    explanation: s = ½at² gives 400 = ½·a·400, so a = 2 m/s²; F = 7000 kg × 2 = 14,000 N (taking 7 tons as mass).
+  - slug: bpsc-71-q123
+    difficulty: medium
+    stem: "किसी घर में एक महिने में ऊर्जा की खपत 250 यूनिट होती है तो कुल ऊर्जा जूल में होगी :"
+    options:
+      A: 9×10⁵
+      B: 8×10⁶
+      C: 9×10⁸
+      D: 10⁵
+    answer: C
+    explanation: 250 kWh × 3.6 × 10⁶ J = 9 × 10⁸ J.
+  - slug: bpsc-71-q124
+    difficulty: medium
+    stem: किस माध्यम में ध्वनी की चाल अधिकतम होती है?
+    options:
+      A: स्टील
+      B: जल
+      C: वायू
+      D: हाइड्रोजन
+    answer: A
+    explanation: Sound is fastest in solids; in steel it is about 5,000–6,000 m/s.
+  - slug: bpsc-71-q125
+    difficulty: medium
+    stem: मुक्त रूप से गिरते हुये पिण्ड की स्थितिज ऊर्जा लगातार कम होती जाती है।
+    options:
+      A: ऊर्जा संरक्षण सिद्धान्त का उल्लंघन है।
+      B: ऊर्जा संरक्षण सिद्धान्त का उल्लंघन नहीं है।
+      C: गुरूत्वाकर्षण बल का उल्लंघन है।
+      D: गुरूत्वाकर्षण बल का उल्लंघन नही है।
+    answer: B
+    explanation: Lost potential energy turns into kinetic energy, so total mechanical energy is conserved.
+  - slug: bpsc-71-q126
+    difficulty: medium
+    stem: "बेलों की एक जोड़ी खेत जोतते समय हल पर 140 न्यूटन का बल लगाती है। जोता गया खेत 15 मीटर लम्बा है। खेत की लम्बाई को जोतने में किया गया कार्य :"
+    options:
+      A: 1900 जूल
+      B: 2000 जूल
+      C: 2100 जूल
+      D: 2200 जूल
+    answer: C
+    explanation: W = F × d = 140 N × 15 m = 2,100 J.
+  - slug: bpsc-71-q127
+    difficulty: medium
+    stem: "समतल दर्पण की फोकस दूरी होती है :"
+    options:
+      A: +1 सेमी
+      B: −1 सेमी
+      C: 2 सेमी
+      D: अनन्त
+    answer: D
+    explanation: A plane mirror has infinite radius of curvature, so its focal length is infinity.
+  - slug: bpsc-71-q128
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा पद विद्युत परिपथ में विद्युत शक्ति को निरूपित नही करता है?
+    options:
+      A: I²R
+      B: IR²
+      C: VI
+      D: V²/R
+    answer: B
+    explanation: P = VI = I²R = V²/R; IR² is not a power expression.
+  - slug: bpsc-71-q129
+    difficulty: medium
+    stem: "लघु पाथन के समय परिपथ में विद्युत धारा का मान :"
+    options:
+      A: बहुत कम हो जाता है
+      B: परिवर्तित नही होता है
+      C: बहुत अधिक बढ़ जाता है
+      D: निरन्तर परिवर्तित होता है
+    answer: C
+    explanation: In a short circuit, resistance falls to nearly zero and the current becomes very large (Ohm’s law).
+  - slug: bpsc-71-q130
+    difficulty: medium
+    stem: "उपकरणों को विद्युत आघात से बचाने वाली युक्ति है :"
+    options:
+      A: फ्यूज
+      B: जनित्र
+      C: मोटर
+      D: धारा नियंत्रक
+    answer: A
+    explanation: A fuse melts and breaks the circuit on excess current, protecting appliances.
+  - slug: bpsc-71-q131
+    difficulty: medium
+    stem: "0.1 एन HCl समाधान का पीएच मान है लगभग :"
+    options:
+      A: "1.0"
+      B: "11.0"
+      C: "10"
+      D: "2.0"
+    answer: A
+    explanation: "0.1 N HCl fully ionises: [H⁺] = 10⁻¹, so pH = 1."
+  - slug: bpsc-71-q132
+    difficulty: medium
+    stem: नीचे से रात में चमकने वाले वर्णक के रूप में कौन–सा यौगिक जाना जाता है?
+    options:
+      A: यूरोपियम डोप्ड स्ट्रोंटियम एलुमिनेट
+      B: कॉपर सल्फाइड डोप्ड जिंक ऑक्साइड
+      C: बेरियम सल्फेट डोप्ड कॉपर कार्बोनेट
+      D: बोरॉन ऑक्साइड डोप्ड कॉपर सल्फेट
+    answer: A
+    explanation: Europium-doped strontium aluminate is the standard long-afterglow glow-in-the-dark pigment.
+  - slug: bpsc-71-q133
+    difficulty: medium
+    stem: स्मार्ट फिल्म के लिए किस सामग्री का उपयोग किया जाता है?
+    options:
+      A: इंडियम टिन ऑक्साइड
+      B: कैल्शियम कार्बोनेट
+      C: जिंक क्लोराइड
+      D: सिलिका
+    answer: A
+    explanation: Smart (switchable) films use transparent conductive indium tin oxide electrodes.
+  - slug: bpsc-71-q134
+    difficulty: medium
+    stem: कार्सिनोमा के उपचार के लिए किस धातु यौगिक का उपयोग किया जाता है?
+    options:
+      A: प्लेटिनम
+      B: क्रोमियम
+      C: आयरन
+      D: क्लोरीन
+    answer: A
+    explanation: Platinum compounds such as cisplatin, carboplatin and oxaliplatin are anticancer drugs.
+  - slug: bpsc-71-q135
+    difficulty: medium
+    stem: गर्भनिरोधक गोलियों में किस यौगिक का उपयोग किया जाता है?
+    options:
+      A: कोलेकैल्सीफेरोल
+      B: लेवोनोर्गेस्ट्रेल
+      C: वैनलाफ्लेक्सिन
+      D: सेट्रीजीन
+    answer: B
+    explanation: Levonorgestrel is a synthetic progestin used in oral and emergency contraceptive pills.
+  - slug: bpsc-71-q136
+    difficulty: medium
+    stem: तेल को गैल्वनाइज्ड आयरन पॉट में क्यों नहीं रखा जाता है?
+    options:
+      A: यह जहरीला यौगिक बनाता है
+      B: यह तेल की गुणवत्ता को कम करता है
+      C: जंग देखी जाती है
+      D: उपरोक्त सभी
+    answer: D
+    explanation: Zinc in galvanised iron reacts with acids in oil, forming toxic zinc compounds, spoiling the oil and corroding the pot.
+  - slug: bpsc-71-q137
+    difficulty: medium
+    stem: ऑक्टेन रेटिंग बढ़ाने के लिए किस यौगिक का उपयोग किया जाता है?
+    options:
+      A: ट्राइमेथिल हेक्सेन
+      B: टेट्रामिथाइल ऑक्साइड
+      C: टेट्राएथिललेड
+      D: ट्राइएथिल टोल्यूनि
+    answer: C
+    explanation: Tetraethyllead was the classic anti-knock additive used to raise octane rating.
+  - slug: bpsc-71-q138
+    difficulty: medium
+    stem: "PHBV बायोडिग्रेडेबल पॉलीमर का पूर्ण रूप :"
+    options:
+      A: पॉलीहाइड्रॉक्सी ब्यूटाइल वैनिलीन
+      B: पॉली हाइड्रॉक्सी ब्यूटेन वेराट्रिक एसिड
+      C: पॉली (3 - हाइड्रॉक्सी ब्यूटाइरेट - co-3 हाइड्रॉक्सी वैलेरेट)
+      D: पॉली हाइड्रॉक्सी ब्यूटाइरिक एसिड वेराट्रिक एसिड
+    answer: C
+    explanation: PHBV is poly(3-hydroxybutyrate-co-3-hydroxyvalerate).
+  - slug: bpsc-71-q139
+    difficulty: medium
+    stem: हार्मोन किसके द्वारा स्रावित होते है?
+    options:
+      A: तैलीय ग्रंथियां
+      B: प्रजनन ग्रंथियां
+      C: बहि:स्रावी ग्रंथियां
+      D: अंत:स्रावी ग्रंथियां
+    answer: D
+    explanation: Hormones are secreted by ductless endocrine glands directly into the blood.
+  - slug: bpsc-71-q140
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा शब्द हर्पीस सिंप्लेक्स वायरस और मानव के बीच की बातचीत को दर्शाता है?
+    options:
+      A: परजीविता
+      B: सहजीवन
+      C: एंडोसिम्बियोसिस
+      D: एंडोपारासाइटिज्म
+    answer: D
+    explanation: Herpes simplex virus is an obligate intracellular parasite living inside human cells, which makes it endoparasitism (the final key changed this from A).
+  - slug: bpsc-71-q141
+    difficulty: medium
+    stem: संक्रमण के जवाब में बनने वाली पहली इम्युनोग्लोबुलिन की श्रेणी कौन–सी है?
+    options:
+      A: IgG
+      B: IgA
+      C: IgM
+      D: IgE
+    answer: C
+    explanation: IgM is the first antibody made in a primary immune response.
+  - slug: bpsc-71-q142
+    difficulty: medium
+    stem: जैविक झिल्ली (Biological membranes) किससे बनी होती है?
+    options:
+      A: लिपिड और प्रोटीन के विभिन्न संयोजन जो प्रत्येक प्रजाति, कोशिका प्रकार और अंग के लिए विशिष्ट होते हैं।
+      B: केवल लिपिड
+      C: केवल प्रोटीन
+      D: उपरोक्त में से कोई नहीं
+    answer: A
+    explanation: Biological membranes are lipid–protein structures whose composition varies with species, cell type and organelle.
+  - slug: bpsc-71-q143
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सा एक नॉन–सेंस कोडन है?
+    options:
+      A: UAA
+      B: AUG
+      C: UUU
+      D: UGC
+    answer: A
+    explanation: UAA is a stop (nonsense) codon; AUG is the start codon.
+  - slug: bpsc-71-q144
+    difficulty: medium
+    stem: "विलुप्त होने के खतरे में पड़ी प्रजातियाँ कहलाती है :"
+    options:
+      A: सुभेद्य
+      B: दुर्लभ
+      C: लुप्तप्राय
+      D: विलुप्त
+    answer: C
+    explanation: IUCN calls species facing a very high risk of extinction in the near future “Endangered”.
+  - slug: bpsc-71-q145
+    difficulty: medium
+    stem: निम्नलिखित में से कौन–सी खरीफ फसल है?
+    options:
+      A: गन्ना
+      B: जौ
+      C: चना
+      D: गेहूं
+    answer: A
+    explanation: Sugarcane is sown with the monsoon and grouped with kharif crops; barley, gram and wheat are rabi crops.
+  - slug: bpsc-71-q146
+    difficulty: medium
+    stem: "पौधों में जाइलम (Xylem) निम्नलिखित कार्य के लिए जिम्मेदार है :"
+    options:
+      A: पानी और घुले हुए खनिजों का परिवहन
+      B: भोजन का परिवहन
+      C: ऑक्सीजन और अन्य गैसों का परिवहन
+      D: आवश्यक अमीनो एसिड का परिवहन
+    answer: A
+    explanation: Xylem carries water and dissolved minerals from roots to leaves; phloem carries food.
+  - slug: bpsc-71-q147
+    difficulty: medium
+    stem: पौधों के वर्गीकरण में संवहनी ऊतकों (vascular tissues) की विशेषताओं का उपयोग करने वाले पहले व्यक्ति कौन थे?
+    options:
+      A: एंगलर और प्रांतल
+      B: बेंथम और हुकर
+      C: ए पी डी कोंडोले
+      D: उपरोक्त में से एक से अधिक
+    answer: C
+    explanation: A. P. de Candolle first divided plants by the presence or absence of vascular tissue (vascular vs cellular plants).
+  - slug: bpsc-71-q148
+    difficulty: medium
+    stem: "आम में हम जो भाग खाते हैं वह है :"
+    options:
+      A: बाह्यफलभित्ति
+      B: मध्यफलभित्ति
+      C: अंत:फलभित्ति
+      D: उपरोक्त में से कोई नहीं
+    answer: B
+    explanation: The fleshy edible part of a mango (a drupe) is the mesocarp.
+  - slug: bpsc-71-q149
+    difficulty: medium
+    stem: ओजोन दिवस कब मनाया जाता है?
+    options:
+      A: 16 सितंबर
+      B: 5 जून
+      C: 21 अप्रैल
+      D: 5 दिसंबर
+    answer: A
+    explanation: International Day for the Preservation of the Ozone Layer is 16 September (Montreal Protocol, 1987).
+  - slug: bpsc-71-q150
+    difficulty: medium
+    stem: "माइकोराइजा संबंध में, पौधे का लाभ है :"
+    options:
+      A: सुरक्षा
+      B: भोजन
+      C: (A) और (B) दोनों
+      D: खनिजों का बढ़ा हुआ अवशोषण और रोगों से सुरक्षा
+    answer: D
+    explanation: Mycorrhizal fungi improve mineral (especially phosphorus) and water uptake and protect roots from pathogens.
