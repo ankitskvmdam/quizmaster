@@ -1,0 +1,7 @@
+slug: 68th-prelims
+title: BPSC 68th Prelims
+date: 2023-02-12
+label: Set A
+marks: { correct: 1, wrong: 0 }
+questions:
+  - { slug: fx-pyq-bpsc68-001, difficulty: medium, stem: "Which year: 1857?", options: { A: "1857", B: "1858", C: "1859", D: "1860" }, answer: A, explanation: "It was 1857." }

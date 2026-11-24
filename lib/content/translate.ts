@@ -4,8 +4,8 @@ import matter from 'gray-matter'
 import { parse as parseYaml } from 'yaml'
 import type { z } from 'zod'
 import { foldedIntoList, numbersIn } from './markdown-checks'
-import { bookFile, chapterFrontmatter, lessonFrontmatter, questionsFile, subjectFile, testFile, topicFile, type QuestionShape } from './schema'
-import type { BookItem, ChapterItem, ContentBundle, Issue, LessonItem, SubjectItem, TestItem, TopicItem } from './load'
+import { bookFile, chapterFrontmatter, examFile, lessonFrontmatter, paperFile, questionsFile, subjectFile, testFile, topicFile, type QuestionShape } from './schema'
+import type { BookItem, ChapterItem, ContentBundle, ExamItem, Issue, LessonItem, SubjectItem, TestItem, TopicItem } from './load'
 
 /** Where each English item came from, keyed by its file path relative to the content root. */
 export type Source =
@@ -16,6 +16,8 @@ export type Source =
   | { kind: 'chapter'; item: ChapterItem; quiz: TestItem | null }
   | { kind: 'questions' }
   | { kind: 'test'; item: TestItem }
+  | { kind: 'exam'; item: ExamItem }
+  | { kind: 'paper'; item: TestItem }
 
 export const TRANSLATIONS_DIR = 'translations'
 export const HINDI = 'hi'
@@ -186,6 +188,23 @@ export async function applyTranslations(
         src.item.title_hi = t.title
         for (const q of t.questions) {
           if (typeof q === 'string') continue
+          const { topic: _topic, ...shape } = q
+          question(shape)
+        }
+        break
+      }
+      case 'exam': {
+        const e = parse(examFile, yaml())
+        if (!e || !same('', [['slug', e.slug, src.item.slug], ['position', e.position, src.item.position]])) break
+        src.item.name_hi = e.name
+        src.item.description_hi = e.description || null
+        break
+      }
+      case 'paper': {
+        const p = parse(paperFile, yaml())
+        if (!p || !same('', [['slug', `pyq-${src.item.examSlug}-${p.slug}`, src.item.slug], ['date', p.date, src.item.paperDate]])) break
+        src.item.title_hi = p.title
+        for (const q of p.questions) {
           const { topic: _topic, ...shape } = q
           question(shape)
         }

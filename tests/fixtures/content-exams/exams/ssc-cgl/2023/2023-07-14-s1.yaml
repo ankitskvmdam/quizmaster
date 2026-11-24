@@ -1,0 +1,6 @@
+slug: 2023-07-14-s1
+title: SSC CGL 2023 Tier 1
+date: 2023-07-14
+label: 14 Jul, Shift 1
+questions:
+  - { slug: fx-pyq-cgl23-001, difficulty: medium, stem: "Which year: 1857?", options: { A: "1857", B: "1858", C: "1859", D: "1860" }, answer: A, explanation: "It was 1857." }

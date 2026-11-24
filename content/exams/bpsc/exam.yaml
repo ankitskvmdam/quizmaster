@@ -1,0 +1,6 @@
+slug: bpsc
+name: BPSC
+description: "Bihar Public Service Commission, Combined Competitive Examination: prelims General Studies."
+position: 1
+duration_min: 120
+marks: { correct: 1, wrong: -0.33 }

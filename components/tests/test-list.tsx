@@ -62,6 +62,7 @@ export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode 
                     {t.title}
                     {t.isCurrentAffairs && <Badge tone="primary">Current affairs</Badge>}
                   </span>
+                  {t.subtitle && <span className="block text-[13px] font-normal text-muted-foreground">{t.subtitle}</span>}
                 </td>
                 <td className="num">{t.questionCount}</td>
                 <td className="num">{t.durationSec ? formatMinutes(t.durationSec) : '—'}</td>
@@ -84,6 +85,7 @@ export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode 
               {t.title}
               {t.isCurrentAffairs && <Badge tone="primary">Current affairs</Badge>}
             </p>
+            {t.subtitle && <p className="text-[13px] text-muted-foreground">{t.subtitle}</p>}
             <p className="mt-1 text-[13px] text-muted-foreground">
               <Mono>{t.questionCount}</Mono> questions · {t.durationSec ? <Mono>{formatMinutes(t.durationSec)}</Mono> : 'untimed'} ·{' '}
               <Marking t={t} /> · best <Best t={t} />

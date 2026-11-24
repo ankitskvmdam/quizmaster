@@ -1,0 +1,1878 @@
+slug: 69th-prelims
+title: बीपीएससी 69वीं प्रारंभिक परीक्षा
+date: 2023-09-30
+label: Series A
+source: "BPSC official question booklet and final answer key (bpsc.bihar.gov.in). Deleted by BPSC (left out): Q33, Q60, Q122."
+questions:
+  - slug: bpsc-69-q001
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-सी तकनीकें 5G मोबाइल संचार नेटवर्क द्वारा सक्षम की जाएँगी?
+
+      1. इंटरनेट ऑफ थिंग्स
+      2. एज कम्प्यूटिंग
+      3. नेटवर्क स्लाइसिंग
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 2 और 3
+      C: केवल 1 और 3
+      D: 1, 2 और 3
+    answer: D
+    explanation: 5G's low latency and high capacity enable IoT, edge computing and network slicing, so all three are correct.
+  - slug: bpsc-69-q002
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I (अंतरिक्ष मिशन) | सूची–II (खोज) |
+      |---|---|
+      | a. कैसिनी-ह्यूजेंस | 1. बृहस्पति |
+      | b. जूनो | 2. शनि और उसके वलय |
+      | c. आर्टेमिस | 3. शुक्र |
+      | d. वेरिटास | 4. मानव अंतरिक्ष उड़ान—चंद्रमा से मंगल ग्रह तक |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-2, b-1, c-4, d-3
+      B: a-3, b-1, c-4, d-2
+      C: a-2, b-3, c-4, d-1
+      D: a-3, b-1, c-2, d-4
+    answer: A
+    explanation: Cassini-Huygens studied Saturn, Juno studies Jupiter, Artemis is NASA's Moon-to-Mars human programme, VERITAS is a Venus mission.
+  - slug: bpsc-69-q003
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I (कपड़ा) | सूची–II (उत्पत्ति) |
+      |---|---|
+      | a. लिनेन | 1. नारियल का पौधा |
+      | b. जटा (कॉयर) | 2. सन का पौधा |
+      | c. मोहायर | 3. बत्तख और गीज़ के पंख |
+      | d. डाउन | 4. अंगोरा बकरी |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-1, b-3, c-2, d-4
+      B: a-4, b-3, c-1, d-2
+      C: a-2, b-1, c-4, d-3
+      D: a-4, b-1, c-3, d-2
+    answer: C
+    explanation: Linen comes from flax, coir from coconut husk, mohair from the Angora goat, and down from duck and goose feathers.
+  - slug: bpsc-69-q004
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. टेनियासिस एक आँतों का संक्रमण है, जो टेपवर्म की तीन प्रजातियों—टेनिया सोलियम, टेनिया सगीनाटा और टेनिया एशियाटिका के कारण होता है।
+      2. जब मस्तिष्क में सिस्ट विकसित हो जाते हैं, तो इस स्थिति को न्यूरोसिस्टिसर्कोसिस (एन० सी० सी०) कहा जाता है।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: केवल 1
+      B: केवल 2
+      C: 1 और 2 दोनों
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Taeniasis is caused by T. solium, T. saginata and T. asiatica (WHO); larval cysts in the brain cause neurocysticercosis. Both are correct.
+  - slug: bpsc-69-q005
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-सी कम्प्यूटर भाषाएँ हैं?
+
+      1. कोबरा
+      2. पाइथन
+      3. स्किरल
+      4. जावा
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 3 और 4
+      C: केवल 1, 2 और 3
+      D: उपर्युक्त सभी
+    answer: D
+    explanation: Cobra, Python, Squirrel and Java are all programming languages.
+  - slug: bpsc-69-q006
+    difficulty: medium
+    stem: हाल ही में समाचारों में देखी गई चैट-जी० पी० टी० में, जी० पी० टी० का पूर्ण रूप क्या है?
+    options:
+      A: ग्लूटामिक पाइरुविक ट्रांसएमिनेज़
+      B: जी० यू० आइ० डी० पार्टिशन टेबल
+      C: ग्रूव्ड पेगबोर्ड टेस्ट
+      D: जेनरेटिव प्री-ट्रेंड ट्रांसफॉर्मर
+    answer: D
+    explanation: GPT stands for Generative Pre-trained Transformer.
+  - slug: bpsc-69-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-से जीभ के स्वाद नहीं हैं?
+
+      1. मीठा
+      2. कड़वा
+      3. नमकीन
+      4. मसालेदार
+      5. उमामी
+      6. खट्टा
+      7. तीखा
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: 2, 5 और 7
+      B: 1, 3 और 4
+      C: 4 और 7
+      D: 3 और 6
+    answer: C
+    explanation: The five basic tastes are sweet, bitter, salty, umami and sour; spicy and pungent are pain/chemesthetic sensations, not tastes.
+  - slug: bpsc-69-q008
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-से जोड़े सही सुमेलित हैं?
+
+      1. एनोरेक्सिया : नींद सम्बन्धी विकार
+      2. इनसोम्निया : खाने का विकार
+      3. डिस्पनिया : साँस की तकलीफ
+      4. एनोस्मिया : गंध की आंशिक या पूर्ण हानि
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 2 और 3
+      C: केवल 3 और 4
+      D: उपर्युक्त सभी
+    answer: C
+    explanation: Anorexia is an eating disorder and insomnia a sleep disorder (pairs 1 and 2 are swapped); dyspnoea and anosmia are matched correctly.
+  - slug: bpsc-69-q009
+    difficulty: medium
+    stem: ब्रह्मांड में, पल्सर क्या हैं?
+    options:
+      A: तारों का एक समूह
+      B: घूमते न्यूट्रॉन तारे
+      C: किसी तारे का विस्फोट
+      D: किसी तारे द्वारा उत्सर्जित रेडियो तरंगें
+    answer: B
+    explanation: Pulsars are rapidly rotating, highly magnetised neutron stars that emit beams of radiation.
+  - slug: bpsc-69-q010
+    difficulty: medium
+    stem: प्रयोगशाला में विकसित हीरे (एल० जी० डी०) के संदर्भ में, हीरे के बीज के रूप में किसका उपयोग किया जाता है?
+    options:
+      A: सफेद नीलम
+      B: मोइसानाइट
+      C: ग्रेफ़ाइट
+      D: क्यूबिक ज़िरकोनिया (सी० जेड०)
+    answer: C
+    explanation: The key gives graphite, the carbon feedstock that is turned into diamond under high pressure and temperature. The seed itself is usually a diamond plate, so the wording is loose.
+  - slug: bpsc-69-q011
+    difficulty: medium
+    stem: बुलेट-प्रूफ जैकेट बनाने के लिए उपयोग किया जाने वाला ‘फाइबर’ क्या है?
+    options:
+      A: नायलॉन
+      B: टेरिलीन
+      C: ट्वीड
+      D: केवलर
+    answer: D
+    explanation: Kevlar, an aramid fibre with very high tensile strength, is used in bulletproof jackets.
+  - slug: bpsc-69-q012
+    difficulty: medium
+    stem: |-
+      एच० एम० एक्स० का/के पूर्ण रूप क्या है/हैं?
+
+      1. हाई मेल्टिंग एक्सप्लोसिव
+      2. हाई-डेंसिटी मोनोएटॉमिक ज़ेनॉन
+      3. हेज मोनेटाइज़िंग ज़ेनोकरेंसी
+      4. हर मैजस्टीस एक्सप्लोसिव
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: 1 और 2
+      B: 2 और 3
+      C: केवल 1
+      D: 1 और 4
+    answer: C
+    explanation: |-
+      **Disputed.** BPSC's final key says C; our check suggests D.
+
+      The key accepts only 'High Melting Explosive'. 'Her Majesty's Explosive' is another widely quoted expansion, which would make D right; the key's remark says the other names don't change the compound.
+  - slug: bpsc-69-q013
+    difficulty: medium
+    stem: अक्टूबर 2022 में लॉन्च किए गए टेस्ला के ह्यूमनॉइड रोबोट का नाम क्या है?
+    options:
+      A: सोफिया
+      B: एटलस
+      C: पेपर
+      D: ऑप्टिमस
+    answer: D
+    explanation: Tesla showed its humanoid robot Optimus at AI Day in October 2022.
+  - slug: bpsc-69-q014
+    difficulty: medium
+    stem: ‘मैनहट्टन परियोजना’ क्या है?
+    options:
+      A: एक अनुसंधान और विकास उपक्रम, जिसने पहले परमाणु हथियार का उत्पादन किया
+      B: दुनिया की सबसे बड़ी कला-नीलामी में से एक
+      C: न्यूयॉर्क सिटी में एक रियल एस्टेट परियोजना
+      D: एक प्रसिद्ध थीम पार्क
+    answer: A
+    explanation: The Manhattan Project was the US-led WWII programme that produced the first nuclear weapons.
+  - slug: bpsc-69-q015
+    difficulty: medium
+    stem: अवतल दर्पण द्वारा बनाया गया प्रतिबिम्ब वास्तविक, उल्टा और वस्तु के आकार के बराबर होता है। वस्तु की स्थिति कैसी होनी चाहिए?
+    options:
+      A: फोकस पर
+      B: वक्रता के केन्द्र पर
+      C: फोकस और वक्रता केन्द्र के बीच
+      D: वक्रता केन्द्र से परे
+    answer: B
+    explanation: For a concave mirror, an object at the centre of curvature forms a real, inverted, same-size image at C.
+  - slug: bpsc-69-q016
+    difficulty: medium
+    stem: फोटोइलेक्ट्रिक सेल एक ऐसा उपकरण है, जो कि
+    options:
+      A: प्रकाश ऊर्जा को विद्युत् ऊर्जा में बदलता है
+      B: विद्युत् ऊर्जा को प्रकाश ऊर्जा में बदलता है
+      C: प्रकाश ऊर्जा का भंडारण करता है
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: A photoelectric cell converts light energy into electrical energy.
+  - slug: bpsc-69-q017
+    difficulty: medium
+    stem: विलयन/विलायक के प्रति इकाई आयतन या प्रति इकाई द्रव्यमान में उपस्थित विलेय की मात्रा को रसायन में किस रूप में जाना जाता है?
+    options:
+      A: विलेय का संघटन
+      B: विलायक की सांद्रता
+      C: विलेय की सांद्रता
+      D: विलयन की सांद्रता
+    answer: D
+    explanation: The amount of solute per unit volume or mass of solution is the concentration of the solution.
+  - slug: bpsc-69-q018
+    difficulty: medium
+    stem: कोविड टीकाएँ, प्रतिरक्षी प्रतिक्रिया को कैसे उत्तेजित करते हैं?
+    options:
+      A: जीवित क्षीण SARS-CoV-2 वायरस प्रवेश कराके
+      B: एक वास्तविक SARS-CoV-2 वायरस प्रवेश कराके
+      C: SARS-CoV-2 वायरस का एक हानिरहित टुकड़ा प्रवेश कराके
+      D: SARS-CoV-2 वायरस के खिलाफ एंटीबॉडी प्रवेश कराके
+    answer: A
+    explanation: |-
+      **Disputed.** BPSC's final key says A; our check suggests C.
+
+      The key says vaccines work by introducing live attenuated virus. That is not how the main COVID vaccines work. They present a harmless piece (the spike protein or its mRNA), which is option C.
+  - slug: bpsc-69-q019
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा तरल बिजली का कुचालक है?
+    options:
+      A: नमकीन पानी
+      B: संतरे का रस
+      C: नींबू का रस
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Salt water, orange juice and lemon juice all contain ions and conduct electricity, so none of them is a bad conductor.
+  - slug: bpsc-69-q020
+    difficulty: medium
+    stem: डी० एन० ए० डबल हेलिक्स संरचना की खोज किसके द्वारा की गई थी?
+    options:
+      A: जेम्स वॉटसन और फ्रांसिस क्रिक
+      B: रोज़लिंड फ्रैंकलिन और मौरिस विल्किंस
+      C: लिनस पॉलिंग
+      D: ग्रेगर मेंडल
+    answer: A
+    explanation: Watson and Crick proposed the double-helix model of DNA in 1953.
+  - slug: bpsc-69-q021
+    difficulty: medium
+    stem: अलग-अलग द्रव्यमान की दो वस्तुएँ चंद्रमा की सतह के पास स्वतंत्र रूप से गिरने से क्या होगा?
+    options:
+      A: अलग-अलग त्वरण होगा
+      B: उनके जड़त्व में परिवर्तन होगा
+      C: किसी भी क्षण एक ही वेग होगा
+      D: समान परिमाण के बल का अनुभव होगा
+    answer: C
+    explanation: All bodies have the same acceleration in free fall, so if dropped together they have the same velocity at every instant. Their forces differ because their masses differ.
+  - slug: bpsc-69-q022
+    difficulty: medium
+    stem: वेक्टर टीके प्रतिरोधक शक्ति प्रदान करने के लिए कैसे काम करते हैं?
+    options:
+      A: किसी कमजोर या निष्क्रिय वायरस को शरीर में प्रवेश कराकर
+      B: शरीर में रोगजनकों पर सीधे हमला कर और उन्हें नष्ट कर
+      C: वायरस को किसी भिन्न वायरस के संशोधित संस्करण में रखकर
+      D: सीधे कोशिकाओं में प्रवेश कराकर और उन्हें स्पाइक प्रोटीन बनाने में सक्षम बनाकर
+    answer: C
+    explanation: Vector vaccines put a gene of the target virus into a modified, harmless virus such as an adenovirus.
+  - slug: bpsc-69-q023
+    difficulty: medium
+    stem: लगातार नई परत जोड़ने वाली प्रक्रिया निम्नलिखित में से कौन-सी है?
+    options:
+      A: निम्नस्खलन (सबडक्शन)
+      B: भूकंप
+      C: समुद्रतल का फैलाव
+      D: संवहन
+    answer: C
+    explanation: New oceanic crust is continually created at mid-ocean ridges by seafloor spreading.
+  - slug: bpsc-69-q024
+    difficulty: medium
+    stem: “भूपटल के टुकड़े मेंटल में गति द्वारा निरंतर, धीमी गति से प्रवाहित होते हैं।” इस सिद्धांत को क्या कहा जाता है?
+    options:
+      A: महाद्वीपीय बहाव सिद्धांत
+      B: पैंजिया सिद्धांत
+      C: प्लेट टेक्टॉनिक्स सिद्धांत
+      D: प्लेट सीमा सिद्धांत
+    answer: C
+    explanation: Plate tectonics holds that lithospheric plates move slowly, driven by movements in the mantle.
+  - slug: bpsc-69-q025
+    difficulty: medium
+    stem: ‘एम० आर० एन० ए० (mRNA)’ पद का विस्तारित रूप क्या है, जो महामारी की शुरुआत से ही व्यापक रूप से चर्चा में रहा है?
+    options:
+      A: मैसेंजर राइबोन्यूक्लिक ऐसिड
+      B: म्यूटेंट राइबोन्यूक्लिक ऐसिड
+      C: मॉडिफाइड राइबोन्यूक्लिक ऐसिड
+      D: नेमोनिक राइबोन्यूक्लिक ऐसिड
+    answer: A
+    explanation: mRNA stands for messenger ribonucleic acid.
+  - slug: bpsc-69-q026
+    difficulty: medium
+    stem: AC करेन्ट को कैसे उत्पन्न करते हैं?
+    options:
+      A: चोक कुंडली द्वारा
+      B: डायनामो द्वारा
+      C: ट्रांसफॉर्मर द्वारा
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: An AC dynamo (alternator) produces alternating current; a transformer only changes the voltage of an existing AC supply.
+  - slug: bpsc-69-q027
+    difficulty: medium
+    stem: धारा घनत्व होता है
+    options:
+      A: एक अदिश राशि
+      B: एक सदिश राशि
+      C: विमाविहीन
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Current density J has both magnitude and direction, so it is a vector (I = ∫J·dA).
+  - slug: bpsc-69-q028
+    difficulty: medium
+    stem: मेडिकल केमिस्ट्री में दवाओं का वर्गीकरण किस आधार पर सबसे अधिक उपयोगी है?
+    options:
+      A: औषधीय प्रभाव
+      B: आण्विक लक्ष्य
+      C: रासायनिक संरचना
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: "NCERT Class 12: classification by molecular targets is the most useful for medicinal chemists."
+  - slug: bpsc-69-q029
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा प्रतिक्रिया की दर को धीमा करता है?
+    options:
+      A: उत्प्रेरक वर्धक
+      B: समांगी उत्प्रेरक
+      C: विषमांगी उत्प्रेरक
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Promoters and catalysts (homogeneous or heterogeneous) speed reactions up; only inhibitors (negative catalysts) slow them, and none is listed.
+  - slug: bpsc-69-q030
+    difficulty: medium
+    stem: आगत तथा निर्गत तंत्रिकाएँ मिलती हैं
+    options:
+      A: यकृत में
+      B: केन्द्रीय तंत्रिका तंत्र में
+      C: हृदय में
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Sensory (input) and motor (output) nerves meet in the central nervous system (brain and spinal cord).
+  - slug: bpsc-69-q031
+    difficulty: medium
+    stem: ‘शिप्रेक टूरिज़्म’ के संदर्भ में, सुंची रीफ, एमी शॉल तथा ग्रांडे द्वीप पर भारतीय जल में जहाजों के मलबे का पता लगाया गया है। ये स्थान कहाँ हैं?
+    options:
+      A: गोवा तट के बाहर
+      B: लक्षद्वीप तट के बाहर
+      C: तमिलनाडु तट के बाहर
+      D: ओडिशा तट के बाहर
+    answer: A
+    explanation: Sunchi Reef, Amee Shoals and Grande Island are dive sites with shipwrecks off the coast of Goa.
+  - slug: bpsc-69-q032
+    difficulty: medium
+    stem: |-
+      G20 सदस्य प्रतिनिधित्व करते हैं
+
+      1. वैश्विक जी० डी० पी० का लगभग 85%
+      2. वैश्विक व्यापार का लगभग 50%
+      3. विश्व की लगभग दो-तिहाई जनसंख्या
+
+      उपर्युक्त में से कौन-सा/से आँकड़ा/आँकड़े सही है/हैं?
+    options:
+      A: केवल 1
+      B: केवल 1 और 3
+      C: 1, 2 और 3
+      D: केवल 1 और 2
+    answer: B
+    explanation: G20 accounts for about 85% of world GDP, over 75% of world trade and about two-thirds of the population. Statement 2 (50% of trade) is wrong.
+  - slug: bpsc-69-q034
+    difficulty: medium
+    stem: ग्लोबल जेंडर गैप रिपोर्ट किसके द्वारा जारी की जाती है?
+    options:
+      A: विश्व बैंक
+      B: संयुक्त राष्ट्र महिला
+      C: विश्व आर्थिक मंच
+      D: यू० एन० डी० पी०
+    answer: C
+    explanation: The Global Gender Gap Report is published by the World Economic Forum.
+  - slug: bpsc-69-q035
+    difficulty: medium
+    stem: यूनाइटेड किंगडम की महारानी एलिजाबेथ द्वितीय के संबंध में, निम्नलिखित में से कौन-सा कथन सही है?
+    options:
+      A: उन्होंने 70 वर्षों तक शासन किया और 96 वर्ष की आयु में उनकी मृत्यु हो गई।
+      B: उन्होंने 68 वर्षों तक शासन किया और 94 वर्ष की आयु में उनकी मृत्यु हो गई।
+      C: उन्होंने 72 वर्षों तक शासन किया और 92 वर्ष की आयु में उनकी मृत्यु हो गई।
+      D: उन्होंने 66 वर्षों तक शासन किया और 90 वर्ष की आयु में उनकी मृत्यु हो गई।
+    answer: A
+    explanation: Elizabeth II reigned for 70 years (1952–2022) and died aged 96.
+  - slug: bpsc-69-q036
+    difficulty: medium
+    stem: गुजरात में आयोजित DefExpo–2022 का विषय क्या था?
+    options:
+      A: "भारत : उभरता हुआ रक्षा विनिर्माण केन्द्र"
+      B: गौरव का मार्ग
+      C: रक्षा के लिए तालमेल
+      D: आत्मनिर्भरता
+    answer: B
+    explanation: DefExpo 2022 in Gandhinagar had the theme 'Path to Pride'.
+  - slug: bpsc-69-q037
+    difficulty: medium
+    stem: थाडिंग्युट महोत्सव का तीन-दिवसीय उत्सव किस देश में मनाया जाता है?
+    options:
+      A: चिली
+      B: नेपाल
+      C: जर्मनी
+      D: म्यांमार
+    answer: D
+    explanation: Thadingyut, the Festival of Lights, is celebrated in Myanmar.
+  - slug: bpsc-69-q038
+    difficulty: medium
+    stem: |-
+      ‘ह्वाइट हाउस’ के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. ह्वाइट हाउस का पता, 1800 पेंसिल्वेनिया ऐविन्यू है।
+      2. यह संयुक्त राज्य अमेरिका के राष्ट्रपति का आधिकारिक निवास और कार्यस्थल है।
+      3. 1 नवम्बर, 1800 को जॉन एडम्स इस इमारत में निवास करने वाले पहले राष्ट्रपति बने।
+      4. यह अमेरिकी लोकतन्त्र का प्रतीक है।
+
+      उपर्युक्त में से कौन-से कथन सही हैं?
+    options:
+      A: 1, 3 और 4
+      B: केवल 2 और 3
+      C: केवल 3 और 4
+      D: 2, 3 और 4
+    answer: D
+    explanation: The White House is at 1600 (not 1800) Pennsylvania Avenue; statements 2, 3 and 4 are correct.
+  - slug: bpsc-69-q039
+    difficulty: medium
+    stem: ‘नेट मीटरिंग’ को कभी-कभी समाचारों में किसके प्रचार के संदर्भ में देखा जाता है?
+    options:
+      A: मोटरकारों में सी० एन० जी० किट लगाना
+      B: शहरी घरों में पानी के मीटर की स्थापना
+      C: एक बिलिंग तंत्र, जो सौर ऊर्जा प्रणाली मालिकों को ग्रिड में जोड़ी गई बिजली का श्रेय देता है
+      D: घरों की रसोई में पाइप द्वारा प्राकृतिक गैस का उपयोग
+    answer: C
+    explanation: Net metering credits rooftop-solar consumers for the electricity they feed into the grid.
+  - slug: bpsc-69-q040
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I (रंग) | सूची–II (संयोजन) |
+      |---|---|
+      | a. मैजेंटा | 1. हरा और नीला |
+      | b. टील | 2. लाल और नीला |
+      | c. मोव्र | 3. नीला, हरा और सफेद |
+      | d. सियान | 4. नीला, लाल और सफेद |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-2, b-3, c-4, d-1
+      B: a-2, b-4, c-3, d-1
+      C: a-4, b-2, c-1, d-3
+      D: a-3, b-4, c-2, d-1
+    answer: A
+    explanation: Magenta = red + blue, teal = blue, green and white, mauve = blue, red and white, cyan = green + blue.
+  - slug: bpsc-69-q041
+    difficulty: medium
+    stem: गहरे समुद्र में डूबने वाली उस पनडुब्बी का नाम क्या है, जो टाइटैनिक जहाज के पोतावशेष की यात्रा के दौरान फट गई थी?
+    options:
+      A: एल्विन
+      B: फाल्कन
+      C: ट्राइडेंट
+      D: टाइटन
+    answer: D
+    explanation: OceanGate's submersible Titan imploded in June 2023 on a dive to the Titanic wreck.
+  - slug: bpsc-69-q042
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I (जूते/फैशन-सहायक सामग्री) | सूची–II (विवरण) |
+      |---|---|
+      | a. बेरेट | 1. पुरुषों के जूते का एक प्रकार |
+      | b. स्टिलेटोज़ | 2. एक प्रकार का धूप का चश्मा |
+      | c. एविएटर्स | 3. एक प्रकार की टोपी |
+      | d. चिग्नोन | 4. महिलाओं के जूते का एक प्रकार |
+      | e. ब्रॉग | 5. एक प्रकार का केश-विन्यास |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-3, b-2, c-1, d-4, e-5
+      B: a-3, b-4, c-2, d-5, e-1
+      C: a-5, b-3, c-2, d-4, e-1
+      D: a-1, b-2, c-3, d-4, e-5
+    answer: B
+    explanation: Beret is a hat, stilettos are women's shoes, aviators are sunglasses, a chignon is a hairstyle and brogues are men's shoes.
+  - slug: bpsc-69-q043
+    difficulty: medium
+    stem: संयुक्त राज्य अमेरिका के पूर्व राष्ट्रपति ने हाल ही में अपना साक्षात्कार कहाँ दिया?
+    options:
+      A: रोम
+      B: साराजेवो
+      C: एथेंस
+      D: एम्स्टर्डम
+    answer: C
+    explanation: Barack Obama gave a CNN interview (to Christiane Amanpour) in Athens in June 2023.
+  - slug: bpsc-69-q044
+    difficulty: medium
+    stem: |-
+      खेल के सन्दर्भ में, निम्नलिखित में से कौन-से जोड़े सही सुमेलित हैं?
+
+      1. फ्लशिंग मीडोज : फ्रेंच ओपन
+      2. वीनस रोज़वॉटर डिश : विंबलडन ट्रॉफी (महिला)
+      3. रोलैंड गैरोस : यू० एस० ओपन
+      4. ऑस्ट्रेलियन ओपन (महिला) : डाफ्ने अखुर्स्ट मेमोरियल कप
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: 1 और 2
+      B: 2 और 3
+      C: 3 और 4
+      D: 2 और 4
+    answer: D
+    explanation: Flushing Meadows hosts the US Open and Roland Garros the French Open (1 and 3 swapped); pairs 2 and 4 are correct.
+  - slug: bpsc-69-q045
+    difficulty: medium
+    stem: गृह मंत्रालय ने नवंबर 2022 को देश की कितनी भाषाओं की फील्ड वीडियोग्राफी के साथ भारतीय मातृभाषा सर्वेक्षण (एम० टी० एस० आइ०) कार्य को पूरा किया है?
+    options:
+      A: "40"
+      B: "233"
+      C: "576"
+      D: "984"
+    answer: C
+    explanation: MHA reported the Mother Tongue Survey of India completed with field videography of 576 languages.
+  - slug: bpsc-69-q046
+    difficulty: medium
+    stem: किस राज्य सरकार ने भारत में गिद्धों के संरक्षण के लिए राष्ट्रीय कार्रवाई द्वारा प्रस्तावित गिद्ध संरक्षण के लिए राज्य-स्तरीय समिति (एस० एल० सी० वी० सी०) का शुभारंभ किया?
+    options:
+      A: तमिलनाडु
+      B: सिक्किम
+      C: असम
+      D: मेघालय
+    answer: A
+    explanation: Tamil Nadu set up a State-Level Committee for Vulture Conservation in 2022 under the national Vulture Action Plan.
+  - slug: bpsc-69-q047
+    difficulty: medium
+    stem: दस कैप्टिव-नस्ल एशियाई विशालकाय कछुए (मनौरिया एमिस), मुख्य भूमि एशिया में सबसे बड़ी कछुआ प्रजातियों में से एक, हाल ही में भारत के किस राष्ट्रीय उद्यान में छोड़े गए थे?
+    options:
+      A: नतांगकी राष्ट्रीय उद्यान
+      B: पेरियार राष्ट्रीय उद्यान
+      C: पेंच राष्ट्रीय उद्यान
+      D: कंचनजंगा राष्ट्रीय उद्यान
+    answer: A
+    explanation: Ten captive-bred Asian giant tortoises were released into Ntangki National Park, Nagaland.
+  - slug: bpsc-69-q048
+    difficulty: medium
+    stem: हाल ही में किस देश ने फिर से अरुणाचल प्रदेश को भारत का एक अभिन्न अंग घोषित किया है?
+    options:
+      A: यू० एस० ए०
+      B: ऑस्ट्रेलिया
+      C: जर्मनी
+      D: रूस
+    answer: A
+    explanation: The USA (State Department and a Senate resolution, 2023) reaffirmed Arunachal Pradesh as an integral part of India.
+  - slug: bpsc-69-q049
+    difficulty: medium
+    stem: भारत के रुद्राक्ष बालासाहेब पाटिल ने काहिरा में आइ० एस० एस० एफ० वर्ल्ड चैम्पियनशिप में पुरुषों की 10 मीटर एयर राइफल में कौन-सा पदक जीता?
+    options:
+      A: स्वर्ण
+      B: चाँदी
+      C: कांस्य
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Rudrankksh Patil won gold in men's 10 m air rifle at the 2022 ISSF World Championship in Cairo.
+  - slug: bpsc-69-q050
+    difficulty: medium
+    stem: राष्ट्रीय शिक्षा नीति, 2020 किस ग्रेड से व्यावसायिक शिक्षा को मुख्यधारा की शिक्षा में एकीकृत करने पर जोर देती है?
+    options:
+      A: ग्रेड 6
+      B: ग्रेड 8
+      C: ग्रेड 10
+      D: ग्रेड 12
+    answer: A
+    explanation: NEP 2020 introduces vocational education from Grade 6, with internships.
+  - slug: bpsc-69-q051
+    difficulty: medium
+    stem: भारत ने किस देश के साथ आर्थिक सहयोग और व्यापार समझौते (ई० सी० टी० ए०) पर हस्ताक्षर किए?
+    options:
+      A: यू० ए० ई०
+      B: ऑस्ट्रेलिया
+      C: यू० एस० ए०
+      D: यू० के०
+    answer: B
+    explanation: India signed the India–Australia ECTA in April 2022; the UAE deal is a CEPA.
+  - slug: bpsc-69-q052
+    difficulty: medium
+    stem: सहज भाषा अधिनियम निम्नलिखित में से किस देश द्वारा हाल ही में पारित किया गया था, जिसमें सरकारी अधिकारियों को आधिकारिक दस्तावेजों और वेबसाइटों में सरल और आसानी से समझ में आने वाली अंग्रेजी भाषा का उपयोग करने की आवश्यकता होती है?
+    options:
+      A: ऑस्ट्रेलिया
+      B: आयरलैंड
+      C: न्यूजीलैंड
+      D: जर्मनी
+    answer: C
+    explanation: New Zealand passed the Plain Language Act in 2022.
+  - slug: bpsc-69-q053
+    difficulty: medium
+    stem: दुनिया के पहले पादप परागणकों, जिन्हें टिलयार्डेम्बिड्स कहा जाता है, के टिलयार्डेम्बी जीवाश्म हाल ही में किस देश में पाए गए थे?
+    options:
+      A: ग्रीस
+      B: भारत
+      C: रूस
+      D: चीन
+    answer: C
+    explanation: The Tillyardembiid fossils, about 280 million years old, were found in the Ural region of Russia.
+  - slug: bpsc-69-q054
+    difficulty: medium
+    stem: सुर्खियाँ बटोरने वाली ‘लिस्बन घोषणा’ किस इकाई के संरक्षण से सम्बन्धित है?
+    options:
+      A: वायु
+      B: पर्वत
+      C: महासागर
+      D: मीठे पानी के ग्लेशियर
+    answer: C
+    explanation: The Lisbon Declaration was adopted at the 2022 UN Ocean Conference on ocean conservation.
+  - slug: bpsc-69-q055
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा जानवर सिंधु घाटी सभ्यता के लोगों को नहीं पता था?
+    options:
+      A: बैल
+      B: घोड़ा
+      C: हाथी
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The horse is not clearly attested in the Harappan civilisation; the bull and elephant appear on seals.
+  - slug: bpsc-69-q056
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा यूनेस्को विश्व धरोहर स्थल नहीं है?
+    options:
+      A: कुतुब मीनार
+      B: लाल किला
+      C: इंडिया गेट
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Qutb Minar and Red Fort are UNESCO sites; India Gate is not.
+  - slug: bpsc-69-q057
+    difficulty: medium
+    stem: भारतीय संविधान में राज्य के नीति-निदेशक सिद्धांत की अवधारणा किस देश के संविधान से ली गई थी?
+    options:
+      A: इंग्लैंड
+      B: स्विट्ज़रलैंड
+      C: आयरलैंड
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The Directive Principles were borrowed from the Irish Constitution.
+  - slug: bpsc-69-q058
+    difficulty: medium
+    stem: सिक्किम भारतीय संघ का पूर्ण राज्य बन गया
+    options:
+      A: 1974 में
+      B: 1975 में
+      C: 1976 में
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Sikkim became a full state by the 36th Amendment in 1975.
+  - slug: bpsc-69-q059
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सी मुद्रा सबसे महँगी है?
+    options:
+      A: यूरो
+      B: पाउंड स्टर्लिंग
+      C: यू० एस० डॉलर
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Of the options, the pound sterling has the highest value per unit.
+  - slug: bpsc-69-q061
+    difficulty: medium
+    stem: भारतीय कला में ‘स्तूप’, ‘चैत्य’ और ‘विहार’ का निर्माण निम्नलिखित में से किससे सम्बन्धित है?
+    options:
+      A: आजीविक सम्प्रदाय
+      B: वैष्णव सम्प्रदाय
+      C: बौद्ध धर्म
+      D: शैव सम्प्रदाय
+    answer: C
+    explanation: Stupas, chaityas and viharas are Buddhist structures.
+  - slug: bpsc-69-q062
+    difficulty: medium
+    stem: भारतीय हस्तशिल्प के सन्दर्भ में, बिहार में ‘सुजिनी’ क्या है?
+    options:
+      A: एक प्रकार का काँच का बर्तन
+      B: एक धातु शिल्प
+      C: एक प्रकार की कढ़ाई
+      D: एक प्रकार का मिट्टी का बर्तन
+    answer: C
+    explanation: Sujini is a GI-tagged quilted embroidery craft of Muzaffarpur, Bihar.
+  - slug: bpsc-69-q063
+    difficulty: medium
+    stem: |-
+      बिहार में विक्रमशिला विश्वविद्यालय के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. यह बिहार के वर्तमान बांका जिले में स्थित था।
+      2. इसकी स्थापना पाल वंश के राजा गोपाल प्रथम ने की थी।
+      3. बौद्ध धर्म का ‘वज्रयान’ सम्प्रदाय यहाँ फला-फूला।
+      4. यहाँ खगोल-विज्ञान, तर्कशास्त्र, कानून, व्याकरण और दर्शन जैसे अन्य विषय भी पढ़ाए जाते थे।
+
+      उपर्युक्त में से कौन-से कथन गलत हैं?
+    options:
+      A: 2 और 3
+      B: 1 और 4
+      C: 1 और 2
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Vikramshila (Antichak) is in Bhagalpur, not Banka, and was founded by Dharmapala, not Gopala. Statements 1 and 2 are incorrect.
+  - slug: bpsc-69-q064
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए :
+
+      भारत में बाबर के आगमन के कारण
+
+      1. उपमहाद्वीप में बारूद का आगमन हुआ
+      2. क्षेत्र की वास्तुकला में मेहराब और गुंबद का परिचय हुआ
+      3. प्रदेश में तैमुरिड राजवंश की स्थापना हुई
+      4. युद्ध में तोपों की शुरुआत हुई
+
+      उपर्युक्त में से कौन-से कथन सही हैं?
+    options:
+      A: केवल 1 और 2
+      B: 1, 2 और 3
+      C: 3 और 4
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Gunpowder and the arch and dome were already known before Babur. He founded the Mughal (Timurid) dynasty and used field artillery and cannons in battle.
+  - slug: bpsc-69-q065
+    difficulty: medium
+    stem: निम्नलिखित में से किस बंदरगाह को मुगल-काल के दौरान बाबुल मक्का (मक्का का द्वार) कहा जाता था?
+    options:
+      A: कालीकट
+      B: सूरत
+      C: कैम्बे
+      D: ब्रोच
+    answer: B
+    explanation: Surat, the port for Haj pilgrims, was called Bab-ul-Makka (Gate of Mecca).
+  - slug: bpsc-69-q066
+    difficulty: medium
+    stem: ‘अष्टप्रधान’ मन्त्रिपरिषद् थी
+    options:
+      A: गुप्त प्रशासन में
+      B: चोल प्रशासन में
+      C: मराठा प्रशासन में
+      D: विजयनगर प्रशासन में
+    answer: C
+    explanation: Ashta Pradhan was Shivaji's council of eight ministers in the Maratha administration.
+  - slug: bpsc-69-q067
+    difficulty: medium
+    stem: ‘बोधिसत्त्व पद्मपाणि’ की पेंटिंग स्थित है
+    options:
+      A: बाग में
+      B: एलोरा में
+      C: अजंता में
+      D: बादामी में
+    answer: C
+    explanation: The Bodhisattva Padmapani painting is in Cave 1 at Ajanta.
+  - slug: bpsc-69-q068
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. फ़ाहियान एक चीनी तीर्थयात्री था, जो हर्ष के शासनकाल के दौरान भारत आया था।
+      2. ह्वेनत्सांग एक चीनी बौद्ध भिक्षु थे, जिन्होंने चंद्रगुप्त द्वितीय के शासनकाल के दौरान भारत का दौरा किया था।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: केवल 1
+      B: केवल 2
+      C: 1 और 2 दोनों
+      D: उपर्युक्त में से कोई नहीं
+    answer: D
+    explanation: Fa-Hien came under Chandragupta II and Hiuen Tsang under Harsha, so both statements are wrong.
+  - slug: bpsc-69-q069
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I | सूची–II |
+      |---|---|
+      | a. चरक | 1. गणित |
+      | b. ब्रह्मगुप्त | 2. चिकित्सा |
+      | c. वराहमिहिर | 3. नाटककार |
+      | d. विशाखदत्त | 4. ज्योतिष |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-2, b-1, c-4, d-3
+      B: a-1, b-2, c-3, d-4
+      C: a-3, b-2, c-4, d-1
+      D: a-1, b-4, c-3, d-2
+    answer: A
+    explanation: Charaka wrote on medicine, Brahmagupta on mathematics, Varahamihira on astrology, and Vishakhadatta was a playwright (Mudrarakshasa).
+  - slug: bpsc-69-q070
+    difficulty: medium
+    stem: इनमें से किसने भारत में फ़ारसी त्योहार नौरोज़ की शुरुआत की?
+    options:
+      A: फ़िरोज शाह तुगलक
+      B: अलाउद्दीन खिलजी
+      C: बलबन
+      D: इल्तुतमिश
+    answer: C
+    explanation: Balban introduced Persian court customs, including the festival of Nauroz.
+  - slug: bpsc-69-q071
+    difficulty: medium
+    stem: नाथपंथियों, सिद्धों और योगियों ने भक्ति धर्म को किस क्षेत्र में लोकप्रिय बनाया?
+    options:
+      A: उत्तर भारत
+      B: दक्षिण भारत
+      C: पूर्व भारत
+      D: पश्चिम भारत
+    answer: A
+    explanation: "NCERT: Nathpanthis, Siddhas and Yogis popularised devotional religion in northern India."
+  - slug: bpsc-69-q072
+    difficulty: medium
+    stem: |-
+      वुड के 1854 के प्रेषण के संबंध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. इसने उच्च अध्ययन के लिए शिक्षा के माध्यम के रूप में अंग्रेजी की सिफारिश की।
+      2. इसने महिला शिक्षा और व्यावसायिक प्रशिक्षण पर जोर दिया।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: केवल 1
+      B: केवल 2
+      C: 1 और 2 दोनों
+      D: न तो 1 और न ही 2
+    answer: C
+    explanation: Wood's Despatch recommended English for higher education and stressed female and vocational education.
+  - slug: bpsc-69-q073
+    difficulty: medium
+    stem: मैथिली भाषा का विकास निम्नलिखित में से किसके शासनकाल के दौरान शुरू हुआ?
+    options:
+      A: चेरो राजवंश
+      B: ओइनिवार राजवंश
+      C: कर्नाट राजवंश
+      D: पिथिपति
+    answer: C
+    explanation: Maithili literature began under the Karnat kings of Mithila (Jyotirishwar's Varna Ratnakara) and flourished further under the Oiniwars.
+  - slug: bpsc-69-q074
+    difficulty: medium
+    stem: प्रारंभिक वैदिक काल के दौरान कौन-सा शहर प्राचीन मगध साम्राज्य की राजधानी के रूप में कार्य करता था?
+    options:
+      A: राजगृह
+      B: चम्पा
+      C: वैशाली
+      D: पाटलिपुत्र
+    answer: A
+    explanation: Rajagriha (Girivraja) was Magadha's early capital, before Pataliputra.
+  - slug: bpsc-69-q075
+    difficulty: medium
+    stem: |-
+      वर्नाक्युलर प्रेस ऐक्ट के बारे में, निम्नलिखित में से कौन-सा/से कथन सही है/हैं?
+
+      1. इसे लॉर्ड लिटन द्वारा अधिनियमित किया गया था।
+      2. इसे ‘गैगिंग अधिनियम’ के रूप में जाना जाने लगा।
+      3. इस अधिनियम को लॉर्ड रिपन ने निरस्त कर दिया था।
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 2 और 3
+      C: केवल 1
+      D: 1, 2 और 3
+    answer: D
+    explanation: Lytton passed the Vernacular Press Act of 1878, called the 'Gagging Act'; Ripon repealed it in 1882.
+  - slug: bpsc-69-q076
+    difficulty: medium
+    stem: |-
+      लॉर्ड मेयो के 1870 के संकल्प के बारे में, निम्नलिखित में से कौन-से कथन सही हैं?
+
+      1. केंद्रीय और प्रांतीय वित्त को विभाजित करने वाला यह पहला कदम था।
+      2. प्रांतीय सरकारों को कुछ सेवाएँ प्रशासित करने का अधिकार दिया गया।
+      3. इसने मौजूदा असमानता को सुधारने का प्रयास किया।
+      4. इसने प्रांतों की वास्तविक आवश्यकताओं पर ध्यान केंद्रित किया।
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 1, 3 और 4
+      C: केवल 2, 3 और 4
+      D: 1, 2, 3 और 4
+    answer: D
+    explanation: Mayo's 1870 resolution began decentralising finances, giving provinces some services and funds based on their needs.
+  - slug: bpsc-69-q077
+    difficulty: medium
+    stem: राजनीति की प्रारंभिक पुस्तक, नीतिसार, किसके द्वारा लिखी गई थी?
+    options:
+      A: कौटिल्य
+      B: कामन्दक
+      C: चरक
+      D: इनमें से कोई नहीं
+    answer: B
+    explanation: The Nitisara was written by Kamandaka.
+  - slug: bpsc-69-q078
+    difficulty: medium
+    stem: फुतुहात-ए-आलमगीरी किसके द्वारा लिखी गई थी?
+    options:
+      A: ईश्वरदास नागर
+      B: भीमसेन
+      C: हरिदास
+      D: इनमें से कोई नहीं
+    answer: A
+    explanation: Futuhat-i-Alamgiri was written by Ishwardas Nagar.
+  - slug: bpsc-69-q079
+    difficulty: medium
+    stem: चीनी स्रोत के अनुसार, श्रीलंका के शासक मेघवर्मन ने गया में बौद्ध मंदिर बनाने की अनुमति के लिए निम्नलिखित में से किस गुप्त राजा के पास एक मिशनरी भेजा था?
+    options:
+      A: चंद्रगुप्त प्रथम
+      B: समुद्रगुप्त
+      C: चंद्रगुप्त द्वितीय
+      D: इनमें से कोई नहीं
+    answer: B
+    explanation: Meghavarman of Sri Lanka sent an embassy to Samudragupta for a monastery at Bodh Gaya.
+  - slug: bpsc-69-q080
+    difficulty: medium
+    stem: कब बिहार पहली बार ब्रिटिश-शासित भारत के तहत बंगाल प्रेसीडेंसी से अलग हुआ था?
+    options:
+      A: "1912"
+      B: "1936"
+      C: "1947"
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Bihar and Orissa were separated from the Bengal Presidency in 1912.
+  - slug: bpsc-69-q081
+    difficulty: medium
+    stem: |-
+      निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. सतह क्षेत्रफल के हिसाब से विक्टोरिया झील दुनिया की तीसरी सबसे बड़ी मीठे पानी की झील है।
+      2. यह अफ्रीका की महान झीलों में से एक है।
+      3. इसकी सीमा चार देशों—तंजानिया, युगांडा, रवांडा और केन्या से लगती है।
+      4. विक्टोरिया झील से निकलने वाली एकमात्र धारा नील नदी है, जो युगांडा के जिंजा के पास झील से बाहर निकलती है।
+
+      उपर्युक्त में से कौन-से कथन गलत हैं?
+    options:
+      A: 1 और 2
+      B: 2 और 4
+      C: 3 और 4
+      D: 1 और 3
+    answer: D
+    explanation: Lake Victoria is the second-largest freshwater lake by area, and it is bordered by three countries (Tanzania, Uganda, Kenya). Statements 1 and 3 are wrong.
+  - slug: bpsc-69-q082
+    difficulty: medium
+    stem: |-
+      ‘हीट वेव’ के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. यदि किसी मैदानी इलाके का अधिकतम तापमान कम-से-कम 30 °C या इससे अधिक तक पहुँच जाता है, तो उसे हीट वेव माना जाता है।
+      2. यदि किसी पहाड़ी इलाके का अधिकतम तापमान कम-से-कम 40 °C या इससे अधिक तक पहुँच जाता है, तो उसे हीट वेव माना जाता है।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: 1 और 2 दोनों
+      B: केवल 1
+      C: केवल 2
+      D: न तो 1 और न ही 2
+    answer: D
+    explanation: "IMD: a heat wave is at least 40 °C in the plains and 30 °C in hilly regions. Both statements swap the figures."
+  - slug: bpsc-69-q083
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I (खोजकर्ता) | सूची–II (जन्मस्थान) |
+      |---|---|
+      | a. क्रिस्टोफर कोलंबस | 1. पुर्तगाल |
+      | b. जैक्स कार्टियर | 2. यूनाइटेड किंगडम |
+      | c. सर फ्रांसिस ड्रेक | 3. इटली |
+      | d. फर्डिनेंड मैगलन | 4. फ्रांस |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-3, b-4, c-2, d-1
+      B: a-1, b-2, c-4, d-3
+      C: a-3, b-4, c-1, d-2
+      D: a-1, b-4, c-2, d-3
+    answer: A
+    explanation: Columbus was born in Italy (Genoa), Cartier in France, Drake in England and Magellan in Portugal.
+  - slug: bpsc-69-q084
+    difficulty: medium
+    stem: यू० ए० ई० के रियासती राज्य हैं
+    options:
+      A: अबू धाबी, दुबई, शारजाह, अजमान, उम्म अल-कैन, फुजैराह, रास अल-खैमाह
+      B: दुबई, शारजाह, अजमान, जेद्दा, कुवैत, बहरीन, उम्म अल-कैन
+      C: उम्म अल-कैन, फुजैराह, रास अल-खैमाह, रियाद, दम्मम, ताइफ़, दुबई
+      D: शारजाह, अबू धाबी, अजमान, फुजैराह, दुबई, बहरीन, कुवैत
+    answer: A
+    explanation: The seven emirates are Abu Dhabi, Dubai, Sharjah, Ajman, Umm Al-Quwain, Fujairah and Ras Al-Khaimah.
+  - slug: bpsc-69-q085
+    difficulty: medium
+    stem: सुवर्णरेखा नदी निम्नलिखित में से किस गाँव के पास से निकलती है?
+    options:
+      A: ओरमांझी
+      B: मंदार
+      C: हेहल
+      D: नगरी
+    answer: D
+    explanation: The Subarnarekha rises near Nagri village, near Ranchi.
+  - slug: bpsc-69-q086
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-से राष्ट्रीय उद्यान/वन्यजीव अभयारण्य बिहार में हैं?
+
+      1. वाल्मीकि राष्ट्रीय उद्यान
+      2. दुधवा राष्ट्रीय उद्यान
+      3. गजनेर वन्यजीव अभयारण्य
+      4. भीम बांध वन्यजीव अभयारण्य
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: 1 और 4
+      B: 2 और 3
+      C: 1 और 3
+      D: 2 और 4
+    answer: A
+    explanation: Valmiki NP and Bhimbandh WLS are in Bihar; Dudhwa is in UP and Gajner in Rajasthan.
+  - slug: bpsc-69-q087
+    difficulty: medium
+    stem: |-
+      ‘गैंगेटिक डॉल्फिन’ के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. गंगा नदी की डॉल्फिन को आइ० यू० सी० एन० की रेड लिस्ट के तहत ‘लुप्तप्राय’ जीव के रूप में वर्गीकृत किया गया है।
+      2. इसमें कोई क्रिस्टलीय नेत्र लेंस नहीं है, जो इसे प्रभावी रूप से अंधा बना देती है।
+      3. यह इकोलोकेशन का उपयोग कर आगे बढ़ती है और शिकार करती है।
+      4. इसे भारत के राष्ट्रीय जलीय जीव के रूप में मान्यता दी गई है।
+
+      उपर्युक्त में से कौन-से कथन सही हैं?
+    options:
+      A: केवल 1, 2 और 4
+      B: केवल 2, 3 और 4
+      C: केवल 1, 3 और 4
+      D: उपर्युक्त सभी
+    answer: D
+    explanation: The Ganges dolphin is Endangered (IUCN), has no crystalline lens, hunts by echolocation, and is India's National Aquatic Animal.
+  - slug: bpsc-69-q088
+    difficulty: medium
+    stem: गंडक नदी का दूसरा नाम है
+    options:
+      A: बूढ़ी गंडक
+      B: महानन्दा
+      C: नारायणी
+      D: पुनपुन
+    answer: C
+    explanation: The Gandak is called the Narayani in Nepal.
+  - slug: bpsc-69-q089
+    difficulty: medium
+    stem: बिहार के निम्नलिखित में से किस जिले में सोना पाया जाता है?
+    options:
+      A: मुंगेर
+      B: सारण
+      C: सिवान
+      D: जमुई
+    answer: D
+    explanation: Bihar's gold reserves are at Karmatiya/Sono in Jamui district.
+  - slug: bpsc-69-q090
+    difficulty: medium
+    stem: त्रिवेणी नहर का निर्माण निम्नलिखित में से किस नदी पर किया गया है?
+    options:
+      A: कोसी
+      B: सोन
+      C: गंडक
+      D: मयूराक्षी
+    answer: C
+    explanation: The Triveni Canal takes off from the Gandak at Triveni.
+  - slug: bpsc-69-q091
+    difficulty: medium
+    stem: |-
+      अभिकथन (A) : घाना तट पर सोने के समृद्ध प्लेसर जमाव पाए जाते हैं और ब्राज़ील में सोने की शिराएँ पाई जाती हैं।
+
+      कारण (R) : किसी समय ये महाद्वीप अटलांटिक तट के साथ एकसाथ संयुक्त थे।
+
+      सही उत्तर चुनिए।
+    options:
+      A: A और R दोनों सही हैं और R, A की सही व्याख्या है
+      B: A और R दोनों सही हैं पर R, A की सही व्याख्या नहीं है
+      C: A गलत है पर R सही है
+      D: A सही है पर R गलत है
+    answer: A
+    explanation: "NCERT: Ghana's gold placers and Brazil's gold veins are explained by Africa and South America having been joined (continental drift)."
+  - slug: bpsc-69-q092
+    difficulty: medium
+    stem: |-
+      बिहार की भौगोलिक संरचना चट्टानी प्रणालियों से बनी है। चट्टानी प्रणालियों का उनके विवरण से मिलान कीजिए :
+
+      | सूची–I | सूची–II |
+      |---|---|
+      | a. धारवाड़ चट्टान प्रणाली | 1. हिमालयी और प्रायद्वीपीय नदियों द्वारा मिट्टी आदि के तीव्र जमाव से निर्मित |
+      | b. विध्यन चट्टान प्रणाली | 2. पश्चिमी चंपारण जिले में पाई जा सकती है |
+      | c. क्वाटरनरी चट्टान प्रणाली | 3. सबसे पुराने आर्कियन रॉक सिस्टम का हिस्सा है |
+      | d. तृतीयक चट्टान प्रणाली | 4. बलुआ पत्थर, चूना पत्थर, डोलोमाइट, कार्टजाइट और शेल इस चट्टान प्रणाली के मुख्य घटक हैं |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-3, b-4, c-1, d-2
+      B: a-1, b-3, c-2, d-4
+      C: a-2, b-3, c-4, d-1
+      D: a-4, b-2, c-3, d-1
+    answer: A
+    explanation: Dharwar is part of the oldest Archaean rocks; Vindhyan has sandstone and limestone; Quaternary is alluvium; Tertiary (Siwalik) is in West Champaran.
+  - slug: bpsc-69-q093
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा समुद्री जैव विविधता के दृष्टिकोण से दुनिया का सबसे समृद्ध क्षेत्र है, जिसमें ज्वारनदमुख, समुद्र तट, निकट-तटीय पर्यावरण के जंगल, समुद्री घास, प्रवाल भित्तियाँ, नमक दलदल और मैंग्रोव के साथ इक्कीस द्वीप शामिल हैं?
+    options:
+      A: मन्नार की खाड़ी बायोस्फीयर रिजर्व
+      B: नंदा देवी बायोस्फीयर रिजर्व
+      C: सुंदरबन बायोस्फीयर रिजर्व
+      D: नीलगिरी बायोस्फीयर रिजर्व
+    answer: A
+    explanation: The Gulf of Mannar Biosphere Reserve has 21 islands with corals, sea grass and mangroves.
+  - slug: bpsc-69-q094
+    difficulty: medium
+    stem: 90° पूर्वी देशांतर पर स्थित थिम्पू (भूटान) का स्थानीय समय निर्धारित कीजिए, जब ग्रीनविच (0°) में दोपहर 12:00 बजे का समय है।
+    options:
+      A: 6:00 p.m.
+      B: 4:00 p.m.
+      C: 7:00 p.m.
+      D: 6:00 a.m.
+    answer: A
+    explanation: 90° × 4 min = 6 h ahead of Greenwich, so it is 6:00 p.m.
+  - slug: bpsc-69-q095
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा कथन सही है?
+    options:
+      A: धारवाड़ चट्टान संरचना में प्राकृतिक गैस पाई जाती है।
+      B: अभ्रक कोडरमा में पाया जाता है।
+      C: कडप्पा शृंखला हीरों के लिए प्रसिद्ध है।
+      D: पेट्रोलियम भंडार अरावली पहाड़ियों में पाए जाते हैं।
+    answer: B
+    explanation: Koderma is known for mica; the other statements are false.
+  - slug: bpsc-69-q096
+    difficulty: medium
+    stem: ग्लोब पर 1 डिग्री के अन्तराल पर खींची गई अक्षांश रेखाएँ कितनी हैं?
+    options:
+      A: "180"
+      B: "178"
+      C: "179"
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: At 1° spacing there are 89 parallels in each hemisphere plus the Equator, 179 lines; the poles are points.
+  - slug: bpsc-69-q097
+    difficulty: medium
+    stem: कोसी मैदान की माध्य समुद्र तल से औसत ऊँचाई है
+    options:
+      A: 300 मीटर
+      B: 150 मीटर
+      C: 30 मीटर
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The key says the Kosi plain slopes from about 54 m at Birpur to about 25–36 m near the Ganga, giving an average of about 30 m.
+  - slug: bpsc-69-q098
+    difficulty: medium
+    stem: किस पठार पर कर्क-रेखा तथा भारतीय मानक समय रेखा एक-दूसरे को काटती हैं?
+    options:
+      A: बुन्देलखण्ड
+      B: बघेलखण्ड
+      C: मालवा
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: The Tropic of Cancer and 82.5° E cross near Korea/Surguja in Chhattisgarh, on the Baghelkhand plateau.
+  - slug: bpsc-69-q099
+    difficulty: medium
+    stem: उत्तराखण्ड का कौन-सा जिला तिब्बत सीमा से नहीं लगा है?
+    options:
+      A: उत्तरकाशी
+      B: चमोली
+      C: अलमोड़ा
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: Almora does not touch the Tibet border; Uttarkashi and Chamoli do.
+  - slug: bpsc-69-q100
+    difficulty: medium
+    stem: एल नीनो धारा कहाँ प्रवाहित होती है?
+    options:
+      A: प्रशान्त महासागर
+      B: हिन्द महासागर
+      C: बंगाल की खाड़ी
+      D: उपर्युक्त में से एक से अधिक
+    answer: A
+    explanation: El Niño is a warm current and condition in the equatorial eastern Pacific off Peru.
+  - slug: bpsc-69-q101
+    difficulty: medium
+    stem: |-
+      कॉलेजियम प्रणाली के बारे में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. सुप्रीम कोर्ट कॉलेजियम एक पाँच-सदस्यीय निकाय है, जिसकी अध्यक्षता भारत के मौजूदा मुख्य न्यायाधीश (सी० जे० आइ०) करते हैं और उस समय इसमें न्यायालय में कार्यरत चार अन्य वरिष्ठतम न्यायाधीश शामिल होते हैं।
+      2. संसद ने विधि द्वारा कॉलेजियम प्रणाली का आरम्भ किया है।
+      3. उच्चतम न्यायालय और उच्च न्यायालयों के न्यायाधीशों की नियुक्ति कॉलेजियम प्रणाली के माध्यम से ही की जाती है।
+      4. कॉलेजियम प्रणाली की शुरुआत वर्ष 1993 में न्यायाधीश पी० एन० भगवती के ऐतिहासिक फर्स्ट जज मामले के उपलक्ष्य में की गई थी।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: केवल 1
+      B: 1 और 2
+      C: 3 और 4
+      D: 1 और 3
+    answer: D
+    explanation: The collegium is the CJI plus four seniormost judges, and SC/HC judges are appointed through it. It is not a law of Parliament and came from the Second Judges Case (1993), not Bhagwati.
+  - slug: bpsc-69-q102
+    difficulty: medium
+    stem: |-
+      भारतीय संविधान के 42वें संशोधन के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. इसने प्रस्तावना में तीन शब्द जोड़े—‘समाजवाद’, ‘धर्मनिरपेक्ष’ और ‘अखंडता’।
+      2. इसने संविधान में आठ मौलिक कर्तव्य जोड़े।
+      3. इसने नए निदेशक-सिद्धान्त जोड़े, यानी, अनुच्छेद 39A, अनुच्छेद 43A और अनुच्छेद 47.
+      4. इसके द्वारा राष्ट्रपति को चुनाव आयोग के परामर्श से राज्य विधान-सभाओं/मण्डलों के सदस्यों को अयोग्य घोषित करने का अधिकार प्रदान किया गया।
+
+      उपर्युक्त में से कौन-से कथन गलत हैं?
+    options:
+      A: 1 और 2
+      B: 3 और 4
+      C: 2 और 3
+      D: 1 और 4
+    answer: C
+    explanation: The 42nd Amendment added ten (not eight) Fundamental Duties and the DPSPs 39A, 43A and 48A (Article 47 was original). Statements 2 and 3 are incorrect.
+  - slug: bpsc-69-q103
+    difficulty: medium
+    stem: |-
+      किसी समुदाय को अनुसूचित जनजाति के रूप में घोषित करने के लिए आवश्यक विशिष्टताएँ हैं
+
+      1. आदिम लक्षणों के संकेत
+      2. विशिष्ट संस्कृति
+      3. बड़े पैमाने पर समुदाय के साथ सम्पर्क में शर्म
+      4. पिछड़ापन एवं भौगोलिक अलगाव
+
+      उपर्युक्त में से कौन-से सही हैं?
+    options:
+      A: केवल 1 और 2
+      B: केवल 2, 3 और 4
+      C: केवल 1, 3 और 4
+      D: उपर्युक्त सभी
+    answer: D
+    explanation: The Lokur Committee criteria are primitive traits, distinctive culture, geographical isolation, shyness of contact and backwardness.
+  - slug: bpsc-69-q104
+    difficulty: medium
+    stem: भारतीय संविधान में मौलिक अधिकारों के विचार का सन्दर्भ किस देश से लिया गया है?
+    options:
+      A: आयरलैंड
+      B: संयुक्त राज्य अमेरिका
+      C: यूनाइटेड किंगडम
+      D: कनाडा
+    answer: B
+    explanation: The Fundamental Rights were modelled on the US Bill of Rights.
+  - slug: bpsc-69-q105
+    difficulty: medium
+    stem: भारतीय संविधान के किस अनुच्छेद द्वारा अस्पृश्यता को समाप्त किया गया है?
+    options:
+      A: अनुच्छेद 14
+      B: अनुच्छेद 15
+      C: अनुच्छेद 17
+      D: अनुच्छेद 22
+    answer: C
+    explanation: Article 17 abolishes untouchability.
+  - slug: bpsc-69-q106
+    difficulty: medium
+    stem: उच्च न्यायालय में न्यायाधीशों की संख्या निर्धारित करने का अधिकार निम्नलिखित में से किसके पास है?
+    options:
+      A: राष्ट्रपति
+      B: राज्य के मुख्यमंत्री
+      C: प्रधानमंत्री
+      D: संसद
+    answer: A
+    explanation: Under Article 216 the President decides the strength of each High Court.
+  - slug: bpsc-69-q107
+    difficulty: medium
+    stem: पाँचवीं अनुसूची किस विशिष्ट समूह के लोगों के शासन और हितों की सुरक्षा से सम्बन्धित है?
+    options:
+      A: अनुसूचित जाति
+      B: धार्मिक अल्पसंख्यक
+      C: अनुसूचित जनजाति
+      D: भाषाई अल्पसंख्यक
+    answer: C
+    explanation: The Fifth Schedule covers the administration of Scheduled Areas and Scheduled Tribes.
+  - slug: bpsc-69-q108
+    difficulty: medium
+    stem: भारतीय सर्वोच्च न्यायालय ने किस/किन मुकदमे/मुकदमों में सर्वप्रथम संविधान के ‘मूल ढाँचे’ का सिद्धांत दिया?
+    options:
+      A: गोलकनाथ बनाम पंजाब राज्य
+      B: केशवानन्द भारती बनाम केरल राज्य
+      C: मिनर्वा मिल्स बनाम भारतीय संघ
+      D: (A) और (B) दोनों
+    answer: B
+    explanation: The basic structure doctrine was laid down in Kesavananda Bharati (1973).
+  - slug: bpsc-69-q109
+    difficulty: medium
+    stem: |-
+      सूची–I में सूचीबद्ध राजनीतिक दलों को सूची–II में उनकी स्थापना के वर्ष के साथ सुमेलित कीजिए :
+
+      | सूची–I (राजनीतिक दल) | सूची–II (स्थापना के वर्ष) |
+      |---|---|
+      | a. भारतीय कम्युनिस्ट पार्टी (मार्क्सवादी) | 1. 1964 |
+      | b. भारतीय कम्युनिस्ट पार्टी | 2. 1998 |
+      | c. बहुजन समाज पार्टी | 3. 1925 |
+      | d. ऑल इन्डिया तृणमूल कॉंग्रेस (ए० आइ० टी० सी०) | 4. 1984 |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-1, b-3, c-4, d-2
+      B: a-2, b-1, c-4, d-3
+      C: a-2, b-1, c-3, d-4
+      D: a-3, b-4, c-1, d-2
+    answer: A
+    explanation: CPI(M) was founded in 1964, CPI in 1925, BSP in 1984 and AITC in 1998.
+  - slug: bpsc-69-q110
+    difficulty: medium
+    stem: किस/किन अनुच्छेद/अनुच्छेदों के अन्तर्गत अध्यक्ष सदन के किसी सदस्य को उसकी मातृभाषा में बोलने की इजाजत दे सकता है?
+    options:
+      A: अनुच्छेद 110 (1)
+      B: अनुच्छेद 122 (2)
+      C: अनुच्छेद 120 (1)
+      D: (A) और (B) दोनों
+    answer: C
+    explanation: Under the proviso to Article 120(1), the Speaker or Chairman may let a member speak in their mother tongue.
+  - slug: bpsc-69-q111
+    difficulty: medium
+    stem: |-
+      आर० बी० आइ० के विदेशी मुद्रा भंडार (एफ० ई० आर०) में, निम्नलिखित में से कौन-से शामिल हैं?
+
+      1. विदेशी मुद्रा परिसम्पत्तियाँ (एफ० सी० ए०)
+      2. सोना
+      3. विशेष आहरण अधिकार (एस० डी० आर०)
+      4. आरक्षित किश्त स्थिति
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 2, 3 और 4
+      C: केवल 1, 2 और 3
+      D: उपर्युक्त सभी
+    answer: D
+    explanation: RBI's forex reserves comprise FCA, gold, SDRs and the reserve tranche position with the IMF.
+  - slug: bpsc-69-q112
+    difficulty: medium
+    stem: |-
+      ‘उत्पत्ति के नियम’ के बारे में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. उत्पत्ति के नियम किसी उत्पाद के राष्ट्रीय स्रोत को निर्धारित करने के लिए आवश्यक मानदण्ड हैं।
+      2. उत्पत्ति के नियम कस्टम एजेंसियों को यह जानने में मदद करते हैं कि किसी दिए गए उत्पाद पर कौन-से नियम और कौन-से शुल्क लागू होते हैं।
+      3. इनका उपयोग व्यापार सांख्यिकी के प्रयोजन के लिए किया जाता है।
+      4. उनका महत्त्व इस तथ्य से प्रमाणित होता है कि कई मामलों में कर और प्रतिबन्ध आयातों के स्रोतों पर निर्भर करते हैं।
+
+      उपर्युक्त में से कौन-से कथन सही हैं?
+    options:
+      A: केवल 1 और 2
+      B: केवल 3 और 4
+      C: केवल 1, 3 और 4
+      D: उपर्युक्त सभी
+    answer: D
+    explanation: All four statements correctly describe rules of origin (WTO).
+  - slug: bpsc-69-q113
+    difficulty: medium
+    stem: |-
+      शिशु मृत्यु दर के बारे में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. यह शिशु के जन्म से लेकर ठीक 1 वर्ष की आयु के बीच मृत्यु की सम्भावना है, जो प्रति 10000 जीवित जन्मों पर व्यक्त की जाती है।
+      2. वर्ष 1950 में शिशु मृत्यु दर 189·6 थी।
+      3. वर्ष 2019 में शिशु मृत्यु दर 30 थी।
+      4. रजिस्ट्रार जनरल ऑफ इन्डिया (आर० जी० आइ०) के सैंपल रजिस्ट्रेशन सिस्टम (एस० आर० एस०) के बुलेटिन के अनुसार उत्तर प्रदेश, वर्ष 2019 में सबसे अधिक शिशु मृत्यु दर वाला राज्य था।
+
+      उपर्युक्त में से कौन-से कथन सही हैं?
+    options:
+      A: 1, 2 और 3
+      B: 2, 3 और 4
+      C: केवल 2 और 3
+      D: 1 और 4
+    answer: C
+    explanation: IMR is per 1,000 live births, and in 2019 MP (46) had the highest IMR, not UP. Statements 2 and 3 stand.
+  - slug: bpsc-69-q114
+    difficulty: medium
+    stem: |-
+      एक अवधारणा के रूप में मानव पूँजी निर्माण की बेहतर व्याख्या एक प्रक्रिया के सन्दर्भ में की जाती है, जो सक्षम बनाती है
+
+      1. किसी देश के व्यक्तियों द्वारा अधिक पूँजी संचय करने को
+      2. ज्ञान में वृद्धि करने को
+      3. कौशल स्तरों में वृद्धि करने को
+      4. देश के लोगों के ज्ञान, कौशल स्तरों और क्षमताओं में वृद्धि करने को
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1
+      B: 1 और 2
+      C: 3 और 4
+      D: केवल 4
+    answer: D
+    explanation: Human capital formation means increasing the knowledge, skills and capacities of the people (NCERT).
+  - slug: bpsc-69-q115
+    difficulty: medium
+    stem: |-
+      दिवाला और शोधन अक्षमता के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. शोधन अक्षमता से तात्पर्य उस वित्तीय स्थिति से है, जिसमें कोई व्यक्ति या संस्था बकाया होने पर अपने ऋणों का भुगतान करने में असमर्थ होता है।
+      2. दिवाला एक कानूनी प्रक्रिया को सन्दर्भित करता है, जहाँ देनदार की सम्पत्ति लेनदारों के लाभ के लिए समाप्त या पुनर्गठित की जाती है।
+      3. शोधन अक्षमता एक अवस्था है, जबकि दिवाला निष्कर्ष है।
+      4. भारतीय दिवाला और शोधन अक्षमता बोर्ड (आइ० बी० बी० आइ०) दिवाला और शोधन अक्षमता कार्यवाही की देखरेख के लिए जिम्मेदार नियामक निकाय है।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: 1, 2 और 3
+      B: 2, 3 और 4
+      C: केवल 4
+      D: केवल 1 और 2
+    answer: C
+    explanation: Statements 1–3 swap insolvency (a state of inability to pay) and bankruptcy (the legal conclusion); only statement 4 on IBBI is correct.
+  - slug: bpsc-69-q116
+    difficulty: medium
+    stem: औद्योगिक नीति संकल्प किस वर्ष अपनाया गया?
+    options:
+      A: "1956"
+      B: "1954"
+      C: "1952"
+      D: "1950"
+    answer: A
+    explanation: The second Industrial Policy Resolution was adopted in 1956 (the first was in 1948, which is not an option).
+  - slug: bpsc-69-q117
+    difficulty: medium
+    stem: |-
+      उत्पादन-सम्बद्ध प्रोत्साहन (पी० एल० आइ०) योजना के बारे में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. यह योजना घरेलू विनिर्माण को बढ़ावा देने और मोबाइल फोन विनिर्माण तथा निर्दिष्ट इलेक्ट्रॉनिक घटकों में बड़े निवेश को आकर्षित करने के लिए उत्पादन से जुड़े प्रोत्साहन की पेशकश करती है।
+      2. इस योजना में आवेदकों की दो श्रेणियाँ हैं, वैश्विक कम्पनियाँ और घरेलू कम्पनियाँ।
+      3. यह योजना पात्र कम्पनियों को छः वर्षों की अवधि के लिए भारत में निर्मित और लक्ष्य श्रेणी में शामिल वस्तुओं की शुद्ध वृद्धिशील बिक्री (आधार वर्ष पर) पर लगभग 8% का औसत प्रोत्साहन प्रदान करती है।
+      4. पी० एल० आइ० के तहत लक्ष्य श्रेणी में (i) लैपटॉप, (ii) टैबलेट, (iii) ऑल-इन-वन पी० सी० (iv) सर्वर और (v) अल्ट्रा-स्मॉल फॉर्म फैक्टर (यू० एस० एफ० एफ०) शामिल होंगे।
+
+      उपर्युक्त में से कौन-से कथन गलत हैं?
+    options:
+      A: 1 और 4
+      B: 2 और 4
+      C: 1 और 3
+      D: 2 और 3
+    answer: D
+    explanation: "The key treats statements 1 and 4 as correct descriptions of PLI and 2 and 3 as incorrect: the incentive is not about 8% for six years."
+  - slug: bpsc-69-q118
+    difficulty: medium
+    stem: |-
+      ‘स्वामित्व’ योजना के सम्बन्ध में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. यह खान मन्त्रालय के दायरे में कार्यरत एक केन्द्रीय क्षेत्रक योजना है।
+      2. यह योजना सी० ओ० आर० एस० नेटवर्क की तरह जियोपोजिशनिंग इंफ्रास्ट्रक्चर को पाँच सेन्टीमीटर तक की सटीकता प्रदान करने योग्य मानक बनाने का प्रयास कर रही है।
+      3. सी० ओ० आर० एस० का मतलब क्रॉस-ओरिजिन रिसोर्स शेयरिंग है।
+      4. यह योजना ड्रोन तकनीक का उपयोग कर भूमि के छोटे-छोटे खण्डों का नक्शा तैयार करके ग्रामीण बस्तियों (आबादी) के क्षेत्रों में संपत्ति का स्पष्ट स्वामित्व स्थापित करने के लिए एक सुधारात्मक पहल प्रदान करती है।
+
+      उपर्युक्त में से कौन-से कथन गलत हैं?
+    options:
+      A: 2 और 4
+      B: 1 और 3
+      C: 2 और 3
+      D: 1 और 4
+    answer: B
+    explanation: SVAMITVA is run by the Ministry of Panchayati Raj, and CORS means Continuously Operating Reference Stations. Statements 1 and 3 are incorrect.
+  - slug: bpsc-69-q119
+    difficulty: medium
+    stem: |-
+      किसी वित्तीय आपातकाल की स्थिति में अनुच्छेद 360 को लागू करने का/के परिणाम निम्नलिखित में से कौन-सा/से है/हैं?
+
+      1. राष्ट्रपति राज्यों को राज्य मामलों के सम्बन्ध में सेवारत सभी या किसी वर्ग के कर्मचारियों के वेतन और भत्ते कम करने का आदेश दे सकते हैं।
+      2. राज्य विधानमंडल द्वारा पारित धन विधेयक या अन्य वित्तीय विधेयक को राष्ट्रपति के विचारार्थ आरक्षित रखने की आवश्यकता नहीं है।
+      3. राष्ट्रपति उच्चतम न्यायालय और उच्च न्यायालयों के जजों के साथ संघ मामलों के सम्बन्ध में सेवारत सभी या किसी वर्ग के कर्मचारियों के वेतन और भत्ते कम करने का आदेश दे सकते हैं।
+      4. राज्य विधानमंडल द्वारा पारित होने के बाद धन विधेयक या अन्य वित्तीय विधेयक राष्ट्रपति के विचारार्थ आरक्षित रखी जाएगी।
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1, 3 और 4
+      B: केवल 2
+      C: केवल 1 और 2
+      D: उपर्युक्त सभी
+    answer: A
+    explanation: Article 360(4) lets the President cut state and Union salaries (including judges') and require state money bills to be reserved, so 1, 3 and 4 are right.
+  - slug: bpsc-69-q120
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-से कारक संभावित रूप से भारतीय अर्थव्यवस्था में मुद्रास्फीतिजनित मंदी में योगदान कर सकते हैं?
+
+      1. सरकारी खर्च में वृद्धि के कारण उच्च मुद्रास्फीति दबाव
+      2. औद्योगिक उत्पादन में गिरावट और आर्थिक विकास में सुस्ती
+      3. कुल माँग और उपभोक्ता खर्च में कमी
+      4. घरेलू मुद्रा की वृद्धि के कारण निर्यात प्रतिस्पर्धात्मकता में कमी
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 2 और 3
+      C: केवल 1, 3 और 4
+      D: 1, 2, 3 और 4
+    answer: D
+    explanation: Stagflation combines inflation with stagnation; all four factors can push towards high prices with weak growth.
+  - slug: bpsc-69-q121
+    difficulty: medium
+    stem: |-
+      आर्थिक सर्वेक्षण, 2023 के अनुसार, निम्नलिखित में से कौन-सा/से कथन भारत में प्रत्यक्ष विदेशी निवेश की प्रवृत्ति का वर्णन करता/करते है/हैं?
+
+      1. निजी क्षेत्र की कम भागीदारी के कारण इसमें कमी आई है।
+      2. महामारी से पहले के स्तर की तुलना में इसमें वृद्धि हुई।
+      3. टेलीकॉम सेक्टर में पूरी तरह से सुधार होने के बाद किसी भी वित्तीय वर्ष में बिना घटे इसमें तेजी से बढ़ोतरी हुई।
+      4. कमजोर वैश्विक आर्थिक स्थिति के कारण इसमें कमी आई है।
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 3
+      B: 2 और 4
+      C: 1, 2 और 3
+      D: केवल 4
+    answer: D
+    explanation: |-
+      **Disputed.** BPSC's final key says D; our check suggests B.
+
+      The key reads the 'trend' as falling because of weak global conditions (statement 4 only). But the same Survey passage says inflows remain above pre-pandemic levels, so B (2 and 4) is arguable.
+  - slug: bpsc-69-q123
+    difficulty: medium
+    stem: केन्द्र सरकार के गैर-योजना व्यय के बारे में, निम्नलिखित में से कौन-सा कथन सही है?
+    options:
+      A: व्यय, ब्याज भुगतान पर होता है।
+      B: व्यय, विज्ञान और प्रौद्योगिकी पर होता है।
+      C: व्यय, कृषि पर होता है।
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: Interest payments were the largest item of non-plan expenditure; science, technology and agriculture were largely plan spending.
+  - slug: bpsc-69-q124
+    difficulty: medium
+    stem: वैश्वीकरण और भारत पर इसके प्रभाव के बारे में, निम्नलिखित में से कौन-सा सत्य नहीं है?
+    options:
+      A: इसने वस्तुओं और सेवाओं में व्यापार का विस्तार किया है।
+      B: इससे प्रत्यक्ष विदेशी निवेश का प्रवाह बढ़ा है।
+      C: निर्यात में वृद्धि, आयात में वृद्धि से अधिक है।
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: After globalisation India's imports grew faster than its exports (persistent trade deficit), so C is not true.
+  - slug: bpsc-69-q125
+    difficulty: medium
+    stem: |-
+      संघ सरकार के वित्त में नवीनतम विकास के बारे में, निम्नलिखित कथनों पर विचार कीजिए :
+
+      1. महामारी वित्तीय वर्ष 21 के दौरान संघ सरकार का राजकोषीय घाटा सकल घरेलू उत्पाद के 9·2 प्रतिशत तक पहुँच गया था।
+      2. वित्तीय वर्ष 22 में राजकोषीय घाटा कम होकर सकल घरेलू उत्पाद का 7·7 प्रतिशत हो गया है।
+      3. पिछले दो वर्षों में राजस्व संग्रह कम हो गया है।
+
+      उपर्युक्त में से कौन-सा/से कथन सही है/हैं?
+    options:
+      A: केवल 1
+      B: 1 और 2
+      C: 2 और 3
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: "Economic Survey 2023: fiscal deficit was 9.2% of GDP in FY21 and 6.7% (not 7.7%) in FY22, and revenue collections rose. Only 1 is correct."
+  - slug: bpsc-69-q126
+    difficulty: medium
+    stem: |-
+      1857 के विद्रोह की विफलता के निम्नलिखित में से कौन-से कारण थे?
+
+      1. अंग्रेजों की सैन्य श्रेष्ठता
+      2. विद्रोहियों के पास कोई एकीकृत कार्यक्रम एवं विचारधारा नहीं थी
+      3. समाज के सभी वर्गों से समर्थन का अभाव था
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: केवल 1 और 2
+      B: केवल 2 और 3
+      C: उपर्युक्त सभी
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: British military superiority, the lack of a unified programme and limited support across society all caused the revolt's failure.
+  - slug: bpsc-69-q127
+    difficulty: medium
+    stem: बिहार का वह रसोइया, जिसने 1917 में महात्मा गाँधी की हत्या के प्रयास को विफल कर उनके भोजन में मिले जहर से उनकी जान बचाई थी, था
+    options:
+      A: मुजफ्फर अहमद
+      B: बटक मियाँ
+      C: मीर बकवाल
+      D: इनमें से कोई नहीं
+    answer: B
+    explanation: Batak Mian Ansari refused to poison Gandhi's food at Motihari in 1917.
+  - slug: bpsc-69-q128
+    difficulty: medium
+    stem: 1937–1938 के दौरान, बिहार में बकाश्त आन्दोलन किसके द्वारा आयोजित किया गया था?
+    options:
+      A: स्वामी दयानन्द सरस्वती
+      B: जय प्रकाश नारायण
+      C: स्वामी सहजानन्द सरस्वती
+      D: पीर अली खान
+    answer: C
+    explanation: The Bakasht movement (1937–39) was led by Swami Sahajanand Saraswati's Kisan Sabha.
+  - slug: bpsc-69-q129
+    difficulty: medium
+    stem: |-
+      भारत के स्वतन्त्रता संग्राम के दौरान, निम्नलिखित घटनाओं पर विचार कीजिए :
+
+      1. होम रूल आन्दोलन
+      2. सूरत विभाजन
+      3. खेड़ा सत्याग्रह
+      4. मिन्टो-मॉर्ले सुधार
+
+      ऊपर दी गई घटनाओं का निम्नलिखित में से कौन-सा सही कालानुक्रमिक क्रम है?
+    options:
+      A: 1–3–2–4
+      B: 2–4–1–3
+      C: 1–4–2–3
+      D: 2–3–1–4
+    answer: B
+    explanation: Surat Split 1907, Minto-Morley Reforms 1909, Home Rule 1916, Kheda 1918, so 2–4–1–3.
+  - slug: bpsc-69-q130
+    difficulty: medium
+    stem: लॉर्ड लिटन निम्नलिखित में से किससे सम्बन्धित नहीं हैं?
+    options:
+      A: स्ट्रैची कमीशन
+      B: शस्त्र अधिनियम
+      C: वर्नाक्युलर प्रेस ऐक्ट
+      D: इल्बर्ट बिल
+    answer: D
+    explanation: The Ilbert Bill (1883) was under Ripon; Lytton is linked to the Strachey Commission, the Arms Act and the Vernacular Press Act.
+  - slug: bpsc-69-q131
+    difficulty: medium
+    stem: बक्सर की लड़ाई के बाद किस संधि पर हस्ताक्षर किए गए?
+    options:
+      A: इलाहाबाद संधि
+      B: सुगौली संधि
+      C: बेसिन संधि
+      D: सालबाई संधि
+    answer: A
+    explanation: The Treaty of Allahabad (1765) followed the Battle of Buxar (1764).
+  - slug: bpsc-69-q132
+    difficulty: medium
+    stem: डच ईस्ट इन्डिया कम्पनी ने किस वर्ष पटना में अपना कारखाना स्थापित किया?
+    options:
+      A: "1635"
+      B: "1632"
+      C: "1643"
+      D: "1648"
+    answer: B
+    explanation: The Dutch set up their Patna factory in 1632.
+  - slug: bpsc-69-q133
+    difficulty: medium
+    stem: निम्नलिखित में से किस आन्दोलन में महात्मा गाँधी ने भूख हड़ताल को हथियार के रूप में सर्वप्रथम प्रयोग किया था?
+    options:
+      A: असहयोग आन्दोलन
+      B: बरदोली सत्याग्रह
+      C: अहमदाबाद हड़ताल
+      D: रौलट सत्याग्रह
+    answer: C
+    explanation: Gandhi first used a hunger strike during the Ahmedabad mill strike of 1918.
+  - slug: bpsc-69-q134
+    difficulty: medium
+    stem: सन् 1942 में भारत छोड़ो आन्दोलन में बिहार के नेताओं का महत्त्वपूर्ण योगदान रहा था। बिहार के कौन-से प्रमुख नेता ‘बिहार केसरी’ के नाम से जाने जाते थे और उन्होंने भारत छोड़ो आन्दोलन में सक्रिय रूप से भाग लिया था?
+    options:
+      A: डॉ० राजेन्द्र प्रसाद
+      B: श्रीकृष्ण सिह
+      C: अनुग्रह नारायण सिन्हा
+      D: राम मनोहर लोहिया
+    answer: B
+    explanation: Shri Krishna Singh, Bihar's first Chief Minister, was called 'Bihar Kesari'.
+  - slug: bpsc-69-q135
+    difficulty: medium
+    stem: चम्पारण आन्दोलन के जन आन्दोलन की प्रतिक्रिया में ब्रिटिश सरकार ने इस मुद्दे के समाधान के लिए कौन-सा कदम उठाया?
+    options:
+      A: महात्मा गाँधी को चम्पारण का राज्यपाल नियुक्त किया
+      B: क्षेत्र में सख्त कर्फ्यू लागू किया और मार्शल लॉ लगाया
+      C: चम्पारण कृषि समिति की स्थापना की
+      D: चम्पारण को एक स्वतंत्र राज्य घोषित किया
+    answer: C
+    explanation: The government set up the Champaran Agrarian Committee (1917), with Gandhi as a member.
+  - slug: bpsc-69-q136
+    difficulty: medium
+    stem: |-
+      सूची–I को सूची–II से सुमेलित कीजिए :
+
+      | सूची–I | सूची–II |
+      |---|---|
+      | a. भारत सेवक समाज | 1. देबेन्द्रनाथ टैगोर |
+      | b. तत्त्वबोधिनी सभा | 2. गोपाल कृष्ण गोखले |
+      | c. आत्मीय सभा | 3. राम मोहन रॉय |
+      |  | 4. केशब चन्द्र सेन |
+
+      नीचे दिए गए कूट का प्रयोग कर सही उत्तर चुनिए।
+    options:
+      A: a-2, b-1, c-3
+      B: a-2, b-4, c-3
+      C: a-1, b-2, c-3
+      D: a-1, b-4, c-3
+    answer: A
+    explanation: Gokhale founded the Servants of India Society, Debendranath Tagore the Tattwabodhini Sabha, and Ram Mohan Roy the Atmiya Sabha.
+  - slug: bpsc-69-q137
+    difficulty: medium
+    stem: अंबाबाई, एक स्वतन्त्रता सेनानी, भारत के किस राज्य की थीं?
+    options:
+      A: केरल
+      B: आंध्र प्रदेश
+      C: कर्नाटक
+      D: मध्य प्रदेश
+    answer: C
+    explanation: Ambabai of Karnataka was a freedom fighter in the Non-Cooperation era.
+  - slug: bpsc-69-q138
+    difficulty: medium
+    stem: इनमें से कौन कैबिनेट मिशन के सदस्य नहीं थे?
+    options:
+      A: पी० लॉरेन्स
+      B: ए० वी० अलेक्जेन्डर
+      C: जे० एन्ड्र्यू
+      D: इनमें से कोई नहीं
+    answer: C
+    explanation: The Cabinet Mission was Pethick-Lawrence, Stafford Cripps and A. V. Alexander; there was no J. Andrew.
+  - slug: bpsc-69-q139
+    difficulty: medium
+    stem: “सुरक्षा वाल्व सिद्धान्त के आधार पर भारतीय राष्ट्रीय काँग्रेस की स्थापना, ब्रिटिश सरकार को खतरों से बचाने के लिए थी।” उपर्युक्त विचार किस नेता के थे?
+    options:
+      A: सी० राजगोपालाचारी
+      B: लाला लाजपत राय
+      C: बिपिन चन्द्र पाल
+      D: इनमें से कोई नहीं
+    answer: B
+    explanation: Lala Lajpat Rai (Young India, 1916) set out the safety-valve view of Hume's founding of the Congress.
+  - slug: bpsc-69-q140
+    difficulty: medium
+    stem: निम्नलिखित में से भारतीय राष्ट्रीय काँग्रेस के किस अधिवेशन में पहली बार मौलिक अधिकारों से सम्बन्धित प्रस्ताव पारित किए गए थे?
+    options:
+      A: सूरत अधिवेशन—1907
+      B: गया अधिवेशन—1922
+      C: कराची अधिवेशन—1931
+      D: उपर्युक्त में से कोई नहीं
+    answer: C
+    explanation: The resolution on Fundamental Rights and Economic Policy was passed at the Karachi session of 1931.
+  - slug: bpsc-69-q141
+    difficulty: medium
+    stem: एक निश्चित कूट भाषा में, ‘GAME’ को ‘\$ ÷ ∗ %’ लिखा जाता है और ‘BEAD’ को ‘# % ÷ ×’ लिखा जाता है। उसी कूट भाषा में ‘MADE’ शब्द को कैसे लिखा जाएगा?
+    options:
+      A: \$ ÷ × %
+      B: ∗ ÷ \$ %
+      C: ∗ ÷ × %
+      D: "# ÷ × %"
+    answer: C
+    explanation: G=\$, A=÷, M=∗, E=%, D=×, so MADE = ∗ ÷ × %.
+  - slug: bpsc-69-q142
+    difficulty: medium
+    stem: Q पूर्व की ओर यात्रा करता है। M उत्तर की ओर यात्रा करता है। S और T विपरीत दिशाओं में यात्रा करते हैं। T, Q के दाईं ओर यात्रा करता है। निम्नलिखित में से कौन-सा निश्चित रूप से सत्य है?
+    options:
+      A: M और S विपरीत दिशाओं में यात्रा करते हैं
+      B: S पश्चिम की ओर यात्रा करता है
+      C: T उत्तर की ओर यात्रा करता है
+      D: M और S एक ही दिशा में यात्रा करते हैं
+    answer: D
+    explanation: T is to the right of eastbound Q, so T goes south; S is opposite to T, so north, the same as M.
+  - slug: bpsc-69-q143
+    difficulty: medium
+    stem: एक व्यक्ति ‘रमेश’, जिसके पास 100 वर्ग गज भूमि का एक प्लॉट है, वह अपने पड़ोसी ‘सुरेश’, जिसके पास भी 100 वर्ग गज भूमि है, से 10% अधिक प्राप्त करके अपनी भूमि का प्लॉट बढ़ाता है। 2 साल बाद वह कुल प्लॉट का 10% पड़ोसी को वापस बेच देता है। निम्नलिखित में से कौन-सा सही है?
+    options:
+      A: रमेश की भूमि, सुरेश से अधिक है
+      B: सुरेश की भूमि, रमेश से अधिक है
+      C: दोनों बराबर हैं
+      D: उपर्युक्त में से कोई नहीं
+    answer: B
+    explanation: Ramesh has 110 and then sells 11 back, leaving 99; Suresh has 90 + 11 = 101, so Suresh has more.
+  - slug: bpsc-69-q144
+    difficulty: medium
+    stem: निम्नलिखित विकल्पों में से बेजोड़ युग्म खोजिए।
+    options:
+      A: "मिलिनरी : टोपियाँ"
+      B: "ब्रेवरी : शराब"
+      C: "स्टेशनरी : कागज"
+      D: "स्नॉबरि : जूते"
+    answer: D
+    explanation: Millinery, brewery and stationery are linked to their products; snobbery has nothing to do with shoes.
+  - slug: bpsc-69-q145
+    difficulty: medium
+    stem: |-
+      निम्नलिखित संख्या शृंखला में, प्रश्न-चिह्न (?) के स्थान पर क्या आना चाहिए?
+
+      132 156 ? 210 240 272
+    options:
+      A: "196"
+      B: "182"
+      C: "199"
+      D: "204"
+    answer: B
+    explanation: "The terms are n(n+1): 11×12, 12×13, 13×14 = 182, 14×15, 15×16, 16×17."
+  - slug: bpsc-69-q146
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से लुप्त संख्या को चुनिए :
+
+      |  |  |  |
+      |---|---|---|
+      | 44 | 49 | 37 |
+      | 52 | ? | 41 |
+      | 58 | 35 | 53 |
+
+      *(चित्र: A 3×3 grid of numbers (rows: 44 49 37 / 52 ? 41 / 58 35 53); the centre cell is the missing number. Transcribed as a table in the stem.)*
+    options:
+      A: "56"
+      B: "77"
+      C: "66"
+      D: "63"
+    answer: B
+    explanation: "Middle = 7 × (left − right): 7×(44−37)=49, 7×(58−53)=35, so 7×(52−41)=77."
+  - slug: bpsc-69-q147
+    difficulty: medium
+    stem: |-
+      दिए गए कथन और निष्कर्ष को ध्यानपूर्वक पढ़िए। निम्नलिखित में से कौन-सा/से निष्कर्ष तार्किक रूप से कथन के अनुसार है/हैं, विचार कीजिए।
+
+      कथन : किसी एकदिवसीय क्रिकेट मैच में टीम ने कुल 200 रन बनाए, जिनमें से 160 रन स्पिनरों द्वारा बनाए गए।
+
+      निष्कर्ष :
+
+      1. टीम के 80% खिलाड़ी स्पिनर थे।
+      2. ओपनिंग बल्लेबाज स्पिनर थे।
+
+      सही उत्तर चुनिए।
+    options:
+      A: केवल 1 कथन का अनुसरण करता है
+      B: केवल 2 कथन का अनुसरण करता है
+      C: 1 और 2 दोनों कथन का अनुसरण करते हैं
+      D: न तो 1 और न ही 2 कथन का अनुसरण करता है
+    answer: D
+    explanation: Runs scored say nothing about how many players were spinners or who opened, so neither conclusion follows.
+  - slug: bpsc-69-q148
+    difficulty: medium
+    stem: एक कूट भाषा में, यदि GREAT को 718222620 और MONK को 13121411 लिखा जाता है, तो उसी भाषा में VIGOROUS को कैसे लिखा जाएगा?
+    options:
+      A: "22187121812619"
+      B: "21177121811619"
+      C: "22187131813620"
+      D: "21187111711620"
+    answer: A
+    explanation: "Consonants take their forward position and vowels their reverse position (27−n): V22 I18 G7 O12 R18 O12 U6 S19."
+  - slug: bpsc-69-q149
+    difficulty: medium
+    stem: |-
+      निम्नलिखित समूहों में से बेजोड़ को खोजिए :
+
+      Q,W,Z,B   B,H,K,M   W,C,G,J   M,S,V,X
+    options:
+      A: Q,W,Z,B
+      B: M,S,V,X
+      C: W,C,G,J
+      D: B,H,K,M
+    answer: C
+    explanation: The gaps are +6, +3, +2 in every group except W,C,G,J (+6, +4, +3).
+  - slug: bpsc-69-q150
+    difficulty: medium
+    stem: एक कंपनी की चार शाखाएँ M, N, O और P पर स्थित हैं। M, N के उत्तर में 4 कि० मी० की दूरी पर है; P, O के दक्षिण में 2 कि० मी० की दूरी पर है; N, O से 1 कि० मी० दक्षिण-पूर्व में है। M और P के बीच की दूरी कि० मी० में क्या है?
+    options:
+      A: 5·34
+      B: 6·74
+      C: 28·5
+      D: उपर्युक्त में से कोई नहीं
+    answer: A
+    explanation: With O at the origin, P = (0, −2) and M = (0.707, 3.293), so MP = √(0.5 + 28.02) ≈ 5.34 km.

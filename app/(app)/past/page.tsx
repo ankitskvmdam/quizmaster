@@ -1,11 +1,10 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { ArrowLeft, ArrowRight, FileClock, History } from 'lucide-react'
-import { listMyAttempts, listTests } from '@/lib/queries/tests'
+import { ArrowLeft, ArrowRight, History } from 'lucide-react'
+import { listMyAttempts } from '@/lib/queries/tests'
 import { PageHeader } from '@/components/page-header'
 import { Panel, Mono } from '@/components/surfaces'
 import { EmptyState } from '@/components/empty-state'
-import { TestList } from '@/components/tests/test-list'
 import { AttemptList } from '@/components/tests/attempt-list'
 import { Button } from '@/components/ui/button'
 
@@ -14,27 +13,11 @@ export const metadata: Metadata = { title: 'Past tests' }
 export default async function PastPage({ searchParams }: PageProps<'/past'>) {
   const sp = await searchParams
   const page = Math.max(1, Number.parseInt(typeof sp.page === 'string' ? sp.page : '1', 10) || 1)
-  const [papers, attempts] = await Promise.all([listTests('pyq'), listMyAttempts(page)])
+  const attempts = await listMyAttempts(page)
 
   return (
     <>
-      <PageHeader title="Past tests" description="Previous-year papers to attempt, and every test you have taken." />
-
-      <section aria-labelledby="papers" className="mb-8">
-        <h2 id="papers" className="mb-3 text-lg font-semibold">
-          Previous-year papers
-        </h2>
-        <Panel>
-          <TestList
-            tests={papers}
-            empty={
-              <EmptyState icon={<FileClock />} title="No papers yet">
-                Previous-year papers appear here as soon as they are added.
-              </EmptyState>
-            }
-          />
-        </Panel>
-      </section>
+      <PageHeader title="Past tests" description="Every test you have taken, with a full review. Previous-year papers are under Tests." />
 
       <section aria-labelledby="mine">
         <h2 id="mine" className="mb-3 text-lg font-semibold">

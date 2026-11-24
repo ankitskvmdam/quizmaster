@@ -1,0 +1,1674 @@
+slug: 66th-prelims
+title: BPSC 66th Prelims
+date: 2020-12-27
+label: Series A
+marks:
+  correct: 1
+  wrong: 0
+source: BPSC official question booklet and final answer key (bpsc.bihar.gov.in).
+questions:
+  - slug: bpsc-66-q001
+    difficulty: medium
+    stem: The radiations used in the treatment of muscle ache are
+    options:
+      A: infrared
+      B: microwave
+      C: UV
+      D: X-ray
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Infrared radiation produces heat in tissues, so infrared lamps are used to relieve muscle ache.
+  - slug: bpsc-66-q002
+    difficulty: medium
+    stem: The total resistance of a circuit having two parallel resistors is 1·403 kilo-ohm. If one of the resistors is 2·0 kilo-ohm, then the other resistor will be
+    options:
+      A: 1·403 kilo-ohm
+      B: 2·0 kilo-ohm
+      C: 3·403 kilo-ohm
+      D: 4·70 kilo-ohm
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: 1/R2 = 1/1.403 - 1/2.0 = 0.2128 per kilo-ohm, so R2 = 4.70 kilo-ohm.
+  - slug: bpsc-66-q003
+    difficulty: medium
+    stem: On heating, the resistance of a semiconductor
+    options:
+      A: increases
+      B: decreases
+      C: remains same
+      D: first increases and then decreases
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: "A semiconductor has a negative temperature coefficient: heating frees more charge carriers, so resistance decreases."
+  - slug: bpsc-66-q004
+    difficulty: medium
+    stem: Faraday constant
+    options:
+      A: depends on the amount of the electrolyte
+      B: depends on the current passed in the electrolyte
+      C: depends on the volume of the solvent in which the electrolyte is dissolved
+      D: is a universal constant
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Faraday constant (about 96,485 C/mol) is the charge of one mole of electrons, a universal constant.
+  - slug: bpsc-66-q005
+    difficulty: medium
+    stem: "'Light-year' is a unit of"
+    options:
+      A: time
+      B: speed
+      C: distance
+      D: intensity of light
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: A light-year is the distance light travels in one year (about 9.46 x 10^12 km).
+  - slug: bpsc-66-q006
+    difficulty: medium
+    stem: Which of the following does *not* change when light travels from one medium to another?
+    options:
+      A: Velocity
+      B: Wavelength
+      C: Frequency
+      D: Refractive index
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Frequency is set by the source and stays the same; speed and wavelength change on refraction.
+  - slug: bpsc-66-q007
+    difficulty: medium
+    stem: The velocity of electromagnetic waves is
+    options:
+      A: 3×10⁸ m s⁻¹
+      B: 3×10⁷ m s⁻¹
+      C: 3×10⁶ m s⁻¹
+      D: 3×10⁵ m s⁻¹
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: All electromagnetic waves travel in vacuum at c = 3 x 10^8 m/s.
+  - slug: bpsc-66-q008
+    difficulty: medium
+    stem: The first man who placed his foot on the moon is
+    options:
+      A: Leonov
+      B: Neil Armstrong
+      C: Michael Collins
+      D: James Van Allen
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Neil Armstrong (Apollo 11, 20 July 1969) was the first person to step on the Moon.
+  - slug: bpsc-66-q009
+    difficulty: medium
+    stem: The number of neutrons in the nucleus of plutonium nuclide (₉₄Pu²⁴²) is
+    options:
+      A: "94"
+      B: "148"
+      C: "242"
+      D: "336"
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Neutrons = mass number - atomic number = 242 - 94 = 148.
+  - slug: bpsc-66-q010
+    difficulty: medium
+    stem: The highest viscosity among the following is of
+    options:
+      A: water
+      B: air
+      C: blood
+      D: honey
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Honey is far more viscous than blood, water or air.
+  - slug: bpsc-66-q011
+    difficulty: medium
+    stem: Milk is a poor source of
+    options:
+      A: calcium
+      B: protein
+      C: vitamin C
+      D: carbohydrate
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Milk is rich in calcium, protein and carbohydrate (lactose) but has very little vitamin C.
+  - slug: bpsc-66-q012
+    difficulty: medium
+    stem: The breath test conducted by police to check drunken driver has which one of the following on the filter paper?
+    options:
+      A: Potassium dichromate–sulfuric acid
+      B: Potassium permanganate–sulfuric acid
+      C: Silica gel coated with silver nitrate
+      D: Turmeric
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: The breathalyser uses acidified potassium dichromate, which turns from orange to green when it oxidises ethanol.
+  - slug: bpsc-66-q013
+    difficulty: medium
+    stem: Glucose is converted to ethyl alcohol by the enzyme
+    options:
+      A: maltase
+      B: invertase
+      C: zymase
+      D: diastase
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Zymase (from yeast) ferments glucose into ethyl alcohol and CO2.
+  - slug: bpsc-66-q014
+    difficulty: medium
+    stem: Limewater is turned milky by
+    options:
+      A: CO
+      B: CO₂
+      C: O₂
+      D: O₃
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: CO2 forms insoluble calcium carbonate with limewater, turning it milky.
+  - slug: bpsc-66-q015
+    difficulty: medium
+    stem: The incomplete burning of petrol and diesel produces
+    options:
+      A: nitric oxide
+      B: nitrogen dioxide
+      C: carbon dioxide
+      D: carbon monoxide
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Incomplete combustion of hydrocarbon fuels in limited oxygen produces carbon monoxide.
+  - slug: bpsc-66-q016
+    difficulty: medium
+    stem: The pH of a solution changes from 3 to 6. The H⁺ ion concentration will
+    options:
+      A: increase 3 times
+      B: decrease 3 times
+      C: decrease 10 times
+      D: decrease 1000 times
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: "[H+] = 10^-pH, so going from pH 3 to pH 6 lowers [H+] by 10^3 = 1000 times."
+  - slug: bpsc-66-q017
+    difficulty: medium
+    stem: A mixture of sand and naphthalene can be separated by
+    options:
+      A: sublimation
+      B: distillation
+      C: chromatography
+      D: fractional distillation
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Naphthalene sublimes on heating while sand does not, so sublimation separates them.
+  - slug: bpsc-66-q018
+    difficulty: medium
+    stem: The numbers of sigma and pi bonds in benzene are
+    options:
+      A: 3, 3
+      B: 3, 6
+      C: 12, 3
+      D: 12, 6
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Benzene has 6 C-C and 6 C-H sigma bonds (12) and 3 pi bonds.
+  - slug: bpsc-66-q019
+    difficulty: medium
+    stem: The elements present in urea are
+    options:
+      A: C, H, O
+      B: C, N, O
+      C: C, H, N
+      D: C, H, N, O
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Urea, CO(NH2)2, contains carbon, hydrogen, nitrogen and oxygen.
+  - slug: bpsc-66-q020
+    difficulty: medium
+    stem: The poorest conductor of heat among the following is
+    options:
+      A: copper
+      B: lead
+      C: mercury
+      D: zinc
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Mercury's thermal conductivity (about 8 W/m K) is the lowest of these metals; lead is about 35, zinc about 116, copper about 400.
+  - slug: bpsc-66-q021
+    difficulty: medium
+    stem: The vitamin which is effective in blood clotting is
+    options:
+      A: vitamin A
+      B: vitamin B
+      C: vitamin D
+      D: vitamin K
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Vitamin K is needed to make clotting factors such as prothrombin.
+  - slug: bpsc-66-q022
+    difficulty: medium
+    stem: The female sex hormone is
+    options:
+      A: estrogen
+      B: androgen
+      C: insulin
+      D: oxytocin
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Estrogen is the principal female sex hormone; androgens are male hormones.
+  - slug: bpsc-66-q023
+    difficulty: medium
+    stem: The Nobel Prize for developing treatment of Parkinson's disease was given to
+    options:
+      A: Arvid Carlsson
+      B: John F. Enders
+      C: Robert B. Laughlin
+      D: Walter Kohn
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Arvid Carlsson shared the 2000 Nobel Prize in Physiology or Medicine for discovering dopamine's role, which led to L-DOPA treatment of Parkinson's disease.
+  - slug: bpsc-66-q024
+    difficulty: medium
+    stem: The malfunctioning of thyroid gland is due to the deficiency of
+    options:
+      A: vitamin A
+      B: calcium
+      C: iodine
+      D: iron
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Iodine is needed to make thyroid hormones; its deficiency causes goitre and thyroid malfunction.
+  - slug: bpsc-66-q025
+    difficulty: medium
+    stem: The sensitive area of the human tongue to bitterness is
+    options:
+      A: tip
+      B: middle part
+      C: posterior part
+      D: edge
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Bitter taste is sensed mostly at the back (posterior part) of the tongue.
+  - slug: bpsc-66-q026
+    difficulty: medium
+    stem: Ginger is a stem and not root because
+    options:
+      A: it stores food material
+      B: it has nodes and internodes
+      C: it grows horizontally in the soil
+      D: it lacks chlorophyll
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Ginger (a rhizome) has nodes and internodes, which are features of a stem, not a root.
+  - slug: bpsc-66-q027
+    difficulty: medium
+    stem: The sweetest sugar among the following is
+    options:
+      A: fructose
+      B: glucose
+      C: maltose
+      D: sucrose
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Fructose is the sweetest natural sugar, sweeter than sucrose and glucose.
+  - slug: bpsc-66-q028
+    difficulty: medium
+    stem: Among the following, which is *not* a true fruit?
+    options:
+      A: Apple
+      B: Grape
+      C: Date
+      D: Plum
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: "Apple is a false fruit (pome): its fleshy part develops from the thalamus, not the ovary."
+  - slug: bpsc-66-q029
+    difficulty: medium
+    stem: Legumes are highly nutritious because they are rich in
+    options:
+      A: fat
+      B: protein
+      C: oil
+      D: starch
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Legumes (pulses) are rich in protein.
+  - slug: bpsc-66-q030
+    difficulty: medium
+    stem: Clove, a spice, is obtained from which part of the plant?
+    options:
+      A: Fruit
+      B: Stem
+      C: Root
+      D: Flower bud
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Cloves are the dried flower buds of Syzygium aromaticum.
+  - slug: bpsc-66-q031
+    difficulty: medium
+    stem: Who has been appointed by the Board of Control for Cricket in India as the Head of All India Women's Selection Committee?
+    options:
+      A: Mithu Mukherjee
+      B: Neetu David
+      C: Renu Margrate
+      D: V. Kalpana
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: In September 2020 BCCI named former India spinner Neetu David as chairperson of the women's selection committee.
+  - slug: bpsc-66-q032
+    difficulty: medium
+    stem: Who has won the Women's Singles US Open Tennis Tournament, 2020?
+    options:
+      A: Naomi Osaka
+      B: Bianca Andreescu
+      C: Sofia Kenin
+      D: K. Pliskova
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Naomi Osaka beat Victoria Azarenka in the 2020 US Open women's singles final.
+  - slug: bpsc-66-q033
+    difficulty: medium
+    stem: Which athlete scored first position in the London Marathon held on 4th October, 2020?
+    options:
+      A: Eliud Kipchoge
+      B: Shura Kitata
+      C: Vincent Kipchumba
+      D: Sisay Lemma
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Ethiopia's Shura Kitata won the elite men's London Marathon on 4 October 2020; Kipchoge finished eighth.
+  - slug: bpsc-66-q034
+    difficulty: medium
+    stem: Which Indian cricketer along with M. S. Dhoni announced retirement from the international cricket on 15th August, 2020?
+    options:
+      A: Suresh Raina
+      B: Harbhajan Singh
+      C: Bhuvneshwar Kumar
+      D: Rohit Sharma
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Suresh Raina announced his international retirement on 15 August 2020, minutes after M. S. Dhoni.
+  - slug: bpsc-66-q035
+    difficulty: medium
+    stem: Who has been appointed as the Chairperson of the National School of Drama recently?
+    options:
+      A: Mahesh Bhatt
+      B: Akshay Kumar
+      C: Anupam Kher
+      D: Paresh Rawal
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Actor Paresh Rawal was appointed Chairperson of the National School of Drama in September 2020.
+  - slug: bpsc-66-q036
+    difficulty: medium
+    stem: Who is the Chairman of the Defence Research and Development Organization?
+    options:
+      A: Surjeet Singh Deswal
+      B: Dr. G. Satheesh Reddy
+      C: Arvind Saxena
+      D: Charanjit Singh Attra
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Dr. G. Satheesh Reddy was Secretary, DoDRD and Chairman of DRDO from 2018.
+  - slug: bpsc-66-q037
+    difficulty: medium
+    stem: For which discipline, Dr. Bushra Ateeq and Dr. Ritesh Agarwal have been selected for Shanti Swarup Bhatnagar Prize, 2020?
+    options:
+      A: Chemical Sciences
+      B: Physical Sciences
+      C: Medical Sciences
+      D: Mathematical Sciences
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Dr. Bushra Ateeq and Dr. Ritesh Agarwal received the 2020 Shanti Swarup Bhatnagar Prize in Medical Sciences.
+  - slug: bpsc-66-q038
+    difficulty: medium
+    stem: Who has been selected for the Nobel Peace Prize, 2020?
+    options:
+      A: European Union
+      B: World Food Programme
+      C: Robert B. Wilson
+      D: Paul R. Milgrom
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: The 2020 Nobel Peace Prize went to the UN World Food Programme; Wilson and Milgrom won the Economics prize.
+  - slug: bpsc-66-q039
+    difficulty: medium
+    stem: Which Indian film actor has been included in the *Time Magazine's* list of hundred most influential people of 2020?
+    options:
+      A: Ayushmann Khurrana
+      B: Shahrukh Khan
+      C: Ajay Devgan
+      D: Sunny Deol
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Ayushmann Khurrana was named in TIME's 100 most influential people of 2020.
+  - slug: bpsc-66-q040
+    difficulty: medium
+    stem: How many Indian beaches have been recommended for the Blue Flag Certification recently?
+    options:
+      A: Six
+      B: Seven
+      C: Eight
+      D: Nine
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: In September 2020 India recommended eight beaches for the Blue Flag certification, and all eight received it in October 2020.
+  - slug: bpsc-66-q041
+    difficulty: medium
+    stem: Ram Vilas Paswan started his political career from which political party?
+    options:
+      A: Janata Party
+      B: Bharatiya Lok Dal
+      C: Samyukta Socialist Party
+      D: Praja Socialist Party
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Ram Vilas Paswan was first elected to the Bihar Assembly in 1969 as a Samyukta Socialist Party candidate.
+  - slug: bpsc-66-q042
+    difficulty: medium
+    stem: When did the Election Commission of India issue a Press Note for the General Election to the Legislative Assembly of Bihar, 2020?
+    options:
+      A: 23rd September, 2020
+      B: 24th September, 2020
+      C: 25th September, 2020
+      D: 26th September, 2020
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Election Commission announced the Bihar Assembly election schedule in a press note dated 25 September 2020.
+  - slug: bpsc-66-q043
+    difficulty: medium
+    stem: In which State, 'Ghar Tak Fiber' Scheme has been launched on 21st September, 2020 through a video conference?
+    options:
+      A: Uttar Pradesh
+      B: Madhya Pradesh
+      C: Bihar
+      D: Karnataka
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: On 21 September 2020 PM Modi launched the 'Ghar Tak Fibre' scheme to connect all Bihar villages with optical fibre internet.
+  - slug: bpsc-66-q044
+    difficulty: medium
+    stem: Bihar politician Late Raghuvansh Prasad Singh was for the first time elected to which Lok Sabha?
+    options:
+      A: Tenth Lok Sabha
+      B: Eleventh Lok Sabha
+      C: Twelfth Lok Sabha
+      D: Thirteenth Lok Sabha
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Raghuvansh Prasad Singh first entered the Lok Sabha in 1996, the 11th Lok Sabha, from Vaishali.
+  - slug: bpsc-66-q045
+    difficulty: medium
+    stem: Which among the following is *not* a member of the Quadrilateral Security Dialogue—an informal strategic forum?
+    options:
+      A: India
+      B: Japan
+      C: China
+      D: Australia
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Quad consists of India, Japan, Australia and the USA; China is not a member.
+  - slug: bpsc-66-q046
+    difficulty: medium
+    stem: Who represented India's perspective in the Fifth BRICS Culture Ministers' Meeting held through a video conference in September 2020?
+    options:
+      A: Prahlad Singh Patel
+      B: Ramesh Pokhriyal Nishank
+      C: Nitin Gadkari
+      D: Ravi Shankar Prasad
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Culture Minister Prahlad Singh Patel represented India at the 5th BRICS Culture Ministers' meeting in September 2020.
+  - slug: bpsc-66-q047
+    difficulty: medium
+    stem: Where was the 36th ASEAN Summit virtually held in June 2020?
+    options:
+      A: Thailand
+      B: Singapore
+      C: Indonesia
+      D: Vietnam
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Vietnam, as ASEAN chair for 2020, hosted the virtual 36th ASEAN Summit in June 2020.
+  - slug: bpsc-66-q048
+    difficulty: medium
+    stem: Which of the following has topped in the Human Capital Index, 2020?
+    options:
+      A: Japan
+      B: South Korea
+      C: Singapore
+      D: Hong Kong
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Singapore ranked first in the World Bank's Human Capital Index 2020.
+  - slug: bpsc-66-q049
+    difficulty: medium
+    stem: Recently in USA, 'Operation MAGA' is related to
+    options:
+      A: campaign against COVID-19
+      B: Donald Trump's re-election campaign
+      C: Joseph Biden's election campaign
+      D: "'make army great again' campaign"
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: "'Operation MAGA' was the name of Donald Trump's 2020 re-election campaign push."
+  - slug: bpsc-66-q050
+    difficulty: medium
+    stem: Which Arab state has started first nuclear power plant?
+    options:
+      A: Iraq
+      B: Saudi Arabia
+      C: United Arab Emirates
+      D: Egypt
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The UAE's Barakah nuclear plant began operating in 2020, the first in the Arab world.
+  - slug: bpsc-66-q051
+    difficulty: medium
+    stem: Which was the first Arab state to sign peace deal with Israel?
+    options:
+      A: Egypt
+      B: Jordan
+      C: Bahrain
+      D: Sudan
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Egypt signed a peace treaty with Israel in 1979, the first Arab state to do so.
+  - slug: bpsc-66-q052
+    difficulty: medium
+    stem: Which country assumed the role of Chairman of the International Labour Organization's Governing Body for the period of October 2020 till June 2021?
+    options:
+      A: Japan
+      B: New Zealand
+      C: Australia
+      D: India
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: India (Labour Secretary Apurva Chandra) took over as Chair of the ILO Governing Body for October 2020-June 2021.
+  - slug: bpsc-66-q053
+    difficulty: medium
+    stem: "'Operation My Saheli' launched in September 2020 aims"
+    options:
+      A: to encourage self-defence education among girls
+      B: to boost the security of women passengers in trains
+      C: to explore new job opportunities for women
+      D: to boost awareness against girl child labour
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: "'Operation My Saheli' is a Railway Protection Force initiative for the safety of women passengers on trains."
+  - slug: bpsc-66-q054
+    difficulty: medium
+    stem: On the occasion of the first anniversary of the Fit India Movement, who gave the Mantra, 'Fitness Ki Dose, Aadha Ghanta Roz (Fitness Dose, Half an Hour Daily)'?
+    options:
+      A: Prime Minister Narendra Modi
+      B: Union Home Minister Amit Shah
+      C: Union Health Minister Dr. Harsh Vardhan
+      D: Yoga Guru Baba Ramdev
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: At the first-anniversary Fit India Dialogue on 24 September 2020, PM Modi gave the mantra 'Fitness ki dose, aadha ghanta roz'.
+  - slug: bpsc-66-q055
+    difficulty: medium
+    stem: On the one hundred birth anniversary of Rajmata Vijaya Raje Scindia, Prime Minister Narendra Modi released a
+    options:
+      A: fifty rupees coin
+      B: fifty rupees note
+      C: one hundred rupees coin
+      D: one hundred rupees note
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: On 12 October 2020 PM Modi released a commemorative Rs 100 coin for Vijaya Raje Scindia's birth centenary.
+  - slug: bpsc-66-q056
+    difficulty: medium
+    stem: Which State's short documentary film, *Chi Lupo* has won Dada Saheb Phalke Award, 2020?
+    options:
+      A: Manipur
+      B: Nagaland
+      C: Meghalaya
+      D: Arunachal Pradesh
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Chi Lupo, an Idu Mishmi documentary by Arunachal filmmaker Kombong Darang, won at the Dadasaheb Phalke Film Festival 2020.
+  - slug: bpsc-66-q057
+    difficulty: medium
+    stem: Which private sector bank has launched 'e-Kisaan Dhan' app for farmers?
+    options:
+      A: Axis Bank
+      B: HDFC Bank
+      C: IDBI Bank
+      D: Kotak Mahindra Bank
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: HDFC Bank launched the 'e-Kisaan Dhan' app for farmers.
+  - slug: bpsc-66-q058
+    difficulty: medium
+    stem: At the international airport of which city, India launched its first COVID-19 testing facility?
+    options:
+      A: Kolkata
+      B: Delhi
+      C: Mumbai
+      D: Bengaluru
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: India's first airport COVID-19 testing facility opened at Delhi's Indira Gandhi International Airport in 2020.
+  - slug: bpsc-66-q059
+    difficulty: medium
+    stem: Rafale fighter aircraft has been formally inducted into the Indian Air Force at which Air Force Station?
+    options:
+      A: Hindon
+      B: Sarsawa
+      C: Ambala
+      D: Amritsar
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Rafale jets were formally inducted into the IAF at Air Force Station Ambala on 10 September 2020.
+  - slug: bpsc-66-q060
+    difficulty: medium
+    stem: The name of India's first indigenous anti-radiation missile is
+    options:
+      A: Tandav
+      B: Trinetra
+      C: Saksham
+      D: Rudram
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Rudram is India's first indigenous anti-radiation missile, tested in October 2020.
+  - slug: bpsc-66-q061
+    difficulty: medium
+    stem: In which of the following Harappan cities, furrows of ploughed fields have been found?
+    options:
+      A: Kalibangan
+      B: Dholavira
+      C: Mohenjo-daro
+      D: Lothal
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: A ploughed field with furrow marks was excavated at Kalibangan (Rajasthan).
+  - slug: bpsc-66-q062
+    difficulty: medium
+    stem: Triratna or Three Jewels, i.e., right knowledge, right faith and right action are related to which of the following?
+    options:
+      A: Buddhism
+      B: Hinduism
+      C: Jainism
+      D: Christianity
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Right faith, right knowledge and right conduct are the Triratna of Jainism.
+  - slug: bpsc-66-q063
+    difficulty: medium
+    stem: Which of the following rulers convened the Fourth Buddhist Council in Kashmir?
+    options:
+      A: Ashoka
+      B: Ajatashatru
+      C: Kanishka
+      D: Kalashoka
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Fourth Buddhist Council was held in Kashmir under Kanishka.
+  - slug: bpsc-66-q064
+    difficulty: medium
+    stem: Which of the following philosophies of India propounded the atom theory?
+    options:
+      A: Yoga
+      B: Nyaya
+      C: Sankhya
+      D: Vaisheshika
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The Vaisheshika school of Kanada propounded the atomic theory (paramanu).
+  - slug: bpsc-66-q065
+    difficulty: medium
+    stem: Which Delhi Sultan is known for adopting the 'blood and iron' policy?
+    options:
+      A: Iltutmish
+      B: Balban
+      C: Ala-ud-din Khalji
+      D: Muhammad bin Tughluq
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Balban followed the policy of 'blood and iron' to restore the Sultan's authority.
+  - slug: bpsc-66-q066
+    difficulty: medium
+    stem: Which medieval Indian empire was famous for elaborated local self-government?
+    options:
+      A: Chalukya
+      B: Chola
+      C: Solanki
+      D: Parmar
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: The Cholas were noted for their elaborate village self-government (Uttaramerur inscriptions).
+  - slug: bpsc-66-q067
+    difficulty: medium
+    stem: Pietra dura is related to which of the following?
+    options:
+      A: Decorating the walls with floral designs made of semi-precious stones
+      B: Building sloping walls in Minars
+      C: Use of arch in construction
+      D: Use of marble in buildings
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Pietra dura is the inlay of semi-precious stones in marble to form floral designs, as in the Taj Mahal.
+  - slug: bpsc-66-q068
+    difficulty: medium
+    stem: Which Mughal ruler established Karkhanas for painting?
+    options:
+      A: Humayun
+      B: Akbar
+      C: Jahangir
+      D: Shah Jahan
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Akbar set up imperial karkhanas (ateliers) where painters worked under court patronage.
+  - slug: bpsc-66-q069
+    difficulty: medium
+    stem: The dual system of governance in Bengal was enforced by
+    options:
+      A: Warren Hastings
+      B: William Bentinck
+      C: Robert Clive
+      D: Lord Curzon
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Robert Clive introduced the Dual System (Diwani with the Company, Nizamat with the Nawab) in Bengal in 1765.
+  - slug: bpsc-66-q070
+    difficulty: medium
+    stem: Who among the following participated in the Parliament of Religions held at Chicago in 1893?
+    options:
+      A: Dayananda Saraswati
+      B: Swami Vivekananda
+      C: Mahatma Gandhi
+      D: Raja Rammohan Roy
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Swami Vivekananda spoke at the World's Parliament of Religions in Chicago in 1893.
+  - slug: bpsc-66-q071
+    difficulty: medium
+    stem: Who established Swaraj Party in 1923?
+    options:
+      A: Mahatma Gandhi
+      B: Vallabhbhai Patel
+      C: C. R. Das and Motilal Nehru
+      D: B. R. Ambedkar
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: C. R. Das and Motilal Nehru founded the Swaraj Party in 1923.
+  - slug: bpsc-66-q072
+    difficulty: medium
+    stem: Who wrote the famous play, *Neel Darpan* in which oppression of indigo farmers is displayed?
+    options:
+      A: Sharat Chandra Chatterjee
+      B: Rabindranath Tagore
+      C: Barindra Ghosh
+      D: Dinabandhu Mitra
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Dinabandhu Mitra wrote Neel Darpan (1860) on the oppression of indigo cultivators.
+  - slug: bpsc-66-q073
+    difficulty: medium
+    stem: The famous Battle of Wandiwash in 1760 was fought by the British against whom?
+    options:
+      A: The French
+      B: Spain
+      C: Mysore
+      D: Carnatic
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: At Wandiwash (1760) the British under Eyre Coote defeated the French under Lally.
+  - slug: bpsc-66-q074
+    difficulty: medium
+    stem: Which of the following Acts introduced separate electorate system in India?
+    options:
+      A: The Regulating Act, 1773
+      B: The Charter Act, 1833
+      C: The Pitt's India Act, 1784
+      D: The Indian Councils Act, 1909
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The Indian Councils Act, 1909 (Morley-Minto Reforms) introduced separate electorates for Muslims.
+  - slug: bpsc-66-q075
+    difficulty: medium
+    stem: Kol Mutiny of 1831 under Buddho Bhagat took place in which of the following regions?
+    options:
+      A: Kutch
+      B: Singhbhum
+      C: Western Ghats
+      D: Satara
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: The Kol uprising of 1831-32 under Buddho Bhagat affected Chotanagpur and Singhbhum.
+  - slug: bpsc-66-q076
+    difficulty: medium
+    stem: Who spearheaded the 1857 Revolt in Bihar?
+    options:
+      A: Nana Saheb
+      B: Tatya Tope
+      C: Kunwar Singh
+      D: Maulavi Ahmadullah
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Babu Kunwar Singh of Jagdishpur led the 1857 Revolt in Bihar.
+  - slug: bpsc-66-q077
+    difficulty: medium
+    stem: Who drew Gandhiji's attention to the plight of indigo peasants in Champaran?
+    options:
+      A: Rajendra Prasad
+      B: Anugrah Narayan Sinha
+      C: Acharya Kripalani
+      D: Raj Kumar Shukla
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Raj Kumar Shukla persuaded Gandhiji to visit Champaran to see the indigo peasants' plight.
+  - slug: bpsc-66-q078
+    difficulty: medium
+    stem: Which was the first capital of ancient Mahajanapada Magadh?
+    options:
+      A: Pataliputra
+      B: Vaishali
+      C: Champa
+      D: Anga
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: Magadh's first capital was Rajagriha (Girivraja), which is not among A-D, so the answer is E.
+  - slug: bpsc-66-q079
+    difficulty: medium
+    stem: Swami Sahajananda was related to which of the following ?
+    options:
+      A: Tribal Movement in Bihar
+      B: Labour Movement in Bihar
+      C: Peasant Movement in Bihar
+      D: Caste Movement in Bihar
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Swami Sahajanand Saraswati led the Bihar Provincial Kisan Sabha and the peasant movement.
+  - slug: bpsc-66-q080
+    difficulty: medium
+    stem: Which of the following was Gandhiji's first Satyagraha Movement in India in which he used Civil Disobedience?
+    options:
+      A: Champaran
+      B: Kheda
+      C: Ahmedabad
+      D: Rowlatt Satyagraha
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Champaran (1917) was Gandhiji's first Satyagraha in India, defying the order to leave the district.
+  - slug: bpsc-66-q081
+    difficulty: medium
+    stem: The largest island of Japan in terms of the geographical area is
+    options:
+      A: Hokkaido
+      B: Honshu
+      C: Shikoku
+      D: Kyushu
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Honshu is Japan's largest island.
+  - slug: bpsc-66-q082
+    difficulty: medium
+    stem: Greenland is a part of which one of the following countries?
+    options:
+      A: Denmark
+      B: Finland
+      C: Canada
+      D: United Kingdom
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Greenland is an autonomous territory of the Kingdom of Denmark.
+  - slug: bpsc-66-q083
+    difficulty: medium
+    stem: Which one of the following countries of the world has the largest Indian population as on December 2018?
+    options:
+      A: United Arab Emirates
+      B: Malaysia
+      C: United Kingdom
+      D: United States of America
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: MEA data (December 2018) show the USA with the most overseas Indians (NRIs + PIOs), about 4.46 million, ahead of the UAE and Malaysia.
+  - slug: bpsc-66-q084
+    difficulty: medium
+    stem: Among the following countries, which country has recorded the highest annual gold output (in tonnes) in 2019?
+    options:
+      A: Russia
+      B: Australia
+      C: China
+      D: United States of America
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: China was the largest gold producer in 2019, at about 380 tonnes, ahead of Russia and Australia.
+  - slug: bpsc-66-q085
+    difficulty: medium
+    stem: Among the following continents, which one has the highest number of countries?
+    options:
+      A: Europe
+      B: Asia
+      C: Africa
+      D: North America
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Africa has the most countries (54).
+  - slug: bpsc-66-q086
+    difficulty: medium
+    stem: The State of India with the highest percentage of tribal population to its total population as per the 2011 Census is
+    options:
+      A: Arunachal Pradesh
+      B: Nagaland
+      C: Mizoram
+      D: Meghalaya
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Mizoram has the highest share of Scheduled Tribes in its population (94.4%, Census 2011).
+  - slug: bpsc-66-q087
+    difficulty: medium
+    stem: Which one of the following coffee-growing areas is *not* in Karnataka?
+    options:
+      A: Chikmagalur
+      B: Coorg
+      C: Baba Budangin
+      D: Pulneys
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The Palni (Pulney) Hills coffee area is in Tamil Nadu; Chikmagalur, Coorg and Baba Budangiri are in Karnataka.
+  - slug: bpsc-66-q088
+    difficulty: medium
+    stem: Which one of the following districts of India is the largest in terms of geographical area?
+    options:
+      A: Leh
+      B: Kutch
+      C: Jaisalmer
+      D: Barmer
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: The final key changed this answer from Kutch to Leh, presumably counting Leh's full notional area (including territory not under Indian control) on India's 2019 map. By administered area, Kutch (about 45,674 sq km) is larger than Leh (about 45,110 sq km).
+  - slug: bpsc-66-q089
+    difficulty: medium
+    stem: The State of India with maximum number of wildlife sanctuaries is
+    options:
+      A: Karnataka
+      B: Tamil Nadu
+      C: Maharashtra
+      D: Madhya Pradesh
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Maharashtra has the most wildlife sanctuaries of any State (Andaman and Nicobar, a UT, has more).
+  - slug: bpsc-66-q090
+    difficulty: medium
+    stem: Which of the following rivers flowing in Bihar is a north flowing river?
+    options:
+      A: Bagmati
+      B: Kamla
+      C: Kosi
+      D: Gandak
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: Bagmati, Kamla, Kosi and Gandak all flow south from the Himalaya to the Ganga. North-flowing rivers in Bihar are the southern tributaries such as Son and Punpun, so the answer is E.
+  - slug: bpsc-66-q091
+    difficulty: medium
+    stem: Atal Tunnel is across which one of the following Himalayan ranges?
+    options:
+      A: Zanskar
+      B: Western Pir Panjal
+      C: Ladakh
+      D: Eastern Pir Panjal
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Atal Tunnel runs under the Rohtang Pass in the Eastern Pir Panjal range.
+  - slug: bpsc-66-q092
+    difficulty: medium
+    stem: India's 13th major port is going to be set up in which State?
+    options:
+      A: Kerala
+      B: Gujarat
+      C: Maharashtra
+      D: Tamil Nadu
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Vadhavan port in Palghar, Maharashtra, was approved as India's 13th major port.
+  - slug: bpsc-66-q093
+    difficulty: medium
+    stem: Which one of the following States is a leading producer of solar energy in India?
+    options:
+      A: Telangana
+      B: Karnataka
+      C: Andhra Pradesh
+      D: Rajasthan
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Karnataka had the highest installed solar capacity in India in 2019-20.
+  - slug: bpsc-66-q094
+    difficulty: medium
+    stem: Among the following pairs of mineral and district, which one is correctly matched?
+    options:
+      A: Limestone—Kaimur
+      B: Mica—Bhagalpur
+      C: Quartzite—Madhubani
+      D: Lead-zinc—Gaya
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Kaimur-Rohtas plateau has Bihar's limestone deposits.
+  - slug: bpsc-66-q095
+    difficulty: medium
+    stem: Which one of the following pairs of industry and place is *not* correctly matched?
+    options:
+      A: Oil refinery—Barauni
+      B: Cement—Banjari
+      C: Fertilizer—Bhaurahi
+      D: Wagon and engineering—Bhagalpur
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Bihar's wagon industry is at Mokama and Muzaffarpur, not Bhagalpur.
+  - slug: bpsc-66-q096
+    difficulty: medium
+    stem: Piedmont Swamp Soil is found only in which one of the following districts of Bihar?
+    options:
+      A: Madhubani
+      B: Bhagalpur
+      C: West Champaran
+      D: Sitamarhi
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Piedmont swamp (terai) soil occurs in West Champaran along the foothills.
+  - slug: bpsc-66-q097
+    difficulty: medium
+    stem: In which one of the following pairs of Administrative Divisions of Bihar, Ganga river does *not* flow?
+    options:
+      A: Darbhanga—Munger
+      B: Purnea—Bhagalpur
+      C: Tirhut—Saran
+      D: Kosi—Magadh
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The Ganga does not pass through Kosi division (Saharsa, Madhepura, Supaul) or Magadh division (Gaya and nearby districts).
+  - slug: bpsc-66-q098
+    difficulty: medium
+    stem: Among the following pairs of tribe and district, which one is *not* correctly matched?
+    options:
+      A: Santhal—Banka
+      B: Munda—Jamui
+      C: Oraon—Supaul
+      D: Kharwar—Bhagalpur
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Munda are concentrated in Purnea/Katihar, not Jamui; Santhal-Banka, Oraon-Supaul and Kharwar-Bhagalpur are correct pairs.
+  - slug: bpsc-66-q099
+    difficulty: medium
+    stem: What is the percentage of all types of forest area to the total geographical area of Bihar State?
+    options:
+      A: 7·27
+      B: 6·87
+      C: 3·21
+      D: 12·77
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: The final key changed this from 7.27 to E. 7.27% was Bihar's forest cover in ISFR 2011; ISFR 2019 gives forest cover of about 7.76% of the area, which matches none of the options.
+  - slug: bpsc-66-q100
+    difficulty: medium
+    stem: Which one of the following districts is having the only National Park of Bihar?
+    options:
+      A: Nalanda
+      B: Bhagalpur
+      C: West Champaran
+      D: East Champaran
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Valmiki National Park in West Champaran is Bihar's only national park.
+  - slug: bpsc-66-q101
+    difficulty: medium
+    stem: Who won the bid to construct the new Parliament building recently?
+    options:
+      A: L&T Limited
+      B: Reliance Projects Limited
+      C: Tata Projects Limited
+      D: The National Highways Authority of India
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Tata Projects Ltd won the bid in September 2020 to build the new Parliament building.
+  - slug: bpsc-66-q102
+    difficulty: medium
+    stem: Which Article in the Indian Constitution is related with the establishment of the Election Commission of India?
+    options:
+      A: Article 324
+      B: Article 148
+      C: Article 342
+      D: Article 325
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Article 324 vests superintendence of elections in an Election Commission.
+  - slug: bpsc-66-q103
+    difficulty: medium
+    stem: Who is the Head of the National Commission for Women at present?
+    options:
+      A: Mamta Sharma
+      B: Lalitha Kumaramangalam
+      C: Rekha Sharma
+      D: Smriti Irani
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Rekha Sharma has been NCW Chairperson since 2018.
+  - slug: bpsc-66-q104
+    difficulty: medium
+    stem: What is meant by 'Rule of Law'?
+    options:
+      A: One act for all and one judiciary for all
+      B: One act for all and one State for all
+      C: One State for all and one judiciary for all
+      D: All acts for one and one judiciary for all
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Rule of law means one law equally applicable to all and one system of courts for all.
+  - slug: bpsc-66-q105
+    difficulty: medium
+    stem: Which Article gives the list of 29 functions to be performed by the Panchayati Raj Institutions?
+    options:
+      A: Article 243(H)
+      B: Article 243(E)
+      C: Article 243(F)
+      D: Article 243(G)
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Article 243G empowers Panchayats on the 29 subjects listed in the Eleventh Schedule.
+  - slug: bpsc-66-q106
+    difficulty: medium
+    stem: When was the Citizenship (Amendment) Act passed?
+    options:
+      A: 11th December, 2018
+      B: 11th December, 2019
+      C: 11th October, 2019
+      D: 11th October, 2020
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Parliament passed the Citizenship (Amendment) Act on 11 December 2019 (Rajya Sabha vote).
+  - slug: bpsc-66-q107
+    difficulty: medium
+    stem: The legislative origins of the 73rd Constitutional Amendment Act can be traced back to which Constitutional Amendment Bill?
+    options:
+      A: 61st Constitutional Amendment Bill
+      B: 62nd Constitutional Amendment Bill
+      C: 63rd Constitutional Amendment Bill
+      D: 64th Constitutional Amendment Bill
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The 64th Constitutional Amendment Bill (1989) on Panchayati Raj is the forerunner of the 73rd Amendment.
+  - slug: bpsc-66-q108
+    difficulty: medium
+    stem: Which company established its factory in 1632 at Patna, Bihar?
+    options:
+      A: British East India Company
+      B: Dutch East India Company
+      C: Portuguese East India Company
+      D: French East India Company
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: The Dutch East India Company set up its factory at Patna in 1632.
+  - slug: bpsc-66-q109
+    difficulty: medium
+    stem: Which one of the following is *not* the characteristic of decentralization?
+    options:
+      A: Autonomy
+      B: People's participation
+      C: To instil non-confidence among local communities
+      D: To empower local communities
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Decentralisation aims to build confidence and empower local communities, not to instil non-confidence.
+  - slug: bpsc-66-q110
+    difficulty: medium
+    stem: Which Act is *not* the landmark in the development of the Constitution during the British Rule?
+    options:
+      A: The Regulating Act, 1773
+      B: The Charter Act, 1833
+      C: The Government of India Act, 1919
+      D: The Protection of Civil Rights Act, 1955
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The Protection of Civil Rights Act, 1955 is a post-independence law, not a British-era constitutional landmark.
+  - slug: bpsc-66-q111
+    difficulty: medium
+    stem: Which one among the following is *not* an objective of food management in India?
+    options:
+      A: Distribution of food grains
+      B: Procurement of food grains
+      C: Maintenance of food grains buffer stock
+      D: Export of food grains
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Food management covers procurement, buffer stocks and distribution; export is not one of its objectives.
+  - slug: bpsc-66-q112
+    difficulty: medium
+    stem: Revenue deficit in India implies that
+    options:
+      A: the Indian Government needs to borrow in order to finance its expenses which will create capital assets
+      B: the Indian Government needs to borrow in order to finance its expenses which do not create capital assets
+      C: the Indian Government needs to borrow from the Reserve Bank of India against government securities
+      D: the Indian Government needs to borrow from international financial institutions
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Revenue deficit means revenue expenditure exceeds revenue receipts, so borrowing finances spending that creates no capital assets.
+  - slug: bpsc-66-q113
+    difficulty: medium
+    stem: Which of the following countries is India's top trading partner in 2019–20?
+    options:
+      A: USA
+      B: China
+      C: UAE
+      D: Saudi Arabia
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: The USA was India's largest trading partner in 2019-20 (about USD 88.9 bn), ahead of China.
+  - slug: bpsc-66-q114
+    difficulty: medium
+    stem: Which of the following infrastructure sectors of India is related with Bharatmala Project?
+    options:
+      A: Telecom sector
+      B: Railways
+      C: Road infrastructure
+      D: Port sector
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Bharatmala Pariyojana is a highway and road infrastructure programme.
+  - slug: bpsc-66-q115
+    difficulty: medium
+    stem: Which of the following agencies releases the index of industrial production to measure industrial performance in India?
+    options:
+      A: The National Sample Survey Office (NSSO)
+      B: The Reserve Bank of India (RBI)
+      C: The Central Statistics Office (CSO)
+      D: The Indian Statistical Institute (ISI)
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The CSO (now NSO under MoSPI) compiles and releases the Index of Industrial Production.
+  - slug: bpsc-66-q116
+    difficulty: medium
+    stem: According to the Ease of Doing Business Report, 2020, India improved their rank from
+    options:
+      A: 77 in previous year to 63rd position
+      B: 130 in previous year to 100th position
+      C: 100 in previous year to 77th position
+      D: 77 in previous year to 67th position
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: In Doing Business 2020 India rose from 77th to 63rd.
+  - slug: bpsc-66-q117
+    difficulty: medium
+    stem: To improve institutional agricultural credit flow, what credit target for 2020–21 has been fixed in the Union Budget of India?
+    options:
+      A: ₹ 10 lakh crore
+      B: ₹ 13·5 lakh crore
+      C: ₹ 15 lakh crore
+      D: ₹ 16·5 lakh crore
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Union Budget 2020-21 set the agricultural credit target at Rs 15 lakh crore.
+  - slug: bpsc-66-q118
+    difficulty: medium
+    stem: The objective of PM-KUSUM Scheme is
+    options:
+      A: to reduce farmers' dependence on monsoon for irrigation
+      B: to reduce farmers' dependence on moneylenders for credit
+      C: promotion of floriculture in India
+      D: to remove farmers' dependence on diesel and kerosene and to link pump sets to solar energy
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: PM-KUSUM aims to solarise farm pumps and cut farmers' dependence on diesel and kerosene.
+  - slug: bpsc-66-q119
+    difficulty: medium
+    stem: Which of the following commercial banks of India comes in top 100 global banks?
+    options:
+      A: ICICI Bank
+      B: SBI
+      C: HDFC Bank
+      D: Kotak Mahindra Bank
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: SBI is the only Indian bank in the top 100 global banks.
+  - slug: bpsc-66-q120
+    difficulty: medium
+    stem: The Government of India announced a new scheme 'NIRVIK' in the Budget for 2020–21. Which of the following sectors of economy will take the benefit from this scheme?
+    options:
+      A: Agriculture sector
+      B: Industrial sector
+      C: Health sector
+      D: Export sector
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: NIRVIK (Niryat Rin Vikas Yojana) gives exporters greater credit insurance cover.
+  - slug: bpsc-66-q121
+    difficulty: medium
+    stem: Bihar Government has introduced the Comprehensive Financial Management System (CFMS) on 1st April, 2019. This system
+    options:
+      A: will make all financial activities in the State online and paperless
+      B: will solve the problem of NPA of banks
+      C: will ensure effective implementation of State projects
+      D: will manage State Government finances including local bodies
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: The final key changed this from A to E, treating more than one statement as a valid description of CFMS (for example A and D). CFMS replaced CTMIS from 1 April 2019 to put all State financial transactions online.
+  - slug: bpsc-66-q122
+    difficulty: medium
+    stem: The Government of India conferred the Krishi Karman Award to Bihar State on 2nd January, 2020. This award was given for
+    options:
+      A: production and productivity of maize and wheat
+      B: food grain production
+      C: production of rice
+      D: production of oilseeds
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Bihar's Krishi Karman Award (2017-18), presented on 2 January 2020, was for maize and wheat production and productivity.
+  - slug: bpsc-66-q123
+    difficulty: medium
+    stem: Bihar Government launched a new scheme 'Satat Jivikoparjan Yojana' in August 2018. The objective of this scheme is
+    options:
+      A: to provide unemployment allowance to youth
+      B: to provide employment in rural areas through local bodies
+      C: to provide sustainable income generating assets to extremely poor households
+      D: to provide free training for skill upgradation of youth
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: |-
+      **Disputed.** BPSC's final key says E; our check suggests C.
+
+      The final key changed this from C to E, without published reasons. The scheme's stated aim is to give sustainable income-generating assets to extremely poor households, which is option C.
+  - slug: bpsc-66-q124
+    difficulty: medium
+    stem: Which of the following is *not* included in Seven Resolves (Saat Nishchay) of Bihar Government?
+    options:
+      A: Women employment
+      B: Clean drinking water
+      C: Supply of electricity to all households
+      D: Child welfare
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: The Saat Nishchay include women's reservation in jobs, Har Ghar Bijli and Har Ghar Nal ka Jal; child welfare is not one of them.
+  - slug: bpsc-66-q125
+    difficulty: medium
+    stem: The per capita Net State Domestic Product at constant prices for Bihar is less than the country. In the year 2018–19, it was
+    options:
+      A: 75 percent of the national average
+      B: 60 percent of the national average
+      C: 50 percent of the national average
+      D: 33 percent of the national average
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Bihar's per capita NSDP is about one-third of the national average (Bihar Economic Survey).
+  - slug: bpsc-66-q126
+    difficulty: medium
+    stem: In which of the following colleges, Gandhiji had studied?
+    options:
+      A: Samaldas College, Bhavnagar
+      B: Dharmendrasinhji College, Rajkot
+      C: Gujarat College, Ahmedabad
+      D: Bahauddin College, Junagadh
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Gandhiji briefly studied at Samaldas College, Bhavnagar in 1888.
+  - slug: bpsc-66-q127
+    difficulty: medium
+    stem: Which of the following persons had participated actively in the Revolt of 1857?
+    options:
+      A: Nana Saheb (Kanpur)
+      B: Begum Hazrat Mahal (Lucknow)
+      C: Maulavi Ahmadullah (Faizabad)
+      D: Begum Zeenat Mahal (Delhi)
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: "Nana Saheb, Begum Hazrat Mahal and Maulavi Ahmadullah all led the 1857 revolt, so more than one option is correct: E."
+  - slug: bpsc-66-q128
+    difficulty: medium
+    stem: About which Act, Jawaharlal Nehru had said, “We were provided with a car with all brakes and no engine”?
+    options:
+      A: Act of 1858
+      B: Act of 1909
+      C: Act of 1919
+      D: Act of 1935
+      E: None of the above/More than one of the above
+    answer: D
+    explanation: Nehru described the Government of India Act, 1935 as 'a machine with strong brakes but no engine'.
+  - slug: bpsc-66-q129
+    difficulty: medium
+    stem: For how many days did Dandi March last?
+    options:
+      A: 10 days
+      B: 20 days
+      C: 24 days
+      D: 30 days
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Dandi March lasted 24 days (12 March-5/6 April 1930).
+  - slug: bpsc-66-q130
+    difficulty: medium
+    stem: Who is the author of the popular song, *Sarfaroshi Ki Tamanna Ab Hamare Dil Mein Hai* ?
+    options:
+      A: Surya Sen
+      B: Chandra Shekhar Azad
+      C: Sardar Bhagat Singh
+      D: Ram Prasad Bismil
+      E: None of the above/More than one of the above
+    answer: E
+    explanation: "'Sarfaroshi ki tamanna' was written by Bismil Azimabadi of Patna and made famous by Ram Prasad Bismil, so none of A-D is the author: E."
+  - slug: bpsc-66-q131
+    difficulty: medium
+    stem: Which movement was started as a reaction to the Partition of Bengal?
+    options:
+      A: Non-Cooperation Movement
+      B: Civil Disobedience Movement
+      C: Swadeshi Movement
+      D: Purna Swaraj Movement
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: The Swadeshi Movement began in 1905 against the Partition of Bengal.
+  - slug: bpsc-66-q132
+    difficulty: medium
+    stem: Who among the following advocates had appeared for the INA trials at Delhi in 1945–46?
+    options:
+      A: Dr. Rajendra Prasad
+      B: Bhulabhai Desai
+      C: K. M. Munshi
+      D: Sardar Patel
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Bhulabhai Desai led the defence at the INA trials at the Red Fort in 1945-46.
+  - slug: bpsc-66-q133
+    difficulty: medium
+    stem: Where did Madam Cama unfurl India's tricolour flag of freedom?
+    options:
+      A: Paris
+      B: London
+      C: Stuttgart
+      D: Geneva
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Madam Bhikaji Cama unfurled the Indian flag at the International Socialist Congress in Stuttgart in 1907.
+  - slug: bpsc-66-q134
+    difficulty: medium
+    stem: Which of the following pairs is correct?
+    options:
+      A: Vinoba Bhave—Second Individual Satyagrahi
+      B: C. R. Das—Deshbandhu
+      C: William Wedderburn—Congress President in 1907
+      D: Shyamji Krishna Varma—Founder of India House in Paris
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: C. R. Das was called Deshbandhu. Vinoba was the first individual satyagrahi, Wedderburn presided in 1889 and 1910, and India House was in London.
+  - slug: bpsc-66-q135
+    difficulty: medium
+    stem: Which day was declared as 'Purna Swaraj Day' by the Indian National Congress?
+    options:
+      A: 26-01-1930
+      B: 15-08-1947
+      C: 30-01-1948
+      D: 31-12-1950
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Congress observed 26 January 1930 as Purna Swaraj Day.
+  - slug: bpsc-66-q136
+    difficulty: medium
+    stem: When was Bihar established?
+    options:
+      A: "1911"
+      B: "1912"
+      C: "1913"
+      D: "1914"
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Bihar was separated from the Bengal Presidency on 22 March 1912.
+  - slug: bpsc-66-q137
+    difficulty: medium
+    stem: In Tinkathia System in Bihar, how much land was to be reserved for indigo cultivation?
+    options:
+      A: 01/10
+      B: 01/03
+      C: 03/20
+      D: 03/25
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Under the Tinkathia system, 3 kathas out of 20 (3/20) of land were reserved for indigo.
+  - slug: bpsc-66-q138
+    difficulty: medium
+    stem: Who was the first Chief Minister of Bihar?
+    options:
+      A: Shri Krishna Singh
+      B: Satya Pal Malik
+      C: Nitish Kumar
+      D: Rabri Devi
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Shri Krishna Singh was Bihar's first Chief Minister.
+  - slug: bpsc-66-q139
+    difficulty: medium
+    stem: Where was the first Congress Session in Bihar held?
+    options:
+      A: Patna
+      B: Gaya
+      C: Muzaffarpur
+      D: Darbhanga
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: The 1912 Congress session in Bihar was held at Bankipur, Patna.
+  - slug: bpsc-66-q140
+    difficulty: medium
+    stem: Which title was given to Jayaprakash Narayan?
+    options:
+      A: Praja Hitechhu
+      B: Lok Nayak
+      C: Lokmanya
+      D: Rashtra Nayak
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Jayaprakash Narayan is known as 'Lok Nayak'.
+  - slug: bpsc-66-q141
+    difficulty: medium
+    stem: |-
+      The missing number in the sequence
+
+      4, 18, 48, 100, ?, 294, 448
+
+      is
+    options:
+      A: "94"
+      B: "164"
+      C: "180"
+      D: "192"
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Terms are n^3 - n^2 for n = 2..8, so the missing term is 6^3 - 6^2 = 180.
+  - slug: bpsc-66-q142
+    difficulty: medium
+    stem: "If ²ⁿC₃ : ⁿC₂ = 44 : 3, then the value of *n* is"
+    options:
+      A: "1"
+      B: "6"
+      C: "11"
+      D: "4"
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: 2nC3 / nC2 = 4(2n-1)/3 = 44/3 gives 2n - 1 = 11, so n = 6.
+  - slug: bpsc-66-q143
+    difficulty: medium
+    stem: If the average of *m* numbers is *n*² and that of *n* numbers is *m*², then the average of *m* + *n* numbers is
+    options:
+      A: n/m
+      B: m/n
+      C: mn
+      D: m − n
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: Average = (m*n^2 + n*m^2)/(m + n) = mn.
+  - slug: bpsc-66-q144
+    difficulty: medium
+    stem: In a group of athletic teams in a school, 21 are in the basketball team, 26 in the hockey team and 29 in the football team. If 14 play hockey and basketball, 12 play football and basketball, 15 play hockey and football, 8 play all the three games, then how many play football only?
+    options:
+      A: "10"
+      B: "29"
+      C: "21"
+      D: "18"
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: Football only = 29 - 12 - 15 + 8 = 10.
+  - slug: bpsc-66-q145
+    difficulty: medium
+    stem: Mohan can do a bit of work in 25 days which can be completed by Sohan in 20 days. Both together labour for 5 days and afterward Mohan leaves off. How long will Sohan take to complete the remaining work?
+    options:
+      A: 20 days
+      B: 11 days
+      C: 14 days
+      D: 21 days
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Together for 5 days they do 5(1/25 + 1/20) = 9/20. The remaining 11/20 at Sohan's 1/20 per day takes 11 days.
+  - slug: bpsc-66-q146
+    difficulty: medium
+    stem: A clock is started at 12:00 noon. By 10 minutes past 5:00, the hour hand has turned through
+    options:
+      A: 135°
+      B: 145°
+      C: 155°
+      D: 165°
+      E: None of the above/More than one of the above
+    answer: C
+    explanation: "The hour hand moves 0.5 degrees per minute: 310 minutes x 0.5 = 155 degrees."
+  - slug: bpsc-66-q147
+    difficulty: medium
+    stem: Which one of the following *cannot* be the square of a natural number?
+    options:
+      A: "26569"
+      B: "143642"
+      C: "30976"
+      D: "28561"
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: No perfect square ends in 2, so 143642 cannot be a square.
+  - slug: bpsc-66-q148
+    difficulty: medium
+    stem: |-
+      Given that
+
+      217*x* + 131*y* = 913
+
+      131*x* + 217*y* = 827
+
+      then *x* and *y* are respectively
+    options:
+      A: 5 and 7
+      B: 3 and 2
+      C: −5 and −7
+      D: 2 and 5
+      E: None of the above/More than one of the above
+    answer: B
+    explanation: Adding gives x + y = 5 and subtracting gives x - y = 1, so x = 3, y = 2.
+  - slug: bpsc-66-q149
+    difficulty: medium
+    stem: ((598 + 479)² − (598 − 479)²) / (598 × 479) = ?
+    options:
+      A: "4"
+      B: "10"
+      C: "132"
+      D: "8"
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: (a+b)^2 - (a-b)^2 = 4ab, so the expression equals 4.
+  - slug: bpsc-66-q150
+    difficulty: medium
+    stem: The population of a town is 176400. If it increases annually at the rate of 5%, then what will be its population after two years?
+    options:
+      A: "194481"
+      B: "296841"
+      C: "394481"
+      D: "396841"
+      E: None of the above/More than one of the above
+    answer: A
+    explanation: 176400 x 1.05^2 = 194481.

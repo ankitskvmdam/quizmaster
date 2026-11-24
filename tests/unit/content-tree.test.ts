@@ -68,6 +68,9 @@ describe('loadContent: courses and syllabus trees', () => {
         questionSlugs: ['fx-ch-1', 'fx-ch-2'],
         caMonthRef: null,
         chapterRef: 'gs/history/ancient-india/mauryas',
+        examSlug: null,
+        paperDate: null,
+        paperLabel: null,
       },
     ])
   })

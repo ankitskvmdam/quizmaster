@@ -1,0 +1,7 @@
+slug: 69th-prelims
+title: बीपीएससी 69वीं प्रारंभिक
+date: 2023-09-30
+label: Set A
+source: bpsc.bih.nic.in
+questions:
+  - { slug: fx-pyq-bpsc69-001, difficulty: medium, stem: "प्रश्न 1857 में?", options: { A: "1857", B: "1858", C: "1859", D: "1860" }, answer: A, explanation: "यह 1857 था।" }

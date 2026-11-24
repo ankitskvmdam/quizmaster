@@ -1,0 +1,1712 @@
+slug: 68th-prelims
+title: BPSC 68th Prelims
+date: 2023-02-12
+label: Series A
+source: "BPSC official question booklet and final answer key (bpsc.bihar.gov.in). Deleted by BPSC (left out): Q22."
+questions:
+  - slug: bpsc-68-q001
+    difficulty: medium
+    stem: The phrase ‘equality before law’ used in Article 14 of the Indian Constitution has been borrowed from the Constitution of
+    options:
+      A: Britain
+      B: USA
+      C: France
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "'Equality before law' (Art. 14) comes from the British Constitution (rule of law); 'equal protection of laws' comes from the US Constitution."
+  - slug: bpsc-68-q002
+    difficulty: medium
+    stem: What was the duration in the making of the Indian Constitution?
+    options:
+      A: 1 year 10 months and 12 days
+      B: 2 years 10 months and 5 days
+      C: 2 years 11 months and 18 days
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: "The Constituent Assembly first met on 9 Dec 1946 and adopted the Constitution on 26 Nov 1949: 2 years, 11 months and 18 days."
+  - slug: bpsc-68-q003
+    difficulty: medium
+    stem: The Council of Ministers in a State is collectively responsible to
+    options:
+      A: the Chief Minister
+      B: the Governor
+      C: the Legislative Assembly
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: "Article 164(2): the State Council of Ministers is collectively responsible to the Legislative Assembly."
+  - slug: bpsc-68-q004
+    difficulty: medium
+    stem: |-
+      Consider the following statements :
+
+      In the post-73rd Amendment era, there has to be decentralization of
+
+      1. decision-making powers
+      2. system as a whole
+      3. judicial powers
+      4. administrative powers
+
+      Which of the above statements are correct?
+    options:
+      A: 1, 2 and 3 only
+      B: 1, 2 and 4 only
+      C: 2, 3 and 4 only
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The 73rd Amendment decentralised decision-making, administrative powers and the governance system as a whole; it did not decentralise judicial powers.
+  - slug: bpsc-68-q005
+    difficulty: medium
+    stem: The representation in the Rajya Sabha includes
+    options:
+      A: members directly elected by citizens
+      B: members indirectly elected by citizens through their representatives
+      C: members nominated by the President of India
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: Rajya Sabha has members elected indirectly by elected MLAs and 12 members nominated by the President, so both B and C hold.
+  - slug: bpsc-68-q006
+    difficulty: medium
+    stem: Which of the following is concerned with the Supreme Court of India?
+    options:
+      A: Appellate jurisdiction
+      B: Original jurisdiction
+      C: Collegium system
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: Original and appellate jurisdiction and the collegium system all relate to the Supreme Court, so more than one option is correct.
+  - slug: bpsc-68-q007
+    difficulty: medium
+    stem: The minimum age for contesting elections to the Panchayati Raj Institutions should be how many years according to the 73rd Constitutional Amendment Act?
+    options:
+      A: 21 years
+      B: 25 years
+      C: 18 years
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "Article 243F (73rd Amendment): a person who has attained 21 years cannot be disqualified on grounds of age for Panchayat elections."
+  - slug: bpsc-68-q008
+    difficulty: medium
+    stem: With reference to the Consumer Disputes Redressal at the district level in India, which one of the following statements is *not* correct?
+    options:
+      A: The State Government can establish more than one District Forum in a district if it deems fit.
+      B: One of the members of the District Forum shall be a woman.
+      C: The District Forum entertains the complaints where the value of goods or services does not exceed rupees fifty lakhs.
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: Under the Consumer Protection Act 2019, a State may set up more than one District Commission in a district, the 2020 rules require a woman president or member, and since Dec 2021 the pecuniary limit is Rs 50 lakh. All three statements are correct, so none is 'not correct'.
+  - slug: bpsc-68-q009
+    difficulty: medium
+    stem: At what level does a Panchayat Samiti operate a Panchayati Raj structure?
+    options:
+      A: District level
+      B: Gram Panchayat level
+      C: Block-level body
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The Panchayat Samiti is the intermediate tier, at the block level.
+  - slug: bpsc-68-q010
+    difficulty: medium
+    stem: Which one of the following was established as the first programme of community development?
+    options:
+      A: National Extension Service
+      B: Integrated Rural Development Programme
+      C: Cooperation Movement
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Of the options, the National Extension Service (1953) was the earliest community-development programme (it followed the 1952 Community Development Programme); IRDP came in 1978-80.
+  - slug: bpsc-68-q011
+    difficulty: medium
+    stem: |-
+      Which of the following are the objectives of the SEZ Act, 2005?
+
+      1. Generation of additional economic activity
+      2. Promotion of exports of goods and services
+      3. Creation of employment
+    options:
+      A: 1, 2 and 3
+      B: 2 and 3 only
+      C: 1 and 3 only
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: The SEZ Act 2005 lists additional economic activity, export promotion and employment generation among its objectives, so all three apply.
+  - slug: bpsc-68-q012
+    difficulty: medium
+    stem: What is the policy measure adopted by the Government of India to improve the system of agricultural marketing?
+    options:
+      A: Minimum Support Price (MSP)
+      B: Maintenance of Buffer Stock
+      C: Public Distribution System (PDS)
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: NCERT lists MSP, buffer stocks and PDS as policy instruments the government uses in agricultural marketing, so more than one option is correct.
+  - slug: bpsc-68-q013
+    difficulty: medium
+    stem: Which committee suggested the enactment of the Competition Act, 2002?
+    options:
+      A: Rangarajan Committee
+      B: S. V. S. Raghavan Committee
+      C: Vijay Kelkar Committee
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The S.V.S. Raghavan Committee (2000) recommended a new competition law, which became the Competition Act 2002.
+  - slug: bpsc-68-q014
+    difficulty: medium
+    stem: |-
+      Match List–I with List–II :
+
+      | List–I | List–II |
+      |---|---|
+      | a. Grey Revolution | 1. Onion production |
+      | b. Pink Revolution | 2. Tomato and meat production |
+      | c. Silver Revolution | 3. Production of eggs |
+      | d. Red Revolution | 4. Fertilizers |
+    options:
+      A: a-4, b-1, c-3, d-2
+      B: a-3, b-1, c-4, d-2
+      C: a-1, b-4, c-2, d-3
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "Grey Revolution: fertilisers; Pink: onion (also prawns/meat); Silver: eggs; Red: tomato and meat."
+  - slug: bpsc-68-q015
+    difficulty: medium
+    stem: Which of the following Five-Year Plans was focussed on Human Resource Development?
+    options:
+      A: First
+      B: Third
+      C: Fifth
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: Human resource development was the focus of the Eighth Plan (1992-97), which is not among the options.
+  - slug: bpsc-68-q016
+    difficulty: medium
+    stem: Which of the following States of India received the highest Foreign Direct Investment (FDI) equity flow during April to September 2022?
+    options:
+      A: Karnataka
+      B: Tripura
+      C: Gujarat
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: In Apr-Sep 2022 Maharashtra was first and Karnataka second in FDI equity inflows (DPIIT). Among the listed states Karnataka is highest.
+  - slug: bpsc-68-q017
+    difficulty: medium
+    stem: In which budget did the Finance Minister announce the Liberalized Exchange Rate Management System?
+    options:
+      A: Union Budget, 1991–1992
+      B: Union Budget, 1992–1993
+      C: Union Budget, 1993–1994
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: LERMS (dual exchange rate) was announced in the Union Budget 1992-93 and introduced in March 1992.
+  - slug: bpsc-68-q018
+    difficulty: medium
+    stem: |-
+      Which of the following were goals of the Five-Year Plans?
+
+      1. Growth
+      2. Modernization
+      3. Self-reliance
+      4. Literature
+    options:
+      A: 1, 3 and 4 only
+      B: 2, 3 and 4 only
+      C: 1, 2 and 4 only
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: The plan goals were growth, modernisation, self-reliance and equity. 'Literature' is not one, and every option includes statement 4, so none is correct.
+  - slug: bpsc-68-q019
+    difficulty: medium
+    stem: Which organization carries out the survey for determining the poverty line?
+    options:
+      A: NSSO
+      B: NITI Aayog
+      C: RBI
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Poverty estimates rely on the NSSO consumption expenditure surveys. NITI Aayog uses the data but does not conduct the survey.
+  - slug: bpsc-68-q020
+    difficulty: medium
+    stem: The trade balance of India (merchandise and services) for December 2022 (provisional) is
+    options:
+      A: (–) 10·50 USD billion
+      B: (+) 11·98 USD billion
+      C: (–) 11·98 USD billion
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The Commerce Ministry's estimate for Dec 2022 was overall exports of about USD 61.82 bn and imports of about USD 73.80 bn, a trade deficit of about USD 11.98 bn.
+  - slug: bpsc-68-q021
+    difficulty: medium
+    stem: At what percentage has Bihar registered the lowest Female Workforce Participation Rate for the year 2020–2022?
+    options:
+      A: 4% in rural and 6·5% in urban areas
+      B: 6% in rural and 8·1% in urban areas
+      C: 7% in rural and 9·1% in urban areas
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Bihar has the lowest female workforce participation among states. The key takes about 4% rural and 6.5% urban.
+  - slug: bpsc-68-q023
+    difficulty: medium
+    stem: According to the National Family Survey-5 released by the Union Ministry of Health and Family Welfare on November 24, 2021, there has been a significant improvement in the sex ratio of Bihar. It has increased from ______ in 2015–2016 to ______ in 2020–2022.
+    options:
+      A: 1062, 1090
+      B: 1040, 1070
+      C: 1030, 1050
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "NFHS-5: Bihar's sex ratio (females per 1000 males) rose from 1062 (NFHS-4, 2015-16) to 1090 (2019-21)."
+  - slug: bpsc-68-q024
+    difficulty: medium
+    stem: According to the Bihar Economic Survey (2021–2022), what was the rate of growth of Gross State Domestic Product (GSDP) of Bihar in 2020–2021?
+    options:
+      A: 3%
+      B: 2%
+      C: 2·5%
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: "Bihar Economic Survey 2021-22: GSDP grew 2.5% at constant prices in 2020-21, the COVID year."
+  - slug: bpsc-68-q025
+    difficulty: medium
+    stem: Which one of the following is correct for Bihar economy?
+    options:
+      A: The growth rate is one of the lowest in India at 2·5%.
+      B: Bihar produces mostly primary goods.
+      C: The occupational structure of the economy is stagnant from above.
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: Bihar's growth rate is among the highest (A is false). It mainly produces primary goods, and its occupational structure, with over two-thirds in agriculture, has hardly changed. The key accepts both B and C.
+  - slug: bpsc-68-q026
+    difficulty: medium
+    stem: The Swadeshi and Boycott were adopted as the methods of struggle for the first time during the
+    options:
+      A: visit of the Simon Commission to India
+      B: Partition of Bengal
+      C: Home Rule Movement
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Swadeshi and Boycott were first adopted as methods of struggle during the anti-partition movement against the Partition of Bengal in 1905.
+  - slug: bpsc-68-q027
+    difficulty: medium
+    stem: At the Calcutta Session of the Indian National Congress (INC) held in 1906, the Flag of Swaraj for India was unfurled by
+    options:
+      A: A. O. Hume
+      B: Dadabhai Naoroji
+      C: G. K. Gokhale
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Dadabhai Naoroji presided over the 1906 Calcutta session, where Swaraj was first declared the Congress goal. Exam sources credit him with unfurling the Swaraj flag.
+  - slug: bpsc-68-q028
+    difficulty: medium
+    stem: During the freedom struggle, a parallel movement launched in the Indian States (in the States ruled by the Indian rulers such as Kashmir, Nizam’s Hyderabad, Travancore, etc.) was
+    options:
+      A: State People’s Movement
+      B: Praja Mandal Movement
+      C: Swaraj Movement
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The movement in the princely states was organised through Praja Mandals (and the States' People's Conference).
+  - slug: bpsc-68-q029
+    difficulty: medium
+    stem: Which of the following statements regarding the Indian freedom struggle is *not* correct?
+    options:
+      A: Gandhiji withdrew from the Non-Cooperation Movement due to the Chauri-Chaura Incident.
+      B: Gandhiji gave his first major public speech at Banaras Hindu University.
+      C: Mahatma Gandhi was arrested in the year 1921.
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Gandhiji was arrested in March 1922, not 1921. A (Chauri Chaura) and B (BHU speech, 1916) are correct.
+  - slug: bpsc-68-q030
+    difficulty: medium
+    stem: Which one of the following was a journal brought out by Abul Kalam Azad?
+    options:
+      A: "*The Comrade*"
+      B: "*Al-Hilal*"
+      C: "*Zamindar*"
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Abul Kalam Azad started Al-Hilal in 1912. The Comrade was Mohammad Ali's and Zamindar was Zafar Ali Khan's.
+  - slug: bpsc-68-q031
+    difficulty: medium
+    stem: How did the study of history help in creating a feeling of nationalism in India towards the end of the 19th century?
+    options:
+      A: By reinterpreting history and refuting the British portrayal of Indians as backward, primitive and incapable of governing themselves
+      B: By writing about India’s glorious past and urging people to take pride in their achievements
+      C: By urging people to struggle and change the miserable conditions of life under the British rule
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: "NCERT (Class 10) describes all three: reinterpreting history against the British portrayal, writing about India's glorious past, and urging struggle against British rule."
+  - slug: bpsc-68-q032
+    difficulty: medium
+    stem: |-
+      Which of the following statements are *not* correct regarding the Non-Cooperation Movement in the towns?
+
+      1. Only the upper caste and the rich took part in the movement.
+      2. The council elections were boycotted even by the Justice Party of Madras.
+      3. Thousands of students left government-controlled schools, headmasters and teachers resigned and lawyers gave up their practice.
+    options:
+      A: 1 and 3 only
+      B: 2 and 3 only
+      C: 1 and 2 only
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Middle classes, not only the upper castes and the rich, joined (1 is wrong). The Justice Party of Madras contested the council elections (2 is wrong). Statement 3 is correct.
+  - slug: bpsc-68-q033
+    difficulty: medium
+    stem: “A Sanyasi who came to that district after a spell as an indentured labourer in Fiji, carrying a copy of Tulsidas *Ramayana* on his back from which he would recite verses to rural audience.” The peasant leader referred to here is
+    options:
+      A: Jhinguri Singh
+      B: Yadunandan Sharma
+      C: Baba Ram Chandra
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Baba Ramchandra, a former indentured labourer in Fiji, led the Awadh peasant movement while reciting the Ramayana.
+  - slug: bpsc-68-q034
+    difficulty: medium
+    stem: Who was the founder of All India Harijan Sangh in 1932?
+    options:
+      A: Jagjivan Ram
+      B: Mahatma Gandhi
+      C: Dr. B. R. Ambedkar
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Gandhiji founded the All India Harijan (Sevak) Sangh in 1932 to fight untouchability.
+  - slug: bpsc-68-q035
+    difficulty: medium
+    stem: On February 20, 1947, Prime Minister Attlee announced the British Government’s decision to withdraw from India latest by
+    options:
+      A: August 1947
+      B: January 1948
+      C: June 1948
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: On 20 Feb 1947 Attlee announced that the British would leave India by June 1948.
+  - slug: bpsc-68-q036
+    difficulty: medium
+    stem: Who established Swaraj Dal in Bihar?
+    options:
+      A: Shri Krishna Singh
+      B: Ramlal Shah
+      C: Bankim Chandra Mitra
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Shri Krishna Singh (Sinha) is credited with setting up the Swaraj Dal in Bihar in 1923.
+  - slug: bpsc-68-q037
+    difficulty: medium
+    stem: During the Salt Satyagraha in Bihar, in addition to making salt, the people chose to oppose the government by opposing which tax?
+    options:
+      A: Haathi
+      B: Development
+      C: Malba
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: Alongside salt-making, people in Bihar refused to pay the chowkidari tax, which is not among the options.
+  - slug: bpsc-68-q038
+    difficulty: medium
+    stem: The elected Government of Bihar formed by Shri Krishna Singh resigned in February 1938 for which reason?
+    options:
+      A: Participation in the Freedom Struggle of India
+      B: For the release of political prisoners
+      C: Satyagraha against the British at the call of Gandhiji
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Shri Krishna Singh's ministry resigned in Feb 1938 when the Governor refused to release political prisoners.
+  - slug: bpsc-68-q039
+    difficulty: medium
+    stem: Who saved the life of Gandhiji in Bihar during Champaran Satyagraha?
+    options:
+      A: Batak Mian
+      B: Hamid Ansari
+      C: Ravindra Pathak
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Batak Mian, a cook, refused an indigo planter's order to poison Gandhiji during the Champaran Satyagraha.
+  - slug: bpsc-68-q040
+    difficulty: medium
+    stem: Who led cultivators in Bihar during the Non-Cooperation Movement?
+    options:
+      A: Swami Vidyanand
+      B: Raj Kumar Shukla
+      C: Shri Krishna Singh
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Swami Vidyanand led the kisan agitation, against the Darbhanga Raj, in north Bihar in 1919-20, around the Non-Cooperation period.
+  - slug: bpsc-68-q041
+    difficulty: medium
+    stem: In ancient times, the area to the south of the Ganga was known as
+    options:
+      A: Takshashila
+      B: Chola
+      C: Anarta
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: The region south of the Ganga (around the Son) was Magadha. Takshashila, Chola and Anarta lay elsewhere.
+  - slug: bpsc-68-q042
+    difficulty: medium
+    stem: When did the use of iron begin in Indian subcontinent?
+    options:
+      A: Around 12000 years ago
+      B: Around 6000 years ago
+      C: Around 9000 years ago
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: Iron use in the subcontinent began about 3000 years ago (c. 1000 BCE or a little earlier), which no option gives.
+  - slug: bpsc-68-q043
+    difficulty: medium
+    stem: According to the rock inscription in Sanskrit, composed around second century CE, Sudarshan Lake, an artificial reservoir, was repaired by
+    options:
+      A: Kanishka
+      B: Rudradaman
+      C: Harsha
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Rudradaman's Junagadh (Girnar) Sanskrit inscription (c. 150 CE) records his repair of the Sudarshana lake.
+  - slug: bpsc-68-q044
+    difficulty: medium
+    stem: The temple of Deogarh near Jhansi and the sculptures in the temple at Garhwa near Allahabad are the important remains of the
+    options:
+      A: Gupta art
+      B: Rashtrakuta art
+      C: Maurya art
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: The Dashavatara temple at Deogarh and the Garhwa sculptures are Gupta-period works.
+  - slug: bpsc-68-q045
+    difficulty: medium
+    stem: In which of the following battles are the main opponents *not* correctly stated?
+    options:
+      A: First Battle of Panipat—Babur and Ibrahim Lodi
+      B: Second Battle of Panipat—Tipu Sultan and Marathas
+      C: Battle of Haldighati—Maharana Pratap and Akbar
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The Second Battle of Panipat (1556) was fought between Akbar (under Bairam Khan) and Hemu, not between Tipu and the Marathas.
+  - slug: bpsc-68-q046
+    difficulty: medium
+    stem: During the Delhi Sultanate, the designation ‘Muqaddam or Chaudhari’ was used for
+    options:
+      A: revenue officials
+      B: village accountant
+      C: village headman
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Under the Sultanate, the muqaddam or chaudhari was the village headman.
+  - slug: bpsc-68-q047
+    difficulty: medium
+    stem: "*Tabaqat-i-Akbari*, which has been sometimes considered more reliable than Abul Fazl’s *Akbarnama*, was written by"
+    options:
+      A: Nizamuddin Ahmad
+      B: Abdul Hamid Lahori
+      C: Gulbadan Begum
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Tabaqat-i-Akbari was written by Khwaja Nizamuddin Ahmad.
+  - slug: bpsc-68-q048
+    difficulty: medium
+    stem: Who among the following famous rulers founded a suburban township of Nagalapuram, near Vijayanagara, after his mother’s name?
+    options:
+      A: Harihara
+      B: Bukka
+      C: Krishnadevaraya
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Krishnadevaraya founded Nagalapuram near Vijayanagara and named it after his mother, Nagala Devi.
+  - slug: bpsc-68-q049
+    difficulty: medium
+    stem: In 1940, Patna Women’s College was founded by which of the following societies?
+    options:
+      A: Society of Jesus
+      B: Irish Christian Brothers
+      C: Sisters of the Apostolic Carmel
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Patna Women's College was founded in 1940 by the Sisters of the Apostolic Carmel.
+  - slug: bpsc-68-q050
+    difficulty: medium
+    stem: Who among the following headed the two Boundary Commissions set up to delineate the international frontiers between India and Pakistan in 1947?
+    options:
+      A: A. P. Moon
+      B: A. V. Alexander
+      C: Cyril Radcliffe
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Sir Cyril Radcliffe chaired both the Punjab and the Bengal Boundary Commissions.
+  - slug: bpsc-68-q051
+    difficulty: medium
+    stem: Who introduced the system of Mahalwari Settlement in Bengal?
+    options:
+      A: Lord Cornwallis
+      B: Holt Mackenzie
+      C: Lord Hastings
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Holt Mackenzie proposed the Mahalwari system (Regulation VII of 1822) for the North-Western Provinces of the Bengal Presidency.
+  - slug: bpsc-68-q052
+    difficulty: medium
+    stem: In 1940, Vinoba Bhave started individual Satyagraha from
+    options:
+      A: Nadiad in Kheda district, Gujarat
+      B: Pavnar, Maharashtra
+      C: Punnapra-Vayalar, Kerala
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Vinoba Bhave, the first individual satyagrahi, began on 17 Oct 1940 from Pavnar, near Wardha.
+  - slug: bpsc-68-q053
+    difficulty: medium
+    stem: The Congress took a critical stand over the Montford Reforms in 1918, which led to break up with the old moderate remnants (Sapru, Jayakar and Chintamani) who formed the
+    options:
+      A: Servants of India Society
+      B: Swaraj Party
+      C: Indian National Liberal Federation
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Moderates led by Surendranath Banerjee, Sapru and others left Congress and formed the Indian National Liberal Federation in 1918-19.
+  - slug: bpsc-68-q054
+    difficulty: medium
+    stem: |-
+      The Cabinet Mission was sent to India for which of the following?
+
+      1. To establish a national government
+      2. To work out a constitutional arrangement for the transfer of power
+      3. To work out the details of Jinnah’s demand for Pakistan
+    options:
+      A: 1 only
+      B: 2 only
+      C: 3 only
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The Cabinet Mission (1946) came to negotiate the constitutional arrangements for the transfer of power.
+  - slug: bpsc-68-q055
+    difficulty: medium
+    stem: Who among the following made an offer to Humayun that he would surrender Bihar and pay an annual tribute of 10 lakh dinars if he was allowed to retain Bengal?
+    options:
+      A: Sher Khan
+      B: Bairam Khan
+      C: Bahadur Shah
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Sher Khan offered to give up Bihar and pay Humayun a tribute of 10 lakh dinars a year if he could keep Bengal.
+  - slug: bpsc-68-q056
+    difficulty: medium
+    stem: The Vikramshila University was established by
+    options:
+      A: Dharmapala
+      B: Devapala
+      C: Gopala
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: The Pala king Dharmapala founded Vikramshila Mahavihara.
+  - slug: bpsc-68-q057
+    difficulty: medium
+    stem: Who among the following was the first Governor of Bihar?
+    options:
+      A: Sir James David Sifton
+      B: Sir Hugh Dow
+      C: Sir Maurice Garnier Hallett
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Sir James David Sifton became the first Governor of Bihar when Bihar was separated from Orissa on 1 April 1936.
+  - slug: bpsc-68-q058
+    difficulty: medium
+    stem: Who was the author of *Mahatma Gandhi and Bihar, Some Reminiscences* ?
+    options:
+      A: J. P. Narayan
+      B: Karpoori Thakur
+      C: Dr. Rajendra Prasad
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: "Dr Rajendra Prasad wrote 'Mahatma Gandhi and Bihar: Some Reminiscences'."
+  - slug: bpsc-68-q059
+    difficulty: medium
+    stem: Which is the oldest church in Bihar?
+    options:
+      A: Luke’s Church
+      B: Stephen’s Church
+      C: Padri Ki Haveli
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Padri Ki Haveli (St Mary's Church, Patna, 1772) is the oldest church in Bihar.
+  - slug: bpsc-68-q060
+    difficulty: medium
+    stem: The late actor Kumudlal Ganguly, also known by his stage name Ashok Kumar, was born in which of the following cities of Bihar?
+    options:
+      A: Munger
+      B: Bhagalpur
+      C: Patna
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Ashok Kumar (Kumudlal Ganguly) was born in Bhagalpur in 1911.
+  - slug: bpsc-68-q061
+    difficulty: medium
+    stem: Which of the following Union Ministries recently launched the YUVA 2.0 Scheme in 2022?
+    options:
+      A: Health and Family Welfare Ministry
+      B: Education Ministry
+      C: AYUSH Mantralay
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: YUVA 2.0, a mentorship scheme for young authors, was launched by the Ministry of Education in Oct 2022.
+  - slug: bpsc-68-q062
+    difficulty: medium
+    stem: The Ministry of Home Affairs has completed the Mother Tongue Survey of India (MTSI) in November 2022 with field videography of the country’s how many languages?
+    options:
+      A: "40"
+      B: "233"
+      C: "576"
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The MHA's Mother Tongue Survey of India finished field videography of 576 languages.
+  - slug: bpsc-68-q063
+    difficulty: medium
+    stem: Which of the following committees submitted a report on gas pricing, recommending complete pricing freedom from January 1, 2026?
+    options:
+      A: Arun Goel Committee
+      B: Kirit Parikh Committee
+      C: P. K. Mohanty Committee
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The Kirit Parikh committee recommended complete freedom in gas pricing from 1 January 2026.
+  - slug: bpsc-68-q064
+    difficulty: medium
+    stem: Which of the following cities was *not* conferred with five-star garbage-free city rank according to Swachh Survekshan, 2022?
+    options:
+      A: Surat
+      B: Bhopal
+      C: Navi Mumbai
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: In Swachh Survekshan 2022 Surat, Bhopal and Navi Mumbai (with Mysuru, Visakhapatnam and Tirupati) were all rated 5-star garbage-free (PIB), so none fits.
+  - slug: bpsc-68-q065
+    difficulty: medium
+    stem: The Prime Minister inaugurated the first greenfield airport ‘Donyi Polo Airport’ in which of the following locations?
+    options:
+      A: Dholka
+      B: Itanagar
+      C: Dibrugarh
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Donyi Polo Airport, Arunachal Pradesh's first greenfield airport, is at Hollongi near Itanagar (Nov 2022).
+  - slug: bpsc-68-q066
+    difficulty: medium
+    stem: Which animal has been approved as a food animal by the Food Safety and Standards Authority of India (FSSAI) in November 2022?
+    options:
+      A: Himalayan yak
+      B: Mountain goat
+      C: Himalayan tahr
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: In Nov 2022 the FSSAI approved the Himalayan yak as a food animal.
+  - slug: bpsc-68-q067
+    difficulty: medium
+    stem: India’s first floating financial literacy camp was organized recently by India Post Payments Bank in which of the following locations?
+    options:
+      A: Srinagar
+      B: Andaman Islands
+      C: Kerala
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: India Post Payments Bank held the floating financial literacy camp on Dal Lake, Srinagar.
+  - slug: bpsc-68-q068
+    difficulty: medium
+    stem: The President of India inaugurated ‘PARAM KAMRUPA’ Supercomputer facility at which of the following IITs?
+    options:
+      A: Kharagpur
+      B: Bombay
+      C: Guwahati
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The President inaugurated the PARAM Kamrupa supercomputer at IIT Guwahati in Oct 2022.
+  - slug: bpsc-68-q069
+    difficulty: medium
+    stem: In the 90th Indian Air Force Day, celebrated on 8th October, 2022, an hour-long air display of eighty aircrafts was carried out over which of the following locations?
+    options:
+      A: Gateway of India, Mumbai
+      B: Dal Lake, Jammu and Kashmir
+      C: Sukhna Lake, Chandigarh
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The 90th Air Force Day flypast was held over Sukhna Lake, Chandigarh.
+  - slug: bpsc-68-q070
+    difficulty: medium
+    stem: Which month of the year is celebrated as Rashtriya Poshan Maah or National Nutrition Month under the Poshan Abhiyaan of the Government of India?
+    options:
+      A: May
+      B: September
+      C: July
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Rashtriya Poshan Maah is observed in September.
+  - slug: bpsc-68-q071
+    difficulty: medium
+    stem: What is the name of recently launched final module of China’s Tiangong Space Station?
+    options:
+      A: Tianhe
+      B: Wentian
+      C: Mengtian
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Mengtian (Oct 2022) was the final module of the Tiangong space station.
+  - slug: bpsc-68-q072
+    difficulty: medium
+    stem: Which of the following is the world’s largest volcano erupted for the first time in 38 years?
+    options:
+      A: Mount St. Helens
+      B: Mauna Loa
+      C: Haleakala
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Mauna Loa (Hawaii), the world's largest active volcano, erupted in Nov 2022 for the first time since 1984.
+  - slug: bpsc-68-q073
+    difficulty: medium
+    stem: Who among the following recently received the 2022 Booker Prize for his novel, *The Seven Moons of Maali Almeida* ?
+    options:
+      A: Michael Ondaatje
+      B: Pradeep Mathew
+      C: Shehan Karunatilaka
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Shehan Karunatilaka of Sri Lanka won the 2022 Booker Prize.
+  - slug: bpsc-68-q074
+    difficulty: medium
+    stem: What was the theme of the World Space Week, 2022?
+    options:
+      A: Women in Space
+      B: Satellites Improve Life
+      C: Space and Sustainability
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The theme of World Space Week 2022 was 'Space and Sustainability'.
+  - slug: bpsc-68-q075
+    difficulty: medium
+    stem: Which of the following laboratories claimed a historic nuclear fusion breakthrough in December 2022?
+    options:
+      A: Lawrence Livermore National Laboratory
+      B: Oak Ridge National Laboratory
+      C: Los Alamos National Laboratory
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Lawrence Livermore's National Ignition Facility achieved fusion ignition (net energy gain) in Dec 2022.
+  - slug: bpsc-68-q076
+    difficulty: medium
+    stem: Which of the following is Collins Dictionary’s word of the year 2022?
+    options:
+      A: Permacrisis
+      B: Carolean
+      C: Lawfare
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Collins chose 'permacrisis' as its 2022 word of the year.
+  - slug: bpsc-68-q077
+    difficulty: medium
+    stem: Which of the following countries, along with Senegal, launched the International Drought Resilience Alliance during COP27 ?
+    options:
+      A: Italy
+      B: Germany
+      C: Spain
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Spain and Senegal launched the International Drought Resilience Alliance at COP27.
+  - slug: bpsc-68-q078
+    difficulty: medium
+    stem: The Embassy of which country applied for a GI Tag for ‘Nihonshu’ for the first time in India?
+    options:
+      A: China
+      B: Japan
+      C: South Korea
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Japan's embassy applied for a GI tag for Nihonshu (sake), the first such application in India.
+  - slug: bpsc-68-q079
+    difficulty: medium
+    stem: Which of the following space agencies announced that it had successfully used steam to propel its EQUULEUS spacecraft?
+    options:
+      A: NASA
+      B: SUPARCO
+      C: JAXA
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: JAXA reported that its EQUULEUS cubesat was propelled with a water (steam) thruster.
+  - slug: bpsc-68-q080
+    difficulty: medium
+    stem: What is the name of Tesla humanoid robot launched in October 2022?
+    options:
+      A: Optimus
+      B: Atlas
+      C: Pepper
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Tesla showed its humanoid robot Optimus on AI Day, Sept/Oct 2022.
+  - slug: bpsc-68-q081
+    difficulty: medium
+    stem: The first ‘floating solar power plant’ has been built at which place in Bihar?
+    options:
+      A: Dilbarpur, Darbhanga
+      B: Jamalpur, Darbhanga
+      C: Kadirabad, Darbhanga
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Bihar's first floating solar plant is at Kadirabad, Darbhanga.
+  - slug: bpsc-68-q082
+    difficulty: medium
+    stem: According to the Economic Survey for the year 2019–2020, which district has lowest per capita income?
+    options:
+      A: Sheohar
+      B: Araria
+      C: Sitamarhi
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "Bihar Economic Survey 2019-20: Sheohar has the lowest per capita income."
+  - slug: bpsc-68-q083
+    difficulty: medium
+    stem: According to the NITI Aayog SDG Report for the year 2020–2021, how much did the State of Bihar score?
+    options:
+      A: 22 out of 100
+      B: 35 out of 100
+      C: 52 out of 100
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Bihar scored 52 out of 100, the lowest, in the NITI Aayog SDG India Index 2020-21.
+  - slug: bpsc-68-q084
+    difficulty: medium
+    stem: Which sport has been included in the Khelo India Women’s Tournament for the first time?
+    options:
+      A: Cricket
+      B: Track Cycling
+      C: Archery
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Track cycling was included in the Khelo India Women's tournament for the first time (Patiala, Dec 2022).
+  - slug: bpsc-68-q085
+    difficulty: medium
+    stem: Which of the following has been awarded the Geographical Indication (GI) Tag in August 2022?
+    options:
+      A: Applique (Khatwa) Work of Bihar
+      B: Sikki Grass Products of Bihar
+      C: Mithila Makhana
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Mithila Makhana received the GI tag in Aug 2022.
+  - slug: bpsc-68-q086
+    difficulty: medium
+    stem: Which of the following has been added to the UNESCO World Heritage List in 2022?
+    options:
+      A: Astronomical Observatory at the Langat Singh College
+      B: Mahabodhi Temple Complex at Bodh Gaya
+      C: Archaeological Site of Nalanda Mahavihara at Nalanda
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: No Bihar site was added in 2022. Reports about the Langat Singh College observatory were wrong (UNESCO clarified), and Mahabodhi (2002) and Nalanda (2016) were listed earlier.
+  - slug: bpsc-68-q087
+    difficulty: medium
+    stem: In the year 2020, Bihar gained the ______ rank out of 36 States in the Ease of Doing Business, awarded by Business Reforms Action Plan (BRAP).
+    options:
+      A: 23rd
+      B: 24th
+      C: 25th
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: BRAP 2020 placed states in categories (Bihar among 'Aspirers'/emerging ecosystems) rather than giving numbered ranks of 23rd-25th.
+  - slug: bpsc-68-q088
+    difficulty: medium
+    stem: Ganga Jal Aapurti Yojana was inaugurated by Chief Minister Nitish Kumar on November 28, 2022 at which place?
+    options:
+      A: Lakhisarai
+      B: Rajgir
+      C: Bodh Gaya
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The Ganga Jal Apurti Yojana was inaugurated at Rajgir on 27 Nov 2022 and at Bodh Gaya on 28 Nov 2022.
+  - slug: bpsc-68-q089
+    difficulty: medium
+    stem: Which of the following associations/boards declared equal pay for men and women players in October 2022?
+    options:
+      A: Bihar Cricket Association
+      B: Board of Control for Cricket in India
+      C: Gujarat Cricket Association
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: On 27 Oct 2022 the BCCI announced equal match fees for its centrally contracted men and women.
+  - slug: bpsc-68-q090
+    difficulty: medium
+    stem: The urbanization of the State has increased very rapidly in the last ten years. According to the 2011 Census, the level of urbanization in Bihar was just ______ percent, which has increased to ______ percent at present.
+    options:
+      A: 11·3, 15·3
+      B: 12·2, 13·1
+      C: 14·4, 15·5
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Bihar's urbanisation was 11.3% in Census 2011. The Bihar Economic Survey gives a current level of about 15.3% (after new urban bodies were notified).
+  - slug: bpsc-68-q091
+    difficulty: medium
+    stem: In the end of its mountainous journey at Attock, the Indus River is joined by which river from Afghanistan?
+    options:
+      A: Amu Darya
+      B: Kabul River
+      C: Helmand River
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The Kabul river joins the Indus near Attock.
+  - slug: bpsc-68-q092
+    difficulty: medium
+    stem: Which one of the following is the well-publicised wildlife campaign in the world launched in 1973?
+    options:
+      A: Project Tiger
+      B: Lion Project
+      C: Sunderbans Project
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Project Tiger was launched in 1973.
+  - slug: bpsc-68-q093
+    difficulty: medium
+    stem: Which of the following statements is true about troposphere?
+    options:
+      A: It is the topmost layer of the atmosphere.
+      B: The temperature at this layer increases with the height.
+      C: Its average height is 13 km.
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The troposphere is the lowest layer, its temperature falls with height, and its average height is about 13 km (8 km at the poles, 18 km at the equator).
+  - slug: bpsc-68-q094
+    difficulty: medium
+    stem: The southern continent broken from Pangaea is called
+    options:
+      A: Laurasia
+      B: Gondwanaland
+      C: Pacific Ocean
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Pangaea split into Laurasia in the north and Gondwanaland in the south.
+  - slug: bpsc-68-q095
+    difficulty: medium
+    stem: The Arctic region and the Antarctica continent are situated near
+    options:
+      A: the Sahara Desert
+      B: the North and South Poles
+      C: the Amazon Basin
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: The Arctic surrounds the North Pole and Antarctica the South Pole.
+  - slug: bpsc-68-q096
+    difficulty: medium
+    stem: Which States of India have common border with Myanmar?
+    options:
+      A: Arunachal Pradesh, Nagaland, Manipur, Mizoram
+      B: Arunachal Pradesh, Assam, Manipur, Mizoram
+      C: Manipur, Mizoram, Nagaland, Tripura
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: The states bordering Myanmar are Arunachal Pradesh, Nagaland, Manipur and Mizoram.
+  - slug: bpsc-68-q097
+    difficulty: medium
+    stem: Which one of the following is the world’s richest region from a marine biodiversity perspective, comprising 21 islands with estuaries, beaches, forests of the nearshore environment, seagrasses, coral reefs, salt marshes and mangroves?
+    options:
+      A: Gulf of Mannar Biosphere Reserve
+      B: Nanda Devi Biosphere Reserve
+      C: Sunderbans Biosphere Reserve
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: The Gulf of Mannar Biosphere Reserve has 21 islands and is among the richest marine biodiversity regions.
+  - slug: bpsc-68-q098
+    difficulty: medium
+    stem: In which type of climatic region do Uttar Pradesh and Bihar fall as per Köppen’s classification scheme?
+    options:
+      A: Cwg
+      B: Aw
+      C: Dfc
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: The Ganga plains of UP and Bihar fall in Köppen's Cwg (monsoon type with dry winter).
+  - slug: bpsc-68-q099
+    difficulty: medium
+    stem: India’s territorial limit extends towards the sea up to how many nautical miles/km from the coast?
+    options:
+      A: 16 nautical miles (about 25·9 km)
+      B: 12 nautical miles (about 21·9 km)
+      C: 10 nautical miles (about 19·9 km)
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Territorial waters extend 12 nautical miles (about 22.2 km; the paper prints 21.9 km).
+  - slug: bpsc-68-q100
+    difficulty: medium
+    stem: Which of the following river valleys is rich in coal reserves in India?
+    options:
+      A: Damodar River Valley
+      B: Son River Valley
+      C: Mahanadi River Valley
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: Gondwana coal lies in the Damodar (Jharia, Raniganj, Bokaro) and Mahanadi (Talcher) valleys, so more than one option is correct.
+  - slug: bpsc-68-q101
+    difficulty: medium
+    stem: Which of the following statements is true about sugar industry in India?
+    options:
+      A: It is a weight-losing industry.
+      B: Maharashtra has emerged as a leading sugar producer in the country.
+      C: Uttar Pradesh is the second largest producer of sugar.
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: Sugar is a weight-losing industry. Maharashtra has become the leading producer, with UP second in recent seasons, so more than one statement is true.
+  - slug: bpsc-68-q102
+    difficulty: medium
+    stem: Towards the end of summer, there are pre-monsoon showers which are a common phenomenon in Kerala and coastal areas of Karnataka. Locally, they are known as
+    options:
+      A: Blossom showers
+      B: Norwesters
+      C: Mango showers
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Pre-monsoon showers in Kerala and coastal Karnataka are called mango showers. Blossom showers are coffee showers in interior Karnataka.
+  - slug: bpsc-68-q103
+    difficulty: medium
+    stem: The atmosphere is mainly heated by the
+    options:
+      A: short-wave solar radiation
+      B: reflected solar radiation
+      C: long-wave terrestrial radiation
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The atmosphere absorbs little incoming short-wave radiation and is heated mainly from below by long-wave terrestrial radiation.
+  - slug: bpsc-68-q104
+    difficulty: medium
+    stem: Which of the following States of India borders with the maximum number of districts in Bihar?
+    options:
+      A: Uttar Pradesh
+      B: Jharkhand
+      C: West Bengal
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: Uttar Pradesh and Jharkhand each border 8 Bihar districts (BPSC lists them), so more than one option is correct.
+  - slug: bpsc-68-q105
+    difficulty: medium
+    stem: Which of the following is the last railway station of Bihar in the train route from Bhagalpur towards Mirza Cheuki?
+    options:
+      A: Pirpainti Railway Station
+      B: Ammapali Railway Station
+      C: Kahalgaon Railway Station
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Ammapali halt, after Pirpainti on the Sahibganj loop, is the last station in Bihar before Mirza Chauki (Jharkhand).
+  - slug: bpsc-68-q106
+    difficulty: medium
+    stem: |-
+      With reference to the mineral production in Bihar, consider the following statements :
+
+      1. Rohtas has the highest deposit of pyrites.
+      2. Limestone is found in Kaimur (Bhabhua), Munger (Monghyr) and Rohtas districts.
+      3. Gold deposits are found in Jamui district.
+
+      Which of the statements given above is/are correct?
+    options:
+      A: 3 only
+      B: 1 and 2 only
+      C: 1 and 3 only
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: Rohtas (Amjhore) has the largest pyrite deposits, limestone occurs in Kaimur, Munger and Rohtas, and gold in Jamui. All three statements are true, so no option fits.
+  - slug: bpsc-68-q107
+    difficulty: medium
+    stem: Phalgu, a sacred river flowing in Bihar, is formed by the confluence of which of the following rivers?
+    options:
+      A: Lilajan and Son rivers
+      B: Son and Mohana rivers
+      C: Mohana and Lilajan rivers
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: The Phalgu is formed near Bodh Gaya by the confluence of the Lilajan (Niranjana) and the Mohana.
+  - slug: bpsc-68-q108
+    difficulty: medium
+    stem: In Bihar, tea gardens were established for the first time in which of the following places?
+    options:
+      A: Thakurganj
+      B: Bahadurganj
+      C: Supaul
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Bihar's first tea gardens were set up in the Thakurganj and Pothia blocks of Kishanganj.
+  - slug: bpsc-68-q109
+    difficulty: medium
+    stem: Choose the correct order of the following districts of Bihar as per the ascending decadal population growth (2001–2011).
+    options:
+      A: Siwan < Kishanganj < Madhepura
+      B: Madhepura < Kishanganj < Siwan
+      C: Kishanganj < Madhepura < Siwan
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "Census 2011 decadal growth: Siwan about 22.7%, Kishanganj about 30.4%, Madhepura about 31.1%."
+  - slug: bpsc-68-q110
+    difficulty: medium
+    stem: Which food industry dominates among the agro-based industries in Bihar?
+    options:
+      A: Cereal-based industry
+      B: Pulses industry
+      C: Sugarcane industry
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Cereal-based units, mainly rice mills, dominate Bihar's agro-based food industry.
+  - slug: bpsc-68-q111
+    difficulty: medium
+    stem: Large number of thin strips of black paint are made on the surface of a convex lens of focal length 20 cm to catch the image of a white horse. The image will be
+    options:
+      A: a zebra of black stripes
+      B: a horse of black stripes
+      C: a horse of less brightness
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: "Every part of the lens still forms the full image, so the strips only cut the light: a complete but dimmer horse."
+  - slug: bpsc-68-q112
+    difficulty: medium
+    stem: Shrillness of sound is determined by
+    options:
+      A: amplitude of sound
+      B: wavelength of sound
+      C: velocity of sound
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Shrillness (pitch) depends on frequency, which is inversely related to wavelength. Frequency is not an option, so wavelength is the intended answer.
+  - slug: bpsc-68-q113
+    difficulty: medium
+    stem: Which of the following photoelectric devices is most suitable for digital applications?
+    options:
+      A: Photovoltaic cell
+      B: Photoemitter
+      C: Photodiode
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: |-
+      **Disputed.** BPSC's final key says A; our check suggests C.
+
+      The key gives the photovoltaic cell, reasoning that it converts light into an electrical signal. On standard electronics grounds a photodiode is the device suited to digital use.
+  - slug: bpsc-68-q114
+    difficulty: medium
+    stem: Ball bearings are used to convert static friction into
+    options:
+      A: drag
+      B: sliding friction
+      C: rolling friction
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Ball bearings replace sliding contact with rolling contact, which gives much lower rolling friction.
+  - slug: bpsc-68-q115
+    difficulty: medium
+    stem: A goalkeeper in a game of football pulls his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to
+    options:
+      A: exert large force on the ball
+      B: increase the force exerted by the ball on hands
+      C: decrease the rate of change of momentum
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Pulling the hands back lengthens the stopping time, which lowers the rate of change of momentum (the force).
+  - slug: bpsc-68-q116
+    difficulty: medium
+    stem: Which among the following is a positively charged particle emitted by a radioactive element?
+    options:
+      A: Beta ray
+      B: Alpha ray
+      C: Cathode ray
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Alpha rays (helium nuclei) are positive. Beta rays and cathode rays are electrons.
+  - slug: bpsc-68-q117
+    difficulty: medium
+    stem: Centripetal force is responsible to
+    options:
+      A: keep the body moving along the circular path
+      B: fly the object along a straight line
+      C: independent motion of the object in space
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Centripetal force keeps a body moving along a circular path.
+  - slug: bpsc-68-q118
+    difficulty: medium
+    stem: Which of the following energy changes involves frictional force?
+    options:
+      A: Potential energy to sound energy
+      B: Chemical energy to heat energy
+      C: Kinetic energy to heat energy
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Friction converts kinetic energy into heat.
+  - slug: bpsc-68-q119
+    difficulty: medium
+    stem: A bus is moving along a straight path and takes a sharp turn to the right side suddenly. The passengers sitting in the bus will
+    options:
+      A: fall in the forward direction
+      B: bent towards left side
+      C: bent towards right side
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Through inertia of direction, passengers lean to the left when the bus turns right.
+  - slug: bpsc-68-q120
+    difficulty: medium
+    stem: Before playing the orchestra in a musical concert, a sitarist tries to adjust the tension and pluck the string suitably. By doing so, he/she is adjusting
+    options:
+      A: amplitude of sound
+      B: intensity of sound
+      C: frequency of the sitar string with the frequency of other musical instruments
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Changing the tension tunes the string's natural frequency to match the other instruments.
+  - slug: bpsc-68-q121
+    difficulty: medium
+    stem: A form of matter has no fixed shape but it has a fixed volume. An example of this form of matter is
+    options:
+      A: krypton
+      B: kerosene
+      C: carbon steel
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Liquids such as kerosene have a fixed volume but no fixed shape. Krypton is a gas and carbon steel is a solid.
+  - slug: bpsc-68-q122
+    difficulty: medium
+    stem: Some metal oxides react with acid as well as base to produce salt and water. They are known as amphoteric oxides. The examples of amphoteric oxides are
+    options:
+      A: Al₂O₃ and ZnO
+      B: Al₂O₃ and CuO
+      C: CuO and ZnO
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Al2O3 and ZnO are amphoteric. CuO is basic.
+  - slug: bpsc-68-q123
+    difficulty: medium
+    stem: Which gas contributes to global warming through its greenhouse effect?
+    options:
+      A: Nitrous oxide
+      B: Methane
+      C: Carbon dioxide
+      D: More than one of the above
+      E: None of the above
+    answer: D
+    explanation: CO2, CH4 and N2O are all greenhouse gases, so more than one option is correct.
+  - slug: bpsc-68-q124
+    difficulty: medium
+    stem: Acids react with metal carbonates to liberate ______ gas.
+    options:
+      A: CO₂
+      B: CO
+      C: H₂
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Acid + metal carbonate gives salt + water + CO2.
+  - slug: bpsc-68-q125
+    difficulty: medium
+    stem: Which acid is described as HOOCCOOH ?
+    options:
+      A: Oxalic acid
+      B: Acetic acid
+      C: Carbonic acid
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: HOOC-COOH is oxalic (ethanedioic) acid.
+  - slug: bpsc-68-q126
+    difficulty: medium
+    stem: You have been provided with three test tubes. One of them contains distilled water and the other two contain an acidic solution and a basic solution, respectively. Which of them will turn red litmus to blue?
+    options:
+      A: Acid
+      B: Base
+      C: Distilled water
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: A base turns red litmus blue.
+  - slug: bpsc-68-q127
+    difficulty: medium
+    stem: The odour of acetic acid resembles that of
+    options:
+      A: tomato
+      B: kerosene
+      C: vinegar
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Vinegar is a dilute solution of acetic acid, so they smell alike.
+  - slug: bpsc-68-q128
+    difficulty: medium
+    stem: Why does dry HCl gas *not* change the colour of dry litmus paper?
+    options:
+      A: Blue litmus becomes dry in the presence of dry HCl gas.
+      B: No H₃O⁺ ions are present. Litmus changes colour only in the presence of H₃O⁺ ions.
+      C: HCl gas acts as a dehydrating agent.
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Dry HCl does not ionise, and without water there are no H+/H3O+ ions to change litmus (NCERT).
+  - slug: bpsc-68-q129
+    difficulty: medium
+    stem: Detect the odd one.
+    options:
+      A: Setting of cement
+      B: Burning of coal
+      C: Ripening of fruit
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: All three (setting of cement, burning coal, ripening fruit) are chemical changes, so none is the odd one.
+  - slug: bpsc-68-q130
+    difficulty: medium
+    stem: Which of the following statements about diamond and graphite is true?
+    options:
+      A: They have same crystal structure.
+      B: They have same degree of hardness.
+      C: They have same electrical conductivity.
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: Diamond (tetrahedral, hardest, insulator) and graphite (layered, soft, conductor) differ in all three respects.
+  - slug: bpsc-68-q131
+    difficulty: medium
+    stem: The stomata open or close due to change in the
+    options:
+      A: protein composition of cells
+      B: amount of water in cells
+      C: position of nucleus in cells
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Stomata open or close as guard cells gain or lose water (turgor).
+  - slug: bpsc-68-q132
+    difficulty: medium
+    stem: Chlorophyll absorbs ______ wavelengths of the sunlight.
+    options:
+      A: green and blue
+      B: green and red
+      C: red and blue
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Chlorophyll absorbs mainly red and blue light and reflects green.
+  - slug: bpsc-68-q133
+    difficulty: medium
+    stem: Which of the following is *not* a correct match?
+    options:
+      A: "Thick, hard stem with branching near base : Tree"
+      B: "Weak stem which cannot stand upright : Creeper"
+      C: "Petiole : Attaches leaf to stem"
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: A thick, hard stem branching near the base describes a shrub, not a tree, so A is the wrong match.
+  - slug: bpsc-68-q134
+    difficulty: medium
+    stem: Water reaches great heights in trees because of suction pull caused by
+    options:
+      A: absorption
+      B: transpiration
+      C: evaporation
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Transpiration pull (cohesion-tension) lifts water up tall trees.
+  - slug: bpsc-68-q135
+    difficulty: medium
+    stem: Which among the following is a character of chloroplast which makes them qualified to self-replication?
+    options:
+      A: Presence of DNA only
+      B: Absence of RNA
+      C: Presence of both DNA and RNA
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Chloroplasts carry their own DNA and RNA (and ribosomes), so they are semi-autonomous and can self-replicate.
+  - slug: bpsc-68-q136
+    difficulty: medium
+    stem: The parts of the skeleton that are not as hard as bones and which can be bent are called as
+    options:
+      A: carpals
+      B: cartilage
+      C: vertebrae
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Cartilage is softer than bone and can bend (for example, the ear).
+  - slug: bpsc-68-q137
+    difficulty: medium
+    stem: In lichen, a chlorophyll-containing partner, ______ live together.
+    options:
+      A: fungus and a bacterium
+      B: alga and a virus
+      C: alga and a fungus
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: A lichen is an association of an alga (the chlorophyll-containing partner) and a fungus.
+  - slug: bpsc-68-q138
+    difficulty: medium
+    stem: Female Anopheles can be distinguished from female Culex because it sits
+    options:
+      A: at an angle with substratum
+      B: parallel to the surface of substratum
+      C: at right angle to the surface of substratum
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: Anopheles rests with its body at an angle (about 45 degrees) to the surface. Culex rests parallel to it.
+  - slug: bpsc-68-q139
+    difficulty: medium
+    stem: The most important cell type associated with the immunity of the body is
+    options:
+      A: platelets
+      B: lymphocytes
+      C: RBCs
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: Lymphocytes (B and T cells) are the key immune cells.
+  - slug: bpsc-68-q140
+    difficulty: medium
+    stem: Which one of the following statements is incorrect about muscles in human body?
+    options:
+      A: Muscles work in pairs.
+      B: Muscles become shorter, stiffer and thicker when contracted.
+      C: Muscles can only push the bone.
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: Muscles can only pull, not push, so C is incorrect.
+  - slug: bpsc-68-q141
+    difficulty: medium
+    stem: In a code language, if FASTER is written as 2229212319 and MONK is written as 15161412, then how will GUIDE be written in the same language?
+    options:
+      A: "212219523"
+      B: "222119522"
+      C: "192019423"
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: "Letters alternate: odd positions take (27 - position) + 1, even positions take position + 1. FASTER = 22,2,9,21,23,19 and GUIDE = 21,22,19,5,23, i.e. 212219523."
+  - slug: bpsc-68-q142
+    difficulty: medium
+    stem: A rectangle has an area 30 cm² and perimeter 26 cm. Its sides (in cm) are
+    options:
+      A: 5, 6
+      B: 2, 15
+      C: 10, 3
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: l + b = 13 and l x b = 30, so the sides are 10 and 3.
+  - slug: bpsc-68-q143
+    difficulty: medium
+    stem: A shopkeeper offers 10% discount on an item with marked price ₹ 400. If he charges 10% GST, then the final price of the item is
+    options:
+      A: ₹ 400
+      B: ₹ 396
+      C: ₹ 380
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: 400 x 0.9 = 360, and 360 x 1.1 = 396.
+  - slug: bpsc-68-q144
+    difficulty: medium
+    stem: |-
+      Arrange the following words in logical and meaningful order :
+
+      1. Vice President
+      2. President
+      3. Speaker
+      4. Prime Minister
+      5. Members of the Parliament
+    options:
+      A: 4, 2, 1, 3, 5
+      B: 2, 1, 4, 3, 5
+      C: 5, 1, 2, 3, 4
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: "Order of precedence: President, Vice President, Prime Minister, Speaker, Members of Parliament."
+  - slug: bpsc-68-q145
+    difficulty: medium
+    stem: Reshma donates one-fourth of her property to a charity organization and divides the remaining property equally among her three children. The part of property each child gets is
+    options:
+      A: one-fourth
+      B: two-thirds
+      C: half
+      D: More than one of the above
+      E: None of the above
+    answer: A
+    explanation: (1 - 1/4) / 3 = 1/4.
+  - slug: bpsc-68-q146
+    difficulty: medium
+    stem: Which of the following statements is false?
+    options:
+      A: Every square is a rectangle.
+      B: Every rhombus is a parallelogram.
+      C: Every square is a rhombus.
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: All three statements are true, so none is false.
+  - slug: bpsc-68-q147
+    difficulty: medium
+    stem: In a family of some persons, *B* says that *R* is the daughter of my sister *A*, who is the only daughter of *T*. *X* is the child of *T* and *Z*, who is the grandmother of *H*. *K* is the mother of *M*, who is the only sister of *H*. *X* is unmarried. If *S* is the spouse of *A*, how is *K* related to *S* ?
+    options:
+      A: Sister-in-law
+      B: Wife of brother-in-law
+      C: Brother-in-law
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: A is T's only daughter, so K's husband (father of H and M, grandchildren of Z) is a son of T and Z, i.e. A's brother. K is therefore the wife of S's brother-in-law.
+  - slug: bpsc-68-q148
+    difficulty: medium
+    stem: How many words, no matter if they are meaningless, can be formed by the letters of the word ‘DIARY’?
+    options:
+      A: "5"
+      B: "10"
+      C: "24"
+      D: More than one of the above
+      E: None of the above
+    answer: E
+    explanation: DIARY has 5 distinct letters, giving 5! = 120 arrangements, which is not an option.
+  - slug: bpsc-68-q149
+    difficulty: medium
+    stem: |-
+      Select the missing number from the given alternatives :
+
+      | 44 | 49 | 37 |
+      |---|---|---|
+      | 52 | ? | 41 |
+      | 58 | 35 | 53 |
+
+      *(Figure: A 3×3 grid of numbers (rows: 44, 49, 37 / 52, ?, 41 / 58, 35, 53) with the centre cell missing; transcribed above as a table.)*
+    options:
+      A: "56"
+      B: "77"
+      C: "66"
+      D: More than one of the above
+      E: None of the above
+    answer: B
+    explanation: "Middle = (left - right) x 7: (44 - 37) x 7 = 49, (58 - 53) x 7 = 35, so (52 - 41) x 7 = 77."
+  - slug: bpsc-68-q150
+    difficulty: medium
+    stem: |-
+      Find the missing number in the given series following the same pattern :
+
+      15, 20, 32, 62, 118, 248, ?
+    options:
+      A: "322"
+      B: "368"
+      C: "428"
+      D: More than one of the above
+      E: None of the above
+    answer: C
+    explanation: "The differences are p^2 + odd number for successive primes: 4+1, 9+3, 25+5, 49+7, 121+9, then 169+11 = 180, and 248 + 180 = 428."

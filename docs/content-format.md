@@ -98,6 +98,45 @@ chapters that `cover` any of those nodes.
 **Multi-line stems** (statement, assertion-reason, match questions) use `stem: |`. Leave a **blank line after a
 list** and between paragraphs: a line directly under `2. …` is folded into item 2 by Markdown, and the push rejects it.
 
+## Previous-year papers (PYQ)
+
+Papers are grouped by exam and appear under **Tests → <exam>**, year by year, newest first.
+
+```
+content/exams/
+  bpsc/
+    exam.yaml                 # slug, name, description, position, duration_min, marks: { correct, wrong }
+    2023/                     # the exam's year (its own label, e.g. BPSC 69th = 2023)
+      69th-prelims-set-a.yaml # one paper
+  ssc-cgl/ …
+  ssc-chsl/ …
+```
+
+A paper file:
+
+```yaml
+slug: 69th-prelims-set-a        # unique within the exam; the test becomes pyq-bpsc-69th-prelims-set-a
+title: BPSC 69th Prelims (Set A)
+date: 2023-09-30                # the day it was held
+label: Set A                    # or "14 Jul, Shift 1" for SSC
+duration_min: 120               # optional: overrides exam.yaml
+marks: { correct: 1, wrong: 0 } # optional: overrides exam.yaml (e.g. BPSC before the 67th had no negative marking)
+source: bpsc.bih.nic.in (question paper + final answer key)
+questions:
+  - slug: bpsc-69-a-001         # unique across ALL content: <exam>-<paper>-<number>
+    difficulty: medium
+    stem: |
+      …
+    options: { A: …, B: …, C: …, D: …, E: More than one of the above }
+    answer: C                   # from the OFFICIAL final answer key
+    explanation: …
+    topic: gs/history/modern    # optional: tag a syllabus node; the question then also joins that node's practice
+```
+
+- A question the official key marks **deleted / cancelled** is left out of the file; note it in `source`.
+- Keep questions in the paper's order, numbered in the slug, so a learner can match them to the printed paper.
+- Hindi: `content/translations/hi/exams/<exam>/…` mirrors the files, exactly like books (same slugs, answers and numbers).
+
 ## Books
 
 `book.yaml`:

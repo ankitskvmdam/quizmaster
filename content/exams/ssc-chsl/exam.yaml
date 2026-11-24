@@ -1,0 +1,6 @@
+slug: ssc-chsl
+name: SSC CHSL
+description: "Staff Selection Commission, Combined Higher Secondary Level: Tier 1."
+position: 3
+duration_min: 60
+marks: { correct: 2, wrong: -0.5 }

@@ -1,0 +1,2 @@
+- { slug: fx-tree-1, difficulty: easy, stem: "Founder of the Maurya empire?", options: { A: Chandragupta, B: Ashoka }, answer: A, explanation: "Chandragupta Maurya." }
+- { slug: fx-tree-2, difficulty: easy, stem: "Ashoka's grandfather?", options: { A: Chandragupta, B: Bindusara }, answer: A, explanation: "Chandragupta Maurya." }
