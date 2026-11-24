@@ -1,7 +1,10 @@
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { FileClock } from 'lucide-react'
+import Link from 'next/link'
+import { FileClock, ListTree } from 'lucide-react'
 import { getExamPapers } from '@/lib/queries/tests'
+import { hasSyllabus } from '@/lib/syllabus'
+import { Button } from '@/components/ui/button'
 import { PageHeader } from '@/components/page-header'
 import { Panel } from '@/components/surfaces'
 import { EmptyState } from '@/components/empty-state'
@@ -17,7 +20,8 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 /** An exam's previous-year papers, grouped by year, newest first. */
 export default async function ExamPapersPage({ params }: Props) {
-  const data = await getExamPapers((await params).exam)
+  const slug = (await params).exam
+  const [data, syllabus] = await Promise.all([getExamPapers(slug), hasSyllabus(slug)])
   if (!data) notFound()
   const { exam, papers } = data
   const years = [...new Set(papers.map((p) => p.year))]
@@ -25,7 +29,20 @@ export default async function ExamPapersPage({ params }: Props) {
   return (
     <>
       <Breadcrumbs root="tests" items={[]} current={exam.name} />
-      <PageHeader title={exam.name} description={exam.description || undefined} />
+      <PageHeader
+        title={exam.name}
+        description={exam.description || undefined}
+        actions={
+          syllabus && (
+            <Button asChild variant="secondary">
+              <Link href={`/tests/${exam.slug}/syllabus`}>
+                <ListTree aria-hidden />
+                Syllabus
+              </Link>
+            </Button>
+          )
+        }
+      />
       {papers.length === 0 ? (
         <Panel>
           <EmptyState icon={<FileClock />} title="No papers yet">

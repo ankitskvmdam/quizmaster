@@ -1,0 +1,2785 @@
+{
+ "exam": "bpsc",
+ "papers": 8,
+ "questions": 1183,
+ "generated": "2026-11-24",
+ "subjects": [
+  {
+   "key": "history",
+   "name": "History",
+   "questions": 282,
+   "perPaper": 35.3,
+   "topics": [
+    {
+     "key": "freedom-struggle",
+     "name": "Freedom Struggle",
+     "questions": 100,
+     "chapters": [
+      {
+       "name": "Indian National Congress and Its Sessions",
+       "questions": 19,
+       "papers": 7,
+       "bihar": 3,
+       "learn": [
+        "Sessions and presidents: Calcutta 1906 (Naoroji, Swaraj), Lahore 1929 (Nehru, Purna Swaraj), Karachi 1931 (Fundamental Rights), Gaya 1922 (C. R. Das), Bankipur 1912",
+        "Firsts: Badruddin Tyabji (first Muslim president), Annie Besant (first woman president, 1917)",
+        "Safety-valve theory and Lala Lajpat Rai; Aurobindo's New Lamps for Old",
+        "Pre-Congress bodies and founders: Indian Association (Surendranath Banerjee, 1876), Poona Sarvajanik Sabha, Madras Mahajan Sabha; Servants of India Society (Gokhale, 1905)",
+        "Order of events: Surat Split 1907, Minto-Morley 1909, Home Rule 1916, Kheda 1918"
+       ],
+       "note": "One of the most frequent chapters: sessions with president, year and resolution."
+      },
+      {
+       "name": "Cabinet Mission, Interim Government and Partition",
+       "questions": 13,
+       "papers": 7,
+       "learn": [
+        "Cabinet Mission members: Pethick-Lawrence, Stafford Cripps, A. V. Alexander",
+        "Interim Government portfolios: Rajendra Prasad - Food and Agriculture, Liaquat Ali Khan - Finance, Jagjivan Ram - Labour",
+        "Direct Action Day (16 August 1946); Attlee's statement (20 February 1947); Radcliffe; Indian Independence Act 1947",
+        "Order of events 1942-46: Cripps Mission, Quit India, Wavell, Cabinet Mission"
+       ],
+       "note": "Cabinet Mission members and Interim Government portfolios repeat almost verbatim."
+      },
+      {
+       "name": "Revolutionary Movement",
+       "questions": 11,
+       "papers": 6,
+       "bihar": 2,
+       "learn": [
+        "Ghadar Party (USA, 1913), Har Dayal; centres abroad: Yugantar Ashram (San Francisco), Swadesh Sevak Home (Vancouver)",
+        "Bhagat Singh: Assembly bomb (1929) with B. K. Dutt; hanged 23 March 1931",
+        "Other acts: Chittagong Armoury Raid (Surya Sen), Udham Singh (1940), bomb on Hardinge (1912), Madam Cama at Stuttgart (1907)",
+        "Bihar links: Khudiram Bose at Muzaffarpur (1908); Bismil Azimabadi wrote Sarfaroshi Ki Tamanna"
+       ],
+       "note": "Asked in most papers."
+      },
+      {
+       "name": "Champaran Satyagraha",
+       "questions": 10,
+       "papers": 6,
+       "bihar": 10,
+       "learn": [
+        "Gandhi's first satyagraha in India, 1917, against the tinkathia system (3/20 of land under indigo)",
+        "Raj Kumar Shukla invited Gandhi to Champaran",
+        "Associates: Rajendra Prasad, J. B. Kripalani; Batak Mian saved Gandhi from poisoning",
+        "Champaran Agrarian Committee (1917) with Gandhi as a member"
+       ],
+       "note": "Bihar-specific and asked in almost every paper, sometimes twice in one paper."
+      },
+      {
+       "name": "Freedom Fighters, Books and Journals",
+       "questions": 9,
+       "papers": 6,
+       "learn": [
+        "Titles: Deshbandhu (C. R. Das), Frontier Gandhi (Khan Abdul Ghaffar Khan)",
+        "Journals and editors: Al-Hilal (Azad), Comrade (Mohammad Ali), Indian Opinion (Gandhi), Bengalee (Surendranath Banerjee), Bahishkrit Bharat (Ambedkar)",
+        "Books: Unhappy India (Lala Lajpat Rai)",
+        "Parties and founders: Forward Bloc, Independent Labour Party (Ambedkar), Khaksars, Indian National Liberal Federation"
+       ],
+       "note": "Usually match-the-following."
+      },
+      {
+       "name": "Subhas Bose and the INA",
+       "questions": 7,
+       "papers": 6,
+       "learn": [
+        "Forward Bloc (1939); first called Netaji in Germany; \"Chalo Delhi\"",
+        "Provisional Government of Free India (1943); Andaman and Nicobar renamed Shaheed and Swaraj",
+        "INA officers (Shahnawaz Khan, Mohan Singh, Prem Sehgal) and the INA trials (Bhulabhai Desai)"
+       ]
+      },
+      {
+       "name": "Individual Satyagraha and Quit India Movement",
+       "questions": 9,
+       "papers": 5,
+       "bihar": 3,
+       "learn": [
+        "Individual Satyagraha (1940): Vinoba Bhave first (from Pavnar), Nehru second",
+        "Quit India: \"Do or Die\"; Usha Mehta's Congress Radio",
+        "Parallel governments: Satara, Tamluk, Talcher, Ballia",
+        "Bihar: Jayaprakash Narayan's escape from Hazaribagh Jail (9 November 1942) and the Azad Dasta"
+       ],
+       "note": "Repeats often, usually with a Bihar angle."
+      },
+      {
+       "name": "Civil Disobedience and Round Table Conferences",
+       "questions": 6,
+       "papers": 5,
+       "bihar": 1,
+       "learn": [
+        "Dandi March: 12 March to 5 April 1930, 24 days; Purna Swaraj Day on 26 January 1930",
+        "Gandhi-Irwin Pact: March 1931",
+        "Simon Commission boycotted for having no Indian member",
+        "Ambedkar attended all three Round Table Conferences",
+        "In Bihar the salt satyagraha included refusal of the chowkidari tax"
+       ]
+      },
+      {
+       "name": "Peasant, Labour and States' People's Movements",
+       "questions": 5,
+       "papers": 3,
+       "bihar": 1,
+       "learn": [
+        "Bardoli Satyagraha (1928): Vallabhbhai Patel",
+        "Awadh peasant movement: Baba Ramchandra; Swami Vidyanand in Bihar",
+        "Praja Mandal movement in the princely states",
+        "AITUC founded in 1920"
+       ]
+      },
+      {
+       "name": "Gandhi and Early Satyagrahas",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Ahmedabad mill strike (1918): Gandhi's first hunger strike",
+        "Life facts: studied at Samaldas College; first major public speech at BHU (1916)",
+        "All India Harijan Sangh (1932)"
+       ]
+      },
+      {
+       "name": "Non-Cooperation Movement and Swaraj Party",
+       "questions": 4,
+       "papers": 3,
+       "bihar": 1,
+       "learn": [
+        "Chauri Chaura (1922), Gorakhpur district",
+        "Who joined in the towns; the Justice Party contested council elections",
+        "Swaraj Party (1923): C. R. Das and Motilal Nehru; Shri Krishna Singh set up the Swaraj Dal in Bihar"
+       ]
+      },
+      {
+       "name": "Partition of Bengal and Swadeshi Movement",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Swadeshi and Boycott arose against the Partition of Bengal (1905)",
+        "Surendranath Banerjee's remark that the announcement \"fell like a bombshell\""
+       ]
+      }
+     ]
+    },
+    {
+     "key": "modern-india",
+     "name": "Modern India",
+     "questions": 52,
+     "chapters": [
+      {
+       "name": "Revolt of 1857",
+       "questions": 9,
+       "papers": 5,
+       "bihar": 2,
+       "learn": [
+        "Centres and leaders: Jagdishpur in Bihar (Kunwar Singh), Lucknow (Begum Hazrat Mahal), Kanpur (Nana Saheb), Bareilly (Khan Bahadur), Faizabad (Maulavi Ahmadullah), Jhansi (Rani Laxmibai)",
+        "V. D. Savarkar called it the First War of Indian Independence; other historians: S. N. Sen, Eric Stokes, S. B. Chaudhuri",
+        "Causes of failure"
+       ],
+       "note": "Asked in most papers; Kunwar Singh of Jagdishpur is the Bihar angle."
+      },
+      {
+       "name": "Socio-Religious Reform Movements",
+       "questions": 7,
+       "papers": 5,
+       "learn": [
+        "Founders: Atmiya Sabha and Brahmo Samaj (Ram Mohan Roy), Tattwabodhini Sabha (Debendranath Tagore), Ramakrishna Mission (Vivekananda, 1897)",
+        "Vivekananda at Chicago (1893); Jyotiba Phule's Gulamgiri (1873)",
+        "Faraizi Movement (Haji Shariatullah); Aligarh movement and Theodore Beck"
+       ],
+       "note": "Usually match organisation with founder."
+      },
+      {
+       "name": "British Conquest and Expansion",
+       "questions": 6,
+       "papers": 5,
+       "learn": [
+        "Battles and treaties: Wandiwash (1760), Buxar and the Treaty of Allahabad (1765), Treaty of Salbai (1782)",
+        "Clive's dual government in Bengal (1765)",
+        "Doctrine of Lapse states: Satara, Sambalpur, Nagpur, Jhansi",
+        "Annexation of Sind by Charles Napier (1843)"
+       ]
+      },
+      {
+       "name": "Governors-General and Administrative Reforms",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "Lord Mayo: financial decentralisation (1870); first census in 1872",
+        "Lytton: Vernacular Press Act, Arms Act, Delhi Durbar of 1877; Ripon: Ilbert Bill",
+        "Bentinck: abolition of Sati, suppression of Thugs",
+        "Capital shifted from Calcutta to Delhi (announced 1911)"
+       ],
+       "note": "Match the Viceroy with the event; Mayo's 1870 resolution was asked twice."
+      },
+      {
+       "name": "Tribal and Peasant Revolts",
+       "questions": 8,
+       "papers": 4,
+       "bihar": 2,
+       "learn": [
+        "Santhal Hul (1855-56): Sidhu and Kanhu",
+        "Kol uprising (1831), Chuar revolt, Birsa Munda's Ulgulan (1899-1900)",
+        "Indigo revolt and Neel Darpan (Dinabandhu Mitra); Sannyasi Rebellion and Anandamath"
+       ],
+       "note": "Santhal revolt and its leaders repeat; these are the old Bihar-Jharkhand region revolts."
+      },
+      {
+       "name": "Land Revenue and Economic Impact",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Permanent Settlement (Cornwallis, 1793), Ryotwari (Madras), Mahalwari (Holt Mackenzie, 1822)",
+        "Dadabhai Naoroji and Poverty and Un-British Rule in India",
+        "Opium and the triangular trade between India, China and England"
+       ]
+      },
+      {
+       "name": "Education and Press under British Rule",
+       "questions": 6,
+       "papers": 3,
+       "learn": [
+        "Macaulay's Minute (1835), Wood's Despatch (1854), Fort William College (1800)",
+        "Vernacular Press Act 1878 (the Gagging Act): by Lytton, repealed by Ripon",
+        "Hicky's Bengal Gazette (1780)"
+       ],
+       "note": "The Vernacular Press Act repeats."
+      },
+      {
+       "name": "Constitutional Acts under British Rule",
+       "questions": 3,
+       "papers": 2,
+       "learn": [
+        "Indian Councils Act 1909: separate electorates",
+        "Government of India Act 1935: provincial autonomy, proposed federation; Nehru's \"all brakes and no engine\" remark"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "bihar-history",
+     "name": "Bihar History",
+     "questions": 42,
+     "chapters": [
+      {
+       "name": "Formation of Bihar Province",
+       "questions": 8,
+       "papers": 7,
+       "bihar": 8,
+       "learn": [
+        "Bihar separated from Bengal: 1912; Orissa separated from Bihar: 1936; Jharkhand carved out: 2000",
+        "Governors: S. P. Sinha, first Indian Governor of Bihar and Orissa; James David Sifton, first Governor of Bihar (1936)"
+       ],
+       "note": "Bihar-specific: 1912 is one of the most repeated facts in BPSC."
+      },
+      {
+       "name": "Bihar in the Freedom Struggle",
+       "questions": 14,
+       "papers": 6,
+       "bihar": 14,
+       "learn": [
+        "Shri Krishna Singh (Bihar Kesari): Premier from 1937, first Chief Minister; his ministry's resignation in 1938 over political prisoners",
+        "Jayaprakash Narayan: Lok Nayak, Azad Dasta, Bihar Socialist Party (1931)",
+        "Congress sessions in Bihar: Bankipur 1912 (R. N. Mudholkar), Gaya 1922 (C. R. Das)",
+        "Revolutionaries: Sachindra Nath Sanyal and the Patna branch of Anushilan Samiti (1913)",
+        "Home Rule in Bihar and Annie Besant's visit; 1942 martyrs",
+        "Books and banned writings: Rajendra Prasad's Mahatma Gandhi and Bihar; Gharib Hindustan"
+       ],
+       "note": "Bihar-specific and asked in every paper: learn Bihar leaders with their titles and movements."
+      },
+      {
+       "name": "Medieval Bihar and Its Monuments",
+       "questions": 7,
+       "papers": 6,
+       "bihar": 7,
+       "learn": [
+        "Bakhtiyar Khalji and the start of Turk rule in Bihar",
+        "Karnat dynasty of Mithila and the growth of Maithili",
+        "Firdausia Sufi order and Sharfuddin Yahya Maneri",
+        "Dutch factory at Patna (1632)",
+        "Monuments: Sher Shah's tomb at Sasaram, Padri Ki Haveli in Patna"
+       ],
+       "note": "Bihar-specific."
+      },
+      {
+       "name": "Press and Education in Bihar",
+       "questions": 5,
+       "papers": 4,
+       "bihar": 5,
+       "learn": [
+        "First newspapers: Patna Harkara (first from Bihar), Sarva Hitaishi (first Hindi daily)",
+        "Institutions and founding years: Patna College (1863), Patna Women's College (1940), revived Nalanda University (2014)"
+       ],
+       "note": "Bihar-specific."
+      },
+      {
+       "name": "Kisan Sabha and Peasant Movements in Bihar",
+       "questions": 4,
+       "papers": 4,
+       "bihar": 4,
+       "learn": [
+        "Swami Sahajanand Saraswati: leader of the Kisan Sabha movement in Bihar",
+        "Bakasht movement (1937-38)",
+        "His newspaper Lok Sangraha"
+       ],
+       "note": "Bihar-specific: Sahajanand Saraswati is asked in paper after paper."
+      },
+      {
+       "name": "Nalanda and Vikramshila Universities",
+       "questions": 4,
+       "papers": 4,
+       "bihar": 3,
+       "learn": [
+        "Vikramshila (Bhagalpur): founded by Dharmapala of the Pala dynasty; a Vajrayana centre",
+        "Nalanda acharyas: Nagarjuna, Shilabhadra, Shantarakshita",
+        "Other centres: Valabhi, Taxila (Kautilya)"
+       ],
+       "note": "Bihar-specific."
+      }
+     ]
+    },
+    {
+     "key": "ancient-india",
+     "name": "Ancient India",
+     "questions": 39,
+     "chapters": [
+      {
+       "name": "Buddhism and Jainism",
+       "questions": 7,
+       "papers": 5,
+       "bihar": 2,
+       "learn": [
+        "Buddhist councils: place, patron and president (Rajgir - Mahakashyapa, Vaishali, Pataliputra, Kashmir - Kanishka)",
+        "Places in the Buddha's life: enlightenment at Bodh Gaya",
+        "Jain Triratna: right faith, right knowledge, right conduct",
+        "Ajivikas: Makkhali Gosala and the doctrine of niyati"
+       ],
+       "note": "Buddhist councils are asked very often, and three of the four venues are in Bihar."
+      },
+      {
+       "name": "Mahajanapadas and Rise of Magadha",
+       "questions": 6,
+       "papers": 5,
+       "bihar": 6,
+       "learn": [
+        "Capitals: Rajagriha (Girivraja) first, then Pataliputra",
+        "Dynasty order: Haryanka (Bimbisara), Shishunaga, Nanda",
+        "Bimbisara's physician Jivaka",
+        "Magadha was the region south of the Ganga"
+       ],
+       "note": "Bihar-specific: Magadha is Bihar's own ancient history and is asked in most papers."
+      },
+      {
+       "name": "Prehistory and Indus Valley Civilisation",
+       "questions": 5,
+       "papers": 5,
+       "learn": [
+        "Sites and finds: Lothal (port city, Gujarat), Kalibangan (ploughed field)",
+        "What the Harappans did not know: the horse",
+        "Beginning of iron use in the subcontinent"
+       ],
+       "note": "Lothal is the most repeated site."
+      },
+      {
+       "name": "Post-Mauryan and Sangam Age",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Chronological order: Maurya, Shunga, Kanva, Kushana",
+        "Kushana trade with the Roman empire",
+        "Rudradaman's Junagadh inscription and the repair of Sudarshan Lake",
+        "Sangam kingdoms and capitals: Chera capital Vanji (Karur)"
+       ]
+      },
+      {
+       "name": "Ancient Literature and Science",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Authors and works: Bharavi - Kiratarjuniya, Kamandaka - Nitisara, Vishakhadatta (playwright)",
+        "Scientists: Charaka (medicine), Brahmagupta (mathematics), Varahamihira (astronomy/astrology)",
+        "Amarakosha terms for types of land"
+       ]
+      },
+      {
+       "name": "Gupta Empire and Vakatakas",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Samudragupta and Meghavarman of Sri Lanka (monastery at Gaya)",
+        "Chandragupta II and the Ramagupta story",
+        "Travellers: Fa-Hien under Chandragupta II, Hiuen Tsang under Harsha",
+        "Vakatakas: Vindhyashakti and Pravarasena I"
+       ]
+      },
+      {
+       "name": "Harsha and the Vardhana Dynasty",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Pushyabhuti founded the Vardhana dynasty",
+        "Contemporaries of Harsha: Bhaskaravarman of Kamarupa",
+        "Ancient place names and their present States: Karnasuvarna, Pragjyotisha, Girnar, Pratishthana"
+       ]
+      },
+      {
+       "name": "Mauryan Empire",
+       "questions": 4,
+       "papers": 2,
+       "learn": [
+        "Chandragupta Maurya: founder; linked with Vishnugupta (Kautilya) and Sudarshan Lake",
+        "Ashoka: pillar edicts in Brahmi script, Dharma Mahamatras, Sanchi",
+        "Match rulers with achievements across dynasties (Rajendra I - Gangaikonda, Harsha - Prayag assembly)"
+       ]
+      },
+      {
+       "name": "Vedic Period and Indian Philosophy",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Women seers of the Rigveda: Ghosha, Apala, Vishvavara (Gargi is later Vedic)",
+        "Six schools of philosophy: Vaisheshika propounded the atomic theory"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "medieval-india",
+     "name": "Medieval India",
+     "questions": 31,
+     "chapters": [
+      {
+       "name": "Delhi Sultanate",
+       "questions": 11,
+       "papers": 8,
+       "learn": [
+        "Balban: blood and iron policy, Nauroz, title Zill-i-Ilahi, Tughril Khan's revolt",
+        "Iltutmish: completed the Qutub Minar, investiture from the Caliph",
+        "Administration: muqaddam or chaudhari as village headman",
+        "Malik Kafur (Hazar Dinari); Bahlol Lodi had the longest reign"
+       ],
+       "note": "Asked in almost every paper; Balban is the favourite."
+      },
+      {
+       "name": "Mughal Empire",
+       "questions": 9,
+       "papers": 5,
+       "bihar": 1,
+       "learn": [
+        "Babur: founder, use of cannon; battles of Panipat and Haldighati with opponents",
+        "Books and authors: Ain-i-Akbari (Abul Fazl), Tabaqat-i-Akbari (Nizamuddin Ahmad)",
+        "Visitors and ports: Thomas Roe under Jahangir; Surat as Bab-ul-Makka",
+        "Humayun and Sher Khan in Bihar; Aurangzeb and the Anglo-Mughal war; Mughal fathers and sons"
+       ]
+      },
+      {
+       "name": "Chola and Vijayanagara Empires",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Cholas: Vijayalaya the founder; village self-government",
+        "Vijayanagara: Harihara and Bukka (1336); Krishnadevaraya founded Nagalapuram"
+       ]
+      },
+      {
+       "name": "Medieval Literature and Sources",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Tarikh-i-Firuz Shahi (Barani, Shams Siraj Afif)",
+        "Futuhat-i-Alamgiri (Ishwardas Nagar); Chach Nama and its Persian translator"
+       ]
+      },
+      {
+       "name": "Bhakti and Sufi Movements",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Works of Tulsidas (Gitavali, Vinay Patrika, Kavitavali) and Surdas (Sahitya Lahari)",
+        "Nathpanthis, Siddhas and Yogis in northern India"
+       ]
+      },
+      {
+       "name": "Marathas",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Ashta Pradhan: Peshwa (prime minister), Amatya (finance), Sachiv (correspondence), Sumant (foreign affairs)"
+       ],
+       "note": "Asked in consecutive papers."
+      }
+     ]
+    },
+    {
+     "key": "art-culture",
+     "name": "Art Culture",
+     "questions": 14,
+     "chapters": [
+      {
+       "name": "Ancient Art and Architecture",
+       "questions": 5,
+       "papers": 3,
+       "learn": [
+        "Gupta art: Deogarh temple and Garhwa sculptures",
+        "Buddhist structures: stupa, chaitya, vihara",
+        "Ajanta paintings: Bodhisattva Padmapani"
+       ],
+       "note": "The Deogarh-Garhwa question was repeated word for word."
+      },
+      {
+       "name": "Art and Culture of Bihar",
+       "questions": 5,
+       "papers": 3,
+       "bihar": 5,
+       "learn": [
+        "Madhubani (Mithila) painting; Sujini embroidery",
+        "Fairs and festivals with place: Sonepur cattle fair (Ganga-Gandak confluence), Bihula festival (Bhagalpur)",
+        "Religious sites: Takht Sri Harimandir Ji Patna Sahib"
+       ],
+       "note": "Bihar-specific."
+      },
+      {
+       "name": "Medieval Architecture and Monuments",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Monuments and builders: Kabuli Bagh mosque (Babur), Adhai Din Ka Jhonpra (Aibak), Allahabad Fort (Akbar), Itmad-ud-Daulah's tomb (Nur Jahan)",
+        "Mughal art terms: pietra dura; Akbar's karkhanas for painting",
+        "UNESCO World Heritage monuments such as Qutb Minar and Red Fort"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "world-history",
+     "name": "World History",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "World History",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Explorers and their countries of birth: Columbus, Magellan, Drake, Cartier",
+        "Mesopotamia as the oldest civilisation",
+        "Manhattan Project; Egypt-Israel peace treaty (1979)"
+       ],
+       "note": "A minor area: about one question in some papers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "science",
+   "name": "General Science",
+   "questions": 229,
+   "perPaper": 28.6,
+   "topics": [
+    {
+     "key": "chemistry",
+     "name": "Chemistry",
+     "questions": 75,
+     "chapters": [
+      {
+       "name": "States of Matter and Solutions",
+       "questions": 8,
+       "papers": 7,
+       "learn": [
+        "Solutions: concentration, boiling-point elevation, Raoult's law for ideal solutions",
+        "States: triple point, liquefying gases (low temperature, high pressure)",
+        "Avogadro's law; sublimation to separate naphthalene from sand"
+       ]
+      },
+      {
+       "name": "Chemistry in Everyday Life",
+       "questions": 11,
+       "papers": 6,
+       "learn": [
+        "Everyday chemicals: quicklime (CaO), limestone in cement, soda-acid fire extinguisher, breathalyser (potassium dichromate)",
+        "Colours and materials: strontium for red fireworks, glow-in-the-dark pigments, indium tin oxide",
+        "Medicines: cisplatin (cancer), levonorgestrel (contraceptive); explosives such as HMX"
+       ],
+       "note": "Asked in most papers, increasingly on modern materials."
+      },
+      {
+       "name": "Carbon and Organic Chemistry",
+       "questions": 11,
+       "papers": 5,
+       "learn": [
+        "Diamond and graphite: allotropes, differences, lab-grown diamonds from graphite",
+        "Common organic compounds: acetic acid (vinegar), oxalic acid, urea, fructose (sweetest sugar)",
+        "Fermentation: zymase converts glucose to ethanol",
+        "CO₂ turns limewater milky; electrophiles accept electron pairs"
+       ],
+       "note": "Lab-grown diamonds were asked in consecutive papers."
+      },
+      {
+       "name": "Acids, Bases and Salts",
+       "questions": 8,
+       "papers": 5,
+       "learn": [
+        "pH scale: pH = -log[H⁺]; base above 7; each unit is a tenfold change",
+        "Litmus tests; acids on metal carbonates release CO₂; why dry HCl does not affect litmus",
+        "Amphoteric oxides: Al₂O₃, ZnO",
+        "Acetic acid in vinegar"
+       ]
+      },
+      {
+       "name": "Chemical Reactions and Electrochemistry",
+       "questions": 7,
+       "papers": 5,
+       "learn": [
+        "Physical versus chemical changes; exothermic versus endothermic processes",
+        "Catalysts, promoters and inhibitors; nickel in hydrogenation of oils",
+        "Electrochemistry: Faraday constant, conductivity on dilution, electrode potential and reducing power"
+       ]
+      },
+      {
+       "name": "Fuels and Hydrogen Energy",
+       "questions": 6,
+       "papers": 5,
+       "learn": [
+        "Composition: methane in biogas, butane in LPG; carbon monoxide from incomplete combustion",
+        "Tetraethyllead as the old anti-knock additive",
+        "Hydrogen: grey/green colour codes, storage as compressed gas or hydrides"
+       ]
+      },
+      {
+       "name": "Polymers and Fibres",
+       "questions": 5,
+       "papers": 5,
+       "learn": [
+        "Kevlar (aramid) in bulletproof jackets and helmets",
+        "Melamine as a thermosetting plastic; rayon as artificial silk; biodegradable PHBV"
+       ],
+       "note": "Kevlar was asked in consecutive papers."
+      },
+      {
+       "name": "Metals, Ores and Alloys",
+       "questions": 10,
+       "papers": 4,
+       "learn": [
+        "Ores: bauxite, corundum, cryolite (aluminium), limonite (iron), cinnabar (mercury)",
+        "Alloys: brass = copper + zinc",
+        "Reactivity series and displacement; rusting adds weight; noble metals",
+        "Smelting; galvanised iron"
+       ]
+      },
+      {
+       "name": "Atomic Structure and Periodic Table",
+       "questions": 9,
+       "papers": 4,
+       "learn": [
+        "Protons, neutrons, electrons; mass number = protons + neutrons; isotopes",
+        "Models and theories: J. J. Thomson's model, Dalton's atomic theory",
+        "Technetium, the first artificial element",
+        "Sigma and pi bonds in benzene"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "physics",
+     "name": "Physics",
+     "questions": 70,
+     "chapters": [
+      {
+       "name": "Motion, Force and Gravitation",
+       "questions": 14,
+       "papers": 8,
+       "learn": [
+        "Newton's laws: inertia, F = ma, impulse; s = ½at²",
+        "Circular motion: centripetal force, centrifuge",
+        "Free fall: same acceleration for all masses; escape velocity; effect of the earth's rotation on weight",
+        "Friction: rolling versus sliding; viscosity; floating ice"
+       ],
+       "note": "Asked in almost every paper."
+      },
+      {
+       "name": "Light and Optics",
+       "questions": 12,
+       "papers": 7,
+       "learn": [
+        "Mirrors: images by a concave mirror, focal length of a plane mirror",
+        "Lenses: convex lens as magnifier, partly covered lens, resolving power of a telescope",
+        "Refraction: speed and refractive index, frequency unchanged, twinkling of stars",
+        "Interference in soap films; shadows; mixing colours"
+       ],
+       "note": "Asked in almost every paper."
+      },
+      {
+       "name": "Electricity and Magnetism",
+       "questions": 12,
+       "papers": 6,
+       "learn": [
+        "Ohm's law; resistors in parallel; power P = VI = I²R = V²/R",
+        "Fuse and short circuit",
+        "Dynamo versus transformer; capacitive reactance and frequency",
+        "Conducting liquids; energy eV gained by a charge; para- and ferromagnetic materials"
+       ],
+       "note": "Asked in almost every paper."
+      },
+      {
+       "name": "Electromagnetic Waves and Modern Physics",
+       "questions": 10,
+       "papers": 6,
+       "learn": [
+        "Electromagnetic waves: speed 3 × 10⁸ m/s; infrared for heat therapy; X-rays are not deflected by fields",
+        "Nuclear: fusion in the hydrogen bomb; alpha rays",
+        "Photoelectric cell; semiconductors (resistance falls on heating)",
+        "Solar constant"
+       ],
+       "note": "Infrared heat therapy was asked more than once."
+      },
+      {
+       "name": "Units, Instruments and Scientists",
+       "questions": 8,
+       "papers": 5,
+       "learn": [
+        "Units: tesla (magnetic field), light-year (distance)",
+        "Scalars versus vectors",
+        "Instruments: galvanometer, odometer",
+        "Scientists: Einstein, Galileo"
+       ]
+      },
+      {
+       "name": "Heat and Thermodynamics",
+       "questions": 6,
+       "papers": 4,
+       "learn": [
+        "Everyday heat: pressure cooker, refrigerator door, fan and evaporation, steam burns (latent heat)",
+        "Radiation needs no medium; conductors of heat"
+       ]
+      },
+      {
+       "name": "Sound",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Pitch depends on frequency; tension of a string",
+        "Speed of sound highest in solids; ultrasound in medicine"
+       ]
+      },
+      {
+       "name": "Work, Energy and Power",
+       "questions": 4,
+       "papers": 2,
+       "learn": [
+        "Work = force × distance; conservation of energy for a falling body",
+        "1 kWh = 3.6 × 10⁶ J"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "biology",
+     "name": "Biology",
+     "questions": 63,
+     "chapters": [
+      {
+       "name": "Human Body Systems",
+       "questions": 11,
+       "papers": 7,
+       "learn": [
+        "Digestion: HCl in the stomach, bile into the duodenum, carbohydrates to glucose",
+        "Endocrine: ductless glands, pituitary at the base of the brain, estrogen",
+        "Sense organs: five basic tastes including umami",
+        "Muscles work in pairs and only pull; cartilage"
+       ]
+      },
+      {
+       "name": "Plant Physiology",
+       "questions": 13,
+       "papers": 6,
+       "learn": [
+        "Photosynthesis: chlorophyll absorbs red and blue light; dark reaction in the stroma",
+        "Water transport: osmosis in roots, transpiration pull, stomata and guard cells; xylem versus phloem",
+        "Nutrition: phosphorus for root growth; insectivorous plants in nitrogen-poor soil",
+        "Pollination; halophytes; respiration at night"
+       ],
+       "note": "Asked in most papers."
+      },
+      {
+       "name": "Plant Morphology and Useful Plants",
+       "questions": 11,
+       "papers": 6,
+       "learn": [
+        "Which plant part we use: ginger and turmeric (rhizome, a stem), clove (flower bud), mango (mesocarp), apple (false fruit, thalamus), quinine (Cinchona bark)",
+        "Stems, buds and growth: apical meristems, trees versus shrubs",
+        "Natural fibres and sources: linen (flax), coir (coconut), mohair (Angora goat)"
+       ],
+       "note": "A BPSC favourite: \"which part of the plant\" repeats across papers."
+      },
+      {
+       "name": "Classification and Microorganisms",
+       "questions": 9,
+       "papers": 5,
+       "learn": [
+        "Fungi lack chlorophyll; lichen is alga plus fungus; mycorrhiza",
+        "Decomposition by bacteria and other microorganisms; viruses as intracellular parasites",
+        "Gymnosperms (conifers); de Candolle and plant classification",
+        "Earthworm: haemoglobin dissolved in plasma"
+       ]
+      },
+      {
+       "name": "Blood and Immunity",
+       "questions": 7,
+       "papers": 5,
+       "learn": [
+        "Blood groups: antigens on red cells; AB universal acceptor; ABO and Rh matching",
+        "Plasma as the fluid part of blood",
+        "Immunity: lymphocytes; antibodies made by B cells; IgM appears first"
+       ],
+       "note": "Asked in most papers."
+      },
+      {
+       "name": "Cell and Genetics",
+       "questions": 7,
+       "papers": 5,
+       "learn": [
+        "Cell as the structural and functional unit of life; membranes of lipids and proteins",
+        "Chloroplasts have their own DNA",
+        "DNA double helix (Watson and Crick); mRNA; start codon AUG and stop codons UAA, UAG, UGA",
+        "Most enzymes are proteins"
+       ]
+      },
+      {
+       "name": "Vitamins and Nutrition",
+       "questions": 5,
+       "papers": 2,
+       "learn": [
+        "Fat-soluble (A, D, E, K) versus water-soluble (B-complex, C) vitamins; liver storage",
+        "Vitamin K for blood clotting; milk is poor in vitamin C; legumes are rich in protein"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "health-disease",
+     "name": "Health Disease",
+     "questions": 13,
+     "chapters": [
+      {
+       "name": "Diseases and Their Causes",
+       "questions": 9,
+       "papers": 7,
+       "learn": [
+        "Mosquito vectors: Anopheles (malaria) versus Culex, and how to tell them apart",
+        "Disease, organ and cause: pneumonia (lungs), anthrax, taeniasis (tapeworm), goitre (iodine), scurvy (vitamin C)",
+        "Treatment and tests: chloroquine for malaria, BCG for TB, Ishihara test for colour blindness",
+        "Medical terms: anorexia, insomnia, dyspnoea, anosmia"
+       ]
+      },
+      {
+       "name": "Vaccines and Medical Discoveries",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Edward Jenner and the smallpox vaccine (1796)",
+        "How vaccines work, including vector vaccines",
+        "Nobel-winning medical discoveries (dopamine and Parkinson's disease)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "technology-space",
+     "name": "Technology Space",
+     "questions": 6,
+     "chapters": [
+      {
+       "name": "Space and Astronomy",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Missions and targets: Cassini (Saturn), Juno (Jupiter), VERITAS (Venus), Artemis (Moon); Apollo 11",
+        "Pulsars are rotating neutron stars; comets have elongated orbits"
+       ]
+      },
+      {
+       "name": "Emerging Technologies",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "5G: Internet of Things, edge computing, network slicing",
+        "Indian robots such as Manav"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "computers",
+     "name": "Computers",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Computers and Artificial Intelligence",
+       "questions": 2,
+       "papers": 1,
+       "learn": [
+        "Full forms: GPT - Generative Pre-trained Transformer",
+        "Names of programming languages (Python, Java)"
+       ],
+       "note": "Rare in BPSC."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "current-affairs",
+   "name": "Current Affairs",
+   "questions": 194,
+   "perPaper": 24.3,
+   "topics": [
+    {
+     "key": "national",
+     "name": "National",
+     "questions": 45,
+     "chapters": [
+      {
+       "name": "Heritage, Culture and Environment in News",
+       "questions": 12,
+       "papers": 6,
+       "current": 12,
+       "learn": [
+        "UNESCO recognitions: Kozhikode, India's first City of Literature (2023)",
+        "Classical languages: Marathi, Bengali and others added in October 2024",
+        "Environment news: Blue Flag beaches, vulture conservation in Tamil Nadu, species releases in national parks",
+        "GI tags and food regulator decisions in news (Nihonshu application by Japan; FSSAI and Himalayan yak)",
+        "Monument conservation by ASI; commemorative coins"
+       ],
+       "note": "Kozhikode as City of Literature was asked in two consecutive papers."
+      },
+      {
+       "name": "Defence and Security",
+       "questions": 9,
+       "papers": 6,
+       "current": 9,
+       "learn": [
+        "Rafale: made by Dassault Aviation of France, inducted at Ambala Air Force Station",
+        "Indigenous systems: Rudram anti-radiation missile, Akashteer air defence control system, MBT Arjun, ATAGS",
+        "Joint exercises and their venues (JIMEX-24 with Japan at Yokosuka)",
+        "Defence events: DefExpo theme, Air Force Day venue; Galwan Valley clash (June 2020)"
+       ]
+      },
+      {
+       "name": "Reports, Indices and Surveys",
+       "questions": 8,
+       "papers": 6,
+       "current": 8,
+       "learn": [
+        "Who publishes which report: NITI Aayog (SDG India Index), MoSPI (Youth in India), World Bank (Human Capital Index, Ease of Doing Business), UNDP (Human Development Report)",
+        "India's latest rank or value and the top State or country (Kerala topped SDG India Index 2023-24; Singapore topped Human Capital Index 2020)",
+        "Swachh Survekshan top cities; Mother Tongue Survey of India (576 languages)"
+       ],
+       "note": "Learn publisher, India's rank and the topper for each index of the year."
+      },
+      {
+       "name": "Polity and Elections in News",
+       "questions": 7,
+       "papers": 4,
+       "current": 7,
+       "learn": [
+        "Citizenship (Amendment) Act 2019: passed 11 December 2019; covers persecuted minorities from Afghanistan, Bangladesh and Pakistan",
+        "Presidential election candidates (Yashwant Sinha, opposition candidate 2022)",
+        "Election Commission changes: postal ballot age for senior citizens raised to 85 (2024); Shompen tribe voting for the first time",
+        "Republic Day chief guest of the year; first State to implement a national policy (Uttarakhand and NEP)"
+       ]
+      },
+      {
+       "name": "Infrastructure and Projects",
+       "questions": 5,
+       "papers": 4,
+       "current": 5,
+       "learn": [
+        "Atal Tunnel at Rohtang: 9.02 km",
+        "New airports and their cities (Donyi Polo Airport, Itanagar)",
+        "Central Vista Project and the new Parliament building (built by Tata Projects)",
+        "Undersea cable projects such as Chennai-Andaman and Nicobar"
+       ]
+      },
+      {
+       "name": "Economy and Budget in News",
+       "questions": 4,
+       "papers": 3,
+       "current": 4,
+       "learn": [
+        "Union Budget of the year: stated priorities and headline schemes (nine priorities of 2024-25; oilseed self-reliance crops)",
+        "Corporate milestones (Reliance first Indian company to cross USD 200 billion market capitalisation)",
+        "Apps and products launched by banks (HDFC Bank e-Kisaan Dhan)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "international",
+     "name": "International",
+     "questions": 39,
+     "chapters": [
+      {
+       "name": "World Events and Politics",
+       "questions": 15,
+       "papers": 7,
+       "current": 15,
+       "learn": [
+        "US politics: Joe Biden as 46th President, attempt on Donald Trump at Butler, Pennsylvania (2024)",
+        "Assassinations and deaths: Shinzo Abe (2022), Ismail Haniyeh in Tehran (2024)",
+        "Places in news: Mauna Loa eruption, Sakteng Sanctuary in Bhutan, Yala Glacier of Nepal declared dead",
+        "Afghanistan withdrawal 2021; first Arab nuclear power plant (Barakah, UAE)",
+        "Odd one-off facts: Titan submersible implosion (2023), Collins word of the year, New Zealand's Plain Language Act"
+       ],
+       "note": "Mostly current affairs: follow the last 12 months, especially where an event took place."
+      },
+      {
+       "name": "Summits and Conferences",
+       "questions": 12,
+       "papers": 7,
+       "current": 12,
+       "learn": [
+        "G20 summits by number, year and host: 18th in New Delhi (2023), 19th in Rio de Janeiro (2024)",
+        "Climate COPs: COP27 (drought alliance by Spain and Senegal), COP28 in Dubai, COP29 in Baku (USD 300 billion a year by 2035)",
+        "WTO Ministerial Conference (13th in Abu Dhabi, 2024); World Economic Forum at Davos; AI Action Summit in Paris (2025)",
+        "ASEAN and BRICS meetings: host country and who represented India",
+        "UN Ocean Conference 2022 and its Lisbon Declaration"
+       ],
+       "note": "Asked in almost every recent paper: learn host city, number and year together."
+      },
+      {
+       "name": "International Organisations in News",
+       "questions": 9,
+       "papers": 4,
+       "current": 8,
+       "learn": [
+        "India at the UN Security Council: non-permanent term from 1 January 2021, presidency in August 2021",
+        "New members and chairs: Sweden as 32nd NATO member (2024), Russia chairing BRICS (2024), India chairing the ILO Governing Body (2020-21)",
+        "UN General Assembly in news: emergency session on Ukraine, multilingualism resolution mentioning Hindi (2022), vetoes in the Security Council",
+        "Members of groupings such as the Quad (India, Japan, Australia, USA)"
+       ]
+      },
+      {
+       "name": "India's Agreements and Foreign Relations",
+       "questions": 3,
+       "papers": 2,
+       "current": 3,
+       "learn": [
+        "India's trade pacts: ECTA with Australia (2022)",
+        "Trade agreements between other countries in news (Israel-UAE free trade agreement, 2022)",
+        "Statements by other countries on India's territory, e.g. the USA on Arunachal Pradesh (2023)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "bihar",
+     "name": "Bihar",
+     "questions": 29,
+     "chapters": [
+      {
+       "name": "Bihar Schemes and Government Initiatives",
+       "questions": 5,
+       "papers": 5,
+       "bihar": 5,
+       "current": 5,
+       "learn": [
+        "New State schemes with launch date and place: Ganga Jal Aapurti Yojana (Bodh Gaya, November 2022), Ghar Tak Fibre (2020)",
+        "Education initiatives: Mission Daksh (mentoring for lagging students), e-content on DD Bihar for classes IX-X (2020)",
+        "Named police and administrative drives: Operation Prahar (enforcing the liquor ban)"
+       ],
+       "note": "Bihar-specific current affairs."
+      },
+      {
+       "name": "Bihar Projects and Places in News",
+       "questions": 9,
+       "papers": 4,
+       "bihar": 9,
+       "current": 9,
+       "learn": [
+        "Projects and their districts: Kosi-Mechi link (Araria, Purnea, Kishanganj, Katihar), first floating solar plant (Kadirabad, Darbhanga), Sita statue at Sitamarhi",
+        "Union Budget announcements for Bihar, e.g. the Vishnupad temple corridor at Gaya (2024-25)",
+        "Environment firsts: bird ringing station at Bhagalpur, vulture conservation plan in Valmiki Tiger Reserve",
+        "GI tags of Bihar: Mithila Makhana (August 2022)",
+        "UNESCO World Heritage Sites of Bihar: Mahabodhi Temple (2002) and Nalanda Mahavihara (2016)",
+        "National events hosted in Bihar (National Panchayati Raj Day 2025 at Madhubani)"
+       ],
+       "note": "Bihar-specific current affairs: questions almost always ask \"which district\"."
+      },
+      {
+       "name": "Bihar Persons, Appointments and Awards",
+       "questions": 8,
+       "papers": 3,
+       "bihar": 8,
+       "current": 5,
+       "learn": [
+        "Current Governor, Chief Minister, Chief Justice of Patna High Court and Chief Electoral Officer of Bihar",
+        "Brand ambassadors named by the State (Manoj Tiwari for Khadi, 2022)",
+        "Awards won by Bihar or people from Bihar (Digital India Award 2020; Deep Shrestha - Dadasaheb Phalke Indian Television Award 2022)",
+        "Sportspersons of Bihar: Rashmi Kumari (carrom), Hrithik Anand (badminton gold, 2022 Deaflympics)",
+        "Political careers of Bihar leaders in the news: Ram Vilas Paswan (began in the Samyukta Socialist Party), Raghuvansh Prasad Singh"
+       ],
+       "note": "Bihar-specific current affairs: follow the last 12 months."
+      },
+      {
+       "name": "Bihar Events, Firsts and Rankings",
+       "questions": 7,
+       "papers": 3,
+       "bihar": 7,
+       "current": 7,
+       "learn": [
+        "Firsts in Bihar: National Dolphin Research Centre at Patna (2024), first transgender Sub-Inspector Manvi Madhu Kashyap",
+        "Court rulings on Bihar: Supreme Court quashed the 2015 listing of Tanti-Tantwa as Scheduled Caste (July 2024)",
+        "Bihar's score and rank in national indices: NITI Aayog SDG India Index, Ease of Doing Business (BRAP)",
+        "Assembly election dates and announcements; MLAs in the news (Shreyasi Singh, shooter and MLA from Jamui)"
+       ],
+       "note": "Bihar-specific current affairs."
+      }
+     ]
+    },
+    {
+     "key": "appointments-persons",
+     "name": "Appointments Persons",
+     "questions": 18,
+     "chapters": [
+      {
+       "name": "Appointments in India",
+       "questions": 11,
+       "papers": 5,
+       "current": 11,
+       "learn": [
+        "New Chief Ministers and Governors of the year, with the seat or State (e.g. Eknath Shinde in Maharashtra 2022, Mohan Charan Majhi of Odisha elected from Keonjhar 2024)",
+        "Union ministers and their portfolios after a reshuffle or election (Smriti Irani - Minority Affairs 2022, Giriraj Singh - Textiles 2024)",
+        "Heads of national bodies: ISRO, DRDO, National Commission for Women, National School of Drama",
+        "New Supreme Court judges and the High Court they came from; India's Permanent Representative to the UN"
+       ],
+       "note": "Pure current affairs: prepare the last 12 months of appointments before the exam."
+      },
+      {
+       "name": "World Leaders and Persons in News",
+       "questions": 7,
+       "papers": 3,
+       "current": 7,
+       "learn": [
+        "New or re-elected heads of state and government (Macron re-elected in France 2022, Giorgia Meloni PM of Italy, new PM of Kuwait 2024)",
+        "Personalities in the news for a record or a death (Queen Elizabeth II reigned 70 years; Satyadeep Gupta climbed Everest and Lhotse twice in one season)",
+        "Indian diplomats in news, e.g. Ruchira Kamboj, India's first woman Permanent Representative to the UN"
+       ],
+       "note": "Follow the last 12 months."
+      }
+     ]
+    },
+    {
+     "key": "sports",
+     "name": "Sports",
+     "questions": 17,
+     "chapters": [
+      {
+       "name": "Other Sports Events and Winners",
+       "questions": 8,
+       "papers": 6,
+       "current": 8,
+       "learn": [
+        "Grand Slam winners of the year (Naomi Osaka, US Open 2020; Carlos Alcaraz, French Open 2024)",
+        "Shooting: Rudrankksh Patil's 10 m air rifle gold (ISSF World Championship 2022); which sport a named player belongs to",
+        "Marathon and athletics winners; AIFF Player of the Year",
+        "Policy firsts: equal match fees for men and women cricketers, new disciplines in Khelo India"
+       ]
+      },
+      {
+       "name": "Olympics and Multi-Sport Games",
+       "questions": 6,
+       "papers": 3,
+       "current": 6,
+       "learn": [
+        "Host cities: Winter Olympics 2022 Beijing, Paris 2024 (33rd Olympics), Asian Games 2026 Aichi-Nagoya",
+        "India's medals: Neeraj Chopra's javelin gold at Tokyo; 19 medals at the Tokyo Paralympics",
+        "Indian qualifiers and their events (Aman Sehrawat, 57 kg freestyle wrestling)",
+        "Which sports were or were not part of a given Games"
+       ]
+      },
+      {
+       "name": "Cricket",
+       "questions": 3,
+       "papers": 2,
+       "current": 3,
+       "learn": [
+        "Records: Virat Kohli first to 3000 runs in T20 Internationals",
+        "Retirements (Dhoni and Suresh Raina, 15 August 2020)",
+        "BCCI decisions and appointments (Neetu David heading the women's selection committee)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "awards-honours",
+     "name": "Awards Honours",
+     "questions": 16,
+     "chapters": [
+      {
+       "name": "International Awards and Nobel Prizes",
+       "questions": 6,
+       "papers": 4,
+       "current": 6,
+       "learn": [
+        "Nobel Peace Prize winner of the year (World Food Programme 2020, Narges Mohammadi of Iran 2023)",
+        "Ramon Magsaysay awardees of the year (2024: Karma Phuntsho, Rural Doctors Movement, Miyazaki Hayao)",
+        "Indians winning international prizes: Goldman Environmental Prize (Alok Shukla 2024), Amal Clooney Women's Empowerment Award",
+        "Indians in lists such as TIME 100"
+       ]
+      },
+      {
+       "name": "Film Awards",
+       "questions": 4,
+       "papers": 3,
+       "current": 4,
+       "learn": [
+        "Oscars: Best Actress and Best Picture of the year (Emma Stone for Poor Things at the 96th Academy Awards)",
+        "Cannes: Indian winners (Payal Kapadia's All We Imagine as Light won the Grand Prix in 2024)",
+        "National Film Awards category winners (Kutch Express at the 70th National Film Awards); Dadasaheb Phalke Film Festival winners"
+       ]
+      },
+      {
+       "name": "Literary Awards and Booker Prize",
+       "questions": 4,
+       "papers": 3,
+       "current": 4,
+       "learn": [
+        "International Booker Prize: Geetanjali Shree for Tomb of Sand (2022), Banu Mushtaq for Heart Lamp (2025), Han Kang for The Vegetarian (2016)",
+        "Booker Prize: Shehan Karunatilaka for The Seven Moons of Maali Almeida (2022)",
+        "Know the difference between the Booker Prize and the International Booker Prize, with book, author and year"
+       ],
+       "note": "The Booker winners are asked again and again."
+      },
+      {
+       "name": "National Awards and Honours",
+       "questions": 2,
+       "papers": 2,
+       "current": 2,
+       "learn": [
+        "Bharat Ratna recipients of the year (2024 list included M. S. Swaminathan)",
+        "Shanti Swarup Bhatnagar Prize winners by field (2020 Medical Sciences: Bushra Ateeq and Ritesh Agarwal)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "science-tech",
+     "name": "Science Tech",
+     "questions": 16,
+     "chapters": [
+      {
+       "name": "Space Missions in News",
+       "questions": 7,
+       "papers": 5,
+       "current": 7,
+       "learn": [
+        "ISRO: Aditya-L1 (seven payloads), GSLV-F15/NVS-02 as the 100th launch from Sriharikota",
+        "China: Chang'e-6 samples from the far side of the Moon; Mengtian module of Tiangong",
+        "NASA, JAXA and Russia: Lunar Trailblazer (lunar water), EQUULEUS (steam propulsion), Arktika-M (Arctic climate)"
+       ],
+       "note": "Asked in nearly every paper: learn agency, mission and purpose."
+      },
+      {
+       "name": "Science and Technology in News",
+       "questions": 9,
+       "papers": 4,
+       "current": 9,
+       "learn": [
+        "Robots and AI products in news: Tesla's humanoid robot Optimus",
+        "Breakthroughs and where they happened: nuclear fusion ignition at Lawrence Livermore National Laboratory (2022)",
+        "Supercomputers and their institutes (PARAM Kamrupa at IIT Guwahati)",
+        "Cyber security: Pegasus spyware of Israel's NSO Group",
+        "Covid-19 vaccines and their makers: Covishield (Serum Institute), Sputnik V (Russia)"
+       ],
+       "note": "Covid questions belong to the 2020-21 papers; the rest is the last 12 months."
+      }
+     ]
+    },
+    {
+     "key": "schemes",
+     "name": "Schemes",
+     "questions": 13,
+     "chapters": [
+      {
+       "name": "Government Schemes and Campaigns",
+       "questions": 13,
+       "papers": 5,
+       "bihar": 1,
+       "current": 13,
+       "learn": [
+        "Purpose of each new scheme or campaign: Vibrant Villages (northern border villages), Har Ghar Tiranga, Har Ghar Dastak 2.0, YUVA 2.0 (young authors)",
+        "Named operations: Operation Ganga (evacuation from Ukraine), Operation My Saheli (RPF, women train passengers)",
+        "Portals and their features: U-WIN (vaccination), Kisan Rin Portal (interest subvention), National Urban Innovation Stack",
+        "Which ministry runs it and where it was launched (Garib Kalyan Rojgar Abhiyan from Khagaria, Bihar)",
+        "State-wise progress figures, e.g. most road length under Bharatmala (Rajasthan)"
+       ],
+       "note": "Mostly current affairs: learn objective, ministry and launch place of schemes from the last 12-18 months."
+      }
+     ]
+    },
+    {
+     "key": "books-authors",
+     "name": "Books Authors",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Books and Authors",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "Recent books by well-known personalities with their co-authors (e.g. R. Ashwin's I Have the Streets: A Kutti Cricket Story, with Sidharth Monga)"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "geography",
+   "name": "Geography",
+   "questions": 162,
+   "perPaper": 20.3,
+   "topics": [
+    {
+     "key": "bihar-geography",
+     "name": "Bihar Geography",
+     "questions": 48,
+     "chapters": [
+      {
+       "name": "Location, Physiography and Climate of Bihar",
+       "questions": 10,
+       "papers": 8,
+       "bihar": 10,
+       "learn": [
+        "Area of Bihar: 94,163 sq km; neighbouring States and how many Bihar districts each touches",
+        "Kosi plain: average height about 30 m; Southern Hilly Region includes the Munger hills",
+        "Hills, waterfalls and lakes with districts: Brahmayoni (Gaya), Telhar Kund (Kaimur), Kanwar Lake (Begusarai, oxbow lake)",
+        "Climate: subtropical monsoon; soils: piedmont swamp soil only in West Champaran"
+       ],
+       "note": "Bihar-specific."
+      },
+      {
+       "name": "Rivers of Bihar",
+       "questions": 10,
+       "papers": 8,
+       "bihar": 10,
+       "learn": [
+        "Kosi: the Sorrow of Bihar; Gandak is also called the Narayani",
+        "North-flowing (south Bihar) rivers: Son, Punpun, Phalgu, Karmanasa; south-flowing: Gandak, Bagmati, Kamla, Kosi, Ghaghara",
+        "Confluences and sources: Son meets the Ganga in Patna district; Phalgu is formed by the Lilajan and Mohana; Karmanasa rises in Kaimur",
+        "Divisions and districts the Ganga does and does not flow through",
+        "Canals: Triveni Canal on the Gandak"
+       ],
+       "note": "Bihar-specific and asked in every paper."
+      },
+      {
+       "name": "Minerals and Geology of Bihar",
+       "questions": 7,
+       "papers": 6,
+       "bihar": 7,
+       "learn": [
+        "Gold: Jamui district",
+        "Limestone: Kaimur, Rohtas, Munger; pyrites: Rohtas; mica: Gaya, Nawada, Jamui",
+        "Rock systems: Dharwar, Vindhyan (sandstone, limestone), Tertiary (West Champaran), Quaternary alluvium"
+       ],
+       "note": "Bihar-specific: \"gold in Jamui\" has been asked repeatedly."
+      },
+      {
+       "name": "Bihar Census and Tribes",
+       "questions": 6,
+       "papers": 5,
+       "bihar": 6,
+       "learn": [
+        "Census 2011: sex ratio 918, female literacy 51.50 percent",
+        "District extremes: Gopalganj (more women than men), highest ST share, decadal growth ordering",
+        "District-wise tribes: Santhal, Oraon, Kharwar"
+       ],
+       "note": "Bihar-specific."
+      },
+      {
+       "name": "Agriculture and Crops of Bihar",
+       "questions": 9,
+       "papers": 4,
+       "bihar": 9,
+       "current": 2,
+       "learn": [
+        "Leading districts by crop: lychee - Muzaffarpur, wheat - Rohtas, makhana - Madhubani/Mithila, tea - Kishanganj (Thakurganj)",
+        "Bihar's national rank: largest lychee producer (about 71 percent)",
+        "Agroclimatic zones and which has the most districts (North-West Alluvial Plain)",
+        "Awards and schemes: Krishi Karman Award for maize and wheat, Krishi Yantra Banks"
+       ],
+       "note": "Bihar-specific: district-crop matching."
+      },
+      {
+       "name": "Forests and Wildlife of Bihar",
+       "questions": 6,
+       "papers": 4,
+       "bihar": 6,
+       "current": 1,
+       "learn": [
+        "Valmiki National Park (West Champaran): Bihar's only national park and its Project Tiger reserve",
+        "Kanwar Lake (Begusarai): Bihar's first Ramsar site",
+        "Sanctuaries and districts: Bhimbandh (Munger), Nagi bird sanctuary (Jamui, Important Bird Area)",
+        "Forest cover of Bihar as a percent of area in the latest ISFR"
+       ],
+       "note": "Bihar-specific: Valmiki is asked in most papers."
+      }
+     ]
+    },
+    {
+     "key": "india-physical",
+     "name": "India Physical",
+     "questions": 29,
+     "chapters": [
+      {
+       "name": "Rivers and Lakes of India",
+       "questions": 12,
+       "papers": 6,
+       "learn": [
+        "Sources: Narmada and Son from Amarkantak (Maikal range); Subarnarekha near Ranchi; Damodar and Koel on the Chota Nagpur Plateau",
+        "Confluences: Alaknanda and Bhagirathi at Devprayag; Kabul joins the Indus near Attock",
+        "Himalayan versus Peninsular rivers; west-flowing Narmada; Godavari as the second-largest basin",
+        "Indus Waters Treaty: eastern rivers (Ravi, Beas, Sutlej) to India; western rivers (Indus, Jhelum, Chenab) to Pakistan",
+        "Lakes: Wular and Loktak freshwater, Chilika brackish, Sambhar saline"
+       ],
+       "note": "Asked in nearly every paper."
+      },
+      {
+       "name": "Physiography of India",
+       "questions": 7,
+       "papers": 6,
+       "learn": [
+        "Islands: Barren and Narcondam (volcanic), Majuli (river island on the Brahmaputra)",
+        "Himalayan ranges, peaks and passes in east-west order; Atal Tunnel under Rohtang in the Pir Panjal",
+        "Tropic of Cancer and the IST meridian (82.5° E)",
+        "Origin of the Ganga Plain and the Kashmir Valley"
+       ]
+      },
+      {
+       "name": "Location, States and Borders of India",
+       "questions": 6,
+       "papers": 5,
+       "learn": [
+        "States bordering Myanmar: Arunachal Pradesh, Nagaland, Manipur, Mizoram",
+        "Boundary lines: McMahon Line (India-China); territorial waters extend 12 nautical miles",
+        "Border districts with Tibet; States sharing the longest boundary with each other; largest district by area"
+       ]
+      },
+      {
+       "name": "Climate of India",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Why Rajasthan gets little rain: the Aravallis lie parallel to the monsoon winds",
+        "Local names: mango showers in Kerala and coastal Karnataka",
+        "Koppen types: Cwg for Uttar Pradesh and Bihar",
+        "IMD heat-wave criteria: 40 °C in plains, 30 °C in hills"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "world",
+     "name": "World",
+     "questions": 26,
+     "chapters": [
+      {
+       "name": "Continents, Countries and Boundaries",
+       "questions": 7,
+       "papers": 6,
+       "learn": [
+        "Africa has the most countries (54); Greenland belongs to Denmark",
+        "Boundary lines: 141° W (Alaska-Canada), Maginot Line (France-Germany)",
+        "The seven emirates of the UAE",
+        "Sargasso Sea in the North Atlantic"
+       ]
+      },
+      {
+       "name": "Mountains, Deserts and Islands",
+       "questions": 7,
+       "papers": 4,
+       "learn": [
+        "Mountains and where they run: Andes (west coast of South America), Taurus (Turkey), Pacaraima (Guiana Highlands)",
+        "Deserts and continents: Kalahari, Sahara, Gobi, Thar",
+        "Features of Australia: Nullarbor Plain, Lake Eyre",
+        "Honshu, the largest island of Japan; Sunda Trench off Java and Sumatra"
+       ]
+      },
+      {
+       "name": "Seas, Lakes, Rivers and Straits",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Straits and what they connect: Hormuz (Persian Gulf - Gulf of Oman); Kra Isthmus",
+        "Lakes and bordering countries: Lake Victoria (Tanzania, Uganda, Kenya), Dead Sea (Jordan, Israel, West Bank)",
+        "Cities on rivers: Paris on the Seine"
+       ]
+      },
+      {
+       "name": "World Resources, Agriculture and Industry",
+       "questions": 4,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Local names of shifting cultivation: Ladang (Malaysia, Indonesia)",
+        "Mineral regions: Minas Gerais (Brazil) for iron ore; leading gold producer",
+        "Terms such as technopolis (Silicon Valley)"
+       ]
+      },
+      {
+       "name": "World Population and Peoples",
+       "questions": 3,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Racial groups and regions: Mongoloid in China, Mongolia, Japan",
+        "Peoples: Afrikaners of South Africa",
+        "Country with the largest overseas Indian population"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "india-economic-human",
+     "name": "India Economic Human",
+     "questions": 25,
+     "chapters": [
+      {
+       "name": "Minerals and Energy Resources",
+       "questions": 11,
+       "papers": 7,
+       "current": 1,
+       "learn": [
+        "Coal: Gondwana coal in the Damodar, Son and Mahanadi valleys; Jharia (underground fires); Raniganj (first coal mine); leading States",
+        "Mineral places: Koderma - mica, Chiria - iron ore; Odisha as a leading mineral State",
+        "Atomic minerals: thorium from Kerala's monazite sands; ilmenite is an ore of titanium",
+        "Refineries: Koyali (Gujarat), Jamnagar the largest; leading solar-power State"
+       ],
+       "note": "Repeats often: place-mineral matching."
+      },
+      {
+       "name": "Agriculture and Crops of India",
+       "questions": 5,
+       "papers": 5,
+       "learn": [
+        "Cropping seasons: kharif (sown with the monsoon), rabi (wheat, barley, gram), zaid (summer: watermelon, cucumber, fodder)",
+        "Leading States for rice; special crop regions: saffron on Kashmir's karewas, coffee areas of the south"
+       ]
+      },
+      {
+       "name": "Transport, Ports and River Projects",
+       "questions": 4,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Ports: Chennai is an artificial port; Vadhavan (Maharashtra) approved as a major port",
+        "Tunnels and what they connect: Zoji-la (Srinagar-Leh)",
+        "River-linking projects: Pattiseema links the Godavari and Krishna"
+       ]
+      },
+      {
+       "name": "Population, Census and Tribes",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Census 2011 tribal facts: Mizoram has the highest ST percentage; Bhils are the largest tribe",
+        "Causes of rural-to-urban migration"
+       ]
+      },
+      {
+       "name": "Industries of India",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Industry locations: newsprint at Nepanagar",
+        "Sugar as a weight-losing industry; Maharashtra and Uttar Pradesh as leading producers"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "physical",
+     "name": "Physical",
+     "questions": 20,
+     "chapters": [
+      {
+       "name": "Earth's Interior and Plate Tectonics",
+       "questions": 7,
+       "papers": 5,
+       "learn": [
+        "Continental drift: Wegener; Pangaea split into Laurasia and Gondwanaland; evidence such as matching gold deposits of Ghana and Brazil",
+        "Plate tectonics and seafloor spreading at mid-ocean ridges",
+        "Core (NIFE): nickel and iron",
+        "Igneous rocks form from cooling magma or lava"
+       ],
+       "note": "Continental drift and plate tectonics repeat across papers."
+      },
+      {
+       "name": "Atmosphere, Winds and Ocean Currents",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Troposphere: lowest layer, temperature falls with height; atmosphere is heated mainly by terrestrial radiation",
+        "Coriolis force comes from the earth's rotation",
+        "Roaring forties, furious fifties and shrieking sixties: Southern Hemisphere westerlies",
+        "El Niño: warm current off Peru in the eastern Pacific"
+       ]
+      },
+      {
+       "name": "Solar System, Latitude and Time",
+       "questions": 5,
+       "papers": 3,
+       "learn": [
+        "Time and longitude: 4 minutes per degree; 15° equals one hour",
+        "Number of parallels of latitude",
+        "Planet facts: Saturn is the least dense planet",
+        "Geodesy: measuring the earth's dimensions"
+       ]
+      },
+      {
+       "name": "Landforms",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Glacial landforms: eskers, drumlins (basket of eggs topography)",
+        "W. M. Davis and the cycle of erosion",
+        "Coast types: Dalmatian (concordant) coast"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "environment-ecology",
+     "name": "Environment Ecology",
+     "questions": 14,
+     "chapters": [
+      {
+       "name": "Climate Change, Pollution and Renewable Energy",
+       "questions": 5,
+       "papers": 5,
+       "learn": [
+        "Greenhouse gases: carbon dioxide, methane, nitrous oxide",
+        "Renewable (solar, wind) versus non-renewable sources; net metering for rooftop solar",
+        "Initiatives and when they came: PAT, NCAP (2019), LiFE (COP26), MISHTI (Budget 2023-24)",
+        "Fossil fuel burning as a major cause of air pollution"
+       ]
+      },
+      {
+       "name": "Protected Areas and Biosphere Reserves",
+       "questions": 5,
+       "papers": 4,
+       "current": 1,
+       "learn": [
+        "Gulf of Mannar Biosphere Reserve: 21 islands, rich marine biodiversity",
+        "National parks and their States (Kanha - Madhya Pradesh); State with the most wildlife sanctuaries",
+        "India State of Forest Report: forest and tree cover share, leading States"
+       ],
+       "note": "The Gulf of Mannar question was repeated in consecutive papers."
+      },
+      {
+       "name": "Wildlife and Biodiversity Conservation",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Project Tiger: launched in 1973",
+        "Gangetic dolphin: National Aquatic Animal, endangered, nearly blind, uses echolocation",
+        "IUCN categories: what Endangered means"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "economy",
+   "name": "Economy",
+   "questions": 111,
+   "perPaper": 13.9,
+   "topics": [
+    {
+     "key": "bihar-economy",
+     "name": "Bihar Economy",
+     "questions": 37,
+     "chapters": [
+      {
+       "name": "Bihar Economic Survey and State Income",
+       "questions": 17,
+       "papers": 7,
+       "bihar": 17,
+       "current": 16,
+       "learn": [
+        "Latest Bihar Economic Survey: GSDP growth, per capita GSDP/NSDP and how it compares with the national average",
+        "Sector shares: tertiary sector contributes about 60 percent of GSDP; primary sector growth rate",
+        "District rankings by per capita income: Patna highest, Sheohar lowest",
+        "Urbanisation: 11.3 percent in Census 2011, 15.3 percent in the Survey; district ordering",
+        "Social indicators: NFHS-5 sex ratio, female workforce participation (lowest in India), HDI value, PLFS findings on women workers",
+        "Demographic dividend of Bihar peaks around 2041"
+       ],
+       "note": "Bihar-specific and asked in almost every paper: read the latest Bihar Economic Survey summary before the exam."
+      },
+      {
+       "name": "Bihar Budget and Public Finance",
+       "questions": 9,
+       "papers": 4,
+       "bihar": 9,
+       "current": 8,
+       "learn": [
+        "Latest Bihar Budget: who presented it, total size, fiscal deficit as a percent of GSDP, department with the highest allocation (education)",
+        "New departments and programmes announced in the Budget (skill and entrepreneurship department, Digital Bihar)",
+        "Bihar's first Green Budget: 2020-21",
+        "Bihar's share in the divisible pool under the 15th Finance Commission: 10.058 percent",
+        "CFMS: online State financial management system from April 2019"
+       ],
+       "note": "Bihar-specific and mostly current: revise the latest Budget figures."
+      },
+      {
+       "name": "Industries and Infrastructure of Bihar",
+       "questions": 6,
+       "papers": 4,
+       "bihar": 6,
+       "learn": [
+        "District specialities: Bhagalpur - silk (Silk City), Madhepura - rail locomotive factory, Vaishali - floriculture",
+        "Wagon industry at Mokama and Muzaffarpur",
+        "Agro-based industry is dominated by cereal-based units",
+        "Bihar State Hydroelectric Power Corporation: set up in 1982",
+        "Railway facts such as the last station of Bihar on a route"
+       ],
+       "note": "Bihar-specific."
+      },
+      {
+       "name": "Bihar Government Schemes and Policies",
+       "questions": 5,
+       "papers": 4,
+       "bihar": 5,
+       "current": 1,
+       "learn": [
+        "Saat Nishchay (Seven Resolves) and Saat Nishchay Part-2: list of components, to spot the one that is not included",
+        "Satat Jivikoparjan Yojana (2018): livelihood assets for extremely poor households",
+        "Bihar Vikas Mission and its sub-missions (Human Development Sub-Mission covers 7 departments)",
+        "Bihar Startup Policy 2022 and its YUVA framework"
+       ],
+       "note": "Bihar-specific: Saat Nishchay components repeat."
+      }
+     ]
+    },
+    {
+     "key": "agriculture-industry",
+     "name": "Agriculture Industry",
+     "questions": 17,
+     "chapters": [
+      {
+       "name": "Agriculture and Food Security",
+       "questions": 7,
+       "papers": 4,
+       "current": 1,
+       "learn": [
+        "Colour revolutions: Grey - fertilisers, Pink - onion, Silver - eggs, Red - tomato and meat",
+        "MSP, buffer stock and PDS: aims of food management (procurement, buffer, distribution)",
+        "Land reforms: meaning of land ceiling",
+        "Components of Pradhan Mantri Krishi Sinchai Yojana",
+        "Latest foodgrain production estimates (wheat)"
+       ],
+       "note": "The Grey Revolution has been asked more than once."
+      },
+      {
+       "name": "Industry and Industrial Policy",
+       "questions": 7,
+       "papers": 4,
+       "current": 4,
+       "learn": [
+        "Industrial Policy Resolutions of 1948 and 1956",
+        "Index of Industrial Production: released by CSO/NSO; which use-based groups led growth",
+        "Production-Linked Incentive scheme features",
+        "India's world rank in cement and mobile phone manufacturing (second)",
+        "Bharatmala: roads and highways"
+       ]
+      },
+      {
+       "name": "MSME Sector",
+       "questions": 3,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "MSME definition: micro - investment up to Rs 1 crore and turnover up to Rs 5 crore (and the small and medium limits)",
+        "MSME share in GVA (about 30 percent in 2022-23)",
+        "CGTMSE: Credit Guarantee Fund Trust for Micro and Small Enterprises"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "international",
+     "name": "International",
+     "questions": 16,
+     "chapters": [
+      {
+       "name": "Foreign Trade and Trade Policy",
+       "questions": 8,
+       "papers": 5,
+       "current": 6,
+       "learn": [
+        "India's top trading partner and top export commodities in the latest year",
+        "India's share in world merchandise and services exports; latest trade deficit",
+        "SEZ Act 2005 objectives: economic activity, exports, employment",
+        "Rules of origin; export credit schemes such as NIRVIK"
+       ],
+       "note": "Figures change yearly: take them from the latest Economic Survey."
+      },
+      {
+       "name": "Forex Reserves, Exchange Rate and FDI",
+       "questions": 6,
+       "papers": 3,
+       "current": 3,
+       "learn": [
+        "Components of forex reserves: foreign currency assets, gold, SDRs, IMF reserve tranche position",
+        "Latest size and world rank of India's forex reserves",
+        "FDI inflows: trend and State-wise ranking (Maharashtra first, Karnataka second)",
+        "LERMS announced in the Union Budget 1992-93; relative value of pound, euro and dollar"
+       ]
+      },
+      {
+       "name": "Economic Reforms and Globalisation",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "After 1991 the services sector gained most from globalisation",
+        "Imports grew faster than exports after globalisation"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "planning-poverty",
+     "name": "Planning Poverty",
+     "questions": 15,
+     "chapters": [
+      {
+       "name": "Planning and Five Year Plans",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Focus of each plan: First (1951-56) agriculture, Eighth human resource development",
+        "Goals of planning: growth, modernisation, self-reliance, equity",
+        "Bombay Plan (1944) and the industrialists behind it",
+        "Composition of the National Development Council"
+       ]
+      },
+      {
+       "name": "Poverty Measurement",
+       "questions": 5,
+       "papers": 4,
+       "current": 2,
+       "learn": [
+        "Tendulkar estimates: 21.9 percent below the poverty line; Rs 27.20 rural and Rs 33.33 urban per day",
+        "NSSO consumption surveys as the basis of the poverty line",
+        "National Multidimensional Poverty Index: States with the lowest and highest share of poor",
+        "UNDP Capability Poverty Measure: its three indicators",
+        "Bare Necessities Index of the Economic Survey 2020-21"
+       ]
+      },
+      {
+       "name": "Human Development and Demographic Indicators",
+       "questions": 3,
+       "papers": 2,
+       "learn": [
+        "Infant mortality rate: deaths before age one per 1,000 live births; India's latest value",
+        "Human capital formation: raising the knowledge, skills and capacities of people"
+       ]
+      },
+      {
+       "name": "Employment and Labour Force",
+       "questions": 2,
+       "papers": 2,
+       "current": 2,
+       "learn": [
+        "PLFS findings: rise in female labour force participation (23.3 percent in 2017-18 to 37 percent in 2022-23)",
+        "Rural versus urban female participation trends"
+       ],
+       "note": "Asked in recent papers: use the latest PLFS annual report."
+      }
+     ]
+    },
+    {
+     "key": "budget-taxation",
+     "name": "Budget Taxation",
+     "questions": 10,
+     "chapters": [
+      {
+       "name": "Union Budget",
+       "questions": 6,
+       "papers": 3,
+       "current": 5,
+       "learn": [
+        "Headline numbers of the latest Budget: fiscal deficit as a percent of GDP, tax-GDP ratio, agricultural credit target",
+        "Stated priorities of the Budget (pick the one that is not a priority)",
+        "Key announcements such as the FDI limit in insurance raised from 49 to 74 percent",
+        "Railway Budget merged with the General Budget in 2017"
+       ],
+       "note": "Mostly current affairs: revise the latest Union Budget."
+      },
+      {
+       "name": "Deficits and Fiscal Policy",
+       "questions": 4,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Revenue deficit: borrowing for spending that creates no capital assets",
+        "Fiscal deficit trend as a percent of GDP in recent Economic Surveys",
+        "Fiscal tools (taxes, spending) versus monetary tools (bank rate, CRR)",
+        "Interest payments as a major item of non-plan expenditure"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "banking-finance",
+     "name": "Banking Finance",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Banks and Financial Institutions",
+       "questions": 6,
+       "papers": 5,
+       "current": 3,
+       "learn": [
+        "Regulators: PFRDA for the National Pension System, IBBI for insolvency",
+        "Insolvency (unable to pay debts) versus bankruptcy (the legal conclusion)",
+        "Small Finance Banks: RBI conditions to become a universal bank (net worth Rs 1,000 crore)",
+        "Full forms: UPI - Unified Payments Interface",
+        "Corporate bond market size projections; Indian banks in global rankings (SBI)"
+       ]
+      },
+      {
+       "name": "RBI and Monetary Policy",
+       "questions": 2,
+       "papers": 1,
+       "learn": [
+        "Functions of a central bank: banker to the government, lender to commercial banks, sets the repo rate",
+        "Cash Reserve Ratio: share of deposits banks keep with the RBI",
+        "Which tools are monetary (bank rate, CRR, credit ceilings) and which are fiscal (taxes)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "basics-concepts",
+     "name": "Basics Concepts",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Committees and Commissions",
+       "questions": 4,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Narasimham - banking reforms; Bhandari - regional rural banks; Rangarajan - poverty measurement; Parekh - infrastructure financing",
+        "Sarkaria - Centre-State relations; S. V. S. Raghavan - Competition Act 2002",
+        "Committees in the news in the exam year (Kirit Parikh on gas pricing)"
+       ],
+       "note": "Usually a match-the-committee-with-subject question."
+      },
+      {
+       "name": "Inflation",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Stagflation: high inflation together with stagnant growth, and what causes it"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "national-income-growth",
+     "name": "National Income Growth",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "National Income and Growth",
+       "questions": 3,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "NNP at factor cost equals National Income",
+        "Per capita real income as the index of economic development",
+        "Sector shares in GVA: agriculture about 18 percent, industry about 28 percent, services about 55 percent"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "polity",
+   "name": "Polity",
+   "questions": 104,
+   "perPaper": 13,
+   "topics": [
+    {
+     "key": "constitution",
+     "name": "Constitution",
+     "questions": 25,
+     "chapters": [
+      {
+       "name": "Making and Sources of the Constitution",
+       "questions": 7,
+       "papers": 5,
+       "learn": [
+        "Borrowed features: Fundamental Rights (USA), DPSP (Ireland), equality before law (Britain), equal protection of laws (USA)",
+        "Constituent Assembly: Rajendra Prasad permanent Chairman (11 December 1946); National Flag adopted 22 July 1947",
+        "Time taken: 2 years, 11 months, 18 days"
+       ]
+      },
+      {
+       "name": "Preamble and Constitutional Amendments",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "42nd Amendment: Socialist, Secular, Integrity in the Preamble; Fundamental Duties",
+        "91st Amendment: Council of Ministers capped at 15 percent of the House",
+        "104th Amendment: end of Anglo-Indian nominated seats",
+        "Amendments needing ratification by half the States",
+        "Rule of law"
+       ],
+       "note": "The 42nd, 91st and 104th Amendments repeat."
+      },
+      {
+       "name": "Schedules, Lists and Important Articles",
+       "questions": 6,
+       "papers": 4,
+       "learn": [
+        "Fifth Schedule (Scheduled Areas), Sixth Schedule (tribal areas of four north-eastern States), Tenth Schedule (anti-defection)",
+        "Concurrent List subjects such as wildlife protection and price control",
+        "Article 300 (suits against the Government); criteria for Scheduled Tribe status (Lokur Committee)"
+       ]
+      },
+      {
+       "name": "Centre-State Relations and Emergency",
+       "questions": 4,
+       "papers": 2,
+       "learn": [
+        "Emergency articles: 352 (national), 356 (President's Rule), 360 (financial) and their effects",
+        "Article 253: Parliament can legislate to implement treaties",
+        "Sikkim became a State in 1975 (36th Amendment)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "state-local-government",
+     "name": "State Local Government",
+     "questions": 22,
+     "chapters": [
+      {
+       "name": "Panchayati Raj",
+       "questions": 16,
+       "papers": 7,
+       "learn": [
+        "73rd Amendment articles: 243F (minimum age 21), 243G and the Eleventh Schedule (29 subjects), 243-I (State Finance Commission), 243J (audit), 243M (exempt States)",
+        "Three-tier structure: village, block (Panchayat Samiti), district",
+        "Background: Community Development Programme, National Extension Service (1953), 64th Amendment Bill (1989)",
+        "Purpose: decentralisation and people's participation"
+       ],
+       "note": "The single most asked polity chapter in BPSC: it appears in almost every paper, often twice."
+      },
+      {
+       "name": "Governor and State Legislature",
+       "questions": 6,
+       "papers": 4,
+       "learn": [
+        "Governor: Article 200 (assent to bills), Article 192 (disqualification of MLAs on the Election Commission's opinion)",
+        "Legislative Council composition (Article 171); language of the legislature (Article 210)",
+        "Council of Ministers collectively responsible to the Assembly (Article 164)",
+        "Union Territories with and without legislatures (Jammu and Kashmir, Ladakh)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "union-government",
+     "name": "Union Government",
+     "questions": 20,
+     "chapters": [
+      {
+       "name": "Parliament",
+       "questions": 12,
+       "papers": 7,
+       "current": 1,
+       "learn": [
+        "Sessions: summoning, prorogation, dissolution; three sessions a year",
+        "Budget procedure: Article 112 (Annual Financial Statement), Article 113 (Demands for Grants), cut motions",
+        "Membership: Rajya Sabha nominated members (12), minimum ages (25, 30, 35), office of profit (Article 102)",
+        "Speaker's casting vote (Article 100); language in Parliament (Article 120)",
+        "Committees such as Subordinate Legislation; Secretariat rules (Article 98)"
+       ],
+       "note": "Asked in every paper, usually with an Article number."
+      },
+      {
+       "name": "President and Vice President",
+       "questions": 5,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Election: State Assemblies vote for the President but take no part in impeachment; re-election (Article 57)",
+        "Vice President's electoral college: members of both Houses of Parliament",
+        "Careers of past Presidents: Neelam Sanjiva Reddy (Speaker), K. R. Narayanan (diplomat)"
+       ]
+      },
+      {
+       "name": "Council of Ministers and Attorney General",
+       "questions": 3,
+       "papers": 2,
+       "learn": [
+        "Portfolios are allocated by the President on the Prime Minister's advice",
+        "Attorney General: legal adviser, right of audience in all courts, can speak in Parliament",
+        "Secretariat (policy) versus executive departments (implementation)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "constitutional-bodies",
+     "name": "Constitutional Bodies",
+     "questions": 11,
+     "chapters": [
+      {
+       "name": "Finance Commission and GST Council",
+       "questions": 5,
+       "papers": 3,
+       "current": 1,
+       "learn": [
+        "Finance Commission: Article 280, advisory recommendations on sharing taxes, qualifications fixed by Parliament",
+        "15th Finance Commission: Chairman N. K. Singh and members",
+        "GST Council: Article 279A, chaired by the Union Finance Minister"
+       ],
+       "note": "Finance Commission (Article 280) repeats."
+      },
+      {
+       "name": "Election Commission, Elections and Parties",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Article 324: Election Commission",
+        "Delimitation frozen until after 2026 (84th Amendment)",
+        "Articles to amend for simultaneous elections: 83, 85, 172, 174, 356",
+        "Founding years of parties: CPI 1925, CPI(M) 1964, BSP 1984, Trinamool Congress 1998"
+       ]
+      },
+      {
+       "name": "Lokpal, Law Commission and Other Bodies",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Maharashtra: first State with a Lokayukta (1971)",
+        "First Law Commission of independent India: M. C. Setalvad"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "judiciary",
+     "name": "Judiciary",
+     "questions": 9,
+     "chapters": [
+      {
+       "name": "Supreme Court and High Courts",
+       "questions": 7,
+       "papers": 6,
+       "learn": [
+        "Supreme Court jurisdiction: original (Article 131, Centre-State disputes), appellate; guardian of the Constitution",
+        "Collegium system: evolved through the Judges Cases, not by a law",
+        "Writs: Article 32 (Supreme Court) and Article 226 (High Courts)",
+        "Article 216: the President decides the number of High Court judges"
+       ]
+      },
+      {
+       "name": "Judicial Doctrines and Landmark Judgments",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Basic structure doctrine: Kesavananda Bharati (1973)",
+        "Procedure established by law (Article 21)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "governance-schemes",
+     "name": "Governance Schemes",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Central Government Schemes",
+       "questions": 5,
+       "papers": 4,
+       "current": 2,
+       "learn": [
+        "PM-KUSUM (solar pumps), PM Kisan Samman Nidhi (announced 1 February 2019)",
+        "SVAMITVA: Ministry of Panchayati Raj, drone mapping of village abadi land",
+        "Swachh Bharat Mission (Grameen) Phase II period; aims of Atmanirbhar Bharat"
+       ]
+      },
+      {
+       "name": "National Policies and Acts",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "NEP 2020: vocational education from Grade 6",
+        "STIP 2020: One Nation One Subscription",
+        "Consumer Protection: District Commission composition and pecuniary limit"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "bihar-polity",
+     "name": "Bihar Polity",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Bihar Legislature and Panchayati Raj",
+       "questions": 5,
+       "papers": 2,
+       "bihar": 5,
+       "learn": [
+        "Bihar Legislative Assembly: seats reserved for Scheduled Castes (38)",
+        "Bihar Legislative Council: first sitting in 1913; first elected Chairman; when the legislature became bicameral",
+        "50 percent reservation for women in Bihar's Panchayats (2006)"
+       ],
+       "note": "Bihar-specific."
+      }
+     ]
+    },
+    {
+     "key": "rights-duties",
+     "name": "Rights Duties",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Fundamental Rights",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Article 17: abolition of untouchability",
+        "Rights only for citizens (Article 19) versus rights for all persons (Articles 14, 21, 25)",
+        "Reasonable restrictions on Fundamental Rights"
+       ]
+      },
+      {
+       "name": "Directive Principles",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Classify DPSPs: Gandhian (village panchayats, cottage industries) versus liberal and socialist ones"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "reasoning",
+   "name": "Reasoning",
+   "questions": 48,
+   "perPaper": 6,
+   "topics": [
+    {
+     "key": "calendar-clock",
+     "name": "Calendar Clock",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Clocks",
+       "questions": 6,
+       "papers": 5,
+       "learn": [
+        "When the hands coincide between two hours (hands coincide every 65 5/11 minutes; 22 times a day)",
+        "True time shown by a clock that gains uniformly",
+        "Angle facts: hour hand moves 0.5° per minute"
+       ],
+       "note": "The most repeated reasoning type in BPSC."
+      },
+      {
+       "name": "Calendar",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Odd days method: ordinary year gives 1 odd day, leap year 2"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "coding-decoding",
+     "name": "Coding Decoding",
+     "questions": 6,
+     "chapters": [
+      {
+       "name": "Coding-Decoding",
+       "questions": 6,
+       "papers": 4,
+       "learn": [
+        "Letter-shift codes, including alternating shifts and reversal",
+        "Letter-to-number codes using alphabet positions (forward and reverse)",
+        "Letter-to-symbol substitution from given coded words"
+       ],
+       "note": "Asked in every recent paper."
+      }
+     ]
+    },
+    {
+     "key": "direction-distance",
+     "name": "Direction Distance",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Direction and Distance",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Track successive turns to find the final direction faced",
+        "Net displacement from the start using Pythagoras"
+       ],
+       "note": "Asked in every recent paper."
+      }
+     ]
+    },
+    {
+     "key": "classification",
+     "name": "Classification",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Odd One Out",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Odd letter group by comparing gaps between letters",
+        "Odd word or word pair by category or relationship"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "series",
+     "name": "Series",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Number Series",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Series from a formula: n(n+1), n³ - n²",
+        "Series from a pattern of differences"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "missing-number",
+     "name": "Missing Number",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Missing Number",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Find the row-wise or figure rule linking the numbers and apply it"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "blood-relations",
+     "name": "Blood Relations",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Blood Relations",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Deduce a relationship from a chain of stated relations; draw a family tree"
+       ],
+       "note": "Asked in recent papers."
+      }
+     ]
+    },
+    {
+     "key": "venn-diagram",
+     "name": "Venn Diagram",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Sets and Venn Diagrams",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "n(A ∪ B) = n(A) + n(B) - n(A ∩ B); three-set inclusion-exclusion",
+        "Identify the region common to overlapping shapes"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "analogy",
+     "name": "Analogy",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Analogy",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Word analogies based on a relationship (e.g. source of energy)",
+        "Letter analogies: apply the same rearrangement pattern"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mathematical-operations",
+     "name": "Mathematical Operations",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Mathematical Operations",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Replace interchanged operator symbols, then evaluate with BODMAS"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "counting-figures",
+     "name": "Counting Figures",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Counting Triangles",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Count all triangles in a figure systematically, combining regions"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "order-ranking",
+     "name": "Order Ranking",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Order and Ranking",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Rank from the other end: total - rank + 1",
+        "People between two positions given from left and right"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "word-arrangement",
+     "name": "Word Arrangement",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Logical and Alphabetical Order",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Arrange similar words in dictionary order",
+        "Arrange items in a logical order (e.g. order of precedence)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "statement-conclusion",
+     "name": "Statement Conclusion",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Statement and Conclusion",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Decide which conclusions follow logically from a statement"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "maths",
+   "name": "Quantitative Aptitude",
+   "questions": 31,
+   "perPaper": 3.9,
+   "topics": [
+    {
+     "key": "algebra",
+     "name": "Algebra",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Equations and Identities",
+       "questions": 8,
+       "papers": 5,
+       "learn": [
+        "Identities: a² - b² = (a+b)(a-b); (a+b)² - (a-b)² = 4ab",
+        "Two numbers from sum, product or sum of squares; simultaneous linear equations",
+        "Age problems as linear equations",
+        "nth term of an arithmetic progression; simple logarithms; infinite continued expressions via a quadratic"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "number-system",
+     "name": "Number System",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Number System and LCM",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Counting numbers in a range divisible by several numbers using their LCM",
+        "Divisibility facts: aⁿ - bⁿ is divisible by a - b; a perfect square cannot end in 2, 3, 7 or 8",
+        "Fraction-of-remainder share problems"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mensuration",
+     "name": "Mensuration",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Quadrilaterals: Area and Perimeter",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Rhombus: diagonals bisect at right angles; side from diagonals by Pythagoras",
+        "Rectangle sides from area and perimeter",
+        "Relations between square, rectangle, rhombus and parallelogram"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "profit-loss-discount",
+     "name": "Profit Loss Discount",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Profit, Loss and Discount",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Find cost price from a loss sale, then the selling price for a target profit",
+        "Final price after a discount followed by a tax"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "time-speed-distance",
+     "name": "Time Speed Distance",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Trains and Races",
+       "questions": 3,
+       "papers": 2,
+       "learn": [
+        "Train passing a moving person: relative speed in the same direction is the difference",
+        "Races with a head start"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "percentage",
+     "name": "Percentage",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Percentage",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Population after n years: P(1 + r/100)ⁿ",
+        "Successive increase and decrease by the same percent gives a net loss"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "time-work",
+     "name": "Time Work",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Time and Work",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "One person's time from the combined time and the other's time",
+        "Two work together, one leaves: time for the other to finish"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "permutation-probability",
+     "name": "Permutation Probability",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Permutation and Combination",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Arrangements of n distinct letters: n!",
+        "Using the nCr formula to solve for n"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "average",
+     "name": "Average",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Average",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Combined average of two groups: total sum divided by total count"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mixture-alligation",
+     "name": "Mixture Alligation",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Mixtures",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Quantity to add to a mixture to change its ratio"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "static-gk",
+   "name": "Static GK",
+   "questions": 22,
+   "perPaper": 2.8,
+   "topics": [
+    {
+     "key": "miscellaneous",
+     "name": "Miscellaneous",
+     "questions": 9,
+     "chapters": [
+      {
+       "name": "Places, Sobriquets and World Culture",
+       "questions": 7,
+       "papers": 3,
+       "learn": [
+        "Sobriquets: Scotland of the East (Shillong/Meghalaya), Playground of Europe (Switzerland)",
+        "World landmarks: White House, Ground Zero",
+        "Festivals abroad and GI-tagged products"
+       ],
+       "note": "The 69th paper asked unusual general-awareness items; low return for effort."
+      },
+      {
+       "name": "Bihar General Knowledge",
+       "questions": 2,
+       "papers": 2,
+       "bihar": 2,
+       "learn": [
+        "State symbols of Bihar",
+        "Famous people born in Bihar"
+       ],
+       "note": "Bihar-specific."
+      }
+     ]
+    },
+    {
+     "key": "organisations",
+     "name": "Organisations",
+     "questions": 6,
+     "chapters": [
+      {
+       "name": "International Organisations and Reports",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "G7 members; G20 share of world GDP, trade and population",
+        "Report publishers: Global Gender Gap Report (World Economic Forum)",
+        "UN peacekeeping basics"
+       ]
+      },
+      {
+       "name": "Indian Institutes and Abbreviations",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Headquarters of research institutes (Himalayan Forest Research Institute, Shimla)",
+        "Full forms such as PCRA"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "important-days",
+     "name": "Important Days",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Important Days and Themes",
+       "questions": 5,
+       "papers": 3,
+       "current": 2,
+       "learn": [
+        "Dates: World Ozone Day (16 September), Olympic Day (23 June), Holocaust Remembrance Day (27 January), Poshan Maah (September)",
+        "Themes of the current year"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "sports-static",
+     "name": "Sports Static",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Sports Trophies and Venues",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Grand Slam venues and trophies: Flushing Meadows, Roland Garros, Venus Rosewater Dish, Daphne Akhurst Cup"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

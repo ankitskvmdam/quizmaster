@@ -63,6 +63,14 @@ export async function listExams(): Promise<ExamCard[]> {
 
 const dateLabel = (iso: string) => new Date(iso + 'T00:00:00Z').toLocaleDateString('en-IN', { day: 'numeric', month: 'short', year: 'numeric', timeZone: 'UTC' })
 
+/** One exam's slug and name in the reader's language, or null when there is no such exam. */
+export async function getExam(slug: string): Promise<{ slug: string; name: string } | null> {
+  const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
+  const { data: exam, error } = await supabase.from('exams').select('slug, name, name_hi').eq('slug', slug).maybeSingle()
+  if (error) fail('exam', error)
+  return exam ? { slug: exam.slug, name: pick(lang, exam.name, exam.name_hi) } : null
+}
+
 /** One exam and its published papers, newest year first (then by date), with the caller's best score on each. */
 export async function getExamPapers(slug: string): Promise<{ exam: ExamCard; papers: (TestRow & { year: number })[] } | null> {
   const [supabase, lang] = await Promise.all([createClient(), getContentLang()])

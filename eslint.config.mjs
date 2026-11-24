@@ -20,6 +20,8 @@ const eslintConfig = defineConfig([
     ".superpowers/**",
     // Claude Code skills: helper scripts run with plain node (CommonJS), not app code.
     ".claude/**",
+    // Source books and their local scratch scripts: git-ignored, not app code.
+    "resources/**",
   ]),
 ]);
 

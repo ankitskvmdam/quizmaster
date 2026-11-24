@@ -1,0 +1,2227 @@
+{
+ "exam": "ssc-chsl",
+ "papers": 4,
+ "questions": 370,
+ "generated": "2026-11-24",
+ "subjects": [
+  {
+   "key": "maths",
+   "name": "Quantitative Aptitude",
+   "questions": 100,
+   "perPaper": 25,
+   "topics": [
+    {
+     "key": "data-interpretation",
+     "name": "Data Interpretation",
+     "questions": 16,
+     "chapters": [
+      {
+       "name": "Table",
+       "questions": 12,
+       "papers": 3,
+       "learn": [
+        "Ratio of two values, or of two row or column totals",
+        "Percentage by which one sum exceeds or is less than another; one value as a percentage of a total",
+        "Average of a row or column; count the entries above the average",
+        "Year with the highest percentage increase over the previous year",
+        "Convert a table value into a pie-chart central angle (value ÷ total × 360°)",
+        "Marks tables: convert to percentage and count students above a cut-off",
+        "Cumulative (\"less than\") frequency tables: read class frequencies and counts below a cut-off"
+       ],
+       "note": "The most common data-interpretation format; usually a set of several questions on one table."
+      },
+      {
+       "name": "Line Graph",
+       "questions": 4,
+       "papers": 1,
+       "learn": [
+        "Difference between two values read from the graph",
+        "Percentage by which one value exceeds another",
+        "Year showing a rise over the previous year",
+        "Total over several years multiplied by a per-unit amount"
+       ],
+       "note": "Rare: one set in a single CHSL paper."
+      }
+     ]
+    },
+    {
+     "key": "algebra",
+     "name": "Algebra",
+     "questions": 14,
+     "chapters": [
+      {
+       "name": "Algebraic Identities",
+       "questions": 6,
+       "papers": 4,
+       "learn": [
+        "From x + 1/x (or x − 1/x) find x² + 1/x², x³ + 1/x³ = k³ − 3k, x⁴ + 1/x⁴, and up to the 5th and 6th powers",
+        "Work backwards: from x² + 1/x² or x⁴ + 1/x⁴ get x + 1/x; divide a quadratic by x to reach the x + 1/x form",
+        "Special cases: x + 1/x = 2 gives x = 1; x + 1/x = −2 gives x = −1",
+        "a³ + b³ = (a + b)³ − 3ab(a + b) and a³ − b³ = (a − b)(a² + ab + b²), often with comparing coefficients",
+        "a³ + b³ + c³ − 3abc = (a + b + c)(a² + b² + c² − ab − bc − ca); if a + b + c = 0 then a³ + b³ + c³ = 3abc",
+        "(a + b + c)² = a² + b² + c² + 2(ab + bc + ca); a² + b² = (a + b)² − 2ab; (a + b)² − (a − b)² = 4ab",
+        "A sum of squares equal to zero makes every term zero; a² + b² + c² = ab + bc + ca gives a = b = c",
+        "Surd inputs: rationalise, or write 3 + 2√2 as a perfect square, before applying the identity"
+       ],
+       "note": "The most repeated maths chapter: in almost every paper, often two questions."
+      },
+      {
+       "name": "Linear and Quadratic Equations",
+       "questions": 8,
+       "papers": 3,
+       "learn": [
+        "Form and solve one or two linear equations from a word problem (coins and notes, heads and legs, two-digit numbers)",
+        "Solve a quadratic, often from a number and its reciprocal, then evaluate a related expression",
+        "Equations with square roots: square both sides or substitute the options",
+        "Sum of roots = −b/a; equal roots when b² − 4ac = 0",
+        "Pair of linear equations has infinitely many solutions when a₁/a₂ = b₁/b₂ = c₁/c₂",
+        "Solve two linear inequalities and pick a value in the common range (CHSL)",
+        "nth term of an arithmetic progression from two given terms (asked once)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "mensuration",
+     "name": "Mensuration",
+     "questions": 11,
+     "chapters": [
+      {
+       "name": "Area and Perimeter of Plane Figures",
+       "questions": 6,
+       "papers": 3,
+       "learn": [
+        "Equilateral triangle: area = (√3/4) × side²; rhombus: ½ × product of diagonals; trapezium: ½ × sum of parallel sides × height",
+        "Square and rectangle: area from perimeter or diagonal, sides from perimeter and area, paths around a field, number of tiles",
+        "Circle: circumference 2πr, area πr², areas in the ratio of the squares of radii, ring between concentric circles",
+        "Sector: arc length = (θ/360) × 2πr; area = (θ/360) × πr² = ½ × radius × arc; perimeter = arc + 2r",
+        "Percentage change in area when the sides or the radius change by given percentages (a + b + ab/100)",
+        "Wheel revolutions = distance ÷ circumference"
+       ],
+       "note": "The most asked part of mensuration."
+      },
+      {
+       "name": "Cylinder",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Curved surface area 2πrh, total surface area 2πr(r + h), volume πr²h",
+        "Find volume from curved surface area and base area, or height and radius from one another",
+        "Ratio of volumes or curved surfaces from ratios of radii and heights",
+        "Hollow cylinder (pipe, road roller): volume and weight of material",
+        "Rise in water level when a sphere is immersed; filling a cuboid from a cylinder"
+       ],
+       "note": "The most asked solid."
+      },
+      {
+       "name": "Combined and Recast Solids",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Melting and recasting: equate volumes, then find a dimension, a surface area or the number of pieces",
+        "Surface area of a combined solid (a frustum topped by a hemisphere, a cube with hemispherical depressions)",
+        "Euler's formula V − E + F = 2 for polyhedra"
+       ],
+       "note": "Rare, but the equate-the-volumes idea also runs through the cylinder and sphere chapters."
+      },
+      {
+       "name": "Sphere and Hemisphere",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Sphere: volume (4/3)πr³, surface area 4πr²; find the radius from one and compute the other",
+        "Hemisphere: curved surface area 2πr², total surface area 3πr²; cutting a sphere in half adds two circular faces",
+        "Hollow sphere: volume = (4/3)π(R³ − r³)",
+        "Number of small spheres from a melted sphere or cylinder = ratio of volumes",
+        "Largest sphere inside a cube has diameter equal to the side; water-level rise when a sphere is dropped in a cylinder"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "trigonometry",
+     "name": "Trigonometry",
+     "questions": 11,
+     "chapters": [
+      {
+       "name": "Trigonometric Ratios and Standard Angles",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Evaluate an expression using the values at 0°, 30°, 45°, 60° and 90°",
+        "Given one ratio (tan θ, cot θ, cosec θ), find the others from a right triangle and evaluate an expression; divide through by cos θ to use tan θ",
+        "Solve a simple equation for the angle, then evaluate; equations that reduce to a quadratic in sin, cos or tan",
+        "Find A and B from standard values of sin(A + B) and cos(A − B)",
+        "Complementary pairs: tan A = cot B when A + B = 90°",
+        "Angles beyond 90°: quadrant signs, negative angles, periodicity (mainly CHSL and 2023)",
+        "Cosine rule for the third side (asked once)"
+       ],
+       "note": "With identities, this gives two or three trigonometry questions in most papers."
+      },
+      {
+       "name": "Trigonometric Identities",
+       "questions": 6,
+       "papers": 3,
+       "learn": [
+        "sin² + cos² = 1, sec² − tan² = 1, cosec² − cot² = 1, used to simplify long expressions",
+        "Reciprocal trick: sec θ − tan θ = 1/(sec θ + tan θ), and the same for cosec θ and cot θ",
+        "Root forms: √((1 − sin)/(1 + sin)) = sec − tan; √((1 + cos)/(1 − cos)) = cosec + cot",
+        "Higher powers: sin⁴ + cos⁴ = 1 − 2sin²cos², sin⁶ + cos⁶ = 1 − 3sin²cos², tan² + cot² + 2 = sec² cosec²",
+        "Complementary angles: sin(90° − θ) = cos θ, so cos²θ + cos²(90° − θ) = 1 and cot θ × cot(90° − θ) = 1",
+        "Double and triple angles: tan 2θ, (1 − cos 2θ)/(1 + cos 2θ) = tan²θ, cos 3θ = 4cos³θ − 3cos θ",
+        "Squaring and adding two linear sin-cos equations; if A + B = 45° then (1 + tan A)(1 + tan B) = 2",
+        "Sum-to-product formulas (sin C + sin D) and maximum or minimum values (tan² + cot² ≥ 2)"
+       ],
+       "note": "Asked in most papers, often two questions."
+      }
+     ]
+    },
+    {
+     "key": "geometry",
+     "name": "Geometry",
+     "questions": 10,
+     "chapters": [
+      {
+       "name": "Coordinate Geometry",
+       "questions": 5,
+       "papers": 3,
+       "learn": [
+        "Section formula and mid-point formula (including finding an end point)",
+        "Slope of a line through two points; slope of a perpendicular is the negative reciprocal",
+        "Equation of a line from a point and a slope or inclination (slope = tan θ); intercepts",
+        "Reflection of a point in the lines x = k or y = k"
+       ],
+       "note": "Asked only in 2017 papers (CGL and CHSL); it has not appeared in this set since."
+      },
+      {
+       "name": "Similar Triangles",
+       "questions": 3,
+       "papers": 2,
+       "learn": [
+        "Ratio of areas of similar triangles = square of the ratio of corresponding sides (also altitudes, medians, perimeters)",
+        "Basic proportionality theorem: a line parallel to the base divides the sides in the same ratio, DE/BC = AD/AB",
+        "Sides of similar triangles are in the ratio of their perimeters",
+        "AA similarity in triangles sharing an angle, giving results like CA² = CD × CB",
+        "Altitude on the hypotenuse: BD² = AD × CD and AB² = AD × AC",
+        "Converse of the basic proportionality theorem; applying the theorem twice with two parallel lines"
+       ],
+       "note": "The area-ratio result is asked again and again."
+      },
+      {
+       "name": "Quadrilaterals",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Angles of a quadrilateral add up to 360°",
+        "Properties of a parallelogram and a kite (diagonals, equal opposite angles)"
+       ],
+       "note": "Rare as a separate question; area formulas come under mensuration."
+      },
+      {
+       "name": "Triangles and Their Properties",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Angle bisector theorem: BD/DC = AB/AC (the single most repeated triangle result)",
+        "Mid-point theorem: the segment joining two mid-points is half the third side; the medial triangle has half the perimeter and one-fourth the area",
+        "Angle between two internal bisectors = 90° + half the third angle; between external bisectors = 90° − half the third angle; angle between the altitude and the bisector = half the difference of the base angles",
+        "Angle sum, exterior angle theorem, isosceles and equilateral triangles; height of an equilateral triangle = (√3/2) × side",
+        "Pythagoras and its converse: triplets, ladder problems, acute/right/obtuse by comparing squares of sides, 30°-60°-90° ratios",
+        "Triangle inequality: range and number of integer values of the third side",
+        "Congruence rules (SSS, SAS, RHS) and what they imply",
+        "Area ratios: triangles with a common vertex are in the ratio of their bases; a median halves the area"
+       ],
+       "note": "Asked in most papers."
+      }
+     ]
+    },
+    {
+     "key": "profit-loss-discount",
+     "name": "Profit Loss Discount",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Discount and Marked Price",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Chain CP to MP to SP: find the marked price or cost price from the discount% and profit%",
+        "Net profit or loss after a mark-up followed by a discount; the mark-up needed for a target profit",
+        "Two successive discounts a and b = a + b − ab/100; the single equivalent discount; comparing schemes",
+        "Selling price after two successive discounts; find the second discount or the marked price",
+        "Discount that cancels a mark-up of m% = m/(100 + m) × 100",
+        "\"Buy x get y free\" = a discount of y/(x + y)"
+       ],
+       "note": "One question in almost every paper; successive discounts are the favourite."
+      },
+      {
+       "name": "Profit and Loss",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "SP of x articles = CP of y articles: profit or loss percent",
+        "Cost price when the profit at one price equals the loss at another (the mean of the two prices); cost price from the gap between a loss% and a gain% sale",
+        "Two articles sold at the same price with equal gain% and loss%: always a net loss of (x²/100)%",
+        "Overall profit when parts of the stock are sold at different profit or loss percentages, or part is damaged",
+        "Cost price from selling price and profit%, then a new selling price for a target profit",
+        "False weights (dishonest dealer), with or without a mark-up",
+        "Bought at n for a rupee and sold at m for a rupee; overheads added to cost; profit expressed as a percent of selling price"
+       ],
+       "note": "One question in almost every paper."
+      }
+     ]
+    },
+    {
+     "key": "number-system",
+     "name": "Number System",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Primes, Fractions and Number Basics",
+       "questions": 5,
+       "papers": 3,
+       "learn": [
+        "Identify primes in a range and test a number for primality (341 = 11 × 31 is not prime)",
+        "Count prime factors from the prime factorisation (1024 = 2¹⁰)",
+        "Find consecutive (or consecutive even) numbers from their sum",
+        "A fraction of a fraction of a number"
+       ],
+       "note": "Mostly from CHSL papers."
+      }
+     ]
+    },
+    {
+     "key": "ratio-proportion",
+     "name": "Ratio Proportion",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Ratio and Proportion",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Divide a sum in a given ratio; combine two ratios (A : B and B : C) into a three-term ratio",
+        "Ratio before and after adding or removing quantities: find the original numbers or the number to add",
+        "Mean proportional √(ab), third proportional b²/a, fourth proportional bc/a",
+        "Number to add to or subtract from four terms so they become proportional",
+        "Find a : b from a ratio of linear expressions, or from equal fractions or percentages of two quantities",
+        "Numbers in a given ratio from the sum of their squares; coins and denominations"
+       ],
+       "note": "One question in most papers."
+      }
+     ]
+    },
+    {
+     "key": "average",
+     "name": "Average",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Average",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Find a new, removed or replaced value from the change in average (total = average × count)",
+        "Overlapping groups: the common member or the common days from two group averages",
+        "Correct an average after a wrongly recorded value; find the number of items from the correction",
+        "Combined average of two groups; group size or ratio of groups from the two averages and the combined average",
+        "Cricket: batting or bowling average before and after a match, highest score, required run rate",
+        "Consecutive and evenly spaced numbers: the average is the middle value; smallest + largest = 2 × average",
+        "Average of the first n primes or even numbers; average of squares of the first n naturals = (n + 1)(2n + 1)/6"
+       ],
+       "note": "One question in most papers."
+      }
+     ]
+    },
+    {
+     "key": "interest",
+     "name": "Interest",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Compound Interest",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Difference between CI and SI for 2 years = P(r/100)² (the most repeated result)",
+        "Find the rate from the amounts in two consecutive years, or from principal and amount over 2 years",
+        "Half-yearly and quarterly compounding; compounding every 5 or 8 months (adjust the rate and the number of periods)",
+        "Compound interest for a fractional number of years",
+        "Mixed questions: find the principal or rate from simple interest, then compute compound interest",
+        "Divide a sum so that the amounts are equal after different periods; equal annual instalments"
+       ],
+       "note": "About one question in every second paper."
+      }
+     ]
+    },
+    {
+     "key": "time-work",
+     "name": "Time Work",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Time and Work",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Take total work = LCM of the days and add or subtract daily rates; together time = ab/(a + b)",
+        "One worker leaves or joins part-way: find the total time or when the worker left",
+        "Working on alternate days",
+        "Efficiency ratios and percentages (A is twice as fast as B)",
+        "Pairwise times of A, B and C: find all three together or one alone",
+        "Man-days: men × days × hours is constant; men, women and boys equivalence; extra workers needed; provisions problems",
+        "Wages are shared in the ratio of work done"
+       ],
+       "note": "One question in almost every paper."
+      }
+     ]
+    },
+    {
+     "key": "time-speed-distance",
+     "name": "Time Speed Distance",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Problems on Trains",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Crossing a pole: time = train length ÷ speed; crossing a bridge, platform or tunnel: add its length",
+        "Two trains: opposite directions add speeds, same direction subtract; distance = sum of lengths",
+        "Two trains starting at different times: meeting time and meeting point",
+        "Stoppage time per hour from the speeds with and without stoppages"
+       ]
+      },
+      {
+       "name": "Speed, Time and Distance",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Average speed = total distance ÷ total time; convert km/h to m/s with 5/18",
+        "Chase and meeting problems: time = gap ÷ relative speed, including different start times",
+        "Late or early at two speeds: find the distance or the usual time",
+        "Change of speed and the resulting time difference (leads to a quadratic); percentage rise in speed to save time",
+        "Circular track: first meeting = track length ÷ relative speed; meeting at the start = LCM of lap times",
+        "Races: beating by a distance or a time; combining two leads"
+       ],
+       "note": "A question from this chapter or from trains/boats appears in most papers."
+      }
+     ]
+    },
+    {
+     "key": "percentage",
+     "name": "Percentage",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Percentage",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Price rise and consumption: reduction needed to keep expenditure unchanged = r/(100 + r) × 100; a price cut that buys extra quantity for the same money",
+        "Income, expenditure and savings: percentage change in one when the other two change",
+        "Chain comparisons: A is x% more than B, B is y% less than C; if A is x% more than B, B as a percent of A",
+        "Successive changes: net effect a + b + ab/100; equal rise and fall of r% gives a net fall of r²/100 %; original population",
+        "Elections: total votes from turnout, invalid votes and the winning margin",
+        "Exams: maximum marks from pass percentage and shortfall; pass or fail percentages of two groups (set formula)",
+        "Find a number from the difference of two percentages of it; percentage of a percentage"
+       ],
+       "note": "One question in most papers; price-consumption and income-savings types repeat most."
+      }
+     ]
+    },
+    {
+     "key": "simplification",
+     "name": "Simplification",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "BODMAS Simplification",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Order: brackets, \"of\", division, multiplication, addition, subtraction; \"of\" is done before division",
+        "Mixed fractions and decimals with nested brackets (bar, round, curly, square)",
+        "Find the unknown inside a BODMAS expression",
+        "Shortcut with (a − b)(a + b) = a² − b² for near-round products and decimal expressions"
+       ],
+       "note": "Hardly seen before 2019; since then one question in most papers."
+      }
+     ]
+    },
+    {
+     "key": "mixture-alligation",
+     "name": "Mixture Alligation",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Mixture and Alligation",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Quantity of water, alcohol or metal to add to reach a target percentage or ratio",
+        "Price of a mixture as the weighted average of the component prices; price of one component from the mean price",
+        "Rule of alligation to find the mixing ratio for a target concentration or cost",
+        "Combined ratio when mixtures with different ratios are mixed"
+       ],
+       "note": "Occasional: about one paper in five."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "english",
+   "name": "English",
+   "questions": 100,
+   "perPaper": 25,
+   "topics": [
+    {
+     "key": "cloze",
+     "name": "Cloze",
+     "questions": 20,
+     "chapters": [
+      {
+       "name": "Cloze Test",
+       "questions": 20,
+       "papers": 4,
+       "learn": [
+        "A short passage with five blanks, each with four options; read the whole passage once before filling",
+        "Most blanks test the noun, verb or adjective that fits the context of the passage",
+        "Collocations: plays a vital role, wage a war, took his seat, a study is conducted, flagrant violation, skill development, consists of",
+        "Prepositions and phrasal verbs: confined to, derived from, barriers to, looking for, based on, concentrate on",
+        "Grammar blanks: subject-verb agreement, keeping the passage tense, articles a/an/the, comparative + than, base verb after a modal",
+        "Connectors: however, therefore, moreover, besides, since, as a result, unless, so that"
+       ],
+       "note": "The biggest English block: five questions on one passage in most papers."
+      }
+     ]
+    },
+    {
+     "key": "grammar-error",
+     "name": "Grammar Error",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Spotting Errors",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "A sentence is split into parts; find the part with the error, or mark \"no error\"",
+        "Subject-verb agreement: each of / one of the + plural noun / everyone take a singular verb; the verb agrees with the head noun; collective and uncountable nouns (homework, information) are singular",
+        "Tense: keep the past consistent in a narrative; past perfect for the earlier of two past actions; for + period, since + point of time",
+        "Verb forms: base form after modals, did and to; past participle after has/had/should have and in the passive (bitten, begun, gone)",
+        "Prepositions: die of, result in, fond of, excited about, between (two) vs among (many), of vs off",
+        "Articles and determiners: the before superlatives and ordinals; a/an by sound; few/many with countable and little/much with uncountable nouns",
+        "Pronouns, adjectives and adverbs: who vs which, whose vs who's, each other vs one another; an adverb (well, slowly) modifies a verb, \"fastly\" is wrong",
+        "Redundancy and word choice: returned back, reason ... because, quite too; quiet/quite, further/farther; hardly ... when"
+       ],
+       "note": "Asked in almost every paper; subject-verb agreement, tense and prepositions are the three biggest sources."
+      }
+     ]
+    },
+    {
+     "key": "sentence-improvement",
+     "name": "Sentence Improvement",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Sentence Improvement",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "Replace the underlined part with the best option, or choose \"no improvement\" (the given sentence is sometimes already correct)",
+        "Conditionals: first (if + present, will), third (if + past perfect, would have + past participle), zero; \"I wish I were\"; \"as if\" + past",
+        "Agreement with pairs: either...or / neither...nor (verb agrees with the nearer subject), as well as (first subject), many a (singular), a gerund subject (singular)",
+        "Tense: present perfect continuous with since/for; past perfect before another past event; simple present in a \"when\" time clause",
+        "Comparison: comparative for two, superlative with \"of all\", \"than any other\", \"one of the + superlative + plural noun\", far/by far",
+        "Verb patterns: modal + have + past participle, too...to, worth + gerund, gerund after a preposition, fancy + gerund, plan + to-infinitive",
+        "Fixed prepositions and phrasal verbs: agree to/with, access to, depend on, wait for vs wait on, put out, break down, cash in on, cut down",
+        "Confusable words and pairs: beside/besides, adapt/adopt, few/a few, not only...but also, although vs in spite of; question tags"
+       ],
+       "note": "Asked in almost every paper."
+      }
+     ]
+    },
+    {
+     "key": "fill-blank",
+     "name": "Fill Blank",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Fill in the Blanks",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "One blank in a sentence; pick the word that fits meaning and grammar",
+        "Vocabulary in context is the commonest type: neglected, fragile, malicious, proficient, negligent, confiscated, luxuriant, impenetrable",
+        "Collocations: a unanimous decision, render help, a narrow escape, utter confusion, hard-earned money, hold an enquiry, distinguish between",
+        "Sound-alike and look-alike words: quiet/quite/quit, dissent/descent, immense/eminent, conscientious/conscious/conscience, loud/laud, flour/floor/flower, scent/sense/cents",
+        "Fixed prepositions and phrasal verbs: exempted from, innocent of, engaged in, preside over, fall through, pass down, get along with",
+        "Grammar blanks: since + point of time, lay/laid, past perfect, no sooner...than, as...as, question tags"
+       ],
+       "note": "Homophone and confusable-word blanks have become more common in recent papers."
+      }
+     ]
+    },
+    {
+     "key": "synonym",
+     "name": "Synonym",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Synonyms",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "One word given, pick the closest meaning from four options",
+        "Recurring words: morose (gloomy), obligatory (mandatory/compulsory), vacillate (waver), chronic (persistent), robust (sturdy), retaliate (strike back), mundane (everyday)",
+        "Harder words that were asked: taciturn, lacuna, sagacious, hoodwink, temerity, enervate, munificent, innuendo, perjury, ravenous, livid",
+        "Easy words also appear (final, honest, boring, toxic), so do not over-think them",
+        "Pick the closest option when no perfect synonym is given"
+       ],
+       "note": "Asked in almost every paper."
+      }
+     ]
+    },
+    {
+     "key": "antonym",
+     "name": "Antonym",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Antonyms",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "One word given, pick the opposite from four options; the word is sometimes underlined in a sentence",
+        "Know the meaning first: most misses come from hard words such as opprobrium (× adulation), fecund (× sterile), quiescent (× active), obdurate (× amenable), incessant (× sporadic)",
+        "Everyday pairs are asked just as often: scarce × plentiful, hostile × amiable, frugal × extravagant, conceal × reveal, transient × permanent",
+        "Words that came more than once: sluggish × active, industrious × lethargic/indolent, exonerate",
+        "When no exact opposite is offered, choose the nearest one among the options"
+       ],
+       "note": "Asked in almost every paper; revise synonyms and antonyms from one word list."
+      }
+     ]
+    },
+    {
+     "key": "idiom-phrase",
+     "name": "Idiom Phrase",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Idioms and Phrases",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "An idiom is given, usually inside a sentence; pick its meaning",
+        "Repeated ones: leave no stone unturned, a hard nut to crack, keep at arm's length, cakewalk, chicken-hearted / lily-livered (cowardly)",
+        "Conflict and difficulty: at daggers drawn, bury the hatchet, face the music, bite the bullet, take the bull by the horns, a tight corner, add fuel to the fire",
+        "People and behaviour: dark horse, couch potato, apple of one's eye, cat's paw, sit on the fence, pass the buck, blow one's own trumpet",
+        "Others asked: a bolt from the blue, the sword of Damocles, Hobson's choice, take French leave, in black and white, through thick and thin, nip in the bud, by leaps and bounds, break a leg, cut corners",
+        "Proverb-style items appear in CHSL: a blessing in disguise, actions speak louder than words"
+       ],
+       "note": "Asked in almost every paper."
+      }
+     ]
+    },
+    {
+     "key": "one-word",
+     "name": "One Word",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "One Word Substitution",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "A description is given; pick the single word for it",
+        "People: teetotaller, philatelist, philanthropist, bibliophile, centenarian, cynic, sceptic, fatalist, pessimist, impostor, invigilator, truant, stevedore",
+        "Qualities: ambidextrous, gregarious, omniscient, incorrigible, insatiable, ambivalent, edible, audible/inaudible, feasible, posthumous",
+        "Places and things: mint, hangar, dormitory, larder, aquarium, nursery, pillion, harpoon, wreath, graffiti",
+        "Studies and practices: entomology, lexicography, numerologist; group words such as fleet, drove, caravan, trilogy",
+        "Other repeats: obituary, pseudonym, verbatim, euthanasia, apartheid, abdicate, procrastinate, blasphemy"
+       ],
+       "note": "Asked in almost every paper; edible, graffiti and impostor each came twice."
+      }
+     ]
+    },
+    {
+     "key": "spelling",
+     "name": "Spelling",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Spelling",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "Pick the correctly spelt word, or the misspelt word, among four options; newer papers ask for the sentence with no misspelt word",
+        "Double letters: commemorate, embarrassment, beginning, association, necessity, acknowledge, millionaire",
+        "ie / ei words: niece, receipt, seize, conceive, relieve, perceive, believe, heist",
+        "Endings -ance/-ence, -ible/-able, -ous: acquaintance, attendance, interference, contemptible, palatable, surreptitious, erroneous, atrocious, luxurious",
+        "Other words asked: connoisseur, renaissance, privilege, calendar, definite, veterinary, restaurant, hierarchical, secretariat, rhyme, diabetes, pursuit"
+       ],
+       "note": "Asked in almost every paper; definite, exclamation and luxurious were repeated."
+      }
+     ]
+    },
+    {
+     "key": "para-jumble",
+     "name": "Para Jumble",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Para Jumbles",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "Two formats: order four jumbled sentences into a paragraph, or order the jumbled parts of one sentence",
+        "Find the opening sentence first: it introduces the topic and has no pronoun or connector pointing backwards",
+        "Use connectors as links: however, but, also, therefore, thus, finally, this is because",
+        "Follow pronoun references (he, this, these) and pairs such as some ... others",
+        "Common orders: general to specific, definition then details, chronological narrative, problem then action then outcome",
+        "Some questions fix the first and last sentences and ask only for the middle order"
+       ],
+       "note": "Asked in most papers, often two questions."
+      }
+     ]
+    },
+    {
+     "key": "voice",
+     "name": "Voice",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Active and Passive Voice",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Convert a sentence both ways: active to passive and passive to active",
+        "Simple tenses: is/are, was/were, will be + past participle (the simple past is asked most)",
+        "Continuous and perfect: is/was being + past participle; has/have/had been + past participle",
+        "Modals: could/should be + past participle; has to becomes has to be + past participle",
+        "Imperatives: \"Let ... be + past participle\" or \"should be + past participle\"; negative imperatives",
+        "Questions (By whom is ... being ...?), sentences with two objects, \"It is believed that ...\", and \"nobody\" turning into a negative passive"
+       ],
+       "note": "Asked in most papers, usually one or two questions."
+      }
+     ]
+    },
+    {
+     "key": "narration",
+     "name": "Narration",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Direct and Indirect Speech",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Convert direct to indirect speech, and sometimes indirect back to direct",
+        "Statements: said to becomes told; tense backshift (present to past, past to past perfect); pronoun changes",
+        "Time and place words: now/then, this/that, ago/before, tomorrow/the next day",
+        "Questions: yes/no with asked if/whether, wh-questions in statement word order; will becomes would, can becomes could",
+        "Commands and requests: told/requested/begged/advised ... (not) to, forbade ... to",
+        "Exclamations and wishes: exclaimed with joy/sorrow that, wished/prayed that ... might",
+        "No tense change when the reporting verb is in the present or the statement is a universal truth"
+       ],
+       "note": "Exactly one question per paper whenever it appears."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "reasoning",
+   "name": "Reasoning",
+   "questions": 70,
+   "perPaper": 17.5,
+   "topics": [
+    {
+     "key": "classification",
+     "name": "Classification",
+     "questions": 16,
+     "chapters": [
+      {
+       "name": "Number Classification",
+       "questions": 8,
+       "papers": 4,
+       "learn": [
+        "Odd pair where the second is not the same function of the first (n², n² + constant, 3n + 4, n(n + 1), half plus one)",
+        "Primes versus composites, perfect squares and cubes, multiples of 5, 7 or 11",
+        "Constant difference or ratio between the two numbers of a pair",
+        "Triads: third = product of the first two, or a multiple of their sum or difference",
+        "Digit patterns: digit sum, reversed digits, last two digits as the square or product of the first"
+       ],
+       "note": "Asked in most papers."
+      },
+      {
+       "name": "Letter Classification",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Odd cluster by the gaps between consecutive letters (constant +3 or +4, or a pattern such as +3, +4, +5)",
+        "Opposite-letter pairs (positions adding to 27)",
+        "Forward order versus reverse order clusters",
+        "Position arithmetic: first + third = middle, or the product of positions",
+        "Vowel count or repeated letters"
+       ],
+       "note": "Asked in almost every paper."
+      },
+      {
+       "name": "Word Classification",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Odd word by category: spices and an oilseed, organs and an enzyme, wind and percussion instruments, units and an instrument",
+        "Odd word by place: cities of one state, countries of one continent, Union Territories versus a city",
+        "Odd pair: synonym pairs versus an antonym pair; polygon and number of sides",
+        "Odd word by meaning (highest point versus lowest point) or by use",
+        "Sports and science based groups: players of one sport, radioactive elements, rainbow colours"
+       ],
+       "note": "Common up to 2021; almost absent from the 2022 to 2024 papers."
+      }
+     ]
+    },
+    {
+     "key": "analogy",
+     "name": "Analogy",
+     "questions": 15,
+     "chapters": [
+      {
+       "name": "Letter Analogy",
+       "questions": 7,
+       "papers": 4,
+       "learn": [
+        "Every letter shifted by a constant (+5, −4, +6)",
+        "A different shift for each position (+4, −3, +2, −1) or shifts that grow by one",
+        "Opposite letters: positions add up to 27 (A↔Z, F↔U)",
+        "Reverse the cluster, or swap adjacent pairs, and then shift",
+        "Letters of a word rearranged in alphabetical order"
+       ],
+       "note": "Learn letter positions 1 to 26 and the opposite-letter pairs by heart."
+      },
+      {
+       "name": "Number Analogy",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Pairs linked by squares and cubes: n : n², n : n³, n² + 1, (n − 1)², (n − 2)³, n : n(n + 1)",
+        "Pairs linked by a constant: add or subtract a fixed number, multiply by a fixed number, same ratio",
+        "Two-step rules: ×3 + 16, ÷4 + 2, n(n + 3)/2",
+        "Triads and sets: third = sum or product of the first two; middle = a function of the outer numbers; fixed successive differences",
+        "Newer format: pick the set that follows the same rule as two given sets, operating on whole numbers and not on their digits",
+        "Digit-based links: digit sum, product of digits"
+       ],
+       "note": "Asked in almost every paper, often two questions."
+      },
+      {
+       "name": "Word Analogy",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Synonym and antonym pairs; degree of intensity (pain : agony)",
+        "Part and whole, item and category, member and group",
+        "Tool, instrument or organ and its function; quantity and unit; instrument and what it measures",
+        "Animal and its sound, young one or group name",
+        "Place and activity, person and dwelling, institution and head, sport and playing area",
+        "General-knowledge links: dam and river, trophy and sport, memorial and leader, alloy and metal, science and its subject"
+       ],
+       "note": "Some questions need general knowledge, not just vocabulary."
+      }
+     ]
+    },
+    {
+     "key": "coding-decoding",
+     "name": "Coding Decoding",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Matrix Coding",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Two letter matrices with numbered rows and columns; each letter is written as its row number followed by its column number",
+        "Check the options letter by letter and reject at the first mismatch"
+       ],
+       "note": "Asked only in 2016 to 2018 papers; absent from the newer papers."
+      },
+      {
+       "name": "Letter Coding",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Constant shift for every letter (+1, +3, +10, −3)",
+        "Alternating or growing shifts (+1, −1; +2, −3, +4, −5; +1, +2, +3)",
+        "Opposite letters (A↔Z), sometimes followed by a shift",
+        "Reverse the whole word or each half, then shift",
+        "Different rules for vowels and consonants (vowels +3, consonants −3; vowel to next vowel)",
+        "Swap letters in pairs, or split the word into blocks and rearrange them"
+       ],
+       "note": "Asked in most papers."
+      },
+      {
+       "name": "Letter-Number Coding",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Word coded as the sum (or product) of its letter positions, sometimes plus or times the number of letters",
+        "A multiple of the sum: twice or three times the total",
+        "Each letter coded as its position, twice or three times its position, or its square",
+        "Reverse positions (A = 26, Z = 1); vowels and consonants coded differently",
+        "Derive a letter-to-digit table from two coded words and code a third",
+        "Word coded by its number of letters"
+       ],
+       "note": "Asked in most papers."
+      }
+     ]
+    },
+    {
+     "key": "mathematical-operations",
+     "name": "Mathematical Operations",
+     "questions": 6,
+     "chapters": [
+      {
+       "name": "Symbol Substitution",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Letters or symbols stand for +, −, × and ÷: replace them and evaluate by BODMAS",
+        "The four signs exchange meanings (\"+ means ×\"): rewrite the expression first, then simplify"
+       ],
+       "note": "Every one of these ends in a BODMAS evaluation, so the order of operations decides the answer."
+      },
+      {
+       "name": "Coded Equations and Custom Operators",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Find the hidden rule behind false-looking equations (digits rearranged, square then append, halve and reverse)",
+        "Custom operators defined by examples: a ∗ b = (a + b) × 10, (a − b) × 2",
+        "List the possible totals of a set of weights to find the impossible one"
+       ],
+       "note": "Asked only in 2016 to 2018 papers."
+      },
+      {
+       "name": "Interchange of Signs and Numbers",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Which two signs should be interchanged to make the equation correct",
+        "Which two numbers (or digits) should be interchanged",
+        "Interchange two signs and two numbers together, then check each option with BODMAS",
+        "Recent format: interchange the given sign pairs (+ with −, × with ÷) and evaluate the expression"
+       ],
+       "note": "Asked in most papers from 2019 onwards, often two questions."
+      }
+     ]
+    },
+    {
+     "key": "direction-distance",
+     "name": "Direction Distance",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Direction and Distance",
+       "questions": 5,
+       "papers": 4,
+       "learn": [
+        "Track a multi-turn walk and give the final direction from the start",
+        "Shortest distance from the start using Pythagoras",
+        "Final facing direction after left/right or clockwise/anticlockwise turns given in degrees",
+        "Two walkers or two routes: position of one relative to the other",
+        "Shadow problems (at sunset shadows fall to the east)"
+       ],
+       "note": "In this set it is common in 2016 to 2017 and CHSL papers and thin afterwards."
+      }
+     ]
+    },
+    {
+     "key": "word-arrangement",
+     "name": "Word Arrangement",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Dictionary Order",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Arrange four or five words as they appear in a dictionary",
+        "Words sharing a common prefix: compare letter by letter from the first letter that differs",
+        "Variant: name the word that comes at a given position (second, third, last)"
+       ],
+       "note": "Asked in well over half the papers; easy marks."
+      },
+      {
+       "name": "Word Formation",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Which word cannot (or can) be formed from the letters of a given long word",
+        "Check that each letter is present and is not used more often than it occurs"
+       ],
+       "note": "Asked only in 2016 to 2018 papers."
+      }
+     ]
+    },
+    {
+     "key": "series",
+     "name": "Series",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Letter Series",
+       "questions": 4,
+       "papers": 4,
+       "learn": [
+        "Fill the blanks so that a block of letters repeats (a_bc_ab_ type); test each option",
+        "Letter-cluster series where each position has its own constant shift (+2, −1, −2)",
+        "Single-letter series with constant, alternating, or growing and shrinking gaps, wrapping past Z",
+        "Two alternating series merged into one",
+        "Clusters with a fixed middle shift and cycling outer letters or vowels",
+        "Alphanumeric series: letters and numbers each move by their own step"
+       ],
+       "note": "Asked in almost every paper, often two questions: one fill-the-blanks and one cluster series."
+      }
+     ]
+    },
+    {
+     "key": "blood-relations",
+     "name": "Blood Relations",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Blood Relations",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Symbol-coded relations (A + B means A is the mother of B): decode a chain, or pick the expression that gives a stated relation",
+        "Pointing-to-a-photograph and introduction statements (\"the only son of my grandfather\")",
+        "Build a family tree from several statements, with couples and two or three generations",
+        "Long chains through in-laws (wife's mother's husband's only daughter)",
+        "Track gender and generation at every step of the chain"
+       ],
+       "note": "Asked in most papers; the symbol-coded type dominates recent papers."
+      }
+     ]
+    },
+    {
+     "key": "syllogism",
+     "name": "Syllogism",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Syllogism",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Two or three statements with two or three conclusions: decide which follow, using Venn diagrams",
+        "Conversion: \"Some A are B\" gives \"Some B are A\"; \"All A are B\" gives \"Some B are A\"; \"No A is B\" gives \"No B is A\"",
+        "All + All gives All; All + No gives No; Some + All gives Some",
+        "No definite conclusion from two \"some\" statements or two negative statements",
+        "Either-or case for a complementary pair of conclusions",
+        "Possibility conclusions in newer papers"
+       ],
+       "note": "Asked in almost every paper."
+      }
+     ]
+    },
+    {
+     "key": "calendar-clock",
+     "name": "Calendar Clock",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Calendar and Clock",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Day of the week for a later date by counting odd days (days ÷ 7, take the remainder)",
+        "The year that has the same calendar as a given year (odd days adding up to a multiple of 7)",
+        "A clock gaining or losing a fixed time per day"
+       ],
+       "note": "Occasional; nearly all questions are on the calendar."
+      }
+     ]
+    },
+    {
+     "key": "venn-diagram",
+     "name": "Venn Diagram",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Venn Diagrams",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Overlapping shapes with numbered or lettered regions: read the region common to two shapes but outside the third",
+        "Add the regions belonging to exactly two of three sets",
+        "Choose the diagram that best shows the relation among three classes",
+        "Word problems: \"only one set\" from three-set data; two-set inclusion-exclusion"
+       ],
+       "note": "The diagram needs a picture, so this chapter is under-counted here: picture-only questions were left out of the source papers."
+      }
+     ]
+    },
+    {
+     "key": "order-ranking",
+     "name": "Order Ranking",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Order and Ranking",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Arrange five or six people by height, age or weight from pairwise comparisons",
+        "Deduce ranks from relative-position clues",
+        "Assign items to days of the week from positional clues"
+       ],
+       "note": "Rare."
+      }
+     ]
+    },
+    {
+     "key": "statement-conclusion",
+     "name": "Statement Conclusion",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Statement and Conclusions",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Which conclusions follow from a given statement",
+        "Which assumptions are implicit in a statement",
+        "Strong versus weak arguments: a strong argument gives a real reason tied to the issue"
+       ],
+       "note": "Rare, and only in 2016 to 2017 papers."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "science",
+   "name": "General Science",
+   "questions": 32,
+   "perPaper": 8,
+   "topics": [
+    {
+     "key": "biology",
+     "name": "Biology",
+     "questions": 10,
+     "chapters": [
+      {
+       "name": "Plant Tissues and Physiology",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Xylem and phloem parts: tracheids, vessels, xylem parenchyma; companion cells belong to phloem",
+        "Sclerenchyma (e.g. coconut husk); meristematic versus permanent tissue",
+        "Reproduction terms: parthenocarpy, monoecious, ornithophily (pollination by birds)",
+        "Photosynthesis and respiration: glycolysis turns glucose into pyruvic acid",
+        "Osmosis and imbibition in everyday examples (why honey does not spoil)"
+       ],
+       "note": "Repeats often; xylem and phloem components are the standard question."
+      },
+      {
+       "name": "Animal Kingdom",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Match the animal to its phylum: jellyfish and sea anemone (Cnidaria), spider and ant (Arthropoda), earthworm (Annelida), tapeworm (Platyhelminthes), sea star (Echinodermata)",
+        "Body plan terms: bilateral symmetry, levels of organisation, features of chordates",
+        "Odd facts: platypus lays eggs, an octopus has three hearts, a bee has five eyes",
+        "Reptiles versus amphibians versus mammals; oviparous animals",
+        "Common names: Limulus (horseshoe crab), Typhlops (blind snake), Meandrina (brain coral)"
+       ],
+       "note": "The most asked science chapter, in more than one paper in three. Based on NCERT class 11."
+      },
+      {
+       "name": "Biological Classification and Names",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Binomial names: Latin origin; the second word is the species",
+        "Kingdoms: Euglena is a protist; Rhizopus and Mucor are fungi",
+        "Scientific names of common plants and animals (teak, dog); humans belong to family Hominidae"
+       ]
+      },
+      {
+       "name": "Cell Biology and Genetics",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Cell organelles and their jobs: ribosomes make proteins, Golgi apparatus, plastids",
+        "Discoveries: Robert Hooke (cell, 1665), Leeuwenhoek (bacteria)",
+        "Plant cell versus animal cell",
+        "Terms: totipotency, plasmid, PPLO (smallest cell), binary fission",
+        "Full form of DNA; enzymes in daily life"
+       ],
+       "note": "Asked steadily every year."
+      },
+      {
+       "name": "Human Body Systems",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Blood: red cells are made in bone marrow; haemoglobin carries oxygen",
+        "Hormones and glands: insulin from the islets of Langerhans; estrogen, progesterone, testosterone",
+        "Functional units and parts: nephron (kidney), cerebellum (balance)",
+        "Bones: ear ossicles (malleus, incus, stapes), femur",
+        "Reproductive organs: ovary, vas deferens"
+       ]
+      },
+      {
+       "name": "Plant Kingdom",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Classes of algae by colour: Chlorophyceae green, Phaeophyceae brown, Rhodophyceae red",
+        "Lichen is an alga and a fungus living together",
+        "Special plants: Drosera (insect-eating), Eichhornia (water hyacinth), Marchantia (liverwort)",
+        "Habit and leaf type: herb, climber, compound leaves of neem"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "physics",
+     "name": "Physics",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Motion and Laws of Motion",
+       "questions": 3,
+       "papers": 2,
+       "learn": [
+        "Newton's third law in everyday examples (recoil of a gun)",
+        "Distance versus displacement; acceleration is the rate of change of velocity",
+        "Friction: sliding friction is less than static friction; it produces heat",
+        "Scalars and vectors",
+        "Kepler's first law: planets move in ellipses"
+       ],
+       "note": "Repeats often; Newton's third law was asked three times."
+      },
+      {
+       "name": "Sound",
+       "questions": 2,
+       "papers": 1,
+       "learn": [
+        "Sound needs a medium to travel",
+        "Frequency = speed ÷ wavelength; compressions are regions of high pressure",
+        "Acoustics is the study of sound"
+       ]
+      },
+      {
+       "name": "Fluids and Properties of Matter",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Pascal's law; buoyancy and viscosity",
+        "Density comparisons: water is denser than ice",
+        "Evaporation is faster with more heat, wind and surface area, and lower humidity"
+       ]
+      },
+      {
+       "name": "Nuclear Physics",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Fusion (light nuclei join) versus fission",
+        "Half-life sums: three-fourths decays in two half-lives",
+        "Cadmium rods control a nuclear reactor",
+        "Range of the weak nuclear force"
+       ]
+      },
+      {
+       "name": "Units and Measuring Instruments",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "SI units: newton (force), pascal (pressure), kelvin (temperature), joule (work), m/s (speed)",
+        "Dimensions: impulse has the same dimensions as momentum; electron-volt is a unit of energy",
+        "Instruments and what they measure: fathometer (ocean depth), tensiometer, vernier calliper"
+       ],
+       "note": "The most asked physics chapter and the easiest: learn the SI unit table."
+      }
+     ]
+    },
+    {
+     "key": "chemistry",
+     "name": "Chemistry",
+     "questions": 6,
+     "chapters": [
+      {
+       "name": "Chemical Reactions and Redox",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Rusting needs oxygen and moisture and is a redox reaction",
+        "Oxidation is loss of electrons; spotting a reaction that is not redox",
+        "Types of reaction: combination, decomposition, displacement (zinc with sulphuric acid)",
+        "Exothermic versus endothermic changes",
+        "First-order reaction"
+       ],
+       "note": "Repeats often; rusting is the usual example."
+      },
+      {
+       "name": "Atomic Structure and Bonding",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Protons, neutrons and electrons; atomic number and mass (lithium has 3 protons; oxygen is 16 u)",
+        "Chadwick discovered the neutron (1932)",
+        "Isotopes; cations and anions",
+        "Atomicity: N2 is diatomic, ozone is O3"
+       ]
+      },
+      {
+       "name": "Chemical Names and Formulae",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Common names: dry ice (solid CO2), baking soda, blue vitriol, Epsom salt, marsh gas, quicklime",
+        "Symbols from Latin names: Fe (ferrum), As (arsenic)",
+        "Formulae of common compounds and ions: NH4OH, CaO, CN−"
+       ],
+       "note": "Repeats often; dry ice was asked twice."
+      },
+      {
+       "name": "Chemistry in Everyday Life",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "What everyday things contain: matchbox (red phosphorus), gunpowder (potassium nitrate), cement (silica), garlic smell (sulphur compounds)",
+        "Antacids neutralise stomach acid",
+        "Hardness of water: removed by washing soda or zeolite",
+        "Fertiliser types: superphosphate is phosphatic"
+       ]
+      },
+      {
+       "name": "Metals and Non-Metals",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Metalloids: boron, silicon, antimony",
+        "Unusual metals: mercury is liquid, potassium is soft",
+        "Alloys and uses: galinstan replaces mercury in thermometers; copper kills bacteria"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "health-disease",
+     "name": "Health Disease",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Diseases and Vaccines",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Disease and its cause: chickenpox (varicella zoster virus), Ebola and AIDS (viruses), Minamata (mercury), diabetes (low insulin), haemophilia (blood does not clot)",
+        "Communicable versus non-communicable diseases",
+        "Faecal-oral spread: the \"F-diagram\" (fluids, fields, flies, fingers, food); what a fomite is",
+        "Tests and vaccines: Widal test for typhoid, BCG for tuberculosis",
+        "Organ affected: glaucoma (optic nerve), epilepsy (brain)"
+       ],
+       "note": "Asked in about one paper in four."
+      },
+      {
+       "name": "Vitamins and Nutrition",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Deficiency diseases: vitamin A (night blindness), vitamin K (blood does not clot)",
+        "Food sources of vitamins (milk is poor in vitamin C)"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "computers",
+     "name": "Computers",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Networking, Internet and Databases",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Protocols and their layer: HTTP (application), TCP (transport), IP (network)",
+        "HTML makes web pages; scripting languages for the web",
+        "Databases: primary key, SQL"
+       ],
+       "note": "Asked only in older papers (2016 to 2018)."
+      },
+      {
+       "name": "Computer Fundamentals",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Memory: ROM is permanent; 4 bits make a nibble",
+        "Operating systems (Linux, Windows) versus programming languages",
+        "Terms and full forms: bug, ISDN",
+        "MS Word basics"
+       ],
+       "note": "Asked only in older papers (2016 to 2018)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "static-gk",
+   "name": "Static GK",
+   "questions": 16,
+   "perPaper": 4,
+   "topics": [
+    {
+     "key": "miscellaneous",
+     "name": "Miscellaneous",
+     "questions": 8,
+     "chapters": [
+      {
+       "name": "Scientists, Inventions and Discoveries",
+       "questions": 4,
+       "papers": 3,
+       "learn": [
+        "Inventor and invention: Fleming (penicillin), Maiman (laser), Janssen (microscope), Einthoven (ECG), Eli Whitney (cotton gin), de Mestral (Velcro)",
+        "Physics names: J. J. Thomson (electron), Celsius and Kelvin (temperature scales), Einstein (relativity)",
+        "Instruments and who invented them: seismometer, barograph, telegraph",
+        "Nobel firsts in science and nationality of scientists"
+       ],
+       "note": "Asked in about one paper in four; heavy in 2017 and 2019 papers, with some very obscure inventors."
+      },
+      {
+       "name": "Books and Authors",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Books by national leaders: Nehru (Glimpses of World History), Azad (India Wins Freedom), Ambedkar (The Buddha and His Dhamma)",
+        "Hindi and Bengali classics: Kamayani (Jaishankar Prasad), Anandamath (Bankim Chandra), Nil Darpan (Dinabandhu Mitra)",
+        "Indian English writers: Jhumpa Lahiri, Amitav Ghosh, Vikram Seth, V. S. Naipaul",
+        "Books released in the last year and memoirs of celebrities and sportspersons",
+        "Booker Prize winner of the year"
+       ],
+       "note": "The most asked static GK chapter, in nearly half the papers. Mix of classics and books from the last year."
+      },
+      {
+       "name": "Festivals and Fairs of India",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Match the festival to its state: Gangaur and Pushkar Fair (Rajasthan), Hemis (Ladakh), Thaipusam and Puthandu (Tamil Nadu), Lathmar Holi (Uttar Pradesh), Phool Dei (Uttarakhand)",
+        "Lesser-known fairs: Madhavpur Mela (Gujarat), Poush Mela (Santiniketan), Rottela Panduga (Andhra Pradesh), Kullu Dussehra (Himachal Pradesh)",
+        "What the festival marks: Baisakhi (founding of the Khalsa), Durga Puja",
+        "Month or occasion of a festival"
+       ],
+       "note": "Repeats very often, mostly since 2022: about two papers in five."
+      },
+      {
+       "name": "Indian Culture, Tribes and Languages",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Martial arts and their state: Mardani Khel (Maharashtra), Lathi (Punjab and West Bengal)",
+        "Gurdwaras and monasteries and where they are (Hemkund Sahib, Namdroling)",
+        "Crafts, languages and tribes by state: Chikankari (Lucknow), Bodo (Assam), Nyishi (Arunachal Pradesh)",
+        "National symbols of neighbouring countries"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "dance-music-art",
+     "name": "Dance Music Art",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Classical Dances of India",
+       "questions": 2,
+       "papers": 1,
+       "learn": [
+        "Dance and its state: Sattriya (Assam), Kuchipudi (Andhra Pradesh), Odissi (Odisha), Kathak (North India)",
+        "Famous exponents: Kelucharan Mohapatra (Odissi), Rukmini Devi Arundale and Mrinalini Sarabhai (Bharatanatyam)",
+        "Technical terms: Alarippu, nattuvanar and Vazhuvoor style (Bharatanatyam), Kalasam (Kathakali)"
+       ],
+       "note": "A top static GK chapter from 2022 onwards, with questions on dancers and technical terms."
+      },
+      {
+       "name": "Musicians, Artists and Instruments",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Musician and instrument: Amjad Ali Khan and Ali Akbar Khan (sarod), Vilayat Khan (sitar), Sultan Khan (sarangi), Hariprasad Chaurasia (flute), Zakir Hussain (tabla), Vishwa Mohan Bhatt (Mohan Veena)",
+        "Vocalists and film music names: Bhimsen Joshi, Lata Mangeshkar, R. D. Burman",
+        "Painters: M. F. Husain and his horses, Picasso",
+        "Gharanas, vocal forms and festivals: Bishnupur gharana (Dhrupad), Tappa (Punjab), Tansen Samaroh (Gwalior)"
+       ],
+       "note": "Asked in about one paper in three; instrument-player pairs dominate recent papers."
+      }
+     ]
+    },
+    {
+     "key": "sports-static",
+     "name": "Sports Static",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Sportspersons and Their Sports",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Match the player to the sport: Deepika Kumari and Limba Ram (archery), Manika Batra (table tennis), Fouaad Mirza (equestrian), Nethra Kumanan (sailing)"
+       ],
+       "note": "Asked in about one paper in seven; less famous sports are favoured."
+      },
+      {
+       "name": "Olympics, Asian and National Games",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Olympic basics: five rings; Summer and Winter Games are two years apart",
+        "India's hockey golds (last in 1980 at Moscow)",
+        "Asian Games are held every four years; India's best sport there is athletics",
+        "Hosts of past National Games"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "firsts-superlatives",
+     "name": "Firsts Superlatives",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Firsts in India",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "First women: Governor (Sarojini Naidu), Chief Minister (Sucheta Kripalani)",
+        "First Governors and Chief Ministers of states",
+        "First winners of awards (Filmfare, Bhatnagar Prize, Indian woman Grammy winner)",
+        "Other firsts: first commercial pilot (J. R. D. Tata), first golf club (Kolkata)"
+       ]
+      },
+      {
+       "name": "Superlatives and Records",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Longest-serving Chief Minister and Governor",
+        "World records: smallest bird, Guinness records held by Indians",
+        "Unique places such as the floating post office on Dal Lake"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "geography",
+   "name": "Geography",
+   "questions": 14,
+   "perPaper": 3.5,
+   "topics": [
+    {
+     "key": "physical",
+     "name": "Physical",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Solar System and Earth's Motions",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Order of the planets; Venus is the hottest; Pluto is a dwarf planet",
+        "Proxima Centauri is the nearest star to the Sun",
+        "Solstices and equinoxes: 21 June is the longest day in the Northern Hemisphere; the Sun is overhead at the Equator twice a year",
+        "Theories of origin: nebular hypothesis (Laplace), steady state theory (Fred Hoyle)"
+       ],
+       "note": "Repeats often, with very easy questions."
+      },
+      {
+       "name": "Soils and Soil Erosion",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Types of erosion: sheet erosion is the least visible; badlands form from gully erosion",
+        "Conservation methods: shelter belts, mulching",
+        "Humus is decayed organic matter in soil"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "environment-ecology",
+     "name": "Environment Ecology",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Pollution",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Acid rain is caused by oxides of nitrogen and sulphur; smog contains VOCs, nitrogen oxides and sulphur dioxide",
+        "Water quality measures: dissolved oxygen, BOD measured over 5 days",
+        "Thermal pollution comes from hot water released by power plants",
+        "Solid waste disposal methods: landfill, composting, incineration",
+        "Aerosols, DDT in soil and water, air-cleaning devices (bag filters, scrubbers)"
+       ],
+       "note": "Asked mostly in 2016 and 2017 papers."
+      },
+      {
+       "name": "Ecology and Ecosystem",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Who coined what: Haeckel \"ecology\", Tansley \"ecosystem\"; E. P. Odum is the father of modern ecology",
+        "Terms: synecology, carrying capacity, eurythermal, brood parasitism",
+        "Steps of decomposition: fragmentation, leaching, catabolism, humification, mineralisation"
+       ]
+      },
+      {
+       "name": "National Parks and Wildlife",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Match the park or sanctuary to its state: Bhitarkanika (Odisha), Borail (Assam), Baghmara Pitcher Plant Sanctuary (Meghalaya), Campbell Bay (Great Nicobar)",
+        "Flagship species: Kanha for swamp deer (barasingha)",
+        "Project Tiger began in 1973",
+        "Number of national parks in India"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "india-economic-human",
+     "name": "India Economic Human",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Agriculture and Crops",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Local names of shifting cultivation: Jhum in the north-east, Kuruwa in Jharkhand",
+        "Crop and soil pairs: rice on alluvial soil, cashew on red laterite soil",
+        "Top producing states (Madhya Pradesh for pulses)",
+        "Kharif crops are sown with the monsoon and harvested in September-October",
+        "Jowar is the main food crop of semi-arid central and southern India"
+       ]
+      },
+      {
+       "name": "Dams and River Projects",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Match the dam to its river and state: Hirakud (Mahanadi, Odisha), Jayakwadi (Godavari, Maharashtra), Ukai (Tapi, Gujarat), Almatti (Krishna), Koteshwar (Bhagirathi)",
+        "Bhakra is the highest gravity dam in India"
+       ],
+       "note": "Always the same question type: which river is the dam on."
+      },
+      {
+       "name": "States and Cities of India",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Which states border a given state",
+        "Nicknames and twin cities: Madurai \"Athens of the East\", Hubli-Dharwad",
+        "Tourist places and their state (Araku Valley, Andhra Pradesh)",
+        "Relative north-south position of major cities"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "india-physical",
+     "name": "India Physical",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "India's Borders and Neighbours",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Boundary lines: Radcliffe Line (India-Pakistan); Siachen dispute",
+        "India's longest border is with Bangladesh",
+        "Which neighbours are landlocked (Nepal, Bhutan, Afghanistan) and which are not (Myanmar)",
+        "Basic facts about neighbours: Bangladesh borders only India and Myanmar; rice is Sri Lanka's chief crop"
+       ]
+      },
+      {
+       "name": "Soils and Natural Vegetation",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Black soil: holds moisture, cracks when dry, found on the Deccan trap, poor in phosphorus",
+        "Red soil forms on crystalline rocks in low-rainfall parts of the Deccan",
+        "Forest types and typical trees: teak in tropical deciduous, sundari in mangroves, conifers in the Himalaya",
+        "Madhya Pradesh has the largest forest cover by area",
+        "Forest products such as tendu leaves for bidis"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "world",
+     "name": "World",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "World Oceans, Rivers and Canals",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "The Amazon is the largest river, in South America (Brazil)",
+        "Which ocean an island or sea belongs to: Madagascar in the Indian Ocean; the Black Sea is linked to the Atlantic",
+        "The Suez Canal is about 193 km long"
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "history",
+   "name": "History",
+   "questions": 13,
+   "perPaper": 3.3,
+   "topics": [
+    {
+     "key": "art-culture",
+     "name": "Art Culture",
+     "questions": 4,
+     "chapters": [
+      {
+       "name": "Mughal and Indo-Islamic Architecture",
+       "questions": 2,
+       "papers": 2,
+       "learn": [
+        "Builder of each monument: Taj Mahal (Shah Jahan), Agra Fort (Akbar), Bibi Ka Maqbara (Azam Shah)",
+        "Akbar's tomb is at Sikandra; Panch Mahal is at Fatehpur Sikri",
+        "Gol Gumbaz at Bijapur has the largest dome in India"
+       ]
+      },
+      {
+       "name": "Monuments and Heritage Sites",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Who built what and where: Charminar (Muhammad Quli Qutb Shah, Hyderabad), Konark Sun Temple (Narasimhadeva I)",
+        "Buddhist sites: Sanchi stupa, Ghoom Monastery (Darjeeling)",
+        "Caves: Elephanta (Maharashtra), Lomas Rishi in the Barabar Hills (Bihar)",
+        "Modern and colonial buildings: Victoria Terminus, Open Hand Monument by Le Corbusier",
+        "Mathura school of sculpture in the Kushana period"
+       ],
+       "note": "Asked in about one paper in five."
+      },
+      {
+       "name": "Philosophy and Cultural Institutions",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Founders of schools of philosophy: Kanada (Vaisheshika), Charvaka (Lokayata)",
+        "Shantiniketan: founded by Rabindranath Tagore in 1901; Kala Bhavana is its art school"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "medieval-india",
+     "name": "Medieval India",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Early Medieval Kingdoms and Cholas",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Dynasty, founder and capital: Rashtrakutas (Dantidurga, Malkhed), Pratiharas (Kannauj), Pallavas (Kanchi), Senas (Lakhnauti)",
+        "Chola village assemblies: Sabha for Brahmana villages, Ur for ordinary villages; shalabhoga land for schools",
+        "Palas: Dharmapala founded Vikramashila and supported Nalanda",
+        "Terms: samanta, nagara-shreshthi"
+       ]
+      },
+      {
+       "name": "Medieval Literature and Travellers",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Chand Bardai wrote Prithviraj Raso",
+        "Al-Biruni wrote Kitab-ul-Hind"
+       ]
+      },
+      {
+       "name": "Mughal Empire",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Babur and the Battle of Khanwa (1527) against Rana Sanga and his allies",
+        "Humayun regained Delhi in 1555; Sher Shah's administration was the model for Akbar",
+        "Akbar: Bairam Khan, Todar Mal's zabti revenue system, Ain-i-Akbari, tomb at Sikandra",
+        "Jahangir: earlier Prince Salim, wife Nur Jahan, Sir Thomas Roe at his court",
+        "Aurangzeb died in 1707; court chronicles were written in Persian"
+       ],
+       "note": "The most asked history chapter; the Battle of Khanwa came up three times."
+      }
+     ]
+    },
+    {
+     "key": "modern-india",
+     "name": "Modern India",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "British Conquest and Battles",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Battle of Plassey, 1757: East India Company against Siraj-ud-Daulah",
+        "Third Battle of Panipat, 1761; Battle of Saragarhi, 1897",
+        "Awadh was annexed in 1856 (last Nawab Wajid Ali Shah)",
+        "Lahore was the capital of Maharaja Ranjit Singh"
+       ]
+      },
+      {
+       "name": "Post-Independence India",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Liberation of Goa from the Portuguese, 1961",
+        "1971 war: Sam Manekshaw was Army Chief",
+        "Lahore Declaration, 1999 (Vajpayee's bus journey)",
+        "Foreign leaders' first visits and other landmark events after 1947"
+       ]
+      },
+      {
+       "name": "Socio-Religious Reform Movements",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Raja Ram Mohan Roy: Atmiya Sabha (1814), Brahmo Samaj (1828)",
+        "Founder and organisation: Arya Samaj (Dayanand Saraswati), Prarthana Samaj (Atmaram Pandurang, 1867), Aligarh Movement (Sir Syed Ahmad Khan), Theosophical Society (Annie Besant)",
+        "Ramakrishna Mission and Belur Math (Vivekananda)",
+        "Reformers of Maharashtra: Jyotiba and Savitribai Phule",
+        "Parsi reform: Rahnumai Mazdayasnan Sabha (Dadabhai Naoroji)"
+       ],
+       "note": "Repeats often. Learn founder, organisation and year together."
+      }
+     ]
+    },
+    {
+     "key": "ancient-india",
+     "name": "Ancient India",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Ancient Literature, Science and Education",
+       "questions": 2,
+       "papers": 2,
+       "bihar": 1,
+       "learn": [
+        "Books and authors: Arthashastra (Kautilya), Ashtadhyayi (Panini), Mricchakatika (Sudraka)",
+        "Scientists: Aryabhata (astronomy), Varahamihira, Charaka (medicine), Sushruta (surgery)",
+        "Universities: Takshashila, Nalanda (Bihar), Vikramshila (founded by Dharmapala)",
+        "The Vikrama Era began in 57 BC"
+       ],
+       "note": "Asked steadily, almost always as a book-author or scholar-field match."
+      }
+     ]
+    },
+    {
+     "key": "world-history",
+     "name": "World History",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "World History",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "French Revolution gave the ideals of liberty, equality and fraternity",
+        "World War I began in 1914",
+        "Mesopotamians wrote in cuneiform on clay tablets"
+       ],
+       "note": "Rarely asked in SSC."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "current-affairs",
+   "name": "Current Affairs",
+   "questions": 9,
+   "perPaper": 2.3,
+   "topics": [
+    {
+     "key": "national",
+     "name": "National",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Laws, Courts and Committees",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "Key provision of Bills and Acts passed in the last year (e.g. Election Laws Amendment Act 2021: four qualifying dates for voter enrolment)",
+        "High Court and Supreme Court rulings that were in the news",
+        "Committees in the news and who headed them (e.g. Afzal Amanullah Committee on Haj subsidy)"
+       ],
+       "note": "Mostly current affairs: follow the last 12 months."
+      },
+      {
+       "name": "National Events and Projects",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "Inaugurations of big projects: Atal Tunnel, Kartarpur Corridor, largest plants and tunnels, and the state they are in",
+        "Renamed places, e.g. Havelock Island became Swaraj Dweep",
+        "New trains and railway initiatives",
+        "Conferences held in India and their themes",
+        "First-of-its-kind festivals and events in states and UTs"
+       ],
+       "note": "Mostly current affairs: follow the last 12 months."
+      },
+      {
+       "name": "Reports, Indices and Rankings",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "India's rank in the latest global indices: Human Development Index, Global Innovation Index, Travel and Tourism Competitiveness",
+        "Which body publishes which report: UNDP (HDI), IEA (World Energy Outlook), UNEP (Food Waste Index), IQAir (air quality)",
+        "Top-ranked country or city in each index",
+        "NITI Aayog indices such as the Multidimensional Poverty Index (Bihar was the poorest state in the first one)",
+        "Rich lists and philanthropy lists (Hurun)"
+       ],
+       "note": "Asked steadily. Learn the report, its publisher and India's latest rank as one unit."
+      }
+     ]
+    },
+    {
+     "key": "awards-honours",
+     "name": "Awards Honours",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "International Awards and Titles",
+       "questions": 3,
+       "papers": 3,
+       "current": 3,
+       "learn": [
+        "Oscar winners of the year in the main acting categories",
+        "Global prizes with their latest winner: Templeton Prize, Global Teacher Prize, World Press Photo, Joan Miro Prize",
+        "International honours given to Indian leaders, e.g. Global Goalkeeper Award for Swachh Bharat",
+        "Miss Universe and Miss World winners, including the list of Indian winners"
+       ],
+       "note": "Mostly current affairs: follow the last 12 months."
+      }
+     ]
+    },
+    {
+     "key": "sports",
+     "name": "Sports",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Olympics and Multi-Sport Games",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "Host cities of upcoming and recent Olympics, Paralympics and Asian Games",
+        "India's results at the latest Olympics, including the hockey matches",
+        "National Games: host state and top medal winners (36th Games in Gujarat, 2022)",
+        "Khelo India Youth Games venue",
+        "Sports added to or dropped from the Games"
+       ],
+       "note": "Mostly current affairs: follow the last 12 months."
+      }
+     ]
+    },
+    {
+     "key": "schemes",
+     "name": "Schemes",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Central Government Schemes",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "Aim and target year of each new scheme (Jal Jeevan Mission: tap water to every rural home by 2024)",
+        "The ministry or body that runs it (DACE: Social Justice ministry; Ubharte Sitaare Fund: Exim Bank and SIDBI)",
+        "First states to achieve a scheme target (Goa, then Telangana, for 100% tap connections)",
+        "Full forms and components: PM-WANI, NAMASTE, NDEAR, SAMPANN",
+        "Duration of extended schemes, e.g. Samagra Shiksha 2.0 runs 2021 to 2026"
+       ],
+       "note": "Asked in nearly one paper in three. Jal Jeevan Mission alone was asked several times."
+      }
+     ]
+    },
+    {
+     "key": "science-tech",
+     "name": "Science Tech",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Science and Technology News",
+       "questions": 1,
+       "papers": 1,
+       "current": 1,
+       "learn": [
+        "Venue of the latest Indian Science Congress",
+        "New science initiatives and who launched them (e.g. I-STEM's WEST for women in science)",
+        "Headline science projects abroad of the year"
+       ],
+       "note": "Rarely asked. Follow the last 12 months."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "polity",
+   "name": "Polity",
+   "questions": 8,
+   "perPaper": 2,
+   "topics": [
+    {
+     "key": "constitution",
+     "name": "Constitution",
+     "questions": 3,
+     "chapters": [
+      {
+       "name": "Emergency Provisions",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "The President proclaims an emergency",
+        "Parliament must approve a national emergency within one month"
+       ]
+      },
+      {
+       "name": "Forms of Government",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Three organs: legislature, executive, judiciary",
+        "Presidential versus parliamentary system",
+        "The United Kingdom has no written constitution",
+        "Pressure groups try to influence policy; they do not contest elections"
+       ]
+      },
+      {
+       "name": "Making of the Constitution",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Constituent Assembly committees and their chairmen; the Drafting Committee had seven members",
+        "Nehru moved the Objectives Resolution; the National Anthem was adopted on 24 January 1950",
+        "Borrowed features: Directive Principles (Ireland), Fundamental Duties (USSR), independent judiciary (USA)"
+       ],
+       "note": "Repeats often. One 2022 shift asked several detailed Constituent Assembly questions."
+      }
+     ]
+    },
+    {
+     "key": "union-government",
+     "name": "Union Government",
+     "questions": 2,
+     "chapters": [
+      {
+       "name": "Parliament",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Parliament is the President plus both Houses (Article 79); quorum is one-tenth (Article 100)",
+        "Rajya Sabha: six-year term, seats by state under the Fourth Schedule (Article 80)",
+        "Money Bills: the Rajya Sabha can only recommend changes; a bill becomes an Act with the President's assent",
+        "Speaker decides disqualification under the Tenth Schedule",
+        "Public Accounts Committee examines CAG reports",
+        "No-confidence motion; vote on account; sessions of Parliament"
+       ],
+       "note": "The most asked polity chapter, in more than one paper in four."
+      },
+      {
+       "name": "Prime Minister and Council of Ministers",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Order and tenures of Prime Ministers: Charan Singh followed Morarji Desai; shortest tenures (Gulzarilal Nanda, Chandra Shekhar)",
+        "No limit on the number of terms a Prime Minister can serve"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "state-local-government",
+     "name": "State Local Government",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Governor and State Legislature",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Governor takes the oath before the Chief Justice of the High Court",
+        "One Governor can serve two or more states (7th Amendment)",
+        "A Money Bill in a state assembly needs the Governor's recommendation"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "judiciary",
+     "name": "Judiciary",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Judiciary and Writs",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "The five writs and their use: quo warranto (right to hold office), prohibition (stops a lower court)",
+        "Writ powers: Article 32 (Supreme Court), Article 226 (High Courts)",
+        "Supreme Court decisions bind all courts",
+        "Removal of judges: Justice V. Ramaswami faced the first impeachment motion",
+        "Malimath Committee on criminal justice reform"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "rights-duties",
+     "name": "Rights Duties",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Fundamental Rights",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Article numbers: 14 to 18 (equality), 19 (freedoms), 20, 21 (life and liberty), 22 (arrest), 24 (child labour)",
+        "Right to Property was removed by the 44th Amendment",
+        "Recent Supreme Court readings, e.g. internet access under Article 19"
+       ],
+       "note": "Asked as \"which Article deals with...\". Learn Articles 12 to 35 by number."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "key": "economy",
+   "name": "Economy",
+   "questions": 8,
+   "perPaper": 2,
+   "topics": [
+    {
+     "key": "basics-concepts",
+     "name": "Basics Concepts",
+     "questions": 5,
+     "chapters": [
+      {
+       "name": "Demand, Supply and Types of Goods",
+       "questions": 3,
+       "papers": 3,
+       "learn": [
+        "Normal, inferior and Giffen goods: how demand moves with income and price",
+        "Public goods are non-rival and non-excludable; private goods are rival and excludable",
+        "Derived demand: demand for a factor of production comes from demand for the final good",
+        "Movement along a curve (expansion or contraction) versus a shift of the curve; equilibrium price",
+        "Price elasticity = % change in quantity ÷ % change in price"
+       ],
+       "note": "Among the most repeated economics chapters; inferior and normal goods come up again and again."
+      },
+      {
+       "name": "Economic Terms and Thinkers",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Barter: goods themselves act as the medium of exchange",
+        "Marginal propensity to consume lies between 0 and 1",
+        "Terms: Golden Handshake (voluntary retirement scheme), trickle-down theory, income as a flow",
+        "Economists: Keynes (England, Keynesian economics), Haberler (opportunity cost theory of trade)"
+       ]
+      },
+      {
+       "name": "Inflation",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Inflation is a sustained rise in the general price level",
+        "Core inflation leaves out food and energy prices",
+        "Real interest rate = nominal interest rate − inflation rate"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "national-income-growth",
+     "name": "National Income Growth",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "National Income",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Three methods of measuring national income: product, income and expenditure",
+        "GDP deflator = nominal GDP ÷ real GDP (also called the implicit price deflator)",
+        "Depreciation is consumption of fixed capital",
+        "GDP at market prices versus factor cost (taxes and subsidies); how personal income is derived from national income",
+        "Definition of GDP and what its sector-wise split shows"
+       ],
+       "note": "Definitions and formulas repeat; the three measurement methods were asked more than once."
+      }
+     ]
+    },
+    {
+     "key": "banking-finance",
+     "name": "Banking Finance",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Financial Markets and Payments",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Bombay Stock Exchange was founded in 1875 by Premchand Roychand",
+        "Regulators: the Forward Markets Commission regulated commodity futures (now merged with SEBI)",
+        "Payment terms: merchant discount rate, the 22-character UTR number in RTGS",
+        "Banning of Unregulated Deposit Schemes Act, 2019"
+       ]
+      }
+     ]
+    },
+    {
+     "key": "international",
+     "name": "International",
+     "questions": 1,
+     "chapters": [
+      {
+       "name": "Exchange Rate and Balance of Payments",
+       "questions": 1,
+       "papers": 1,
+       "learn": [
+        "Devaluation lowers a currency's value: exports get cheaper, imports costlier",
+        "Real exchange rate and the Purchasing Power Parity theory",
+        "Balance of Payments records all transactions with the rest of the world"
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
