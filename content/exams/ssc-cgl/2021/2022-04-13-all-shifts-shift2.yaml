@@ -1,0 +1,1363 @@
+slug: 2022-04-13-all-shifts-shift2
+title: SSC CGL 2021 Tier 1
+date: 2022-04-13
+label: 13 Apr, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b72bf004-db03-11ed-a630-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q5, Q11, Q19, Q22, Q23."
+questions:
+  - slug: cgl-2022-04-13-all-ss-shift2-q001
+    difficulty: medium
+    stem: Seven friends, E, F, G, H, I, J and K, are sitting along a circular table facing towards the centre. F and I are sitting to the immediate left and right of G, respectively. H is sitting third to the left of G. E and I are the neighbours of J. Who is sitting to the immediate right of H?
+    options:
+      A: H
+      B: F
+      C: K
+      D: E
+    answer: C
+    explanation: "Seat G and go round: F is immediately left and I immediately right of G, H is third to G's left, and J sits between I and E. The only remaining seat for K is immediately right of H."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q002
+    difficulty: medium
+    stem: In a certain code language, 'ONION' is coded as 201 and 'POTATO' is coded as 261. How will 'MANGO' be coded in that language?
+    options:
+      A: "208"
+      B: "178"
+      C: "150"
+      D: "228"
+    answer: C
+    explanation: "Code = 3 × sum of letter positions: ONION = 67 × 3 = 201, POTATO = 87 × 3 = 261, so MANGO = 50 × 3 = 150."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q003
+    difficulty: medium
+    stem: A cube of side 49 cm is painted purple on all the faces and then cut into smaller cubes of sides 7 cm each. Find the number of smaller cubes having only one face painted.
+    options:
+      A: "100"
+      B: "25"
+      C: "50"
+      D: "150"
+    answer: D
+    explanation: 49 ÷ 7 = 7 cubes per edge. Cubes with one painted face = 6 × (7 − 2)² = 6 × 25 = 150.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q004
+    difficulty: medium
+    stem: In a certain code language, 'first of all' is written as 'kan dan san', 'who is first' is written as 'zan kan ven', and 'this is pale' is written as 'ven gen len'. How will 'who' be written in that language?
+    options:
+      A: zan
+      B: yen
+      C: kan
+      D: gen
+    answer: A
+    explanation: "'first' = kan (statements 1, 2) and 'is' = ven (statements 2, 3), so the remaining code in 'who is first', zan, means 'who'."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q006
+    difficulty: medium
+    stem: "Five years ago, the ratio of the ages of Tarun and Saurabh was 4 : 1. After five years, the ratio of their ages will be 2 : 1. What is the present age (in years) of Saurabh?"
+    options:
+      A: "14"
+      B: "10"
+      C: "8"
+      D: "12"
+    answer: B
+    explanation: T − 5 = 4(S − 5) and T + 5 = 2(S + 5). Then T = 4S − 15, so 4S − 10 = 2S + 10, giving S = 10.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q007
+    difficulty: medium
+    stem: Mahesh is the father of Riva and paternal grandfather of Vansh. Aakash is the brother of Riva and father of Vansh and Ritu. Ritu is the only daughter of Aakash and Maya. How is Maya related to Mahesh?
+    options:
+      A: Daughter-in-law
+      B: Aunt
+      C: Sister
+      D: Daughter
+    answer: A
+    explanation: Maya is Aakash's wife and Aakash is Mahesh's son, so Maya is Mahesh's daughter-in-law.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q008
+    difficulty: medium
+    stem: |-
+      Which two numbers need to be interchanged to make the following equation correct?
+
+      7 + 56 ÷ 8 × 2 – 13 = 11
+    options:
+      A: 7 and 13
+      B: 7 and 2
+      C: 8 and 2
+      D: 7 and 8
+    answer: D
+    explanation: Swapping 7 and 8 gives 8 + 56 ÷ 7 × 2 − 13 = 8 + 16 − 13 = 11.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q009
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 15 | 9 | 144 |
+      | 18 | 12 | ? |
+      | 22 | 17 | 195 |
+    options:
+      A: "188"
+      B: "255"
+      C: "180"
+      D: "224"
+    answer: C
+    explanation: "Third number = first² − second²: 15² − 9² = 144 and 22² − 17² = 195, so 18² − 12² = 324 − 144 = 180."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q010
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      Some pencils are pens.  
+      All pens are papers.  
+      All pencils are colours.
+
+      **Conclusions:**
+
+      I. All colours are pens.  
+      II. Some colours are pencils.  
+      III. Some papers are pens.
+    options:
+      A: Only conclusion II follows.
+      B: All conclusions I, II and III follow.
+      C: Only conclusions II and III follow.
+      D: Only conclusions I and II follow.
+    answer: C
+    explanation: Some pencils are pens and all pencils are colours, so some colours are pencils (II). Pens exist and all are papers, so some papers are pens (III). Nothing says all colours are pens (I).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q012
+    difficulty: medium
+    stem: Sahasra started running from her house towards the north. After 40 meters she turned left and ran for 75 meters. She then turned right and ran for 30 meters, and again turned right to run 75 meters. In which direction was she running finally?
+    options:
+      A: South
+      B: North
+      C: West
+      D: East
+    answer: D
+    explanation: North 40 m, left (west) 75 m, right (north) 30 m, right again (east) 75 m. She ends up running east.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q013
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      61, 99, 152, 222, 312, ?
+    options:
+      A: "452"
+      B: "426"
+      C: "396"
+      D: "412"
+    answer: B
+    explanation: Differences 38, 53, 70, 90 grow by 15, 17, 20 (which themselves grow by 2, 3, 4). Next growth is 24, so the difference is 114 and 312 + 114 = 426.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q014
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and make the given equation correct.
+
+      88 * 120 * 42 * 240 * 48 * 2
+    options:
+      A: +, ÷, –, =, ×
+      B: ×, ÷, =, –, +
+      C: =, ×, +, ÷, –
+      D: =, –, +, ÷, ×
+    answer: D
+    explanation: 88 = 120 − 42 + 240 ÷ 48 × 2 = 120 − 42 + 10 = 88.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q015
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      298, 217, 168, 143, ?
+    options:
+      A: "138"
+      B: "134"
+      C: "112"
+      D: "126"
+    answer: B
+    explanation: Differences are 81, 49, 25 (9², 7², 5²). Next is 3² = 9, so 143 − 9 = 134.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q016
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.
+
+      1. Treatment  
+      2. Recovery  
+      3. Virus  
+      4. Symptoms  
+      5. Infection
+    options:
+      A: 3, 5, 4, 2, 1
+      B: 3, 5, 4, 1, 2
+      C: 2, 5, 1, 4, 5
+      D: 4, 5, 3, 1, 2
+    answer: B
+    explanation: "A virus causes infection, then symptoms appear, treatment follows and leads to recovery: 3, 5, 4, 1, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q017
+    difficulty: medium
+    stem: In a certain code language, 'FLASK' is written as 'IPFYR'. How will 'TOURS' be written in that language?
+    options:
+      A: WSZXZ
+      B: WSYYZ
+      C: WTZXZ
+      D: WRZXY
+    answer: A
+    explanation: Letters move +3, +4, +5, +6, +7 (F→I, L→P, A→F, S→Y, K→R). TOURS → W, S, Z, X, Z.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q018
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: VZDHN
+      B: KOSWA
+      C: BFJNR
+      D: QUYCG
+    answer: A
+    explanation: In KOSWA, BFJNR and QUYCG each letter is +4 from the previous one. VZDHN breaks it (H → N is +6).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q020
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      r _ k n _ c _ _ h _ _ b c b t _ k _ b c b
+    options:
+      A: h b b s k n h c
+      B: h c b s k n b n
+      C: h b b s k n h n
+      D: h b c q k n h n
+    answer: C
+    explanation: "The series is the 7-letter block 'Xhknbcb' repeated with X = r, s, t: rhknbcb shknbcb thknbcb."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q021
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      68 : 19 : : 164 : ?
+    options:
+      A: "41"
+      B: "43"
+      C: "39"
+      D: "45"
+    answer: B
+    explanation: 68 ÷ 4 + 2 = 19, so 164 ÷ 4 + 2 = 41 + 2 = 43.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q024
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      CAF, HEJ, SIQ, XMU, CQF, ?
+    options:
+      A: MUU
+      B: HUJ
+      C: TUK
+      D: MUJ
+    answer: B
+    explanation: First letters +5, +11 alternately (C, H, S, X, C, H); middle letters +4 (A, E, I, M, Q, U); last letters +4, +7 alternately (F, J, Q, U, F, J). So HUJ.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q025
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter cluster.
+
+      RJB : TGF :: QPG : ?
+    options:
+      A: SMK
+      B: SOJ
+      C: TNJ
+      D: RMK
+    answer: A
+    explanation: RJB → TGF is +2, −3, +4. Applying it to QPG gives S, M, K.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-13-all-ss-shift2-q026
+    difficulty: medium
+    stem: Which of the following became the second state in the country to achieve 100% functional household tap connections (FHTCs)?
+    options:
+      A: Kerala
+      B: Sikkim
+      C: Telangana
+      D: Mizoram
+    answer: C
+    explanation: After Goa (first, in 2020), Telangana became the second state to give tap-water connections to every rural household under the Jal Jeevan Mission.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q027
+    difficulty: medium
+    stem: Which of the following is an Indian 'not for profit' organisation, working on sustainable solutions to make sanitation and water accessible to all?
+    options:
+      A: Pratham
+      B: Helpage India
+      C: Goonj
+      D: Sulabh International
+    answer: D
+    explanation: Sulabh International, founded by Bindeshwar Pathak, works on low-cost sanitation and water.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q028
+    difficulty: medium
+    stem: Which of the following legislations ought to allow senior Indian magistrates to preside over cases involving British subjects in India?
+    options:
+      A: Ilbert Bill, 1884
+      B: Ingress into India Ordinance, 1914
+      C: Government of India Act, 1919
+      D: Age of Consent Act, 1891
+    answer: A
+    explanation: The Ilbert Bill (introduced 1883, passed in diluted form in 1884) proposed letting Indian judges try British subjects.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q029
+    difficulty: medium
+    stem: The ______ is the extended margin of each continent occupied by relatively shallow seas and gulfs.
+    options:
+      A: deep sea plain
+      B: oceanic deeps
+      C: continental slope
+      D: continental shelf
+    answer: D
+    explanation: The continental shelf is the gently sloping, shallow submerged edge of a continent, covered by shallow seas and gulfs.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q030
+    difficulty: medium
+    stem: As per Economic Survey 2020–21, India entered the top 50 innovating countries for the first time in ______ since the inception of the Global Innovation Index in 2007.
+    options:
+      A: "2019"
+      B: "2018"
+      C: "2020"
+      D: "2017"
+    answer: C
+    explanation: India ranked 48th in the Global Innovation Index 2020, entering the top 50 for the first time.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q031
+    difficulty: medium
+    stem: Who among the following freedom fighters hoisted the Indian flag at the Gowalia Tank Maidan in Mumbai during the Quit India Movement?
+    options:
+      A: Aruna Asaf Ali
+      B: Sarojini Naidu
+      C: Tara Rani Srivastava
+      D: Matangini Hazra
+    answer: A
+    explanation: On 9 August 1942 Aruna Asaf Ali hoisted the national flag at Gowalia Tank Maidan, Bombay, launching the Quit India Movement.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q032
+    difficulty: medium
+    stem: Which of the following animals has more than one heart?
+    options:
+      A: Porcupine
+      B: Chameleon
+      C: Tortoise
+      D: Octopus
+    answer: D
+    explanation: "An octopus has three hearts: two pump blood through the gills and one through the body."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q033
+    difficulty: medium
+    stem: Who among the following defeated Harshavardhana when he invaded the Chalukya kingdom in the Deccan?
+    options:
+      A: Mangalesha
+      B: Pulakesin II
+      C: Vikramaditya I
+      D: Kirtivarman I
+    answer: B
+    explanation: The Chalukya king Pulakesin II defeated Harshavardhana on the banks of the Narmada.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q034
+    difficulty: medium
+    stem: ______ is defined as the temperature to which the air would have to cool (at constant pressure and constant water vapour content) in order to reach saturation.
+    options:
+      A: Dew point temperature
+      B: Air temperature
+      C: Relative humidity
+      D: Surface temperature
+    answer: A
+    explanation: The dew point is the temperature at which air, cooled at constant pressure and moisture content, becomes saturated.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q035
+    difficulty: medium
+    stem: Who became the first player to hit 350 sixes during IPL2021?
+    options:
+      A: AB de Villiers
+      B: MS Dhoni
+      C: Chris Gayle
+      D: Rohit Sharma
+    answer: C
+    explanation: Chris Gayle became the first batter to hit 350 sixes in the IPL, during IPL 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q036
+    difficulty: medium
+    stem: The 60th Amendment to the Constitution of India increased the ceiling of profession tax from ₹ 250 p.a. to ______ p.a.
+    options:
+      A: ₹7,000
+      B: ₹5,000
+      C: ₹1,000
+      D: ₹2,500
+    answer: D
+    explanation: The 60th Amendment (1988) raised the ceiling on profession tax under Article 276 from ₹250 to ₹2,500 a year.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q037
+    difficulty: medium
+    stem: Who among the following was named Wisden Almanack's ODI player of the 2010s in April 2021?
+    options:
+      A: Virat Kohli
+      B: Rahul Dravid
+      C: Sachin Tendulkar
+      D: MS Dhoni
+    answer: A
+    explanation: Wisden Almanack named Virat Kohli its ODI cricketer of the decade (2010s) in April 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q038
+    difficulty: medium
+    stem: The salinity of ocean waters is calculated as the amount of salt (in gm) dissolved in ______ gm of seawater.
+    options:
+      A: 10,000
+      B: "1000"
+      C: "100"
+      D: "10"
+    answer: B
+    explanation: Salinity is the grams of dissolved salt in 1,000 g (1 kg) of seawater, i.e. parts per thousand (‰).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q039
+    difficulty: medium
+    stem: What is the projected growth rate of Gross Domestic Product (GDP) for India in 2021 as given by The International Monetary Fund (IMF) in April 2021?
+    options:
+      A: 13.7%
+      B: 10.2%
+      C: 11.6%
+      D: 12.5%
+    answer: D
+    explanation: The IMF's April 2021 World Economic Outlook projected India's growth at 12.5%.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q040
+    difficulty: medium
+    stem: Who among the following is the President of Federation of Indian Chambers of Commerce and Industries (FICCI) as of April 2021?
+    options:
+      A: Uday Shankar
+      B: Deepak Parekh
+      C: Girish Chandra Chaturvedi
+      D: Rakesh Makhija
+    answer: A
+    explanation: Uday Shankar became FICCI President in December 2020 and held the post in April 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q041
+    difficulty: medium
+    stem: Which of the following is a book written by Avni Doshi?
+    options:
+      A: In Other Words
+      B: Burnt Sugar
+      C: Unaccustomed Earth
+      D: Interpreter of Maladies
+    answer: B
+    explanation: Avni Doshi wrote 'Burnt Sugar' (shortlisted for the 2020 Booker Prize); the other titles are by Jhumpa Lahiri.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q042
+    difficulty: medium
+    stem: India banned unregulated deposit schemes through an Act passed in the year ______.
+    options:
+      A: "2019"
+      B: "2016"
+      C: "2017"
+      D: "2018"
+    answer: A
+    explanation: The Banning of Unregulated Deposit Schemes Act was passed in 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q043
+    difficulty: medium
+    stem: "'Ummatt-aat' is a folk dance form performed in ______."
+    options:
+      A: Kasauli
+      B: Coorg
+      C: Itanagar
+      D: Gangtok
+    answer: B
+    explanation: Ummatt-aat is a dance of Kodava women in Coorg (Kodagu), Karnataka.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q044
+    difficulty: medium
+    stem: Who among the following Indian wrestlers became World No. 1 in 65-kg freestyle wrestling in March 2021?
+    options:
+      A: Bajrang Punia
+      B: Sushil Kumar
+      C: Yogeshwar Dutt
+      D: Pawan Kumar
+    answer: A
+    explanation: Bajrang Punia regained the world No. 1 ranking in the 65 kg freestyle category in March 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q045
+    difficulty: medium
+    stem: In which of the following years did the resolution at the Karachi Session of the Indian National Congress dwell on how Independent India's Constitution should look?
+    options:
+      A: "1931"
+      B: "1928"
+      C: "1946"
+      D: "1945"
+    answer: B
+    explanation: |-
+      **Disputed.** SSC's answer is B; our check suggests A.
+
+      The Karachi Session of 1931, presided over by Vallabhbhai Patel, passed the resolution on Fundamental Rights and Economic Policy, which outlined what India's constitution should guarantee. SSC's key marks 1928, but the session was held in 1931.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q046
+    difficulty: medium
+    stem: Which of the following is a characteristic of fibres in relation to plant anatomy?
+    options:
+      A: Possess only pitted thickenings
+      B: Possess oblique end walls
+      C: Responsible for conduction and also mechanical support
+      D: Possess various shorted cells
+    answer: A
+    explanation: Unlike tracheids (which can have annular, spiral, scalariform or reticulate thickenings), fibres have only pitted thickenings in their walls.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q047
+    difficulty: medium
+    stem: In which of the following Indian states will you find the Netarhat Mountains, also called 'Queen of Chotanagpur'?
+    options:
+      A: West Bengal
+      B: Jharkhand
+      C: Odisha
+      D: Chhattisgarh
+    answer: B
+    explanation: Netarhat, the 'Queen of Chotanagpur', is a hill station in Latehar district, Jharkhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q048
+    difficulty: medium
+    stem: Under the Jal Jeevan Mission (JJM), what is the target year to provide Functional Household Tap Connection (FHTC) to every rural household in India?
+    options:
+      A: "2025"
+      B: "2022"
+      C: "2024"
+      D: "2023"
+    answer: C
+    explanation: The Jal Jeevan Mission aims to give a functional household tap connection to every rural home by 2024.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q049
+    difficulty: medium
+    stem: ______ is one of the languages in which the denomination is printed on the reverse of a contemporary Indian currency note.
+    options:
+      A: Burmese
+      B: Sinhala
+      C: Nepali
+      D: Dzongkha
+    answer: C
+    explanation: The language panel on the reverse of Indian notes shows the denomination in 15 scheduled languages, including Nepali.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q050
+    difficulty: medium
+    stem: In which of the following towns will you find the 'Kachari Ruins'?
+    options:
+      A: Shimla
+      B: Bilaspur
+      C: Gangtok
+      D: Dimapur
+    answer: D
+    explanation: The Kachari Ruins, mushroom-shaped pillars of the Kachari kingdom, are in Dimapur, Nagaland.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-13-all-ss-shift2-q051
+    difficulty: medium
+    stem: A man bought toffees at 3 for a rupee. How many toffees for a rupee must he sell to gain 50%?
+    options:
+      A: "4"
+      B: "1"
+      C: "3"
+      D: "2"
+    answer: D
+    explanation: Cost of one toffee = ₹1/3. With a 50% gain, SP = ₹1/2 per toffee, so he must sell 2 for a rupee.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q052
+    difficulty: medium
+    stem: "Chords AB and CD of a circle intersect externally at P. If AB = 7 cm, CD = 1 cm and PD = 5 cm, then the length of PB (in cm) is:"
+    options:
+      A: "3"
+      B: "10"
+      C: "8"
+      D: "5"
+    answer: A
+    explanation: "For secants from P: PB × PA = PD × PC. So PB(PB + 7) = 5 × 6 = 30, which gives PB = 3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q053
+    difficulty: medium
+    stem: In ΔABC, AB = 7 cm, BC = 10 cm, and AC = 8 cm. If AD is the angle bisector of ∠BAC, where D is a point on BC, then DC (in cm) = ?
+    options:
+      A: 14/3
+      B: 16/3
+      C: 11/3
+      D: 17/3
+    answer: B
+    explanation: "Angle-bisector theorem: BD : DC = AB : AC = 7 : 8, so DC = 10 × 8/15 = 16/3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q054
+    difficulty: medium
+    stem: A tyre has 3 punctures. The first puncture alone would have made the tyre flat in 9 minutes, the second alone would have done it in 18 minutes, the third alone would have done it in 6 minutes. If the air leaks out at a constant rate, then how long (in minutes) does it take for all the punctures together to make it flat?
+    options:
+      A: "2"
+      B: "6"
+      C: "4"
+      D: "3"
+    answer: D
+    explanation: Combined leak rate = 1/9 + 1/18 + 1/6 = 6/18 = 1/3 of the tyre per minute, so 3 minutes.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q055
+    difficulty: medium
+    stem: The average of sixteen numbers is 48. The average of the first six of these numbers is 45 and that of the last seven numbers is 53. The seventh and the eighth numbers are, respectively, 3 and 7 greater than the ninth number. What is the average of the ninth and seventh numbers?
+    options:
+      A: "41.5"
+      B: "40.5"
+      C: "42"
+      D: "39"
+    answer: B
+    explanation: "Total 768; first six 270, last seven 371, so 7th + 8th + 9th = 127. With 9th = x: (x + 3) + (x + 7) + x = 127, so x = 39 and 7th = 42. Average = 40.5."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q056
+    difficulty: medium
+    stem: A sum of ₹4,620 is to be paid back in 2 equal annual instalments. How much is each instalment (in ₹) if the interest is compounded annually at 10% per annum?
+    options:
+      A: 2,420
+      B: 2,552
+      C: 2,662
+      D: 2,750
+    answer: C
+    explanation: 4620 = x/1.1 + x/1.21 = x × 2.1/1.21, so x = 4620 × 1.21/2.1 = ₹2,662.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q057
+    difficulty: medium
+    stem: |-
+      Study the given pie chart and answer the question that follows.
+
+      The pie chart represents the percentage-wise distribution of the total number of Vanilla cakes and Chocolate cakes sold everyday in a week. The total number of cakes sold in a week = 10500.
+
+      | Day | Share |
+      |---|---|
+      | Sunday | 20% |
+      | Monday | 8% |
+      | Tuesday | 9% |
+      | Wednesday | 22% |
+      | Thursday | 15% |
+      | Friday | 10% |
+      | Saturday | 16% |
+
+      The ratio of the number of Vanilla cakes sold to the number of Chocolate cakes sold on Saturday is 4 : 3. the selling price of one Vanilla cake is ₹8 and that of one Chocolate cake is ₹15, then the total amount earned (in ₹) by selling all Vanilla cakes and Chocolate cakes on Saturday is:
+
+      *(Figure: Pie chart of cakes sold by day of the week; shares as in the table.)*
+    options:
+      A: 14,880
+      B: 10,488
+      C: 20,000
+      D: 18,480
+    answer: D
+    explanation: "Saturday = 16% of 10500 = 1680 cakes: 960 vanilla and 720 chocolate. 960 × 8 + 720 × 15 = 7680 + 10800 = ₹18,480."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q058
+    difficulty: medium
+    stem: |-
+      In the given figure, O is the centre of the circle. ∠POQ = 54°. What is the measure (in degree) of ∠PRQ?
+
+      *(Figure: Circle with centre O; radii OP and OQ with ∠POQ = 54°; point R on the minor arc PQ near the bottom, joined to P and Q.)*
+    options:
+      A: "235"
+      B: "137"
+      C: "207"
+      D: "153"
+    answer: D
+    explanation: R lies on the minor arc, so ∠PRQ = 180° − ½ × 54° = 180° − 27° = 153°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q059
+    difficulty: medium
+    stem: "A train covers a distance of 225 km in 2½ hours at a uniform speed. The time taken by the train (in hours) to cover a distance of 630 km at the same speed is:"
+    options:
+      A: "5"
+      B: "7"
+      C: "6"
+      D: "4"
+    answer: B
+    explanation: Speed = 225 ÷ 2.5 = 90 km/h, so 630 km takes 630 ÷ 90 = 7 hours.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q060
+    difficulty: medium
+    stem: "A and B are two prime numbers such that A > B and their LCM is 209. The value of B² – A is:"
+    options:
+      A: "111"
+      B: "102"
+      C: "121"
+      D: "109"
+    answer: B
+    explanation: 209 = 11 × 19, so A = 19 and B = 11. B² − A = 121 − 19 = 102.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q061
+    difficulty: medium
+    stem: |-
+      What will be the total cost (in ₹) of polishing the curved surface of a wooden cylinder at rate of ₹50 per m², if its diameter is 70 cm and height is 6 m?
+
+      (Take π = 22/7)
+    options:
+      A: "624"
+      B: "612"
+      C: "660"
+      D: "675"
+    answer: C
+    explanation: Curved surface = 2πrh = 2 × 22/7 × 0.35 × 6 = 13.2 m². Cost = 13.2 × 50 = ₹660.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q062
+    difficulty: medium
+    stem: If 8A5146B is divisible by 88, then what is the value of AB ?
+    options:
+      A: "15"
+      B: "12"
+      C: "9"
+      D: "20"
+    answer: B
+    explanation: "88 = 8 × 11. For 8: 46B must be divisible by 8, so B = 4. For 11: (8 + 5 + 4 + 4) − (A + 1 + 6) = 14 − A = 0 mod 11, so A = 3. AB = 3 × 4 = 12."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q063
+    difficulty: medium
+    stem: "The value of {48.3 × [(4.95)² + 4.95 × 13.25]} / {[(12.55)² − (5.65)²] × 19.8} is:"
+    options:
+      A: "17.5"
+      B: "0.175"
+      C: "1.75"
+      D: "175"
+    answer: C
+    explanation: Numerator = 48.3 × 4.95 × 18.2; denominator = 18.2 × 6.9 × 19.8. Value = (48.3/6.9) × (4.95/19.8) = 7 × 0.25 = 1.75.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q064
+    difficulty: medium
+    stem: "The expression (cos⁶θ + sin⁶θ − 1)(tan²θ + cot²θ + 2) + 3 is equal to:"
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: −1
+    answer: A
+    explanation: cos⁶θ + sin⁶θ − 1 = −3sin²θcos²θ and tan²θ + cot²θ + 2 = 1/(sin²θcos²θ). The product is −3, and −3 + 3 = 0.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q065
+    difficulty: medium
+    stem: |-
+      The following bar graph shows the total number of youth (in lakhs) and the number of employed youth (in lakhs) in 5 states A, B, C, D and E.
+
+      The number of employed youth in state B is what percentage of the number of employed youth in state E?
+
+      | State | Youth | Employed youth |
+      |---|---|---|
+      | A | 12 | 10.5 |
+      | B | 8 | 7 |
+      | C | 11.5 | 10 |
+      | D | 10 | 7.5 |
+      | E | 9 | 8 |
+
+      *(Figure: Grouped bar graph, Population (in Lakhs) vs States; values as in the table.)*
+    options:
+      A: 87%
+      B: 85%
+      C: 88.5%
+      D: 87.5%
+    answer: D
+    explanation: "Employed youth: B = 7, E = 8 lakh. 7/8 × 100 = 87.5%."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q066
+    difficulty: medium
+    stem: "From a point P on a level ground, the angle of elevation of the top of the tower is 30°. If the distance of point P from the foot of the tower is 510 m, then 50% of the height of the tower (in m) is:"
+    options:
+      A: "85"
+      B: 85√3/3
+      C: 85√3
+      D: 150√3
+    answer: C
+    explanation: Height = 510 × tan 30° = 510/√3 = 170√3 m, so half the height = 85√3 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q067
+    difficulty: medium
+    stem: |-
+      The following bar graph shows the total number of youth (in lakhs) and the number of employed youth (in lakhs) in 5 states A, B, C, D and E.
+
+      How many youth (in lakhs) are unemployed in states A and C taken together?
+
+      | State | Youth | Employed youth |
+      |---|---|---|
+      | A | 12 | 10.5 |
+      | B | 8 | 7 |
+      | C | 11.5 | 10 |
+      | D | 10 | 7.5 |
+      | E | 9 | 8 |
+
+      *(Figure: Grouped bar graph, Population (in Lakhs) vs States; values as in the table.)*
+    options:
+      A: "2.8"
+      B: "3"
+      C: "2.25"
+      D: "2.85"
+    answer: B
+    explanation: "Unemployed = youth − employed: A = 12 − 10.5 = 1.5 and C = 11.5 − 10 = 1.5, so 3 lakh in total."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q068
+    difficulty: medium
+    stem: In ΔABC, D is a point on side BC such that ∠ADC = ∠BAC. If CA = 15 cm and CD = 9 cm, then CB (in cm) = ?
+    options:
+      A: "15"
+      B: "25"
+      C: "12"
+      D: "10"
+    answer: B
+    explanation: "ΔCAD ~ ΔCBA (common ∠C, ∠ADC = ∠BAC), so CA² = CD × CB: 225 = 9 × CB, giving CB = 25."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q069
+    difficulty: medium
+    stem: "If 2√2x³ − 3√3y³ = (√2x − √3y)(Ax² − Bxy + Cy²), then the value of (A² + B² + C²) is:"
+    options:
+      A: "16"
+      B: "11"
+      C: "19"
+      D: "18"
+    answer: C
+    explanation: (√2x)³ − (√3y)³ = (√2x − √3y)(2x² + √6xy + 3y²), so A = 2, B = −√6, C = 3 and A² + B² + C² = 4 + 6 + 9 = 19.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q070
+    difficulty: medium
+    stem: |-
+      The given histogram shows the heights of 232 students of an athletic club and their numbers. Study the histogram carefully and answer the questions that follows.
+
+      Histogram showing the heights of children of an athletic club and their numbers
+
+      | Heights h (in cm) | Frequency |
+      |---|---|
+      | 120-125 | 20 |
+      | 125-130 | 15 |
+      | 130-135 | 17 |
+      | 135-140 | 30 |
+      | 140-145 | 45 |
+      | 145-150 | 10 |
+      | 150-155 | 35 |
+      | 155-160 | 28 |
+      | 160-165 | 20 |
+      | 165-170 | 12 |
+
+      What is the average height (in cm) of 32 tallest students of the athletic club?
+
+      Express your answer correct to one place of decimal.
+
+      *(Figure: Histogram of heights; values as in the table.)*
+    options:
+      A: "165.4"
+      B: "167.4"
+      C: "166.4"
+      D: "164.4"
+    answer: D
+    explanation: "The 32 tallest are 12 in 165–170 and 20 in 160–165. Using midpoints: (12 × 167.5 + 20 × 162.5) ÷ 32 = 5260 ÷ 32 ≈ 164.4 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q071
+    difficulty: medium
+    stem: P and Q start a shop with a capital of ₹1,50,000 and ₹4,50,000, respectively. After a year, out of the profit of ₹1,60,000, P gets his share of profit plus some money that is not a part of the profit, as his salary. If P gets a total of ₹70,000, what is the salary (in ₹) he received?
+    options:
+      A: 40,000
+      B: 30,000
+      C: 25,000
+      D: 50,000
+    answer: B
+    explanation: "Capital ratio 1 : 3, so P's profit share = ¼ × 1,60,000 = 40,000. Salary = 70,000 − 40,000 = ₹30,000."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q072
+    difficulty: medium
+    stem: If x + y + z = 18, xyz = 81 and xy + yz + zx = 90, then find the value of ⁴√(x³ + y³ + z³ + xyz).
+    options:
+      A: "6"
+      B: "12"
+      C: "9"
+      D: "10"
+    answer: A
+    explanation: x³ + y³ + z³ − 3xyz = 18 × (18² − 3 × 90) = 18 × 54 = 972, so x³ + y³ + z³ = 972 + 243 = 1215. Adding xyz gives 1296 = 6⁴.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q073
+    difficulty: medium
+    stem: "If 5 sin θ − 4 cos θ = 0, 0° < θ < 90°, then the value of (5 sin θ − cos θ)/(5 sin θ + 3 cos θ) is:"
+    options:
+      A: 2/7
+      B: 3/7
+      C: 6/7
+      D: 4/7
+    answer: B
+    explanation: "tan θ = 4/5. Divide through by cos θ: (5tanθ − 1)/(5tanθ + 3) = (4 − 1)/(4 + 3) = 3/7."
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q074
+    difficulty: medium
+    stem: A shopkeeper marks an article at a price 20% higher than its cost price and allows 10% discount. Find his gain percentage.
+    options:
+      A: 9.5%
+      B: 8%
+      C: 9%
+      D: 10%
+    answer: B
+    explanation: SP = 1.2 × 0.9 = 1.08 × CP, a gain of 8%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q075
+    difficulty: medium
+    stem: A spends 65% of his income. His income is increased by 20.1% and the expenditure is increased by 20%. By what per cent (correct to one decimal place) does his saving increase or decrease?
+    options:
+      A: Increase by 20.3%
+      B: Decrease by 17.7%
+      C: Increase by 21.5%
+      D: Decrease by 18.9%
+    answer: A
+    explanation: Income 100, expenditure 65, saving 35. New income 120.1, new expenditure 78, new saving 42.1. Increase = 7.1/35 ≈ 20.3%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-13-all-ss-shift2-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Succulent
+    options:
+      A: Decent
+      B: Coarse
+      C: Juicy
+      D: Foul
+    answer: C
+    explanation: "'Succulent' means juicy and tender."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q077
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'.
+
+      Many **a man has** succumbed to his temptations.
+    options:
+      A: men has
+      B: a men have
+      C: man has
+      D: No improvement required
+    answer: D
+    explanation: "'Many a' takes a singular noun and singular verb: 'Many a man has' is correct."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q078
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Sharpness and accuracy of judgment
+    options:
+      A: Experience
+      B: Estimation
+      C: Acumen
+      D: Knowledge
+    answer: C
+    explanation: Acumen is sharpness and accuracy of judgment.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Hold the key
+    options:
+      A: To own a property
+      B: To keep a secret
+      C: To have control of something
+      D: To have the right of succession
+    answer: C
+    explanation: To 'hold the key' is to have control of something, or to be the deciding factor.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q080
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don't find any error, mark 'No error' as your answer.
+
+      My neighbour's grandson / is only / five month old.
+    options:
+      A: No error
+      B: My neighbour's grandson
+      C: is only
+      D: five month old
+    answer: D
+    explanation: "With a plural number the noun must be plural: 'five months old'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q081
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'.
+
+      My father was always **ordering about my sister.**
+    options:
+      A: ordering on my sister
+      B: ordering my sister about
+      C: No improvement required
+      D: giving order for my sister
+    answer: B
+    explanation: "The phrasal verb is 'order someone about': 'ordering my sister about'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q082
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Correspondence
+      B: Miscellaneous
+      C: Exclaimation
+      D: Disciplinarian
+    answer: C
+    explanation: The correct spelling is 'Exclamation'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q083
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Something that is strong and lasts a long time without breaking or becoming weaker.
+    options:
+      A: Durable
+      B: Harsh
+      C: Pliable
+      D: Secure
+    answer: A
+    explanation: Durable means strong and long-lasting.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      You should / have respond / to my query / sooner.
+    options:
+      A: to my query
+      B: You should
+      C: have respond
+      D: sooner
+    answer: C
+    explanation: "After 'should have' we need the past participle: 'should have responded'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q085
+    difficulty: medium
+    stem: |-
+      Select the option that gives the most appropriate meaning of the underlined idiom.
+
+      My friends succeeded because they **left no stone unturned** in their search for an answer to the problem.
+    options:
+      A: depended on many people
+      B: made every possible effort
+      C: looked in different places
+      D: proposed good plans
+    answer: B
+    explanation: To 'leave no stone unturned' is to make every possible effort.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q086
+    difficulty: medium
+    stem: |-
+      Select the correct passive voice of the given sentence.
+
+      She is making a beautiful beaded curtain.
+    options:
+      A: A beautiful beaded curtain was being made by her.
+      B: A beautiful beaded curtain was made by her.
+      C: A beautiful beaded curtain is being made by her.
+      D: A beautiful beaded curtain is made by her.
+    answer: C
+    explanation: Present continuous active (is making) becomes 'is being made' in the passive.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q087
+    difficulty: medium
+    stem: |-
+      Select the correct active voice of the given sentence.
+
+      Rohan was pushed into the pool by Karan.
+    options:
+      A: Karan was pushing Rohan into the pool.
+      B: Rohan had pushed Karan into the pool.
+      C: Karan pushed Rohan into the pool.
+      D: Rohan pushed Karan into the pool.
+    answer: C
+    explanation: "The doer, Karan, becomes the subject in the simple past: 'Karan pushed Rohan into the pool.'"
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Rectify
+    options:
+      A: Corrupt
+      B: Select
+      C: Correct
+      D: Assist
+    answer: A
+    explanation: "'Rectify' means to correct; its opposite is to corrupt."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q089
+    difficulty: medium
+    stem: |-
+      Select the correct indirect speech form of the given sentence.
+
+      The teacher said, "You must work hard for your exams."
+    options:
+      A: The teacher was advising her students to do work hard for their exams.
+      B: The teacher told students for working hard for their exams.
+      C: The teacher was telling her students to work hard for their exams.
+      D: The teacher advised her students to work hard for their exams.
+    answer: D
+    explanation: "'You must' in advice is reported with 'advised', and 'your' becomes 'their'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q090
+    difficulty: medium
+    stem: |-
+      Arrange the statements in the correct order to make a meaningful paragraph.
+
+      A. But, in developed societies, the childhood and adolescence is extended.  
+      B. In rural communities, the customs are more uniform.  
+      C. This provides more opportunities for education and character development.  
+      D. The practices of child rearing vary from culture to culture.
+    options:
+      A: DABC
+      B: BADC
+      C: DBAC
+      D: BCDA
+    answer: C
+    explanation: D introduces the topic (child rearing varies), B describes rural communities, A contrasts developed societies, and C explains what this extended period provides.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Disrupt
+    options:
+      A: Breach
+      B: Injure
+      C: Arrange
+      D: Organise
+    answer: A
+    explanation: To 'disrupt' is to break or interrupt; 'breach' is the closest meaning.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q092
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      The crew / of sailors / were not perturbed / by the strong gale.
+    options:
+      A: of sailors
+      B: by the strong gale
+      C: The crew
+      D: were not perturbed
+    answer: D
+    explanation: "'Crew' here is a collective noun acting as one unit, so it takes a singular verb: 'was not perturbed'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q093
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      The manager said, "Could you please / confirm me whether you / have received all the items / that you had ordered?"
+    options:
+      A: The manager said, ‘Could you please
+      B: that you had ordered
+      C: have received all the items
+      D: confirm me whether you
+    answer: D
+    explanation: "'Confirm' does not take a personal object directly; it should be 'confirm to me whether'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q094
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Contrary
+      B: Terribal
+      C: Longitude
+      D: Manners
+    answer: B
+    explanation: The correct spelling is 'Terrible'.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Negligent
+    options:
+      A: Faithful
+      B: Strange
+      C: Indifferent
+      D: Careful
+    answer: D
+    explanation: "'Negligent' means careless; its opposite is 'careful'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The greedy man rushed home to tell his wife and daughter about his wish, all the (1) ______ touching the objects in his path and watching (2) ______ convert into gold. Once he got home, his daughter (3) ______ to greet him. As soon as he bent (4) ______ to scoop her up in his arms, she turned into a golden statue. He was (5) ______ and started crying and trying to bring his daughter back to life.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: while
+      B: wayside
+      C: interval
+      D: bit
+    answer: A
+    explanation: "'All the while' means throughout that time, i.e. while he was touching the objects."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The greedy man rushed home to tell his wife and daughter about his wish, all the (1) ______ touching the objects in his path and watching (2) ______ convert into gold. Once he got home, his daughter (3) ______ to greet him. As soon as he bent (4) ______ to scoop her up in his arms, she turned into a golden statue. He was (5) ______ and started crying and trying to bring his daughter back to life.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: there
+      B: them
+      C: their
+      D: those
+    answer: B
+    explanation: The objects are the thing turning into gold, so the object pronoun 'them' is needed.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The greedy man rushed home to tell his wife and daughter about his wish, all the (1) ______ touching the objects in his path and watching (2) ______ convert into gold. Once he got home, his daughter (3) ______ to greet him. As soon as he bent (4) ______ to scoop her up in his arms, she turned into a golden statue. He was (5) ______ and started crying and trying to bring his daughter back to life.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: rushing
+      B: was rush
+      C: has rushed
+      D: rushed
+    answer: D
+    explanation: "The narrative is in the simple past: 'his daughter rushed to greet him'."
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The greedy man rushed home to tell his wife and daughter about his wish, all the (1) ______ touching the objects in his path and watching (2) ______ convert into gold. Once he got home, his daughter (3) ______ to greet him. As soon as he bent (4) ______ to scoop her up in his arms, she turned into a golden statue. He was (5) ______ and started crying and trying to bring his daughter back to life.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: along
+      B: up
+      C: through
+      D: down
+    answer: D
+    explanation: He 'bent down' to scoop his daughter up in his arms.
+    tags:
+      - english
+  - slug: cgl-2022-04-13-all-ss-shift2-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The greedy man rushed home to tell his wife and daughter about his wish, all the (1) ______ touching the objects in his path and watching (2) ______ convert into gold. Once he got home, his daughter (3) ______ to greet him. As soon as he bent (4) ______ to scoop her up in his arms, she turned into a golden statue. He was (5) ______ and started crying and trying to bring his daughter back to life.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: demolished
+      B: devastated
+      C: determined
+      D: destroyed
+    answer: B
+    explanation: Seeing his daughter turned to gold, he was devastated (overwhelmed with grief).
+    tags:
+      - english
