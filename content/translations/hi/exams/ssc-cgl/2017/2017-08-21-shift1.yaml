@@ -1,0 +1,779 @@
+slug: 2017-08-21-shift1
+title: एसएससी सीजीएल 2017 टियर 1
+date: 2017-08-21
+label: 21 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/17030a92-9e92-11e9-9913-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-21-s1-q001
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित शब्द को चुनिए।
+
+      गाय : बछड़ा :: मुर्गी : ?
+    options:
+      A: चूज़ा
+      B: मुर्गा
+      C: अंडा
+      D: मक्खी
+    answer: A
+    explanation: A calf is the young one of a cow; the young one of a hen is a chick.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q002
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।
+
+      DHL : AEI :: QUY : ?
+    options:
+      A: MQU
+      B: NRV
+      C: OSW
+      D: PTX
+    answer: B
+    explanation: "Each letter moves 3 places back: D→A, H→E, L→I. So Q→N, U→R, Y→V gives NRV."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q003
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से संबंधित संख्या को चुनिए।
+
+      0.5 : 2 :: 0.125 : ?
+    options:
+      A: "6"
+      B: "16"
+      C: "8"
+      D: "12"
+    answer: C
+    explanation: 2 is the reciprocal of 0.5; the reciprocal of 0.125 is 8.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q004
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम शब्द को चुनिए।
+    options:
+      A: पुस्तक
+      B: पन्ना
+      C: कलम
+      D: डायरी
+    answer: C
+    explanation: A book, a page and a diary are made of paper and written on; a pen is the writing tool.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q005
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम अक्षरों को चुनिए।
+    options:
+      A: EGI
+      B: MOQ
+      C: UWY
+      D: NLJ
+    answer: D
+    explanation: EGI, MOQ and UWY go forward in steps of 2; NLJ goes backward in steps of 2.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q006
+    difficulty: medium
+    stem: दिए गए विकल्पों में से विषम संख्या को चुनिए।
+    options:
+      A: "47"
+      B: "41"
+      C: "59"
+      D: "63"
+    answer: D
+    explanation: 47, 41 and 59 are prime numbers; 63 = 7 × 9 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q010
+    difficulty: medium
+    stem: मीतू का जन्मदिन 8 मार्च बुधवार को है। उसी वर्ष ऋतु का जन्मदिन सप्ताह के किस दिन को आएगा यदि ऋतु का जन्म 10 जुलाई को हुआ है?
+    options:
+      A: सोमवार
+      B: बुधवार
+      C: शुक्रवार
+      D: शनिवार
+    answer: A
+    explanation: From 8 March to 10 July is 23 + 30 + 31 + 30 + 10 = 124 days, which is 5 odd days. Wednesday + 5 = Monday.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q012
+    difficulty: medium
+    stem: |-
+      निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता:
+
+      DUPLICATE
+    options:
+      A: PLATE
+      B: DUCTILE
+      C: LUCID
+      D: TEAM
+    answer: D
+    explanation: DUPLICATE has no letter M, so TEAM cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q013
+    difficulty: medium
+    stem: यदि PRIMATE को किसी कोड में MOFJXQB लिखा जाता है, तो COW को उसी कोड में क्या लिखा जाएगा?
+    options:
+      A: ZLT
+      B: EDC
+      C: RFV
+      D: TGB
+    answer: A
+    explanation: Each letter moves 3 places back (P→M, R→O, I→F, ...). So C→Z, O→L, W→T gives ZLT.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q014
+    difficulty: medium
+    stem: |-
+      किसी कोड भाषा में, '+' का मतलब '×' है, '−' का मतलब '+' है, '×' का मतलब '÷' है और '÷' का मतलब '−' है। निम्नलिखित प्रश्न का उत्तर क्या है?
+
+      11 + 50 − 150 ÷ 200 = ?
+    options:
+      A: "200"
+      B: "500"
+      C: "250"
+      D: "50"
+    answer: B
+    explanation: "After swapping the signs: 11 × 50 + 150 − 200 = 550 + 150 − 200 = 500."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q015
+    difficulty: medium
+    stem: यदि 7×1=12; 5×4=2; 6×4=4; तो 7×4 = ? का मान ज्ञात कीजिये।
+    options:
+      A: "8"
+      B: "6"
+      C: "11"
+      D: "28"
+    answer: B
+    explanation: "The rule is (a − b) × 2: 7×1 → 6 × 2 = 12, 5×4 → 1 × 2 = 2, 6×4 → 2 × 2 = 4. So 7×4 → 3 × 2 = 6."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q017
+    difficulty: medium
+    stem: एक व्यक्ति 7 कि.मी. पूर्व की ओर साइकिल चलाता है, फिर दक्षिण की ओर मुड़कर 12 कि.मी. साइकिल चलाता है, फिर पश्चिम की ओर मुड़कर 7 कि.मी. साइकिल चलाता है और फिर अपनी बाईं ओर मुड़कर 10 कि.मी. साइकिल चलाता है। वह अपनी प्रारंभिक स्थिति से अब कहां है?
+    options:
+      A: 22 कि.मी. दक्षिण
+      B: 2 कि.मी. दक्षिण
+      C: 22 कि.मी. पूर्व
+      D: 2 कि.मी. पूर्व
+    answer: A
+    explanation: The 7 km east and 7 km west cancel. Turning left while heading west means heading south, so he is 12 + 10 = 22 km south.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q018
+    difficulty: medium
+    stem: |-
+      प्रश्न में दो कथन दिये गये हैं जिसके आगे दो निष्कर्ष I और II निकाले गये हैं। आपको मानना है कि दोनो कथन सत्य है चाहे वह सामान्यत: ज्ञात तथ्यों से भिन्न प्रतीत होते हों। आपको निर्णय करना है कि दिए गए निष्कर्षों में से कौन-सा/कौन-से निश्चित रूप से कथन द्वारा सही निकाला जा सकता है/सकते हैं, यदि कोई हो।
+
+      कथन 1: सभी स्टील लोहा है।
+      कथन 2: कोई लोहा ठोस नहीं है।
+
+      निष्कर्ष I : कोई स्टील ठोस नहीं है।
+      निष्कर्ष II : कुछ लोहा स्टील है।
+    options:
+      A: केवल निष्कर्ष I सही है
+      B: केवल निष्कर्ष II सही है
+      C: दोनों निष्कर्ष I और II सही है
+      D: ना तो निष्कर्ष I सही है ना ही निष्कर्ष II
+    answer: C
+    explanation: All steel is iron and no iron is solid, so no steel is solid (I). By conversion, "all steel is iron" gives "some iron is steel" (II). Both follow.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q020
+    difficulty: medium
+    stem: |-
+      निम्नलिखित आकृति में, वर्ग एथलीट्स को दर्शाता है, त्रिभुज इंजीनियर्स को दर्शाता है, वृत्त पिताओं को दर्शाता है और आयत उद्यमियों को दर्शाता है। अक्षरों का कौन सा समूह उन एथलीट्स को दर्शाता है जो या तो उद्यमी हैं या पिता हैं?
+
+      *(चित्र: Overlapping shapes: a triangle (A alone at its top, B where it overlaps the square), a square (C alone; D where it overlaps the circle), a long horizontal rectangle at bottom-left (G alone; F inside the square; E inside square, circle and rectangle; H inside rectangle and circle below the square), and a circle at right (I alone).)*
+    options:
+      A: F,E,D
+      B: D,E,F,G,H,I
+      C: G,H,I
+      D: E,H
+    answer: A
+    explanation: The athletes (square) who are also fathers (circle) or entrepreneurs (rectangle) are in regions D, E and F.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q025
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि दिए गए दो आव्यूहों में है। आव्यूह-I के स्तम्भ और पंक्ति की संख्या 0 से 4 और आव्यूह-II की 5 से 9 है। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदहारण के लिए 'Y' को 55, 87 आदि द्वारा दर्शाया जा सकता है तथा 'Z' को 14, 01 आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए शब्द 'VERY' के लिए समूह को पहचानना है।
+
+      आव्यूह - I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | W | Z | G | T | D |
+      | 1 | S | R | W | G | Z |
+      | 2 | X | F | S | D | E |
+      | 3 | Q | V | C | S | F |
+      | 4 | A | T | Q | Q | A |
+
+      आव्यूह - II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | Y | N | L | I | Y |
+      | 6 | H | I | P | J | I |
+      | 7 | B | K | O | N | O |
+      | 8 | U | M | Y | B | P |
+      | 9 | J | O | H | L | K |
+
+      *(चित्र: Two 5×5 letter matrices printed as an image; reproduced as tables.)*
+    options:
+      A: 01,43,21,78
+      B: 31,24,11,87
+      C: 11,20,66,85
+      D: 88,56,43,20
+    answer: B
+    explanation: In option B, 31 = V, 24 = E, 11 = R and 87 = Y, which spells VERY.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q026
+    difficulty: medium
+    stem: किसी निम्नस्तरीय वस्तु की मांग में गिरावट, उपभोक्ता की आय में _________ के साथ होती है।
+    options:
+      A: वृद्धि
+      B: गिरावट
+      C: स्थिर
+      D: दुगना
+    answer: A
+    explanation: Demand for an inferior good falls as income rises (a negative income effect).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q027
+    difficulty: medium
+    stem: अधिकार वस्तु जिनका चयन उपभोक्ता करता है, उसकी मात्रा में वृद्धि होती है, जब उपभोक्ता की आय में वृद्धि होती है और वस्तु की मात्रा में कमी आती है जब उपभोक्ता की आय में कमी आती है, क्या कहलाती हैं?
+    options:
+      A: निम्नस्तरीय वस्तुएं
+      B: सामान्य वस्तुएं
+      C: पूरक वस्तुएं
+      D: स्थानापन्न वस्तुएं
+    answer: B
+    explanation: Normal goods are those whose demand rises with income and falls when income falls.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q028
+    difficulty: medium
+    stem: '"पशुओं के प्रति क्रूरता की रोकथाम" भारत के संविधान की सातवीं अनुसूची में दी गयी ____ सूची में सूचीबद्ध है।'
+    options:
+      A: केंद्रीय
+      B: राज्य
+      C: विश्व
+      D: समवर्ती
+    answer: D
+    explanation: '"Prevention of cruelty to animals" is entry 17 of the Concurrent List (List III).'
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q029
+    difficulty: medium
+    stem: _________ संघ सूची और समवर्ती सूची के विषयों पर कानून बनाती है।
+    options:
+      A: लोक सभा
+      B: रक्षा मंत्रालय
+      C: प्रधानमन्त्री कार्यालय
+      D: भारतीय प्रतिभूति और विनिमय बोर्ड
+    answer: A
+    explanation: Parliament, of which the Lok Sabha is a House, makes laws on Union List and Concurrent List subjects.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q030
+    difficulty: medium
+    stem: चोल अभिलेखों में उल्लेखित भूमि की विभिन्न कोटियों के अनुसार _____ को किसी विद्यालय के रखरखाव की भूमि कहा जाता था।
+    options:
+      A: वेल्लनवगाई
+      B: ब्रह्मदेय
+      C: शालाभोग
+      D: देवदान
+    answer: C
+    explanation: In Chola inscriptions, shalabhoga was land set apart for the upkeep of a school.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q031
+    difficulty: medium
+    stem: राजकुमार सलीम आगे चलकर सम्राट _____ कहलाया।
+    options:
+      A: बाबर
+      B: हुमायूं
+      C: जहांगीर
+      D: अकबर
+    answer: C
+    explanation: Prince Salim, Akbar's son, became Emperor Jahangir in 1605.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q032
+    difficulty: medium
+    stem: पृथ्वी की सतह पर शैलों के टूटने से ____ की क्रिया होती है।
+    options:
+      A: अपरदन
+      B: अपक्षय
+      C: संघर्षण
+      D: अपघर्षण
+    answer: B
+    explanation: Weathering is the breaking up of rocks in place on the earth's surface; erosion carries the pieces away.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q033
+    difficulty: medium
+    stem: मृदा संरक्षण की उस विधि को क्या कहते हैं जिसमें तटीय प्रदेशों और शुष्क प्रदेशों में पवन गति को रोकने के लिए वृक्ष कतारों में लगाए जाते हैं ताकि मृदा आवरण को बचाया जा सके?
+    options:
+      A: मल्च बनाना
+      B: समोच्चरेखीय रोधिकाएं
+      C: चट्टान बांध
+      D: रक्षक मेखलाएं
+    answer: D
+    explanation: Shelter belts are rows of trees planted to break the wind and protect the soil in coastal and dry areas.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q034
+    difficulty: medium
+    stem: "जैविक नाम प्राय: किस भाषा से प्राप्त होते हैं?"
+    options:
+      A: फ्रांसीसी
+      B: लैटिन
+      C: मेक्सिकैन
+      D: जर्मन
+    answer: B
+    explanation: Scientific (biological) names follow binomial nomenclature and are Latin or Latinised.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q035
+    difficulty: medium
+    stem: "रोडोफाइसी के सदस्यों को प्राय: ______ शैवाल कहते हैं।"
+    options:
+      A: हरा
+      B: भूरा
+      C: लाल
+      D: पीला
+    answer: C
+    explanation: Rhodophyceae are the red algae, coloured by the pigment r-phycoerythrin.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q036
+    difficulty: medium
+    stem: ओरेलिया (मेडुसा) और एडमसिया (पालिप) किस संघ के उदाहरण हैं?
+    options:
+      A: टीनोफोर
+      B: ऐनेलिडा
+      C: सिलेन्ट्रेटा
+      D: एस्केलमिन्थीज़
+    answer: C
+    explanation: Aurelia (a jellyfish, medusa) and Adamsia (a sea anemone, polyp) belong to Coelenterata (Cnidaria).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q037
+    difficulty: medium
+    stem: जब हम किसी मशीन का उपयोग करते हैं, तो घर्षण से उत्पन्न ऊष्मा नष्ट हो जाती है। यह ऊष्मा ____ के कारण उत्पन्न होती है।
+    options:
+      A: जलना
+      B: घर्षण
+      C: दहन
+      D: उपस्नेहन
+    answer: B
+    explanation: Friction between the moving parts of a machine turns some energy into heat.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q038
+    difficulty: medium
+    stem: आपतित किरण, आपतन बिंदु पर ______ और परावर्तित किरण सभी एक तल में होते हैं।
+    options:
+      A: पृष्ठ
+      B: स्पर्श-रेखा
+      C: अभिलम्ब
+      D: परावर्तन कोण
+    answer: C
+    explanation: By the laws of reflection, the incident ray, the normal at the point of incidence and the reflected ray lie in one plane.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q039
+    difficulty: medium
+    stem: माइक्रोसॉफ्ट वर्ड में, ________ हमें चुने गए पैराग्राफ को दाईं ओर खिसकाने की अनुमति देता है।
+    options:
+      A: डीक्रीज इंडेंट
+      B: इनक्रीज इंडेंट
+      C: दोगुना इंडेंट
+      D: एकल इंडेंट
+    answer: B
+    explanation: '"Increase Indent" moves the selected paragraphs to the right; "Decrease Indent" moves them to the left.'
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q040
+    difficulty: medium
+    stem: निम्नलिखित में से तूतिया किसका अन्य नाम है?
+    options:
+      A: कॉपर सल्फेट
+      B: ऑक्सीजन
+      C: कॉपर
+      D: मैग्नीशियम ऑक्साइड
+    answer: A
+    explanation: Blue vitriol is copper sulphate pentahydrate, CuSO₄·5H₂O.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q041
+    difficulty: medium
+    stem: माचिस की रगड़ने वाली सतह पर चूर्णित कांच और थोड़ा लाल _____ लगाते हैं।
+    options:
+      A: एन्टिमनी
+      B: आर्सेनिक
+      C: सिलिकॉन
+      D: फॉस्फोरस
+    answer: D
+    explanation: A matchbox's striking surface has powdered glass and a little red phosphorus.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q042
+    difficulty: medium
+    stem: कुछ जीव तापमानों के व्यापक परास (चरम) सहन कर सकते हैं और उसमें खूब बढ़ते हैं। ये ______ कहलाते हैं।
+    options:
+      A: परासरणी
+      B: पृथुताजापी
+      C: तनुतापी
+      D: उष्णजलीय
+    answer: B
+    explanation: Organisms that tolerate a wide range of temperatures are eurythermal; those with a narrow range are stenothermal.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q043
+    difficulty: medium
+    stem: केंद्र सरकार द्वारा शुरू की गयी _____ योजना का उद्देश्य भारत के सभी राज्यों, क्षेत्रों और जिलों के बीच संबंधों को मज़बूत करना है।
+    options:
+      A: उदय देश का आम नागरिक
+      B: उर्जा गंगा
+      C: एक भारत श्रेष्ठ भारत
+      D: नमामि गंगा योजना
+    answer: C
+    explanation: Ek Bharat Shreshtha Bharat (2015) pairs states and UTs to strengthen bonds between the regions of India.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q044
+    difficulty: medium
+    stem: वेल्क्रो का आविष्कार किसने किया?
+    options:
+      A: थॉमस एडिसन
+      B: विलियम हार्वे
+      C: जॉर्ज दे मेस्त्रल
+      D: रॉबर्ट बॉयल्स
+    answer: C
+    explanation: Swiss engineer George de Mestral invented Velcro (patented in 1955).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q045
+    difficulty: medium
+    stem: वर्ष 2018 में होने वाले फीफा विश्व कप (पुरुष) की मेजबानी कौन सा देश करेगा?
+    options:
+      A: जापान
+      B: दक्षिण कोरिया
+      C: चीन
+      D: रूस
+    answer: D
+    explanation: Russia hosted the 2018 FIFA World Cup.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q046
+    difficulty: medium
+    stem: चारमीनार का निर्माण किसने किया था?
+    options:
+      A: हुमायूं
+      B: मोहम्मद कुली कुतुब शाह
+      C: अशोक
+      D: नरसिंह
+    answer: B
+    explanation: Muhammad Quli Qutb Shah built the Charminar in Hyderabad in 1591.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q047
+    difficulty: medium
+    stem: भारतीय सेना द्वारा निम्नलिखित में से कौन सा पदक युद्ध क्षेत्र से दूर बहादुरी, साहसपूर्ण कार्रवाई या आत्म-त्याग के लिए प्रदान किया जाता है?
+    options:
+      A: अशोक चक्र
+      B: दादा साहेब फाल्के पुरस्कार
+      C: अर्जुन पुरस्कार
+      D: पद्म श्री
+    answer: A
+    explanation: The Ashoka Chakra is India's highest peacetime gallantry award, for valour away from the battlefield.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q048
+    difficulty: medium
+    stem: |-
+      निचे दिये गये कथनों में से कौन से कथन सही हैं?
+
+      1. उपन्यास 'एक्सलेरांडो' के लेखक चार्ल्स स्ट्रोस हैं।
+      2. उपन्यास 'द वाइंडअप गर्ल' के लेखक पाओलो बैकीगलुपी हैं।
+      3. उपन्यास 'द डेविल इन सिल्वर' के लेखक जोश मलेर्मन हैं।
+    options:
+      A: 1 और 2
+      B: 2 और 3
+      C: 1 और 3
+      D: 1, 2 और 3
+    answer: A
+    explanation: Accelerando is by Charles Stross and The Windup Girl by Paolo Bacigalupi; The Devil in Silver is by Victor LaValle, not Josh Malerman.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q049
+    difficulty: medium
+    stem: मार्च 2017 में, किस देश में "दुनिया का सबसे बड़ा कृत्रिम सूरज" विकसित किया था?
+    options:
+      A: चीन
+      B: यूएसए
+      C: जर्मनी
+      D: रूस
+    answer: C
+    explanation: Germany's DLR switched on "Synlight", the world's largest artificial sun, at Jülich in March 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q050
+    difficulty: medium
+    stem: भारत के अलावा बांग्लादेश अपनी सीमा को किस देश के साथ साझा करता है?
+    options:
+      A: चीन
+      B: लाओस
+      C: भूटान
+      D: म्यान्मार
+    answer: D
+    explanation: Besides India, Bangladesh shares a land border only with Myanmar.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q051
+    difficulty: medium
+    stem: 329 में कौनसी न्यूनतम संख्या को जोड़ा जाना चाहिए, ताकि राशि 7 से पूर्णतः विभाज्य हो।
+    options:
+      A: "1"
+      B: "0"
+      C: "2"
+      D: "3"
+    answer: B
+    explanation: 329 = 7 × 47, so it is already divisible by 7 and nothing needs to be added.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q052
+    difficulty: medium
+    stem: A एक काम को 15 दिनों में और B 30 दिनों में कर सकता है। यदि वे इसे एक साथ मिलकर करते हैं, तो वे कितने दिनों में 50% काम करने में सक्षम होंगे?
+    options:
+      A: "5"
+      B: "6"
+      C: "4"
+      D: "3"
+    answer: A
+    explanation: Together they do 1/15 + 1/30 = 1/10 of the work a day, so half the work takes 5 days.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q053
+    difficulty: medium
+    stem: 10 सें.मी. भुजा वाले समबाहु त्रिकोण का क्षेत्रफल (वर्ग सें.मी. में) क्या है?
+    options:
+      A: 25√3
+      B: 50√3
+      C: 75√3
+      D: 10√3
+    answer: A
+    explanation: Area = (√3/4) × 10² = 25√3 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q054
+    difficulty: medium
+    stem: 15% और 50% की लगातार दो छूट देने पर प्रभावी छूट (% में) क्या होगी?
+    options:
+      A: "65"
+      B: "57.5"
+      C: "35"
+      D: "42.5"
+    answer: B
+    explanation: Effective discount = 1 − 0.85 × 0.5 = 0.575, that is 57.5%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q055
+    difficulty: medium
+    stem: 42,500 रु के लाभ को 3:5:9 के अनुपात में तीन भागीदारों A, B और C के बीच विभाजित किया जाना है। A को कितना (रु में) मिलता है?
+    options:
+      A: "12500"
+      B: "9500"
+      C: "22500"
+      D: "7500"
+    answer: D
+    explanation: A's share = 3/17 × 42500 = ₹7500.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q056
+    difficulty: medium
+    stem: A, B और C का औसत वजन 49 कि.ग्रा. है। यदि A और B बी का औसत वजन 35 कि.ग्रा. है और B और C का 62 कि.ग्रा. है, तो B का वजन (कि.ग्रा में) कितना है?
+    options:
+      A: "47"
+      B: "45"
+      C: "43"
+      D: "49"
+    answer: A
+    explanation: A + B = 70 and B + C = 124, and A + B + C = 147, so B = 70 + 124 − 147 = 47 kg.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q057
+    difficulty: medium
+    stem: एक दुकानदार 6 वस्तु बेचकर 1 वस्तु की बिक्री मूल्य के बराबर लाभ कमाता है। उसका लाभ प्रतिशत कितना है?
+    options:
+      A: "20"
+      B: "25"
+      C: "30"
+      D: "35"
+    answer: A
+    explanation: Profit on 6 items = SP of 1 item, so CP of 6 = SP of 5. Profit = 1/5 of CP = 20%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q058
+    difficulty: medium
+    stem: 80 के 25% के 125% का मान क्या है?
+    options:
+      A: "50"
+      B: "25"
+      C: "20"
+      D: "40"
+    answer: B
+    explanation: 25% of 80 = 20, and 125% of 20 = 25.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q059
+    difficulty: medium
+    stem: 81 कि.मी. की दूरी को 1.5 घंटे में तय करने के लिए मीटर / सेकंड में कार की औसत गति क्या होनी चाहिए?
+    options:
+      A: "10"
+      B: "15"
+      C: "12"
+      D: "9"
+    answer: B
+    explanation: 81 km / 1.5 h = 54 km/h = 54 × 5/18 = 15 m/s.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q060
+    difficulty: medium
+    stem: यदि 4 सालों में साधारण ब्याज पर मूलधन 32% से बढ़ जाता है, तो उसी दर पर 3 साल में 24,000 रु पर अर्जित चक्रवृद्धि ब्याज (रु में) क्या होगा?
+    options:
+      A: "5233"
+      B: "6332"
+      C: "5332"
+      D: "6233"
+    answer: D
+    explanation: The SI rate is 32/4 = 8%. CI = 24000 × (1.08³ − 1) = 24000 × 0.259712 ≈ ₹6233.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q061
+    difficulty: medium
+    stem: यदि 5/2(8x/3 − 1/2) + 13/2 = 2x/3, तो x का मान क्या है?
+    options:
+      A: 7/8
+      B: 8/7
+      C: −8/7
+      D: −7/8
+    answer: D
+    explanation: 20x/3 − 5/4 + 13/2 = 2x/3, so 6x = −21/4 and x = −7/8.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q062
+    difficulty: medium
+    stem: यदि a³ + b³ = 72 और ab = 8 है, तो a + b का मान क्या है?
+    options:
+      A: "2"
+      B: "5"
+      C: "6"
+      D: "3"
+    answer: C
+    explanation: "a³ + b³ = (a+b)³ − 3ab(a+b): s³ − 24s = 72, which s = 6 satisfies (216 − 144 = 72)."
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q063
+    difficulty: medium
+    stem: एक भिन्न का चार गुना और उसके व्युत्क्रम के 7 गुना का योग 16 है। वह भिन्न कौन सा है?
+    options:
+      A: 2/7
+      B: 7/2
+      C: 4/7
+      D: 7/4
+    answer: B
+    explanation: 4x + 7/x = 16 gives 4x² − 16x + 7 = 0, so x = 7/2 or 1/2. Only 7/2 is an option.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q065
+    difficulty: medium
+    stem: रेखा x = −2 में बिंदु (−3, 2) का प्रतिबिंब क्या है?
+    options:
+      A: ( −3 , −6)
+      B: (1 , 2)
+      C: ( −3 , 6)
+      D: (−1 , 2)
+    answer: D
+    explanation: Reflecting in x = −2 keeps y and gives x' = 2(−2) − (−3) = −1, so the image is (−1, 2).
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q066
+    difficulty: medium
+    stem: बिंदु P रेखाखंड AB का मध्य बिंदु है। P के निर्देशांक (1, 3) हैं और A के (−3, 8) हैं। बिंदु B के निर्देशांक क्या हैं?
+    options:
+      A: (−5 , −2)
+      B: (−5 , 2)
+      C: (5 , 2)
+      D: (5 , −2)
+    answer: D
+    explanation: B = (2 × 1 − (−3), 2 × 3 − 8) = (5, −2).
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q067
+    difficulty: medium
+    stem: (3, −2) और (4, 2) बिंदुओं के माध्यम से गुजरने वाली रेखा के अभिलम्ब रेखा की ढलान क्या है?
+    options:
+      A: 1/4
+      B: "4"
+      C: −4
+      D: −1/4
+    answer: D
+    explanation: The line has slope (2 − (−2))/(4 − 3) = 4, so a perpendicular line has slope −1/4.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q068
+    difficulty: medium
+    stem: ΔABC ΔPQR के समान है। यदि ΔABC और ΔPQR की परिधियों का अनुपात 3:7 है और यदि PQ = 21 सें.मी. है, तो AB की लंबाई (सें.मी. में) कितनी है?
+    options:
+      A: "6"
+      B: "14"
+      C: "9"
+      D: "18"
+    answer: C
+    explanation: "In similar triangles, sides are in the ratio of the perimeters: AB = 21 × 3/7 = 9 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q069
+    difficulty: medium
+    stem: 2 Sec 45° + Tan 30° का मान क्या है?
+    options:
+      A: (2√6 + 1)/√3
+      B: √3
+      C: (2√2 + 3)/√6
+      D: (9 + 2√3)/9
+    answer: A
+    explanation: 2 sec 45° + tan 30° = 2√2 + 1/√3 = (2√6 + 1)/√3.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q070
+    difficulty: medium
+    stem: Δ ABC, B पर समकोण है। यदि m∠A = 60° है, तो Cot C का मान क्या होगा?
+    options:
+      A: √2
+      B: 1/√3
+      C: √3
+      D: 2/√3
+    answer: C
+    explanation: The angles add to 180°, so C = 180° − 90° − 60° = 30°, and cot 30° = √3.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q071
+    difficulty: medium
+    stem: यदि Cosec θ = 25/7, तो Cos θ का मान क्या होगा?
+    options:
+      A: 25/24
+      B: 7/24
+      C: 24/25
+      D: 7/25
+    answer: C
+    explanation: sin θ = 7/25, so cos θ = √(1 − 49/625) = 24/25.
+    tags:
+      - quant

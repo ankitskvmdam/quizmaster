@@ -1,0 +1,1354 @@
+slug: 2019-06-04-shift1
+title: SSC CGL 2018 Tier 1
+date: 2019-06-04
+label: 4 Jun, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132612/SSC-CGL-QUESTION-PAPER-04-June-2019-Shift-1-En). Left out (picture-only options or incomplete in the source): Q2, Q3, Q4, Q11, Q25."
+questions:
+  - slug: cgl-2019-06-04-s1-q001
+    difficulty: medium
+    stem: If DIG is coded as 25 and CUT is coded as 49, then how will KICK be coded as?
+    options:
+      A: "43"
+      B: "39"
+      C: "41"
+      D: "34"
+    answer: B
+    explanation: "The code is the sum of letter positions plus 5: DIG = 4+9+7 = 20 → 25, CUT = 44 → 49. KICK = 11+9+3+11 = 34 → 39."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q005
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (9, 35, 16)
+    options:
+      A: (16, 50, 64)
+      B: (25, 30, 4)
+      C: (36, 55, 25)
+      D: (81, 65, 36)
+    answer: C
+    explanation: 9 = 3² and 16 = 4², and 35 = (3 + 4) × 5. Likewise 36 = 6² and 25 = 5², and (6 + 5) × 5 = 55.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q006
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (3, 24, 4)
+    options:
+      A: (6, 35, 11)
+      B: (2, 30, 8)
+      C: (12, 84, 4)
+      D: (4, 72, 9)
+    answer: D
+    explanation: "The middle number is twice the product of the outer two: 3 × 4 × 2 = 24, and 4 × 9 × 2 = 72."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q007
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: CFIL
+      B: GHIJ
+      C: MOQS
+      D: PSUX
+    answer: D
+    explanation: CFIL (+3), GHIJ (+1) and MOQS (+2) have equal gaps; PSUX goes +3, +2, +3.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q008
+    difficulty: medium
+    stem: Three of the following four numbers are alike in a certain way and one is different. Pick the number that is different from the rest.
+    options:
+      A: "126"
+      B: "189"
+      C: "254"
+      D: "217"
+    answer: C
+    explanation: 126, 189 and 217 are multiples of 7 (7×18, 7×27, 7×31); 254 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q009
+    difficulty: medium
+    stem: In a family of eight persons, there are two couples, each having two children. B and D are brothers and each has two children. E is the aunt of A, who is the cousin brother of C. C is the sister of H, who is the cousin brother of G. F is the wife of B. How is H related to F?
+    options:
+      A: Nephew
+      B: Son-in-law
+      C: Son
+      D: Brother-in-law
+    answer: A
+    explanation: C and H are siblings, and A and G are their cousins. E is A's aunt, so E is the mother of C and H, and F (B's wife) is the mother of A and G. So H is F's nephew.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q010
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Buy
+      2. Dinner
+      3. Market
+      4. Vegetables
+      5. Cook
+    options:
+      A: 1, 4, 5, 3, 2
+      B: 3, 5, 4, 1, 2
+      C: 4, 5, 3, 1, 2
+      D: 3, 4, 1, 5, 2
+    answer: D
+    explanation: "Go to the market, look at vegetables, buy them, cook them, and have dinner: 3, 4, 1, 5, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q012
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown. Which number will be at the top if 6 is at the bottom?
+
+      *(Figure: Two views of one die: (1) top 5, front-left 1, front-right 6; (2) top 2, front-left 3, front-right 1.)*
+    options:
+      A: "4"
+      B: "3"
+      C: "5"
+      D: "2"
+    answer: D
+    explanation: 1 appears in both views, so its neighbours are 5, 6, 2 and 3 and 4 is opposite 1. The cyclic order around 1 puts 6 opposite 2, so with 6 at the bottom, 2 is on top.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q013
+    difficulty: medium
+    stem: ‘Lawyer’ is related to ‘Justice’ in the same way as ‘Arbitrator’ is related to ‘_________’.
+    options:
+      A: Judgment
+      B: Injustice
+      C: Settlement
+      D: Communication
+    answer: C
+    explanation: A lawyer works to get justice; an arbitrator works to get a settlement.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q014
+    difficulty: medium
+    stem: Three of the following four words are alike in a certain way and one is different. Pick the odd word out.
+    options:
+      A: Groundnut
+      B: Mustard
+      C: Cumin
+      D: Fennel
+    answer: A
+    explanation: Mustard, cumin and fennel are spice seeds; groundnut is an oilseed legume.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q015
+    difficulty: medium
+    stem: |-
+      Two statements are given followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      All rulers are machines.
+      Some machines are costly items.
+
+      **Conclusions:**
+
+      I. Some rulers are costly items.
+      II. Some costly items are machines.
+      III. All costly items are machines.
+    options:
+      A: Both conclusions II and III follow
+      B: Both conclusions I and II follow
+      C: Only conclusion II follows
+      D: Only conclusion I follows
+    answer: C
+    explanation: '"Some machines are costly items" converts to "some costly items are machines" (II). Nothing links rulers to costly items, so I does not follow, and III is too broad.'
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q016
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.
+
+      CEGI : AGEK :: DFHJ : ?
+    options:
+      A: CHFI
+      B: CGIK
+      C: BHFL
+      D: BDJK
+    answer: C
+    explanation: The letters change by −2, +2, −2, +2 (C→A, E→G, G→E, I→K). So D→B, F→H, H→F, J→L gives BHFL.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q017
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series.
+
+      b_bab_bc_abbb_ba_b
+    options:
+      A: cbbac
+      B: cbabc
+      C: cbbcb
+      D: bcbab
+    answer: C
+    explanation: Filling c, b, b, c, b gives bcbabb
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q018
+    difficulty: medium
+    stem: |-
+      Which number will replace the question mark (?) in the following series?
+
+      3, 7, 16, 35, ?, 153
+    options:
+      A: "84"
+      B: "74"
+      C: "78"
+      D: "63"
+    answer: B
+    explanation: "Each term is ×2 plus 1, 2, 3, 4, 5: 35 × 2 + 4 = 74, then 74 × 2 + 5 = 153."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q019
+    difficulty: medium
+    stem: In a code language, VICTORY is written as CIVSYRO. How will TRAITOR be written as in that language?
+    options:
+      A: RATHORT
+      B: RTAJORT
+      C: ARTJOTR
+      D: ARTHROT
+    answer: D
+    explanation: "The first three letters are reversed, the middle letter moves one back, and the last three are reversed: TRA→ART, I→H, TOR→ROT gives ARTHROT."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q020
+    difficulty: medium
+    stem: |-
+      Select the number-pair in which the two numbers are related in the same way as are the two numbers of the following number-pair.
+
+      36 : 84
+    options:
+      A: "27 : 63"
+      B: "21 : 51"
+      C: "57 : 135"
+      D: "45 : 95"
+    answer: A
+    explanation: 36:84 = 3:7, and 27:63 = 3:7 too.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q021
+    difficulty: medium
+    stem: ₹1,875 is divided among A, B and C in such a way that A’s share is half of the combined share of B and C, and B’s share is one-fourth of the combined share of A and C. By what amount is C’s share more than that of A?
+    options:
+      A: ₹500
+      B: ₹225
+      C: ₹250
+      D: ₹200
+    answer: C
+    explanation: A = (B + C)/2, so A = 1875/3 = 625. B = (A + C)/4, so B = 1875/5 = 375. Then C = 875 and C − A = ₹250.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q022
+    difficulty: medium
+    stem: |-
+      Select the word-pair in which the two words are related in the same way as are the two words in the following word-pair.
+
+      Book : Thesaurus
+    options:
+      A: "Tree : Forest"
+      B: "Reptile : Python"
+      C: "Furniture : Wood"
+      D: "Tennis : Ball"
+    answer: B
+    explanation: A thesaurus is a kind of book, and a python is a kind of reptile (the type is on the right).
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q023
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged in the following equation to make it correct?
+
+      12 − 8 + 12 × 9 ÷ 3 = 9
+    options:
+      A: + and ÷
+      B: + and ×
+      C: − and ÷
+      D: + and −
+    answer: A
+    explanation: Swapping + and ÷ gives 12 − 8 ÷ 12 × 9 + 3 = 12 − 6 + 3 = 9.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q024
+    difficulty: medium
+    stem: |-
+      How many squares are there in the following figure?
+
+      *(Figure: A square divided into four equal quadrants. Top-left quadrant: split into 2×2 small squares, with a diagonal from its bottom-left to its top-right corner. Top-right quadrant: both diagonals (an X). Bottom-left quadrant: both diagonals (an X). Bottom-right quadrant: split into 2×2 small squares, with a diagonal from its bottom-left to its top-right corner. The quadrant diagonals also form a tilted square joining the midpoints of the sides.)*
+    options:
+      A: "12"
+      B: "16"
+      C: "13"
+      D: "14"
+    answer: D
+    explanation: |-
+      Count the whole square (1), the four quadrants (4) and the small squares in the top-left and bottom-right quadrants (8).
+      Add the tilted square formed by the four quadrant diagonals that join the midpoints of the sides (1): 14 in total.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-04-s1-q026
+    difficulty: medium
+    stem: _________ dance, performed by Buddhists to ward off evil spirits, is a dance form of Himachal Pradesh.
+    options:
+      A: Chham
+      B: Natya
+      C: Dham
+      D: Gogra
+    answer: A
+    explanation: Chham is a masked dance of the Buddhists of Himachal Pradesh (Lahaul-Spiti, Kinnaur), performed to ward off evil spirits.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q027
+    difficulty: medium
+    stem: The Musi and Bhima are tributaries of the river ______.
+    options:
+      A: Mahanadi
+      B: Krishna
+      C: Kaveri
+      D: Brahmaputra
+    answer: B
+    explanation: The Bhima and the Musi (on which Hyderabad stands) are tributaries of the Krishna.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q028
+    difficulty: medium
+    stem: "The Malimath Committee Report deals with:"
+    options:
+      A: judicial delays
+      B: textile sector reforms
+      C: criminal justice system reforms
+      D: stock market reforms
+    answer: C
+    explanation: The Malimath Committee (2003) recommended reforms of the criminal justice system.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q029
+    difficulty: medium
+    stem: Who attacked and looted the famous Somnath temple in 1026 AD?
+    options:
+      A: Muhammad Ghori
+      B: Mahmud of Ghazni
+      C: Nadir Shah
+      D: Genghis Khan
+    answer: B
+    explanation: Mahmud of Ghazni sacked the Somnath temple in 1025–26.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q030
+    difficulty: medium
+    stem: Which country was the first to implement Goods and Services Tax (GST)?
+    options:
+      A: France
+      B: USA
+      C: Germany
+      D: Canada
+    answer: A
+    explanation: France introduced GST (VAT) first, in 1954.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q031
+    difficulty: medium
+    stem: Which of the following is mined in the Badampahar mines of Odisha?
+    options:
+      A: Azurite
+      B: Dolomite
+      C: Bauxite
+      D: Hematite
+    answer: D
+    explanation: Badampahar in Mayurbhanj, Odisha, is an iron-ore (hematite) mine.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q032
+    difficulty: medium
+    stem: "Sundari, a well known species of trees, is found in:"
+    options:
+      A: tropical rainforests
+      B: Himalayan mountains
+      C: tropical deciduous forests
+      D: mangrove forests
+    answer: D
+    explanation: The Sundari tree (Heritiera fomes) grows in mangrove forests; the Sundarbans are named after it.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q033
+    difficulty: medium
+    stem: "The Tata Iron and Steel company (TISCO) was established by Dorabji Tata in:"
+    options:
+      A: "1919"
+      B: "1913"
+      C: "1907"
+      D: "1911"
+    answer: C
+    explanation: TISCO was set up at Jamshedpur in 1907 by Dorabji Tata, carrying out Jamsetji Tata's plan.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q034
+    difficulty: medium
+    stem: Who was the first female Director General of Police in Puducherry?
+    options:
+      A: Aswathy Tonge
+      B: Kanchan Choudhary
+      C: Kiran Bedi
+      D: Sundari Nanda
+    answer: D
+    explanation: Sundari Nanda became the first woman DGP of Puducherry in 2018.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q035
+    difficulty: medium
+    stem: Which of the following elements is a metalloid?
+    options:
+      A: Tin
+      B: Bismuth
+      C: Silicon
+      D: Phosphorus
+    answer: C
+    explanation: Silicon is a metalloid; tin and bismuth are metals and phosphorus is a non-metal.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q036
+    difficulty: medium
+    stem: "Methyl propane is an isomer of:"
+    options:
+      A: n-hexane
+      B: n-butane
+      C: n-propane
+      D: n-pentane
+    answer: B
+    explanation: Methylpropane (isobutane, C₄H₁₀) is a structural isomer of n-butane.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q037
+    difficulty: medium
+    stem: According to The Economist Intelligence Unit report 'Worldwide Cost of Living Survey 2019', which of the following is NOT one of the three cheapest cities in India?
+    options:
+      A: Mumbai
+      B: Bengaluru
+      C: New Delhi
+      D: Chennai
+    answer: A
+    explanation: The EIU 2019 survey listed Bengaluru, Chennai and New Delhi among the world's cheapest cities; Mumbai was not one of them.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q038
+    difficulty: medium
+    stem: Which of the following places was ruled by the Wadiyar dynasty?
+    options:
+      A: Mysore
+      B: Guwahati
+      C: Jabalpur
+      D: Patna
+    answer: A
+    explanation: The Wadiyar dynasty ruled the Kingdom of Mysore.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q039
+    difficulty: medium
+    stem: Name the first ever judge of the Supreme Court against whom the motion of impeachment was introduced into Parliament in Independent India.
+    options:
+      A: Justice Viraswami
+      B: Justice Ramaswami
+      C: Justice Mahajan
+      D: Justice Subba Rao
+    answer: B
+    explanation: In 1993 an impeachment motion against Justice V. Ramaswami was the first against a Supreme Court judge.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q040
+    difficulty: medium
+    stem: In March 2019, _________ was sworn in as the new chief minister of Goa, following the demise of Manohar Parrikar.
+    options:
+      A: Vasundhara Raje
+      B: H D Kumaraswamy
+      C: Ashok Gehlot
+      D: Pramod Sawant
+    answer: D
+    explanation: Pramod Sawant became Goa's Chief Minister on 19 March 2019, after Manohar Parrikar died.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q041
+    difficulty: medium
+    stem: J J Thomson received the Nobel Prize in Physics for the discovery of _____.
+    options:
+      A: protons
+      B: electrons
+      C: neutrons
+      D: positrons
+    answer: B
+    explanation: J.J. Thomson won the 1906 Physics Nobel for work on the conduction of electricity in gases, which led him to discover the electron.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q042
+    difficulty: medium
+    stem: Which queen died fighting Mughal armies while defending Garha Katanga in 1564?
+    options:
+      A: Rani Avantibai
+      B: Rani Rudrambara
+      C: Rani Durgavati
+      D: Rani Ahilyabai
+    answer: C
+    explanation: Rani Durgavati of Garha-Katanga died fighting Akbar's general Asaf Khan in 1564.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q043
+    difficulty: medium
+    stem: Which gas in its solid state is also known as dry ice?
+    options:
+      A: Nitrogen
+      B: Carbon dioxide
+      C: Oxygen
+      D: Hydrogen
+    answer: B
+    explanation: Solid carbon dioxide is called dry ice.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q044
+    difficulty: medium
+    stem: The Olympic Council of Asia (OCA) has decided to reintroduce ______in the 2022 Asian Games to be held at Hangzhou, China after it was dropped in 2018.
+    options:
+      A: fencing
+      B: cricket
+      C: soccer
+      D: volleyball
+    answer: B
+    explanation: The OCA brought cricket back for the 2022 Hangzhou Asian Games after it was dropped in 2018.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q045
+    difficulty: medium
+    stem: The property of catenation is predominant in_______.
+    options:
+      A: sulphur
+      B: nitrogen
+      C: silicon
+      D: carbon
+    answer: D
+    explanation: Carbon shows the strongest catenation (bonding to itself in chains) because C–C bonds are strong.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q046
+    difficulty: medium
+    stem: "' Thoda' a sport dance belongs to which of the following states?"
+    options:
+      A: Sikkim
+      B: Andhra Pradesh
+      C: Haryana
+      D: Himachal Pradesh
+    answer: D
+    explanation: Thoda, a martial dance played with bow and arrow, belongs to Himachal Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q047
+    difficulty: medium
+    stem: The lone gold medal for India was won by ___________ at the 38th GeeBee Boxing Tournament held at Helsinki, Finland.
+    options:
+      A: Kavinder Singh Bisht
+      B: Naveen Kumar
+      C: Mohammed Hussamuddin
+      D: Shiva Thapa
+    answer: A
+    explanation: Kavinder Singh Bisht won India's only gold at the 2019 GeeBee Boxing Tournament in Helsinki.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q048
+    difficulty: medium
+    stem: The ____ edition of the India-Indonesia coordinated patrol (IND-INDO CORPAT) held from 19 March to 4th April 2019 was inaugurated at Port Blair, Andaman and Nicobar Islands.
+    options:
+      A: 23rd
+      B: 42nd
+      C: 45th
+      D: 33rd
+    answer: D
+    explanation: The 33rd IND-INDO CORPAT (19 March to 4 April 2019) was inaugurated at Port Blair.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q049
+    difficulty: medium
+    stem: _______ is the founder of Facebook.
+    options:
+      A: Mark Zuckerberg
+      B: Brian Acton
+      C: Jimmy Wales
+      D: Larry Page
+    answer: A
+    explanation: Mark Zuckerberg co-founded Facebook in 2004.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q050
+    difficulty: medium
+    stem: The Indian National Association was established in 1876 by ______ in Calcutta.
+    options:
+      A: Badruddin Tyabji
+      B: V K Chiplunkar
+      C: Anand Mohan Bose
+      D: Sisir Kumar Ghosh
+    answer: C
+    explanation: Surendranath Banerjee and Anand Mohan Bose founded the Indian (National) Association in Calcutta in 1876.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-04-s1-q051
+    difficulty: medium
+    stem: "A circle is inscribed in a triangle ABC. It touches the sides AB, BC and AC at the points R, P and Q respectively. If AQ = 4.5 cm, PC = 5.5 cm and BR = 6 cm, then the perimeter of the triangle ABC is:"
+    options:
+      A: 30.5 cm
+      B: 28 cm
+      C: 32 cm
+      D: 26.5 cm
+    answer: C
+    explanation: "Tangents from a point are equal: AR = AQ = 4.5, BR = BP = 6, CP = CQ = 5.5. Perimeter = 2(4.5 + 6 + 5.5) = 32 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q052
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Cars \ Years | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 30 | 35 | 48 | 45 | 56 |
+      | B | 42 | 48 | 40 | 38 | 56 |
+      | C | 48 | 36 | 38 | 35 | 44 |
+      | D | 51 | 24 | 30 | 46 | 54 |
+      | E | 20 | 42 | 40 | 35 | 43 |
+
+      If the data related to the production of cars of type E is represented by a pie chart, then the central angle of the sector representing the data of production of cars in 2013 will be:
+
+      *(Figure: Data table (reproduced as a Markdown table).)*
+    options:
+      A: 102°
+      B: 84°
+      C: 70°
+      D: 80°
+    answer: B
+    explanation: Type E totals 20+42+40+35+43 = 180, so 2013's angle = 42/180 × 360° = 84°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q053
+    difficulty: medium
+    stem: "A truck covers a distance of 384 km at a certain speed. If the speed is decreased by 16 km/h, it will take 2 hours more to cover the same distance. 75% of its original speed (in km/h) is:"
+    options:
+      A: "45"
+      B: "54"
+      C: "48"
+      D: "42"
+    answer: C
+    explanation: 384/(v−16) − 384/v = 2 gives v(v−16) = 3072, so v = 64 km/h. 75% of 64 = 48.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q054
+    difficulty: medium
+    stem: "The ratio of the ages of A and B, four years ago, was 4 : 5. Eight years from now, the ratio of the ages of A and B will be 11 : 13. What is the sum of their present ages?"
+    options:
+      A: 80 years
+      B: 96 years
+      C: 72 years
+      D: 76 years
+    answer: A
+    explanation: (4k + 12)/(5k + 12) = 11/13 gives k = 8, so A = 36 and B = 44, a sum of 80 years.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q055
+    difficulty: medium
+    stem: "In ΔABC, F and E are the points on sides AB and AC, respectively, such that FE ∥ BC and FE divides the triangle in two parts of equal area. If AD ⊥ BC and AD intersects FE at G, then GD : AG = ?"
+    options:
+      A: "√2 : 1"
+      B: "(√2 − 1) : 1"
+      C: "2√2 : 1"
+      D: "(√2 + 1) : 1"
+    answer: B
+    explanation: Equal areas make the ratio of areas AFE:ABC = 1:2, so AG/AD = 1/√2. Then GD:AG = (√2 − 1):1.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q056
+    difficulty: medium
+    stem: "If 4 − 2 sin²θ − 5 cosθ = 0, 0° < θ < 90°, then the value of sinθ + tanθ is:"
+    options:
+      A: 3√2/2
+      B: 3√3/2
+      C: 3√2
+      D: 2√3
+    answer: B
+    explanation: 4 − 2(1 − cos²θ) − 5cosθ = 0 gives 2cos²θ − 5cosθ + 2 = 0, so cosθ = 1/2 and θ = 60°. sin60° + tan60° = 3√3/2.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q057
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Cars \ Years | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 30 | 35 | 48 | 45 | 56 |
+      | B | 42 | 48 | 40 | 38 | 56 |
+      | C | 48 | 36 | 38 | 35 | 44 |
+      | D | 51 | 24 | 30 | 46 | 54 |
+      | E | 20 | 42 | 40 | 35 | 43 |
+
+      What is the ratio of the total production of cars of type A in 2014 and type C in 2013 taken together to the total production of cars of type B in 2016 and type E in 2015 taken together?
+
+      *(Figure: Data table (reproduced as a Markdown table).)*
+    options:
+      A: "12 : 13"
+      B: "11 : 12"
+      C: "10 : 11"
+      D: "12 : 11"
+    answer: A
+    explanation: (48 + 36):(56 + 35) = 84:91 = 12:13.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q058
+    difficulty: medium
+    stem: If decreasing 120 by x% gives the same result as increasing 40 by x%, then x% of 210 is what percent less than (x+20)% of 180?
+    options:
+      A: 33 1/3
+      B: "18"
+      C: 16 2/3
+      D: "20"
+    answer: C
+    explanation: 120(1 − x/100) = 40(1 + x/100) gives x = 50. 50% of 210 = 105 and 70% of 180 = 126, so 105 is 21/126 = 16 2/3% less.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q059
+    difficulty: medium
+    stem: "If (5√5x³ − 81√3y³) ÷ (√5x − 3√3y) = (Ax² + By² + Cxy), then the value of (6A + B − √15C) is:"
+    options:
+      A: "10"
+      B: "9"
+      C: "15"
+      D: "12"
+    answer: D
+    explanation: It is (a³ − b³)/(a − b) with a = √5x, b = 3√3y, which equals a² + ab + b² = 5x² + 27y² + 3√15xy. So 6(5) + 27 − √15(3√15) = 30 + 27 − 45 = 12.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q060
+    difficulty: medium
+    stem: "If a nine-digit number 985x3678y is divisible by 72, then the value of (4x − 3y) is:"
+    options:
+      A: "5"
+      B: "4"
+      C: "6"
+      D: "3"
+    answer: B
+    explanation: For divisibility by 8, 78y must divide by 8, so y = 4. For 9, the digit sum 50 + x must divide by 9, so x = 4. Then 4x − 3y = 16 − 12 = 4.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q061
+    difficulty: medium
+    stem: "If sinθ = (p² − 1)/(p² + 1), then cosθ is equal to:"
+    options:
+      A: 2p/(1 + p²)
+      B: p/(p² − 1)
+      C: p/(1 + p²)
+      D: 2p/(p² − 1)
+    answer: A
+    explanation: cos θ = √(1 − sin²θ) = √((p²+1)² − (p²−1)²)/(p²+1) = 2p/(p² + 1).
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q062
+    difficulty: medium
+    stem: "The ratio of the efficiencies of A, B and C is 2 : 5 : 3. Working together, they can complete a work in 27 days. B and C together can complete 4/9 th part of that work in:"
+    options:
+      A: 27 days
+      B: 15 days
+      C: 17 1/7 days
+      D: 24 days
+    answer: B
+    explanation: The work is (2+5+3) × 27 = 270 units. B and C do 8 units a day, so 4/9 × 270 = 120 units take 15 days.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q063
+    difficulty: medium
+    stem: "The average of twelve numbers is 42. The average of the last five numbers is 40, and that of the first four numbers is 44. The 6th number is 6 less than the fifth and 5 less than the 7th number. The average of the 5th and the 7th numbers is:"
+    options:
+      A: "44"
+      B: "44.5"
+      C: "43"
+      D: "43.5"
+    answer: B
+    explanation: 12 × 42 − 5 × 40 − 4 × 44 = 128 for the 5th, 6th and 7th numbers. With 6th = x, (x+6) + x + (x+5) = 128 gives x = 39, so 5th = 45, 7th = 44, average 44.5.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q064
+    difficulty: medium
+    stem: "If x + y + z = 19, x² + y² + z² = 133 and xz = y², then the difference between z and x is:"
+    options:
+      A: "5"
+      B: "3"
+      C: "6"
+      D: "4"
+    answer: A
+    explanation: "(x+z)² = 133 − y² + 2y², so (19 − y)² = 133 + y² and y = 6. Then x + z = 13 and xz = 36, giving 9 and 4: a difference of 5."
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q065
+    difficulty: medium
+    stem: "(2 + tan²θ + cot²θ)/(secθ cosecθ) is equal to:"
+    options:
+      A: cotθ
+      B: cosθ sinθ
+      C: secθ cosecθ
+      D: tanθ
+    answer: C
+    explanation: 2 + tan²θ + cot²θ = sec²θ + cosec²θ = sec²θ·cosec²θ; dividing by secθ·cosecθ leaves secθ·cosecθ.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q066
+    difficulty: medium
+    stem: "In a circle of radius 10 cm, with centre O, PQ and PR are two chords each of length 12 cm. PO intersects chord QR at the points S. The length of OS is:"
+    options:
+      A: 2.8 cm
+      B: 2.5 cm
+      C: 3.2 cm
+      D: 3 cm
+    answer: A
+    explanation: "PO is perpendicular to QR at S. With PS = t: 12² − t² = 10² − (10 − t)², so t = 7.2 and OS = 10 − 7.2 = 2.8 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q067
+    difficulty: medium
+    stem: "A sum amounts to ₹8,028 in 3 years and to ₹12,042 in 6 years at a certain rate percent per annum, when the interest is compounded yearly. The sum is:"
+    options:
+      A: ₹5,352
+      B: ₹5,235
+      C: ₹5,325
+      D: ₹5,253
+    answer: A
+    explanation: (1 + r)³ = 12042/8028 = 1.5, so the sum = 8028/1.5 = ₹5352.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q068
+    difficulty: medium
+    stem: "The value of 2 × 3 ÷ 2 of 3 × 2 ÷ (4 + 4 × 4 ÷ 4 of 4 − 4 ÷ 4 × 4) is:"
+    options:
+      A: "8"
+      B: "1"
+      C: "4"
+      D: "2"
+    answer: D
+    explanation: '"of" is done first: 2 × 3 ÷ 6 × 2 = 2, and the bracket is 4 + 16 ÷ 16 − 4 = 1. So the value is 2 ÷ 1 = 2.'
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q069
+    difficulty: medium
+    stem: "After giving two successive discounts, each of x%, on the marked price of an article, total discount is ₹259.20. If the marked price of the article is ₹720, then the value of x is:"
+    options:
+      A: "18"
+      B: "24"
+      C: "20"
+      D: "25"
+    answer: C
+    explanation: 720[1 − (1 − x/100)²] = 259.2 gives (1 − x/100)² = 0.64, so x = 20.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q070
+    difficulty: medium
+    stem: "A solid cube of volume 13824 cm³ is cut into 8 cubes of equal volumes. The ratio of the surface area of the original cube to the sum of the surface areas of three of the smaller cubes is:"
+    options:
+      A: "2 : 3"
+      B: "4 : 3"
+      C: "8 : 3"
+      D: "2 : 1"
+    answer: B
+    explanation: "Side 24 cm, so the small cubes have side 12 cm. 6 × 24² : 3 × 6 × 12² = 3456 : 2592 = 4 : 3."
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q071
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Cars \ Years | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 30 | 35 | 48 | 45 | 56 |
+      | B | 42 | 48 | 40 | 38 | 56 |
+      | C | 48 | 36 | 38 | 35 | 44 |
+      | D | 51 | 24 | 30 | 46 | 54 |
+      | E | 20 | 42 | 40 | 35 | 43 |
+
+      The total production of type B cars in 2012, 2014 and 2015 taken together is approximately what percent more than the total production of type A cars in 2013 and 2016 taken together?
+
+      *(Figure: Data table (reproduced as a Markdown table).)*
+    options:
+      A: "31.9"
+      B: "33.2"
+      C: "36.3"
+      D: "34.4"
+    answer: A
+    explanation: "B: 42 + 40 + 38 = 120; A: 35 + 56 = 91. 29/91 ≈ 31.9% more."
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q072
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Cars \ Years | 2012 | 2013 | 2014 | 2015 | 2016 |
+      |---|---|---|---|---|---|
+      | A | 30 | 35 | 48 | 45 | 56 |
+      | B | 42 | 48 | 40 | 38 | 56 |
+      | C | 48 | 36 | 38 | 35 | 44 |
+      | D | 51 | 24 | 30 | 46 | 54 |
+      | E | 20 | 42 | 40 | 35 | 43 |
+
+      The number of years, in which the production of cars of type B is less than the average production of type D cars over the years, is:
+
+      *(Figure: Data table (reproduced as a Markdown table).)*
+    options:
+      A: "4"
+      B: "1"
+      C: "3"
+      D: "2"
+    answer: D
+    explanation: "Type D averages 205/5 = 41; type B is below 41 only in 2014 (40) and 2015 (38): 2 years."
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q073
+    difficulty: medium
+    stem: "A person sold an article at a loss of 15%. Had he sold it for ₹30.60 more, he would have gained 9%. To gain 10%, he should have sold it for:"
+    options:
+      A: ₹140.25
+      B: ₹132
+      C: ₹130
+      D: ₹128.40
+    answer: A
+    explanation: The ₹30.60 covers the gap from −15% to +9%, which is 24% of CP, so CP = ₹127.50. 110% of CP = ₹140.25.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q074
+    difficulty: medium
+    stem: "In a ΔABC, the bisectors of ∠B and ∠C meet at point O, inside the triangle. If ∠BOC = 122°, then the measure of ∠A is:"
+    options:
+      A: 64°
+      B: 62°
+      C: 72°
+      D: 68°
+    answer: A
+    explanation: ∠BOC = 90° + A/2 = 122°, so ∠A = 64°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q075
+    difficulty: medium
+    stem: "If x⁴ + x⁻⁴ = 194, x > 0, then the value of (x − 2)² is:"
+    options:
+      A: "1"
+      B: "6"
+      C: "2"
+      D: "3"
+    answer: D
+    explanation: x² + 1/x² = √(194 + 2) = 14, so x + 1/x = 4 and x² − 4x + 1 = 0. That is (x − 2)² = 3.
+    tags:
+      - quant
+  - slug: cgl-2019-06-04-s1-q076
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Seoul's city government is asking people for help to correct poorly translated street signs - with prizes on offer for (1)______ who spot the most errors. It's running (2)______ two-week campaign calling on Koreans and foreigners (3)______ to keep their eyes peeled for (4)______ in English, Japanese and Chinese text, the Korea Times reports. There's a (5)______ focus on public transport signs, maps and information signs at historic sites, as part of a drive to improve the experience of foreign tourists in the South Korean capital.
+
+      SubQuestion No : 1
+
+      Select the most appropriate option for blank No. 1.
+    options:
+      A: this
+      B: those
+      C: that
+      D: these
+    answer: B
+    explanation: '"Those who spot the most errors": "those" is the plural pronoun for people.'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q077
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Seoul's city government is asking people for help to correct poorly translated street signs - with prizes on offer for (1)______ who spot the most errors. It's running (2)______ two-week campaign calling on Koreans and foreigners (3)______ to keep their eyes peeled for (4)______ in English, Japanese and Chinese text, the Korea Times reports. There's a (5)______ focus on public transport signs, maps and information signs at historic sites, as part of a drive to improve the experience of foreign tourists in the South Korean capital.
+
+      SubQuestion No : 2
+
+      Select the most appropriate option for blank No. 2.
+    options:
+      A: one
+      B: the
+      C: an
+      D: a
+    answer: D
+    explanation: '"A two-week campaign": the indefinite article fits a campaign mentioned for the first time.'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q078
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Seoul's city government is asking people for help to correct poorly translated street signs - with prizes on offer for (1)______ who spot the most errors. It's running (2)______ two-week campaign calling on Koreans and foreigners (3)______ to keep their eyes peeled for (4)______ in English, Japanese and Chinese text, the Korea Times reports. There's a (5)______ focus on public transport signs, maps and information signs at historic sites, as part of a drive to improve the experience of foreign tourists in the South Korean capital.
+
+      SubQuestion No : 3
+
+      Select the most appropriate option for blank No. 3.
+    options:
+      A: same
+      B: similarly
+      C: alike
+      D: likely
+    answer: C
+    explanation: '"Koreans and foreigners alike" means both groups equally.'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q079
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Seoul's city government is asking people for help to correct poorly translated street signs - with prizes on offer for (1)______ who spot the most errors. It's running (2)______ two-week campaign calling on Koreans and foreigners (3)______ to keep their eyes peeled for (4)______ in English, Japanese and Chinese text, the Korea Times reports. There's a (5)______ focus on public transport signs, maps and information signs at historic sites, as part of a drive to improve the experience of foreign tourists in the South Korean capital.
+
+      SubQuestion No : 4
+
+      Select the most appropriate option for blank No. 4.
+    options:
+      A: guffaws
+      B: blunder
+      C: oversight
+      D: mistakes
+    answer: D
+    explanation: People keep their eyes peeled for (plural) mistakes in the text; "blunder" is singular and "guffaws" are laughs.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q080
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Seoul's city government is asking people for help to correct poorly translated street signs - with prizes on offer for (1)______ who spot the most errors. It's running (2)______ two-week campaign calling on Koreans and foreigners (3)______ to keep their eyes peeled for (4)______ in English, Japanese and Chinese text, the Korea Times reports. There's a (5)______ focus on public transport signs, maps and information signs at historic sites, as part of a drive to improve the experience of foreign tourists in the South Korean capital.
+
+      SubQuestion No : 5
+
+      Select the most appropriate option for blank No. 5.
+    options:
+      A: particular
+      B: important
+      C: signifying
+      D: meticulous
+    answer: A
+    explanation: '"A particular focus" means special attention on certain signs.'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the synonym of the given word.
+
+      COERCE
+    options:
+      A: enchant
+      B: pressurize
+      C: cajole
+      D: leave
+    answer: B
+    explanation: To coerce is to force or pressurize someone.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q082
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      We had to decline several orders in case that the production was held up due to labour strike.
+    options:
+      A: in case that
+      B: the production was held up
+      C: due to labour strike
+      D: We had to decline
+    answer: A
+    explanation: '"In case that" is wrong; the reason clause needs "as" or "because" (the production was held up).'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word to fill in the blank.
+
+      His company has the ______ of producing the best cricket balls in the country.
+    options:
+      A: opinion
+      B: brand
+      C: reputation
+      D: position
+    answer: C
+    explanation: A company "has the reputation" of producing the best products.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q084
+    difficulty: medium
+    stem: |-
+      Select the antonym of the given word.
+
+      EXPANSION
+    options:
+      A: inflation
+      B: augmentation
+      C: extension
+      D: compression
+    answer: D
+    explanation: Expansion means growing larger; compression (squeezing smaller) is its opposite.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the antonym of the given word.
+
+      SCARCE
+    options:
+      A: scanty
+      B: few
+      C: seldom
+      D: plentiful
+    answer: D
+    explanation: Scarce means in short supply; plentiful is its opposite.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q086
+    difficulty: medium
+    stem: Select the wrongly spelt word.
+    options:
+      A: calander
+      B: career
+      C: callous
+      D: carriage
+    answer: A
+    explanation: The correct spelling is "calendar".
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word to fill in the blank.
+
+      Around sixty bands in colourful ______ took part in the Notting Hill Carnival.
+    options:
+      A: clothings
+      B: costumes
+      C: apparels
+      D: dressing
+    answer: B
+    explanation: Carnival bands wear colourful costumes; "clothings" and "apparels" are not used in the plural.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      A person, animal or plant much below the usual height
+    options:
+      A: wizard
+      B: dwarf
+      C: creature
+      D: witch
+    answer: B
+    explanation: A dwarf is a person, animal or plant much smaller than usual.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      The workers of this textile factory demand higher wages for a long time.
+    options:
+      A: have been demanding higher wages
+      B: demanded higher wages
+      C: No improvement
+      D: has demanded higher wages
+    answer: A
+    explanation: '"For a long time" shows an action that began in the past and continues, so it takes the present perfect continuous: "have been demanding".'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      If you park your car here, the traffic police <u>has fined you.</u>
+    options:
+      A: will fine you
+      B: No improvement
+      C: fine you
+      D: fined you
+    answer: A
+    explanation: 'In a first conditional (If + present), the main clause takes "will": "will fine you".'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q091
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. The cafe's owner says he's interested in conservation, and hopes customers will realise the animals are worth saving, even though they often have a bad reputation.
+      B. None of them are venomous, meaning customers can get up close and personal with the reptiles.
+      C. Here you sip your drink in the company of 35 snakes.
+      D. This cafe, which has just opened in Tokyo, is not for the faint-hearted.
+    options:
+      A: DBCA
+      B: DCBA
+      C: ABCD
+      D: ABDC
+    answer: B
+    explanation: "D introduces the Tokyo cafe, C says what happens there (snakes), B explains that they are not venomous, and A gives the owner's aim: DCBA."
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q092
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. An environmental group performed a necropsy on the animal and found about 40 kilograms of plastic, including grocery bags and rice sacks.
+      B. A 4.7-metre long whale died on Saturday in Phillipines where it was stranded a day earlier.
+      C. "It's very disgusting and heartbreaking," he said. "We've done necropsies on 61 dolphins and whales in the last 10 years and this is one of the biggest amounts of plastic we've seen."
+      D. "The animal died from starvation and was unable to eat because of the trash filling its stomach," said Darrell Blatchley, Director of D' Bone Collector Museum Inc..
+    options:
+      A: ABCD
+      B: DABC
+      C: BADC
+      D: BACD
+    answer: C
+    explanation: "B reports the whale's death, A gives the necropsy finding, D quotes the cause, and C adds Blatchley's reaction (\"he said\"): BADC."
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      To play ducks and drakes
+    options:
+      A: to use recklessly
+      B: to change places
+      C: to be friendly
+      D: to act cleverly
+    answer: A
+    explanation: '"To play ducks and drakes" means to squander or use something recklessly.'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q094
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      Cyclone Idai killed at least 157 people in Zimbabwe and Mozambique although it tore across Southern Africa.
+    options:
+      A: Cyclone Idai killed
+      B: it tore across
+      C: although
+      D: at least 157 people
+    answer: C
+    explanation: The cyclone killed people as it tore across the region, so the conjunction should be "as", not the contrasting "although".
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      Every passing vehicle was being thoroughly checked by the guards.
+    options:
+      A: The guards were thoroughly checking every passing vehicle.
+      B: The guards have thoroughly checked every passing vehicle.
+      C: Every passing vehicle were thoroughly checking the guards.
+      D: The guards have been thoroughly checking every passing vehicle.
+    answer: A
+    explanation: The past continuous passive "was being checked" becomes the past continuous active "were checking".
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q096
+    difficulty: medium
+    stem: Select the wrongly spelt word.
+    options:
+      A: exploite
+      B: explicit
+      C: expire
+      D: explode
+    answer: A
+    explanation: The correct spelling is "exploit".
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q097
+    difficulty: medium
+    stem: |-
+      Select the synonym of the given word.
+
+      CHRONIC
+    options:
+      A: ordinary
+      B: persistent
+      C: common
+      D: temporary
+    answer: B
+    explanation: Chronic means long-lasting or persistent.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q098
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      At daggers drawn
+    options:
+      A: deceiving somebody
+      B: without hope
+      C: friendly with each other
+      D: bitterly hostile
+    answer: D
+    explanation: '"At daggers drawn" means bitterly hostile towards each other.'
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q099
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      A student who idly or without excuse absents himself/hersef from school
+    options:
+      A: truant
+      B: vagrant
+      C: itinerant
+      D: migrant
+    answer: A
+    explanation: A truant is a student who stays away from school without a reason.
+    tags:
+      - english
+  - slug: cgl-2019-06-04-s1-q100
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      Do not buy medicines without the doctor's prescription.
+    options:
+      A: Medicines should not be bought without the doctor's prescription.
+      B: Medicines need not be bought without the doctor's prescription
+      C: Medicines might not be bought without the doctor's prescription
+      D: Medicines could not be bought without the doctor's prescription
+    answer: A
+    explanation: 'The passive of a prohibition uses "should not be": "Medicines should not be bought ...".'
+    tags:
+      - english

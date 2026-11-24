@@ -1,0 +1,740 @@
+slug: 2016-09-02-shift3
+title: एसएससी सीजीएल 2016 टियर 1
+date: 2016-09-02
+label: 2 Sept, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/509ff2be-dab7-11ed-a69c-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24, Q62, Q66, Q69, Q72, Q73, Q74, Q75."
+questions:
+  - slug: cgl-2016-09-02-s3-q001
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      शब्द : वाक्य :: अनुच्छेद : ?
+    options:
+      A: टंकण
+      B: निबन्ध
+      C: अक्षर
+      D: वाक्याँश
+    answer: B
+    explanation: Words make up a sentence, and paragraphs make up an essay.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q002
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      BDCE : GIHJ :: QSRT : ?
+    options:
+      A: VWXY
+      B: UWMX
+      C: VXWY
+      D: UWNX
+    answer: C
+    explanation: "Each letter moves 5 places forward: B→G, D→I, C→H, E→J. So Q, S, R, T → V, X, W, Y."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q003
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      9 : 162 :: 8 : ?
+    options:
+      A: "96"
+      B: "112"
+      C: "128"
+      D: "160"
+    answer: C
+    explanation: 9 × 9 × 2 = 162, so 8 × 8 × 2 = 128.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q004
+    difficulty: medium
+    stem: दिये गये विकल्पों में से विषम शब्द/ अक्षर/संख्या चुनिए।
+    options:
+      A: अपार्टमैन्ट
+      B: गैराज
+      C: क्वार्टर
+      D: फ्लैट
+    answer: B
+    explanation: An apartment, a quarter and a flat are places people live in; a garage is for vehicles.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q005
+    difficulty: medium
+    stem: दिये गये विकल्पों में से विषम शब्द/ अक्षर/संख्या चुनिए।
+    options:
+      A: BDF
+      B: GIK
+      C: LMO
+      D: OQS
+    answer: C
+    explanation: BDF, GIK and OQS go up in steps of +2. LMO goes +1, +2, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q006
+    difficulty: medium
+    stem: दिये गये विकल्पों में से विषम शब्द/ अक्षर/संख्या युग्म चुनिए।
+    options:
+      A: 5-21
+      B: 29-45
+      C: 48-68
+      D: 71-87
+    answer: C
+    explanation: In each pair the difference is 16 (21 − 5, 45 − 29, 87 − 71). In 48-68 it is 20.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में दिए गए क्रम के अनुसार लिखिए ।
+
+      1. Diffident 2. Difficult 3.Different 4.Diffidence
+    options:
+      A: 1,2,3,4
+      B: 3,2,4,1
+      C: 2,1,3,4
+      D: 3,2,1,4
+    answer: B
+    explanation: "Differ- < Diffic- < Diffid-, and Diffidence < Diffident. Order: Different, Difficult, Diffidence, Diffident = 3, 2, 4, 1."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q011
+    difficulty: medium
+    stem: यदि तीन क्रमागत संख्याओं का योग 15 है, तो मध्य संख्या का वर्ग क्या होग?
+    options:
+      A: "16"
+      B: "25"
+      C: "36"
+      D: "9"
+    answer: B
+    explanation: Three consecutive numbers that add up to 15 are 4, 5 and 6. The middle number is 5, and 5² = 25.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q012
+    difficulty: medium
+    stem: |-
+      निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता।
+
+      ILLUSTRIOUS
+    options:
+      A: Lust
+      B: Trust
+      C: Riot
+      D: Rust
+    answer: B
+    explanation: ILLUSTRIOUS has only one T, so TRUST (which needs two Ts) cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q013
+    difficulty: medium
+    stem: |-
+      यदि A=1,
+      CAT=60 हो,
+      तो MAN=?
+    options:
+      A: "27"
+      B: "90"
+      C: "180"
+      D: "182"
+    answer: D
+    explanation: "Multiply the letters' positions: CAT = 3 × 1 × 20 = 60, so MAN = 13 × 1 × 14 = 182."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q014
+    difficulty: medium
+    stem: |-
+      यदि 'P'का अर्थ '+', है, 'Q' का अर्थ 'x', 'R' का अर्थ '÷', और 'S' का अर्थ '−' हो, तो
+      44Q9R12S6Q4P16=?
+    options:
+      A: "25"
+      B: "36"
+      C: "112"
+      D: "12"
+    answer: A
+    explanation: 44 × 9 ÷ 12 − 6 × 4 + 16 = 33 − 24 + 16 = 25.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q015
+    difficulty: medium
+    stem: |-
+      यदि 84+96=4842 हो,
+      तो 36+78= ?
+    options:
+      A: "3918"
+      B: "3678"
+      C: "3819"
+      D: "1839"
+    answer: A
+    explanation: "Halve each number and write them in reverse order: 96/2 = 48 and 84/2 = 42 give 4842. So 78/2 = 39 and 36/2 = 18 give 3918."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q017
+    difficulty: medium
+    stem: राजेश दक्षिण की ओर 2 कि.मी. चलता है, और फिर उत्तर - पूर्व की ओर मुड़कर 3 कि.मी. चलता है। उसके बाद वह दक्षिण की ओर मुड़कर 2 कि.मी. चलता है। फिर पश्चिम की ओर मुड़कर 4 कि.मी. चलता है। अंत में वह उत्तर-पश्चिम की तरफ मुड़ता है, और 5 कि.मी. चलता है। वह शुरुआती स्थान से किस दिशा में है ?
+    options:
+      A: उत्तर-पश्चिम
+      B: उत्तर-पूर्व
+      C: दक्षिण-पूर्व
+      D: दक्षिण-पश्चिम
+    answer: A
+    explanation: Using coordinates, he ends at about (−5.4, +1.7) km from the start, which is to the west and north. So he is north-west of the start.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q018
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में एक या दो वक्तव्य दिये गये है, जिसके आगे दो निष्कर्ष/मान्यताएं, I और II निकाले गये हैं। आपको विचार करना है कि वक्तव्य सत्य है चाहे वह सामान्यतः शर्त तथ्यों से भिन्न प्रतीत होता हो। आपको निर्णय करना है कि दिए गए वक्तव्य में से कोन-सा निश्चित रूप से सही निष्कर्ष/मान्यता निकाला जा सकता है ?
+
+      कथन :
+
+      I) गुणवत्ता का एक मुल्य होता है।
+      II) भारत शिक्षा केलिए काफी धन का आवंटन कर रहा है।
+
+      निर्णय:
+
+      I) भारत में शिक्षा की गुणवत्ता में सुधार होगा।
+      II) केवल निधीयन से ही शिक्षा की गुणवत्ता को बढ़ाया जा सकता है।
+    options:
+      A: केवल निष्कर्ष I सही है।
+      B: केवल निष्कर्ष II सही है।
+      C: निष्कर्ष I और II दोनों सही हैं।
+      D: ना तो निष्कर्ष I सही है और ना ही II सही है।
+    answer: A
+    explanation: Quality costs money and India is spending a lot, so quality should improve (I). Nothing says funding alone is enough (II).
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q019
+    difficulty: medium
+    stem: |-
+      निम्नलिखित आकृति में कितने त्रिभुज है ?
+
+      *(चित्र: A wide triangle with apex above a point left of centre on the base. A vertical line runs from the apex to the base. From each lower corner a line rises to a point on the vertical line about halfway up. From the foot of the vertical line, two lines rise diagonally: one up-left to the left side and one up-right to the right side, each crossing one of the lines from the corners.)*
+    options:
+      A: "18"
+      B: "13"
+      C: "9"
+      D: "5"
+    answer: A
+    explanation: "Count by the eight lines (three sides, the vertical, two corner-to-midpoint lines and two lines from the foot): 18 triangles in all."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q025
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसे कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसे कि नीचे दिए गए दो आव्यूहों में हैं। आव्यूह I के स्तंभ और पंक्ति की संख्या 0 से 4 और आव्यूह II की 5 से 9 दी गई है। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए 'A' को 02, 10 आदि द्वारा दर्शाया जा सकता है तथा 'B ' को 57, 65 आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको दिए हुए शब्द 'FADE' के लिए समूह को पहचानना है।
+
+      MATRIX - I
+
+      | | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | I | E | A | O | U |
+      | 1 | A | O | U | I | E |
+      | 2 | E | I | O | U | A |
+      | 3 | O | U | E | A | I |
+      | 4 | U | A | I | E | O |
+
+      MATRIX - II
+
+      | | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | F | D | B | G | H |
+      | 6 | B | G | H | F | D |
+      | 7 | D | F | G | H | B |
+      | 8 | G | H | D | B | F |
+      | 9 | H | B | F | G | D |
+
+      *(चित्र: The two matrices are printed as an image; transcribed as tables.)*
+    options:
+      A: 76, 02, 75, 32
+      B: 68,20,57, 14
+      C: 55, 33, 65, 23
+      D: 89, 10, 96, 41
+    answer: A
+    explanation: F = 76, A = 02, D = 75 and E = 32. Every pair in option A matches.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q026
+    difficulty: medium
+    stem: निम्नलिखित विकल्पो में से किसके सदस्य राज्यों के मुख्य मंत्री होते हैं?
+    options:
+      A: निति आयोग
+      B: वित्त आयोग
+      C: राष्ट्रीय विकास परिषद
+      D: चुनाव आयोग
+    answer: C
+    explanation: All Chief Ministers are members of the National Development Council, together with the PM and Union Cabinet ministers. (They also sit on NITI Aayog's Governing Council.)
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q027
+    difficulty: medium
+    stem: जब बढ़ती हुई आय के साथ साथ किसी वस्तु की मांग बढ़ती है तो ऐसी वस्तु को क्या कहते हैं ?
+    options:
+      A: उत्कृष्ट माल
+      B: निम्नस्तरीय माल
+      C: निकृष्ट माल
+      D: सामान्य माल
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests D.
+
+      A normal good is one whose demand rises as income rises. An inferior good is the opposite. SSC's key gives 'superior good', which is only a kind of normal good.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q028
+    difficulty: medium
+    stem: भारत में ऊर्जा उत्पादन के लिए निम्नलिखित में से कौनसा प्रमुख कच्चा पदार्थ है ?
+    options:
+      A: खनिज तेल
+      B: प्राकृतिक गैस
+      C: यूरेनियम
+      D: कोयला
+    answer: D
+    explanation: Coal-based thermal plants generate most of India's electricity.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q029
+    difficulty: medium
+    stem: निम्नलिखित विकल्पों में से कौन सा जल प्रदूषण का उपचार है?
+    options:
+      A: बैग हाउस निस्यन्दक
+      B: विंड्रो कम्पोस्टिंग
+      C: वैनच्यूरी स्क्रबर
+      D: प्रतिवर्ती परासरण
+    answer: D
+    explanation: Reverse osmosis purifies water. Baghouse filters and venturi scrubbers clean air, and windrow composting treats solid waste.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q030
+    difficulty: medium
+    stem: नियन्त्रक एवं महालेखापरीक्षक प्राथमिक रूप से संसद की निम्नलिखित में से किस समिति से जुड़ा हुआ है ?
+    options:
+      A: प्राक्कलन समिति
+      B: सार्वजनिक उपक्रम समिति
+      C: लोक लेखा समिति
+      D: सभी विकल्प सही हैं
+    answer: C
+    explanation: The CAG's audit reports are examined by the Public Accounts Committee, and the CAG acts as its friend, philosopher and guide.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q031
+    difficulty: medium
+    stem: किसी वस्तू की माँग एक प्रत्यक्ष माँग है, किंतु उत्पादन के घटक की माँग क्या कहलाती है ?
+    options:
+      A: अनुप्रस्थ माँग
+      B: संयुक्त माँग
+      C: व्युत्पन्न माँग
+      D: स्वतंत्र माँग
+    answer: C
+    explanation: The demand for a factor of production comes from the demand for the goods it makes, so it is a derived demand.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q032
+    difficulty: medium
+    stem: मूल्य ह्रास किसके मूल्य की हानि है ?
+    options:
+      A: अंतिम उत्पाद (माल)
+      B: मशीनरी (यंत्र समूह)
+      C: पूँजी स्टॉक
+      D: वस्तुसूची का स्टॉक
+    answer: B
+    explanation: Depreciation is the fall in value of fixed capital, such as machinery, through wear and tear.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q033
+    difficulty: medium
+    stem: कुतुब मीनार के पास स्थित महरौली पिलर प्राथमिक रूप से किस कारण प्रसिद्ध है?
+    options:
+      A: लोकप्रसिद्ध ऊंचाई के कारण
+      B: पत्थर पर हुई कटाई की कारीगिरी के कारण
+      C: उत्कृष्ट गुणवता की ईस्पात के कारण
+      D: शीर्ष पर बुद्ध की मूर्ती के कारण
+    answer: C
+    explanation: The Iron Pillar at Mehrauli has not rusted in over 1600 years, which shows the high quality of its iron.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q034
+    difficulty: medium
+    stem: भारतवर्ष में खरीफ की फसल की कटाई वर्ष के किन महीनों में की जाती है ?
+    options:
+      A: जनवरी-मार्च
+      B: फरवरी-अप्रैल
+      C: सितंबर-अक्तूबर
+      D: नवम्बर-जनवरी
+    answer: C
+    explanation: Kharif crops are sown with the monsoon (June–July) and harvested in September–October.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q035
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सबसे ज्यादा ठोस अपरिष्ट उत्पन्न करता है?
+    options:
+      A: कृषि
+      B: न्यूक्लियर पावर सयंत्र
+      C: उत्पादन उद्योग
+      D: पैकिंग उद्योग
+    answer: C
+    explanation: SSC's key gives manufacturing. Many sources instead name agriculture as the largest producer of solid waste by volume.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q036
+    difficulty: medium
+    stem: पोटेशियम परमैंगनेट का प्रयोग पेयजल के शुद्धीकरण के लिए किया जाता है क्योंकि यह
+    options:
+      A: अवकृत एजेंट है
+      B: एक आक्सिडाइसिंग एजेंट है
+      C: बन्धयीकरण एजेंट है
+      D: जल की अशुद्धियों को घोल देता है
+    answer: B
+    explanation: KMnO₄ is a strong oxidising agent. It oxidises and kills germs and organic impurities in water.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q037
+    difficulty: medium
+    stem: फसलों पर डी.डी.टी. का छिड़काव किस प्रकार का प्रदूषण उत्पन्न करता है?
+    options:
+      A: वायू तथा मृदा
+      B: फसल तथा वायु
+      C: मृदा तथा जल
+      D: वायू तथा जल
+    answer: C
+    explanation: DDT sprayed on crops settles into the soil and runs off into water bodies, where it lasts a long time.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q038
+    difficulty: medium
+    stem: पैन्क्रियास की कोशिकाएं, जो इन्सुलिन उत्पन्न करती हैं, क्या कहलाती हैं?
+    options:
+      A: थायमस
+      B: ऐस्ट्रोजेन
+      C: कार्पस ऐपीडिडायमिस
+      D: आइलैट्स ऑफ लैंगरहैन्स
+    answer: D
+    explanation: The beta cells of the Islets of Langerhans in the pancreas make insulin.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q039
+    difficulty: medium
+    stem: जब हम किसी वस्तु (पिण्ड) को देखते हैं तो रेटीना पर बनने वाला प्रतिबिंब कैसा होगा ?
+    options:
+      A: वास्तविक तथा उल्टा
+      B: वास्तविक तथा सीधा
+      C: कल्पित तथा सीधा
+      D: कल्पित तथा उल्टा
+    answer: A
+    explanation: The eye lens is convex and forms a real, inverted image on the retina.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q040
+    difficulty: medium
+    stem: निम्नलिखित में से कौनसा विकल्प अलग है ?
+    options:
+      A: लाइनक्स
+      B: विन्डोज़ 98
+      C: C++
+      D: विन्डोज़ 7
+    answer: C
+    explanation: Linux, Windows 98 and Windows 7 are operating systems; C++ is a programming language.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q041
+    difficulty: medium
+    stem: गतिज ऊर्जा किस पर निर्भर करती है?
+    options:
+      A: गतिशील /चलनशील पिण्ड के वेग पर
+      B: गतिशील पिण्ड के भार पर
+      C: गतिशील पिण्ड के दाब पर
+      D: गतिशील पिण्ड के वेग तथा भार दोनों पर
+    answer: D
+    explanation: KE = ½mv², so it depends on both mass and velocity.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q042
+    difficulty: medium
+    stem: किसी पदार्थ में ताप परिवर्तन के दौरान संभारित उष्मा ऊर्जा किस रूप में संग्रहित रहती है ?
+    options:
+      A: उष्मा ऊर्जा
+      B: गतिज ऊर्जा
+      C: विभव ऊर्जा
+      D: गतिज तथा विभव ऊर्जा दोनों
+    answer: B
+    explanation: When the temperature rises (with no change of state), the heat supplied goes into the kinetic energy of the molecules.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q043
+    difficulty: medium
+    stem: जब किसी तत्व के परमाणु की एक से ज्यादा द्रव्यमान संख्या होती है तो उसे क्या कहते हैं?
+    options:
+      A: आयसोबार
+      B: आयसोटोप
+      C: आयसोटोन
+      D: आयसोमर
+    answer: B
+    explanation: Isotopes have the same atomic number but different mass numbers.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q044
+    difficulty: medium
+    stem: अशोक के शिलालेख पर किस लिपी का प्रयोग किया गया था?
+    options:
+      A: ब्रह्मि
+      B: देवनागरी
+      C: गुरमुखी
+      D: संस्कृत
+    answer: A
+    explanation: Most of Ashoka's edicts are written in Brahmi script; those in the north-west use Kharosthi.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q045
+    difficulty: medium
+    stem: स्वतंत्रता, समानता और बंधुत्वता के विचार, जिनसे भारत का राष्ट्रीय आंदोलन प्रभावित हुआ था, कहाँ से लिए गए थे?
+    options:
+      A: अम्रीकी क्रांति
+      B: रूसी क्रांति
+      C: चीनी क्रांति
+      D: फ्राँस की क्रांति
+    answer: D
+    explanation: Liberty, Equality, Fraternity was the motto of the French Revolution (1789).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q046
+    difficulty: medium
+    stem: प्रधान मंत्री मुद्रा योजना के तहत कौशल केन्द्र (कारीगरी केंद्र) का उद्घाटन किस शहर में किया गया ?
+    options:
+      A: नोएडा
+      B: कोलकाता
+      C: मुंबई
+      D: हैदराबाद
+    answer: A
+    explanation: At the Stand Up India launch (April 2016) in Noida, the PM also opened a Kaushal Kendra under the Mudra Yojana.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q047
+    difficulty: medium
+    stem: संयुक्त राष्ट्र संघ में निम्नलिखित में से कौनसी काम काज की भाषा नहीं है?
+    options:
+      A: फ्रेंच
+      B: ऐरेबिक
+      C: स्पैनिश
+      D: जापानी
+    answer: D
+    explanation: The six UN official languages are Arabic, Chinese, English, French, Russian and Spanish. Japanese is not one of them.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q049
+    difficulty: medium
+    stem: औलिंपिक्स झंडे मे कितनी रिंग्स हैं?
+    options:
+      A: "4"
+      B: "5"
+      C: "6"
+      D: "7"
+    answer: B
+    explanation: The Olympic flag has five interlocked rings.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q050
+    difficulty: medium
+    stem: भारतीय सेना का तोपखाना विद्यालय (स्कूल ऑफ आर्टीलरी) कहाँ स्थित है?
+    options:
+      A: खड़कवासला
+      B: देहरादून
+      C: देवलाली
+      D: रुड़की
+    answer: C
+    explanation: The Indian Army's School of Artillery is at Deolali, near Nashik.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q051
+    difficulty: medium
+    stem: A और B किसी काम को मिलकर 12 दिन में कर सकते हैं जबकि A अकेला उसी काम को 30 दिन में कर सकता है। B अकेले उसी काम को कितने दिन में कर सकता है ?
+    options:
+      A: 18 दिन
+      B: 20 दिन
+      C: 15 दिन
+      D: 22 दिन
+    answer: B
+    explanation: B's daily share = 1/12 − 1/30 = 3/60 = 1/20, so B alone takes 20 days.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q052
+    difficulty: medium
+    stem: किसी घन का विकर्ण √192 से.मी. है। इसका आयतन (सेमी.³ ) कितना होगा ?
+    options:
+      A: "216"
+      B: "432"
+      C: "512"
+      D: "624"
+    answer: C
+    explanation: Diagonal = a√3 = √192, so a² = 64 and a = 8. Volume = 8³ = 512 cm³.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q053
+    difficulty: medium
+    stem: एक घड़ी का मूल्य Rs. 230 है। वह 12% की छूट पर बेची जाती है, तो घड़ी का ब्रिक्री मूल्य कितना होगा ?
+    options:
+      A: Rs.27.6
+      B: Rs.276
+      C: Rs.202.4
+      D: Rs.257.6
+    answer: C
+    explanation: 230 × 0.88 = Rs. 202.4.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q054
+    difficulty: medium
+    stem: रवि के पास प्रति 18 कि.मी. के लिए 1.5 से.मी. वाला रोडमैप है। वह उस सड़क पर 72 कि.मी. चलता है। उस मैप में तय की गई दूरी कितनी होगी ?
+    options:
+      A: 4 से.मी.
+      B: 6 से.मी.
+      C: 8 से.मी.
+      D: 7 से.मी.
+    answer: B
+    explanation: 72 km is 4 × 18 km, so on the map it is 4 × 1.5 = 6 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q055
+    difficulty: medium
+    stem: किसी वस्तु को Rs. 524 में बेचने पर उतना ही लाभ होता है जितना उसे Rs. 452 में बेचने पर हानि होती है। वस्तु का क्रय मूल्य क्या है ?
+    options:
+      A: Rs.480
+      B: Rs.485
+      C: Rs.488
+      D: Rs.500
+    answer: C
+    explanation: 524 − CP = CP − 452, so CP = (524 + 452)/2 = Rs. 488.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q056
+    difficulty: medium
+    stem: एक वृत्त तथा एक वर्ग के क्षेत्रफल समान हैं। वर्ग की भुजा और वृत्त की त्रिज्या का अनुपात क्या है?
+    options:
+      A: √π:1
+      B: 1:√π
+      C: π²:1
+      D: 1:π
+    answer: A
+    explanation: "s² = πr², so s/r = √π and the ratio is √π : 1."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q057
+    difficulty: medium
+    stem: 75 मी. लम्बी एक रेलगाड़ी 60 कि.मी./घण्टे की चाल से किसी टेलीग्राफ के खम्भे को पार करने में कितना समय लेगी ?
+    options:
+      A: 3.5 सेकंडस
+      B: 4.5 सेकंडस
+      C: 5 सेकंडस
+      D: 5.4 सेकंडस
+    answer: B
+    explanation: 60 km/h = 50/3 m/s, so time = 75 ÷ 50/3 = 4.5 s.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q058
+    difficulty: medium
+    stem: यदि 2x − 2/x = 1 (x ≠ 0),हो तो x³ − 1/x³ का मान क्या है ?
+    options:
+      A: 13/4
+      B: 13/8
+      C: 17/4
+      D: 17/8
+    answer: B
+    explanation: x − 1/x = 1/2. Then x³ − 1/x³ = (1/2)³ + 3(1/2) = 1/8 + 3/2 = 13/8.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q060
+    difficulty: medium
+    stem: एक त्रिभुज के शीर्षों से समांतराली बिन्दु को क्या कहते हैं?
+    options:
+      A: अंतकेन्द्र
+      B: परिकेन्द्र
+      C: लंबकेन्द्र
+      D: केन्द्रक
+    answer: B
+    explanation: The circumcentre is the same distance from all three vertices; it is the centre of the circumcircle.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q061
+    difficulty: medium
+    stem: यदि किसी त्रिभुज का एक कोण दूसरे दो समान कोणों के योग के आधे के बराबर है, तो त्रिभुज कैसा है ?
+    options:
+      A: समद्विबाहु
+      B: विषमबाहु
+      C: समभुज
+      D: समकोणिक
+    answer: C
+    explanation: If the other two angles are equal to x, then the third is ½(2x) = x. All three angles are equal, so the triangle is equilateral.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q063
+    difficulty: medium
+    stem: वह सबसे छोटी संख्या कौन-सी है जिसे 5,6,7,8 से भाग देने पर प्रत्येक दशा में 3 शेष रहे, किन्तु 9 से भाग देने पर कुछ शेष न रहे ?
+    options:
+      A: "1677"
+      B: "1683"
+      C: "2523"
+      D: "3363"
+    answer: B
+    explanation: "LCM(5, 6, 7, 8) = 840, so the number is 840k + 3. It is divisible by 9 first when k = 2: 1683 = 9 × 187."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q064
+    difficulty: medium
+    stem: किसी क्रिकेटर ने, जिसकी गेंदबाजी का औसत 12.4 रन प्रति विकेट था, एक मैच मे 22 रन देकर 5 विकेट लिए जिससे उसकी गेंदबाजी के औसत में 0.4 की कमी आ जाती है। इस मैच से पहले उसके द्वारा लिए गये विकटों की संख्या कितनी थी ?
+    options:
+      A: "78"
+      B: "87"
+      C: "95"
+      D: "105"
+    answer: C
+    explanation: Let n be the wickets before. Then 12.4n + 22 = 12(n + 5), so 0.4n = 38 and n = 95.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q065
+    difficulty: medium
+    stem: 4b²c² − (b² + c² − a²)² के गुणॉको का योग कितना है ?
+    options:
+      A: a + b + c
+      B: 2(a + b + c)
+      C: "0"
+      D: "1"
+    answer: B
+    explanation: It factorises as (a + b + c)(b + c − a)(a − b + c)(a + b − c). These four factors add up to 2(a + b + c).
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q067
+    difficulty: medium
+    stem: किसी त्रिभुज के दो कोणों का योग 116° है और उनका अन्तर 24° है। त्रिभुज के सबसे छोटे कोण की माप क्या है ?
+    options:
+      A: 38°
+      B: 28°
+      C: 46°
+      D: 64°
+    answer: C
+    explanation: The two angles are (116 + 24)/2 = 70° and 46°. The third is 180 − 116 = 64°, so the smallest is 46°.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q068
+    difficulty: medium
+    stem: एक Δ ABC मे DE || BC है। D और E क्रमश:AB और AC पर पड़ते हैं। यदि AB = 7 से.मी. और BD = 3 से.मी. हो तो BC:DE ज्ञात कीजिए ?
+    options:
+      A: 2:2
+      B: 3:2
+      C: "3.5 : 2"
+      D: 7:2
+    answer: C
+    explanation: "AD = 7 − 3 = 4, and the triangles ADE and ABC are similar. So BC : DE = AB : AD = 7 : 4 = 3.5 : 2."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q071
+    difficulty: medium
+    stem: यदि जमीनी तल से किसी खम्भे के शीर्ष का उन्नयन कोण 30° से बढाकर 60° किया जाता है तो 50√3 ऊँचे खम्भे की छाया की लम्बाई कितनी घट जाएगी ?
+    options:
+      A: 60 मी.
+      B: 75 मी.
+      C: 100 मी.
+      D: 50 मी.
+    answer: C
+    explanation: "Shadow = h cot θ: 50√3 × √3 = 150 m at 30°, and 50√3 × (1/√3) = 50 m at 60°. It shortens by 100 m."
+    tags:
+      - quant

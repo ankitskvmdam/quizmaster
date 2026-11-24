@@ -1,0 +1,1197 @@
+slug: 2016-09-02-shift3
+title: SSC CGL 2016 Tier 1
+date: 2016-09-02
+label: 2 Sept, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/509ff2be-dab7-11ed-a69c-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24, Q62, Q66, Q69, Q72, Q73, Q74, Q75."
+questions:
+  - slug: cgl-2016-09-02-s3-q001
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      Words : Sentence :: Paragraph: ?
+    options:
+      A: TYPING
+      B: Essay
+      C: Letters
+      D: Phrase
+    answer: B
+    explanation: Words make up a sentence, and paragraphs make up an essay.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q002
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      BDCE : GIHJ :: QSRT : ?
+    options:
+      A: VWXY
+      B: UWMX
+      C: VXWY
+      D: UWNX
+    answer: C
+    explanation: "Each letter moves 5 places forward: B→G, D→I, C→H, E→J. So Q, S, R, T → V, X, W, Y."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q003
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      9 : 162 :: 8 : ?
+    options:
+      A: "96"
+      B: "112"
+      C: "128"
+      D: "160"
+    answer: C
+    explanation: 9 × 9 × 2 = 162, so 8 × 8 × 2 = 128.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q004
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number from the given alternatives.
+    options:
+      A: Apartment
+      B: Garage
+      C: Quarter
+      D: Flat
+    answer: B
+    explanation: An apartment, a quarter and a flat are places people live in; a garage is for vehicles.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q005
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number from the given alternatives.
+    options:
+      A: BDF
+      B: GIK
+      C: LMO
+      D: OQS
+    answer: C
+    explanation: BDF, GIK and OQS go up in steps of +2. LMO goes +1, +2, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q006
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives.
+    options:
+      A: 5-21
+      B: 29-45
+      C: 48-68
+      D: 71-87
+    answer: C
+    explanation: In each pair the difference is 16 (21 − 5, 45 − 29, 87 − 71). In 48-68 it is 20.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q007
+    difficulty: medium
+    stem: |-
+      Arrange the following words as per order in the dictionary
+
+      1. Diffident 2. Difficult 3.Different 4.Diffidence
+    options:
+      A: 1,2,3,4
+      B: 3,2,4,1
+      C: 2,1,3,4
+      D: 3,2,1,4
+    answer: B
+    explanation: "Differ- < Diffic- < Diffid-, and Diffidence < Diffident. Order: Different, Difficult, Diffidence, Diffident = 3, 2, 4, 1."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q010
+    difficulty: medium
+    stem: If 4 cats can kill 4 rats in 4 minutes, how many minutes will it take 8 cats to kill 8 rats?
+    options:
+      A: "8"
+      B: "4"
+      C: "2"
+      D: "16"
+    answer: B
+    explanation: Each cat kills one rat in 4 minutes. 8 cats working together kill 8 rats in the same 4 minutes.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q011
+    difficulty: medium
+    stem: If the sum of three consecutive numbers is 15, what is the square of the middle number ?
+    options:
+      A: "16"
+      B: "25"
+      C: "36"
+      D: "9"
+    answer: B
+    explanation: Three consecutive numbers that add up to 15 are 4, 5 and 6. The middle number is 5, and 5² = 25.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q012
+    difficulty: medium
+    stem: |-
+      From the given words, select the word which cannot be formed using the letters of the given word.
+
+      ILLUSTRIOUS
+    options:
+      A: Lust
+      B: Trust
+      C: Riot
+      D: Rust
+    answer: B
+    explanation: ILLUSTRIOUS has only one T, so TRUST (which needs two Ts) cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q013
+    difficulty: medium
+    stem: |-
+      If A=1,
+      CAT=60,
+      then MAN=?
+    options:
+      A: "27"
+      B: "90"
+      C: "180"
+      D: "182"
+    answer: D
+    explanation: "Multiply the letters' positions: CAT = 3 × 1 × 20 = 60, so MAN = 13 × 1 × 14 = 182."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q014
+    difficulty: medium
+    stem: If 'P' means '+', 'Q' means 'x', 'R' means '÷', and 'S' means '−', then 44Q9R12S6Q4P16=?
+    options:
+      A: "25"
+      B: "36"
+      C: "112"
+      D: "12"
+    answer: A
+    explanation: 44 × 9 ÷ 12 − 6 × 4 + 16 = 33 − 24 + 16 = 25.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q015
+    difficulty: medium
+    stem: |-
+      If 84+96=4842,
+      then 36+78= ?
+    options:
+      A: "3918"
+      B: "3678"
+      C: "3819"
+      D: "1839"
+    answer: A
+    explanation: "Halve each number and write them in reverse order: 96/2 = 48 and 84/2 = 42 give 4842. So 78/2 = 39 and 36/2 = 18 give 3918."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q017
+    difficulty: medium
+    stem: Rajesh walks 2 km to south, then turns north-east, and walks 3 km. Then he turns south and walks 2 kms. Then he turns west and walks 4 kms. Finally, he turns north-west and walks 5 kms. In which direction is he from his starting point?
+    options:
+      A: North-west
+      B: North-east
+      C: Souh-east
+      D: South-west
+    answer: A
+    explanation: Using coordinates, he ends at about (−5.4, +1.7) km from the start, which is to the west and north. So he is north-west of the start.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q018
+    difficulty: medium
+    stem: |-
+      One statement is given followed by two conclusions/assumptions, I and II. You have to consider the statement to be true, even if it seems to be at variance from commonly known facts. You are to decide which of the given conclusions/assumptions can definitely be drawn from the given statement.
+
+      Statement:
+
+      I) Quality has a price tag.
+      II) India is allocating lots of funds to education.
+
+      Conclusions:
+
+      I) Quality of education in India would improve.
+      II) Funding alone can enhance quality of education.
+    options:
+      A: Only Conclusion I follows
+      B: Only Conclusion II follows
+      C: Both the Conclusions I and II follow
+      D: Neither Conclusion I nor II follows
+    answer: A
+    explanation: Quality costs money and India is spending a lot, so quality should improve (I). Nothing says funding alone is enough (II).
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q019
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the following figure?
+
+      *(Figure: A wide triangle with apex above a point left of centre on the base. A vertical line runs from the apex to the base. From each lower corner a line rises to a point on the vertical line about halfway up. From the foot of the vertical line, two lines rise diagonally: one up-left to the left side and one up-right to the right side, each crossing one of the lines from the corners.)*
+    options:
+      A: "18"
+      B: "13"
+      C: "9"
+      D: "5"
+    answer: A
+    explanation: "Count by the eight lines (three sides, the vertical, two corner-to-midpoint lines and two lines from the foot): 18 triangles in all."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q025
+    difficulty: medium
+    stem: |-
+      In this question, the sets of numbers given in the alternatives are represented. The columns and rows of Matrix I are numbered from 0 to 4 and that of Matrix II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, e.g., A can be represented by 02,10, etc., and 'B' can be represented by 57, 65, etc. Similarly you have to identify the set for the word 'FADE'
+
+      MATRIX - I
+
+      | | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | I | E | A | O | U |
+      | 1 | A | O | U | I | E |
+      | 2 | E | I | O | U | A |
+      | 3 | O | U | E | A | I |
+      | 4 | U | A | I | E | O |
+
+      MATRIX - II
+
+      | | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | F | D | B | G | H |
+      | 6 | B | G | H | F | D |
+      | 7 | D | F | G | H | B |
+      | 8 | G | H | D | B | F |
+      | 9 | H | B | F | G | D |
+
+      *(Figure: The two matrices are printed as an image; transcribed as tables.)*
+    options:
+      A: 76, 02, 75, 32
+      B: 68,20,57, 14
+      C: 55, 33, 65, 23
+      D: 89, 10, 96, 41
+    answer: A
+    explanation: F = 76, A = 02, D = 75 and E = 32. Every pair in option A matches.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-02-s3-q026
+    difficulty: medium
+    stem: Chief Ministers of States are members of __________________
+    options:
+      A: NITI Commission(Aayog)
+      B: Finance Commission
+      C: National Development Council
+      D: Election Commission
+    answer: C
+    explanation: All Chief Ministers are members of the National Development Council, together with the PM and Union Cabinet ministers. (They also sit on NITI Aayog's Governing Council.)
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q027
+    difficulty: medium
+    stem: When the demand for a good increases with an increase in income, such a good is called___________
+    options:
+      A: Superior good
+      B: Giffin good
+      C: Inferior good
+      D: Normal good
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests D.
+
+      A normal good is one whose demand rises as income rises. An inferior good is the opposite. SSC's key gives 'superior good', which is only a kind of normal good.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q028
+    difficulty: medium
+    stem: Which of the following is the most important raw material for generation of power in India?
+    options:
+      A: Mineral Oil
+      B: Natural Gas
+      C: Uranium
+      D: Coal
+    answer: D
+    explanation: Coal-based thermal plants generate most of India's electricity.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q029
+    difficulty: medium
+    stem: Which of the following is the treatment of water pollution?
+    options:
+      A: Bag house filter
+      B: Windrow composting
+      C: Venturi scrubber
+      D: Reverse Osmosis
+    answer: D
+    explanation: Reverse osmosis purifies water. Baghouse filters and venturi scrubbers clean air, and windrow composting treats solid waste.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q030
+    difficulty: medium
+    stem: The Comptroller and Auditor General is closely connected with which of the following Committees of Parliament?
+    options:
+      A: The Estimates Committee
+      B: The Committee on Public Undertakings
+      C: The Public Accounts Committee
+      D: All of these
+    answer: C
+    explanation: The CAG's audit reports are examined by the Public Accounts Committee, and the CAG acts as its friend, philosopher and guide.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q031
+    difficulty: medium
+    stem: The demand of a commodity is a direct demand but the demand of a factor of production is called a
+    options:
+      A: Crossed demand
+      B: Joint demand
+      C: Derived demand
+      D: Independent demand
+    answer: C
+    explanation: The demand for a factor of production comes from the demand for the goods it makes, so it is a derived demand.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q032
+    difficulty: medium
+    stem: Depreciation is loss in value of ________
+    options:
+      A: Final goods
+      B: Machinery
+      C: Capital stock
+      D: Stock of inventory
+    answer: B
+    explanation: Depreciation is the fall in value of fixed capital, such as machinery, through wear and tear.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q033
+    difficulty: medium
+    stem: What is the Mehrauli Pillar in the complex of Qutub Minar primarily famous for?
+    options:
+      A: Proverbial height
+      B: Skilful stone cutting
+      C: Excellent quality steel
+      D: Statue of Buddha on top
+    answer: C
+    explanation: The Iron Pillar at Mehrauli has not rusted in over 1600 years, which shows the high quality of its iron.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q034
+    difficulty: medium
+    stem: Harvesting season of Kharif crop in India is _________
+    options:
+      A: January-March
+      B: February-April
+      C: September-October
+      D: November-January
+    answer: C
+    explanation: Kharif crops are sown with the monsoon (June–July) and harvested in September–October.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q035
+    difficulty: medium
+    stem: Which of the following produces the most solid waste ?
+    options:
+      A: Agriculture
+      B: Nuclear Power Plants
+      C: Manufacturing
+      D: Packaging Industry
+    answer: C
+    explanation: SSC's key gives manufacturing. Many sources instead name agriculture as the largest producer of solid waste by volume.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q036
+    difficulty: medium
+    stem: Potassium Permanganate is used for purifying drinking water, because_________
+    options:
+      A: It is a reducing agent
+      B: It is an oxidising agent
+      C: It is a sterilising agent
+      D: It dissolves the impurities of water
+    answer: B
+    explanation: KMnO₄ is a strong oxidising agent. It oxidises and kills germs and organic impurities in water.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q037
+    difficulty: medium
+    stem: Spraying of DDT on crops causes pollution of __________
+    options:
+      A: Air & Soil
+      B: Crops & Air
+      C: Soil & Water
+      D: Air & Water
+    answer: C
+    explanation: DDT sprayed on crops settles into the soil and runs off into water bodies, where it lasts a long time.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q038
+    difficulty: medium
+    stem: Which cells in pancreas produce Insulin ?
+    options:
+      A: Thymus
+      B: Estrogen
+      C: Corpus epididymis
+      D: Islets of Langerhans
+    answer: D
+    explanation: The beta cells of the Islets of Langerhans in the pancreas make insulin.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q039
+    difficulty: medium
+    stem: When we see an object, the image formed on the retina is ________
+    options:
+      A: Real and inverted
+      B: Real and erect
+      C: Virtual and erect
+      D: Virtual and inverted
+    answer: A
+    explanation: The eye lens is convex and forms a real, inverted image on the retina.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q040
+    difficulty: medium
+    stem: Find the "odd one out".
+    options:
+      A: Linux
+      B: Windows 98
+      C: C++
+      D: Windows 7
+    answer: C
+    explanation: Linux, Windows 98 and Windows 7 are operating systems; C++ is a programming language.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q041
+    difficulty: medium
+    stem: Kinetic energy depends on
+    options:
+      A: the velocity or speed of the moving body.
+      B: the mass of the moving body
+      C: the pressure of the moving body
+      D: both mass and velocity of the moving body
+    answer: D
+    explanation: KE = ½mv², so it depends on both mass and velocity.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q042
+    difficulty: medium
+    stem: In which form is the supplied heat energy stored during change in temperature of substance?
+    options:
+      A: Heat energy
+      B: Kinetic energy
+      C: Potential energy
+      D: Both kinetic and potential energy
+    answer: B
+    explanation: When the temperature rises (with no change of state), the heat supplied goes into the kinetic energy of the molecules.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q043
+    difficulty: medium
+    stem: Atoms of same element having different mass numbers are called__________
+    options:
+      A: Isobars
+      B: Isotopes
+      C: Isotones
+      D: Isomers
+    answer: B
+    explanation: Isotopes have the same atomic number but different mass numbers.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q044
+    difficulty: medium
+    stem: Which script was used in Ashoka's inscriptions?
+    options:
+      A: Brahmi
+      B: Devanagiri
+      C: Gurmukhi
+      D: Sanskrit
+    answer: A
+    explanation: Most of Ashoka's edicts are written in Brahmi script; those in the north-west use Kharosthi.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q045
+    difficulty: medium
+    stem: The ideas of Liberty, Equality and Fraternity, which influenced the Indian National Movement, was taken from _________
+    options:
+      A: American Revolution
+      B: Russian Revolution
+      C: Chinese revolution
+      D: French revolution
+    answer: D
+    explanation: Liberty, Equality, Fraternity was the motto of the French Revolution (1789).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q046
+    difficulty: medium
+    stem: The Kaushal Kendra (skilling center) under the Pradhan Mantri Mudra Yojana has been inaugurated in the city of ______________
+    options:
+      A: Noida
+      B: Kolkata
+      C: Mumbai
+      D: Hyderabad
+    answer: A
+    explanation: At the Stand Up India launch (April 2016) in Noida, the PM also opened a Kaushal Kendra under the Mudra Yojana.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q047
+    difficulty: medium
+    stem: Which one of the following is not the official language of the UNO?
+    options:
+      A: French
+      B: Arabic
+      C: Spanish
+      D: Japanese
+    answer: D
+    explanation: The six UN official languages are Arabic, Chinese, English, French, Russian and Spanish. Japanese is not one of them.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q048
+    difficulty: medium
+    stem: With the participation in the Rio Olympics who has become the first tennis player in the world to have 7 appearances in Olympics?
+    options:
+      A: Martina Navratilova
+      B: Serena Williams
+      C: Leander Paes
+      D: Roger Federer
+    answer: C
+    explanation: At Rio 2016, Leander Paes became the first tennis player to appear in seven Olympics.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q049
+    difficulty: medium
+    stem: How many rings are there in the Olympic flag?
+    options:
+      A: "4"
+      B: "5"
+      C: "6"
+      D: "7"
+    answer: B
+    explanation: The Olympic flag has five interlocked rings.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q050
+    difficulty: medium
+    stem: Indian Army's School of Artillery is located at_______________
+    options:
+      A: Khadakvasala
+      B: Dehradun
+      C: Deolali
+      D: Roorkee
+    answer: C
+    explanation: The Indian Army's School of Artillery is at Deolali, near Nashik.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-02-s3-q051
+    difficulty: medium
+    stem: A and B together can do a piece of work in 12 days while A alone can do the same work in 30 days. B alone can do it in
+    options:
+      A: 18 days
+      B: 20 days
+      C: 15 days
+      D: 22 days
+    answer: B
+    explanation: B's daily share = 1/12 − 1/30 = 3/60 = 1/20, so B alone takes 20 days.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q052
+    difficulty: medium
+    stem: The diagonal of a cube is √192 cm . Its volume (in cm³) will be
+    options:
+      A: "216"
+      B: "432"
+      C: "512"
+      D: "624"
+    answer: C
+    explanation: Diagonal = a√3 = √192, so a² = 64 and a = 8. Volume = 8³ = 512 cm³.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q053
+    difficulty: medium
+    stem: A watch is listed for Rs.230 and is sold at a discount of 12%, then the sale price of the watch is
+    options:
+      A: Rs.27.6
+      B: Rs.276
+      C: Rs.202.4
+      D: Rs.257.6
+    answer: C
+    explanation: 230 × 0.88 = Rs. 202.4.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q054
+    difficulty: medium
+    stem: Ravi has a roadmap with a scale of 1.5 cm for 18 km. He drives on that road for 72 km. What would be his distance covered in that map.
+    options:
+      A: 4 cm
+      B: 6 cm
+      C: 8 cm
+      D: 7 cm
+    answer: B
+    explanation: 72 km is 4 × 18 km, so on the map it is 4 × 1.5 = 6 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q055
+    difficulty: medium
+    stem: "The profit (in Rs.) after selling an article for Rs.524 is the same as the loss (in Rs.) after selling it for Rs.452. The cost price of the article is:"
+    options:
+      A: Rs.480
+      B: Rs.485
+      C: Rs.488
+      D: Rs.500
+    answer: C
+    explanation: 524 − CP = CP − 452, so CP = (524 + 452)/2 = Rs. 488.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q056
+    difficulty: medium
+    stem: "A circle and a square have same area. The ratio of the side of the square to the radius of the circle will be:"
+    options:
+      A: √π:1
+      B: 1:√π
+      C: π²:1
+      D: 1:π
+    answer: A
+    explanation: "s² = πr², so s/r = √π and the ratio is √π : 1."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q057
+    difficulty: medium
+    stem: How long does a train, 75 m long, moving at 60 km/hr take to pass a certain telegraph post?
+    options:
+      A: 3.5 seconds
+      B: 4.5 seconds
+      C: 5 seconds
+      D: 5.4 seconds
+    answer: B
+    explanation: 60 km/h = 50/3 m/s, so time = 75 ÷ 50/3 = 4.5 s.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q058
+    difficulty: medium
+    stem: If 2x − 2/x = 1 (x ≠ 0),then the value of x³ − 1/x³ is
+    options:
+      A: 13/4
+      B: 13/8
+      C: 17/4
+      D: 17/8
+    answer: B
+    explanation: x − 1/x = 1/2. Then x³ − 1/x³ = (1/2)³ + 3(1/2) = 1/8 + 3/2 = 13/8.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q059
+    difficulty: medium
+    stem: if (a + 1/a)² = 3, then the value of a² + 1/a² will be
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: "3"
+    answer: B
+    explanation: (a + 1/a)² = a² + 1/a² + 2 = 3, so a² + 1/a² = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q060
+    difficulty: medium
+    stem: The point equidistant from the vertices of a triangle is called its
+    options:
+      A: incentre
+      B: circumcentre
+      C: orthocentre
+      D: centroid
+    answer: B
+    explanation: The circumcentre is the same distance from all three vertices; it is the centre of the circumcircle.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q061
+    difficulty: medium
+    stem: If one angle of a triangle is equal to half the sum of the other two equal angles, then the triangle is
+    options:
+      A: isosceles
+      B: scalene
+      C: equilateral
+      D: right angled
+    answer: C
+    explanation: If the other two angles are equal to x, then the third is ½(2x) = x. All three angles are equal, so the triangle is equilateral.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q063
+    difficulty: medium
+    stem: "The least number, which when divided by 5, 6, 7 and 8 leaves a remainder 3 in each case, but when divided by 9 leaves no remainder, is:"
+    options:
+      A: "1677"
+      B: "1683"
+      C: "2523"
+      D: "3363"
+    answer: B
+    explanation: "LCM(5, 6, 7, 8) = 840, so the number is 840k + 3. It is divisible by 9 first when k = 2: 1683 = 9 × 187."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q064
+    difficulty: medium
+    stem: "A cricketer, whose bowling average was 12.4 runs/wicket takes 5 wickets for 22 runs in a match, thereby decreases his average by 0.4. The number of wickets, taken by him before this match was:"
+    options:
+      A: "78"
+      B: "87"
+      C: "95"
+      D: "105"
+    answer: C
+    explanation: Let n be the wickets before. Then 12.4n + 22 = 12(n + 5), so 0.4n = 38 and n = 95.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q065
+    difficulty: medium
+    stem: Sum of the factors of 4b²c² − (b² + c² − a²)² is
+    options:
+      A: a + b + c
+      B: 2(a + b + c)
+      C: "0"
+      D: "1"
+    answer: B
+    explanation: It factorises as (a + b + c)(b + c − a)(a − b + c)(a + b − c). These four factors add up to 2(a + b + c).
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q067
+    difficulty: medium
+    stem: The sum of two angles of a triangle is 116° and their difference is 24°. The measure of smallest angle of the triangle is
+    options:
+      A: 38°
+      B: 28°
+      C: 46°
+      D: 64°
+    answer: C
+    explanation: The two angles are (116 + 24)/2 = 70° and 46°. The third is 180 − 116 = 64°, so the smallest is 46°.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q068
+    difficulty: medium
+    stem: In a Δ ABC, DE || BC. D and E lie on AB and AC respectively. If AB = 7 cm and BD = 3cm, then find BC:DE
+    options:
+      A: 2:2
+      B: 3:2
+      C: "3.5 : 2"
+      D: 7:2
+    answer: C
+    explanation: "AD = 7 − 3 = 4, and the triangles ADE and ABC are similar. So BC : DE = AB : AD = 7 : 4 = 3.5 : 2."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q070
+    difficulty: medium
+    stem: The difference between the compound interest and the simple interest on Rs. 6250 at 8% per annum in 2 years is
+    options:
+      A: Rs.30
+      B: Rs.40
+      C: Rs.50
+      D: Rs.60
+    answer: B
+    explanation: For 2 years, CI − SI = P(r/100)² = 6250 × 0.0064 = Rs. 40.
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q071
+    difficulty: medium
+    stem: If the angle of elevation of the top of a pillar from the ground level is raised from 30° to 60°, the length of the shadow of a pillar of height 50√3 will be decreased by
+    options:
+      A: 60 m
+      B: 75 m
+      C: 100 m
+      D: 50 m
+    answer: C
+    explanation: "Shadow = h cot θ: 50√3 × √3 = 150 m at 30°, and 50√3 × (1/√3) = 50 m at 60°. It shortens by 100 m."
+    tags:
+      - quant
+  - slug: cgl-2016-09-02-s3-q076
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which best expresses the meaning of the given word and click the button corresponding to it.
+
+      MASTICATE
+    options:
+      A: CHEW
+      B: CHOKE
+      C: BITE
+      D: SWALLOW
+    answer: A
+    explanation: To masticate is to chew food.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q077
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which is opposite in meaning to the given word and click the button corresponding to it.
+
+      FEROCIOUS
+    options:
+      A: MILD
+      B: SWEET
+      C: BRUTAL
+      D: WILD
+    answer: A
+    explanation: Ferocious means fierce or savage; its opposite is mild.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q078
+    difficulty: medium
+    stem: Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word and click the button corresponding to it.
+    options:
+      A: Alleviate
+      B: Allaviate
+      C: Alliveate
+      D: Allaevate
+    answer: A
+    explanation: The correct spelling is 'alleviate', meaning to ease or lessen.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q079
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the “No error” option.
+
+      The reason Janet came dressed (A) / as Lady Gaga was because she'd been told (B) / it was a costume party (C) / No error (D).
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: B
+    explanation: "'The reason … was because' repeats itself. It should be 'The reason … was that she'd been told'."
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q080
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the “No error” option.
+
+      The path to (A) / the famous church passes (B) / through a forest (C) / No error (D).
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: D
+    explanation: "'The path to the famous church passes through a forest' is correct as it stands."
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q081
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the “No error” option.
+
+      A first European sailor (A) / who came to India (B) / was Vasco-da-Gama (C) / No error (D).
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: A
+    explanation: "An ordinal like 'first' takes 'the': 'The first European sailor who came to India…'."
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q082
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      Legislation was passed to punish brokers who ________ their client’s funds.
+    options:
+      A: devastate
+      B: devour
+      C: defalcate
+      D: dawdle
+    answer: C
+    explanation: To defalcate is to misuse funds held in trust, which fits brokers misusing client money.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q083
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      His father was _________ the same business.
+    options:
+      A: managing over
+      B: engaged in
+      C: endowed with
+      D: enlisted in
+    answer: B
+    explanation: One is 'engaged in' a business.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q084
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      It is due to this lethargy that the plan fell _____
+    options:
+      A: off
+      B: out
+      C: through
+      D: away
+    answer: C
+    explanation: For a plan to 'fall through' is for it to fail.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q085
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Bad blood
+    options:
+      A: Shooting
+      B: Anaemia
+      C: Enmity
+      D: Mourning
+    answer: C
+    explanation: "'Bad blood' means ill feeling or enmity between people."
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q086
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      To beat about the bush
+    options:
+      A: To try to win favours
+      B: To talk well
+      C: To talk about relevant things
+      D: To talk about irrelevant things
+    answer: D
+    explanation: To beat about the bush is to avoid the main point and talk about other things.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q087
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Maiden speech
+    options:
+      A: Bachelor’s speech
+      B: First speech
+      C: Last speech
+      D: Extempore speech
+    answer: B
+    explanation: A maiden speech is a person's first speech, especially in a legislature.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q088
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      A place where money is coined.
+    options:
+      A: Bank
+      B: Mint
+      C: Firm
+      D: Parliament
+    answer: B
+    explanation: Coins are made at a mint.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q089
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      The process by means of which plants and animals breathe.
+    options:
+      A: Respiration
+      B: Germination
+      C: Absorption
+      D: Transpiration
+    answer: A
+    explanation: Respiration is the process by which living things breathe and release energy.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q090
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      One who sneers at the aims and beliefs of his fellow men.
+    options:
+      A: Critic
+      B: Connoisseur
+      C: Pedant
+      D: Cynic
+    answer: D
+    explanation: A cynic sneers at other people's aims and beliefs, doubting their sincerity.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q091
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      He started at the **bottom rung of the ladder** and then gained success.
+    options:
+      A: bottom rung of the stair
+      B: lower rung of the ladder
+      C: lower rung of the stair
+      D: No improvement
+    answer: D
+    explanation: "'Start at the bottom rung of the ladder' is the usual idiom, so no improvement is needed."
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q092
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      The judge **gave** the verdict against the Government.
+    options:
+      A: pronounced
+      B: declared
+      C: sentenced
+      D: No improvement
+    answer: A
+    explanation: A judge 'pronounces' a verdict or judgment.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q093
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      The fire service personnel **put off** the fire with much difficulty.
+    options:
+      A: put on
+      B: put out
+      C: put away
+      D: No improvement
+    answer: B
+    explanation: To 'put out' a fire is to extinguish it. 'Put off' means to postpone.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q094
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      He has the irritating habit of **playing his own trumpet** all the time.
+    options:
+      A: blowing his own trumpet
+      B: pumping his own trumpet
+      C: bringing up his own trumpet
+      D: No improvement
+    answer: A
+    explanation: The idiom is 'blow one's own trumpet', meaning to boast.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q095
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      His illness means he must resign his chairmanship **impromptu**.
+    options:
+      A: fast
+      B: forthwith
+      C: earliest
+      D: No improvement
+    answer: B
+    explanation: "'Forthwith' means immediately, which suits resigning a post. 'Impromptu' means unrehearsed."
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q096
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      There is a growing parallel between India and Europe in terms of language policy and challenges of maintaining a balance between regional languages, minority languages and the rising demand for English.
+
+      The EU's language policy promotes multinationalism and the idea that every EU citizen should learn and speak at least two foreign languages in addition to their mother tongue. In practice, the foreign language curriculum in European countries is dominated now by the need to learn English. So the defacto policy is that children should, in addition to the language of their member state, learn English and one other European language. English has become not only the language of business across Europe, but also the corporate language of many French, German, Dutch and Spanish enterprises.
+
+      The trend across Europe is for schools to begin teaching English in Class I, treating it as a basic skill rather than a foreign language. This trend began in earnest only after 2000. However, the methods to teach English are diverse - an increasingly popular trend is towards bilingual schools, which teach through more than one language medium.
+
+      There is a parallel between India and Europe as regards
+    options:
+      A: language policy
+      B: trade policy
+      C: foreign policy
+      D: cultural policy
+    answer: A
+    explanation: The first line speaks of 'a growing parallel between India and Europe in terms of language policy'.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q097
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      There is a growing parallel between India and Europe in terms of language policy and challenges of maintaining a balance between regional languages, minority languages and the rising demand for English.
+
+      The EU's language policy promotes multinationalism and the idea that every EU citizen should learn and speak at least two foreign languages in addition to their mother tongue. In practice, the foreign language curriculum in European countries is dominated now by the need to learn English. So the defacto policy is that children should, in addition to the language of their member state, learn English and one other European language. English has become not only the language of business across Europe, but also the corporate language of many French, German, Dutch and Spanish enterprises.
+
+      The trend across Europe is for schools to begin teaching English in Class I, treating it as a basic skill rather than a foreign language. This trend began in earnest only after 2000. However, the methods to teach English are diverse - an increasingly popular trend is towards bilingual schools, which teach through more than one language medium.
+
+      According to the passage, the foreign language policy in the EU aims to foster.
+    options:
+      A: English
+      B: Multilingualism
+      C: Bilingualism
+      D: Only native language
+    answer: B
+    explanation: The EU wants every citizen to speak two foreign languages besides the mother tongue, which is multilingualism.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q098
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      There is a growing parallel between India and Europe in terms of language policy and challenges of maintaining a balance between regional languages, minority languages and the rising demand for English.
+
+      The EU's language policy promotes multinationalism and the idea that every EU citizen should learn and speak at least two foreign languages in addition to their mother tongue. In practice, the foreign language curriculum in European countries is dominated now by the need to learn English. So the defacto policy is that children should, in addition to the language of their member state, learn English and one other European language. English has become not only the language of business across Europe, but also the corporate language of many French, German, Dutch and Spanish enterprises.
+
+      The trend across Europe is for schools to begin teaching English in Class I, treating it as a basic skill rather than a foreign language. This trend began in earnest only after 2000. However, the methods to teach English are diverse - an increasingly popular trend is towards bilingual schools, which teach through more than one language medium.
+
+      The passage says that the rising demand for English in the EU is because of
+    options:
+      A: immigrants
+      B: emigrants
+      C: Government policy
+      D: trade and commerce
+    answer: D
+    explanation: The passage says that English has become 'the language of business across Europe' and the corporate language of many firms.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q099
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      There is a growing parallel between India and Europe in terms of language policy and challenges of maintaining a balance between regional languages, minority languages and the rising demand for English.
+
+      The EU's language policy promotes multinationalism and the idea that every EU citizen should learn and speak at least two foreign languages in addition to their mother tongue. In practice, the foreign language curriculum in European countries is dominated now by the need to learn English. So the defacto policy is that children should, in addition to the language of their member state, learn English and one other European language. English has become not only the language of business across Europe, but also the corporate language of many French, German, Dutch and Spanish enterprises.
+
+      The trend across Europe is for schools to begin teaching English in Class I, treating it as a basic skill rather than a foreign language. This trend began in earnest only after 2000. However, the methods to teach English are diverse - an increasingly popular trend is towards bilingual schools, which teach through more than one language medium.
+
+      EU schools regard English as
+    options:
+      A: a foreign language
+      B: a difficult language
+      C: a basic skill
+      D: an adult skill
+    answer: C
+    explanation: Schools treat English 'as a basic skill rather than a foreign language'.
+    tags:
+      - english
+  - slug: cgl-2016-09-02-s3-q100
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      There is a growing parallel between India and Europe in terms of language policy and challenges of maintaining a balance between regional languages, minority languages and the rising demand for English.
+
+      The EU's language policy promotes multinationalism and the idea that every EU citizen should learn and speak at least two foreign languages in addition to their mother tongue. In practice, the foreign language curriculum in European countries is dominated now by the need to learn English. So the defacto policy is that children should, in addition to the language of their member state, learn English and one other European language. English has become not only the language of business across Europe, but also the corporate language of many French, German, Dutch and Spanish enterprises.
+
+      The trend across Europe is for schools to begin teaching English in Class I, treating it as a basic skill rather than a foreign language. This trend began in earnest only after 2000. However, the methods to teach English are diverse - an increasingly popular trend is towards bilingual schools, which teach through more than one language medium.
+
+      In Europe the usual pattern is that
+    options:
+      A: children should study English late in life
+      B: children should start learning English from class I
+      C: children may not study English when they are at school
+      D: children ought to study English just as a lingua franca
+    answer: B
+    explanation: The trend across Europe is for schools to begin teaching English in Class I.
+    tags:
+      - english

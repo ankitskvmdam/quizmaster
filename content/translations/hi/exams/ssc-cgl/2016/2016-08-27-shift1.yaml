@@ -1,0 +1,803 @@
+slug: 2016-08-27-shift1
+title: एसएससी सीजीएल 2016 टियर 1
+date: 2016-08-27
+label: 27 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com — https://docs.aglasem.com/view/5a3f1e1c-dab7-11ed-9b4d-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q16, Q21, Q22, Q23, Q24, Q65, Q72, Q73, Q74, Q75."
+questions:
+  - slug: cgl-2016-08-27-s1-q001
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      गधा : रेंकना : बन्दर : ?
+    options:
+      A: चहकना
+      B: चिंघाड़ना
+      C: गरजना
+      D: घुरघुराना
+    answer: A
+    explanation: "A donkey brays and a monkey chatters: each animal is paired with the sound it makes."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q002
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      ABDE : FGIJ :: IJLM : ?
+    options:
+      A: NOQR
+      B: NOPQ
+      C: NMOP
+      D: NPQR
+    answer: A
+    explanation: "Each letter moves 5 places forward: A→F, B→G, D→I, E→J. So I, J, L, M → N, O, Q, R."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q003
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      1 : 8 :: ? :64
+    options:
+      A: "25"
+      B: "36"
+      C: "30"
+      D: "27"
+    answer: D
+    explanation: "1 : 8 is 1³ : 2³, so the pair is consecutive cubes: 3³ : 4³ = 27 : 64."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q004
+    difficulty: medium
+    stem: दिये गए विकल्पों में से विषम शब्द/ अक्षर/ संख्या युग्म छांटिए।
+    options:
+      A: Swimming
+      B: Sailing
+      C: Diving
+      D: Driving
+    answer: D
+    explanation: Swimming, sailing and diving all happen in water; driving happens on land.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q005
+    difficulty: medium
+    stem: दिये गए विकल्पों में से विषम शब्द/ अक्षर/ संख्या युग्म छांटिए।
+    options:
+      A: RGTF
+      B: MLOK
+      C: CTES
+      D: VDZC
+    answer: D
+    explanation: In RGTF, MLOK and CTES the 1st→3rd letter is +2 and the 2nd→4th is −1 (R→T, G→F). In VDZC, V→Z is +4, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q006
+    difficulty: medium
+    stem: दिये गए विकल्पों में से विषम शब्द/ अक्षर/ संख्या युग्म छांटिए।
+    options:
+      A: "443"
+      B: "633"
+      C: "821"
+      D: "245"
+    answer: B
+    explanation: The digits of 443, 821 and 245 each add up to 11; the digits of 633 add up to 12.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में दिए गए क्रम के अनुसार लिखिए।
+
+      1. Dyke 2. Dwindle 3. Dwell 4. Dye
+    options:
+      A: 3,2,4,1
+      B: 1,3,4,2
+      C: 2,1,3,4
+      D: 3,4,2,1
+    answer: A
+    explanation: "Dwell, Dwindle, Dye, Dyke: 'Dwe' comes before 'Dwi', and both come before 'Dy'; 'Dye' comes before 'Dyk'. Order 3, 2, 4, 1."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q008
+    difficulty: medium
+    stem: |-
+      सही विकल्प चुनकर सीरीज में प्रश्न चिन्ह के स्थान पर लिखिए।
+
+      DHL, PTX, BFJ, ?
+    options:
+      A: KOS
+      B: NRV
+      C: NPS
+      D: NRU
+    answer: B
+    explanation: "Each group's letters are 4 apart (D-H-L), and the first letter moves 12 places each time: D→P→B→N (wrapping after Z). So N, R, V."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q009
+    difficulty: medium
+    stem: |-
+      सीरीज में गलत संख्या छांटिए।
+
+      28, 33, 31, 36, 34, 29
+    options:
+      A: "33"
+      B: "36"
+      C: "34"
+      D: "29"
+    answer: D
+    explanation: "The series alternates +5, −2: 28, 33, 31, 36, 34, then 34 + 5 = 39. So 29 is wrong."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q011
+    difficulty: medium
+    stem: सत्या का जन्मदिन 15 अगस्त को और मीना का जन्मदिन 25 जून को आता है। यदि मीना का जन्मदिन बुधवार को था, तो सत्या का जन्मदिन उसी वर्ष कौन से दिन था ?
+    options:
+      A: शुक्रवार
+      B: सोमवार
+      C: मंगलवार
+      D: शनिवार
+    answer: A
+    explanation: From 25 June to 15 August is 5 + 31 + 15 = 51 days = 7 weeks + 2 days. Wednesday + 2 = Friday.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q012
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों के प्रयोग से बनाया जा सकता है ?
+
+      AMPLIFICATION
+    options:
+      A: ACTOR
+      B: MANOR
+      C: CHAMP
+      D: MANIA
+    answer: D
+    explanation: AMPLIFICATION has M, A (twice), N and I, so MANIA can be formed. The others need R or H, which are not in the word.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q013
+    difficulty: medium
+    stem: अगर BLACKSMITH का कोड CNBELUNKUJ हो तो CHILDREN का कोड क्या होगा ?
+    options:
+      A: DIJMESFO
+      B: DJJNETFP
+      C: DJINETEP
+      D: DJJNETEP
+    answer: B
+    explanation: "Letters move alternately +1 and +2: B→C, L→N, A→B, C→E … So C H I L D R E N → D J J N E T F P."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q014
+    difficulty: medium
+    stem: |-
+      यदि 17 +17 = 2895
+
+      18 +18 = 3245
+
+      19 + 19 = 3615
+
+      हो तो 23 + 23 = ?
+    options:
+      A: "5765"
+      B: "2565"
+      C: "4005"
+      D: "5295"
+    answer: D
+    explanation: "The result is the square followed by 5: 17² = 289 → 2895. So 23² = 529 → 5295."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q015
+    difficulty: medium
+    stem: यदि (=) का मतलब (÷), (+) का मतलब (−), (x) का मतलब (=), (−) का मतलब (+), और (÷) का मतलब (ₓ) हो, तो सही समीकरण ज्ञात कीजिए ?
+    options:
+      A: 8 ÷ 4 + 1 − 5 = 6 x 4
+      B: 4 x 6 ÷ 4 + 4 = 7
+      C: 5 ÷ 3 − 25 + 20 = 20 x 39
+      D: 96 ÷ 2 x 6 ÷105 + 1
+    answer: C
+    explanation: After swapping the signs, option C reads 5 × 3 + 25 − 20 ÷ 20 = 39, i.e. 15 + 25 − 1 = 39, which is true.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q017
+    difficulty: medium
+    stem: एक आदमी 9 कि.मी.पूर्व की ओर उसके बाद 12 कि.मी. दक्षिण की ओर जाता है। उसके प्रारम्भ और अन्तिम बिन्दु के बीच की दूरी ज्ञात कीजिए ?
+    options:
+      A: 8 कि.मी.
+      B: 6 कि.मी.
+      C: 15 कि.मी.
+      D: 7.5 कि.मी.
+    answer: C
+    explanation: The two legs are at right angles, so the distance is √(9² + 12²) = √225 = 15 km.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q018
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में एक या दो वक्तव्य दिये गये है, जिसके आगे दो निष्कर्ष/मान्यताएं, I और II निकाले गये हैं। आपको विचार करना है कि वक्तव्य सत्य है चाहे वह सामान्यतः शर्त तथ्यों से भिन्न प्रतीत होता हो। आपको निर्णय करना है कि दिए गए वक्तव्य में से कोन-सा निश्चित रूप से सही निष्कर्ष/मान्यता निकाला जा सकता है ?
+
+      कथन : गरीबी, सामाजिक अव्यवस्था का लक्षण एवं परिणाम है।
+
+      निष्कर्ष : I. गरीबी सामाजिक व्यवस्था का एक प्रकार है।
+
+      II. गरीबी सामाजिक व्यवस्था से सम्बन्धित है।
+    options:
+      A: केवल निष्कर्ष I सही है।
+      B: केवल निष्कर्ष II सही है।
+      C: दोनों निष्कर्ष I और II सही हैं।
+      D: ना तो निष्कर्ष I सही है और ना ही निष्कर्ष II
+    answer: D
+    explanation: The statement is about social disorder. It does not say that poverty is a kind of social order, or that it is linked to social order, so neither assumption is implicit.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q019
+    difficulty: medium
+    stem: |-
+      वर्ग ABCD में कितने वर्ग हैं ?
+
+      *(चित्र: Square ABCD (A top-left, B top-right, C bottom-right, D bottom-left) divided into a 4 × 4 grid of equal small squares.)*
+    options:
+      A: "16"
+      B: "17"
+      C: "26"
+      D: "30"
+    answer: D
+    explanation: A 4 × 4 grid has 16 + 9 + 4 + 1 = 30 squares (1×1, 2×2, 3×3 and 4×4).
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q020
+    difficulty: medium
+    stem: |-
+      वह कौन सा भाग है जो दर्शाता है कि जो अभिनेता है वह गायक भी है।
+
+      *(चित्र: Three overlapping rectangles labelled by arrows: 'College Students' (upper-left rectangle), 'Actors' (right rectangle) and 'Singers' (narrow vertical rectangle at the lower left). Regions: a = college students only; b = college students and actors only; d = college students and singers only; c = college students, actors and singers; e = actors and singers only; f = actors only; g = singers only.)*
+    options:
+      A: a
+      B: b
+      C: c
+      D: f
+    answer: C
+    explanation: Actors who are also singers lie in the overlap of the Actors and Singers rectangles, which is regions c and e. Of the options, only c is offered.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q025
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में विकल्पों में दिए गए संख्या-समूह, अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसे कि नीचे दिए गए दो आव्यूहों में हैं। आव्यूह I के सतम्भ और पंक्ति की संख्या 0 से 4 तक दी गई है, और आव्यूह II के 5 से 9 तक, इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए, G को 04, 40, आदि द्वारा दर्शाया जा सकता है तथा K को 56, 75, आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको दिए शब्द 'NILE' के लिए समूह को पहचानना है।
+
+      Matrix - I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | C | D | E | F | G |
+      | 1 | F | G | C | D | E |
+      | 2 | D | E | F | G | C |
+      | 3 | E | F | G | C | D |
+      | 4 | G | C | D | E | F |
+
+      Matrix - II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | H | K | L | I | N |
+      | 6 | I | N | H | K | L |
+      | 7 | K | L | I | N | H |
+      | 8 | L | I | N | H | K |
+      | 9 | N | H | K | L | I |
+    options:
+      A: 56, 58, 03, 02
+      B: 59, 77, 85, 43
+      C: 56, 62, 03, 02
+      D: 57, 60, 10, 02
+    answer: B
+    explanation: N = 59 (row 5, column 9), I = 77, L = 85 and E = 43. Every pair in option B matches.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q026
+    difficulty: medium
+    stem: टपकन सिद्धांत (आपमात्रीय सिद्धांत) निम्नलिखित में से किस पर आर्थिक वृद्धि के प्रभाव को नजर अंदाज करता है ?
+    options:
+      A: निवेश
+      B: बचत
+      C: आय वितरण
+      D: उपयोग
+    answer: C
+    explanation: The trickle-down theory assumes that the gains of growth reach the poor on their own, so it ignores how income is distributed.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q027
+    difficulty: medium
+    stem: भारत के नियंत्रक-महालेखापरीक्षक निम्नलिखित में से किसकी प्राप्तियों और व्यय की लेखापरीक्षा नहीं करते ?
+    options:
+      A: केंद्र सरकार
+      B: स्थानीय निकाय
+      C: राज्य सरकार
+      D: सरकारी कम्पनियां
+    answer: B
+    explanation: The CAG audits the accounts of the Union, the States and government companies. Local bodies are mainly audited by the state Local Fund Audit departments.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q028
+    difficulty: medium
+    stem: काकोरी षडयंत्र मामला किस वर्ष में हुआ ?
+    options:
+      A: "1925"
+      B: "1924"
+      C: "1926"
+      D: "1927"
+    answer: A
+    explanation: The Kakori train robbery by HRA revolutionaries took place on 9 August 1925.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q029
+    difficulty: medium
+    stem: ताज महल को 'संगमरमर में स्वप्न'(a dream in marble) कहा जाता है ? किस स्मारक को ' पत्थर में स्वप्न' कहा जाता है ?
+    options:
+      A: रंग महल
+      B: पंच महल
+      C: लाल किला
+      D: बहाई मन्दिर
+    answer: B
+    explanation: Fatehpur Sikri, where the Panch Mahal stands, is called 'a dream in stone'. Of the options, the Panch Mahal is the one that matches.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q030
+    difficulty: medium
+    stem: भारत में लिंग अनुपात की गणना कैसे की जाती है ?
+    options:
+      A: प्रति हजार स्त्रियों पर पुरुषों की संख्या
+      B: प्रति हजार पुरुषों पर स्त्रियों की संख्या
+      C: प्रति सौ स्त्रियों पर पुरुषों की संख्या
+      D: प्रति सौ पुरुषों पर स्त्रियों की संख्या
+    answer: B
+    explanation: In India the sex ratio is the number of females per 1000 males.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q031
+    difficulty: medium
+    stem: सहचर कोशिकाएं निम्नलिखित में से सिर्फ किसमें है ?
+    options:
+      A: ब्रायोफाइट
+      B: टेरिडोफाइट्स
+      C: एन्जियोस्पर्म (आवृतबीजी)
+      D: जिम्नोस्पर्म (अनावृतबीजी)
+    answer: C
+    explanation: Companion cells, which go with sieve tubes in phloem, are found only in angiosperms.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q032
+    difficulty: medium
+    stem: निम्नलिखित में से क्या विद्युत-रोधी है ?
+    options:
+      A: तांबा
+      B: लकड़ी
+      C: पारद
+      D: एल्युमिनियम
+    answer: B
+    explanation: Wood does not conduct electricity. Copper, mercury and aluminium are conductors.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q033
+    difficulty: medium
+    stem: किस कारण से वायु के बुलबुले तरल पदार्थ में उठते हैं ?
+    options:
+      A: पृष्ट-तनाव और आसंजन
+      B: श्यानता और उत्पलव
+      C: तरल पदार्थ पर वायु प्रवाह और उत्पलव
+      D: उत्क्षेप और पृष्ठ तनाव
+    answer: B
+    explanation: Buoyancy pushes the bubble up, and viscosity controls how fast it rises.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q034
+    difficulty: medium
+    stem: जियोलाइट क्या है ?
+    options:
+      A: हाइड्रेटेड फेरिक ऑक्साइड
+      B: हाइड्रेटेड सोडियम एल्युमिनियम सिलिकेट
+      C: सोडियम हेक्सामेटा फॉस्फेट
+      D: सोडियम टेट्राबोरेट
+    answer: B
+    explanation: Zeolite (permutit), used to soften water, is hydrated sodium aluminium silicate.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q035
+    difficulty: medium
+    stem: किस कारण से तरल पदार्थों के क्वथनांक (boiling point) में भिन्नता होती हैं ?
+    options:
+      A: दाब में भिन्नता
+      B: तापमान में भिन्नता
+      C: आयतन में भिन्नता
+      D: घनत्व में भिन्नता
+    answer: A
+    explanation: A liquid boils when its vapour pressure equals the outside pressure, so its boiling point changes with pressure.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q036
+    difficulty: medium
+    stem: विश्व में प्रदूषण का सबसे बड़ा स्रोत कौन-सा है ?
+    options:
+      A: शाकनाशी और कीटनाशी
+      B: आटोमोबाइल से निकलने वाला धुआं
+      C: कूड़ा और कचरा
+      D: औद्योगिक बहिःस्राव
+    answer: C
+    explanation: Sewage and garbage are the largest source of pollution in the world.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q037
+    difficulty: medium
+    stem: निम्नलिखित राज्यों में से सर्वोच्च साक्षरता दर किस राज्य में है ?
+    options:
+      A: उड़िसा
+      B: पंजाब
+      C: महाराष्ट्र
+      D: मिज़ोरम
+    answer: D
+    explanation: Mizoram's literacy rate (about 91% in the 2011 Census) is much higher than that of Odisha, Punjab or Maharashtra.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q038
+    difficulty: medium
+    stem: लोकसभा की बैठक आयोजित करने के लिए न्यूनतम कितनी संख्या में सदस्य उपस्थित होने चाहिए ?
+    options:
+      A: कुल सदस्यता का एक-चौथाई
+      B: कुल सदस्यता का दसवां भाग
+      C: लोकसभा की पचास प्रतिशत संख्या
+      D: न्यूनतम सौ सदस्य
+    answer: B
+    explanation: Under Article 100, the quorum of either House is one-tenth of its total membership.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q039
+    difficulty: medium
+    stem: भारत में जनसंख्या वृद्धि की क्या विशेषता है ?
+    options:
+      A: मृत्यु दर में वृद्धि
+      B: महिलाओं के अनुपात में वृद्धि
+      C: जन्म-दर में वृद्धि किन्तु मृत्यु दर में कमी
+      D: वृद्ध व्यक्तियों की बढ़ती संख्या
+    answer: C
+    explanation: India's population grew fast because death rates fell sharply while birth rates stayed high.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q040
+    difficulty: medium
+    stem: आप ऐसी कर प्रणाली को क्या कहेंगे जिसमें निर्धन वर्ग पर धनी वर्ग की अपेक्षा अधिक कर लगाया जाता हैं ?
+    options:
+      A: प्रगामी कर
+      B: आनुपातिक कर
+      C: पश्चगामी कर
+      D: अवक्रमिक कर
+    answer: C
+    explanation: A regressive tax takes a larger share of income from the poor than from the rich.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q041
+    difficulty: medium
+    stem: किसी 'हितबद्ध गुट' का सबसे महत्वपूर्ण कार्य क्या होता है ?
+    options:
+      A: सरकार बनाना
+      B: अपनी पसंद के अनुसार सरकारी नीतियों में परिवर्तन
+      C: जनमत बनाना
+      D: चुनाव लड़ना
+    answer: B
+    explanation: An interest group tries to shape government policy in its favour. It does not form governments or contest elections.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q042
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा युग्म सही नहीं है ?
+    options:
+      A: शिवाजी-अफ़ज़ल खां
+      B: नूरजहां-महाबत खां
+      C: अकबर-राणा प्रताप
+      D: बाबर-बैरम खां
+    answer: D
+    explanation: Bairam Khan was Humayun's general and Akbar's regent, not Babur's. The other pairs are real rivals or associates.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q043
+    difficulty: medium
+    stem: निम्नलिखित में से किस रेगिस्तान में अत्याधिक मात्रा में स्वर्ण भंडार पाया जाता है ?
+    options:
+      A: अरब
+      B: थार
+      C: मंगोलिया
+      D: आटाकामा
+    answer: D
+    explanation: The Atacama Desert in Chile holds large deposits of copper and gold.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q044
+    difficulty: medium
+    stem: अश्रु ग्रंथी कहां स्थित होती हैं ?
+    options:
+      A: हथेलियों में
+      B: पुख गुहिका में
+      C: नेत्र गुहा में
+      D: पेट में
+    answer: C
+    explanation: The lacrimal (tear) glands sit in the upper outer part of the eye orbit.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q045
+    difficulty: medium
+    stem: किण्वन के पश्चात सबसे व्यापक रूप में "मोलासे" का प्रयोग निम्नलिखित में से क्या तैयार करने के लिए किया जाता है ?
+    options:
+      A: मेथेनॉल
+      B: चीनी
+      C: ऐथेनॉल
+      D: गन्ना
+    answer: C
+    explanation: When molasses is fermented, it is mostly used to make ethanol (alcohol).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q046
+    difficulty: medium
+    stem: अम्ल वर्षा निम्नलिखित में से किसके द्वारा हुए प्रदूषण से होती है ?
+    options:
+      A: नाइट्रोजन और सल्फर के ऑक्साइड से
+      B: नाइट्रोजन और फास्फोरस के ऑक्साइड से
+      C: कार्बन और नाइट्रोजन के ऑक्साइड से
+      D: नाइट्रोजन और मीथेन के ऑक्साइड से
+    answer: A
+    explanation: Oxides of sulphur and nitrogen dissolve in rainwater and form sulphuric and nitric acids.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q047
+    difficulty: medium
+    stem: सियाचिन ग्लेशियर को लेकर किन देशों के बीच विवाद हैं ?
+    options:
+      A: भारत और चीन
+      B: भारत और अफगानिस्तान
+      C: भारत और पाकिस्तान
+      D: भारत और नेपाल
+    answer: C
+    explanation: The Siachen Glacier dispute is between India and Pakistan.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q048
+    difficulty: medium
+    stem: 'यह प्रसिद्ध युक्ती किसने लिखी थी : "A thing of beauty is a joy forever"'
+    options:
+      A: जॉन कीट्स
+      B: वी.एस. नाइपॉल
+      C: सर रिचर्ड बर्टन
+      D: लैरी कॉलिन्स
+    answer: A
+    explanation: "'A thing of beauty is a joy for ever' is the first line of John Keats's poem 'Endymion' (1818)."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q049
+    difficulty: medium
+    stem: किसी भारतीय राज्य की प्रथम महिला राज्यपाल कौन थी ?
+    options:
+      A: श्रीमती सुचेता कृपलानी
+      B: कु. पद्मजा नायडू
+      C: श्रीमती तारकेश्वरी सिन्हा
+      D: श्रीमती सरोजनी नायडू
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests D.
+
+      Sarojini Naidu became Governor of the United Provinces in 1947, the first woman Governor of an Indian state. Sucheta Kripalani was India's first woman Chief Minister.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q050
+    difficulty: medium
+    stem: निम्नलिखित में से कौन-सा एप्लिकेशन प्रोटोकॉल है ?
+    options:
+      A: HTTP
+      B: TCP
+      C: IP
+      D: UDP
+    answer: A
+    explanation: HTTP works at the application layer. TCP and UDP are transport protocols, and IP is a network protocol.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q051
+    difficulty: medium
+    stem: एक घड़ी प्रत्येक दिन 15 मिनट आगे हो जाती है। यदि उसे दोपहर 12 बजे सही सेट करके चलाया जाता है, तो प्रातः 4 बजे वह क्या समय दिखाएगी ?
+    options:
+      A: "4.20 प्रात:"
+      B: "4.30 प्रात:"
+      C: "4.02 प्रात:"
+      D: "4.10 प्रात:"
+    answer: D
+    explanation: From 12 noon to 4 AM is 16 hours. The clock gains 15 × 16/24 = 10 minutes, so it shows 4.10 AM.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q052
+    difficulty: medium
+    stem: एक होम थियेटर सेट Rs. 4950 का है। यदि उस पर 20% और 15% की दो क्रमिक छूट दी जाए तो उसका विक्रय मूल्य क्या होगा ?
+    options:
+      A: Rs.3366
+      B: Rs.6633
+      C: Rs.3636
+      D: Rs.6363
+    answer: A
+    explanation: 4950 × 0.80 × 0.85 = Rs. 3366.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q053
+    difficulty: medium
+    stem: "यदि x का 15% , y के 10% का तिगुना है, तो x : y किसके बराबर होगा ?"
+    options:
+      A: 1:2
+      B: 2:1
+      C: 3:2
+      D: 2:3
+    answer: B
+    explanation: "0.15x = 3 × 0.10y, so 0.15x = 0.30y and x : y = 2 : 1."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q055
+    difficulty: medium
+    stem: किसी व्यक्ति के वेतन का 20% भाग किराए पर खर्च होता है, 60% भाग जीवन-यापन पर खर्च होता है और 10% भाग की वह बचत करता है। यदि वह शेष ₹ 30 बच्चों की शिक्षा पर खर्च करे, तो उसका वेतन कितना है ?
+    options:
+      A: "300"
+      B: "900"
+      C: "3000"
+      D: "9000"
+    answer: A
+    explanation: 100 − (20 + 60 + 10) = 10% of the salary is ₹30, so the salary is ₹300.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q056
+    difficulty: medium
+    stem: एक बन्दूक राम से 6.64 कि.मी. की दूरी से दागी जाती है। राम 20 सेकेण्ड बाद उसकी आवाज़ (ध्वनि) सुनता है। उस ध्वनि की गति क्या है ?
+    options:
+      A: 664 मी./से.
+      B: 664 कि.मी./से.
+      C: 332 मी./से.
+      D: 332 कि.मी./से.
+    answer: C
+    explanation: Speed = 6640 m ÷ 20 s = 332 m/s.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q057
+    difficulty: medium
+    stem: Rs. 2000 पर Rs. 75 प्रति हज़ार वार्षिक दर पर 2 वर्ष का साधारण ब्याज क्या होगा ?
+    options:
+      A: Rs.150
+      B: Rs.300
+      C: Rs.600
+      D: Rs.400
+    answer: B
+    explanation: Rs. 75 per thousand is 7.5% a year. SI = 2000 × 7.5 × 2/100 = Rs. 300.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q058
+    difficulty: medium
+    stem: यदि x = 1 + √2 + √3 हो, तो x² − 2x − 4 का मान बताएं ?
+    options:
+      A: √6
+      B: 2√3
+      C: 3√2
+      D: 2√6
+    answer: D
+    explanation: x − 1 = √2 + √3, so (x − 1)² = 5 + 2√6. Then x² − 2x − 4 = (x − 1)² − 5 = 2√6.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q059
+    difficulty: medium
+    stem: यदि (a + b)/√ab = 2/1 हो, तो (a − b) का मान क्या होगा ?
+    options:
+      A: "1"
+      B: "0"
+      C: −1
+      D: "2"
+    answer: B
+    explanation: a + b = 2√(ab) means (√a − √b)² = 0, so a = b and a − b = 0.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q060
+    difficulty: medium
+    stem: यदि ΔABC 16 से.मी. भुजा वाला समबाहु त्रिकोण हो, तो त्रिकोण कि ऊँचाई बताएं ?
+    options:
+      A: 2√3 से.मी.
+      B: 4√3 से.मी.
+      C: 8√3 से.मी.
+      D: 5√3 से.मी.
+    answer: C
+    explanation: The altitude of an equilateral triangle is (√3/2) × side = (√3/2) × 16 = 8√3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q061
+    difficulty: medium
+    stem: ΔABC का O परिकेन्द्र है। यदि AO = 8 से.मी. हो, तो BO की लम्बाई बताएं ?
+    options:
+      A: 12 से.मी.
+      B: 3 से.मी.
+      C: 6 से.मी.
+      D: 8 से.मी.
+    answer: D
+    explanation: The circumcentre is the same distance from every vertex, so BO = AO = 8 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q062
+    difficulty: medium
+    stem: यह मानते हुए कि tan(θ + 15°) = √3, तो θ का मान बताएं ?
+    options:
+      A: 15°
+      B: 75°
+      C: 45°
+      D: 65°
+    answer: C
+    explanation: tan 60° = √3, so θ + 15° = 60° and θ = 45°.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q063
+    difficulty: medium
+    stem: 15 मीटर 17 से.मी. लम्बे और 9 मीटर 2 से.मी. चौड़े कमरे की छत बनाने के लिए 41 से.मी. फलक वाली न्यूनतम कितनी वर्गाकार टाइलों की आवश्यकता होगी ?
+    options:
+      A: "902"
+      B: "656"
+      C: "738"
+      D: "814"
+    answer: D
+    explanation: 1517 cm ÷ 41 = 37 and 902 cm ÷ 41 = 22, so 37 × 22 = 814 tiles.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q066
+    difficulty: medium
+    stem: यदि x + 1/x = 5 हो, तो 6x/(x² + x + 1) का मान बताइएं ?
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: A
+    explanation: "Divide top and bottom by x: 6/(x + 1 + 1/x) = 6/(5 + 1) = 1."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q067
+    difficulty: medium
+    stem: यदि a>b>0, AB = a − b से.मी., BC = 2√ab से.मी.हो, तो ∠ABC का मान क्या होगा ?
+    options:
+      A: 45°
+      B: 60°
+      C: 90°
+      D: 120°
+    answer: C
+    explanation: In the standard version CA = a + b. Then AB² + BC² = (a − b)² + 4ab = (a + b)² = CA², so by the converse of Pythagoras ∠ABC = 90°.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q069
+    difficulty: medium
+    stem: किसी मीनार के आधार से 40 मीटर की दूरी पर, एक बिन्दु से, मीनार के शीर्ष भाग का उन्नयन कोण 60° है। मीनार की ऊंचाई बताइए ?
+    options:
+      A: 40√3
+      B: 40√3 सी.मी.
+      C: 40√3 मी.
+      D: 40√2 मी.
+    answer: C
+    explanation: height = 40 × tan 60° = 40√3 m.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q070
+    difficulty: medium
+    stem: किसी गोलक और अर्धगोलक की त्रिज्या एक समान है। उनके कुल प्रष्ठ के क्षेत्रफल का अनुपात बताएं ?
+    options:
+      A: 3:1
+      B: 2:1
+      C: 3:2
+      D: 4:3
+    answer: D
+    explanation: "A sphere's total surface area is 4πr² and a solid hemisphere's is 3πr², giving a ratio of 4 : 3."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q071
+    difficulty: medium
+    stem: दो वृत्तों की दो बराबर की चाप, केन्द्र में 60° और 75° के कोण अन्तरित करती है। दोनों वृत्तों की त्रिज्याओं का अनुपात क्या होगा ?
+    options:
+      A: 5/4
+      B: 3/2
+      C: 4/5
+      D: 2/3
+    answer: A
+    explanation: "Equal arcs mean r₁ × 60° = r₂ × 75°, so r₁ : r₂ = 75 : 60 = 5 : 4."
+    tags:
+      - quant
