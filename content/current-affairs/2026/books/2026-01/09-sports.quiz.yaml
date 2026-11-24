@@ -1,0 +1,104 @@
+# Section 9 — Sports (January 2026)
+- slug: ca-2601-spo-01
+  difficulty: easy
+  stem: "Which team won the Vijay Hazare Trophy 2025-26?"
+  options: { A: "Vidarbha", B: "Saurashtra", C: "Karnataka", D: "Mumbai" }
+  answer: A
+  explanation: "Vidarbha beat Saurashtra by 38 runs in the final at Bengaluru to win their first Vijay Hazare Trophy."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-02
+  difficulty: easy
+  stem: "The Vijay Hazare Trophy is associated with which sport?"
+  options: { A: "Hockey", B: "Football", C: "Cricket", D: "Badminton" }
+  answer: C
+  explanation: "The Vijay Hazare Trophy is India's national one-day (List A) cricket championship."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-03
+  difficulty: easy
+  stem: "Who won the women's singles title at the Australian Open 2026?"
+  options: { A: "Aryna Sabalenka", B: "Elena Rybakina", C: "Iga Swiatek", D: "Coco Gauff" }
+  answer: B
+  explanation: "Elena Rybakina beat world No. 1 Aryna Sabalenka in three sets in the final on 31 January 2026."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-04
+  difficulty: easy
+  stem: "The ICC Men's T20 World Cup 2026 is co-hosted by India and"
+  options: { A: "Bangladesh", B: "Nepal", C: "the UAE", D: "Sri Lanka" }
+  answer: D
+  explanation: "India and Sri Lanka co-host the 20-team ICC Men's T20 World Cup 2026."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-05
+  difficulty: medium
+  stem: "Which team replaced Bangladesh in the ICC Men's T20 World Cup 2026?"
+  options: { A: "Ireland", B: "Netherlands", C: "Scotland", D: "Zimbabwe" }
+  answer: C
+  explanation: "The ICC brought in Scotland after Bangladesh declined to send its team to India."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-06
+  difficulty: medium
+  stem: "Where did the sixth Khelo India Winter Games open in January 2026?"
+  options: { A: "Gulmarg", B: "Leh", C: "Shimla", D: "Auli" }
+  answer: B
+  explanation: "The Games opened at the Nawang Dorjan Stobdan Stadium in Leh; the snow events are held at Gulmarg."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-07
+  difficulty: medium
+  stem: "Who won the women's singles title at the India Open 2026 badminton tournament?"
+  options: { A: "An Se Young", B: "Wang Zhi Yi", C: "Akane Yamaguchi", D: "P.V. Sindhu" }
+  answer: A
+  explanation: "An Se Young of South Korea retained her India Open title, beating Wang Zhi Yi of China in the final."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-08
+  difficulty: medium
+  stem: "At the Australian Open 2026, Novak Djokovic became the first player to"
+  options: { A: "win 25 Grand Slam singles titles", B: "win the Australian Open eleven times", C: "play 100 Grand Slam tournaments", D: "win 400 Grand Slam singles matches" }
+  answer: D
+  explanation: "Djokovic reached 400 match wins at the Grand Slams, a first in tennis."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-09
+  difficulty: medium
+  stem: "Which of these sportspersons was named for the Padma Bhushan in 2026?"
+  options: { A: "Rohit Sharma", B: "Vijay Amritraj", C: "Harmanpreet Kaur", D: "Savita Punia" }
+  answer: B
+  explanation: "Vijay Amritraj was named for the Padma Bhushan; the other three were named for the Padma Shri."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-10
+  difficulty: hard
+  stem: "Amelia Valverde, appointed head coach of the Indian senior women's football team, is from"
+  options: { A: "Costa Rica", B: "Spain", C: "Brazil", D: "Sweden" }
+  answer: A
+  explanation: "Valverde earlier coached the women's national team of Costa Rica, her own country."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-11
+  difficulty: hard
+  stem: "Who won the men's singles title at the India Open 2026 badminton tournament?"
+  options: { A: "Jonatan Christie", B: "Viktor Axelsen", C: "Lin Chun-Yi", D: "Lakshya Sen" }
+  answer: C
+  explanation: "Lin Chun-Yi of Chinese Taipei beat Jonatan Christie of Indonesia in the final in New Delhi."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-12
+  difficulty: hard
+  stem: "Which discipline was included in the Khelo India Winter Games for the first time in 2026?"
+  options: { A: "Ice hockey", B: "Alpine skiing", C: "Snowboarding", D: "Figure skating" }
+  answer: D
+  explanation: "Figure skating made its first appearance at the sixth Khelo India Winter Games."
+  tags: ["2026-01"]
+
+- slug: ca-2601-spo-13
+  difficulty: hard
+  stem: "With which company did the BCCI sign a three-year sponsorship deal worth Rs 270 crore ahead of IPL 2026?"
+  options: { A: "Microsoft Copilot", B: "OpenAI", C: "Google Gemini", D: "Perplexity" }
+  answer: C
+  explanation: "The BCCI signed an AI sponsorship deal of Rs 270 crore over three years with Google Gemini."
+  tags: ["2026-01"]

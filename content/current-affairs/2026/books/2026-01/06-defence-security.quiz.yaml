@@ -1,0 +1,104 @@
+# Section 6 — Defence & Security (January 2026)
+- slug: ca-2601-def-01
+  difficulty: easy
+  stem: "In which city was the 78th Army Day parade held on 15 January 2026?"
+  options: { A: "Pune", B: "Jaipur", C: "Lucknow", D: "Bengaluru" }
+  answer: B
+  explanation: "The 78th Army Day parade was held in Jaipur, the first time the parade was held outside a cantonment."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-02
+  difficulty: easy
+  stem: "Army Day is observed every year on"
+  options: { A: "15 January", B: "19 January", C: "23 January", D: "26 January" }
+  answer: A
+  explanation: "Army Day is observed on 15 January; 2026 was the 78th Army Day."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-03
+  difficulty: easy
+  stem: "ICGS Samudra Pratap, commissioned in January 2026, is a"
+  options: { A: "fast patrol vessel", B: "hovercraft", C: "training ship", D: "pollution control vessel" }
+  answer: D
+  explanation: "Samudra Pratap is the first of two indigenous pollution control vessels of the Indian Coast Guard."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-04
+  difficulty: easy
+  stem: "The Pralay missile, test-fired in a salvo by DRDO, is a"
+  options: { A: "surface-to-air missile", B: "air-to-air missile", C: "surface-to-surface missile", D: "anti-tank guided missile" }
+  answer: C
+  explanation: "Pralay is a surface-to-surface, quasi-ballistic missile with a range of 150–500 km."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-05
+  difficulty: medium
+  stem: "Which shipyard built ICGS Samudra Pratap?"
+  options: { A: "Goa Shipyard Limited", B: "Mazagon Dock Shipbuilders", C: "Garden Reach Shipbuilders and Engineers", D: "Cochin Shipyard Limited" }
+  answer: A
+  explanation: "Goa Shipyard Limited built Samudra Pratap, the largest ship in the Coast Guard fleet."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-06
+  difficulty: medium
+  stem: "Which new units of the Indian Army made their debut at the Army Day parade of 2026?"
+  options: { A: "Rudra Brigades", B: "Bhairav Battalions", C: "Shaktibaan Regiments", D: "Divyastra Batteries" }
+  answer: B
+  explanation: "The Bhairav Battalions, light and fast strike units, marched for the first time at the Army Day parade in Jaipur."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-07
+  difficulty: medium
+  stem: "INSV Kaundinya, India's first 'stitched ship', completed its first voyage from Porbandar to"
+  options: { A: "Colombo", B: "Port Louis", C: "Dubai", D: "Muscat" }
+  answer: D
+  explanation: "INSV Kaundinya, built with coir stitching and no metal nails, sailed from Porbandar to Muscat in Oman."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-08
+  difficulty: medium
+  stem: "'Lokayan 26', which began on 20 January 2026, is a ten-month voyage of"
+  options: { A: "INS Tarini", B: "INS Vikrant", C: "INS Sudarshini", D: "INS Sagardhwani" }
+  answer: C
+  explanation: "The sail training ship INS Sudarshini set out on Lokayan 26, a voyage of over 22,000 nautical miles to 13 countries."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-09
+  difficulty: medium
+  stem: "The Akash-NG missile, whose user trials were completed, is being inducted into the"
+  options: { A: "Indian Air Force", B: "Indian Navy", C: "Indian Coast Guard", D: "Border Security Force" }
+  answer: A
+  explanation: "Akash-NG is a surface-to-air missile with a range of up to 70 km, cleared for induction into the Indian Air Force."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-10
+  difficulty: hard
+  stem: "The National IED Data Management System (NIDMS), inaugurated in January 2026, was developed by the"
+  options: { A: "National Investigation Agency", B: "National Security Guard", C: "Intelligence Bureau", D: "Central Reserve Police Force" }
+  answer: B
+  explanation: "The NSG developed NIDMS, India's first national digital database of bomb blasts."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-11
+  difficulty: hard
+  stem: "The Suryastra rocket launcher is being supplied to the Indian Army by"
+  options: { A: "Bharat Dynamics Limited", B: "Solar Industries", C: "Tata Advanced Systems", D: "NIBE Limited" }
+  answer: D
+  explanation: "The Army signed an emergency procurement contract with NIBE Limited for Suryastra, which is based on a system of Israel's Elbit Systems."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-12
+  difficulty: hard
+  stem: "The Long Range Anti-Ship Hypersonic Missile shown at the Republic Day parade of 2026 has a range of about"
+  options: { A: "300 km", B: "700 km", C: "1,500 km", D: "5,000 km" }
+  answer: C
+  explanation: "DRDO's LR-AShM, shown in public for the first time, has a range of about 1,500 km."
+  tags: ["2026-01"]
+
+- slug: ca-2601-def-13
+  difficulty: hard
+  stem: "INS Sagardhwani sailed from Kochi in January 2026 for the fifth edition of"
+  options: { A: "Sagar Maitri", B: "Samudra Shakti", C: "Milan", D: "Sagar Kavach" }
+  answer: A
+  explanation: "Sagar Maitri is a joint Navy–DRDO programme of ocean research with Indian Ocean countries; INS Sagardhwani sailed for its fifth edition."
+  tags: ["2026-01"]

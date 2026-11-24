@@ -1,0 +1,112 @@
+# Section 1 — Polity & Governance (January 2026)
+- slug: ca-2601-pol-01
+  difficulty: easy
+  stem: "Census 2027 will be India's first ________ census."
+  options: { A: "digital", B: "postal", C: "sample-based", D: "biometric" }
+  answer: A
+  explanation: "Census 2027, the 16th census, is planned as India's first digital census, with an option of self-enumeration."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-02
+  difficulty: easy
+  stem: "What was the theme of the 77th Republic Day celebrations in January 2026?"
+  options: { A: "Swarnim Bharat: Virasat aur Vikas", B: "150 Years of Vande Mataram", C: "India: Mother of Democracy", D: "Nari Shakti" }
+  answer: B
+  explanation: "The Republic Day 2026 parade was built around the theme '150 Years of Vande Mataram'."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-03
+  difficulty: easy
+  stem: "'Granth Kutir', a collection of books in India's 11 classical languages, was inaugurated in January 2026 at"
+  options: { A: "Parliament House", B: "the National Library, Kolkata", C: "Rashtrapati Bhavan", D: "Nalanda University" }
+  answer: C
+  explanation: "The President inaugurated Granth Kutir at Rashtrapati Bhavan; it holds about 2,300 books in the 11 classical languages."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-04
+  difficulty: easy
+  stem: "'Udai', introduced in January 2026, is the mascot of"
+  options: { A: "Census 2027", B: "the Election Commission of India", C: "DigiLocker", D: "Aadhaar" }
+  answer: D
+  explanation: "UIDAI introduced 'Udai' as the mascot of Aadhaar."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-05
+  difficulty: medium
+  stem: "How many obsolete laws were repealed by the Repealing and Amending Act, 2025?"
+  options: { A: "35", B: "71", C: "104", D: "150" }
+  answer: B
+  explanation: "The Act repealed 71 obsolete laws and amended four Acts."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-06
+  difficulty: medium
+  stem: "Census 2027 will carry out the first nationwide caste enumeration since"
+  options: { A: "1931", B: "1941", C: "1951", D: "1971" }
+  answer: A
+  explanation: "Castes other than the Scheduled Castes and Tribes were last counted across the country in the census of 1931."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-07
+  difficulty: medium
+  stem: "Who was appointed Vigilance Commissioner in the Central Vigilance Commission in January 2026?"
+  options: { A: "Sangam Kumar Sahoo", B: "M.S. Sahoo", C: "Praveen Vashista", D: "Narayan Ramachandran" }
+  answer: C
+  explanation: "The President appointed Praveen Vashista as Vigilance Commissioner under the CVC Act, 2003."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-08
+  difficulty: medium
+  stem: "The 28th Conference of Speakers and Presiding Officers of the Commonwealth (CSPOC), held in January 2026, was hosted by"
+  options: { A: "Australia", B: "the United Kingdom", C: "Canada", D: "India" }
+  answer: D
+  explanation: "India hosted the 28th CSPOC in New Delhi, 16 years after it last hosted the conference in 2010."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-09
+  difficulty: medium
+  stem: "Which disease did the Delhi government decide to make notifiable under the Epidemic Diseases Act, 1897?"
+  options: { A: "Human rabies", B: "Dengue", C: "Tuberculosis", D: "Leprosy" }
+  answer: A
+  explanation: "The Delhi government decided to declare human rabies a notifiable disease under the Epidemic Diseases Act, 1897."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-10
+  difficulty: hard
+  stem: "In January 2026 the Supreme Court gave a split verdict on the validity of Section 17A of which law?"
+  options: { A: "The Unlawful Activities (Prevention) Act, 1967", B: "The Prevention of Corruption Act, 1988", C: "The Prevention of Money Laundering Act, 2002", D: "The Lokpal and Lokayuktas Act, 2013" }
+  answer: B
+  explanation: "Justice K.V. Viswanathan upheld Section 17A of the Prevention of Corruption Act, 1988, while Justice B.V. Nagarathna struck it down."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-11
+  difficulty: hard
+  stem: "Governor's Rule was extended by six months in January 2026 in the Chakma Autonomous District Council. In which State is this council?"
+  options: { A: "Tripura", B: "Meghalaya", C: "Mizoram", D: "Assam" }
+  answer: C
+  explanation: "The Chakma Autonomous District Council is in Mizoram; it was formed in 1972 under the Sixth Schedule."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-12
+  difficulty: hard
+  stem: "The analytics tool of NATGRID, which was linked with the National Population Register, is called"
+  options: { A: "Trinetra", B: "Netra", C: "Sudarshan", D: "Gandiva" }
+  answer: D
+  explanation: "Gandiva is NATGRID's analytics tool; NATGRID was linked with the NPR database."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-13
+  difficulty: hard
+  stem: "After the Supreme Court stayed the UGC (Promotion of Equity in Higher Education Institutions) Regulations, 2026, which regulations apply in their place for now?"
+  options: { A: "The UGC regulations of 2012", B: "The UGC regulations of 2018", C: "The draft regulations of 2025", D: "No regulations at all" }
+  answer: A
+  explanation: "The Court stayed the 2026 regulations and directed that the UGC's 2012 regulations would apply until further orders."
+  tags: ["2026-01"]
+
+- slug: ca-2601-pol-14
+  difficulty: hard
+  stem: "Under the Ministry of Home Affairs' new procedure for cyber financial frauds, refunds can be made without a court order when the amount is below"
+  options: { A: "Rs 10,000", B: "Rs 25,000", C: "Rs 50,000", D: "Rs 1,00,000" }
+  answer: C
+  explanation: "The procedure allows refunds in frauds below Rs 50,000 without a court order."
+  tags: ["2026-01"]
