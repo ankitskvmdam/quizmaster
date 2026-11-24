@@ -13,7 +13,7 @@ export default async function CoursesPage() {
     <>
       <PageHeader
         title="Courses"
-        description="Pick a course, then a subject. Read the notes and book gists, then practise."
+        description="Pick a course, then a subject. Read the notes and book summaries, then practise."
       />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {courses.map((c) => (
