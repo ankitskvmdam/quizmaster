@@ -1,0 +1,182 @@
+# Section 7 — Civil Disobedience and Round Table Conferences
+# ---------- Previous-year questions ----------
+- slug: fs-cdm-01
+  difficulty: easy
+  stem: "For how many days did Dandi March last?"
+  options: { A: "10 days", B: "20 days", C: "24 days", D: "30 days", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "The Dandi March began on 12 March 1930 and reached Dandi on 5 April 1930, a walk of 24 days."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-cdm-02
+  difficulty: easy
+  stem: "Which day was declared as 'Purna Swaraj Day' by the Indian National Congress?"
+  options: { A: "26-01-1930", B: "15-08-1947", C: "30-01-1948", D: "31-12-1950", E: "None of the above/More than one of the above" }
+  answer: A
+  explanation: "After the Lahore session of 1929 demanded complete independence, the Congress observed 26 January 1930 as Purna Swaraj Day."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-cdm-03
+  difficulty: medium
+  stem: "Who participated in all the three Round Table Conferences?"
+  options: { A: "Maulana Abul Kalam Azad", B: "Madan Mohan Malaviya", C: "B. R. Ambedkar", D: "Mahatma Gandhi", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "B.R. Ambedkar attended all three Round Table Conferences; Gandhi attended only the second. BPSC cancelled this sitting, so there is no official key."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-cdm-04
+  difficulty: hard
+  stem: "During the Salt Satyagraha in Bihar, in addition to making salt, the people chose to oppose the government by opposing which tax?"
+  options: { A: "Haathi", B: "Development", C: "Malba", D: "More than one of the above", E: "None of the above" }
+  answer: E
+  explanation: "In Bihar people refused to pay the chowkidari tax during the Salt Satyagraha. It is not among the options, so the answer is 'None of the above'."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-cdm-05
+  difficulty: easy
+  stem: "Which Commission accentuated the discontent in all the political groups and parties for not associating any Indian member in it?"
+  options: { A: "Welby Commission", B: "Cripps Mission", C: "Simon Commission", D: "Cabinet Mission" }
+  answer: C
+  explanation: "The Simon Commission, appointed in 1927, had only British members, so almost all Indian parties boycotted it."
+  source: "BPSC 71st Prelims"
+
+- slug: fs-cdm-06
+  difficulty: medium
+  stem: "In which year did the Third Round Table Conference take place?"
+  options: { A: "1928", B: "1930", C: "1932", D: "1929" }
+  answer: C
+  explanation: "The Third Round Table Conference was held in London from November to December 1932."
+  source: "SSC CGL 2019"
+
+- slug: fs-cdm-07
+  difficulty: easy
+  stem: "In which of the following years was the Second Round Table Conference in London held?"
+  options: { A: "1925", B: "1939", C: "1931", D: "1941" }
+  answer: C
+  explanation: "The Second Round Table Conference, the only one Gandhi attended, was held in London from September to December 1931."
+  source: "SSC CGL 2020"
+
+- slug: fs-cdm-08
+  difficulty: easy
+  stem: "The Poona Pact of 1932 was an agreement between Mahatma Gandhi and ______."
+  options: { A: "BR Ambedkar", B: "Lord Irwin", C: "Aurobindo Ghose", D: "Bal Gangadhar Tilak" }
+  answer: A
+  explanation: "The Poona Pact of 1932 between Gandhi and B.R. Ambedkar replaced separate electorates for the depressed classes with reserved seats."
+  source: "SSC CGL 2021"
+
+- slug: fs-cdm-09
+  difficulty: easy
+  stem: "Who among the following leaders from INC attended the Second Round Table Conference?"
+  options: { A: "Mahatma Gandhi", B: "Subhash Chandra Bose", C: "Sucheta Kripalani", D: "Jawaharlal Nehru" }
+  answer: A
+  explanation: "Gandhi was the sole representative of the Congress at the Second Round Table Conference in London in 1931."
+  source: "SSC CGL 2023"
+
+- slug: fs-cdm-10
+  difficulty: easy
+  stem: "In the second Round Table Conference, Mahatma Gandhi represented which of the following parties?"
+  options: { A: "Communist Party of India", B: "Muslim League", C: "Indian National Congress", D: "All India Forward Bloc" }
+  answer: C
+  explanation: "Gandhi attended the Second Round Table Conference of 1931 as the sole representative of the Indian National Congress."
+  source: "SSC CGL 2024"
+
+- slug: fs-cdm-11
+  difficulty: hard
+  stem: "After Mahatma Gandhi's release from prison in January 1931, Congress leaders met at ______ to plan the future course of action."
+  options: { A: "Calcutta", B: "Lahore", C: "Allahabad", D: "Surat" }
+  answer: C
+  explanation: "After Gandhi's release in January 1931 the Congress leaders met at Allahabad; the talks that followed led to the Gandhi-Irwin Pact."
+  source: "SSC CGL 2021"
+
+# ---------- New questions ----------
+- slug: fs-cdm-12
+  difficulty: medium
+  stem: "How many chosen followers set out with Gandhi from Sabarmati Ashram on the Dandi March?"
+  options: { A: "24", B: "56", C: "72", D: "78" }
+  answer: D
+  explanation: "Gandhi left Sabarmati Ashram on 12 March 1930 with 78 chosen followers."
+
+- slug: fs-cdm-13
+  difficulty: medium
+  stem: "Who led the raid on the Dharasana salt works in May 1930 after the arrest of Gandhi and Abbas Tyabji?"
+  options: { A: "Kamaladevi Chattopadhyay", B: "Sarojini Naidu", C: "Kasturba Gandhi", D: "Aruna Asaf Ali" }
+  answer: B
+  explanation: "Sarojini Naidu, with Imam Sahib and Manilal Gandhi, led the Dharasana raid in May 1930."
+
+- slug: fs-cdm-14
+  difficulty: medium
+  stem: "Who led the salt march from Tiruchirappalli to Vedaranyam during the Civil Disobedience Movement?"
+  options: { A: "K. Kelappan", B: "T. Prakasam", C: "K. Kamaraj", D: "C. Rajagopalachari" }
+  answer: D
+  explanation: "C. Rajagopalachari led the march to Vedaranyam in Tamil Nadu; K. Kelappan led the march from Calicut to Payyanur in Malabar."
+
+- slug: fs-cdm-15
+  difficulty: medium
+  stem: "When was the Gandhi-Irwin Pact signed?"
+  options: { A: "26 January 1930", B: "5 March 1931", C: "16 August 1932", D: "24 September 1932" }
+  answer: B
+  explanation: "The Gandhi-Irwin Pact was signed on 5 March 1931. The Communal Award came on 16 August 1932 and the Poona Pact on 24 September 1932."
+
+- slug: fs-cdm-16
+  difficulty: hard
+  stem: "At Peshawar in April 1930, soldiers of the Garhwal Rifles refused to fire on an unarmed crowd. Who led them?"
+  options: { A: "Khan Abdul Ghaffar Khan", B: "Abbas Tyabji", C: "Webb Miller", D: "Chandra Singh Garhwali" }
+  answer: D
+  explanation: "Chandra Singh Garhwali led the Garhwal Rifles soldiers who refused to fire on the crowd at Peshawar in April 1930."
+
+- slug: fs-cdm-17
+  difficulty: medium
+  stem: "Who announced the Communal Award in August 1932?"
+  options: { A: "Lord Willingdon", B: "Ramsay MacDonald", C: "Sir John Simon", D: "Lord Irwin" }
+  answer: B
+  explanation: "British Prime Minister Ramsay MacDonald announced the Communal Award on 16 August 1932."
+
+- slug: fs-cdm-18
+  difficulty: hard
+  stem: "By the Poona Pact, the seats reserved for the depressed classes in the provincial legislatures were raised from 71 to"
+  options: { A: "98", B: "119", C: "131", D: "147" }
+  answer: D
+  explanation: "The Poona Pact raised the reserved seats from 71 to 147, to be filled by joint electorates."
+
+- slug: fs-cdm-19
+  difficulty: hard
+  stem: "Who led the salt satyagraha at Nakhas Pond in Patna in 1930?"
+  options: { A: "Shri Krishna Sinha", B: "Ambika Kant Sinha", C: "Rajendra Prasad", D: "Anugrah Narayan Sinha" }
+  answer: B
+  explanation: "In Patna, salt was made at Nakhas Pond under Ambika Kant Sinha. Shri Krishna Sinha broke the salt law at Garhpura."
+
+- slug: fs-cdm-20
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Nehru Report of 1928:
+
+    1. It was drafted by a committee headed by Motilal Nehru.
+    2. It demanded complete independence as the immediate goal.
+    3. It accepted separate electorates for minorities.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3" }
+  answer: A
+  explanation: "Motilal Nehru headed the committee. The report asked for dominion status, not complete independence, and for joint electorates with reserved seats, not separate electorates."
+
+- slug: fs-cdm-21
+  difficulty: medium
+  stem: "Who gave the title 'Rani' to the Naga leader Gaidinliu?"
+  options: { A: "Mahatma Gandhi", B: "Subhas Chandra Bose", C: "Vallabhbhai Patel", D: "Jawaharlal Nehru" }
+  answer: D
+  explanation: "Jawaharlal Nehru gave Gaidinliu, who led a Naga revolt against British rule, the title 'Rani'."
+
+- slug: fs-cdm-22
+  difficulty: hard
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Gandhi-Irwin Pact
+    2. Communal Award
+    3. First Round Table Conference
+    4. Poona Pact
+
+    Select the correct answer using the code given below.
+  options: { A: "1, 3, 2, 4", B: "3, 1, 2, 4", C: "3, 2, 1, 4", D: "1, 2, 3, 4" }
+  answer: B
+  explanation: "The First Round Table Conference opened in November 1930, the Gandhi-Irwin Pact was signed in March 1931, the Communal Award came in August 1932 and the Poona Pact in September 1932."

@@ -22,7 +22,7 @@ const input: TreeInput = {
     { topicId: 'm', chapterId: null },
     { topicId: null, chapterId: 'ch1' },
   ],
-  books: [{ id: 'b1', topicId: 'h', slug: 'ancient-india', title: 'Ancient India', author: 'A', edition: null, description: '', position: 1 }],
+  books: [{ id: 'b1', topicId: 'h', slug: 'ancient-india', kind: 'book', title: 'Ancient India', author: 'A', edition: null, description: '', position: 1 }],
   chapters: [
     { id: 'ch2', bookId: 'b1', slug: 'guptas', number: 2, title: 'Guptas', read: false, coverIds: ['ai'] },
     { id: 'ch1', bookId: 'b1', slug: 'mauryas', number: 1, title: 'Mauryas', read: true, coverIds: ['ai'] },

@@ -11,6 +11,8 @@ export type RawBook = {
   id: string
   topicId: string
   slug: string
+  /** A topic is written for one syllabus topic; its chapters are called sections. */
+  kind: 'book' | 'topic'
   title: string
   author: string | null
   edition: string | null

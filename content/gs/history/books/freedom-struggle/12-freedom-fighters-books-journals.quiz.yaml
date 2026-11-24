@@ -1,0 +1,191 @@
+# Section 12 — Freedom Fighters, Books and Journals
+# ---------- Previous-year questions ----------
+- slug: fs-ffb-01
+  difficulty: easy
+  stem: "Who among the following freedom fighters is known as ‘Deshbandhu’?"
+  options: { A: "Gopal Krishna Gokhale", B: "Chittaranjan Das", C: "Subhas Chandra Bose", D: "Bhagat Singh" }
+  answer: B
+  explanation: "Chittaranjan Das was given the title 'Deshbandhu' (friend of the nation)."
+  source: "SSC CGL 2024"
+
+- slug: fs-ffb-02
+  difficulty: easy
+  stem: "Who among the following was known as 'Andhra Kesari'?"
+  options: { A: "Khan Abdul Ghaffar Khan", B: "Mahatma Gandhi", C: "Chittaranjan Das", D: "T. Prakasam" }
+  answer: D
+  explanation: "Tanguturi Prakasam was called 'Andhra Kesari' (Lion of Andhra)."
+  source: "SSC CGL 2019"
+
+- slug: fs-ffb-03
+  difficulty: medium
+  stem: "Who among the following Indian freedom fighters was fondly called Gandhi Buri (Old Lady Gandhi) for her dedication towards Gandhian principles?"
+  options: { A: "Kamla Chaudhary", B: "Leela Roy", C: "Dakshayani Velayudhan", D: "Matangini Hazra" }
+  answer: D
+  explanation: "Matangini Hazra of Tamluk, who was shot dead in the Quit India Movement in 1942, was called 'Gandhi Buri'."
+  source: "SSC CGL 2021"
+
+- slug: fs-ffb-04
+  difficulty: medium
+  stem: "Which of the following pairs is correct?"
+  options: { A: "Vinoba Bhave—Second Individual Satyagrahi", B: "C. R. Das—Deshbandhu", C: "William Wedderburn—Congress President in 1907", D: "Shyamji Krishna Varma—Founder of India House in Paris", E: "None of the above/More than one of the above" }
+  answer: B
+  explanation: "C.R. Das was called Deshbandhu. Vinoba Bhave was the first individual satyagrahi, Wedderburn presided over the Congress in 1889 and 1910, and India House was in London."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-ffb-05
+  difficulty: medium
+  stem: "Who started the journal, *Bahishkrita Bharat* ?"
+  options: { A: "Jyotiba Phule", B: "Karsandas Mulji", C: "Bal Gangadhar Tilak", D: "Babasaheb Ambedkar", E: "None of the above/More than one of the above" }
+  answer: D
+  explanation: "B.R. Ambedkar started the Marathi journal Bahishkrit Bharat in 1927."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-ffb-06
+  difficulty: easy
+  stem: "Who has written the book, *Unhappy India*?"
+  options: { A: "Bal Gangadhar Tilak", B: "Annie Besant", C: "Lala Lajpat Rai", D: "A. O. Hume", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "Lala Lajpat Rai wrote Unhappy India (1928) as a reply to Katherine Mayo's Mother India."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-ffb-07
+  difficulty: easy
+  stem: "Which one of the following was a journal brought out by Abul Kalam Azad?"
+  options: { A: "*The Comrade*", B: "*Al-Hilal*", C: "*Zamindar*", D: "More than one of the above", E: "None of the above" }
+  answer: B
+  explanation: "Abul Kalam Azad started Al-Hilal in 1912. The Comrade was Mohammad Ali's paper and Zamindar was Zafar Ali Khan's."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-ffb-08
+  difficulty: hard
+  stem: "The Congress took a critical stand over the Montford Reforms in 1918, which led to break up with the old moderate remnants (Sapru, Jayakar and Chintamani) who formed the"
+  options: { A: "Servants of India Society", B: "Swaraj Party", C: "Indian National Liberal Federation", D: "More than one of the above", E: "None of the above" }
+  answer: C
+  explanation: "The Moderates who left the Congress over the Montagu-Chelmsford Reforms formed the Indian National Liberal Federation in 1918."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-ffb-09
+  difficulty: hard
+  stem: "Ambabai, a woman freedom fighter, belonged to which of the following States of India?"
+  options: { A: "Kerala", B: "Andhra Pradesh", C: "Karnataka", D: "Madhya Pradesh" }
+  answer: C
+  explanation: "Ambabai belonged to Karnataka; she picketed foreign cloth and liquor shops at Udipi."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-ffb-10
+  difficulty: medium
+  stem: |
+    Match the following and choose the correct answer.
+
+    | Political Organisation | Founder |
+    |---|---|
+    | I. Khaksars | a. Subhash Chandra Bose |
+    | II. Socialist Party | b. Inayatullah Mashriqui |
+    | III. Independent Labour Party | c. Jayaprakash Narayan |
+    | IV. Forward Bloc | d. B. R. Ambedkar |
+  options: { A: "I – b, II – c, III – d, IV – a", B: "I – b, II – d, III – a, IV – c", C: "I – d, II – c, III – b, IV – a", D: "I – c, II – d, III – a, IV – b" }
+  answer: A
+  explanation: "Khaksars: Inayatullah Mashriqi; Socialist Party: Jayaprakash Narayan; Independent Labour Party: B.R. Ambedkar; Forward Bloc: Subhas Chandra Bose."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-ffb-11
+  difficulty: hard
+  stem: |
+    Match the following and choose the correct answer.
+
+    | Newspaper | Editor |
+    |---|---|
+    | I. Free Hindustan | a. Mahatma Gandhi |
+    | II. Indian Opinion | b. Dadabhai Nauroji |
+    | III. Voice of India | c. Surendranath Banerjee |
+    | IV. Bengalee | d. Taraknath Das |
+  options: { A: "I – d, II – a, III – b, IV – c", B: "I – c, II – d, III – a, IV – b", C: "I – d, II – c, III – b, IV – a", D: "I – c, II – a, III – d, IV – b" }
+  answer: A
+  explanation: "Free Hindustan: Taraknath Das; Indian Opinion: Gandhi; Voice of India: Dadabhai Naoroji; Bengalee: Surendranath Banerjea."
+  source: "BPSC 70th Prelims"
+
+# ---------- New questions ----------
+- slug: fs-ffb-12
+  difficulty: easy
+  stem: "The newspapers 'Kesari' and 'Mahratta' were brought out by"
+  options: { A: "Bal Gangadhar Tilak", B: "Gopal Krishna Gokhale", C: "Bipin Chandra Pal", D: "Lala Lajpat Rai" }
+  answer: A
+  explanation: "Tilak brought out Kesari in Marathi and Mahratta in English."
+
+- slug: fs-ffb-13
+  difficulty: easy
+  stem: "Who among the following was known as 'Punjab Kesari'?"
+  options: { A: "Bhagat Singh", B: "Sardar Ajit Singh", C: "Lala Lajpat Rai", D: "Lala Har Dayal" }
+  answer: C
+  explanation: "Lala Lajpat Rai was known as 'Punjab Kesari' and 'Sher-e-Punjab'."
+
+- slug: fs-ffb-14
+  difficulty: medium
+  stem: "Who brought out the English paper 'The Comrade' and the Urdu paper 'Hamdard'?"
+  options: { A: "Maulana Mohammad Ali", B: "Maulana Abul Kalam Azad", C: "Zafar Ali Khan", D: "Mazharul Haque" }
+  answer: A
+  explanation: "Maulana Mohammad Ali brought out The Comrade in English and Hamdard in Urdu."
+
+- slug: fs-ffb-15
+  difficulty: medium
+  stem: "Which leader of Bihar was known as 'Bihar Kesari'?"
+  options: { A: "Anugrah Narayan Sinha", B: "Shri Krishna Sinha", C: "Rajendra Prasad", D: "Jayaprakash Narayan" }
+  answer: B
+  explanation: "Shri Krishna Sinha was called 'Bihar Kesari'. Anugrah Narayan Sinha was 'Bihar Vibhuti', Rajendra Prasad 'Deshratna' and Jayaprakash Narayan 'Loknayak'."
+
+- slug: fs-ffb-16
+  difficulty: medium
+  stem: "Who wrote the book 'India Wins Freedom'?"
+  options: { A: "Jawaharlal Nehru", B: "Rajendra Prasad", C: "Maulana Abul Kalam Azad", D: "Subhas Chandra Bose" }
+  answer: C
+  explanation: "'India Wins Freedom' is by Maulana Abul Kalam Azad."
+
+- slug: fs-ffb-17
+  difficulty: hard
+  stem: "Who wrote the poem 'Sarfaroshi ki Tamanna'?"
+  options: { A: "Ram Prasad Bismil", B: "Muhammad Iqbal", C: "Hasrat Mohani", D: "Bismil Azimabadi" }
+  answer: D
+  explanation: "The poem was written by Bismil Azimabadi of Patna; Ram Prasad Bismil made it famous."
+
+- slug: fs-ffb-18
+  difficulty: hard
+  stem: "With whom is the founding of the Patna newspaper 'The Searchlight' (1918) associated?"
+  options: { A: "Sachchidananda Sinha", B: "Mazharul Haque", C: "Rajendra Prasad", D: "Swami Sahajanand Saraswati" }
+  answer: A
+  explanation: "Sachchidananda Sinha was associated with the founding of The Bihar Times (1894) and The Searchlight (1918)."
+
+- slug: fs-ffb-19
+  difficulty: medium
+  stem: "Who wrote 'Poverty and Un-British Rule in India'?"
+  options: { A: "R.C. Dutt", B: "Dadabhai Naoroji", C: "Surendranath Banerjea", D: "Gopal Krishna Gokhale" }
+  answer: B
+  explanation: "Dadabhai Naoroji, the 'Grand Old Man of India', wrote 'Poverty and Un-British Rule in India'."
+
+- slug: fs-ffb-20
+  difficulty: hard
+  stem: "The book 'India Divided' was written by"
+  options: { A: "Maulana Abul Kalam Azad", B: "Jawaharlal Nehru", C: "Rajendra Prasad", D: "B.R. Ambedkar" }
+  answer: C
+  explanation: "Rajendra Prasad wrote 'India Divided'; he also wrote 'Atmakatha' and 'Mahatma Gandhi and Bihar'."
+
+- slug: fs-ffb-21
+  difficulty: hard
+  stem: |
+    Match List I (journal) with List II (person associated with it):
+
+    | List I | List II |
+    |---|---|
+    | a. Mooknayak | 1. Annie Besant |
+    | b. New India | 2. Madan Mohan Malaviya |
+    | c. Pratap | 3. B.R. Ambedkar |
+    | d. The Leader | 4. Ganesh Shankar Vidyarthi |
+  options: { A: "a-3, b-1, c-4, d-2", B: "a-3, b-4, c-1, d-2", C: "a-1, b-3, c-2, d-4", D: "a-4, b-1, c-3, d-2" }
+  answer: A
+  explanation: "Mooknayak: B.R. Ambedkar; New India: Annie Besant; Pratap: Ganesh Shankar Vidyarthi; The Leader: Madan Mohan Malaviya."
+
+- slug: fs-ffb-22
+  difficulty: easy
+  stem: "Who among the following was known as the 'Frontier Gandhi'?"
+  options: { A: "Maulana Abul Kalam Azad", B: "Mohammad Ali", C: "Dr. M.A. Ansari", D: "Khan Abdul Ghaffar Khan" }
+  answer: D
+  explanation: "Khan Abdul Ghaffar Khan of the North-West Frontier Province was known as the 'Frontier Gandhi' and 'Badshah Khan'."

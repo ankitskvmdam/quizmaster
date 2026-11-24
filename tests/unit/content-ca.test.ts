@@ -62,6 +62,7 @@ describe('loadContent with sections and current affairs', () => {
         questionSlugs: ['fx-ca-2099-01-001', 'fx-ca-2099-01-002', 'fx-ca-2099-01-004', 'fx-ca-2099-01-005', 'fx-ca-2099-01-006'],
         caMonthRef: 'gs/current-affairs/2099-01',
         chapterRef: null,
+        bookRef: null,
         examSlug: null,
         paperDate: null,
         paperLabel: null,

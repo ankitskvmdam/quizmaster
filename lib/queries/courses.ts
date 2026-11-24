@@ -64,7 +64,7 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       (f, t) =>
         supabase
           .from('books')
-          .select('id, topic_id, slug, title, title_hi, author, edition, description, description_hi, position, topics!inner(subject_id)')
+          .select('id, topic_id, slug, kind, title, title_hi, author, edition, description, description_hi, position, topics!inner(subject_id)')
           .eq('topics.subject_id', course.id)
           .order('id')
           .range(f, t),
@@ -127,6 +127,7 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       id: b.id,
       topicId: b.topic_id,
       slug: b.slug,
+      kind: b.kind === 'topic' ? ('topic' as const) : ('book' as const),
       title: pick(lang, b.title, b.title_hi),
       author: b.author,
       edition: b.edition,
@@ -191,4 +192,19 @@ export async function getBookQuizScores(chapterIds: string[]): Promise<Map<strin
       return [q.chapter_id!, { testId: q.id, best: scores.length ? Math.max(...scores) : null, questionCount: q.test_questions[0]?.count ?? 0 }]
     }),
   )
+}
+
+/** The quiz over a whole book or topic, with the person's best score; null when it has none. */
+export async function getBookQuiz(bookId: string): Promise<{ testId: string; best: number | null; questionCount: number } | null> {
+  const supabase = await createClient()
+  const { data: q, error } = await supabase
+    .from('tests')
+    .select('id, test_questions(count), attempts(score, submitted_at)')
+    .eq('book_id', bookId)
+    .eq('kind', 'chapter')
+    .maybeSingle()
+  if (error) fail('book quiz', error)
+  if (!q) return null
+  const scores = q.attempts.filter((a) => a.submitted_at).map((a) => Number(a.score))
+  return { testId: q.id, best: scores.length ? Math.max(...scores) : null, questionCount: q.test_questions[0]?.count ?? 0 }
 }

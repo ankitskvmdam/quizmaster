@@ -1,0 +1,163 @@
+# Section 4 — Gandhi and Early Satyagrahas
+# ---------- Previous-year questions ----------
+- slug: fs-gan-01
+  difficulty: medium
+  stem: "In which of the following colleges, Gandhiji had studied?"
+  options: { A: "Samaldas College, Bhavnagar", B: "Dharmendrasinhji College, Rajkot", C: "Gujarat College, Ahmedabad", D: "Bahauddin College, Junagadh", E: "None of the above/More than one of the above" }
+  answer: A
+  explanation: "Gandhi studied for a short time at Samaldas College, Bhavnagar, in 1888 before he left for London."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-gan-02
+  difficulty: hard
+  stem: "Which of the following statements regarding the Indian freedom struggle is **not** correct?"
+  options: { A: "Gandhiji withdrew from the Non-Cooperation Movement due to the Chauri-Chaura Incident.", B: "Gandhiji gave his first major public speech at Banaras Hindu University.", C: "Mahatma Gandhi was arrested in the year 1921.", D: "More than one of the above", E: "None of the above" }
+  answer: C
+  explanation: "Gandhi was arrested in March 1922, not in 1921. The other two statements are correct: he withdrew the movement after Chauri Chaura and spoke at Banaras Hindu University in 1916."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-gan-03
+  difficulty: medium
+  stem: "Who was the founder of All India Harijan Sangh in 1932?"
+  options: { A: "Jagjivan Ram", B: "Mahatma Gandhi", C: "Dr. B. R. Ambedkar", D: "More than one of the above", E: "None of the above" }
+  answer: B
+  explanation: "Gandhi founded the All India Harijan Sangh (Harijan Sevak Sangh) in 1932 to work against untouchability."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-gan-04
+  difficulty: medium
+  stem: "In which of the following movements did Mahatma Gandhi make the first use of the hunger strike as a weapon?"
+  options: { A: "Non-Cooperation Movement", B: "Bardoli Satyagraha", C: "Ahmedabad Strike", D: "Rowlatt Satyagraha" }
+  answer: C
+  explanation: "Gandhi first used the hunger strike during the Ahmedabad mill strike of 1918."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-gan-05
+  difficulty: medium
+  stem: "In the context of Indian Freedom Movement, which of the following years is correctly paired with the event that took place that year?"
+  options: { A: "1915 – Mahatma Gandhi returned from South Africa", B: "1944 – The Cripps Mission was sent by the British government to India to obtain Indian cooperation for the British war efforts in the 2nd World War", C: "1936 – The First Round Table Conference", D: "1945 – The All India Congress Committee met in Bombay and ratified the ‘Quit India’ resolution" }
+  answer: A
+  explanation: "Gandhi returned from South Africa in January 1915. The Cripps Mission came in 1942, the First Round Table Conference was held in 1930, and the Quit India resolution was ratified in 1942."
+  source: "SSC CGL 2021"
+
+- slug: fs-gan-06
+  difficulty: easy
+  stem: "Which of the following British officers issued the infamous ‘crawling order’ whereby Indians had to crawl on all fours to pass an alley?"
+  options: { A: "General Dyer", B: "Warren Hastings", C: "Lord Irwin", D: "Lord Curzon" }
+  answer: A
+  explanation: "General Dyer issued the crawling order at Amritsar in 1919, for the lane where Marcella Sherwood had been attacked."
+  source: "SSC CGL 2021"
+
+# ---------- New questions ----------
+- slug: fs-gan-07
+  difficulty: easy
+  stem: "The Jallianwala Bagh massacre took place on"
+  options: { A: "6 April 1919", B: "10 April 1919", C: "18 April 1919", D: "13 April 1919" }
+  answer: D
+  explanation: "General Dyer's troops fired on the crowd at Jallianwala Bagh, Amritsar, on 13 April 1919, the day of Baisakhi."
+
+- slug: fs-gan-08
+  difficulty: easy
+  stem: "Who was Mahatma Gandhi's political guru?"
+  options: { A: "Bal Gangadhar Tilak", B: "Gopal Krishna Gokhale", C: "Dadabhai Naoroji", D: "Pherozeshah Mehta" }
+  answer: B
+  explanation: "Gandhi regarded Gopal Krishna Gokhale as his political guru; on Gokhale's advice he spent a year travelling in India after his return."
+
+- slug: fs-gan-09
+  difficulty: easy
+  stem: "The Kheda Satyagraha of 1918 was about"
+  options: { A: "forced cultivation of indigo", B: "the wages of mill workers", C: "remission of land revenue after crop failure", D: "a tax on salt" }
+  answer: C
+  explanation: "The peasants of Kheda in Gujarat refused to pay land revenue after their crops failed in 1918."
+
+- slug: fs-gan-10
+  difficulty: medium
+  stem: "Which book inspired Gandhi to set up the Phoenix Settlement in South Africa?"
+  options: { A: "The Kingdom of God Is Within You", B: "Civil Disobedience", C: "Hind Swaraj", D: "Unto This Last" }
+  answer: D
+  explanation: "John Ruskin's 'Unto This Last' inspired Gandhi to set up the Phoenix Settlement near Durban in 1904."
+
+- slug: fs-gan-11
+  difficulty: hard
+  stem: "In the Ahmedabad mill strike of 1918, what rise in wages did Gandhi ask the workers to demand?"
+  options: { A: "20 per cent", B: "35 per cent", C: "50 per cent", D: "25 per cent" }
+  answer: B
+  explanation: "Gandhi advised the workers to demand a 35 per cent rise, and the tribunal awarded it."
+
+- slug: fs-gan-12
+  difficulty: medium
+  stem: "Who gave up his knighthood in protest against the Jallianwala Bagh massacre?"
+  options: { A: "Mahatma Gandhi", B: "Sir Sankaran Nair", C: "Surendranath Banerjea", D: "Rabindranath Tagore" }
+  answer: D
+  explanation: "Rabindranath Tagore gave up his knighthood. Sankaran Nair resigned from the Viceroy's Executive Council."
+
+- slug: fs-gan-13
+  difficulty: hard
+  stem: "Who presided over the All India Khilafat Conference held at Delhi in November 1919?"
+  options: { A: "Mohammad Ali", B: "Maulana Abul Kalam Azad", C: "Mahatma Gandhi", D: "Hakim Ajmal Khan" }
+  answer: C
+  explanation: "Gandhi presided over the All India Khilafat Conference at Delhi in November 1919."
+
+- slug: fs-gan-14
+  difficulty: hard
+  stem: "Which leader from Bihar resigned from the Imperial Legislative Council in protest against the Rowlatt Act?"
+  options: { A: "Sachchidananda Sinha", B: "Mazharul Haque", C: "Hasan Imam", D: "Rajendra Prasad" }
+  answer: B
+  explanation: "Mazharul Haque of Bihar resigned from the Imperial Legislative Council along with Jinnah and Madan Mohan Malaviya."
+
+- slug: fs-gan-15
+  difficulty: medium
+  stem: "Which of the following was Gandhi's first all-India movement?"
+  options: { A: "Champaran Satyagraha", B: "Kheda Satyagraha", C: "Khilafat Movement", D: "Rowlatt Satyagraha" }
+  answer: D
+  explanation: "The Rowlatt Satyagraha of 1919, with its all-India hartal on 6 April, was Gandhi's first all-India movement. Champaran and Kheda were local struggles."
+
+- slug: fs-gan-16
+  difficulty: easy
+  stem: "In which year did Gandhi use satyagraha for the first time in South Africa?"
+  options: { A: "1906", B: "1893", C: "1909", D: "1915" }
+  answer: A
+  explanation: "Gandhi first used satyagraha in 1906, against the law that made registration certificates compulsory for Indians in the Transvaal."
+
+- slug: fs-gan-17
+  difficulty: hard
+  stem: "Who was the Lieutenant-Governor of Punjab at the time of the Jallianwala Bagh massacre?"
+  options: { A: "Reginald Dyer", B: "Lord Chelmsford", C: "Michael O'Dwyer", D: "Lord William Hunter" }
+  answer: C
+  explanation: "Michael O'Dwyer was the Lieutenant-Governor of Punjab. Reginald Dyer was the officer who ordered the firing, and Lord Chelmsford was the Viceroy."
+
+- slug: fs-gan-18
+  difficulty: hard
+  stem: |
+    Arrange the following in chronological order:
+
+    1. Kheda Satyagraha
+    2. Jallianwala Bagh massacre
+    3. Champaran Satyagraha
+    4. Gandhi's first major public speech at Banaras Hindu University
+
+    Select the correct answer using the code given below.
+  options: { A: "3, 4, 1, 2", B: "4, 3, 1, 2", C: "4, 1, 3, 2", D: "3, 1, 4, 2" }
+  answer: B
+  explanation: "The Banaras Hindu University speech was in 1916, Champaran in 1917, Kheda in 1918 and Jallianwala Bagh in 1919."
+
+- slug: fs-gan-19
+  difficulty: hard
+  stem: |
+    Consider the following pairs:
+
+    1. Phoenix Settlement : Durban
+    2. Tolstoy Farm : Johannesburg
+    3. Satyagraha Sabha : 1919
+
+    Which of the pairs given above is/are correctly matched?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3" }
+  answer: D
+  explanation: "All three are correct: the Phoenix Settlement (1904) was near Durban, Tolstoy Farm (1910) near Johannesburg, and Gandhi founded the Satyagraha Sabha in 1919 against the Rowlatt Act."
+
+- slug: fs-gan-20
+  difficulty: easy
+  stem: "Who led the Khilafat Movement in India along with his brother Shaukat Ali?"
+  options: { A: "Mohammad Ali Jinnah", B: "Hasrat Mohani", C: "Mohammad Ali", D: "M.A. Ansari" }
+  answer: C
+  explanation: "The Ali brothers, Mohammad Ali and Shaukat Ali, led the Khilafat Movement."

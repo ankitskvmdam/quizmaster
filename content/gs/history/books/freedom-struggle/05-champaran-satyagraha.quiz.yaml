@@ -1,0 +1,157 @@
+# Section 5 — Champaran Satyagraha
+# ---------- Previous-year questions ----------
+- slug: fs-chm-01
+  difficulty: easy
+  stem: "The Champaran Satyagraha took place in ________."
+  options: { A: "1914", B: "1923", C: "1917", D: "1920" }
+  answer: C
+  explanation: "Gandhi's Champaran Satyagraha for the indigo peasants of Bihar took place in 1917."
+  source: "SSC CGL 2023"
+
+- slug: fs-chm-02
+  difficulty: easy
+  stem: "Who drew Gandhiji's attention to the plight of indigo peasants in Champaran?"
+  options: { A: "Rajendra Prasad", B: "Anugrah Narayan Sinha", C: "Acharya Kripalani", D: "Raj Kumar Shukla", E: "None of the above/More than one of the above" }
+  answer: D
+  explanation: "Raj Kumar Shukla, an indigo cultivator of Champaran, met Gandhi at the Lucknow session of 1916 and persuaded him to come to Champaran."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-chm-03
+  difficulty: easy
+  stem: "Which of the following was Gandhiji's first Satyagraha Movement in India in which he used Civil Disobedience?"
+  options: { A: "Champaran", B: "Kheda", C: "Ahmedabad", D: "Rowlatt Satyagraha", E: "None of the above/More than one of the above" }
+  answer: A
+  explanation: "Champaran (1917) was Gandhi's first satyagraha in India; he disobeyed the order to leave the district."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-chm-04
+  difficulty: medium
+  stem: "In Tinkathia System in Bihar, how much land was to be reserved for indigo cultivation?"
+  options: { A: "01/10", B: "01/03", C: "03/20", D: "03/25", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "Under the tinkathia system, indigo had to be grown on 3 kathas out of 20, that is 3/20 of the land."
+  source: "BPSC 66th Prelims"
+
+- slug: fs-chm-05
+  difficulty: medium
+  stem: "Who is **not** related to the Champaran Satyagraha of 1917 AD?"
+  options: { A: "J. B. Kripalani", B: "Raj Kumar Shukla", C: "Rajendra Prasad", D: "Ram Manohar Lohia", E: "None of the above/More than one of the above" }
+  answer: D
+  explanation: "Kripalani, Raj Kumar Shukla and Rajendra Prasad took part in the Champaran Satyagraha of 1917; Ram Manohar Lohia did not."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-chm-06
+  difficulty: medium
+  stem: "The cook from Bihar who saved Mahatma Gandhi’s life from a murder attempt by food poisoning in 1917 was"
+  options: { A: "Muzaffar Ahmad", B: "Batak Mian", C: "Mir Bakawal", D: "None of them" }
+  answer: B
+  explanation: "Batak Mian, a cook, refused a planter's order to poison Gandhi's food in 1917."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-chm-07
+  difficulty: medium
+  stem: "In response to the mass agitation of the Champaran Movement, the British Government took which step to address the issue?"
+  options: { A: "Appointed Mahatma Gandhi as the Governor of Champaran", B: "Enforced strict curfew and imposed Martial Law in the region", C: "Instituted the Champaran Agrarian Committee", D: "Declared Champaran as an independent State" }
+  answer: C
+  explanation: "The government set up the Champaran Agrarian Committee in 1917, with Gandhi as a member."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-chm-08
+  difficulty: hard
+  stem: "Champaran Agrarian Committee was appointed in agreement between :"
+  options: { A: "Indian Government and Gandhiji", B: "Indian Government and Raj Kumar Shukla", C: "Indian Government and Rajendra Prasad", D: "Indian Government and Anugraha Narayan Singh" }
+  answer: A
+  explanation: "The Champaran Agrarian Committee (1917) was appointed by agreement between the government and Gandhi, who became a member of it."
+  source: "BPSC 71st Prelims"
+
+# ---------- New questions ----------
+- slug: fs-chm-09
+  difficulty: easy
+  stem: "At which session of the Congress did Raj Kumar Shukla meet Gandhi and ask him to visit Champaran?"
+  options: { A: "Bankipore, 1912", B: "Lucknow, 1916", C: "Calcutta, 1917", D: "Nagpur, 1920" }
+  answer: B
+  explanation: "Raj Kumar Shukla met Gandhi at the Lucknow session of the Congress in December 1916."
+
+- slug: fs-chm-10
+  difficulty: medium
+  stem: "As a result of the Champaran Satyagraha, the planters agreed to refund what share of the money taken illegally from the peasants?"
+  options: { A: "25 per cent", B: "35 per cent", C: "50 per cent", D: "75 per cent" }
+  answer: A
+  explanation: "The planters agreed to refund 25 per cent of the illegal exactions, and the tinkathia system was abolished."
+
+- slug: fs-chm-11
+  difficulty: medium
+  stem: "In which town did Gandhi appear before the court in April 1917 for disobeying the order to leave Champaran?"
+  options: { A: "Patna", B: "Muzaffarpur", C: "Bettiah", D: "Motihari" }
+  answer: D
+  explanation: "Gandhi appeared in the court at Motihari on 18 April 1917 and pleaded guilty; the case was later withdrawn."
+
+- slug: fs-chm-12
+  difficulty: hard
+  stem: "On whose orders was the case against Gandhi in Champaran withdrawn?"
+  options: { A: "Lord Chelmsford", B: "Sir Edward Gait", C: "W.B. Heycock", D: "F.G. Sly" }
+  answer: B
+  explanation: "Sir Edward Gait, Lieutenant-Governor of Bihar and Orissa, ordered the case to be withdrawn. Heycock was the district magistrate who had ordered Gandhi to leave."
+
+- slug: fs-chm-13
+  difficulty: medium
+  stem: "Who received Gandhi at Muzaffarpur in April 1917 on his way to Champaran?"
+  options: { A: "Rajendra Prasad", B: "Mazharul Haque", C: "J.B. Kripalani", D: "Anugrah Narayan Sinha" }
+  answer: C
+  explanation: "J.B. Kripalani, then a college teacher at Muzaffarpur, received Gandhi there."
+
+- slug: fs-chm-14
+  difficulty: hard
+  stem: "Who was the chairman of the Champaran Agrarian Committee of 1917?"
+  options: { A: "F.G. Sly", B: "Sir Edward Gait", C: "Mahatma Gandhi", D: "W.B. Heycock" }
+  answer: A
+  explanation: "F.G. Sly was the chairman of the Champaran Agrarian Committee; Gandhi was one of its members."
+
+- slug: fs-chm-15
+  difficulty: hard
+  stem: "Where did Gandhi open his first village school in Champaran in November 1917?"
+  options: { A: "Bhitiharwa", B: "Madhuban", C: "Bettiah", D: "Barharwa Lakhansen" }
+  answer: D
+  explanation: "The first school was opened at Barharwa Lakhansen in November 1917; schools at Bhitiharwa and Madhuban followed."
+
+- slug: fs-chm-16
+  difficulty: easy
+  stem: "Who wrote the book 'Satyagraha in Champaran'?"
+  options: { A: "Mahatma Gandhi", B: "Rajendra Prasad", C: "J.B. Kripalani", D: "Anugrah Narayan Sinha" }
+  answer: B
+  explanation: "Rajendra Prasad, who worked with Gandhi in Champaran, wrote 'Satyagraha in Champaran'."
+
+- slug: fs-chm-17
+  difficulty: hard
+  stem: "In the context of Champaran, 'sharahbeshi' was"
+  options: { A: "the enhanced rent taken for releasing a peasant from growing indigo", B: "the land reserved for indigo in each holding", C: "the lease of land taken by planters from the Bettiah Raj", D: "the refund paid by planters to the peasants" }
+  answer: A
+  explanation: "Sharahbeshi was the enhanced rent, and tawan the lump sum, that planters took for freeing peasants from the indigo obligation."
+
+- slug: fs-chm-18
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Champaran Satyagraha:
+
+    1. It was Gandhi's first act of civil disobedience in India.
+    2. Gandhi was a member of the Champaran Agrarian Committee.
+    3. The Champaran Agrarian Act, 1918 abolished the tinkathia system.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "1 and 2 only", C: "2 and 3 only", D: "1, 2 and 3" }
+  answer: D
+  explanation: "All three are correct: Gandhi defied the order to leave Champaran, sat on the Agrarian Committee, and the Act of 1918 abolished the tinkathia system."
+
+- slug: fs-chm-19
+  difficulty: easy
+  stem: "Which town is the headquarters of East Champaran district?"
+  options: { A: "Bettiah", B: "Muzaffarpur", C: "Motihari", D: "Bagaha" }
+  answer: C
+  explanation: "Motihari is the headquarters of East Champaran; Bettiah is the headquarters of West Champaran."
+
+- slug: fs-chm-20
+  difficulty: easy
+  stem: "The Champaran Satyagraha was related to the forced cultivation of which crop?"
+  options: { A: "Opium", B: "Indigo", C: "Cotton", D: "Jute" }
+  answer: B
+  explanation: "European planters forced the peasants of Champaran to grow indigo under the tinkathia system."

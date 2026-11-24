@@ -1,4 +1,5 @@
 import type { Metadata } from 'next'
+import { Suspense } from 'react'
 import { Hanken_Grotesk, JetBrains_Mono } from 'next/font/google'
 import 'katex/dist/katex.min.css'
 import './globals.css'
@@ -6,6 +7,7 @@ import { BRAND } from '@/lib/brand'
 import { themeHeadScript } from '@/lib/theme'
 import { TooltipProvider } from '@/components/ui/tooltip'
 import { AuthHashHandler } from '@/components/auth-hash-handler'
+import { NavProgress } from '@/components/nav-progress'
 
 const hanken = Hanken_Grotesk({ variable: '--font-hanken', subsets: ['latin'] })
 const jetbrains = JetBrains_Mono({ variable: '--font-jetbrains', subsets: ['latin'] })
@@ -22,6 +24,9 @@ export default function RootLayout({ children }: LayoutProps<'/'>) {
         <script dangerouslySetInnerHTML={{ __html: themeHeadScript }} />
       </head>
       <body className="min-h-dvh">
+        <Suspense>
+          <NavProgress />
+        </Suspense>
         <TooltipProvider>{children}</TooltipProvider>
         <AuthHashHandler />
       </body>

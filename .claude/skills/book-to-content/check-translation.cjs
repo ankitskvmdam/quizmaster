@@ -31,6 +31,7 @@ let qCount = 0
 let filesOk = 0
 
 for (const f of fs.readdirSync(EN).sort()) {
+  if (f === 'quiz.yaml') continue // the whole-book quiz only lists slugs; it has no translation
   if (want.length && !want.some((n) => f.startsWith(n + '-'))) continue
   const hp = path.join(HI, f)
   if (!fs.existsSync(hp)) {

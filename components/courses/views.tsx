@@ -1,5 +1,5 @@
 import Link from 'next/link'
-import { ArrowLeft, ArrowRight, BookOpen, Check, Dumbbell, FileQuestion, Tag } from 'lucide-react'
+import { ArrowLeft, ArrowRight, BookOpen, Check, Dumbbell, FileQuestion, Layers, Tag } from 'lucide-react'
 import type { BookNode, RawChapter, RawLesson, TreeNode, Tree } from '@/lib/courses/tree'
 import { formatScore } from '@/lib/format'
 import { startTest, startTopicPractice } from '@/app/(app)/actions'
@@ -87,36 +87,8 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
           </Panel>
         )}
 
-        {node.books.length > 0 && (
-          <section aria-labelledby="books">
-            <h2 id="books" className="mb-3 text-lg font-semibold">
-              Books
-            </h2>
-            <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
-              {node.books.map((b) => (
-                <Link key={b.id} href={`${nodeHref(ctx, node.path)}/books/${b.slug}`} className="focus-ring group rounded-panel">
-                  <Panel className="flex h-full flex-col gap-3 transition-colors group-hover:border-primary/40">
-                    <IconTile>
-                      <BookOpen />
-                    </IconTile>
-                    <div>
-                      <h3 className="text-lg font-semibold">{b.title}</h3>
-                      {(b.author || b.edition) && (
-                        <p className="text-sm text-muted-foreground">{[b.author, b.edition && `${b.edition} edition`].filter(Boolean).join(' · ')}</p>
-                      )}
-                    </div>
-                    <p className="mt-auto text-[13px] text-muted-foreground">
-                      <Mono>
-                        {b.chaptersRead}/{b.chapters.length}
-                      </Mono>{' '}
-                      chapters read
-                    </p>
-                  </Panel>
-                </Link>
-              ))}
-            </div>
-          </section>
-        )}
+        <Shelf id="books" title="Books" unit="chapters" icon={<BookOpen />} base={nodeHref(ctx, node.path)} books={node.books.filter((b) => b.kind === 'book')} />
+        <Shelf id="topics" title="Topics" unit="sections" icon={<Layers />} base={nodeHref(ctx, node.path)} books={node.books.filter((b) => b.kind === 'topic')} />
         {node.children.length > 0 && (
           <section aria-labelledby="sections">
             <h2 id="sections" className="mb-3 text-lg font-semibold">
@@ -218,6 +190,39 @@ export function LessonView({
   )
 }
 
+/** A row of cards for a subject's books, or for its topics (exam-focused material laid out like a book). */
+function Shelf({ id, title, unit, icon, base, books }: { id: string; title: string; unit: string; icon: React.ReactNode; base: string; books: BookNode[] }) {
+  if (books.length === 0) return null
+  return (
+    <section aria-labelledby={id}>
+      <h2 id={id} className="mb-3 text-lg font-semibold">
+        {title}
+      </h2>
+      <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+        {books.map((b) => (
+          <Link key={b.id} href={`${base}/books/${b.slug}`} className="focus-ring group rounded-panel">
+            <Panel className="flex h-full flex-col gap-3 transition-colors group-hover:border-primary/40">
+              <IconTile>{icon}</IconTile>
+              <div>
+                <h3 className="text-lg font-semibold">{b.title}</h3>
+                {(b.author || b.edition) && (
+                  <p className="text-sm text-muted-foreground">{[b.author, b.edition && `${b.edition} edition`].filter(Boolean).join(' · ')}</p>
+                )}
+              </div>
+              <p className="mt-auto text-[13px] text-muted-foreground">
+                <Mono>
+                  {b.chaptersRead}/{b.chapters.length}
+                </Mono>{' '}
+                {unit} read
+              </p>
+            </Panel>
+          </Link>
+        ))}
+      </div>
+    </section>
+  )
+}
+
 // ---------------------------------------------------------------------------
 // A book: its chapters, read ticks and quiz scores
 // ---------------------------------------------------------------------------
@@ -226,18 +231,23 @@ export function BookView({
   subject,
   book,
   quizzes,
+  wholeQuiz,
 }: {
   ctx: Ctx
   subject: TreeNode
   book: BookNode
   quizzes: Map<string, { testId: string; best: number | null; questionCount: number }>
+  /** The quiz over the whole book or topic, when it has one. */
+  wholeQuiz: { testId: string; best: number | null; questionCount: number } | null
 }) {
+  const topic = book.kind === 'topic'
+  const unit = topic ? 'section' : 'chapter'
   const base = `${nodeHref(ctx, subject.path)}/books/${book.slug}`
   return (
     <>
       <Breadcrumbs items={trail(ctx, subject.path, true)} current={book.title} />
       <PageHeader
-        eyebrow="Book"
+        eyebrow={topic ? 'Topic' : 'Book'}
         title={book.title}
         description={
           <>
@@ -246,11 +256,31 @@ export function BookView({
           </>
         }
       />
+      {wholeQuiz && wholeQuiz.questionCount > 0 && (
+        <Panel className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <h2 className="text-lg font-semibold">{topic ? 'Whole-topic quiz' : 'Whole-book quiz'}</h2>
+            <p className="text-sm text-muted-foreground">
+              <Mono>{wholeQuiz.questionCount}</Mono> questions across every {unit}
+              {wholeQuiz.best !== null && (
+                <>
+                  {' '}
+                  · best <Mono className="text-foreground">{formatScore(wholeQuiz.best)}</Mono>/<Mono>{wholeQuiz.questionCount}</Mono>
+                </>
+              )}
+            </p>
+          </div>
+          <ActionButton action={startTest.bind(null, wholeQuiz.testId, 'practice')}>
+            <FileQuestion />
+            Take the quiz
+          </ActionButton>
+        </Panel>
+      )}
       <Panel>
-        <h2 className="mb-1 text-lg font-semibold">Chapters</h2>
+        <h2 className="mb-1 text-lg font-semibold">{topic ? 'Sections' : 'Chapters'}</h2>
         {book.chapters.length === 0 ? (
-          <EmptyState icon={<BookOpen />} title="No chapters yet">
-            Chapter gists appear here as soon as they are added.
+          <EmptyState icon={<BookOpen />} title={topic ? 'No sections yet' : 'No chapters yet'}>
+            {topic ? 'Sections' : 'Chapter gists'} appear here as soon as they are added.
           </EmptyState>
         ) : (
           <ol className="divide-y divide-hairline">
@@ -276,12 +306,12 @@ export function BookView({
                     )}
                     <Button variant="secondary" size="sm" asChild>
                       <Link href={`${base}/${c.slug}`}>
-                        Read<span className="sr-only"> chapter {c.number}</span>
+                        Read<span className="sr-only"> {unit} {c.number}</span>
                       </Link>
                     </Button>
                     {quiz && quiz.questionCount > 0 && (
                       <ActionButton size="sm" variant="ghost" action={startTest.bind(null, quiz.testId, 'practice')}>
-                        Quiz<span className="sr-only"> for chapter {c.number}</span>
+                        Quiz<span className="sr-only"> for {unit} {c.number}</span>
                       </ActionButton>
                     )}
                   </div>
@@ -352,7 +382,7 @@ export function ChapterView({
             <div className="flex flex-col items-end gap-1">
               <ActionButton action={startTest.bind(null, quiz.testId, 'practice')}>
                 <FileQuestion />
-                Take the chapter quiz
+                {book.kind === 'topic' ? 'Take the section quiz' : 'Take the chapter quiz'}
               </ActionButton>
               <p className="text-[13px] text-muted-foreground">
                 <Mono>{quiz.questionCount}</Mono> questions

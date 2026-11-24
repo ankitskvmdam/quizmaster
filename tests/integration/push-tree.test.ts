@@ -26,7 +26,7 @@ describe('pushing a syllabus tree with books', () => {
     expect(s.topics.created).toBe(5)
     expect(s.books.created).toBe(1)
     expect(s.chapters.created).toBe(2)
-    expect(s.tests.created).toBe(1)
+    expect(s.tests.created).toBe(2) // the chapter quiz and the whole-book quiz
 
     const { data: india } = await db.from('topics').select('parent_id').eq('path', 'history/ancient/india').single()
     expect(india?.parent_id).toBe(await topicId('history/ancient'))
@@ -42,6 +42,15 @@ describe('pushing a syllabus tree with books', () => {
     expect(quiz).toMatchObject({ kind: 'chapter', duration_sec: null })
     expect(quiz?.chapter_id).not.toBeNull()
     expect(quiz?.test_questions[0]?.count).toBe(2)
+
+    // quiz.yaml: one quiz over the whole book, tied to the book rather than a chapter
+    const { data: whole } = await db
+      .from('tests')
+      .select('kind, chapter_id, book_id, books(slug, kind), test_questions(count)')
+      .eq('slug', 'book-history-ancient-india')
+      .single()
+    expect(whole).toMatchObject({ kind: 'chapter', chapter_id: null, books: { slug: 'ancient-india', kind: 'book' } })
+    expect(whole?.test_questions[0]?.count).toBe(2)
   })
 
   it('changes nothing on a second push', async () => {

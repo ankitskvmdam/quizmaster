@@ -1,0 +1,216 @@
+# Section 1 — Indian National Congress and Its Sessions
+# ---------- Previous-year questions ----------
+- slug: fs-inc-01
+  difficulty: easy
+  stem: "Which of the following organisations was established in 1885?"
+  options: { A: "Communist Party of India", B: "Muslim League", C: "East India Organization", D: "Indian National Congress" }
+  answer: D
+  explanation: "The Indian National Congress held its first session in December 1885 at Bombay."
+  source: "SSC CGL 2023"
+
+- slug: fs-inc-02
+  difficulty: easy
+  stem: "The first woman President of the Indian National Congress was"
+  options: { A: "Sarojini Naidu", B: "Annie Besant", C: "Kasturba Gandhi", D: "Aruna Asaf Ali", E: "None of the above/More than one of the above" }
+  answer: B
+  explanation: "Annie Besant presided over the Calcutta session of 1917 as the first woman president; Sarojini Naidu (Kanpur, 1925) was the first Indian woman president."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-inc-03
+  difficulty: easy
+  stem: "Who established Indian Association in 1876 AD?"
+  options: { A: "Surendranath Banerjee", B: "Chittaranjan Das", C: "W. C. Banerjee", D: "Aurobindo Ghosh", E: "None of the above/More than one of the above" }
+  answer: A
+  explanation: "Surendranath Banerjea, with Ananda Mohan Bose, founded the Indian Association at Calcutta in 1876."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-inc-04
+  difficulty: medium
+  stem: "The Indian National Association was established in 1876 by ______ in Calcutta."
+  options: { A: "Badruddin Tyabji", B: "V K Chiplunkar", C: "Anand Mohan Bose", D: "Sisir Kumar Ghosh" }
+  answer: C
+  explanation: "The Indian Association, also called the Indian National Association, was founded in 1876 by Surendranath Banerjea and Ananda Mohan Bose."
+  source: "SSC CGL 2018"
+
+- slug: fs-inc-05
+  difficulty: easy
+  stem: "Who established the Servants of India Society in 1905 AD?"
+  options: { A: "Surendranath Banerjee", B: "Bipin Chandra Pal", C: "Mahadev Govind Ranade", D: "Gopal Krishna Gokhale", E: "None of the above/More than one of the above" }
+  answer: D
+  explanation: "Gopal Krishna Gokhale founded the Servants of India Society at Poona in 1905."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-inc-06
+  difficulty: easy
+  stem: "Who was the President of Lahore Session of the Indian National Congress held in 1929 AD?"
+  options: { A: "Vallabhbhai Patel", B: "Motilal Nehru", C: "Jawaharlal Nehru", D: "Rajendra Prasad", E: "None of the above/More than one of the above" }
+  answer: C
+  explanation: "Jawaharlal Nehru presided over the Lahore session of 1929, which passed the Purna Swaraj resolution."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-inc-07
+  difficulty: medium
+  stem: "Who was the President of Gaya Session of the Indian National Congress held in 1922 AD?"
+  options: { A: "Chittaranjan Das", B: "Hakim Ajmal Khan", C: "Mahatma Gandhi", D: "Maulana Abul Kalam Azad", E: "None of the above/More than one of the above" }
+  answer: A
+  explanation: "Chittaranjan Das presided over the Gaya session of 1922; after his council-entry proposal was defeated there, he formed the Swaraj Party."
+  source: "BPSC 67th Prelims (cancelled sitting)"
+
+- slug: fs-inc-08
+  difficulty: easy
+  stem: "Who among the following was the President of the Belgaum Session of the Indian National Congress held in 1924?"
+  options: { A: "Vallabhbhai Patel", B: "Mahatma Gandhi", C: "Subhas Chandra Bose", D: "Jawaharlal Nehru" }
+  answer: B
+  explanation: "Mahatma Gandhi presided over the Belgaum session of 1924, the only Congress session he presided over."
+  source: "SSC CGL 2024"
+
+- slug: fs-inc-09
+  difficulty: medium
+  stem: "At the Calcutta Session of the Indian National Congress (INC) held in 1906, the Flag of Swaraj for India was unfurled by"
+  options: { A: "A. O. Hume", B: "Dadabhai Naoroji", C: "G. K. Gokhale", D: "More than one of the above", E: "None of the above" }
+  answer: B
+  explanation: "Dadabhai Naoroji presided over the Calcutta session of 1906, where Swaraj was declared the goal of the Congress; he is credited with unfurling the flag of Swaraj."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-inc-10
+  difficulty: medium
+  stem: "How did the study of history help in creating a feeling of nationalism in India towards the end of the 19th century?"
+  options: { A: "By reinterpreting history and refuting the British portrayal of Indians as backward, primitive and incapable of governing themselves", B: "By writing about India’s glorious past and urging people to take pride in their achievements", C: "By urging people to struggle and change the miserable conditions of life under the British rule", D: "More than one of the above", E: "None of the above" }
+  answer: D
+  explanation: "Nationalist writers did all three: they refuted the British view of Indians, wrote about the glorious past and urged people to struggle against their condition under British rule."
+  source: "BPSC 68th Prelims"
+
+- slug: fs-inc-11
+  difficulty: hard
+  stem: |
+    Consider the following events during India’s Freedom Struggle :
+
+    1. Home Rule Movement
+    2. Surat Split
+    3. Kheda Satyagraha
+    4. Minto-Morley Reforms
+
+    Which of the following is the correct chronological order of the events given above?
+  options: { A: "1–3–2–4", B: "2–4–1–3", C: "1–4–2–3", D: "2–3–1–4" }
+  answer: B
+  explanation: "Surat Split (1907), Minto-Morley Reforms (1909), Home Rule Movement (1916), Kheda Satyagraha (1918)."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-inc-12
+  difficulty: medium
+  stem: "“The Indian National Congress was founded on the basis of safety valve theory, to protect the British Government from threats.” Which leader said that?"
+  options: { A: "C. Rajagopalachari", B: "Lala Lajpat Rai", C: "Bipin Chandra Pal", D: "None of them" }
+  answer: B
+  explanation: "Lala Lajpat Rai set out the safety-valve view of the founding of the Congress in Young India (1916)."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-inc-13
+  difficulty: easy
+  stem: "In which of the following Indian National Congress Sessions, the resolutions related to the Fundamental Rights were passed for the first time?"
+  options: { A: "Surat Session—1907", B: "Gaya Session—1922", C: "Karachi Session—1931", D: "None of the above" }
+  answer: C
+  explanation: "The Karachi session of 1931, under Vallabhbhai Patel, passed the resolution on Fundamental Rights and the National Economic Programme."
+  source: "BPSC 69th Prelims"
+
+- slug: fs-inc-14
+  difficulty: hard
+  stem: "Who wrote “New Lamps For The Old” ?"
+  options: { A: "Surendranath", B: "Aurobindo Ghosh", C: "Motilal Ghosh", D: "More than one of the above" }
+  answer: B
+  explanation: "Aurobindo Ghosh wrote the series 'New Lamps for Old' in Indu Prakash (1893–94), criticising the Moderate Congress."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-inc-15
+  difficulty: hard
+  stem: "Who was the President of the Indian National Congress at Patna Session held in 1912 ?"
+  options: { A: "Sir S. P. Sinha", B: "Saiyed Mohammad Bahadur", C: "R. N. Madhulkar", D: "Saiyed Hassan Imam" }
+  answer: C
+  explanation: "R.N. Mudholkar presided over the Bankipore (Patna) session of 1912, the first Congress session held in Bihar."
+  source: "BPSC 70th Prelims"
+
+- slug: fs-inc-16
+  difficulty: hard
+  stem: "Which Indian leader for the first time used the ‘safety-valve theory’ to attack the Moderates in the Congress?"
+  options: { A: "Bipin Chandra Pal", B: "Lala Lajpat Rai", C: "Bal Gangadhar Tilak", D: "Dadabhai Naoroji" }
+  answer: B
+  explanation: "Lala Lajpat Rai, in Young India (1916), was the first to use the safety-valve theory against the Moderates."
+  source: "BPSC 71st Prelims"
+
+# ---------- New questions ----------
+- slug: fs-inc-17
+  difficulty: hard
+  stem: |
+    Consider the following pairs of Congress presidents and their distinction:
+
+    1. Badruddin Tyabji : first Muslim president
+    2. George Yule : first English president
+    3. Sarojini Naidu : first woman president
+
+    Which of the pairs given above is/are correctly matched?
+  options: { A: "1 and 2 only", B: "2 and 3 only", C: "1 and 3 only", D: "1, 2 and 3" }
+  answer: A
+  explanation: "Tyabji (Madras, 1887) and Yule (Allahabad, 1888) are correct. The first woman president was Annie Besant (1917); Sarojini Naidu (1925) was the first Indian woman president."
+
+- slug: fs-inc-18
+  difficulty: medium
+  stem: "Who presided over the Ramgarh session of the Indian National Congress in 1940?"
+  options: { A: "Rajendra Prasad", B: "Subhas Chandra Bose", C: "Jawaharlal Nehru", D: "Maulana Abul Kalam Azad" }
+  answer: D
+  explanation: "Maulana Abul Kalam Azad presided at Ramgarh in 1940 and remained Congress president till 1946."
+
+- slug: fs-inc-19
+  difficulty: hard
+  stem: |
+    Match List I (Congress session) with List II (president):
+
+    | List I | List II |
+    |---|---|
+    | a. Surat, 1907 | 1. Vallabhbhai Patel |
+    | b. Lucknow, 1916 | 2. Subhas Chandra Bose |
+    | c. Karachi, 1931 | 3. Rash Behari Ghosh |
+    | d. Haripura, 1938 | 4. Ambica Charan Mazumdar |
+  options: { A: "a-3, b-4, c-1, d-2", B: "a-4, b-3, c-1, d-2", C: "a-3, b-4, c-2, d-1", D: "a-1, b-2, c-3, d-4" }
+  answer: A
+  explanation: "Surat 1907: Rash Behari Ghosh; Lucknow 1916: Ambica Charan Mazumdar; Karachi 1931: Vallabhbhai Patel; Haripura 1938: Subhas Chandra Bose."
+
+- slug: fs-inc-20
+  difficulty: hard
+  stem: "Which of the following Congress sessions was NOT held in Bihar as it then was?"
+  options: { A: "Bankipore session", B: "Gaya session", C: "Ramgarh session", D: "Faizpur session" }
+  answer: D
+  explanation: "Bankipore (1912), Gaya (1922) and Ramgarh (1940) were held in Bihar. Faizpur, the first session held in a village, is in Maharashtra."
+
+- slug: fs-inc-21
+  difficulty: medium
+  stem: "At which session of the Indian National Congress was 'Vande Mataram' sung for the first time?"
+  options: { A: "Bombay, 1885", B: "Banaras, 1905", C: "Calcutta, 1896", D: "Calcutta, 1911" }
+  answer: C
+  explanation: "Vande Mataram was first sung at the Calcutta session of 1896; Jana Gana Mana was first sung at the Calcutta session of 1911."
+
+- slug: fs-inc-22
+  difficulty: easy
+  stem: "Who presided over the first session of the Indian National Congress, held at Bombay in 1885?"
+  options: { A: "W.C. Bonnerjee", B: "A.O. Hume", C: "Dadabhai Naoroji", D: "Badruddin Tyabji" }
+  answer: A
+  explanation: "W.C. Bonnerjee presided over the first session, attended by 72 delegates; A.O. Hume was the organiser, not the president."
+
+- slug: fs-inc-23
+  difficulty: hard
+  stem: |
+    Consider the following statements about the Lucknow session of the Congress (1916):
+
+    1. It was presided over by Ambica Charan Mazumdar.
+    2. The Moderates and the Extremists came together again at this session.
+    3. The Congress made a pact with the Muslim League.
+
+    Which of the statements given above is/are correct?
+  options: { A: "1 only", B: "2 and 3 only", C: "1, 2 and 3", D: "1 and 3 only" }
+  answer: C
+  explanation: "All three are correct: under Ambica Charan Mazumdar, the Lucknow session of 1916 saw the reunion of the two wings and the Lucknow Pact with the Muslim League."
+
+- slug: fs-inc-24
+  difficulty: medium
+  stem: "Who was the Viceroy of India when the Indian National Congress was founded?"
+  options: { A: "Lord Dufferin", B: "Lord Ripon", C: "Lord Lytton", D: "Lord Curzon" }
+  answer: A
+  explanation: "The Congress was founded in 1885, during the viceroyalty of Lord Dufferin."
