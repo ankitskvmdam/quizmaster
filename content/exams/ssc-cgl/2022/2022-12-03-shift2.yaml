@@ -1,0 +1,1359 @@
+slug: 2022-12-03-shift2
+title: SSC CGL 2022 Tier 1
+date: 2022-12-03
+label: 3 Dec, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via adda247.com — https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07132725/3-Dec-11.45PM-EN.pdf). Left out (picture-only options or incomplete in the source): Q2, Q5, Q18, Q22, Q24, Q25, Q33, Q47."
+questions:
+  - slug: cgl-2022-12-03-s2-q001
+    difficulty: medium
+    stem: |-
+      What should come in place of the question mark (?) to complete the following letter cluster series?
+
+      FHG, IKJ, LNM, ?
+    options:
+      A: QOP
+      B: OPQ
+      C: OQP
+      D: PRQ
+    answer: C
+    explanation: Each cluster is +2, −1 from its first letter (F H G, I K J, L N M), and the first letters go F, I, L, O. So the next is O Q P.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q003
+    difficulty: medium
+    stem: |-
+      After arranging the given words according to dictionary order, which word will come at ‘Fifth’ position?
+
+      1. Version
+
+      2. Versus
+
+      3. Versicolour
+
+      4. Verse
+
+      5. Verso
+    options:
+      A: Verso
+      B: Versus
+      C: Version
+      D: Verse
+    answer: B
+    explanation: "Dictionary order: Verse, Versicolour, Version, Verso, Versus. The fifth word is Versus."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q004
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs to sequentially replace the * signs and to balance the given equation.
+
+      23 * 2 * 2 * 5 * 18
+    options:
+      A: −, ÷, ×, =
+      B: −, ÷, +, =
+      C: −, ÷, =, +
+      D: −, ×, ÷, =
+    answer: A
+    explanation: 23 − 2 ÷ 2 × 5 = 18 → 23 − (1 × 5) = 18, which balances.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q006
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.
+
+      EACH : AEHC :: GAME : AGEM :: IDOL : ?
+    options:
+      A: OLDI
+      B: DILO
+      C: IDLO
+      D: DIOL
+    answer: B
+    explanation: "Each pair of letters is swapped: EA CH → AE HC, GA ME → AG EM. So ID OL → DI LO."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q007
+    difficulty: medium
+    stem: Three of the following letter-clusters are alike in some manner and hence form a group. Which letter-cluster does not belong to that group?
+    options:
+      A: ANHS
+      B: JEQJ
+      C: JPRT
+      D: PYWD
+    answer: C
+    explanation: In ANHS, JEQJ and PYWD the 3rd letter is the 1st + 7 and the 4th is the 2nd + 5 (A→H, N→S; P→W, Y→D). In JPRT, J + 7 = Q, not R.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q008
+    difficulty: medium
+    stem: |-
+      By interchanging the given two signs and numbers which of the following equation will be correct?
+
+      × and +, 6 and 4
+    options:
+      A: 3 × 9 – 4 ÷ 2 + 6 = 8
+      B: 8 × 6 + 4 ÷ 2 – 5 = –5
+      C: 8 – 3 × 6 + 4 ÷ 1 = 18
+      D: 7 × 6 – 4 + 9 ÷ 3 = –7
+    answer: D
+    explanation: After swapping, D reads 7 + 4 − 6 × 9 ÷ 3 = 11 − 18 = −7, which is correct.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q009
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the given set.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (26, 120, 34)
+
+      (14, 110, 41)
+    options:
+      A: (36, 106, 17)
+      B: (72, 240, 16)
+      C: (44, 114, 24)
+      D: (15, 450, 8)
+    answer: A
+    explanation: "The middle number is twice the sum of the outer numbers: (26 + 34) × 2 = 120, (14 + 41) × 2 = 110. Likewise (36 + 17) × 2 = 106."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q010
+    difficulty: medium
+    stem: In a certain code language, 'LAPTOP' is written as ‘JYNRMN’ and ‘COLD’ is written as ‘AMJB’, how will 'SKETCHPEN' be written in that language?
+    options:
+      A: RJDSBHODM
+      B: QICRBHODM
+      C: QICRAFNCL
+      D: RJDSAFNCL
+    answer: C
+    explanation: "Each letter moves back 2: LAPTOP → JYNRMN. So SKETCHPEN → QICRAFNCL."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q011
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions based on those statements. Taking the given statements to be true even if they seem to be at variance from commonly known facts. Read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:
+
+      I. All pencil are pen.
+
+      II. Some pen are rubber.
+
+      Conclusion:
+
+      I. All rubber are pencil.
+
+      II. Some pen are not pencil.
+
+      III. Some rubber are not pen.
+    options:
+      A: Neither conclusion follows
+      B: Only conclusion II follows
+      C: Both conclusions I and III follows
+      D: All conclusion follows
+    answer: A
+    explanation: All pencils are pens and some pens are rubbers. Nothing definite follows about rubbers being pencils, pens not being pencils, or rubbers not being pens, so no conclusion follows.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q012
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘3’.
+
+      [Figure 1: top 2, front-left 3, front-right 6. Figure 2: top 2, front-left 4, front-right 3. Figure 3: top 2, front-left 1, front-right 4.]
+
+      *(Figure: Three views of one die (top / left / right): 2/3/6, 2/4/3, 2/1/4.)*
+    options:
+      A: "5"
+      B: "2"
+      C: "1"
+      D: "6"
+    answer: C
+    explanation: "2 is on top in every view, so 3, 6, 4 and 1 are its side faces. Going round: 1, 4, 3, 6. So 3 sits between 4 and 6 and is opposite 1."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q013
+    difficulty: medium
+    stem: |-
+      Which number will replace the question mark (?) in the following series?
+
+      26, 54, 110, 222, ?, 894
+    options:
+      A: "446"
+      B: "442"
+      C: "440"
+      D: "444"
+    answer: A
+    explanation: "Each term is ×2 + 2: 26 → 54 → 110 → 222 → 446 → 894."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q014
+    difficulty: medium
+    stem: If X – Y means that X is the mother of Y, X × Y means that X is the father of Y, X ÷ Y means that X is the sister of Y, then which of the following expression shows that Q is the son of P?
+    options:
+      A: P – Q ÷ R
+      B: P – Q × R
+      C: Q – P × R
+      D: R × Q – P
+    answer: B
+    explanation: "P – Q × R: P is the mother of Q, and Q is the father of R, so Q is male. Q is the son of P."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q015
+    difficulty: medium
+    stem: |-
+      A # B means ‘A is the brother of B’
+
+      A @ B means ‘A is the daughter of B’
+
+      A & B means ‘A is the husband of B’
+
+      A % B means ‘A is the wife of B’
+
+      If G % M # L @ P & C @ B, then how is L related to B?
+    options:
+      A: Daughter
+      B: Granddaughter
+      C: Sister
+      D: Daughter-in-law
+    answer: B
+    explanation: L is the daughter of P; P is the husband of C, so L is the daughter of C. C is the daughter of B, so L is the granddaughter of B.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q016
+    difficulty: medium
+    stem: In a certain code language, 'INNER’ is written as 'SNNWJ' and 'GLASS' is written as 'UPAII'. How will 'MODEL' be written in that language?
+    options:
+      A: OMXVP
+      B: OMXWP
+      C: OMWWP
+      D: OMXWO
+    answer: B
+    explanation: "Each letter is replaced by its opposite letter (A↔Z), then moved forward 1: INNER → RMMVI → SNNWJ. MODEL → NLWVO → OMXWP."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q017
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number and the sixth number is related to the fifth number.
+
+      30 : 48 :: 60 : ? :: 45 : 72
+    options:
+      A: "96"
+      B: "92"
+      C: "90"
+      D: "88"
+    answer: A
+    explanation: "The second number is 1.6 times the first: 30 × 1.6 = 48, 45 × 1.6 = 72. So 60 × 1.6 = 96."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q019
+    difficulty: medium
+    stem: "Select the odd group of numbers. (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g.13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)"
+    options:
+      A: 13 – 159
+      B: 9 – 71
+      C: 5 – 31
+      D: 17 – 279
+    answer: C
+    explanation: "Second = first² − 10: 13² − 10 = 159, 9² − 10 = 71, 17² − 10 = 279. But 5² − 10 = 15, not 31."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q020
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding / subtracting / multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+      (8, 12, 6)
+
+      (9, 18, 8)
+    options:
+      A: (4, 12, 6)
+      B: (12, 24, 8)
+      C: (7, 24, 4)
+      D: (9, 10, 11)
+    answer: B
+    explanation: "First × third = 4 × middle: 8 × 6 = 48 = 4 × 12, 9 × 8 = 72 = 4 × 18. Likewise 12 × 8 = 96 = 4 × 24."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q021
+    difficulty: medium
+    stem: |-
+      Which of the following interchange of numbers and mathematical signs would make the given equation correct?
+
+      72 ÷ 8 × 9 − 36 + 20 = 80
+    options:
+      A: 20 and 80, × and +
+      B: 9 and 36, × and ÷
+      C: 36 and 72, ÷ and −
+      D: 8 and 9, + and −
+    answer: D
+    explanation: "Swapping 8 and 9, and + and −: 72 ÷ 9 × 8 + 36 − 20 = 64 + 16 = 80."
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q023
+    difficulty: medium
+    stem: |-
+      Three statements are given, followed by three conclusions numbered I, II and III.
+
+      Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      No student is a teacher.
+
+      All students are children.
+
+      Some girls are students.
+
+      Conclusions:
+
+      I. Some children are not teachers.
+
+      II. Some girls are not teachers.
+
+      III. No girl is a teacher.
+    options:
+      A: Only conclusions I and II follow
+      B: All conclusions follow
+      C: Only conclusions II and III follow
+      D: Only conclusions I and III follow
+    answer: A
+    explanation: Some girls are students and no student is a teacher, so some girls (and some children) are not teachers. "No girl is a teacher" does not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2022-12-03-s2-q026
+    difficulty: medium
+    stem: How many types of taxes were in the reign of the ruler Alauddin Khalji?
+    options:
+      A: "3"
+      B: "5"
+      C: "6"
+      D: "2"
+    answer: A
+    explanation: "Alauddin Khalji levied three main taxes: kharaj (land tax), charai (cattle tax) and ghari (house tax)."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q027
+    difficulty: medium
+    stem: The bare ground between plants is covered with a layer of organic matter in order to retain soil moisture. This method is called ______.
+    options:
+      A: Mulching
+      B: Rock dam
+      C: Shelter belts
+      D: Contour barriers
+    answer: A
+    explanation: Covering the soil between plants with organic matter (straw, leaves) to keep in moisture is called mulching.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q028
+    difficulty: medium
+    stem: In which of the following years was the Fit India Movement launched by Ministry of Youth Affairs and Sports, GoI?
+    options:
+      A: "2018"
+      B: "2001"
+      C: "2020"
+      D: "2019"
+    answer: D
+    explanation: The Fit India Movement was launched by PM Modi on 29 August 2019 (National Sports Day).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q029
+    difficulty: medium
+    stem: Husk of a coconut is made of ______ tissue.
+    options:
+      A: Collenchyma
+      B: Xylem
+      C: Scherenchyma
+      D: Parenchyma
+    answer: C
+    explanation: Coconut husk (coir) is made of sclerenchyma, a dead tissue with thick lignified walls.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q030
+    difficulty: medium
+    stem: Which of the following options is NOT correct about plant cells?
+    options:
+      A: Cell wall of a plant cell is made up of cellulose.
+      B: The plant cells cannot divide by mitosis.
+      C: A plant cell usually contains a large vacuole.
+      D: Generally, all plant cells contain chloroplast.
+    answer: B
+    explanation: Plant cells do divide by mitosis (e.g. in meristems), so statement B is wrong.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q031
+    difficulty: medium
+    stem: The Government of India started DACE scheme in April 2022. This scheme was launched under which of the following ministries?
+    options:
+      A: Ministry of Social Justice and Empowerment
+      B: Ministry of Corporate Affairs
+      C: Ministry of Rural Development
+      D: Ministry of Education
+    answer: A
+    explanation: DACE (Dr. Ambedkar Centres of Excellence) is a scheme of the Ministry of Social Justice and Empowerment.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q032
+    difficulty: medium
+    stem: Whose birthday is celebrated as International Day of Non-Violence?
+    options:
+      A: Rajendra Prasad
+      B: Subhash Chandra Bose
+      C: Jawaharlal Nehru
+      D: Mahatma Gandhi
+    answer: D
+    explanation: 2 October, Mahatma Gandhi's birthday, is observed as the International Day of Non-Violence.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q034
+    difficulty: medium
+    stem: In which year was Kalidas Samman established?
+    options:
+      A: "1978"
+      B: "1975"
+      C: "1984"
+      D: "1980"
+    answer: D
+    explanation: The Kalidas Samman was instituted by the Government of Madhya Pradesh in 1980.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q035
+    difficulty: medium
+    stem: Who among the following has won Oscars as well as a Golden Globe award for his contribution to international music?
+    options:
+      A: Pt. Jasraj
+      B: A.R.Rahman
+      C: Ravi Shankar
+      D: Zakir Hussain
+    answer: B
+    explanation: A.R. Rahman won the Golden Globe and two Oscars for "Slumdog Millionaire" (2009).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q036
+    difficulty: medium
+    stem: Asia is separated from Europe by ______ mountains.
+    options:
+      A: Himalayan
+      B: Andes Mountains
+      C: Alps
+      D: Ural
+    answer: D
+    explanation: The Ural Mountains (with the Ural River and the Caucasus) form the conventional boundary between Europe and Asia.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q037
+    difficulty: medium
+    stem: Which of the following states have the highest literacy rate, according to census 2011?
+    options:
+      A: Lakshadweep
+      B: Goa
+      C: Mizoram
+      D: Kerala
+    answer: D
+    explanation: "Census 2011: Kerala had the highest literacy rate among states (about 94%)."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q038
+    difficulty: medium
+    stem: The system based on individual leadership is a __________ system.
+    options:
+      A: semi-parliamentary
+      B: parliamentary
+      C: presidential
+      D: semi-presidential
+    answer: C
+    explanation: A system built around a single elected leader who heads the executive is the presidential system.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q039
+    difficulty: medium
+    stem: Which of the following rivers is NOT included in the ‘Panchnad’?
+    options:
+      A: The Beas
+      B: The Sutlej
+      C: The Indus
+      D: The Ravi
+    answer: C
+    explanation: Panchnad is formed by the five rivers Jhelum, Chenab, Ravi, Beas and Sutlej; the Indus is not one of them.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q040
+    difficulty: medium
+    stem: The final of the French Open (Roland Garros) Tennis 2021 for men took place on which day?
+    options:
+      A: 13 June
+      B: 30 July
+      C: 13 July
+      D: 5 June
+    answer: A
+    explanation: Djokovic beat Tsitsipas in the 2021 French Open men's final on 13 June 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q041
+    difficulty: medium
+    stem: Union Minister of Petroleum & Natural Gas Hardeep Singh Puri inaugurated Asia’s largest Compressed Bio Gas (CBG) plant in ________.
+    options:
+      A: Gujarat
+      B: Rajasthan
+      C: Punjab
+      D: Maharashtra
+    answer: C
+    explanation: Hardeep Singh Puri inaugurated Asia's largest CBG plant at Sangrur, Punjab in October 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q042
+    difficulty: medium
+    stem: Identify the correct statement with respect to unsaturated hydrocarbons.
+    options:
+      A: Compounds of carbon having a single bond between their carbon atoms are called unsaturated compounds.
+      B: Compounds of carbon having double bonds or triple bonds between their carbon atoms are called unsaturated compounds.
+      C: Compounds of carbon having single bonds between their oxygen atoms are called unsaturated compounds.
+      D: Compounds of carbon having double or triple bonds between their hydrogen atoms are called unsaturated compounds.
+    answer: B
+    explanation: Carbon compounds with double or triple bonds between carbon atoms are unsaturated (alkenes, alkynes).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q043
+    difficulty: medium
+    stem: Some important administrative posts were hereditary during the Rashtrakuta and Chola dynasties. The post ‘nagara-shreshthi’ meant?
+    options:
+      A: Leader of the merchant caravans
+      B: Merchant of the city
+      C: Important minister
+      D: Chief judicial officer
+    answer: B
+    explanation: Nagara-shreshthi was the chief merchant (head of the merchants' guild) of a city.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q044
+    difficulty: medium
+    stem: Which of the following is added in the national income to obtain personal income of the households?
+    options:
+      A: Net interest payments
+      B: Transfer payments from government and firms
+      C: Undistributed profits
+      D: Corporate tax
+    answer: B
+    explanation: Personal income = national income − undistributed profits − corporate tax − net interest paid by households + transfer payments.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q045
+    difficulty: medium
+    stem: Who conducted X-ray spectroscopic study of a large number of elements and showed that the frequency of X-rays emitted by an element is related to the atomic number, Z, rather than the atomic mass?
+    options:
+      A: Lothar Meyer
+      B: Dmitri Mendeleev
+      C: Henry Moseley
+      D: Johann Dobereiner
+    answer: C
+    explanation: Henry Moseley (1913) showed X-ray frequency depends on atomic number, leading to the modern periodic law.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q046
+    difficulty: medium
+    stem: Which Five-Year Plan in India was mainly focussed on Garibi Hatao, creation of employment opportunities and agricultural production amongst other objectives?
+    options:
+      A: Fifth
+      B: Fourth
+      C: Third
+      D: Second
+    answer: A
+    explanation: The Fifth Five-Year Plan (1974–79) adopted the "Garibi Hatao" goal, with employment and agricultural output.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q048
+    difficulty: medium
+    stem: In March 2022, the “Stree Manoraksha project” was launched by which of the following Union Minister?
+    options:
+      A: Union Minister for Education
+      B: Union Minister for Women and Child Development
+      C: Union Minister for Law and Justice
+      D: Union Minister for Health and Family Welfare
+    answer: B
+    explanation: Stree Manoraksha (with NIMHANS) was launched in March 2022 by Smriti Irani, Union Minister for Women and Child Development.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q049
+    difficulty: medium
+    stem: Jata-Jatin is the folk dance of which Indian state?
+    options:
+      A: Manipur
+      B: Odisha
+      C: Bihar
+      D: West Bengal
+    answer: C
+    explanation: Jata-Jatin is a folk dance of Bihar (Mithila region).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q050
+    difficulty: medium
+    stem: Mughal ruler, Aurangzeb died in which year?
+    options:
+      A: "1703"
+      B: "1705"
+      C: "1707"
+      D: "1701"
+    answer: C
+    explanation: Aurangzeb died in 1707 at Ahmednagar.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-12-03-s2-q051
+    difficulty: medium
+    stem: "In an equilateral triangle ABC, D is the midpoint of side BC. If the length of BC is 8 cm, then the height of the triangle is:"
+    options:
+      A: 5.5 cm
+      B: 4.5 cm
+      C: 6√3 cm
+      D: 4√3 cm
+    answer: D
+    explanation: Height of an equilateral triangle = (√3/2) × side = (√3/2) × 8 = 4√3 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q052
+    difficulty: medium
+    stem: A thief steals a bike at 12:30p.m. and drives it at 48km/h. But the theft is discovered after half an hour. The bike owner starts to chase him on another bike at 58km/h. The thief will be caught at ________.
+    options:
+      A: 3:40p.m.
+      B: 3:54p.m.
+      C: 3:10p.m.
+      D: 3:24p.m.
+    answer: D
+    explanation: Thief's lead at 1:00 p.m. = 48 × 0.5 = 24 km; relative speed = 10 km/h, so 2.4 h = 2 h 24 min. Caught at 3:24 p.m.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q053
+    difficulty: medium
+    stem: "If ∆ ABC~∆ FDE such that AB = 9 cm, AC = 11 cm, DF = 16 cm and DE = 12 cm, then the length of BC is:"
+    options:
+      A: 5 3/4 cm
+      B: 4 3/5 cm
+      C: 3 5/7 cm
+      D: 6 3/4 cm
+    answer: D
+    explanation: "ΔABC ~ ΔFDE, so AB/FD = BC/DE: 9/16 = BC/12, BC = 27/4 = 6 3/4 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q054
+    difficulty: medium
+    stem: |-
+      The radii of two cylinders are in the ratio 1 : 4 and their heights are in the ratio 4 : 3.
+
+      Their volumes will be in the ratio ______.
+    options:
+      A: "1 : 12"
+      B: "2 : 9"
+      C: "3 : 10"
+      D: "1 : 9"
+    answer: A
+    explanation: "V ∝ r²h: (1² × 4) : (4² × 3) = 4 : 48 = 1 : 12."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q055
+    difficulty: medium
+    stem: If x + 1/x = 2 cos θ, then x³ + 1/x³ = ?
+    options:
+      A: 2 cos 2θ
+      B: cos 3θ
+      C: 2 cos 3θ
+      D: cos 2θ
+    answer: C
+    explanation: x³ + 1/x³ = (x + 1/x)³ − 3(x + 1/x) = 8cos³θ − 6cosθ = 2(4cos³θ − 3cosθ) = 2cos3θ.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q056
+    difficulty: medium
+    stem: A and B can do a certain work in 6 hours, and A, B and C together take 4 hours to do the same. How long will it take for C alone to accomplish the task?
+    options:
+      A: 12 hours
+      B: 4 hours
+      C: 2 hours
+      D: 6 hours
+    answer: A
+    explanation: C's rate = 1/4 − 1/6 = 1/12, so C alone takes 12 hours.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q057
+    difficulty: medium
+    stem: |-
+      The pie chart given below shows the expenditure incurred by a person on 7 articles. The total expenditure of all these 7 articles are 3600. Expenditure incurred on a particular article is shown in terms of degree with respect to the total expenditure incurred in all these 7 articles.
+
+      [Pie chart: P 70°, Q 120°, R 50°, S 10°, T 30°, U 20°, V 60°]
+
+      What is the average expenditure incurred on article P and Q?
+
+      *(Figure: Pie chart (degrees): P 70°, Q 120°, R 50°, S 10°, T 30°, U 20°, V 60°.)*
+    options:
+      A: "875"
+      B: "905"
+      C: "885"
+      D: "950"
+    answer: D
+    explanation: P + Q = 190°, so expenditure = 190/360 × 3600 = 1900; average = 950.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q058
+    difficulty: medium
+    stem: "sin⁴θ + cos⁴θ in terms of sinθ can be written as:"
+    options:
+      A: 2sin⁴θ + 2sin²θ − 1
+      B: 2sin⁴θ − 2sin²θ
+      C: 2sin⁴θ − 2sin²θ − 1
+      D: 2sin⁴θ − 2sin²θ + 1
+    answer: D
+    explanation: sin⁴θ + cos⁴θ = 1 − 2sin²θcos²θ = 1 − 2sin²θ(1 − sin²θ) = 2sin⁴θ − 2sin²θ + 1.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q059
+    difficulty: medium
+    stem: Three circles of radius 6 cm are kept touching each other. The string is tightly tied around these three circles. What is the length of the string?
+    options:
+      A: 36 + 12p cm
+      B: 36 + 18p cm
+      C: 24 + 36p cm
+      D: 36 + 20p cm
+    answer: A
+    explanation: "String = 3 straight segments of 2r plus one full circle: 3 × 12 + 2π × 6 = 36 + 12π cm."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q060
+    difficulty: medium
+    stem: "If x = 3 + 2√2, x > 0, then the value of √x − 1/√x is:"
+    options:
+      A: "1"
+      B: √2
+      C: "2"
+      D: 2√2
+    answer: C
+    explanation: 3 + 2√2 = (1 + √2)², so √x = 1 + √2 and 1/√x = √2 − 1. Difference = 2.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q061
+    difficulty: medium
+    stem: |-
+      Study the given graph and table and answer the following question.
+
+      Data of different states regarding population of states in the year 1998
+
+      [Pie chart: Arunachal Pradesh 25%, Madhya Pradesh 20%, Uttar Pradesh 15%, Goa 12%, Bihar 11%, Tamil Nadu 9%, Delhi 8%]
+
+      Total population of the given states = 32760000
+
+      | States | Sex: M | Sex: F | Literacy: Literate | Literacy: Illiterate |
+      |---|---|---|---|---|
+      | Arunachal Pradesh | 5 | 3 | 2 | 7 |
+      | Madhya Pradesh | 3 | 1 | 1 | 4 |
+      | Delhi | 2 | 3 | 2 | 1 |
+      | Goa | 3 | 5 | 3 | 2 |
+      | Bihar | 3 | 4 | 4 | 1 |
+      | Uttar Pradesh | 3 | 2 | 7 | 2 |
+      | Tamil Nadu | 3 | 4 | 9 | 4 |
+
+      (Table heading: Sex and literacy wise Population Ratio)
+
+      If in the year 1998, there was an increase of 20% in the population of Goa and 10% in the population of Arunachal Pradesh compared to the previous year, then what was the ratio of populations of Goa and Arunachal Pradesh in 1997?
+
+      *(Figure: 3-D pie chart of 1998 population share: Arunachal Pradesh 25%, Madhya Pradesh 20%, Uttar Pradesh 15%, Goa 12%, Bihar 11%, Tamil Nadu 9%, Delhi 8%; plus the sex/literacy ratio table given in the stem.)*
+    options:
+      A: "7 : 11"
+      B: "11 : 25"
+      C: "4 : 5"
+      D: "25 : 11"
+    answer: B
+    explanation: "1997 shares: Goa 12/1.2 = 10, Arunachal 25/1.1 = 250/11. Ratio 10 : 250/11 = 11 : 25."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q062
+    difficulty: medium
+    stem: Suman paid ₹9,600 in interest on a loan she obtained 5 years ago with a simple interest rate of 16%. What was the amount of the loan she had taken?
+    options:
+      A: ₹13,250
+      B: ₹12,500
+      C: ₹12,000
+      D: ₹11,750
+    answer: C
+    explanation: P = SI × 100/(R × T) = 9600 × 100/(16 × 5) = ₹12,000.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q063
+    difficulty: medium
+    stem: "tan(θ -14π) is equal to:"
+    options:
+      A: tanθ
+      B: −cotθ
+      C: cotθ
+      D: −tanθ
+    answer: A
+    explanation: tan has period π, so tan(θ − 14π) = tanθ.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q064
+    difficulty: medium
+    stem: What will be the remainder when 7⁴² is divided by 48?
+    options:
+      A: "2"
+      B: "3"
+      C: "1"
+      D: "0"
+    answer: C
+    explanation: 7² = 49 ≡ 1 (mod 48), so 7⁴² = (7²)²¹ ≡ 1.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q065
+    difficulty: medium
+    stem: |-
+      The following pie chart is represents the units of electricity sold to various categories in a month by an Electricity Supplier.
+
+      [Pie chart ‘Electricity sold to various categories of a town’: Domestic Supply 46%, Street Light 13%, Indutries 25%, Others 16%]
+
+      The central angle of the sector corresponding to supply for Industries is:
+
+      *(Figure: Pie chart: Domestic Supply 46%, Street Light 13%, Indutries (sic) 25%, Others 16%.)*
+    options:
+      A: 48°
+      B: 25°
+      C: 46°
+      D: 90°
+    answer: D
+    explanation: 25% of 360° = 90°.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q066
+    difficulty: medium
+    stem: "Number p is 15% more than 150. If k is 15% less than p, then k is equal to:"
+    options:
+      A: "136.324"
+      B: "166.625"
+      C: "116.328"
+      D: "146.625"
+    answer: D
+    explanation: p = 150 × 1.15 = 172.5; k = 172.5 × 0.85 = 146.625.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q067
+    difficulty: medium
+    stem: What is the HCF of 36 and 198?
+    options:
+      A: "36"
+      B: "22"
+      C: "18"
+      D: "9"
+    answer: C
+    explanation: 36 = 2² × 3², 198 = 2 × 3² × 11, so HCF = 2 × 9 = 18.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q068
+    difficulty: medium
+    stem: "The cost of a piece of diamond varies with the square of its weight. A diamond of Rs.6,084 value is cut into 3 pieces whose weights are in the ratio 3 : 2 : 1. Find the loss involved in the cutting."
+    options:
+      A: Rs.3,768
+      B: Rs.3,718
+      C: Rs.3,168
+      D: Rs.3,518
+    answer: B
+    explanation: "Value ∝ weight²: whole = 6² = 36 parts; pieces = 9 + 4 + 1 = 14 parts. Loss = 22/36 × 6084 = ₹3,718."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q069
+    difficulty: medium
+    stem: The marked price of an article is ₹10,927. Due festive season, a certain percentage of discount is declared. Raju buys an article at reduced price and sells it at ₹109,27, and makes a profit of 11.5%. What was the percentage discount offered?
+    options:
+      A: 10.3%
+      B: 11.3%
+      C: 11.5%
+      D: 10.9%
+    answer: A
+    explanation: "Reading the selling price as ₹10,927: CP = 10927/1.115 = ₹9,800. Discount = 1127/10927 ≈ 10.3%."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q070
+    difficulty: medium
+    stem: If x + 1/x = −2, then what is the value of x¹⁷ + x⁻¹⁷ + x¹² + x⁻¹² ? (x < 0)
+    options:
+      A: –2
+      B: –1
+      C: "1"
+      D: "0"
+    answer: D
+    explanation: x + 1/x = −2 gives x = −1. Then x¹⁷ + x⁻¹⁷ = −2 and x¹² + x⁻¹² = 2, so the sum is 0.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q071
+    difficulty: medium
+    stem: Find the mean proportion between (6 + √8) and (3 − √2).
+    options:
+      A: 2√12
+      B: √14
+      C: (6 − √8)
+      D: √15 − 7
+    answer: B
+    explanation: Mean proportional = √[(6 + 2√2)(3 − √2)] = √(18 − 4) = √14.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q072
+    difficulty: medium
+    stem: "If x − y = 1 and x² + y² = 41 where x, y ≥ 0, then the value of x + y will be:"
+    options:
+      A: "9"
+      B: "8"
+      C: "6"
+      D: "7"
+    answer: A
+    explanation: 2xy = (x² + y²) − (x − y)² = 40, so (x + y)² = 41 + 40 = 81 and x + y = 9.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q073
+    difficulty: medium
+    stem: "∆XYZ ~ ∆GST and XY : GS – 2:3. XV is the median to the side YZ, and GD is the median to the side ST. The value of (YV/SD)² is ________."
+    options:
+      A: 4/9
+      B: 3/5
+      C: 1/4
+      D: 2/3
+    answer: A
+    explanation: YV = YZ/2 and SD = ST/2, so YV/SD = XY/GS = 2/3, and its square is 4/9.
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q074
+    difficulty: medium
+    stem: Vikas covered a certain distance by bike. If he covers 40% of the distance at 40 km/h, 50% of the distance at 25 km/h and the remaining 10% distance at 10 km/h. Find his average speed over the whole distance.
+    options:
+      A: 25 km/h
+      B: 28 km/h
+      C: 26 km/h
+      D: 30 km/h
+    answer: A
+    explanation: "For 100 km: 40/40 + 50/25 + 10/10 = 4 h, so average speed = 100/4 = 25 km/h."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q075
+    difficulty: medium
+    stem: |-
+      The table given below shows the production of refrigerator by 6 companies.
+
+      | Companies | Production |
+      |---|---|
+      | E | 300 |
+      | F | 270 |
+      | G | 260 |
+      | H | 240 |
+      | I | 220 |
+      | J | 250 |
+
+      What is the ratio of production of refrigerator by company G to the production of refrigerator by company I?
+    options:
+      A: "12 : 13"
+      B: "11 : 13"
+      C: "13 : 11"
+      D: "13 : 12"
+    answer: C
+    explanation: "G : I = 260 : 220 = 13 : 11."
+    tags:
+      - quant
+  - slug: cgl-2022-12-03-s2-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      Oscar is the most prestigious award which is **introduced to good** actors in that year.
+    options:
+      A: rewarded to good
+      B: nominated to fine
+      C: awarded to best
+      D: attached to fine
+    answer: C
+    explanation: 'Awards are "awarded to" people, and the Oscar goes to the best actors: "awarded to best".'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      When I reached home late, I found my children **waiting on me.**
+    options:
+      A: waiting with me
+      B: waiting by me
+      C: waiting about me
+      D: waiting for me
+    answer: D
+    explanation: '"Waiting for" someone means expecting their arrival; "waiting on" means serving.'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Our school had decided to take us to the Himalayas for excursion. I ________ to convince my mother to give consent.
+    options:
+      A: fought fire with fire
+      B: brought home the bacon
+      C: made waves
+      D: left no stones unturned
+    answer: D
+    explanation: '"Leave no stone unturned" means to try every possible means, which fits convincing the mother.'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q079
+    difficulty: medium
+    stem: |-
+      Identify the INCORRECTLY spelt word in the given sentence.
+
+      The rhime and rhythm of Papai’s poems are highly symbolical and timely.
+    options:
+      A: Rhime
+      B: Timely
+      C: Rhythm
+      D: Symbolical
+    answer: A
+    explanation: The correct spelling is "rhyme".
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q080
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Justice
+      B: Judege
+      C: Attorney
+      D: Lawyer
+    answer: B
+    explanation: The correct spelling is "judge".
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q081
+    difficulty: medium
+    stem: Select the sentence with the appropriate use of adverb of frequency.
+    options:
+      A: Radha goes to Nagpur with great affection.
+      B: Radha goes to Nagpur for her office work.
+      C: Radha often goes to Nagpur.
+      D: Radha goes to Nagpur to meet her uncle.
+    answer: C
+    explanation: '"Often" is an adverb of frequency.'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Obligatory
+    options:
+      A: Unnecessary
+      B: Compulsory
+      C: Chosen
+      D: Optional
+    answer: B
+    explanation: Obligatory means required by rule, i.e. compulsory.
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      Built by King Narasimhadeva I of the Eastern Ganga dynasty from 1238-1250 CE, the 13th century late-style Kalingan temple forms part of the golden triangle of Odisha, along with Puri and Bhubaneswar, and **attracts** tourists, pilgrims, and history and art lovers.
+    options:
+      A: Embodies
+      B: Shrouds
+      C: Elucidates
+      D: Deters
+    answer: D
+    explanation: '"Attracts" means draws in; its opposite is "deters" (discourages).'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q084
+    difficulty: medium
+    stem: |-
+      Select the option that contains a grammatical error in the underlined portion.
+
+      There are three cupholders placed on the cupboards of the secretariat table.
+    options:
+      A: "**There are three cupholders** placed on the cupboards of the secretariat table."
+      B: There are three cupholders placed **on the cupboards** of the secretariat table.
+      C: There are three cupholders placed on the cupboards of **the secretariat table**.
+      D: There are three cupholders **placed on the** cupboards of the secretariat table.
+    answer: B
+    explanation: A table has a single cupboard here, so "on the cupboards" should be "on the cupboard".
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Anita is an employee who has unconditional ________ for her company.
+    options:
+      A: support
+      B: dedication
+      C: attachment
+      D: love
+    answer: D
+    explanation: '"Unconditional love" is the natural collocation, and "love for" fits the preposition.'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q086
+    difficulty: medium
+    stem: |-
+      Rearrange the parts of the sentence in correct order.
+
+      The spectacular
+
+      P. Indian economy, were largely based on coal
+
+      Q. expansion of electrification of the
+
+      R. the last 20 years, and the considerable
+
+      S. Chinese economic growth of
+    options:
+      A: QRPS
+      B: SQRP
+      C: PRQS
+      D: SRQP
+    answer: D
+    explanation: The spectacular Chinese economic growth of (S) the last 20 years, and the considerable (R) expansion of electrification of the (Q) Indian economy, were largely based on coal (P).
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the correct direct form of the given sentence.
+
+      The surgeon says that I should get anaesthesia for the surgery.
+    options:
+      A: The surgeon says, “You should get anaesthesia for the surgery.”
+      B: The surgeon says, “I should get anaesthesia for the surgery.”
+      C: The surgeon said, “You should get anaesthesia for the surgery.”
+      D: The surgeon says, “You could get anaesthesia for the surgery.”
+    answer: A
+    explanation: 'Reported "I" (the speaker) becomes "you" in direct speech, and the present "says" stays: The surgeon says, "You should get anaesthesia…".'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      Why is peace being demanded by you?
+    options:
+      A: Why you are demanding peace?
+      B: Why are peace demanded?
+      C: Why are you demanding peace?
+      D: Why you demand peace?
+    answer: C
+    explanation: 'Passive "is being demanded by you" → active present continuous with question order: "Why are you demanding peace?"'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      The WHO issued a statement on Sunday morning that though the Omicron variant of coronavirus may appear to be less **severe**, it should not be dismissed as ‘mild’.
+    options:
+      A: Withered
+      B: Sick
+      C: Gentle
+      D: Voracious
+    answer: C
+    explanation: '"Severe" means serious or harsh; its opposite is "gentle".'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q090
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      They fired her because she was careless.
+    options:
+      A: She is being fired by them because she was careless.
+      B: She is fired by them because she was careless.
+      C: She had been fired by them because she was careless.
+      D: She was fired by them because she was careless.
+    answer: D
+    explanation: Simple past active "fired" → passive "was fired by them".
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      He has experienced __________ abuse.
+    options:
+      A: palpable
+      B: visible
+      C: physical
+      D: intangible
+    answer: C
+    explanation: '"Physical abuse" is the standard collocation for bodily harm.'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q092
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labeled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P. You can use proper lighting, reduce screen glare, and take more breaks.
+
+      Q. However, one of the easiest habits to build is to follow the "20-20-20 rule".
+
+      R. There are lots of ways you can protect your eyes during the day.
+
+      S. Every 20 minutes of time spent staring at a screen, look away at an option that is at least 20 feet away for 20 seconds.
+    options:
+      A: SQPR
+      B: QRSP
+      C: RPQS
+      D: SPRQ
+    answer: C
+    explanation: R introduces ways to protect eyes, P lists them, Q ("However") singles out the 20-20-20 rule, and S explains it.
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      Being an ardent professional, the lawyer always kept his clients **at an arm’s length**.
+    options:
+      A: Away from each other
+      B: At a distance
+      C: Under wraps
+      D: Alert and prepared
+    answer: B
+    explanation: "\"Keep at arm's length\" means to keep someone at a distance, avoiding closeness."
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word in the given sentence.
+
+      Rahul was sharing some of his childhood stories and they were **hysterical**.
+    options:
+      A: Emotional
+      B: Dangerous
+      C: Funny
+      D: Scary
+    answer: C
+    explanation: '"Hysterical" (informal) means extremely funny.'
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      Not only is my brother intelligent **though hard working** too.
+    options:
+      A: or hard working
+      B: but hard working
+      C: so hard working
+      D: yet hard working
+    answer: B
+    explanation: The pair is "not only … but (also)".
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Everything we know about non-avian dinosaurs is ________ (1) fossils, which include bones, teeth, footprints, tracks, eggs, and skin impressions. For centuries, people throughout the world have ________ (2) amazing fossilized bones and footprints. Early finds inspired _______ (3) and fairy tales, and people ________ (4) that these bones belonged to ________ (5) or huge monsters.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: taken after
+      B: held on
+      C: given in
+      D: based on
+    answer: D
+    explanation: Knowledge of dinosaurs is "based on" fossils.
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Everything we know about non-avian dinosaurs is ________ (1) fossils, which include bones, teeth, footprints, tracks, eggs, and skin impressions. For centuries, people throughout the world have ________ (2) amazing fossilized bones and footprints. Early finds inspired _______ (3) and fairy tales, and people ________ (4) that these bones belonged to ________ (5) or huge monsters.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: designed
+      B: invented
+      C: fabricated
+      D: discovered
+    answer: D
+    explanation: People have "discovered" fossil bones and footprints.
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Everything we know about non-avian dinosaurs is ________ (1) fossils, which include bones, teeth, footprints, tracks, eggs, and skin impressions. For centuries, people throughout the world have ________ (2) amazing fossilized bones and footprints. Early finds inspired _______ (3) and fairy tales, and people ________ (4) that these bones belonged to ________ (5) or huge monsters.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: fame
+      B: celebrities
+      C: legends
+      D: honour
+    answer: C
+    explanation: Early finds inspired "legends" and fairy tales.
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Everything we know about non-avian dinosaurs is ________ (1) fossils, which include bones, teeth, footprints, tracks, eggs, and skin impressions. For centuries, people throughout the world have ________ (2) amazing fossilized bones and footprints. Early finds inspired _______ (3) and fairy tales, and people ________ (4) that these bones belonged to ________ (5) or huge monsters.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: aimed
+      B: opposed
+      C: arranged
+      D: imagined
+    answer: D
+    explanation: People "imagined" that the bones belonged to giants or monsters.
+    tags:
+      - english
+  - slug: cgl-2022-12-03-s2-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Everything we know about non-avian dinosaurs is ________ (1) fossils, which include bones, teeth, footprints, tracks, eggs, and skin impressions. For centuries, people throughout the world have ________ (2) amazing fossilized bones and footprints. Early finds inspired _______ (3) and fairy tales, and people ________ (4) that these bones belonged to ________ (5) or huge monsters.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: spirits
+      B: devils
+      C: ghosts
+      D: giants
+    answer: D
+    explanation: '"Giants or huge monsters" — the bones were thought to belong to giants.'
+    tags:
+      - english

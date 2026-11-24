@@ -1,0 +1,1327 @@
+slug: 2023-07-27-shift1
+title: SSC CGL 2023 Tier 1
+date: 2023-07-27
+label: 27 Jul, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/2025/07/17133605/SSC-CGL-Tier-1-Question-Paper_27.07.2023_). Left out (picture-only options or incomplete in the source): Q3, Q13, Q16, Q17, Q20, Q21, Q22, Q25."
+questions:
+  - slug: cgl-2023-07-27-s1-q001
+    difficulty: medium
+    stem: Looking at the family picture, Sneha said, “She is my brother’s wife’s son’s father’s mother-in-law’s only daughter.’ How is the girl in the photo related to Sneha?
+    options:
+      A: Daughter-in-law
+      B: Brother’s wife
+      C: Mother
+      D: Sister
+    answer: B
+    explanation: Brother's wife's son's father is the brother; his mother-in-law's only daughter is the brother's wife.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.
+
+      GPK : MSI : : RHT : VKT :: IDW : ?
+    options:
+      A: YGK
+      B: ZHL
+      C: KGY
+      D: YIK
+    answer: A
+    explanation: "Reverse the cluster, then shift +2, +3, +2: GPK → KPG → MSI; IDW → WDI → YGK."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q004
+    difficulty: medium
+    stem: In a certain code language, ‘DUST’ is coded as 16 and ‘EARTH’ is coded as 25. How will ‘MAN’ be coded in the same language?
+    options:
+      A: "12"
+      B: "9"
+      C: "6"
+      D: "36"
+    answer: B
+    explanation: "Code = (number of letters)²: DUST 4² = 16, EARTH 5² = 25, so MAN 3² = 9."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q005
+    difficulty: medium
+    stem: |-
+      Select the option that represents the correct order of the given words as they would appear in an English dictionary.
+
+      1. Diamond
+
+      2. Dialogue
+
+      3. Dictator
+
+      4. Dialect
+
+      5. Diameter
+
+      6. Diagram
+    options:
+      A: 6, 2, 4, 1, 5, 3
+      B: 6, 4, 2, 1, 5, 3
+      C: 4, 2, 6, 5, 1, 3
+      D: 6, 4, 2, 5, 1, 3
+    answer: D
+    explanation: Diagram, Dialect, Dialogue, Diameter, Diamond, Dictator → 6, 4, 2, 5, 1, 3.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q006
+    difficulty: medium
+    stem: |-
+      Which of the following terms will replace the question mark (?) in the given series?
+
+      AJRX, CNXF, ERDN, ?, IZPD
+    options:
+      A: HVJV
+      B: GVJV
+      C: HVIT
+      D: GVKV
+    answer: B
+    explanation: "Letter positions move +2, +4, +6, +8: E→G, R→V, D→J, N→V gives GVJV."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q007
+    difficulty: medium
+    stem: In a certain code language, ‘BOOK’ is written as ‘325’, ‘READ’ is written as ‘400’. How will ‘ABLE’ be written in that language?
+    options:
+      A: "445"
+      B: "440"
+      C: "442"
+      D: "438"
+    answer: B
+    explanation: "Sum of reverse alphabet positions × 5: BOOK 65 × 5 = 325, READ 80 × 5 = 400, ABLE (26 + 25 + 15 + 22) = 88 × 5 = 440."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q008
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series.
+
+      G _ A R E G L _ R _ G _ C _ E G L _ _ E
+    options:
+      A: K B E L R D R
+      B: L B E L R D R
+      C: L A E L R E R
+      D: K B E L R E R
+    answer: B
+    explanation: The series is GLARE, GLBRE, GLCRE, GLDRE; the blanks are L, B, E, L, R, D, R.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q009
+    difficulty: medium
+    stem: |-
+      Three of the following four letter-clusters are alike in a certain way and one is different.
+
+      Pick the odd one out.
+    options:
+      A: FJU
+      B: KNP
+      C: CGX
+      D: IMR
+    answer: B
+    explanation: In FJU, CGX and IMR the second letter is 4 after the first; in KNP it is only 3 after.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q010
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      (4, 2, 6)
+
+      (9, 3, 9)
+
+      (24, 6, ?)
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: "10"
+      B: "12"
+      C: "15"
+      D: "8"
+    answer: B
+    explanation: "(first ÷ second) × 3: 4 ÷ 2 × 3 = 6, 9 ÷ 3 × 3 = 9, 24 ÷ 6 × 3 = 12."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q011
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+      (17, 26, 37)
+
+      (170, 197, 226)
+    options:
+      A: (48, 63, 80)
+      B: (45, 52, 105)
+      C: (16, 28, 36)
+      D: (52, 65, 83)
+    answer: A
+    explanation: Each set has differences that are consecutive odd numbers (9, 11 and 27, 29); 48, 63, 80 has 15, 17 (they are 7² − 1, 8² − 1, 9² − 1).
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q012
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the given sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (38, 29, 67)
+
+      (43, 36, 79)
+    options:
+      A: (51, 39, 70)
+      B: (59, 28, 77)
+      C: (47, 35, 82)
+      D: (34, 47, 83)
+    answer: C
+    explanation: "Third = first + second: 38 + 29 = 67, 43 + 36 = 79, and 47 + 35 = 82."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q014
+    difficulty: medium
+    stem: The second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs, except one. Find that odd number-pair.
+    options:
+      A: (1826, 1472)
+      B: (1984, 1505)
+      C: (1805, 1326)
+      D: (2136, 1657)
+    answer: A
+    explanation: In the others the second number is 479 less than the first; 1826 − 1472 = 354.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q015
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /Subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+
+      (39, 65), (63, 105)
+    options:
+      A: (66, 165)
+      B: (96, 160)
+      C: (72, 180)
+      D: (84, 155)
+    answer: B
+    explanation: "Both pairs are in the ratio 3 : 5 (39 : 65, 63 : 105); 96 : 160 is also 3 : 5."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q018
+    difficulty: medium
+    stem: |-
+      Which of the following interchanges of signs would make the given equation correct?
+
+      110 ÷ 20 + 5 × 13 – 9 = 153
+    options:
+      A: × and ÷
+      B: ÷ and +
+      C: – and ×
+      D: + and –
+    answer: B
+    explanation: "Swapping ÷ and +: 110 + 20 ÷ 5 × 13 − 9 = 110 + 52 − 9 = 153."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q019
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+
+      Ringworm : Skin :: Tapeworm : ?
+    options:
+      A: Intestine
+      B: Blood
+      C: Lungs
+      D: Heart
+    answer: A
+    explanation: Ringworm infects the skin; tapeworm lives in the intestine.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q023
+    difficulty: medium
+    stem: |-
+      Which of the following numbers will replace the question mark (?) in the given series?
+
+      [1/176], [1/88], ?, [1/22], [1/11]
+    options:
+      A: "[1/32]"
+      B: "[1/44]"
+      C: "[1/48]"
+      D: "[1/42]"
+    answer: B
+    explanation: "Each term doubles: 1/176, 1/88, 1/44, 1/22, 1/11."
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q024
+    difficulty: medium
+    stem: |-
+      If ‘+’ means ‘division’, ‘−’ means ‘multiplication’, ‘÷’ means ‘subtraction’ and ‘×’ means ‘addition’, then what is the value of the following expression?
+
+      805 + 23 ÷ 4 − 6 × 2
+    options:
+      A: "32"
+      B: "25"
+      C: "29"
+      D: "13"
+    answer: D
+    explanation: Swapping the signs gives 805 ÷ 23 − 4 × 6 + 2 = 35 − 24 + 2 = 13.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-27-s1-q026
+    difficulty: medium
+    stem: Which actinide, discovered by Glenn T Seaborg in 1940, is used as a heat source for sensitive electrical components in satellites as well as a power source for satellites?
+    options:
+      A: Curium
+      B: Plutonium
+      C: Nobelium
+      D: Americium
+    answer: B
+    explanation: Plutonium (discovered by Seaborg and colleagues in 1940); Pu-238 powers radioisotope generators and heaters in spacecraft.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q027
+    difficulty: medium
+    stem: The Jagannath Temple in Puri depicts which Indian classical dance form?
+    options:
+      A: Kuchipudi
+      B: Bharatanatyam
+      C: Kathak
+      D: Odissi
+    answer: D
+    explanation: Odissi developed in the temples of Odisha; its poses are carved on the Jagannath and Konark temples.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q028
+    difficulty: medium
+    stem: Who among the following IPS officers in 2023 is one of the first women officers to become the Director General of police in Punjab?
+    options:
+      A: Shashi Prabha Dwivedi
+      B: Meera Chadha Borwankar
+      C: Aparajita Rai
+      D: Ruveda Salam
+    answer: A
+    explanation: In 2023 Punjab promoted Shashi Prabha Dwivedi (with Gurpreet Kaur Deo) to DGP rank, the state's first women DGPs.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q029
+    difficulty: medium
+    stem: "A natural process of mechanical disintegration and or chemical decomposition of the rocks of the crust of the Earth by certain physical and chemical agencies of the atmosphere is known as:"
+    options:
+      A: solidification of rocks
+      B: weathering
+      C: mew rock formation
+      D: watering of rocks
+    answer: B
+    explanation: Breaking down of rocks in place by physical and chemical agents is called weathering.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q030
+    difficulty: medium
+    stem: In T20 cricket matches, a bowler can bowl a maximum of _______.
+    options:
+      A: 7 overs
+      B: 6 overs
+      C: 5 overs
+      D: 4 overs
+    answer: D
+    explanation: In a 20-over match each bowler may bowl at most 4 overs (one-fifth of the overs).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q031
+    difficulty: medium
+    stem: Who among the following served the shortest tenure as the Prime Minister of India?
+    options:
+      A: HD Deva Gowda
+      B: VP Singh
+      C: Chandra Shekhar
+      D: IK Gujral
+    answer: C
+    explanation: Of these, Chandra Shekhar had the shortest tenure (Nov 1990–Jun 1991, about 7 months).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q032
+    difficulty: medium
+    stem: In which year India won gold in men’s hockey in the Olympic games?
+    options:
+      A: "1984"
+      B: "1992"
+      C: "1980"
+      D: "1988"
+    answer: C
+    explanation: India won its eighth Olympic hockey gold at Moscow in 1980.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q033
+    difficulty: medium
+    stem: Name the longest highway single-tube tunnel that reduces the travel time and overall distance between Manali and Keylong.
+    options:
+      A: Atal Tunnel
+      B: Natuwadi Tunnel
+      C: Karbude Tunnel
+      D: Jawahar Tunnel
+    answer: A
+    explanation: The Atal Tunnel under the Rohtang Pass (9.02 km) links Manali and Keylong (Lahaul-Spiti).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q034
+    difficulty: medium
+    stem: Which institution launched the Self-Help Group – Bank Linkage Programme in 1992-93?
+    options:
+      A: SBI
+      B: NABARD
+      C: SIDBI
+      D: IDBI
+    answer: B
+    explanation: NABARD launched the SHG–Bank Linkage Programme as a pilot in 1992-93.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q035
+    difficulty: medium
+    stem: In February 2022, West Bengal government launched an open-air classroom programme for students from Class 1 to 7, by the name ________.
+    options:
+      A: Shiksha Abhiyan
+      B: Samagra Shiksha
+      C: SHREYAS
+      D: Paray Shikshalaya
+    answer: D
+    explanation: "\"Paray Shikshalaya\" (neighbourhood schools) was West Bengal's open-air classroom scheme in February 2022."
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q036
+    difficulty: medium
+    stem: Ricky Kej won his third Grammy award in 2023 for which of the following albums?
+    options:
+      A: Winds of Samsara
+      B: Ballad of Maya
+      C: Divine Tides
+      D: Mann Mein Aman
+    answer: C
+    explanation: Ricky Kej won his third Grammy in 2023 for the album "Divine Tides" (with Stewart Copeland).
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q037
+    difficulty: medium
+    stem: The Gulf of Khambhat, the Gulf of Kutch and Sundarbans region provide ideal conditions for utilising _________ energy in India.
+    options:
+      A: wind
+      B: thermal
+      C: tidal
+      D: solar
+    answer: C
+    explanation: The large tidal range in the Gulfs of Khambhat and Kutch and the Sundarbans suits tidal energy.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q038
+    difficulty: medium
+    stem: The Lomas Rishi cave which is a manmade cave is located in which state of India?
+    options:
+      A: Maharashtra
+      B: Karnataka
+      C: Madhya Pradesh
+      D: Bihar
+    answer: D
+    explanation: The Lomas Rishi cave is a Mauryan rock-cut cave in the Barabar Hills, Bihar.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q039
+    difficulty: medium
+    stem: Commercialisation of agriculture is an indication of ___________.
+    options:
+      A: income surplus
+      B: producers’ surplus
+      C: consumer surplus
+      D: marketable surplus
+    answer: D
+    explanation: Farmers selling a surplus in the market (marketable surplus) shows agriculture becoming commercial.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q040
+    difficulty: medium
+    stem: The first day of the Tamil calendar on 14 April is celebrated as________.
+    options:
+      A: Mahamaham
+      B: Onam
+      C: Pongal
+      D: Puthandu
+    answer: D
+    explanation: Puthandu, the Tamil New Year, falls on 14 April.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q041
+    difficulty: medium
+    stem: Identify an endoparasite found in animals.
+    options:
+      A: Pleurobrachia
+      B: Ctenoplana
+      C: Flatworms
+      D: Adamsia
+    answer: C
+    explanation: Many flatworms (tapeworms, liver flukes) live inside animal hosts as endoparasites; the others are ctenophores or a sea anemone.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q042
+    difficulty: medium
+    stem: "The compound in which a hydroxy group, -OH, is attached to a saturated carbon atom which has two other carbon atoms attached to it is called:"
+    options:
+      A: aldehyde
+      B: tertiary alcohol
+      C: secondary alcohol
+      D: primary alcohol
+    answer: C
+    explanation: An –OH on a carbon bonded to two other carbons is a secondary (2°) alcohol.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q043
+    difficulty: medium
+    stem: Padma Shri, Padma Bhushan and Padma Vibushan awardee, Guru Kelucharan Mohapatra, was instrumental in reviving which of the following classical dances?
+    options:
+      A: Odissi
+      B: Kuchipudi
+      C: Bharatanatyam
+      D: Manipuri
+    answer: A
+    explanation: Guru Kelucharan Mohapatra led the 20th-century revival of Odissi.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q044
+    difficulty: medium
+    stem: Which of the following is mentioned in the Preamble of the Constitution of India?
+    options:
+      A: Liberty of thought, expression, belief, faith and worship
+      B: Fraternity assuring human dignity
+      C: Equality of status and employment
+      D: Justice, social, economic and administrative
+    answer: A
+    explanation: The Preamble secures "Liberty of thought, expression, belief, faith and worship".
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q045
+    difficulty: medium
+    stem: Who among the following wrote ‘Anand Math’ from where India’s National song ‘Vande Mataram’ has been taken?
+    options:
+      A: Abanindranath Tagore
+      B: Rabindranath Tagore
+      C: Mohammad Iqbal
+      D: Bankim Chandra Chatterjee
+    answer: D
+    explanation: Bankim Chandra Chatterjee wrote Anandamath (1882), which contains "Vande Mataram".
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q046
+    difficulty: medium
+    stem: In September 2022, who among the following was appointed as Chief of Defence Staff (CDS) of India?
+    options:
+      A: General Manoj Mukund Naravane
+      B: General Dalbir Singh Suhag
+      C: Lt General Anil Chauhan (Retired)
+      D: General Manoj Pande
+    answer: C
+    explanation: Lt Gen Anil Chauhan (Retd) was appointed India's second CDS in September 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q047
+    difficulty: medium
+    stem: According to the Census of India 2011, which state of India has the highest Hindu population percentage of the total population?
+    options:
+      A: Chhattisgarh
+      B: Odisha
+      C: Himachal Pradesh
+      D: Madhya Pradesh
+    answer: C
+    explanation: "Census 2011: Himachal Pradesh had the highest Hindu share (about 95.2%) among states."
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q048
+    difficulty: medium
+    stem: The characteristic garlicky odour of garlic is due to _________.
+    options:
+      A: iodine
+      B: copper
+      C: chlorine
+      D: sulphur
+    answer: D
+    explanation: Garlic's smell comes from sulphur compounds such as allicin.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q049
+    difficulty: medium
+    stem: Who among the following revolted against Balban, Sultan of Delhi, and declared himself as an independent ruler of Bengal in 1279?
+    options:
+      A: Muhammad Khan
+      B: Tughril Beg
+      C: Bughra Khan
+      D: Nasir-ud-din Mahmud
+    answer: B
+    explanation: Balban's governor of Bengal, Tughril Khan (printed here as "Tughril Beg"), revolted in 1279 and declared himself independent; Balban crushed the revolt.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q050
+    difficulty: medium
+    stem: Which of the following organisations was established in 1885?
+    options:
+      A: Communist Party of India
+      B: Muslim League
+      C: East India Organization
+      D: Indian National Congress
+    answer: D
+    explanation: The Indian National Congress was founded in December 1885 in Bombay.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-27-s1-q051
+    difficulty: medium
+    stem: The difference between the cubes of two given natural numbers is 6272, while the positive difference between the two given numbers is 8. What is the sum of the cubes of the two given numbers?
+    options:
+      A: "9728"
+      B: "9684"
+      C: "8000"
+      D: "9600"
+    answer: A
+    explanation: "a − b = 8 and a²+ab+b² = 6272/8 = 784 give ab = 240, so the numbers are 20 and 12: 8000 + 1728 = 9728."
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q052
+    difficulty: medium
+    stem: If the price of petrol is increased by 81%, by what percentage should the consumption of petrol be decreased by the consumer if the expenditure on petrol remains unchanged? (Correct to two decimal places)
+    options:
+      A: 40.45%
+      B: 41.25%
+      C: 43.12%
+      D: 44.75%
+    answer: D
+    explanation: Cut in consumption = 81/181 × 100 = 44.75%.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q053
+    difficulty: medium
+    stem: If 2x + 3y = 16 and xy = 9, then find 8x³ + 27y³.
+    options:
+      A: "1980"
+      B: "2980"
+      C: "1504"
+      D: "2189"
+    answer: C
+    explanation: 8x³ + 27y³ = (2x + 3y)³ − 18xy(2x + 3y) = 4096 − 2592 = 1504.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q054
+    difficulty: medium
+    stem: |-
+      In the following figure, O is the centre of the circle. Its two chords AB and CD intersect each other at point P inside the circle. If AB = 18 cm, PB = 6 cm and CP = 4 cm, then find the measure of PD.
+
+      [Figure: a circle with centre O; chord AB runs from upper-left to lower-right and chord CD from lower-left to upper-right, crossing at P]
+
+      *(Figure: Circle with centre O; chords AB and CD intersect at P inside the circle.)*
+    options:
+      A: 14 cm
+      B: 18 cm
+      C: 16 cm
+      D: 20 cm
+    answer: B
+    explanation: AP = 18 − 6 = 12; AP × PB = CP × PD → 12 × 6 = 4 × PD → PD = 18 cm.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q055
+    difficulty: medium
+    stem: If x + y = 25 and xy = 20, then find the value of x³ + y³ .
+    options:
+      A: "13152"
+      B: "13125"
+      C: "14125"
+      D: "14152"
+    answer: C
+    explanation: x³ + y³ = (x + y)³ − 3xy(x + y) = 15625 − 1500 = 14125.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q056
+    difficulty: medium
+    stem: Sohan and Amit started a car race from the same point in the same direction and at the same time on a circular track of length 1125 m with speeds of 36 km/h and 54 km/h, respectively. After how much time (in seconds) will they meet for the first time since the start of the race?
+    options:
+      A: "220"
+      B: "215"
+      C: "210"
+      D: "225"
+    answer: D
+    explanation: "Relative speed = 18 km/h = 5 m/s; they meet after one lap's gap: 1125 ÷ 5 = 225 s."
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q057
+    difficulty: medium
+    stem: Which of the following is the smallest 5-digits number that is exactly divisible by 526?
+    options:
+      A: "10520"
+      B: "11046"
+      C: "10516"
+      D: "10426"
+    answer: A
+    explanation: 526 × 19 = 9994 has 4 digits, so the smallest 5-digit multiple is 526 × 20 = 10520.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q058
+    difficulty: medium
+    stem: Two motorists start together to travel to a certain destination, one at the speed of 4 km/h and the other at the speed of 6 km/h. Find the distance travelled by them (in km) if the motorist travelling at 4 km/h arrives half an hour after the other motorist.
+    options:
+      A: "8"
+      B: "5"
+      C: "6"
+      D: "4"
+    answer: C
+    explanation: d/4 − d/6 = 1/2 → d/12 = 1/2 → d = 6 km.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q059
+    difficulty: medium
+    stem: If A + B = 90° and sin A = 3/5, then the value of tanB is ________.
+    options:
+      A: 4/3
+      B: 5/4
+      C: 3/4
+      D: 5/3
+    answer: A
+    explanation: tan B = cot A; sin A = 3/5 gives cos A = 4/5, so cot A = 4/3.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q060
+    difficulty: medium
+    stem: |-
+      Study the graph carefully.
+
+      [Bar graph: ‘Wheat imports (in thousand tonnes)’; y-axis 0-6000]
+
+      | Year | 1970 | 1971 | 1972 | 1973 | 1974 | 1975 | 1976 | 1977 |
+      |---|---|---|---|---|---|---|---|---|
+      | Imports | 3465 | 1600 | 2413 | 4400 | 6000 | 5200 | 2700 | 3600 |
+
+      The imports in 1974 were approximately how many times that of the year 1971?
+
+      *(Figure: Bar graph of wheat imports (thousand tonnes), 1970-1977: 3465, 1600, 2413, 4400, 6000, 5200, 2700, 3600 (values printed on the bars; year labels confirmed at 300 dpi).)*
+    options:
+      A: "3.75"
+      B: "3"
+      C: "2.5"
+      D: "3.5"
+    answer: A
+    explanation: 6000 ÷ 1600 = 3.75.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q061
+    difficulty: medium
+    stem: |-
+      The following data shows the number of boys and girls in Class VII, Class VIII, Class IX and Class X of a school. Study the data and answer the question.
+
+      [Bar graph: boys and girls per class]
+
+      | Class | Boys | Girls |
+      |---|---|---|
+      | Class VII | 65 | 58 |
+      | Class VIII | 59 | 57 |
+      | Class IX | 60 | 62 |
+      | Class X | 61 | 59 |
+
+      Which class has the maximum number of students?
+
+      *(Figure: Bar graph (boys/girls): VII 65/58, VIII 59/57, IX 60/62, X 61/59 (values printed on the bars).)*
+    options:
+      A: Class VII
+      B: Class IX
+      C: Class X
+      D: Class VIII
+    answer: A
+    explanation: "Totals: VII 123, VIII 116, IX 122, X 120; Class VII is highest."
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q062
+    difficulty: medium
+    stem: Ashok and Anil undertake to do a piece of work for ₹4,500. Ashok alone could do the work in the 8 days and Anil in 12 days. With the assistance of Amar, they finished the work in 4 days. What is the share of Amar?
+    options:
+      A: ₹1,500
+      B: ₹750
+      C: ₹2,250
+      D: ₹2,500
+    answer: B
+    explanation: "In 4 days Ashok does 1/2 and Anil 1/3, leaving 1/6 for Amar: 1/6 × 4500 = ₹750."
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q063
+    difficulty: medium
+    stem: |-
+      In the figure, AB=AD=9 cm and AC=AE=13 cm and BC=15 cm. Find ED ?
+
+      [Figure: two triangles meeting at A: E top-left, D top-right, B bottom-left, C bottom-right; segments ED and BC are horizontal, and EC and DB cross at A]
+
+      *(Figure: Bow-tie figure: ED on top, BC at the bottom, diagonals EC and DB crossing at A.)*
+    options:
+      A: 18 cm
+      B: 16 cm
+      C: 14 cm
+      D: 15 cm
+    answer: D
+    explanation: Triangles ABC and ADE are congruent (SAS with vertically opposite angles at A), so ED = BC = 15 cm.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q064
+    difficulty: medium
+    stem: Given θ₁ + θ₂ = π/2 and sin θ₁ = 1/2, find the value of θ₂.
+    options:
+      A: π/4
+      B: π/2
+      C: π/3
+      D: π
+    answer: C
+    explanation: sin θ₁ = 1/2 gives θ₁ = π/6, so θ₂ = π/2 − π/6 = π/3.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q065
+    difficulty: medium
+    stem: Find the simple interest on ₹27,000 at 14 2/3 % per annum for 8 months.
+    options:
+      A: ₹2,600
+      B: ₹2,630
+      C: ₹2,610
+      D: ₹2,640
+    answer: D
+    explanation: SI = 27000 × (44/3)/100 × 8/12 = ₹2,640.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q066
+    difficulty: medium
+    stem: |-
+      Find the value.
+
+      80.40 ÷20 - (-4.02) + 2.06 = _______.
+    options:
+      A: "9.8"
+      B: "10.2"
+      C: "10.1"
+      D: "8.2"
+    answer: C
+    explanation: 80.40 ÷ 20 = 4.02; 4.02 + 4.02 + 2.06 = 10.1.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q067
+    difficulty: medium
+    stem: |-
+      What is the value of given expression if 3cot A = 7/3 ?
+
+      (3 cos A + 2 sin A)/(3 cos A − 2 sin A)
+    options:
+      A: 2/3
+      B: 1/3
+      C: "13"
+      D: "1"
+    answer: C
+    explanation: "Divide by sin A: (3 cot A + 2)/(3 cot A − 2) = (7/3 + 2)/(7/3 − 2) = 13."
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q068
+    difficulty: medium
+    stem: A man, a woman and a boy can complete a job in 3, 5 and 15 days, respectively. How many boys must assist 1 man and 1 woman to complete the job in 1/5 of a day?
+    options:
+      A: "67"
+      B: "35"
+      C: "56"
+      D: "47"
+    answer: A
+    explanation: In 1/5 day the man does 1/15 and the woman 1/25, leaving 67/75; each boy does 1/75, so 67 boys.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q069
+    difficulty: medium
+    stem: A shopkeeper gives a 12% additional discount on the discounted price, after giving an initial discount of 25% on the labelled price of a radio. If the final selling price of the radio is ₹792, then what is its labelled price (in ₹)?
+    options:
+      A: "1980"
+      B: "2330"
+      C: "1320"
+      D: "1200"
+    answer: D
+    explanation: Price × 0.75 × 0.88 = 792 → 0.66 × price = 792 → price = ₹1,200.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q070
+    difficulty: medium
+    stem: |-
+      Which of the following is the smallest ratio?
+
+      5/6, 7/9, 11/12, 13/18
+    options:
+      A: 7/9
+      B: 13/18
+      C: 5/6
+      D: 11/12
+    answer: B
+    explanation: "With denominator 36: 30/36, 28/36, 33/36, 26/36; 13/18 is the smallest."
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q071
+    difficulty: medium
+    stem: A hemispherical bowl has a radius of 7 cm. It is to be painted from inside as well as outside. Find the cost of painting it at the rate of Rs.40 per 20 cm² ? (Take thickness of the bowl as negligible).
+    options:
+      A: Rs.1,232
+      B: Rs.1,125
+      C: Rs.1,432
+      D: Rs.1,550
+    answer: A
+    explanation: Inside + outside = 2 × 2πr² = 4 × (22/7) × 49 = 616 cm²; at ₹2 per cm² the cost is ₹1,232.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q072
+    difficulty: medium
+    stem: If A, B and C can do a work in 6 days, 9 days and 11 days, respectively, then, working together, how many days will they take to do the work?
+    options:
+      A: 1 52/73
+      B: 4 52/73
+      C: 2 52/73
+      D: 3 52/73
+    answer: C
+    explanation: 1/6 + 1/9 + 1/11 = 73/198 per day, so time = 198/73 = 2 52/73 days.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q073
+    difficulty: medium
+    stem: "Rini has mixed two colours ‘C₁’ and ‘C₂’ in the ratio 2 : 3. If the rate of the colour ‘C₁’ is ₹500 per unit and she is selling the mixture of the two colours at ₹650 per unit at breakeven price, then what is the rate (in ₹) per unit of the second colour, that is, ‘C₂’?"
+    options:
+      A: "750"
+      B: "725"
+      C: "760"
+      D: "765"
+    answer: A
+    explanation: (2 × 500 + 3x)/5 = 650 → 3x = 2250 → x = ₹750.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q074
+    difficulty: medium
+    stem: |-
+      In the following figure, the length of arc AB is equal to five times of the radius r of the circle. Find the area of sector AOB?
+
+      [Figure: a circle with centre O; radius OA horizontal to the left, radius OB up to the upper-left; sector AOB shaded]
+
+      *(Figure: Circle with centre O and shaded sector AOB between radii OA and OB.)*
+    options:
+      A: 2.5r²
+      B: ½r²
+      C: 3r²
+      D: 2r²
+    answer: A
+    explanation: Area of a sector = ½ × r × arc = ½ × r × 5r = 2.5r².
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q075
+    difficulty: medium
+    stem: "On selling a painting at Rs.1,498, the gain is 25% more than the loss incurred on selling it at Rs.1,300. In order to gain 25%, the selling price will be:"
+    options:
+      A: Rs.1,735
+      B: Rs.1,335
+      C: Rs.1,755
+      D: Rs.1,388
+    answer: A
+    explanation: 1498 − CP = 1.25(CP − 1300) → CP = 1388; for 25% gain SP = 1.25 × 1388 = ₹1,735.
+    tags:
+      - quant
+  - slug: cgl-2023-07-27-s1-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Hard nut to crack
+    options:
+      A: A problem difficult to solve
+      B: To leave an effect
+      C: A situation that can be altered
+      D: To bid farewell
+    answer: A
+    explanation: A "hard nut to crack" is a problem or person that is difficult to deal with.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Sanyukta has to bake fifty-one cakes for the anniversary party.
+    options:
+      A: Fifty-one cakes will be baked by Sanyukta for the anniversary party.
+      B: Fifty-one cakes had to be baken by Sanyukta for the anniversary party.
+      C: Fifty-one cakes have to be baked by Sanyukta for the anniversary party.
+      D: Fifty-one cakes has to be baked by Sanyukta for the anniversary party.
+    answer: C
+    explanation: '"Has to bake" becomes "have to be baked" with the plural subject "fifty-one cakes".'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q078
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Submisive
+      B: Validity
+      C: Kaleidoscope
+      D: Animation
+    answer: A
+    explanation: The correct spelling is "Submissive".
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the italicised group of words in the given sentence.
+
+      The prime minister paid tributes to the martyrs by laying *circular arrangement of flowers*.
+    options:
+      A: buds
+      B: posies
+      C: bouquets
+      D: wreaths
+    answer: D
+    explanation: A wreath is a circular arrangement of flowers laid as a tribute.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      The village fair was cancelled due to **incessant** rains.
+    options:
+      A: Insistent
+      B: Daily
+      C: Sporadic
+      D: Continual
+    answer: C
+    explanation: Incessant means unceasing; its opposite is sporadic (occasional).
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      The practice of writing dictionaries
+    options:
+      A: Anthropology
+      B: Lexicography
+      C: Photography
+      D: Philology
+    answer: B
+    explanation: Lexicography is the practice of compiling dictionaries.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Trivial
+    options:
+      A: Significant
+      B: Huge
+      C: Heavy
+      D: Light
+    answer: A
+    explanation: Trivial means unimportant; its opposite is significant.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      I **object** the false claims made against me.
+    options:
+      A: assent
+      B: ease
+      C: restore
+      D: ascertain
+    answer: A
+    explanation: To object is to disagree; to assent is to agree.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate idiom for the given underlined segment in the sentence.
+
+      Riya always considers sincerity, devotion and dedication as the **highest priority** of a good employee.
+    options:
+      A: Fair and square
+      B: Ever and anon
+      C: Free and easy
+      D: First and foremost
+    answer: D
+    explanation: '"First and foremost" means above all / of highest priority.'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym for the highlighted word.
+
+      This is **credible** information provided by the informer.
+    options:
+      A: commendable
+      B: dependable
+      C: detachable
+      D: digestible
+    answer: B
+    explanation: Credible means believable or trustworthy, i.e. dependable.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q086
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A.It is not a walker’s paradise. So walking is not a fashionable pastime here.
+
+      B.London is known for its hectic face, frenzied movements, high decibels and dust kicked by the speeding vehicles.
+
+      C.On the contrary, life in the countryside is laid back and easy paced. Unless it is raining, people set out for walk.
+
+      D.For these reasons, Max never went out for a walk, nor did anyone ask him to accompany.
+    options:
+      A: ADCB
+      B: BADC
+      C: DCAB
+      D: CADB
+    answer: B
+    explanation: "B introduces London, A follows from it, D gives Max's reaction \"for these reasons\", and C contrasts the countryside: BADC."
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      My father is reading the newspaper.
+    options:
+      A: The newspaper is being read by my father.
+      B: The newspaper happens to be read by my father.
+      C: The newspaper was being read by my father.
+      D: My father likes reading the newspaper.
+    answer: A
+    explanation: 'Present continuous active becomes "is being + past participle": "The newspaper is being read by my father."'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      He **described about the scenery** yesterday.
+    options:
+      A: described about the scenary
+      B: described the scenery
+      C: describing about the scenery
+      D: describe the scenery
+    answer: B
+    explanation: '"Describe" is transitive and takes no "about": "described the scenery".'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q089
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Oligopoly
+      B: Xylophone
+      C: Zenith
+      D: Robbust
+    answer: D
+    explanation: The correct spelling is "Robust".
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q090
+    difficulty: medium
+    stem: |-
+      Parts of the following sentence have been given as options. Select the option that contains an error.
+
+      My younger brother were attending a short-term computer course these days.
+    options:
+      A: were attending
+      B: My younger brother
+      C: a short-term computer course
+      D: these days
+    answer: A
+    explanation: The singular subject "My younger brother" needs "is attending", not "were attending".
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      I worked hard so **that I might success** .
+    options:
+      A: that I may success
+      B: that I might successful
+      C: that I might succeed
+      D: that I might successor
+    answer: C
+    explanation: 'After "might" a verb is needed: "succeed" (success is a noun).'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q092
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. The government's recent efforts have concentrated on strengthening these ties.
+
+      B. The textile industry in India is one of the country's oldest, stretching back several centuries.
+
+      C. The textile business is immensely diverse, with hand-spun and hand-woven textiles at one end of the spectrum and capital-intensive modern mills at the other.
+
+      D. Its tight ties to agriculture (for raw materials such as cotton) and the country's old history and traditions in terms of textiles set it apart from other sectors in the country.
+    options:
+      A: DABC
+      B: ABCD
+      C: BCDA
+      D: CBDA
+    answer: C
+    explanation: 'B introduces the industry, C describes its range, D says what sets it apart, and A refers back to "these ties": BCDA.'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Conceal
+    options:
+      A: Watch
+      B: See
+      C: Reveal
+      D: Hide
+    answer: C
+    explanation: Conceal means to hide; its opposite is reveal.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q094
+    difficulty: medium
+    stem: |-
+      Select the option that will improve the underlined part of the given sentence. In case no improvement is needed, select 'No improvement required'
+
+      The stranger stood quietly **for few moments.**
+    options:
+      A: For the few moments
+      B: No improvement required
+      C: For moments
+      D: For a few moments
+    answer: D
+    explanation: '"A few moments" (some moments) is the correct phrase; "few" alone means hardly any.'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Memory
+    options:
+      A: Suppress
+      B: Oblivion
+      C: Retrospection
+      D: Impart
+    answer: B
+    explanation: Oblivion is the state of being forgotten, the opposite of memory.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The civil service is an integral part of the government and plays a crucial role in implementing policies and programmes that benefit the public. The (1) _________ of civil services is to ensure that the government is able to provide services to citizens in a timely and effective manner. Civil servants are responsible for a wide range of tasks, including (2) _________ the implementation of policies and programmes, managing budgets and providing advice to government officials. In order to perform their duties effectively, civil servants must have a deep understanding of government processes, as well as strong (3) _________ and analytical skills. They must also be able to communicate effectively with a wide range of stakeholders, including government officials, citizens and other organisations. To become a civil servant, individuals typically need to pass a rigorous exam and undergo extensive training. Once they are appointed, civil servants are expected to abide by a code of conduct that emphasises impartiality, integrity and (4) _________ in carrying out their duties. Despite the challenges and demands of civil service work, it can be a highly rewarding career path, providing opportunities to make a positive impact on society and improve the lives of citizens. Whether working in a local, state or federal government agency, civil servants play a vital role in (5) _________ democratic values and promoting the public good.
+
+      Select the most appropriate option to fill in blank no. 1.
+    options:
+      A: mandate
+      B: recommendation
+      C: defunct
+      D: function
+    answer: D
+    explanation: The role or purpose of the civil service is its function.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The civil service is an integral part of the government and plays a crucial role in implementing policies and programmes that benefit the public. The (1) _________ of civil services is to ensure that the government is able to provide services to citizens in a timely and effective manner. Civil servants are responsible for a wide range of tasks, including (2) _________ the implementation of policies and programmes, managing budgets and providing advice to government officials. In order to perform their duties effectively, civil servants must have a deep understanding of government processes, as well as strong (3) _________ and analytical skills. They must also be able to communicate effectively with a wide range of stakeholders, including government officials, citizens and other organisations. To become a civil servant, individuals typically need to pass a rigorous exam and undergo extensive training. Once they are appointed, civil servants are expected to abide by a code of conduct that emphasises impartiality, integrity and (4) _________ in carrying out their duties. Despite the challenges and demands of civil service work, it can be a highly rewarding career path, providing opportunities to make a positive impact on society and improve the lives of citizens. Whether working in a local, state or federal government agency, civil servants play a vital role in (5) _________ democratic values and promoting the public good.
+
+      Select the most appropriate option to fill in blank no. 2.
+    options:
+      A: promoting
+      B: escalating
+      C: developing
+      D: managing
+    answer: D
+    explanation: Civil servants manage (oversee) the implementation of policies, which fits the list of administrative tasks.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The civil service is an integral part of the government and plays a crucial role in implementing policies and programmes that benefit the public. The (1) _________ of civil services is to ensure that the government is able to provide services to citizens in a timely and effective manner. Civil servants are responsible for a wide range of tasks, including (2) _________ the implementation of policies and programmes, managing budgets and providing advice to government officials. In order to perform their duties effectively, civil servants must have a deep understanding of government processes, as well as strong (3) _________ and analytical skills. They must also be able to communicate effectively with a wide range of stakeholders, including government officials, citizens and other organisations. To become a civil servant, individuals typically need to pass a rigorous exam and undergo extensive training. Once they are appointed, civil servants are expected to abide by a code of conduct that emphasises impartiality, integrity and (4) _________ in carrying out their duties. Despite the challenges and demands of civil service work, it can be a highly rewarding career path, providing opportunities to make a positive impact on society and improve the lives of citizens. Whether working in a local, state or federal government agency, civil servants play a vital role in (5) _________ democratic values and promoting the public good.
+
+      Select the most appropriate option to fill in blank no. 3.
+    options:
+      A: technical
+      B: problem-solving
+      C: interpersonal
+      D: accounting
+    answer: B
+    explanation: '"Problem-solving and analytical skills" is the natural pair for handling government processes.'
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The civil service is an integral part of the government and plays a crucial role in implementing policies and programmes that benefit the public. The (1) _________ of civil services is to ensure that the government is able to provide services to citizens in a timely and effective manner. Civil servants are responsible for a wide range of tasks, including (2) _________ the implementation of policies and programmes, managing budgets and providing advice to government officials. In order to perform their duties effectively, civil servants must have a deep understanding of government processes, as well as strong (3) _________ and analytical skills. They must also be able to communicate effectively with a wide range of stakeholders, including government officials, citizens and other organisations. To become a civil servant, individuals typically need to pass a rigorous exam and undergo extensive training. Once they are appointed, civil servants are expected to abide by a code of conduct that emphasises impartiality, integrity and (4) _________ in carrying out their duties. Despite the challenges and demands of civil service work, it can be a highly rewarding career path, providing opportunities to make a positive impact on society and improve the lives of citizens. Whether working in a local, state or federal government agency, civil servants play a vital role in (5) _________ democratic values and promoting the public good.
+
+      Select the most appropriate option to fill in blank no. 4.
+    options:
+      A: efficiency
+      B: activism
+      C: severity
+      D: popularity
+    answer: A
+    explanation: A code of conduct stresses impartiality, integrity and efficiency.
+    tags:
+      - english
+  - slug: cgl-2023-07-27-s1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The civil service is an integral part of the government and plays a crucial role in implementing policies and programmes that benefit the public. The (1) _________ of civil services is to ensure that the government is able to provide services to citizens in a timely and effective manner. Civil servants are responsible for a wide range of tasks, including (2) _________ the implementation of policies and programmes, managing budgets and providing advice to government officials. In order to perform their duties effectively, civil servants must have a deep understanding of government processes, as well as strong (3) _________ and analytical skills. They must also be able to communicate effectively with a wide range of stakeholders, including government officials, citizens and other organisations. To become a civil servant, individuals typically need to pass a rigorous exam and undergo extensive training. Once they are appointed, civil servants are expected to abide by a code of conduct that emphasises impartiality, integrity and (4) _________ in carrying out their duties. Despite the challenges and demands of civil service work, it can be a highly rewarding career path, providing opportunities to make a positive impact on society and improve the lives of citizens. Whether working in a local, state or federal government agency, civil servants play a vital role in (5) _________ democratic values and promoting the public good.
+
+      Select the most appropriate option to fill in blank no. 5.
+    options:
+      A: mimicking
+      B: upholding
+      C: lacking
+      D: contextualising
+    answer: B
+    explanation: Civil servants uphold (support and maintain) democratic values.
+    tags:
+      - english
