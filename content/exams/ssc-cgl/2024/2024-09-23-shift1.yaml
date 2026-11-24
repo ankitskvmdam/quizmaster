@@ -13,7 +13,9 @@ questions:
       C: JMQN
       D: MPNK
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      In TWGD, JMQN and MPNK the pattern is +3, then −3 (T→W, G→D; J→M, Q→N; M→P, N→K).
+      PSKI breaks it: P→S is +3 but K→I is only −2.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q002
@@ -28,7 +30,9 @@ questions:
       C: RDMW
       D: RDWM
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Letters 1 and 3 move +4 (J→N→R→V→Z, O→S→W→A→E); letters 2 and 4 move −2 (H→F→D→B→Z, Q→O→M→K→I).
+      So the missing term is RDWM.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q004
@@ -43,7 +47,7 @@ questions:
       C: "144"
       D: "124"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "After interchanging: 63 ÷ 7 × 13 + 64 − 42 = 9 × 13 + 22 = 117 + 22 = 139."
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q005
@@ -55,7 +59,9 @@ questions:
       C: UDMDWHTHPN
       D: UDMDWHHTPM
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Letters alternately move +1 and −1 (R→S, A→Z, D→E, I→H, O→P).
+      TELEVISION → U D M D W H T H P M = UDMDWHTHPM.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q006
@@ -70,7 +76,9 @@ questions:
       C: 21 – 14 – 72
       D: 15 – 3 – 108
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Third number = 9 × (first − second): 9 × 7 = 63, 9 × 4 = 36, 9 × 12 = 108.
+      For 21 – 14 – 72, 9 × 7 = 63, not 72, so it is the odd one.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q007
@@ -85,7 +93,9 @@ questions:
       C: VCQ
       D: VBP
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The letters move +3, +3, +2, +2 repeatedly: S, V, Y, A, C, F, I, K, M, P, S, U, W.
+      So the blanks are V, C, P.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q008
@@ -100,7 +110,9 @@ questions:
       C: GMTVI
       D: IMTVI
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The series is runs of consecutive letters with three letters skipped between runs: AB (skip CDE) FGHI (skip JKL) MNOP (skip QRS) TUVW (skip XYZ) ABCD (skip EFG) HI.
+      So the blanks are G, M, T, V, I.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q009
@@ -115,7 +127,7 @@ questions:
       C: U
       D: J
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "J is in the same position (left) in both views, so the faces in matching positions are opposite: P (top) is opposite W (top), and U is opposite L."
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q010
@@ -132,7 +144,9 @@ questions:
       C: (18, 21, 39)
       D: (27, 25, 42)
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      First + second = third: 25 + 22 = 47, 31 + 24 = 55.
+      Likewise 18 + 21 = 39.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q011
@@ -144,7 +158,7 @@ questions:
       C: None
       D: Two
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: MOBILE in alphabetical order is BEILMO. Comparing position by position (M/B, O/E, B/I, I/L, L/M, E/O), no letter stays in place.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q012
@@ -159,7 +173,7 @@ questions:
       C: "12"
       D: "0"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "After interchanging: 25 − 3 × 9 + 14 ÷ 2 = 25 − 27 + 7 = 5."
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q014
@@ -176,7 +190,7 @@ questions:
       C: "Germany : Swan"
       D: "India : Eagle"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The Gallic rooster is the national symbol (bird) of France; the emu is the national bird of Australia.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q015
@@ -188,7 +202,9 @@ questions:
       C: "438"
       D: "320"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Second number = first² + 91: 12² + 91 = 235, 14² + 91 = 287.
+      So 18² + 91 = 324 + 91 = 415.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q016
@@ -203,7 +219,9 @@ questions:
       C: GP26
       D: FO24
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      First letter +1 (B, C, D, E, F), second letter +2 (H, J, L, N, P), number +3 (14, 17, 20, 23, 26).
+      So the next term is FP26.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q017
@@ -218,7 +236,9 @@ questions:
       C: "3"
       D: "1"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Faces next to 3 are 5, 4 and 6, so 3 is opposite 1 or 2; 6 touches 3, 4, 1 and 2, so 6 is opposite 5.
+      Placing the faces by the order shown in the three views gives 1 opposite 4, leaving 2 opposite 3.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q018
@@ -230,7 +250,9 @@ questions:
       C: "11"
       D: "10"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      DICTIONARY in alphabetical order is A C D I I N O R T Y. The 4th from the left is I and the 2nd from the right is T.
+      Between I and T in the alphabet there are 10 letters (J to S).
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q021
@@ -245,7 +267,7 @@ questions:
       C: "11"
       D: "15"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Count every square: the outer square with the diamond, the small squares of the rectangle and the larger squares formed by joining them; SSC’s key gives 15."
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q022
@@ -257,7 +279,9 @@ questions:
       C: XJMM
       D: XKNM
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Each letter moves +2 (B→D, O→Q, T→V, H→J).
+      WILL → YKNN.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q023
@@ -286,7 +310,9 @@ questions:
       C: Mother’s mother
       D: Mother’s sister
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      J is the mother of K; K is the sister of L, so J is L’s mother. L is M’s wife, M is N’s father and N is Z’s brother, so L is Z’s mother.
+      J is therefore Z’s mother’s mother.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q024
@@ -301,7 +327,9 @@ questions:
       C: "588"
       D: "598"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The differences are consecutive primes: +31, +37, +41, +43, so the next is +47.
+      541 + 47 = 588.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q025
@@ -320,7 +348,9 @@ questions:
       C: "68 : 214"
       D: "39 : 120"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Second number = first × 3 + 3: 40 × 3 + 3 = 123, 63 × 3 + 3 = 192.
+      Likewise 39 × 3 + 3 = 120.
     tags:
       - reasoning
   - slug: cgl-2024-09-23-s1-q026
@@ -332,7 +362,7 @@ questions:
       C: Spines
       D: Tendril
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Neem (Azadirachta indica) has pinnately compound leaves, with leaflets arranged on both sides of a common axis.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q027
@@ -344,7 +374,7 @@ questions:
       C: Om Jai Jagdish
       D: Lagaan
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Asha Bhosle won the 2002 IIFA Award for Best Female Playback Singer for “Radha Kaise Na Jale” from Lagaan.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q028
@@ -356,7 +386,7 @@ questions:
       C: 40-60 days
       D: 50-80 days
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: According to NCERT geography, the monsoon in India lasts about 100–120 days, from early June to mid-September.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q029
@@ -368,7 +398,9 @@ questions:
       C: The Ganga
       D: The Godavari
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The Northern Plain is formed by the Indus, the Ganga and the Brahmaputra and their tributaries.
+      The Godavari is a peninsular river, so it is the odd one out.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q030
@@ -380,7 +412,7 @@ questions:
       C: India that is Bharat shall be a Union of states
       D: India that is Bharat as presidential form of democracy
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "Article 1(1) of the Constitution says: “India, that is Bharat, shall be a Union of States.”"
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q031
@@ -392,7 +424,7 @@ questions:
       C: Jeswin aldrin
       D: TC Yohannan
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Jeswin Aldrin set the Indian long jump record of 8.42 m in March 2023.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q032
@@ -404,7 +436,7 @@ questions:
       C: Diffraction of light
       D: Angle of refraction
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: When an opaque obstacle is very small, light bends around it instead of travelling in a straight line; this is diffraction of light.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q033
@@ -416,7 +448,7 @@ questions:
       C: Finance Commission of India
       D: Union Executive
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Articles 52–78 of Part V deal with the Union Executive: the President, Vice-President, Prime Minister, Council of Ministers and Attorney General."
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q034
@@ -428,7 +460,7 @@ questions:
       C: Third
       D: First
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: India is the world’s second-largest telecommunications market, after China.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q035
@@ -440,7 +472,7 @@ questions:
       C: "2013"
       D: "2012"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The National Youth Policy 2014 was launched in February 2014, replacing the 2003 policy.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q036
@@ -452,7 +484,7 @@ questions:
       C: Subhas Chandra Bose
       D: Jawaharlal Nehru
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Mahatma Gandhi presided over the Belgaum session of the Indian National Congress in 1924, the only session he presided over.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q037
@@ -464,7 +496,7 @@ questions:
       C: Tanpura
       D: Sarod
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Ustad Ali Akbar Khan of the Maihar gharana was a celebrated sarod player.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q038
@@ -485,7 +517,9 @@ questions:
       C: Only 2
       D: Only 1
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The ODR handbook was launched by NITI Aayog (2021), not the Ministry of Science and Technology, so statement 1 is wrong.
+      Statements 2 and 3 correctly describe ODR and the role of ICT and the internet.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q039
@@ -497,7 +531,7 @@ questions:
       C: "2016"
       D: "2020"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The RBI Act, 1934 was amended through the Finance Act 2016, giving a statutory basis to flexible inflation targeting.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q040
@@ -509,7 +543,7 @@ questions:
       C: Chhattisgarh
       D: Gujarat
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Aasara is Telangana’s social security pension scheme; Telangana’s 2022-23 budget allocated ₹11,728 crore to it.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q041
@@ -521,7 +555,7 @@ questions:
       C: Punjab
       D: Andhra Pradesh
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Atla Taddi is a festival celebrated by women in Andhra Pradesh (and Telangana), observed in the month of Ashvayuja.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q042
@@ -533,7 +567,7 @@ questions:
       C: Mouling National Park
       D: Papikonda National Park
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Campbell Bay National Park on Great Nicobar is home to the Nicobar megapode, crab-eating macaque, Nicobar pigeon and giant robber crab.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q043
@@ -545,7 +579,7 @@ questions:
       C: "1789"
       D: "1790"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The Permanent Settlement of Bengal was introduced by Lord Cornwallis in 1793.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q044
@@ -557,7 +591,7 @@ questions:
       C: Part IX
       D: Part VII
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Part IX of the Constitution (Articles 243–243O), added by the 73rd Amendment, deals with the Panchayats.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q045
@@ -569,7 +603,7 @@ questions:
       C: Battle of Khanwa
       D: Second battle of Panipat
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Babur defeated Rana Sanga of Mewar at the Battle of Khanwa in 1527.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q046
@@ -581,7 +615,9 @@ questions:
       C: Ordinary people
       D: Craftsman
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Rigvedic society had three sections: priests, warriors and ordinary people (NCERT).
+      Craftsmen were not one of these three sections.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q047
@@ -600,7 +636,9 @@ questions:
       C: ii and iii
       D: i and iii
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The first Green Revolution caused over-use of water, soil and fertilisers, and the second aims at sustainable livelihood security.
+      The second Green Revolution focuses on eastern India, not the south, so statement ii is wrong.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q048
@@ -612,7 +650,7 @@ questions:
       C: Tripura
       D: Himachal Pradesh
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Hojagiri is a folk dance of the Reang (Bru) community of Tripura.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q049
@@ -624,7 +662,7 @@ questions:
       C: zero order reaction
       D: third order reaction
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: If the rate is proportional to the first power of one reactant’s concentration (rate = k[A]), the reaction is first order.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q050
@@ -636,7 +674,7 @@ questions:
       C: Punjab
       D: Kolkata
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The first Kabaddi World Cup was held in Mumbai in 2004, and India won it.
     tags:
       - general-awareness
   - slug: cgl-2024-09-23-s1-q051
@@ -648,7 +686,9 @@ questions:
       C: "7 : 3"
       D: "3 : 7"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      S − 10 = 3(T − 10) and S + 10 = 2(T + 10). Solving gives T = 30 and S = 70.
+      Ratio = 70 : 30 = 7 : 3.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q052
@@ -660,7 +700,9 @@ questions:
       C: 22 seconds
       D: 23 seconds
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Relative speed = 104.4 − 90 = 14.4 km/h = 4 m/s.
+      Time = 92 ÷ 4 = 23 seconds.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q053
@@ -672,7 +714,9 @@ questions:
       C: "70"
       D: "35"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Missing the 85% target by 35% means he scored 50%, so 450 is 50% and the total is 900. The target is 85% of 900 = 765.
+      Increase needed = (765 − 450)/450 × 100 = 70%.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q054
@@ -693,7 +737,11 @@ questions:
       C: 1/1
       D: 39/71
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      **Disputed.** SSC's answer is C; our check suggests A.
+
+      Average = (20 + 55 + 25 + 65 + 85 + 98)/6 = 58. Above-average countries total 65 + 85 + 98 = 248 engineers and below-average ones 20 + 55 + 25 = 100, a ratio of 62/25.
+      SSC’s key, 1/1, is the ratio of the number of countries (3 above : 3 below), not the number of engineers.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q055
@@ -708,7 +756,9 @@ questions:
       C: "445"
       D: "261"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      (a³ + b³ + c³ − 3abc)/(a² + b² + c² − ab − bc − ca) = a + b + c.
+      So the value is 232 + 140 + 353 = 725.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q056
@@ -720,7 +770,7 @@ questions:
       C: "{5, 12, 13}"
       D: "{8, 15, 16}"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: 5² + 12² = 25 + 144 = 169 = 13², so {5, 12, 13} satisfies Pythagoras’ theorem.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q057
@@ -735,7 +785,7 @@ questions:
       C: "64"
       D: "74"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: 36 × 49 ÷ 42 = 42; 28 ÷ 84 × 42 = 14; 6 × 14 = 84.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q058
@@ -747,7 +797,9 @@ questions:
       C: ₹7.5
       D: ₹10
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      SI = 500 × 5 × 3/100 = ₹75 and 500 × 4 × 4/100 = ₹80.
+      Difference = ₹5.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q059
@@ -759,7 +811,9 @@ questions:
       C: "15"
       D: "12"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      20x + 10y = 390 and 10x + 20y = 300. Adding gives x + y = 23 and subtracting gives x − y = 9.
+      So x = 16 notes of ₹20.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q060
@@ -771,7 +825,7 @@ questions:
       C: 60°, 60° and 60°
       D: 90°, 45° and 45°
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: A scalene triangle has all three angles (and sides) different; only 60°, 30°, 90° has no two equal angles.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q061
@@ -783,7 +837,7 @@ questions:
       C: "16.584"
       D: "15.486"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Direct common tangent = √(d² − (r₁ − r₂)²) = √(15² − 3.5²) = √212.75 ≈ 14.586 units.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q062
@@ -795,7 +849,9 @@ questions:
       C: 10:48 a.m.
       D: 10:18 a.m.
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      From 8 to 9 a.m. pipe A fills 1/4 of the tank. Together they fill 1/4 + 1/6 = 5/12 per hour, so the remaining 3/4 takes 9/5 h = 1 h 48 min.
+      The tank is full at 10:48 a.m.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q063
@@ -807,7 +863,9 @@ questions:
       C: "2"
       D: "1.5"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The angle in a semicircle is 90°, so ∠C = 90°. With BC = r and AB = 2r, sin A = 1/2, so ∠A = 30° and ∠B = 60°.
+      ∠ABC = 2 × ∠BAC, so x = 2.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q064
@@ -819,7 +877,9 @@ questions:
       C: "11.5"
       D: "12"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Amit’s profit = 1500 × y/100 = 15y. Bilal’s profit = 2000[(1 + 2y/100)(1 − y/100) − 1] = 20y − 0.4y².
+      15y = 20y − 0.4y² gives y = 12.5.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q065
@@ -831,7 +891,7 @@ questions:
       C: "50"
       D: "45"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: If 30 is the mean proportional, 30² = 18 × A, so A = 900/18 = 50.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q066
@@ -843,7 +903,7 @@ questions:
       C: 7/15
       D: "1"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: tan θ = 3/4, and (1 − cos 2θ)/(1 + cos 2θ) = 2sin²θ/2cos²θ = tan²θ = 9/16.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q067
@@ -855,7 +915,7 @@ questions:
       C: 10√3 cm
       D: 70√2 cm
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "The longest stick lies along the cube’s body diagonal: a√3 = 70√3 cm."
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q068
@@ -863,9 +923,12 @@ questions:
     stem: |-
       A trader offers the following discount schemes on the purchase of a refrigerator.
 
-      ( I ) a discount of 10% followed by a discount of 8%  
-      ( ii ) successive discounts of 12% and 10%  
-      ( iii ) two successive discounts of 12%  
+      ( I ) a discount of 10% followed by a discount of 8%
+
+      ( ii ) successive discounts of 12% and 10%
+
+      ( iii ) two successive discounts of 12%
+
       ( iv ) a discount of 20%
 
       In which scheme is the selling price the lowest?
@@ -875,7 +938,9 @@ questions:
       C: (iii)
       D: (ii)
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Fraction of price paid: (i) 0.9 × 0.92 = 0.828; (ii) 0.88 × 0.9 = 0.792; (iii) 0.88 × 0.88 = 0.7744; (iv) 0.80.
+      Scheme (iii) gives the lowest selling price.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q069
@@ -887,7 +952,9 @@ questions:
       C: "1"
       D: "0"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      n = 0 gives 1, not divisible by 6; n = 1 gives 2² + 2 = 6, which is divisible by 6.
+      So the least value is n = 1.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q070
@@ -899,7 +966,7 @@ questions:
       C: "6"
       D: "5"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "Milk = 20 l, water = 12 l. For 50% water, water must equal milk: 12 + x = 20, so x = 8 litres."
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q071
@@ -911,7 +978,9 @@ questions:
       C: 20°
       D: 90°
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      √3 cos θ + sin θ = 2 cos(θ − 30°) = 1, so θ − 30° = 60° and θ = 90°.
+      Check: √3 × 0 + 1 = 1.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q072
@@ -938,7 +1007,9 @@ questions:
       C: "3000"
       D: "3840"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Plant 1 total = 200 and Plant 2 total = 192 (thousand), so the averages are 40 and 38.4.
+      Difference = 1.6 thousand = 1600.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q073
@@ -962,7 +1033,9 @@ questions:
       C: "2 : 3"
       D: "6 : 7"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      B2 = 75 + 65 = 140 and B4 = 85 + 95 = 180.
+      140 : 180 = 7 : 9.
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q074
@@ -974,7 +1047,7 @@ questions:
       C: r²
       D: r² sin (t)
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: x² + y² + z² = r²cos²t + r²sin²t(cos²u + sin²u) = r²(cos²t + sin²t) = r².
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q075
@@ -989,7 +1062,7 @@ questions:
       C: "25"
       D: "30"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "Monday 25, Tuesday 30, Wednesday 20: average = 75/3 = 25."
     tags:
       - quant
   - slug: cgl-2024-09-23-s1-q076
@@ -1012,7 +1085,7 @@ questions:
       C: OPQRS
       D: OPSRQ
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: “Attitude is (O) a hypothetical postulate (S) which implies (R) a broad-based behaviour (Q) or tendency in individuals (P).”
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q077
@@ -1027,7 +1100,7 @@ questions:
       C: Object to
       D: Remind
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: “Off and on” means occasionally, from time to time, i.e. now and then.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q078
@@ -1042,7 +1115,7 @@ questions:
       C: owing primarily to a rise
       D: casually due to a growth
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: “Owing primarily to a rise” keeps the meaning (mainly because of an increase) in a formal, natural phrase; the other options change the meaning.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q079
@@ -1057,7 +1130,7 @@ questions:
       C: An apartment has been booked by me in the new residential colony.
       D: An apartment is been booked by me in the new residential colony.
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Present perfect active (have booked) becomes has/have been + past participle; the singular subject “An apartment” takes “has been booked”.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q081
@@ -1072,7 +1145,7 @@ questions:
       C: Blasphemy
       D: Theist
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Blasphemy is the act of speaking disrespectfully about God or sacred things.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q082
@@ -1087,7 +1160,7 @@ questions:
       C: boast
       D: one’s
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: A reflexive pronoun like “ourselves” cannot be the subject; with “one’s” the subject should be “One” (One should not boast of one’s knowledge).
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q083
@@ -1095,9 +1168,12 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Select the option that gives their correct logical sequence.
 
-      A. These are responsible for producing the major fuel used across the globe.  
-      B. The country has 100 major oil and gas fields.  
-      C. The economy of Saudi Arabia is based on petroleum.  
+      A. These are responsible for producing the major fuel used across the globe.
+
+      B. The country has 100 major oil and gas fields.
+
+      C. The economy of Saudi Arabia is based on petroleum.
+
       D. The chief oil field is Ghawar Field having an estimated 70 billion reserve resource.
     options:
       A: CBAD
@@ -1105,7 +1181,7 @@ questions:
       C: BACD
       D: DCAB
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "C introduces Saudi Arabia’s petroleum economy, B gives its oil and gas fields, A says what they produce, and D names the chief field: CBAD."
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q084
@@ -1115,8 +1191,10 @@ questions:
 
       The rowing instructor commanded them to ________ in a ________.
 
-      A.row (verb)  
-      B.roe  
+      A.row (verb)
+
+      B.roe
+
       C.row (sequence)
     options:
       A: A, C
@@ -1124,7 +1202,7 @@ questions:
       C: C, A
       D: B, C
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The instructor told them to row (verb, move the boat) in a row (a line), so A then C.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q085
@@ -1139,7 +1217,7 @@ questions:
       C: a proper junction
       D: an allocation recommendation
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Someone newly transferred to a city needs a place to live, so “a rented accommodation” fits the context; the other options make no sense.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q086
@@ -1154,7 +1232,7 @@ questions:
       C: Two of the world’s
       D: David Beckham.
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The subject “Two of the world’s best forwards” is plural, so the verb should be “have played”, not “has played”.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q087
@@ -1169,7 +1247,7 @@ questions:
       C: Fragile
       D: Fickle
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Brittle means hard but easily broken, i.e. fragile.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q088
@@ -1184,7 +1262,7 @@ questions:
       C: Nurture
       D: Breach
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: To cherish is to care for lovingly and protect, i.e. to nurture.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q089
@@ -1199,7 +1277,7 @@ questions:
       C: Reconcile
       D: Evaluate
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Adequate means enough for the purpose, i.e. sufficient.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q090
@@ -1217,7 +1295,7 @@ questions:
       C: delicious, beleive, assigment, utterly
       D: restraunt, beleive, assigment, embarassed
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The correct spellings are restaurant, believe, assignment and embarrassed.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q091
@@ -1232,7 +1310,7 @@ questions:
       C: In an unemployed mode
       D: In a depressed or weak state
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: “At a low ebb” means in a weak, depressed or poor state, like the tide at its lowest.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q092
@@ -1247,7 +1325,7 @@ questions:
       C: The speech was being delivered by the teenager.
       D: The speech is delivered by the teenager.
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "Simple past active (delivered) becomes was/were + past participle: “The speech was delivered by the teenager.”"
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q093
@@ -1262,7 +1340,7 @@ questions:
       C: gives us much information
       D: gives us many information
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The sentence needs a finite verb agreeing with the singular subject “This book” (gives), and “information” is uncountable, so it takes “much”.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q094
@@ -1277,7 +1355,7 @@ questions:
       C: phlexibility
       D: flaxibilety
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The correct spelling is “flexibility”.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q095
@@ -1292,7 +1370,7 @@ questions:
       C: Abstract
       D: Concrete
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Material means physical or tangible; its opposite is abstract. “Concrete” is close in meaning to material.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q096
@@ -1309,7 +1387,7 @@ questions:
       C: creating
       D: creation
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The blank is parallel with “understanding, and protecting”, so the -ing form “creating” is needed.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q097
@@ -1326,7 +1404,7 @@ questions:
       C: are
       D: is
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The subject is three joined gerund phrases (understanding…, taking…, providing…), which is plural, and the passage is in the present tense, so “are”.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q098
@@ -1343,7 +1421,7 @@ questions:
       C: with
       D: on
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "The idiom is “acquaintance with” something: understanding its acquaintance with literature and art."
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q099
@@ -1360,7 +1438,7 @@ questions:
       C: transmits
       D: transmitting
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: With the plural subject “families” and the present tense of “Usually”, the verb is “transmit”.
     tags:
       - english
   - slug: cgl-2024-09-23-s1-q100
@@ -1377,6 +1455,6 @@ questions:
       C: should restricted
       D: restrict
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The passage argues universities should promote cultural values, so their role “should not be restricted” only to issuing certificates.
     tags:
       - english

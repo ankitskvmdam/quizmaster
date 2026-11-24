@@ -16,7 +16,7 @@ questions:
       C: GWB
       D: HWA
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "First letters go back 4 (X, T, P, L, H, D), second letters forward 4 (G, K, O, S, W, A), third letters back 4 (R, N, J, F, B, X): HWB."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q002
@@ -35,7 +35,7 @@ questions:
       C: (24, 38, 55)
       D: (22, 35, 48)
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Each number is 13 more than the one before: 15, 28, 41 and 19, 32, 45. Likewise 22, 35, 48."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q003
@@ -54,7 +54,7 @@ questions:
       C: Son’s daughter
       D: Father
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: G \$ H means G is the father of H, so G is male. E is the sister of F and F is the sister of G, so G is E's brother.
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q004
@@ -66,7 +66,7 @@ questions:
       C: SCHILDIH
       D: HSIDLIHC
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "The first seven letters are reversed and the last letter stays: PRECIOU+S → UOICERP+S. CHILDIS+H → SIDLIHC+H = SIDLIHCH."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q007
@@ -87,7 +87,7 @@ questions:
       C: "4"
       D: "13"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "Third number = second + first ÷ 2: 8 + 3 = 11, 1 + 1 = 2, so 7 + 3 = 10."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q008
@@ -102,7 +102,7 @@ questions:
       C: "Chisel : Grip"
       D: "Hammer : Iron"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: A shovel is used to scoop; a spanner is used to grip.
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q009
@@ -114,7 +114,7 @@ questions:
       C: TUXC
       D: VWZE
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: ABEJ, TUXC and VWZE step +1, +3, +5. FGJP steps +1, +3, +6.
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q011
@@ -129,7 +129,7 @@ questions:
       C: 3 and 4, ÷ and +
       D: 27 and 9, + and −
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Swapping 27 with 9 and + with −: (31 × 3) + (9 × 4) − (81 ÷ 27) = 93 + 36 − 3 = 126."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q012
@@ -141,7 +141,7 @@ questions:
       C: "36 : 3"
       D: "186 : 7"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Second number = √first ÷ 2: 16 → 2, 100 → 5, 36 → 3. 186 is not a perfect square, so 186 : 7 is odd."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q013
@@ -166,7 +166,7 @@ questions:
       C: 6, 4, 5, 3, 2, 1
       D: 4, 6, 5, 3, 2, 1
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Dictionary order: Absolutely, Absorber, Abstain, Abstract, Abstriction, Absurdly."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q016
@@ -181,7 +181,7 @@ questions:
       C: "9"
       D: "7"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: 24 = 3 × 2³ and 81 = 3 × 3³; 375 = 3 × 5³, so the answer is 5.
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q017
@@ -204,7 +204,7 @@ questions:
       C: el rt
       D: uv cn
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'meet' = cn and 'now' = ah (common codes), so 'them' = el; 'alone' = sm, so 'not' = rt. 'not them' = el rt."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q018
@@ -219,7 +219,7 @@ questions:
       C: 3, 9
       D: 4, 20
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Swapping 4 and 20: 5 × 15 ÷ 3 + 4 − 9 = 25 + 4 − 9 = 20."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q019
@@ -234,7 +234,7 @@ questions:
       C: D C B C A
       D: C B D C A
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "The series repeats DCBA: DCBA DCBA DCBA DCBA, so the blanks are C, D, A, A, C."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q020
@@ -249,7 +249,7 @@ questions:
       C: "122"
       D: "111"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Differences are 6, 9, 14, 21, rising by 3, 5, 7, so the next is 30: 81 + 30 = 111."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q021
@@ -268,7 +268,7 @@ questions:
       C: (29, 54, 358)
       D: (78, 95, 485)
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "Third = 7 × first + second: 7 × 28 + 65 = 261, 7 × 37 + 83 = 342, and 7 × 46 + 92 = 414."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q025
@@ -283,7 +283,7 @@ questions:
       C: GNSTG
       D: ENSTE
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "The word is reversed and its letters shifted +1, +2, +3, …: MANGO → OGNAM → PIQER. APPLE → ELPPA → FNSTF."
     tags:
       - reasoning
   - slug: cgl-2023-07-24-s4-q026
@@ -295,7 +295,7 @@ questions:
       C: Lal Bahadur Shastri
       D: Jawaharlal Nehru
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Jawaharlal Nehru, the first Prime Minister, chaired the Planning Commission when the First Five Year Plan (1951) was made.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q027
@@ -307,7 +307,7 @@ questions:
       C: bank
       D: government
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: In a self-help group, the members themselves decide on savings and loans.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q028
@@ -319,7 +319,7 @@ questions:
       C: 31 March 2026
       D: 31 December 2021
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Samagra Shiksha 2.0 runs for five years, 2021-22 to 2025-26, i.e. from 1 April 2021 to 31 March 2026.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q029
@@ -331,7 +331,7 @@ questions:
       C: Ashwadhyaksha
       D: Patyadhyaksha
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: In the Arthashastra, Ashwadhyaksha was the superintendent of horses (cavalry); Hastyadhyaksha led elephants and Rathadhyaksha chariots.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q030
@@ -343,7 +343,7 @@ questions:
       C: Muslim
       D: Hindu
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The Doongri (Dhungri) festival at Manali honours the goddess Hadimba and is a Hindu festival.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q031
@@ -355,7 +355,7 @@ questions:
       C: West Bengal
       D: Madhya Pradesh
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Arjun Singh Dhurve of Dindori, Madhya Pradesh, got the Padma Shri in 2022 for the Baiga tribal dance.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q032
@@ -367,7 +367,7 @@ questions:
       C: Pectin
       D: Inulin
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Pectin, a soluble fibre from fruit, is a gelling and thickening agent in jams, cooking and baking.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q033
@@ -379,7 +379,7 @@ questions:
       C: Kathakali
       D: Mohiniyattam
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Vazhuvoor is one of the main styles (banis) of Bharatanatyam, along with Pandanallur.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q034
@@ -391,7 +391,7 @@ questions:
       C: Bahadur Shah I
       D: Bahadurshah Jafar
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The Third Battle of Panipat (1761) took place during the reign of Shah Alam II.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q035
@@ -403,7 +403,7 @@ questions:
       C: "1917"
       D: "1920"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Gandhi's Champaran Satyagraha for indigo farmers in Bihar was in 1917.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q036
@@ -415,7 +415,7 @@ questions:
       C: Monsoon with dry summer
       D: Polar type
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: In Koeppen's scheme, E denotes polar climate (in India, the high mountains of Jammu & Kashmir and Ladakh).
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q037
@@ -427,7 +427,7 @@ questions:
       C: "1830"
       D: "1831"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Gauss and Weber built their electromagnetic telegraph in Göttingen in 1833.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q038
@@ -439,7 +439,7 @@ questions:
       C: Muhammad Iqbal
       D: Aatmarang Pandurang
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Dadabhai Naoroji, with Naoroji Furdonji and others, founded the Rahnumai Mazdayasnan Sabha in 1851 to reform the Parsi community.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q039
@@ -451,7 +451,7 @@ questions:
       C: Lucknow
       D: Indore
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Lata Mangeshkar was born in Indore on 28 September 1929.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q040
@@ -463,7 +463,7 @@ questions:
       C: "1971"
       D: "1982"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: India won the Hockey World Cup in 1975 at Kuala Lumpur, beating Pakistan in the final.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q041
@@ -475,7 +475,7 @@ questions:
       C: 1921 - 1951
       D: 1951 - 1981
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "1951-1981 is called the period of population explosion: the death rate fell fast while the birth rate stayed high."
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q042
@@ -487,7 +487,7 @@ questions:
       C: Develop Learn
       D: Help Learn
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: NDEAR is built around the scenarios Learn, Help Learn and Manage Learn; 'Develop Learn' is not one of them.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q043
@@ -499,7 +499,7 @@ questions:
       C: Chloroplasts
       D: Elaioplasts
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Elaioplasts store oils and fats; they are found in the tapetum cells of anthers that nourish developing pollen.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q044
@@ -518,7 +518,7 @@ questions:
       C: A, B and C
       D: A and B only
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "A (old Article 152 wording) and B (7th Amendment, 1956) are correct. C is wrong: the Supreme Court (Hargovind Pant, 1979) held the Governor's office is independent, not under the Centre's control."
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q045
@@ -530,7 +530,7 @@ questions:
       C: Shillong and Kandla
       D: Silchar and Porbandar
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The East-West Corridor of the NHDP links Silchar in Assam with Porbandar in Gujarat.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q046
@@ -542,7 +542,7 @@ questions:
       C: eye
       D: trigger point
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The calm, low-pressure centre of a cyclone is called its eye.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q047
@@ -554,7 +554,7 @@ questions:
       C: US
       D: Soviet Union (USSR)
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Fundamental Duties (Article 51A) were borrowed from the Constitution of the former USSR.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q048
@@ -566,7 +566,7 @@ questions:
       C: West Bengal
       D: Kerala
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The Nehru Trophy Boat Race is held on Punnamada Lake near Alappuzha, Kerala.
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q049
@@ -578,7 +578,7 @@ questions:
       C: "318"
       D: "720"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "Economic Survey 2022-23: Aadhaar is notified under Section 7 of the Aadhaar Act for 318 Central schemes (and over 720 State schemes)."
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q050
@@ -590,7 +590,7 @@ questions:
       C: Nitrile
       D: Carbaldehyde
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: In IUPAC naming, a −CHO group attached to a ring takes the suffix 'carbaldehyde' (e.g. cyclohexanecarbaldehyde).
     tags:
       - general-awareness
   - slug: cgl-2023-07-24-s4-q051
@@ -602,7 +602,7 @@ questions:
       C: "4"
       D: "1"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 6 × 16 = 96 labourer-days; to finish in 8 days needs 12 labourers, so 2 more than the 10 available.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q052
@@ -614,7 +614,7 @@ questions:
       C: 52/7
       D: 57/8
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Work = 60 units; R 3, S 4, T 6 a day. Each two days R+T then R+S do 16 units, so 6 days give 48. Day 7 (R+T) adds 9 = 57; the last 3 units take 3/7 of day 8. Total 7 3/7 = 52/7 days.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q053
@@ -626,7 +626,7 @@ questions:
       C: "62.35"
       D: "65.23"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Area = (√3/4) × 12² = 36 × 1.732 = 62.35 cm².
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q054
@@ -638,7 +638,7 @@ questions:
       C: 50%
       D: 87.5%
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: He sells 800 g (cost ₹16) for ₹30, so profit = 14/16 = 87.5%.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q055
@@ -650,7 +650,7 @@ questions:
       C: "2"
       D: 1/2
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 1 + p = (x + y + z)/(y + z), so each term is (y + z)/(2(x + y + z)) etc.; the three numerators add to 2(x + y + z), giving 1.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q056
@@ -662,7 +662,7 @@ questions:
       C: (76/3)π
       D: π
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Volume of shell = 4/3 π (3³ − 2³) = 4/3 π × 19 = 76π/3.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q057
@@ -674,7 +674,7 @@ questions:
       C: "15"
       D: "16"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: 8(4m + 6w) = 10(3m + 7w) gives m = 11w. Work = 8 × (44 + 6) = 400 woman-days, so 10 women take 40 days.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q058
@@ -701,7 +701,7 @@ questions:
       C: "360"
       D: "72"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Social Science = 72/360 × 1800 = 360 marks.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q059
@@ -713,7 +713,7 @@ questions:
       C: (b² − a²)/(b² + a²)
       D: "0"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "Divide top and bottom by sin θ: (b cot θ − a)/(b cot θ + a) with cot θ = b/a gives (b² − a²)/(b² + a²)."
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q060
@@ -725,7 +725,7 @@ questions:
       C: 30 years
       D: 20 years
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: To triple, interest = 2P = P × 8 × t/100, so t = 25 years.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q061
@@ -740,7 +740,7 @@ questions:
       C: "240"
       D: "250"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 13 − 8 = 5; 56 + 5 = 61; 63 − 61 = 2; 80 ÷ 2 = 40; 220 + 40 = 260.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q062
@@ -752,7 +752,7 @@ questions:
       C: "9"
       D: "16"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Downstream speed 10, upstream 8 km/h; still-water speed = (10 + 8)/2 = 9 km/h.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q063
@@ -767,7 +767,7 @@ questions:
       C: "2"
       D: "4"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Numerator = 1 + (1 − 2sin²θcos²θ) = 2(1 − sin²θcos²θ); denominator cos²θ + sin⁴θ = 1 − sin²θcos²θ. Ratio = 2.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q064
@@ -779,7 +779,7 @@ questions:
       C: "10"
       D: "12"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Solving 80/u + 110/d = 13 and 60/u + 88/d = 10 gives d = 22 and u = 10 km/h, so current = (22 − 10)/2 = 6 km/h.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q065
@@ -791,7 +791,7 @@ questions:
       C: 72%
       D: 76%
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: 0.4 × 75 + 0.5 × 80 + 0.1 × 60 = 30 + 40 + 6 = 76%.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q066
@@ -828,7 +828,7 @@ questions:
       C: 1,10,000
       D: 2,10,000
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Payment is 11% of ₹10 lakh = ₹1,10,000.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q067
@@ -840,7 +840,7 @@ questions:
       C: 12 9/16
       D: 8 9/16
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: y − 1/y = 13/4, so y² + 1/y² = 169/16 + 2 = 201/16 = 12 9/16.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q068
@@ -857,7 +857,7 @@ questions:
       C: "22"
       D: "23"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "LQ × LP = LY × LX: 5 × 15 = 3 × (3 + x), so 3 + x = 25 and XY = 22 cm."
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q069
@@ -869,7 +869,7 @@ questions:
       C: 13%
       D: 10%
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 0.88 × MP = 1.10 × CP gives MP = 1.25 CP, so x = 25%. Difference = 25 − 10 = 15%.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q070
@@ -881,7 +881,7 @@ questions:
       C: √3 cm
       D: 3√3 cm
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The centres are 18 cm apart, so half-chord = √(18² − 9²) = 9√3; chord = 18√3 = 6√27 cm.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q071
@@ -898,7 +898,7 @@ questions:
       C: "160"
       D: "190"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "The triangles are similar: area ABC = 90 × (8/6)² = 160 cm²."
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q072
@@ -910,7 +910,7 @@ questions:
       C: "6277.5"
       D: "6370.5"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 27,500 × 0.65 = 17,875; × 0.85 = 15,193.75; savings = 40% = ₹6,077.5.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q073
@@ -922,7 +922,7 @@ questions:
       C: 3480cm
       D: 2580cm
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Green = 8/21 × 9030 = 3440 cm.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q074
@@ -934,7 +934,7 @@ questions:
       C: "6156"
       D: "6239"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: x² + 1/x² = 81 − 2 = 79; x⁴ + 1/x⁴ = 79² − 2 = 6239.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q075
@@ -946,7 +946,7 @@ questions:
       C: 40/13
       D: 23/13
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 13 − [12 − 16 − 8/(k − 2)] = 17 + 8/(k − 2) = 20, so k − 2 = 8/3 and k = 14/3.
     tags:
       - quant
   - slug: cgl-2023-07-24-s4-q076
@@ -958,7 +958,7 @@ questions:
       C: An warrior was waiting for a right time to attack the lion hiding in the cave.
       D: The warrior was waiting for a right time to attack an lion hiding in the cave.
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "'The right time' and 'the cave' need the definite article; 'an' cannot precede consonant sounds like 'right' or 'lion'."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q077
@@ -973,7 +973,7 @@ questions:
       C: energise
       D: elevate
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Enervate' means to weaken or drain of energy."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q078
@@ -994,7 +994,7 @@ questions:
       C: BDAC
       D: DACB
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: B states the aim; D says he did it through May-bugs; A explains attaching them to a spindle; C describes how well they worked.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q079
@@ -1006,7 +1006,7 @@ questions:
       C: Precious
       D: Visious
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The correct spelling is 'vicious'.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q080
@@ -1021,7 +1021,7 @@ questions:
       C: Rupture
       D: Foster
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: To 'shuttle' is to travel back and forth frequently.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q081
@@ -1036,7 +1036,7 @@ questions:
       C: Praise
       D: Demur
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The opposite of a complaint is praise.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q082
@@ -1051,7 +1051,7 @@ questions:
       C: depend at me
       D: depend on me
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "The verb 'depend' takes the preposition 'on': 'depend on me'."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q083
@@ -1066,7 +1066,7 @@ questions:
       C: Adventurous
       D: Mythical
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Someone willing to take risks and try new things is 'adventurous'.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q084
@@ -1081,7 +1081,7 @@ questions:
       C: Sympathy
       D: Impartiality
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Exuberance' means liveliness and energy, i.e. vibrancy."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q085
@@ -1096,7 +1096,7 @@ questions:
       C: The lottery will be won by Rakesh.
       D: The lottery was won by Rakesh.
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'will win' becomes 'will be won' in the passive."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q086
@@ -1117,7 +1117,7 @@ questions:
       C: ABDC
       D: BADC
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: C introduces Arjuna; D adds his parentage and archery; B gives his hesitation and Krishna's discourse; A names those verses the Bhagavadgita.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q087
@@ -1129,7 +1129,7 @@ questions:
       C: Thunder
       D: Statinary
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The correct spelling is 'stationary' (or 'stationery').
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q088
@@ -1144,7 +1144,7 @@ questions:
       C: His simple request had been denied by authorities.
       D: His simple request was denied by authorities.
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Simple past 'denied' becomes 'was denied' in the passive.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q089
@@ -1159,7 +1159,7 @@ questions:
       C: passed down
       D: passed out
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'Passed down' means handed on from one person to another; 'passed away' means died and 'passed out' means fainted."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q090
@@ -1174,7 +1174,7 @@ questions:
       C: quiet
       D: quite
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'Quiet' (silent) fits; 'quite', 'quit' and 'quilt' do not."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q091
@@ -1189,7 +1189,7 @@ questions:
       C: speaks his mind
       D: listens his ear
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: To 'speak your mind' is to say frankly what you think.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q092
@@ -1204,7 +1204,7 @@ questions:
       C: Blaming another person
       D: Saying something unpleasant
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: To 'pass the buck' is to shift blame or responsibility to someone else.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q093
@@ -1219,7 +1219,7 @@ questions:
       C: reveal
       D: vanishing
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Camouflage hides; its opposite is 'reveal'.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q094
@@ -1234,7 +1234,7 @@ questions:
       C: realisation
       D: pamper
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Retaliation' means hitting back, i.e. revenge."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q095
@@ -1255,7 +1255,7 @@ questions:
       C: DABC
       D: ACDB
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: D introduces herbal medicines; A gives the belief that they heal safely; B defines 'safe healing'; C says this drives the trend.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q096
@@ -1274,7 +1274,7 @@ questions:
       C: grapples
       D: consists
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "'Consists of' is the verb that lists parts: the psyche consists of the ego, super ego and id."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q097
@@ -1293,7 +1293,7 @@ questions:
       C: aware
       D: resistant
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: We are most 'aware' of the conscious mind; 'aware of' also fits the preposition.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q098
@@ -1312,7 +1312,7 @@ questions:
       C: understanding
       D: basis
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "'Works on the basis of' social and cultural influences."
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q099
@@ -1331,7 +1331,7 @@ questions:
       C: legal
       D: sanctioned
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: In Freud's model the id holds 'repressed' thoughts and desires.
     tags:
       - english
   - slug: cgl-2023-07-24-s4-q100
@@ -1350,6 +1350,6 @@ questions:
       C: concurrent
       D: bizarre
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Scenes with no apparent relation to the person are 'bizarre'.
     tags:
       - english
