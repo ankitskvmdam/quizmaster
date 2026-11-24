@@ -35,7 +35,7 @@ export default async function ExamPapersPage({ params }: Props) {
         actions={
           syllabus && (
             <Button asChild variant="secondary">
-              <Link href={`/tests/${exam.slug}/syllabus`}>
+              <Link href={`/courses/syllabus/${exam.slug}`}>
                 <ListTree aria-hidden />
                 Syllabus
               </Link>
