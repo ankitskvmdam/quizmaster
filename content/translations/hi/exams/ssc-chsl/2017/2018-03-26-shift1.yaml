@@ -1,0 +1,952 @@
+slug: 2018-03-26-shift1
+title: एसएससी सीएचएसएल 2017 टियर 1
+date: 2018-03-26
+label: 26 Mar, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/402aa8e6-dfaa-11ed-a1e7-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q33, Q34, Q45, Q46, Q48, Q49."
+questions:
+  - slug: chsl-2018-03-26-s1-q026
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द युग्म को चुनिए।
+
+      कागज़ : लुगदी : : ? : ?
+    options:
+      A: "बोरी : पटसन"
+      B: "सोना : आभूषण"
+      C: "कपड़ा : वस्त्र"
+      D: "गाड़ी : वाहन"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q027
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित संख्या युग्म को चुनिए।
+
+      48 : 41 : : ? : ?
+    options:
+      A: "68 : 63"
+      B: "84 : 75"
+      C: "74 : 67"
+      D: "92 : 87"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q028
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित अक्षर/अक्षरों को चुनिए।
+
+      DLQ : XFK : : RGM : ?
+    options:
+      A: LBH
+      B: MBG
+      C: LAG
+      D: MAH
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q029
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द को चुनिए।
+    options:
+      A: घाटी
+      B: झील
+      C: महासागर
+      D: खाड़ी
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q030
+    difficulty: medium
+    stem: नीचे दिए गए प्रश्न में, चार संख्या युग्म दिए गए हैं। (–) के बायीं ओर दी संख्या (–) के दायीं ओर दी गई संख्या से किसी तर्क/नियम से सम्बंधित है। तीन उसी एक तर्क/नियम के आधार पर समान हैं। दिए गए विकल्पों में से भिन्न को चुनिए।
+    options:
+      A: 16 – 5
+      B: 24 – 6
+      C: 32 – 8
+      D: 88 – 22
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q031
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम अक्षर/अक्षरों को चुनिए।
+    options:
+      A: ORU
+      B: CFI
+      C: HKN
+      D: FJM
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q032
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में आने वाले क्रम के अनुसार लिखें।
+
+      1. Frantic
+
+      2. Fraud
+
+      3. Fountain
+
+      4. Frank
+
+      5. Frail
+    options:
+      A: "54321"
+      B: "52314"
+      C: "35412"
+      D: "24153"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q035
+    difficulty: medium
+    stem: चार लड़कों में से, आशीष की आयु, वरुण की आयु की तिगुना है। अरविंद की आयु, वरुण की आयु की 1/2 है। अमित, वरुण से 8 वर्ष बड़ा है, परंतु आशीष से 8 वर्ष छोटा है। दूसरा सबसे बड़ा कौन है?
+    options:
+      A: अमित
+      B: आशीष
+      C: अरविंद
+      D: वरुण
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q036
+    difficulty: medium
+    stem: |-
+      दिए गए विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता है।
+
+      Travelling
+    options:
+      A: Train
+      B: Rain
+      C: Van
+      D: Track
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q037
+    difficulty: medium
+    stem: एक विशिष्ट कोड भाषा में, “TUBE” को “202125” लिखा जाता है तथा “PINCH” को “1691438” लिखा जाता है। इस कोड भाषा में “MARC” को किस प्रकार लिखा जाएगा?
+    options:
+      A: "131183"
+      B: "141162"
+      C: "131184"
+      D: "121183"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q038
+    difficulty: medium
+    stem: |-
+      किसी निश्चित कोड भाषा में '-' , '+' को प्रदर्शित करता है, '+' , 'x' को प्रदर्शित करता है, 'x', '÷' को प्रदर्शित करता है और '÷', '-' को प्रदर्शित करता है। निम्नलिखित प्रश्न का उत्तर ज्ञात करें।
+
+      8 ÷ 6 - 5 + 70 x 10 = ?
+    options:
+      A: "37"
+      B: "9"
+      C: "17"
+      D: "10"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q039
+    difficulty: medium
+    stem: |-
+      निम्नलिखित समीकरण गलत है। इस समीकरण को सही करने के लिए किन दो चिन्हों को आपस में अदला-बदली करना चाहिए?
+
+      16 ÷ 6 + 35 x 9 - 15 = 31
+    options:
+      A: + और x
+      B: + और ÷
+      C: ÷ और -
+      D: "- और +"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q040
+    difficulty: medium
+    stem: यदि 70＄7 = -10, 50＄5 = -10 और 40＄8 = -5, तो 10＄2 का मान ज्ञात करें।
+    options:
+      A: "50"
+      B: "-10"
+      C: "16"
+      D: "-5"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q041
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन सा पद दी गयी सूची के क्रम के अनुसार है?
+
+      YXYXYZXY, YXYZXYXY, YZXYXYXY, YXYXYXZY, YXYXZYXY, _______________.
+    options:
+      A: ZYXYXYXY
+      B: YXYXYZXY
+      C: YXZYXYXY
+      D: YXYZXYXY
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q042
+    difficulty: medium
+    stem: दो भाई और बहन स्कूल जाने के लिए घर से निकलते हैं। भाई पूर्व दिशा में 0.5 कि.मी. जाता है, फिर दाहिने मुड़ जाता है और आगे 3.5 कि.मी. तक जाता है और अपने स्कूल तक पहुंच जाती है। बहन उत्तर दिशा में 2.5 कि.मी. जाती है, फिर पश्चिम में 1 कि.मी. जाती है, फिर बाएं मुड़ जाती है और आगे 6 कि.मी. जाती है और अपने स्कूल तक पहुंच जाती है। बहन के स्कूल के संबंध में भाई का स्कूल कहां है?
+    options:
+      A: 0.5 कि.मी. पूर्व
+      B: 1.5 कि.मी. पश्चिम
+      C: 0.5 कि.मी. पश्चिम
+      D: 1.5 कि.मी. पूर्व
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q043
+    difficulty: medium
+    stem: |-
+      प्रश्न में दो कथन दिये गये हैं जिसके आगे दो निष्कर्ष I और II निकाले गये हैं। आपको मानना है कि दोनो कथन सत्य है चाहे वह सामान्यत: ज्ञात तथ्यों से भिन्न प्रतीत होते हों।
+
+      आपको निर्णय करना है की दिए गए निष्कर्षों में से कौन-सा/कौन-से निश्चित रुप से कथन द्वारा सही निकाला जा सकता है/सकते हैं, यदि कोई हो।
+
+      कथन I: कुछ पेय रस होते हैं
+
+      कथन II: कोई भी ड्रिंक्स पेय नहीं होते हैं
+
+      निष्कर्ष I: कुछ रस ड्रिंक्स होते हैं
+
+      निष्कर्ष II: कोई भी पेय रस नहीं होते हैं
+    options:
+      A: केवल निष्कर्ष I सही है
+      B: केवल निष्कर्ष II सही है
+      C: दोनों निष्कर्ष I और II सही है
+      D: ना तो निष्कर्ष I सही है ना ही निष्कर्ष II
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q044
+    difficulty: medium
+    stem: |-
+      निम्नलिखित आकृति में, आयत वकीलों को प्रदर्शित करता है, वृत्त एथलीट्स को प्रदर्शित करता है, त्रिभुज बागवानों को प्रदर्शित करता है और वर्ग माताओं को प्रदर्शित करता है। अक्षरों का कौन सा समूह उन वकीलों को प्रदर्शित करता है जो या तो एथलीट्स है या बागवान है?
+
+      *(चित्र: Venn-type figure (stem also printed as an image): a square (upper left), a triangle overlapping its lower part, a wide rectangle overlapping the lower parts of both, and a circle on the right overlapping the rectangle's right end. Regions: A = square only; B = square and triangle; C = square, triangle and rectangle; D = square and rectangle; F = triangle only; E = triangle and rectangle; G = rectangle only; H = rectangle and circle; I = circle only.)*
+    options:
+      A: HCE
+      B: DG
+      C: BFI
+      D: CDH
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q047
+    difficulty: medium
+    stem: नीचे दिए गए प्रश्न में, तीन संख्याओं के चार समूह दिए गए हैं। प्रत्येक समूह में दूसरी तथा तीसरी संख्या पहली संख्या से किसी एक तर्क/नियम से सम्बंधित है। तीन उसी एक तर्क/ नियम के आधार पर समान हैं। दिए गए विकल्पों में से भिन्न को चुनिए।
+    options:
+      A: (17, 84, 35)
+      B: (12, 59, 23)
+      C: (7, 34, 13)
+      D: (11, 54, 21)
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q050
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि दिए गए दो आव्यूहों में है। आव्यूह-I के स्तम्भ और पंक्ति की संख्या 0 से 4 और आव्यूह-II की 5 से 9 है। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदहारण के लिए 'J' को 42, 34 आदि द्वारा दर्शाया जा सकता है तथा 'U' को 55, 96 आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए शब्द 'SEND' के लिए समूह को पहचानना है।
+
+      | आव्यूह - I | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | K | E | A | G | A |
+      | 1 | L | C | G | I | C |
+      | 2 | C | L | E | I | L |
+      | 3 | I | G | B | H | J |
+      | 4 | G | M | J | D | B |
+
+      | आव्यूह - II | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | U | X | P | O | Z |
+      | 6 | S | W | V | P | O |
+      | 7 | P | T | N | W | T |
+      | 8 | Z | Z | W | N | Y |
+      | 9 | T | S | U | R | O |
+
+      *(चित्र: Stem and both 5x5 letter matrices are printed as an image; the matrices are given as tables in the stem.)*
+    options:
+      A: 65,22,77,43
+      B: 43,75,12,69
+      C: 21,65,12,89
+      D: 13,96,30,78
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: chsl-2018-03-26-s1-q051
+    difficulty: medium
+    stem: 1024 के अभाज्य गुणनखंड की संख्या बताइये।
+    options:
+      A: "9"
+      B: "10"
+      C: "11"
+      D: "12"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q052
+    difficulty: medium
+    stem: निम्न में से कौन सी एक अभाज्य संख्या नहीं है।
+    options:
+      A: "251"
+      B: "571"
+      C: "331"
+      D: "341"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q053
+    difficulty: medium
+    stem: x⁴ + y⁴ का मान क्या है, जबकि x³ + y³ = 8 और x + y = 2 का मान है?
+    options:
+      A: "2"
+      B: "8"
+      C: "16"
+      D: "32"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q054
+    difficulty: medium
+    stem: (y − 1/y)² का मान ज्ञात कीजिये, यदि y⁴ + 1/y⁴ = 34 है।
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q055
+    difficulty: medium
+    stem: |-
+      निम्न में से कौन सी शर्त नीचे दी गए त्रिभुज ABC और DEF की समानता के बारे में सही है?
+
+      *(चित्र: Stem printed as an image. Triangle ABC with sides CA = 10 cm, AB = 14 cm, CB = 8 cm. Triangle DEF with sides DE = 7 cm, EF = 4 cm, DF = 5 cm.)*
+    options:
+      A: ∠A = ∠D, ∠B = ∠E, ∠C = ∠F
+      B: ∠A = ∠E, ∠B = ∠D, ∠C = ∠F
+      C: ∠A = ∠F, ∠B = ∠D, ∠C = ∠E
+      D: इनमें से कोई नहीं
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q056
+    difficulty: medium
+    stem: एक वृत्त की त्रिज्या 14 सें.मी. है, एक चाप केंद्र में एक कोण 54 डिग्री का बनाता है। चाप की लंबाई (सें.मी. में) ज्ञात कीजिये|
+    options:
+      A: "12.8"
+      B: "13.2"
+      C: "13.8"
+      D: "14.2"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q057
+    difficulty: medium
+    stem: यदि (P + Q) का 5% = (P – Q) का 20% है, तो P, Q का कितना प्रतिशत है?
+    options:
+      A: "133.33"
+      B: "166.66"
+      C: "150"
+      D: "171.33"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q058
+    difficulty: medium
+    stem: 4, 16, 18 तथा 58 प्रत्येक में कौन सी संख्या जोड़ी जानी चाहिए ताकि परिणामी संख्याएँ, दिए गए क्रम में एक समानुपात हों?
+    options:
+      A: "2"
+      B: "3"
+      C: "4"
+      D: "1"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q059
+    difficulty: medium
+    stem: "सोडा तथा जल के 250 लीटर मिश्रण में सोडे की मात्रा का जल की मात्रा से अनुपात 7 : 18 है। इस अनुपात को 2 : 3 बनाने के लिए कितने लीटर सोडा और मिलाया जाना चाहिए?"
+    options:
+      A: "37.5"
+      B: "42.5"
+      C: "45"
+      D: "50"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q060
+    difficulty: medium
+    stem: तीन संख्याओं का औसत 40 है। पहली संख्या, तीसरी संख्या की 4/3 है। यदि तीसरी संख्या दूसरी संख्या से 20 कम है, तो दूसरी संख्या का मान क्या है?
+    options:
+      A: "60"
+      B: "50"
+      C: "10"
+      D: "20"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q061
+    difficulty: medium
+    stem: एक 4000 रु की राशि चक्रवृद्धि ब्याज की एक निश्चित दर से 1 वर्ष में 6000 रु हो जाती है। 4 वर्ष पश्चात राशि (रु में) क्या होगी?
+    options:
+      A: "16250"
+      B: "12000"
+      C: "20250"
+      D: "19500"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q062
+    difficulty: medium
+    stem: मुकेश दो कमीज़ बेचता है। पहली कमीज़ का क्रय मूल्य, दूसरी कमीज़ के विक्रय मूल्य के बराबर है। पहली कमीज़ को 30% के लाभ पर बेचा गया है तथा दूसरी कमीज़ को 30% की हानि पर बेचा गया है। पहली कमीज़ के विक्रय मूल्य का दूसरी कमीज़ के क्रय मूल्य से क्या अनुपात है?
+    options:
+      A: "91 : 100"
+      B: "100 : 91"
+      C: "31 : 50"
+      D: "50 : 31"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q063
+    difficulty: medium
+    stem: एक वस्तु का अंकित मूल्य, उसके क्रय मूल्य से 60% अधिक है। दूकानदार द्वारा अपनी वस्तु को न किसी लाभ न ही किसी हानि पर बेचने के लिए, कितनी अधिकतम छूट प्रतिशत दी जा सकती है?
+    options:
+      A: "37.5"
+      B: "62.5"
+      C: "50"
+      D: "25"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q064
+    difficulty: medium
+    stem: यदि 169 को एक संख्या के वर्ग में से घटाया जाता है, तो परिणाम 7056 प्राप्त होता है। संख्या क्या है?
+    options:
+      A: "75"
+      B: "78"
+      C: "85"
+      D: "87"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q065
+    difficulty: medium
+    stem: 5 घंटे प्रतिदिन कार्य करते हुए शिवम एक पुस्तक को 24 दिनों में पढ़ सकता है। यदि वही कार्य 8 दिनों में पूरा करना हो, तो उसे प्रतिदिन कितने घंटे कार्य करना चाहिए?
+    options:
+      A: "12"
+      B: "18"
+      C: "15"
+      D: "21"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q066
+    difficulty: medium
+    stem: दो रेलगाड़ियाँ समान गति से विपरीत दिशाओं में चल रही हैं। यदि प्रत्येक रेलगाड़ी की लम्बाई 120 मीटर है तथा वे एक दूसरे को 12 सेकण्ड में पार करती हैं तो, प्रत्येक रेलगाड़ी की गति (कि.मी./घंटा में) क्या है?
+    options:
+      A: "36"
+      B: "45"
+      C: "80"
+      D: "60"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q067
+    difficulty: medium
+    stem: |-
+      यह रेखा ग्राफ उन उम्मीदवारों की संख्या को दर्शाता है जिन्होंने किसी विशिष्ट कॉलेज में दाखिला पाने के लिए आवेदन किया था। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों के उत्तर दें।
+
+      | वर्ष | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|---|
+      | आवेदनपत्र | 6000 | 2500 | 9500 | 7000 | 5000 | 1500 | 5500 |
+
+      किस वर्ष में पिछले वर्ष के मुकाबले आवेदनपत्र अधिक थे?
+
+      *(चित्र: Line graph titled 'Applications / आवेदनपत्र', x-axis 'Year / वर्ष' (2011 to 2017), y-axis 0 to 10000. Plotted values: 2011: 6000, 2012: 2500, 2013: 9500, 2014: 7000, 2015: 5000, 2016: 1500, 2017: 5500. The intro text and graph are printed as an image.)*
+    options:
+      A: "2012"
+      B: "2014"
+      C: "2015"
+      D: "2013"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q068
+    difficulty: medium
+    stem: |-
+      यह रेखा ग्राफ उन उम्मीदवारों की संख्या को दर्शाता है जिन्होंने किसी विशिष्ट कॉलेज में दाखिला पाने के लिए आवेदन किया था। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों के उत्तर दें।
+
+      | वर्ष | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|---|
+      | आवेदनपत्र | 6000 | 2500 | 9500 | 7000 | 5000 | 1500 | 5500 |
+
+      2017 और 2012 के बीच के आवेदनपत्रों में अंतर क्या था?
+
+      *(चित्र: Line graph titled 'Applications / आवेदनपत्र', x-axis 'Year / वर्ष' (2011 to 2017), y-axis 0 to 10000. Plotted values: 2011: 6000, 2012: 2500, 2013: 9500, 2014: 7000, 2015: 5000, 2016: 1500, 2017: 5500. The intro text and graph are printed as an image.)*
+    options:
+      A: "3500"
+      B: "2000"
+      C: "2500"
+      D: "3000"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q069
+    difficulty: medium
+    stem: |-
+      यह रेखा ग्राफ उन उम्मीदवारों की संख्या को दर्शाता है जिन्होंने किसी विशिष्ट कॉलेज में दाखिला पाने के लिए आवेदन किया था। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों के उत्तर दें।
+
+      | वर्ष | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|---|
+      | आवेदनपत्र | 6000 | 2500 | 9500 | 7000 | 5000 | 1500 | 5500 |
+
+      2015 की तुलना में 2014 में किये गये आवेदन  ________ से अधिक थे।
+
+      *(चित्र: Line graph titled 'Applications / आवेदनपत्र', x-axis 'Year / वर्ष' (2011 to 2017), y-axis 0 to 10000. Plotted values: 2011: 6000, 2012: 2500, 2013: 9500, 2014: 7000, 2015: 5000, 2016: 1500, 2017: 5500. The intro text and graph are printed as an image.)*
+    options:
+      A: 50%
+      B: 20%
+      C: 28.5%
+      D: 40%
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q070
+    difficulty: medium
+    stem: |-
+      यह रेखा ग्राफ उन उम्मीदवारों की संख्या को दर्शाता है जिन्होंने किसी विशिष्ट कॉलेज में दाखिला पाने के लिए आवेदन किया था। इस आरेख का अध्ययन करें और निम्नलिखित प्रश्नों के उत्तर दें।
+
+      | वर्ष | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|---|
+      | आवेदनपत्र | 6000 | 2500 | 9500 | 7000 | 5000 | 1500 | 5500 |
+
+      यदि प्रत्येक आवेदक को आवेदन शुल्क के रुप में 500 रुपये जमा करना है, तो अंतिम तीन वर्षों में आवेदन शुल्क के रुप में कॉलेज ने कितनी फ़ीस एकत्रित की थी (लाख रु में)?
+
+      *(चित्र: Line graph titled 'Applications / आवेदनपत्र', x-axis 'Year / वर्ष' (2011 to 2017), y-axis 0 to 10000. Plotted values: 2011: 6000, 2012: 2500, 2013: 9500, 2014: 7000, 2015: 5000, 2016: 1500, 2017: 5500. The intro text and graph are printed as an image.)*
+    options:
+      A: "6"
+      B: "50"
+      C: "60"
+      D: "5"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q071
+    difficulty: medium
+    stem: एक वर्गाकार का क्षेत्रफल 72.25 वर्ग सें.मी. है। इसका परिमाप (सें.मी. में) ज्ञात करें।
+    options:
+      A: "68"
+      B: "44"
+      C: "34"
+      D: "88"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q072
+    difficulty: medium
+    stem: 17.5 सें.मी. त्रिज्या वाले एक वृत्त की परिधि (सें.मी. में) ज्ञात करें।
+    options:
+      A: "140"
+      B: "110"
+      C: "38"
+      D: "76"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q073
+    difficulty: medium
+    stem: एक लम्ब वृत्तीय बेलन के वक्र सतह का क्षेत्रफल और व्यास क्रमशः 352 वर्ग सें.मी. और 14 सें.मी. है। इसकी ऊंचाई (सें.मी. में) ज्ञात करें।
+    options:
+      A: "9"
+      B: "8"
+      C: "10"
+      D: "11"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q074
+    difficulty: medium
+    stem: ΔXYZ में Y पर समकोण है। यदि m∠Z = 60° है, तो (cotX - 1/3) का मान ज्ञात करें।
+    options:
+      A: (3√3-1)/3
+      B: (2√3-√6)/2√2
+      C: -5/3
+      D: (2-√3)/2√3
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q075
+    difficulty: medium
+    stem: ΔPQR में Q पर समकोण है। यदि sinP = 12/13, तो tanR का मान क्या है?
+    options:
+      A: 5/13
+      B: 13/5
+      C: 13/12
+      D: 5/12
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: chsl-2018-03-26-s1-q076
+    difficulty: medium
+    stem: "सीमांत उपभोग प्रवृत्ति रहती है: ____________।"
+    options:
+      A: 0 से अनंत
+      B: 0 से 1
+      C: 1 से अनंत
+      D: 0 से 10
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q077
+    difficulty: medium
+    stem: भारत में, निम्नलिखित में से किसका विनियमन वायदा बाजार आयोग द्वारा किया जाता है?
+    options:
+      A: मुद्रा वायदा कारोबार
+      B: वस्तु वायदा कारोबार
+      C: इक्विटी वायदा कारोबार
+      D: वस्तु वायदा कारोबार और वित्तीय वायदा कारोबार दोनों
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q078
+    difficulty: medium
+    stem: निम्न में से किस शासक वंश के राज्य की राजधानी सुमेलित नहीं है?
+    options:
+      A: प्रतिहार - कन्नौज
+      B: पल्लव - कांची
+      C: चालुक्य - तंजौर
+      D: सेन - लखनौती
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q079
+    difficulty: medium
+    stem: निम्नलिखित में से किस भू-राजस्व व्यवस्था को ‘टोडरमल प्रणाली’ कहा जाता है?
+    options:
+      A: जब्ती प्रणाली
+      B: गल्ला बख्शी प्रणाली
+      C: कनकूत प्रणाली
+      D: नसक प्रणाली
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q080
+    difficulty: medium
+    stem: स्वेज नहर की लम्बाई लगभग कितनी है?
+    options:
+      A: 64.8 किमी.
+      B: 106.5 किमी.
+      C: 178 किमी.
+      D: 193 किमी.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q081
+    difficulty: medium
+    stem: उकाई परियोजना _____________ स्थित है।
+    options:
+      A: मध्य प्रदेश में तापी नदी पर
+      B: गुजरात में तापी नदी पर
+      C: गुजरात में साबरमती नदी पर
+      D: मध्य प्रदेश में नर्मदा नदी पर
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q082
+    difficulty: medium
+    stem: लोकायत दर्शन के प्रतिपादक कौन थे?
+    options:
+      A: कपिल
+      B: बादरायण
+      C: चार्वाक
+      D: रामानुज
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q083
+    difficulty: medium
+    stem: नवम्बर 2017 में आयोजित 5वें वैश्विक साइबर स्पेस सम्मेलन का विषय क्या था?
+    options:
+      A: "साइबर4ऑल: एन इंक्लूसिव, सस्टेनेबल, डेवलपमेंटल, सेफ एंड सिक्योर साइबर स्पेस"
+      B: साइबर फॉर बेटर लाइफ
+      C: साइबर फॉर बेटर फ्यूचर
+      D: साइबर फॉर वर्ल्ड
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q084
+    difficulty: medium
+    stem: निम्नलिखित में से कौन मिस वर्ल्ड नहीं रही हैं?
+    options:
+      A: मानुषी छिल्लर
+      B: युक्ता मुखी
+      C: सुष्मिता सेन
+      D: डायना हेडेन
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q085
+    difficulty: medium
+    stem: श्रीलंका की मुख्य फसल कौन सी है जिसमें देश आत्मनिर्भर है?
+    options:
+      A: चावल
+      B: गन्ना
+      C: रबर
+      D: कोको
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q086
+    difficulty: medium
+    stem: नाभिकीय संयंत्र में कैडमियम छड़ों का उयोग निम्नलिखित में से किस रुप में किया जाता है?
+    options:
+      A: ईंधन
+      B: नियामक
+      C: नियंत्रक
+      D: स्नेहक के लिए
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q087
+    difficulty: medium
+    stem: निम्नलिखित में से किसका उपयोग गनपाउडर में किया जाता है?
+    options:
+      A: पोटेशियम ब्रोमाइड
+      B: पोटेशियम नाइट्रेट
+      C: मोनोपोटेशियम टार्टरेट
+      D: पोटेशियम सल्फेट
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q088
+    difficulty: medium
+    stem: |-
+      भारतीय संविधान के अनुसार सरकार के तीन अंग होते हैं। निम्नलिखित में से कौन सा/से उसका/उसके अंग नहीं है/हैं?
+
+      I. विधायिकी
+
+      II. संचार माध्यम
+
+      III. न्यायपालिका
+    options:
+      A: केवल I
+      B: केवल II
+      C: केवल III
+      D: केवल I तथा III
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q089
+    difficulty: medium
+    stem: किस न्यायालय के फैसले को देश के बाकी सभी न्यायालयों को बाध्यकारी होते हैं?
+    options:
+      A: उच्च न्यायालय
+      B: उच्चतम न्यायालय
+      C: तहसील न्यायालय
+      D: कोई विकल्प सही नहीं है।
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q090
+    difficulty: medium
+    stem: वृषण द्वारा निर्मित शुक्राणु ______ द्वारा मोचित होते हैं जो मूत्राशय से आने वाली नली से जुड़ जाती है।
+    options:
+      A: मूत्र नलिका
+      B: शुक्राशय
+      C: शुक्रवाहिनी
+      D: मूत्र मार्ग
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q091
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा जाइलम का एक घटक नहीं है?
+    options:
+      A: वाहिनिका
+      B: साथी कोशिकाएँ
+      C: वाहिका
+      D: जाइलम पैरेन्काइमा
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q092
+    difficulty: medium
+    stem: नवम्बर 2017 में, क्रेडिट लिंक्ड सब्सिडी योजना (सीएलएसएस) के अंतर्गत मध्यम आय समूह I (एमआईजी-I) के लिए फर्श क्षेत्र में वृद्धि को स्वीकृति दी गई थी। एमआईजी-I के लिए फर्श क्षेत्र में ______ तक वृद्धि की जाएगी।
+    options:
+      A: 150 वर्ग मीटर
+      B: 120 वर्ग मीटर
+      C: 100 वर्ग मीटर
+      D: 110 वर्ग मीटर
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q093
+    difficulty: medium
+    stem: कौन सा देश लगभग 80 मिलियन लोगों की संजातीय डेटा के संग्रहण के लिए एक डीएनए अनुक्रमण मंच का निर्माण कर रहा है?
+    options:
+      A: भारत
+      B: संयुक्त राज्य अमेरिका
+      C: चीन
+      D: इंडोनेशिया
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q094
+    difficulty: medium
+    stem: बैंक ऑफ अमेरिका मेरिल लिंच द्वारा नवम्बर 2017 में जारी की गई एक रिपोर्ट के अनुसार, भारत किस वर्ष तक संभवतः जीडीपी में जापान से आगे निकलकर दुनिया की तीसरी सबसे बड़ी अर्थव्यवस्था बन जाएगा?
+    options:
+      A: "2025"
+      B: "2020"
+      C: "2028"
+      D: "2050"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q095
+    difficulty: medium
+    stem: किसकी सिफारिशों के आधार पर केन्द्रीय अल्पसंख्यक मंत्रालय ने 2018 से हज सब्सिडी खत्म कर दी है?
+    options:
+      A: अफज़ल अमानुल्ला समिति
+      B: उमेश सिन्हा समिति
+      C: मुख्तार अब्बास नकवी समिति
+      D: शाहनाज़ हुसैन समिति
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q096
+    difficulty: medium
+    stem: किसी ध्वनि तरंग की तरंगदैर्ध्य 5 मीटर तथा वेग 360 मीटर/सेकंड है। इसकी आवृत्ति (Hz में) ज्ञात करें।
+    options:
+      A: "1800"
+      B: "36"
+      C: "900"
+      D: "72"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q097
+    difficulty: medium
+    stem: ध्वनि तरंगों में संपीडन वह क्षेत्र होता है जहां घनत्व ______।
+    options:
+      A: तथा दाब उच्च होता है
+      B: तथा दाब निम्न होता है
+      C: उच्च तथा दाब निम्न होता है
+      D: निम्न तथा दाब उच्च होता है
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q098
+    difficulty: medium
+    stem: मृदा में जीवों के सड़े गले अवशेष मिले होते हैं। इन्हें ___ कहा जाता है।
+    options:
+      A: खनिज
+      B: जीवमंडल
+      C: लवणीय मृदा
+      D: ह्यूमस
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q099
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन सा कथन सत्य है?
+
+      A) सेबस्तियन वेल्टल ने फ़ॉर्मूला वन 2017 मेक्सिकन ग्रां प्रि जीती।
+
+      B) 2017 में पेर मेर्तेसॅकर ने प्रीमियर लीग टीम आर्सेनल की कप्तानी की।
+
+      C) टान झोंग्यी ने 2017 वूमेंस वर्ल्ड शतरंज चैम्पियनशिप जीती।
+    options:
+      A: केवल C
+      B: केवल B
+      C: B और C दोनों
+      D: A और C दोनों
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: chsl-2018-03-26-s1-q100
+    difficulty: medium
+    stem: निम्नलिखित में से _____ जावास्क्रिप्ट की एक भाषा है।
+    options:
+      A: text/JavaScript
+      B: text/ecmascript
+      C: text/vbscript
+      D: JavaScript vbscript
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
