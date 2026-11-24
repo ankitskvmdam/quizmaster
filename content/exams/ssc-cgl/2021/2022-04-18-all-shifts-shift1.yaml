@@ -1,0 +1,1395 @@
+slug: 2022-04-18-all-shifts-shift1
+title: SSC CGL 2021 Tier 1
+date: 2022-04-18
+label: 18 Apr, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b6727296-db03-11ed-85de-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q4, Q11, Q20, Q23."
+questions:
+  - slug: cgl-2022-04-18-all-ss-shift1-q001
+    difficulty: medium
+    stem: In a certain code, 6218 means ‘Laptop is a computer’ and 8217 means ‘Computer is a machine’. Which of the following is the code for ‘Machine makes our life easy’?
+    options:
+      A: "75344"
+      B: "75894"
+      C: "58795"
+      D: "76834"
+    answer: A
+    explanation: "The common digits 2, 1, 8 stand for ‘is’, ‘a’, ‘computer’, so ‘machine’ = 7 and ‘laptop’ = 6. The new code must contain 7 and none of 1, 2, 6, 8: only 75344 fits."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q002
+    difficulty: medium
+    stem: |-
+      Six letters, D, d, E, e, F and f, are written on the different faces of a dice. Two positions of this dice are shown. Select the letter that will be on the face opposite to the face having the letter ‘D’.
+
+      *(Figure: Two views of the dice: first shows e on top, F and D on the visible side faces; second shows e on top, d and f on the visible side faces.)*
+    options:
+      A: E
+      B: f
+      C: e
+      D: d
+    answer: B
+    explanation: e is on top in both views, so D, F, d and f are the four side faces. Going round from the views, the order is F, D, d, f, so D is opposite f.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q003
+    difficulty: medium
+    stem: Nine employees, K, L, M, N, O, P, Q, R and S, are sitting in the office in a straight line, all facing the east. O is third to the right of M. K is third to the left of P. Q is between P and S. N is fourth to the right of M. P is to the immediate right of N. R is fourth to the left of O. Which of the following statements is NOT correct?
+    options:
+      A: R and S are sitting at the corners.
+      B: L is sitting third to the left of O.
+      C: Q is sitting fourth to the right of K.
+      D: O is sitting between K and N.
+    answer: B
+    explanation: The row (left to right) is R M L K O N P Q S. L is second, not third, to the left of O, so statement B is wrong.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q005
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+    options:
+      A: TWY
+      B: GJM
+      C: LOQ
+      D: BEG
+    answer: B
+    explanation: TWY, LOQ and BEG go +3 then +2 (T→W→Y). GJM goes +3, +3, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q006
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      HARMONY : BMLGUDK :: RESOLVE : ?
+    options:
+      A: VEOIVHU
+      B: OVEJUHV
+      C: EVOJHVU
+      D: VOEIUVH
+    answer: A
+    explanation: "Reverse the word (YNOMRAH), write the opposite letters of the first three (Y→B, N→M, O→L), move the 4th back 6 (M→G) and the rest forward 3 (R→U, A→D, H→K). RESOLVE → EVLOSER → V E O, then O→I, S→V, E→H, R→U: VEOIVHU."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q007
+    difficulty: medium
+    stem: In a certain code language, if ESTEEM is written as HVWHHP, then how will DOCTOR be written in the same code language?
+    options:
+      A: GRFWRU
+      B: GRGVST
+      C: FQEVQT
+      D: HSGXSV
+    answer: A
+    explanation: Each letter moves +3 (E→H, S→V, T→W, M→P). DOCTOR → GRFWRU.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q008
+    difficulty: medium
+    stem: |-
+      If A denotes ‘addition’, B denotes ‘multiplication’, C denotes ‘subtraction’, and D denotes ‘division’, then what will be the value of the following expression?
+
+      66 A (132 D 12) C (4 A 3) B (15 D 5) A 16 B (−3)
+    options:
+      A: "8"
+      B: "10"
+      C: "6"
+      D: "56"
+    answer: A
+    explanation: 66 + (132 ÷ 12) − (4 + 3) × (15 ÷ 5) + 16 × (−3) = 66 + 11 − 21 − 48 = 8.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q009
+    difficulty: medium
+    stem: |-
+      If '@' means 'addition', '%' means 'multiplication', 'S' means 'division', and '#' means 'subtraction', then find the value of the following expression.
+
+      23 @ 105 S 15 % 6 # 29
+    options:
+      A: "23"
+      B: "28"
+      C: "36"
+      D: "40"
+    answer: C
+    explanation: 23 + 105 ÷ 15 × 6 − 29 = 23 + 42 − 29 = 36.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q010
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      g _ o _ d k _ m _ f _ o _ k k _ g f o _ d _ k m
+    options:
+      A: f o k d o d m o k
+      B: f o k g o d m o k
+      C: f o k g o d f o k
+      D: f o k g o d m o m
+    answer: B
+    explanation: Filling f o k g o d m o k gives the block ‘gfoodkkm’ repeated three times.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q012
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      RSX, NQW, JOV, FMU, ?
+    options:
+      A: BLT
+      B: DKS
+      C: CJS
+      D: BKT
+    answer: D
+    explanation: "First letters go −4 (R, N, J, F, B), second −2 (S, Q, O, M, K) and third −1 (X, W, V, U, T): BKT."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q013
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in a logical and meaningful order.
+
+      1.Core  
+      2.Atmosphere  
+      3.Universe  
+      4.Surface  
+      5.Galaxy
+    options:
+      A: 1, 4, 2, 5, 3
+      B: 4, 3, 5, 2, 1
+      C: 1, 4, 2, 3, 5
+      D: 1, 3, 4, 5, 2
+    answer: A
+    explanation: "From the inside of the Earth outwards: Core, Surface, Atmosphere, Galaxy, Universe = 1, 4, 2, 5, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q014
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number and the sixth number is related to the fifth number.
+
+      21 : 112 :: 36 : ? :: 51 : 272
+    options:
+      A: "192"
+      B: "252"
+      C: "72"
+      D: "198"
+    answer: A
+    explanation: 112 = 21 × 16/3 and 272 = 51 × 16/3, so 36 × 16/3 = 192.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q015
+    difficulty: medium
+    stem: The average salary of the entire teaching staff in a college is ₹2,000 per day. The average salary of the male teachers is ₹2,500 and that of the female teachers is ₹1,200. If the number of male teachers is 16, then find the number of female teachers in the college.
+    options:
+      A: "12"
+      B: "10"
+      C: "18"
+      D: "14"
+    answer: B
+    explanation: "Men are ₹500 above the average: 16 × 500 = 8,000. Each woman is ₹800 below it, so 8,000 ÷ 800 = 10 women."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q016
+    difficulty: medium
+    stem: |-
+      Study the given matrix carefully and select the number from among the given options that can replace the question mark (?) in it.
+
+      12 8 100  
+      18 6 111  
+      15 4 ?
+    options:
+      A: "102"
+      B: "108"
+      C: "62"
+      D: "78"
+    answer: C
+    explanation: "Row rule: first × second + second ÷ 2: 12 × 8 + 4 = 100, 18 × 6 + 3 = 111, so 15 × 4 + 2 = 62."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q017
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:  
+      All bats are birds.  
+      Some rats are bats.
+
+      Conclusions:  
+      I. Some rats are birds.  
+      II. Some birds are bats.  
+      III. All rats are bats.
+    options:
+      A: Only conclusion II follows.
+      B: Only conclusions I and II follow.
+      C: Only conclusions I and III follow.
+      D: Only conclusion I follows.
+    answer: B
+    explanation: Some rats are bats and all bats are birds, so some rats are birds (I); all bats are birds gives some birds are bats (II). III does not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q018
+    difficulty: medium
+    stem: |-
+      Six letters A, B, C, D, E and F are written on different faces of a dice. Two positions of the same dice are shown. Select the letter that will be on the face opposite to the face having the letter ‘C’.
+
+      *(Figure: Two views of the dice: first shows A on top with C and F on the side faces; second shows A on top with E and D on the side faces.)*
+    options:
+      A: F
+      B: D
+      C: B
+      D: E
+    answer: D
+    explanation: A is on top in both views, so C, F, E and D are the side faces. Going round in order C, F, E, D, the face opposite C is E.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q019
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      3, 11, 31, 69, 131, ?
+    options:
+      A: "152"
+      B: "163"
+      C: "198"
+      D: "223"
+    answer: D
+    explanation: "Terms are n³ + (n + 1): 1+2, 8+3, 27+4, 64+5, 125+6, so next is 216 + 7 = 223."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q021
+    difficulty: medium
+    stem: In a certain code language ‘ROUBST’ is coded as 61. How will ‘FORTUNATE’ be coded in that language?
+    options:
+      A: "124"
+      B: "114"
+      C: "141"
+      D: "142"
+    answer: B
+    explanation: "Code = sum of reverse alphabet positions (A=26 … Z=1) minus the number of letters. ROUBST: 67 − 6 = 61. FORTUNATE: 123 − 9 = 114."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q022
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      58, 67, 83, 108, ?
+    options:
+      A: "178"
+      B: "157"
+      C: "139"
+      D: "144"
+    answer: D
+    explanation: Differences are 9, 16, 25 (3², 4², 5²), so next is 108 + 36 = 144.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q024
+    difficulty: medium
+    stem: |-
+      Select the set of classes the relationship among which is best illustrated by the given Venn diagram.
+
+      *(Figure: Venn diagram of three mutually overlapping circles (two on top, one below).)*
+    options:
+      A: Women, Gynaecologists, Doctors
+      B: Males, Females, Daughters
+      C: Entrepreneurs, Women, Philanthropists
+      D: Eatables, Plums, Fruits
+    answer: C
+    explanation: "Some entrepreneurs are women, some are philanthropists, and some women are philanthropists, with all three overlapping: three mutually overlapping circles."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q025
+    difficulty: medium
+    stem: |-
+      ‘A + B’ means ‘A is the daughter of B’.  
+      ‘A # B’ means ‘A is the husband of B’.  
+      ‘A @ B’ means ‘A is the brother of B’.  
+      ‘A & B’ means ‘A is the mother of B’.  
+      ‘A % B’ means ‘A is the son of B’.
+
+      If ‘W @ S % K # G & U & T @ R + C’, then which of the following statements is correct?
+    options:
+      A: G is the maternal grandmother of R.
+      B: G is the father of W.
+      C: C is the father-in-law of K.
+      D: C is the wife of U.
+    answer: A
+    explanation: "K is G’s husband; G is U’s mother; U is the mother of T and R (R is C’s daughter, so C is U’s husband). G is the mother of R’s mother: maternal grandmother."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift1-q026
+    difficulty: medium
+    stem: The ______ festival of Sikkim is also known as Bhoomi Puja or Chandi Puja.
+    options:
+      A: Barahimizong
+      B: Losar
+      C: Indra Jatra
+      D: Sakewa
+    answer: D
+    explanation: Sakewa, the festival of the Kirat Khambu Rai community of Sikkim, is also called Bhoomi Puja or Chandi Puja.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q027
+    difficulty: medium
+    stem: Which of the following is India’s first Paperless Budget?
+    options:
+      A: Union Budget 2018-19
+      B: Union Budget 2020-21
+      C: Union Budget 2019-20
+      D: Union Budget 2021-22
+    answer: D
+    explanation: The Union Budget 2021-22, presented on 1 February 2021, was India’s first paperless budget.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q028
+    difficulty: medium
+    stem: Which of the following is a peninsular river?
+    options:
+      A: Brahmaputra
+      B: Narmada
+      C: Ganga
+      D: Indus
+    answer: B
+    explanation: The Narmada flows on the Peninsular plateau; the Brahmaputra, Ganga and Indus are Himalayan rivers.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q029
+    difficulty: medium
+    stem: The Poona Pact of 1932 was an agreement between Mahatma Gandhi and ______.
+    options:
+      A: BR Ambedkar
+      B: Lord Irwin
+      C: Aurobindo Ghose
+      D: Bal Gangadhar Tilak
+    answer: A
+    explanation: The Poona Pact (1932) between Gandhi and B. R. Ambedkar replaced separate electorates for the depressed classes with reserved seats.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q030
+    difficulty: medium
+    stem: Karishma Yadav was awarded the Vikram Award 2019 for ______ by the Government of Madhya Pradesh.
+    options:
+      A: archery
+      B: hockey
+      C: shooting
+      D: swimming
+    answer: B
+    explanation: Karishma Yadav is a hockey player from Madhya Pradesh, given the state’s Vikram Award 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q031
+    difficulty: medium
+    stem: Who among the following is the author of the book ‘Two Lives’?
+    options:
+      A: Sudha Murty
+      B: Arundhati Roy
+      C: Chetan Bhagat
+      D: Vikram Seth
+    answer: D
+    explanation: ‘Two Lives’ (2005) is a memoir by Vikram Seth.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q032
+    difficulty: medium
+    stem: A bill becomes an Act of the Parliament after being passed by both the houses of Parliament and assented to by the ______.
+    options:
+      A: Prime Minister
+      B: Vice President
+      C: President
+      D: Speaker of the Lok Sabha
+    answer: C
+    explanation: Under Article 111, a bill passed by both Houses becomes an Act when the President assents to it.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q033
+    difficulty: medium
+    stem: Which of the following is the physical quantity for the expression arc/radius?
+    options:
+      A: Surface tension
+      B: Velocity
+      C: Linear momentum
+      D: Plane angle
+    answer: D
+    explanation: Plane angle (in radians) = arc length ÷ radius.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q034
+    difficulty: medium
+    stem: Which of the following statements about the ‘Gotra’ practice in ancient India is true?
+    options:
+      A: Men and women were expected to marry within the same gotra.
+      B: People belonging to the same gotra were regarded as descendants of the person after whom the gotra was named.
+      C: Women retained their father’s gotra after marriage.
+      D: Each gotra was named after a famous king.
+    answer: B
+    explanation: Each gotra was named after a Vedic seer, and its members were regarded as his descendants. People of the same gotra could not marry, and women took their husband’s gotra.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q035
+    difficulty: medium
+    stem: ______ is the measure of relative clarity of a liquid.
+    options:
+      A: Turbidity
+      B: Conductivity
+      C: Composting
+      D: Reduction
+    answer: A
+    explanation: Turbidity measures how cloudy, or how clear, a liquid is.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q036
+    difficulty: medium
+    stem: At a Regional Rural Bank, the share of the Government of India is ______.
+    options:
+      A: 40%
+      B: 60%
+      C: 50%
+      D: 20%
+    answer: C
+    explanation: Regional Rural Banks are owned 50% by the Centre, 35% by the sponsor bank and 15% by the state government.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q037
+    difficulty: medium
+    stem: The Swachh Bharat Mission (SBM) was launched in the year ______ to fulfil the vision of cleaner India as a tribute to Mahatma Gandhi.
+    options:
+      A: "2014"
+      B: "2015"
+      C: "2017"
+      D: "2016"
+    answer: A
+    explanation: The Swachh Bharat Mission was launched on 2 October 2014.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q038
+    difficulty: medium
+    stem: Article ______ of the Constitution of India lays down the process for introducing changes in the Constitution.
+    options:
+      A: "342"
+      B: "351"
+      C: "374"
+      D: "368"
+    answer: D
+    explanation: Article 368 gives Parliament the power and procedure to amend the Constitution.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q039
+    difficulty: medium
+    stem: Which of the following is NOT a water pollutant?
+    options:
+      A: Silt
+      B: Glacier
+      C: Arsenic
+      D: Chromium
+    answer: B
+    explanation: A glacier is a body of ice, not a pollutant; silt, arsenic and chromium pollute water.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q040
+    difficulty: medium
+    stem: As per a list compiled by the United Nations Population Division, ______ is the world's fastest-growing city with a 44% increase in population between 2015 and 2020.
+    options:
+      A: Malappuram
+      B: Surat
+      C: Kozhikode
+      D: Jaipur
+    answer: A
+    explanation: In the UN Population Division list (2015–2020), Malappuram in Kerala grew 44%, the fastest in the world.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q041
+    difficulty: medium
+    stem: What is the power of ‘second’ in the SI unit of acceleration?
+    options:
+      A: "+1"
+      B: −1
+      C: −2
+      D: "0"
+    answer: C
+    explanation: The SI unit of acceleration is m s⁻², so the power of second is −2.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q042
+    difficulty: medium
+    stem: ‘Ponung’ and ‘Tapu’ are popular dance forms from the state of ______ .
+    options:
+      A: Chhattisgarh
+      B: Arunachal Pradesh
+      C: Goa
+      D: Bihar
+    answer: B
+    explanation: Ponung and Tapu are dances of the Adi people of Arunachal Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q043
+    difficulty: medium
+    stem: Before being renamed, Mount Everest was simply known as ______.
+    options:
+      A: Peak IX
+      B: Peak XV
+      C: Peak XII
+      D: Peak VI
+    answer: B
+    explanation: The Great Trigonometrical Survey called Mount Everest ‘Peak XV’ before it was named in 1865.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q044
+    difficulty: medium
+    stem: Ferrum is the Latin name for ______ .
+    options:
+      A: nickel
+      B: copper
+      C: iron
+      D: zinc
+    answer: C
+    explanation: Ferrum is Latin for iron, hence its symbol Fe.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q045
+    difficulty: medium
+    stem: According to the Economic Survey 2020-21, imports are expected to decline by ______ in the second half of FY21.
+    options:
+      A: 8.2%
+      B: 11.3%
+      C: 6.3%
+      D: 5.4%
+    answer: B
+    explanation: The Economic Survey 2020-21 expected imports to fall by 11.3% (and exports by 5.8%) in the second half of FY21.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q046
+    difficulty: medium
+    stem: With reference to the Money Bills in the Parliament, which of the following statements is INCORRECT?
+    options:
+      A: The Lok Sabha can either accept or reject all or any of the recommendations of the Rajya Sabha.
+      B: It can be introduced only in the Lok Sabha.
+      C: It can be rejected or amended by the Rajya Sabha.
+      D: It can only be introduced by a minister and not by a private member.
+    answer: C
+    explanation: The Rajya Sabha cannot reject or amend a Money Bill; it can only recommend changes within 14 days. So C is incorrect.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q047
+    difficulty: medium
+    stem: Who among the following is the author of the epic poem ‘Kamayani’?
+    options:
+      A: Jaishankar Prasad
+      B: Gopala Sarana Sinha
+      C: Mahadevi Varma
+      D: Mahavir Prasad Dwivedi
+    answer: A
+    explanation: ‘Kamayani’ is the Hindi epic poem by Jaishankar Prasad.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q048
+    difficulty: medium
+    stem: Who among the following wrote the novel 'The Great Gatsby'?
+    options:
+      A: Chinua Achebe
+      B: Harper Lee
+      C: F Scott Fitzgerald
+      D: Alice Walker
+    answer: C
+    explanation: ‘The Great Gatsby’ (1925) is by F. Scott Fitzgerald.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q049
+    difficulty: medium
+    stem: King Ajatashatru was a ruler of the ______ dynasty.
+    options:
+      A: Haryanka
+      B: Mauryan
+      C: Shishunaga
+      D: Nanda
+    answer: A
+    explanation: Ajatashatru, son of Bimbisara, ruled Magadha in the Haryanka dynasty.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q050
+    difficulty: medium
+    stem: Los Angeles Clippers and Portland Trail Blazers are ______ teams.
+    options:
+      A: Women’s Tennis
+      B: Men’s Basketball
+      C: Women’s Hockey
+      D: Men’s Volleyball
+    answer: B
+    explanation: "Both are NBA teams: men’s basketball."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift1-q051
+    difficulty: medium
+    stem: "The value of (46 + 3/4 of 32 − 6) / (37 − 3/4 of (34 + 6)) is:"
+    options:
+      A: 64/7
+      B: 54/7
+      C: 44/7
+      D: 34/7
+    answer: A
+    explanation: Numerator 46 + 24 − 6 = 64; denominator 37 − 3/4 × 40 = 7. Value 64/7.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q052
+    difficulty: medium
+    stem: "The greatest number that divides 126, 224 and 608 leaving remainders 2, 7 and 19, respectively, is:"
+    options:
+      A: "27"
+      B: "31"
+      C: "21"
+      D: "37"
+    answer: B
+    explanation: "Subtract the remainders: 124, 217, 589. These are 31 × 4, 31 × 7 and 31 × 19, so the HCF is 31."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q053
+    difficulty: medium
+    stem: |-
+      In the following figure, P and Q are centres of two circles. The circles are intersecting at points A and B. PA produced on both the sides meets the circles at C and D. If ∠CPB = 100°, then find the value of x.
+
+      *(Figure: Two intersecting circles with centres P (smaller, left) and Q (larger, right) meeting at A and B; line PA is produced both ways to meet the circles at C and D; angle x is marked at Q (angle DQB).)*
+    options:
+      A: "115"
+      B: "120"
+      C: "110"
+      D: "100"
+    answer: D
+    explanation: ∠APB = 180° − 100° = 80°, so in isosceles ΔPAB ∠PAB = 50° and ∠DAB = 130°. This inscribed angle stands on the major arc DB, so reflex ∠DQB = 260° and x = 360° − 260° = 100°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q054
+    difficulty: medium
+    stem: A shopkeeper allows a 28% discount on the marked price of an article and still makes a profit of 30%. If he gains ₹39.90 on the sale of one article, then what is the marked price (to the nearest ₹) of the article?
+    options:
+      A: "200"
+      B: "240"
+      C: "173"
+      D: "133"
+    answer: B
+    explanation: Profit 30% = ₹39.90, so CP = ₹133 and SP = ₹172.90. MP = 172.90 ÷ 0.72 ≈ ₹240.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q055
+    difficulty: medium
+    stem: If (x² + 1/x²) = 23, x > 0 What is the value of (x³ + 1/x³) = ?
+    options:
+      A: "140"
+      B: "110"
+      C: "-110"
+      D: "-140"
+    answer: B
+    explanation: x + 1/x = √(23 + 2) = 5, so x³ + 1/x³ = 5³ − 3 × 5 = 110.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q056
+    difficulty: medium
+    stem: |-
+      If A = 60°, what is the value of:
+
+      [8 cos A + 7 sec A − tan²A] / (10 sin(A/2)) ?
+    options:
+      A: "5"
+      B: "3"
+      C: "15"
+      D: "10"
+    answer: B
+    explanation: 8 × 1/2 + 7 × 2 − 3 = 15, and 10 sin 30° = 5, so the value is 15 ÷ 5 = 3.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q057
+    difficulty: medium
+    stem: Two poles of heights 10 m and 17 m are fixed to a level ground. The distance between the bottom of the poles is 24 m. What is the distance (in m) between their tops?
+    options:
+      A: "25"
+      B: "24"
+      C: "30"
+      D: "27"
+    answer: A
+    explanation: "The tops differ by 7 m in height and are 24 m apart: √(7² + 24²) = 25 m."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q058
+    difficulty: medium
+    stem: |-
+      The given bar chart represents the Televisions Sets (TV) manufactured (in thousands) and the respective percentage of those TV Sets sold by five different companies A, B, C, D and E in 2015.
+
+      Study the chart carefully and answer the question that follows.
+
+      | Company | TV Sets Manufactured (in thousands) | % of TV Sets sold |
+      |---|---|---|
+      | A | 64 | 75 |
+      | B | 90 | 64 |
+      | C | 70 | 82 |
+      | D | 85 | 56 |
+      | E | 58 | 77 |
+
+      What is the ratio of the number of TV sets sold by company A to that of company B in 2015?
+
+      *(Figure: Bar chart (values read from the bar labels) shown in the stem as a table.)*
+    options:
+      A: "6 : 5"
+      B: "4 : 5"
+      C: "5 : 4"
+      D: "5 : 6"
+    answer: D
+    explanation: "A sold 75% of 64 = 48 thousand; B sold 64% of 90 = 57.6 thousand. 48 : 57.6 = 5 : 6."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q059
+    difficulty: medium
+    stem: A circle is inscribed in ΔABC, touching AB, BC and AC at the points P, Q and R, respectively. If AB – BC = 4 cm, AB – AC = 2 cm, and the perimeter of ΔABC = 32 cm, then AC (in cm) = ?
+    options:
+      A: 35/3
+      B: 38/3
+      C: 32/3
+      D: 26/3
+    answer: C
+    explanation: "Let AB = c: BC = c − 4 and AC = c − 2, so 3c − 6 = 32 and c = 38/3. AC = 38/3 − 2 = 32/3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q060
+    difficulty: medium
+    stem: If a + b − c = 5 and ab − bc − ac = 10, then find the value of a² + b² + c².
+    options:
+      A: "40"
+      B: "5"
+      C: "45"
+      D: "15"
+    answer: B
+    explanation: (a + b − c)² = a² + b² + c² + 2(ab − bc − ca), so 25 = a² + b² + c² + 20 and a² + b² + c² = 5.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q061
+    difficulty: medium
+    stem: "The sum of three numbers is 98. If the ratio of the first to the second is 2 : 3 and that of the second to the third is 5 : 8, then the third number is:"
+    options:
+      A: "30"
+      B: "20"
+      C: "49"
+      D: "48"
+    answer: D
+    explanation: "The ratio is 10 : 15 : 24 (sum 49), so the third number is 98 × 24/49 = 48."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q062
+    difficulty: medium
+    stem: |-
+      The following bar chart shows the number of students enrolled in two Summer Camps A and B from 2014 to 2019. Study the chart carefully and answer the question that follows.
+
+      | Year | Summer Camp A | Summer Camp B |
+      |---|---|---|
+      | 2014 | 160 | 250 |
+      | 2015 | 80 | 240 |
+      | 2016 | 140 | 180 |
+      | 2017 | 220 | 260 |
+      | 2018 | 150 | 200 |
+      | 2019 | 180 | 280 |
+
+      What is the ratio of the students enrolled in Camp A in 2014, 2016 and 2017 to the students enrolled in Camp B in 2015, 2018 and 2019?
+
+      *(Figure: Bar chart titled ‘Number of Students Enrolled in Summer Camps A and B from 2014 to 2019’; values read from bar labels are given as a table in the stem.)*
+    options:
+      A: "18 : 13"
+      B: "22 : 15"
+      C: "13 : 18"
+      D: "15 : 22"
+    answer: C
+    explanation: "Camp A (2014, 2016, 2017): 160 + 140 + 220 = 520. Camp B (2015, 2018, 2019): 240 + 200 + 280 = 720. 520 : 720 = 13 : 18."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q063
+    difficulty: medium
+    stem: What is the amount (in ₹) of a sum of ₹32,000 at 20% per annum for 9 months, compounded quarterly?
+    options:
+      A: 37,044
+      B: 35,087
+      C: 32,000
+      D: 30,876
+    answer: A
+    explanation: "5% per quarter for 3 quarters: 32,000 × 1.05³ = ₹37,044."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q064
+    difficulty: medium
+    stem: "Exactly midway between the foot of two towers P and Q, the angles of elevation of their tops are 45° and 60°, respectively. The ratio of the heights of P and Q is:"
+    options:
+      A: "1 : √3"
+      B: "3 : 1"
+      C: "1 : 3"
+      D: "√3 : 1"
+    answer: A
+    explanation: "With the same distance d to each foot, P = d tan 45° = d and Q = d tan 60° = d√3, so P : Q = 1 : √3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q065
+    difficulty: medium
+    stem: |-
+      Study the given histogram and answer the question that follows.
+
+      | Daily wages (in ₹) | Number of Workers |
+      |---|---|
+      | 400–450 | 30 |
+      | 450–500 | 45 |
+      | 500–550 | 65 |
+      | 550–600 | 60 |
+      | 600–650 | 55 |
+      | 650–700 | 35 |
+
+      What is the difference between the total number of workers whose daily wages are less than ₹450 and the total number of workers whose daily wages are ₹650 and above?
+
+      *(Figure: Histogram of Number of Workers against Daily wages (in ₹); bar heights read from the labels are given as a table in the stem.)*
+    options:
+      A: "4"
+      B: "8"
+      C: "10"
+      D: "5"
+    answer: D
+    explanation: "Below ₹450: 30 workers; ₹650 and above: 35 workers. The difference is 5."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q066
+    difficulty: medium
+    stem: A shopkeeper bought a table for ₹4,600 and a chair for ₹1,800. He sells the table with 10% gain and the chair with 6% gain. Find the overall gain percentage.
+    options:
+      A: 7 3/4
+      B: 8 7/8
+      C: "8"
+      D: "16"
+    answer: B
+    explanation: Gain = 460 + 108 = ₹568 on ₹6,400, which is 8.875% = 8 7/8%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q067
+    difficulty: medium
+    stem: Find the greatest number 234a5b, which is divisible by 22, but NOT divisible by 5.
+    options:
+      A: "234058"
+      B: "234850"
+      C: "234652"
+      D: "234751"
+    answer: C
+    explanation: "For 11: (2 + 4 + 5) − (3 + a + b) = 0, so a + b = 8. For 2 but not 5, b is even and not 0. The largest choice is a = 6, b = 2: 234652."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q068
+    difficulty: medium
+    stem: The price of an item is reduced by 20%. As a result, customers can get 2 kg more of it for ₹360. Find the original price (in ₹) per kg of the item.
+    options:
+      A: "40"
+      B: "45"
+      C: "48"
+      D: "36"
+    answer: B
+    explanation: The saving, 20% of ₹360 = ₹72, buys 2 kg, so the new price is ₹36/kg and the original is 36 ÷ 0.8 = ₹45/kg.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q069
+    difficulty: medium
+    stem: |-
+      The given pie chart shows the percentage of students in five schools and the table shows the ratio of boys and girls in each school.  
+      Study the pie chart and table and answer the question that follows.
+
+      | School | Percentage of students |
+      |---|---|
+      | A | 28% |
+      | B | 15% |
+      | C | 24% |
+      | D | 18% |
+      | E | 15% |
+
+      The below table shows the ratio of girls and boys in the given five schools.
+
+      | School | Girls : Boys |
+      |---|---|
+      | A | 3 : 4 |
+      | B | 2 : 3 |
+      | C | 5 : 3 |
+      | D | 1 : 2 |
+      | E | 4 : 1 |
+
+      What is the ratio of the number of boys in school C to the number of girls in school E?
+
+      *(Figure: Pie chart of the percentage of students in five schools (A 28%, B 15%, C 24%, D 18%, E 15%) and a table of Girls : Boys ratios, both given as tables in the stem.)*
+    options:
+      A: "4 : 3"
+      B: "1 : 2"
+      C: "3 : 4"
+      D: "2 : 1"
+    answer: C
+    explanation: "Boys in C = 3/8 of 24% = 9%; girls in E = 4/5 of 15% = 12%. 9 : 12 = 3 : 4."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q070
+    difficulty: medium
+    stem: If sec²θ + tan²θ = 3 1/2, 0° < θ < 90°, then (cosθ + sinθ) is equal to
+    options:
+      A: (1 + √5)/3
+      B: (2 + √5)/3
+      C: (1 + √5)/6
+      D: (9 + 2√5)/6
+    answer: B
+    explanation: 1 + 2tan²θ = 7/2, so tan θ = √5/2. Then sin θ = √5/3 and cos θ = 2/3, and the sum is (2 + √5)/3.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q071
+    difficulty: medium
+    stem: Shyam drives his car 30 km at a speed of 45 km/h and, for the next 1 h 20 m, he drives it at a speed of 51 km/h. Find his average speed (in km/h) for the entire journey.
+    options:
+      A: "49"
+      B: "48"
+      C: "48.5"
+      D: "47"
+    answer: A
+    explanation: 30 km takes 2/3 h; then 51 × 4/3 = 68 km. The total of 98 km in 2 h gives 49 km/h.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q072
+    difficulty: medium
+    stem: "In a ΔABC, the bisector of ∠A meets BC at D. If AB = 9.6 cm, AC = 11.2 cm and BD = 4.8 cm, the perimeter (in cm) of ΔABC is:"
+    options:
+      A: "30.4"
+      B: "28.6"
+      C: "31.2"
+      D: "32.8"
+    answer: C
+    explanation: "BD : DC = AB : AC, so DC = 4.8 × 11.2/9.6 = 5.6 and BC = 10.4. Perimeter = 9.6 + 11.2 + 10.4 = 31.2 cm."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q073
+    difficulty: medium
+    stem: |-
+      A hemispherical depression of diameter 4 cm is cut out from each face of a cubical block of sides 10 cm. Find the surface area of the remaining solid (in cm²).  
+      (Use π = 22/7)
+    options:
+      A: 900 4/7
+      B: 112 4/7
+      C: 675 3/7
+      D: 713 1/7
+    answer: C
+    explanation: Each face loses πr² but gains 2πr², a net +4π for r = 2. Total = 600 + 6 × 4π = 600 + 528/7 = 675 3/7 cm².
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q074
+    difficulty: medium
+    stem: A man, a woman and a boy can complete a work in 3, 4 and 12 days, respectively. How many boys must assist one man and one woman to complete the same work in one day?
+    options:
+      A: "5"
+      B: "7"
+      C: "4"
+      D: "9"
+    answer: A
+    explanation: A man and a woman do 1/3 + 1/4 = 7/12 in a day. The remaining 5/12 needs 5 boys at 1/12 each.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q075
+    difficulty: medium
+    stem: "A boat can cover a distance of 56 km downstream in 3.5 hours. The ratio of the boat in still water and the speed of stream is 3 : 1. How much time (in hours) will the boat take to cover a distance of 41.6 km downstream?"
+    options:
+      A: "2.1"
+      B: "1.5"
+      C: "2.6"
+      D: "1.8"
+    answer: C
+    explanation: Downstream speed = 56 ÷ 3.5 = 16 km/h, so 41.6 km takes 41.6 ÷ 16 = 2.6 h.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift1-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      This TV channel has a larger viewership **from another channel.**
+    options:
+      A: from the other channel
+      B: than any other channel
+      C: No substitution required
+      D: from any other channel
+    answer: B
+    explanation: A comparative (‘larger’) takes ‘than’; comparing with the rest of the group needs ‘than any other channel’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q077
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      One who can read and write
+    options:
+      A: Illiterate
+      B: Literate
+      C: Eligible
+      D: Illegible
+    answer: B
+    explanation: A literate person can read and write.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      FINAL
+    options:
+      A: Former
+      B: Allowed
+      C: Forbidden
+      D: Concluding
+    answer: D
+    explanation: Final means last, or concluding.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Who is creating this mess?
+    options:
+      A: By whom is this mess being created?
+      B: Who has created this mess?
+      C: By whom has this mess been created?
+      D: By whom this mess being created?
+    answer: A
+    explanation: "Present continuous in the passive: is + being + past participle. ‘Who’ becomes ‘By whom’: By whom is this mess being created?"
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q080
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      Ajay says, “There is going to be a snowfall.”
+    options:
+      A: Ajay says that there was going to be a snowfall.
+      B: Ajay says that there is going to be a snowfall.
+      C: Ajay said that there is going to be a snowfall.
+      D: Ajay said that there was going to be a snowfall.
+    answer: B
+    explanation: The reporting verb ‘says’ is in the present, so the tense of the reported words does not change.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Exonerate
+    options:
+      A: Exempt
+      B: Absolve
+      C: Engage
+      D: Acquit
+    answer: C
+    explanation: Exonerate means to free from blame or obligation; exempt, absolve and acquit are synonyms, and ‘engage’ (to bind or involve) is the opposite.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      You will find it difficult ______ but later you will get used to wearing a mask.
+    options:
+      A: on first
+      B: at first
+      C: firstly
+      D: at the first
+    answer: B
+    explanation: ‘At first’ is the idiom for ‘in the beginning’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Obscure
+    options:
+      A: Blurred
+      B: Apparent
+      C: Cloudy
+      D: Veiled
+    answer: B
+    explanation: Obscure means unclear or hidden; its opposite is apparent (clear).
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      It has / been raining / since / two hours.
+    options:
+      A: since
+      B: been raining
+      C: It has
+      D: two hours
+    answer: A
+    explanation: A length of time (two hours) takes ‘for’; ‘since’ is used with a point in time.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Squawk
+    options:
+      A: Suggest
+      B: Explore
+      C: Scream
+      D: Connote
+    answer: C
+    explanation: "To squawk is to cry out harshly: scream."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      **In spite of my niece’s** dog Casper is very mischievous, he is lovable.
+    options:
+      A: Nevertheless my niece
+      B: No substitution required
+      C: Although my niece’s
+      D: However my nieces
+    answer: C
+    explanation: ‘In spite of’ needs a noun phrase, not a clause. The clause ‘dog Casper is very mischievous’ needs the conjunction ‘Although’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q087
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. Firstly, it provides air for respiration, serves the sense of smell and conditions the air by filtering, warming and moistening it.  
+      B. The nose is the prominent structure between the eyes that serves as the entrance to the respiratory tract.  
+      C. For inhalation it has two cavities, separated from one another by a wall of cartilage called the septum.  
+      D. Apart from filtering the air, it also cleans itself of foreign debris extracted from inhalations.
+    options:
+      A: BACD
+      B: ACDB
+      C: BADC
+      D: DBCA
+    answer: C
+    explanation: "B introduces the nose, A gives its first function (filtering), D follows with ‘Apart from filtering’, and C describes its structure: BADC."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q088
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Every Saturday, / the workers gets / their weekly wages.
+    options:
+      A: their weekly wages
+      B: the workers gets
+      C: Every Saturday
+      D: No error
+    answer: B
+    explanation: The plural subject ‘workers’ takes ‘get’, not ‘gets’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q089
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: Convert
+      B: Conect
+      C: Concent
+      D: Convect
+    answer: A
+    explanation: Convert is spelt correctly; B and C should be connect and consent. Convect is also a rare dictionary word, but convert is the intended answer.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Cool as a cucumber
+    options:
+      A: Nervous and fidgety
+      B: Irritated and annoyed
+      C: Calm and composed
+      D: Happy and excited
+    answer: C
+    explanation: ‘Cool as a cucumber’ means very calm and composed.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q091
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The judge found the prisoner guilty.
+    options:
+      A: The prisoner had been found guilty by the judge.
+      B: The prisoner was found guilty by the judge.
+      C: The judge was found guilty by the prisoner.
+      D: The prisoner has been found guilty by the judge
+    answer: B
+    explanation: "Simple past active becomes was + past participle: The prisoner was found guilty by the judge."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      A hair in the butter
+    options:
+      A: Easy to handle
+      B: A slippery road
+      C: Sinking in debt
+      D: A challenging situation
+    answer: D
+    explanation: ‘A hair in the butter’ is a delicate, tricky situation.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q093
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Drawings or writing on a wall in a public place
+    options:
+      A: Portrait
+      B: Caricature
+      C: Graffiti
+      D: Collage
+    answer: C
+    explanation: Graffiti is writing or drawing on a wall in a public place.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q094
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      The contrast between / Britain and other countries / of Europe / are striking.
+    options:
+      A: The contrast between
+      B: are striking
+      C: Britain and other countries
+      D: of Europe
+    answer: B
+    explanation: The subject is ‘The contrast’ (singular), so it should be ‘is striking’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      Which movie **have you watched** on television when I called you?
+    options:
+      A: No substitution required
+      B: were you watching
+      C: did you watched
+      D: are you watching
+    answer: B
+    explanation: "An action in progress when another past action (‘I called’) happened takes the past continuous: were you watching."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The camel and the fox were very good friends and very good thieves. One day, the two friends (1) ______ to cross the river so that they could travel to a (2) ______ farm to steal food. The small fox (3) ______ swim, so the camel said to his friend, ‘Climb (4) ______ onto my back and I will swim across the (5) ______.’
+
+      SubQuestion No : 21
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: deciding
+      B: will decide
+      C: decided
+      D: are decide
+    answer: C
+    explanation: "The story is in the past tense: the two friends decided."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The camel and the fox were very good friends and very good thieves. One day, the two friends (1) ______ to cross the river so that they could travel to a (2) ______ farm to steal food. The small fox (3) ______ swim, so the camel said to his friend, ‘Climb (4) ______ onto my back and I will swim across the (5) ______.’
+
+      SubQuestion No : 22
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: nearby
+      B: near
+      C: nearest
+      D: nearly
+    answer: A
+    explanation: "‘Nearby’ is the adjective meaning close at hand: a nearby farm."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The camel and the fox were very good friends and very good thieves. One day, the two friends (1) ______ to cross the river so that they could travel to a (2) ______ farm to steal food. The small fox (3) ______ swim, so the camel said to his friend, ‘Climb (4) ______ onto my back and I will swim across the (5) ______.’
+
+      SubQuestion No : 23
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: ought to
+      B: may not
+      C: might
+      D: could not
+    answer: D
+    explanation: The camel offers to carry the fox, so the fox could not swim.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The camel and the fox were very good friends and very good thieves. One day, the two friends (1) ______ to cross the river so that they could travel to a (2) ______ farm to steal food. The small fox (3) ______ swim, so the camel said to his friend, ‘Climb (4) ______ onto my back and I will swim across the (5) ______.’
+
+      SubQuestion No : 24
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: over
+      B: across
+      C: up
+      D: above
+    answer: C
+    explanation: "‘Climb up onto my back’: up gives the direction of the climb."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The camel and the fox were very good friends and very good thieves. One day, the two friends (1) ______ to cross the river so that they could travel to a (2) ______ farm to steal food. The small fox (3) ______ swim, so the camel said to his friend, ‘Climb (4) ______ onto my back and I will swim across the (5) ______.’
+
+      SubQuestion No : 25
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: sea
+      B: ocean
+      C: lake
+      D: river
+    answer: D
+    explanation: They set out to cross the river, so the camel swims across the river.
+    tags:
+      - english

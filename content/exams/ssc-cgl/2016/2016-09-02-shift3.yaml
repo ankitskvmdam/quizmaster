@@ -151,8 +151,8 @@ questions:
   - slug: cgl-2016-09-02-s3-q013
     difficulty: medium
     stem: |-
-      If A=1,
-      CAT=60,
+      If A=1,  
+      CAT=60,  
       then MAN=?
     options:
       A: "27"
@@ -178,7 +178,7 @@ questions:
   - slug: cgl-2016-09-02-s3-q015
     difficulty: medium
     stem: |-
-      If 84+96=4842,
+      If 84+96=4842,  
       then 36+78= ?
     options:
       A: "3918"
@@ -208,12 +208,12 @@ questions:
 
       Statement:
 
-      I) Quality has a price tag.
+      I) Quality has a price tag.  
       II) India is allocating lots of funds to education.
 
       Conclusions:
 
-      I) Quality of education in India would improve.
+      I) Quality of education in India would improve.  
       II) Funding alone can enhance quality of education.
     options:
       A: Only Conclusion I follows

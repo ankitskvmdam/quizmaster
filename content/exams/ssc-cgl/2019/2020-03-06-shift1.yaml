@@ -190,13 +190,13 @@ questions:
 
       **Statements:**
 
-      1. Some machines are kites.
+      1. Some machines are kites.  
       2. No machine is a pigeon.
 
       **Conclusions:**
 
-      I. Some machines are pigeons.
-      II. All kites are pigeons.
+      I. Some machines are pigeons.  
+      II. All kites are pigeons.  
       III. Some kites are not pigeons.
     options:
       A: Only conclusions I and II follow.
@@ -212,10 +212,10 @@ questions:
     stem: |-
       Arrange the following words in a logical and meaningful order.
 
-      1. Quadrillion
-      2. Quintillion
-      3. Million
-      4. Octillion
+      1. Quadrillion  
+      2. Quintillion  
+      3. Million  
+      4. Octillion  
       5. Trillion
     options:
       A: 4-3-5-1-2
@@ -1191,9 +1191,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
 
-      A. The mountain range was covered with snow.
-      B. Napoleon had to cross the Alps in winter.
-      C. Napoleon replied that the word 'impossible' did not exist for him.
+      A. The mountain range was covered with snow.  
+      B. Napoleon had to cross the Alps in winter.  
+      C. Napoleon replied that the word 'impossible' did not exist for him.  
       D. So, someone told Napoleon that the task was impossible.
     options:
       A: DBCA
@@ -1281,9 +1281,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
 
-      A. Much of this war had taken place along the Western Front.
-      B. Both sides had dug in deep and each lost many men over little ground.
-      C. This front was a line of trenches across which the two sides faced each other.
+      A. Much of this war had taken place along the Western Front.  
+      B. Both sides had dug in deep and each lost many men over little ground.  
+      C. This front was a line of trenches across which the two sides faced each other.  
       D. Andre Maginot had fought a war with the French against the Germans.
     options:
       A: BCDA

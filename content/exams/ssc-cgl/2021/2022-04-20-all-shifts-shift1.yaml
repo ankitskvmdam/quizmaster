@@ -1,0 +1,1339 @@
+slug: 2022-04-20-all-shifts-shift1
+title: SSC CGL 2021 Tier 1
+date: 2022-04-20
+label: 20 Apr, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b8037aba-db03-11ed-91c7-0a5e36bc6706 (aglasem.com)). Left out (picture-only options or incomplete in the source): Q5, Q11, Q12, Q13, Q16, Q24."
+questions:
+  - slug: cgl-2022-04-20-all-ss-shift1-q001
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      147 : 222 :: 158 : ?
+    options:
+      A: "264"
+      B: "225"
+      C: "287"
+      D: "233"
+    answer: D
+    explanation: 147 + 75 = 222, so 158 + 75 = 233.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q002
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: QPJ
+      B: YXS
+      C: SRM
+      D: RQL
+    answer: A
+    explanation: In YXS, SRM and RQL the letters go −1 then −5 (Y→X→S). QPJ goes −1 then −6, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q003
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Pediculate  
+      2. Pandemonium  
+      3. Pancytopenia  
+      4. Panelist  
+      5. Panegyric
+    options:
+      A: 1, 3, 2, 5, 4
+      B: 3, 2, 5, 4, 1
+      C: 3, 2, 4, 5, 1
+      D: 2, 3, 5, 4, 1
+    answer: B
+    explanation: "Pancytopenia, Pandemonium, Panegyric, Panelist (pane-g before pane-l), Pediculate: 3, 2, 5, 4, 1."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q004
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      LAS, NFW, MKD, OPH, LUS, ?
+    options:
+      A: NZH
+      B: MYX
+      C: NZW
+      D: MXW
+    answer: C
+    explanation: Middle letters go A, F, K, P, U, Z (+5). First letters repeat L, N, M, O and third letters repeat S, W, D, H in blocks of four, so the next term is N Z W.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q006
+    difficulty: medium
+    stem: In a certain code language, ‘FILE’ is coded as 8357 and ‘SINK’ is coded as 9364. How will ‘NIKE’ be coded in that language?
+    options:
+      A: "3647"
+      B: "6473"
+      C: "6347"
+      D: "6437"
+    answer: C
+    explanation: "Codes go letter by letter: F=8, I=3, L=5, E=7, S=9, N=6, K=4. So NIKE = 6 3 4 7."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q007
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:  
+      Some telephones are mobiles.  
+      All mobiles are tablets.  
+      Some tablets are laptops.
+
+      Conclusions:  
+      I. Some mobiles are laptops.  
+      II. All telephones are tablets.  
+      III. Some telephones are tablets.
+    options:
+      A: Only conclusion III follows.
+      B: Only conclusions I and II follow.
+      C: Only conclusion II follows.
+      D: All conclusions I, II and III follow.
+    answer: A
+    explanation: Some telephones are mobiles and all mobiles are tablets, so some telephones are tablets (III). Nothing links mobiles to laptops (I), and not all telephones need be tablets (II).
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q008
+    difficulty: medium
+    stem: |-
+      Study the given matrix carefully and select the number from among the given options that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 9 | 7 | 9 |
+      | 5 | 4 | 7 |
+      | 43 | 26 | ? |
+    options:
+      A: "48"
+      B: "61"
+      C: "35"
+      D: "29"
+    answer: B
+    explanation: "In each column, top × middle − 2 = bottom: 9×5−2 = 43, 7×4−2 = 26, so 9×7−2 = 61."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q009
+    difficulty: medium
+    stem: Vinita and Amita are the sisters of Gaurav. Ashish is the father of Vinita. Ansh is the son of Amita. How is Ashish related to Ansh?
+    options:
+      A: Maternal uncle
+      B: Paternal grandfather
+      C: Paternal uncle
+      D: Maternal grandfather
+    answer: D
+    explanation: "Ashish is the father of Vinita, Amita and Gaurav. Ansh is Amita's son, so Ashish is his mother's father: maternal grandfather."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q010
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      38, 53, 70, 89, ?
+    options:
+      A: "92"
+      B: "110"
+      C: "124"
+      D: "98"
+    answer: B
+    explanation: The differences are 15, 17, 19, 21, so the next is 89 + 21 = 110.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q014
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and make the given equation correct.
+
+      22 * 110 * 392 * 49 * 18 * 12
+    options:
+      A: =, ×, +, ÷, −
+      B: +, =, ÷, ×, −
+      C: +, ÷, =, −, ×
+      D: =, −, +, ÷, ×
+    answer: B
+    explanation: 22 + 110 = 392 ÷ 49 × 18 − 12 gives 132 = 8 × 18 − 12 = 132.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q015
+    difficulty: medium
+    stem: Prakash, Qadir, Ramesh, Saurabh and Tariq are friends. Ramesh is taller than Qadir but shorter than Saurabh. Prakash is the shortest, and Tariq is taller than Saurabh. Who is the tallest among them?
+    options:
+      A: Tariq
+      B: Saurabh
+      C: Qadir
+      D: Ramesh
+    answer: A
+    explanation: Qadir < Ramesh < Saurabh < Tariq, and Prakash is the shortest, so Tariq is the tallest.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q017
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      CARNATIC : SBDMZDJU :: FREEDOMS : ?
+    options:
+      A: FSGVWTNP
+      B: FSGVXPNP
+      C: FSGUNPEV
+      D: GSFVWPEP
+    answer: A
+    explanation: "CARN is reordered as R, A, C, N and coded +1, +1, +1, then opposite letter (N→M): SBDM. ATIC is reordered as A, C, I, T and coded opposite (A→Z), then +1, +1, +1: ZDJU. FREEDOMS in the same way gives FSGV + WTNP."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q018
+    difficulty: medium
+    stem: A cube of side 18 cm is painted yellow on all the faces and then cut into smaller cubes of sides 3 cm each. Find the number of smaller cubes that have only two faces painted.
+    options:
+      A: "36"
+      B: "48"
+      C: "20"
+      D: "64"
+    answer: B
+    explanation: "Each edge has 18 ÷ 3 = 6 small cubes. Cubes with exactly two painted faces lie on the 12 edges, excluding the corners: 12 × (6 − 2) = 48."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q019
+    difficulty: medium
+    stem: |-
+      Which two signs need to be interchanged to make the following equation correct?
+
+      189 ÷ 27 − 3 + 29 × 2 = 48
+    options:
+      A: − and ×
+      B: − and +
+      C: + and ×
+      D: ÷ and −
+    answer: A
+    explanation: Swapping − and × gives 189 ÷ 27 × 3 + 29 − 2 = 21 + 29 − 2 = 48.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q020
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      18, 34, 66, 130, ?
+    options:
+      A: "273"
+      B: "178"
+      C: "232"
+      D: "258"
+    answer: D
+    explanation: "Each term is ×2 − 2: 18→34→66→130→258."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q021
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      X _ U _ B _ O _ Z _ X _ U _ B
+    options:
+      A: O X Z U B O Z
+      B: O Z X U B Z O
+      C: O Z X B U O Z
+      D: O Z X U B O Z
+    answer: D
+    explanation: "The block X O U Z B repeats: X O U Z B X O U Z B X O U Z B, so the blanks are O, Z, X, U, B, O, Z."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q022
+    difficulty: medium
+    stem: In a certain code language, ‘Min Fin Dig Jig’ means ‘Radha is an artist’ and ‘Sic Ric Min Dig Fin’ means ‘An artist is always open-minded’. Which of the following is the code for ‘Radha’?
+    options:
+      A: Dig
+      B: Fin
+      C: Min
+      D: Jig
+    answer: D
+    explanation: Min, Fin and Dig appear in both sentences, so they stand for is, an and artist. The remaining code, Jig, means Radha.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q023
+    difficulty: medium
+    stem: The radius of a circle is 90 cm. If the radius of this circle is increased to 99 cm, then what will be the percentage increase in the area of this circle?
+    options:
+      A: 22.5%
+      B: 21%
+      C: 25%
+      D: 20%
+    answer: B
+    explanation: "Area scales with r²: (99/90)² = 1.1² = 1.21, an increase of 21%."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q025
+    difficulty: medium
+    stem: Vijendra walks a certain distance, say X metres, from his home towards the west. Then he turns left and walks 23 metres. After that, he turns left and walks 36 metres. Then he turns left again to walk 23 metres. He finally turns left and walks 18 metres to reach his home. Find the value of X.
+    options:
+      A: "41"
+      B: "18"
+      C: "20"
+      D: "22"
+    answer: B
+    explanation: He goes X m west, 23 m south, 36 m east, 23 m north and 18 m west. The north–south moves cancel, so −X + 36 − 18 = 0 and X = 18.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift1-q026
+    difficulty: medium
+    stem: Which of the following Articles of the Constitution of India deal with the right to equality?
+    options:
+      A: 14 to 18
+      B: 25 to 28
+      C: 19 to 22
+      D: 23 to 24
+    answer: A
+    explanation: Articles 14 to 18 of Part III guarantee the right to equality.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q027
+    difficulty: medium
+    stem: In September 2020, Cabinet Committee on Economic Affairs (CCEA) approved increasing MSP of ______ Rabi crops for the marketing season 2021-22.
+    options:
+      A: two
+      B: eight
+      C: six
+      D: four
+    answer: C
+    explanation: "In September 2020 the CCEA raised MSPs for all six mandated Rabi crops for 2021-22: wheat, barley, gram, lentil, rapeseed-mustard and safflower."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q028
+    difficulty: medium
+    stem: Which of the following events in 2018 holds the Guinness World Record as being the largest annual fundraising event in the world (as of April 2021)?
+    options:
+      A: Patagonian International Marathon
+      B: Schneider Electric Marathon de Paris
+      C: London Marathon
+      D: Baxters Loch Ness Marathon
+    answer: C
+    explanation: Guinness World Records lists the London Marathon as the largest annual one-day fundraising event in the world.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q029
+    difficulty: medium
+    stem: Which of the following Amendment Acts of the Constitution of India abolished the privy purses and privileges of former rulers of princely states?
+    options:
+      A: 25th Amendment Act 1971
+      B: 26th Amendment Act 1971
+      C: 28th Amendment Act 1972
+      D: 27th Amendment Act 1971
+    answer: B
+    explanation: The 26th Amendment Act, 1971 abolished the privy purses and privileges of the former rulers of princely states.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q030
+    difficulty: medium
+    stem: In which of the following years did the Indian army free Goa from the Portuguese?
+    options:
+      A: "1956"
+      B: "1959"
+      C: "1961"
+      D: "1967"
+    answer: C
+    explanation: Operation Vijay freed Goa from Portuguese rule in December 1961.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q031
+    difficulty: medium
+    stem: In order to prevent tooth decay safely and effectively by making use of water, it is subject to which of the following processes?
+    options:
+      A: Iodisation
+      B: Fluoridation
+      C: Carbonisation
+      D: Chlorination
+    answer: B
+    explanation: Fluoridation adds fluoride to drinking water to prevent tooth decay.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q032
+    difficulty: medium
+    stem: The scientific name for the domestic ______ is Canis lupus familiaris.
+    options:
+      A: buffalo
+      B: cat
+      C: dog
+      D: cow
+    answer: C
+    explanation: Canis lupus familiaris is the domestic dog.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q033
+    difficulty: medium
+    stem: A celt is ______ from the Neolithic period.
+    options:
+      A: a tomb
+      B: a house
+      C: a tool
+      D: an urn
+    answer: C
+    explanation: A celt is a polished stone axe or adze head, a typical Neolithic tool.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q034
+    difficulty: medium
+    stem: The Northeast Canyons and Seamounts Marine National Monument is located in the ______.
+    options:
+      A: Arctic Ocean
+      B: Arabian Sea
+      C: Atlantic Ocean
+      D: Red Sea
+    answer: C
+    explanation: The Northeast Canyons and Seamounts Marine National Monument lies in the Atlantic Ocean off New England, USA.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q035
+    difficulty: medium
+    stem: GV Mavalankar was the Chairman of the ______ of the Constituent Assembly of India.
+    options:
+      A: Advisory Committee on Fundamental Rights, Minorities and Tribal and Excluded Areas
+      B: Committee on the Functions
+      C: Order of Business Committee
+      D: Ad hoc Committee on the National Flag
+    answer: B
+    explanation: G. V. Mavalankar chaired the Constituent Assembly's Committee on the Functions of the Constituent Assembly.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q036
+    difficulty: medium
+    stem: Who among the following was nominated for the 30th GD Birla Award for Scientific Research for his/her outstanding contribution to engineering science in April 2021?
+    options:
+      A: Chandrima Saha
+      B: Suman Chakraborty
+      C: Sanjay Mittal
+      D: Rajeev Kumar Varshney
+    answer: B
+    explanation: Prof. Suman Chakraborty of IIT Kharagpur received the 30th G. D. Birla Award for Scientific Research for engineering science.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q037
+    difficulty: medium
+    stem: Who among the following was appointed as the brand ambassador of Eat. fit in March 2021?
+    options:
+      A: Devdutt Padikkal
+      B: Virat Kohli
+      C: Deepika Padukone
+      D: Sonu Sood
+    answer: A
+    explanation: Cricketer Devdutt Padikkal was named brand ambassador of Eat.fit in March 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q038
+    difficulty: medium
+    stem: Which of the following does NOT belong to ‘Kingdom Fungi’?
+    options:
+      A: Aspergillus
+      B: Rhizopus
+      C: Mucor
+      D: Euglena
+    answer: D
+    explanation: Euglena is a unicellular protist (Kingdom Protista); Aspergillus, Rhizopus and Mucor are fungi.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q039
+    difficulty: medium
+    stem: The Swachh Swasth ______ is an initiative to achieve better health outcomes through improved sanitation, increased awareness and healthy lifestyles.
+    options:
+      A: Samagra
+      B: Sansara
+      C: Sarvatra
+      D: Swarga
+    answer: C
+    explanation: Swachh Swasth Sarvatra (2016) links the Swachh Bharat Mission with health programmes for better health outcomes.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q040
+    difficulty: medium
+    stem: As described in ‘Ain-i-Akbari’ by Abul Fazl-i-Allami, ‘gaz’ (unit of measuring length) was divided into equal parts called ______.
+    options:
+      A: tassuj
+      B: liksha
+      C: rajahkan
+      D: angul
+    answer: A
+    explanation: The Ain-i-Akbari says the Ilahi gaz was divided into 24 equal parts called tassuj.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q041
+    difficulty: medium
+    stem: In March 2021, Bhavani Devi became the first Indian ______ to qualify for the Olympics.
+    options:
+      A: fencer
+      B: golfer
+      C: boxer
+      D: swimmer
+    answer: A
+    explanation: C. A. Bhavani Devi became the first Indian fencer to qualify for the Olympics (Tokyo 2020).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q042
+    difficulty: medium
+    stem: Sikandra is the final resting place of Emperor ______.
+    options:
+      A: Jahangir
+      B: Shah Jahan
+      C: Akbar
+      D: Humayun
+    answer: C
+    explanation: Akbar's tomb is at Sikandra, near Agra.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q043
+    difficulty: medium
+    stem: Prashant Bhushan, who was a founding member of the India Against Corruption movement, is a prominent Indian ______.
+    options:
+      A: film director
+      B: sports commentator
+      C: lawyer
+      D: industrialist
+    answer: C
+    explanation: Prashant Bhushan is a Supreme Court lawyer and public-interest litigator.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q044
+    difficulty: medium
+    stem: ______ is a popular folk dance of Minicoy Island.
+    options:
+      A: Leshalaptu
+      B: Aaluyattu
+      C: Lava
+      D: Moyashai
+    answer: C
+    explanation: Lava is the popular folk dance of Minicoy Island in Lakshadweep.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q045
+    difficulty: medium
+    stem: As per an estimate by the ‘Food Waste Index Report 2021’, released by the United Nations Environment Programme (UNEP) in March 2021, India wastes approximately ______ kg food per person per year.
+    options:
+      A: "25"
+      B: "100"
+      C: "50"
+      D: "20"
+    answer: C
+    explanation: The UNEP Food Waste Index Report 2021 estimated Indian household food waste at about 50 kg per person per year.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q046
+    difficulty: medium
+    stem: Koteshwar Hydroelectric Power Project is located on the river ______.
+    options:
+      A: Damodar
+      B: Bhagirathi
+      C: Gomti
+      D: Koshi
+    answer: B
+    explanation: The Koteshwar Hydroelectric Project, downstream of Tehri, is on the Bhagirathi river in Uttarakhand.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q047
+    difficulty: medium
+    stem: Which of the following is the main food crop of the semi-arid areas of central and southern India?
+    options:
+      A: Jowar
+      B: Maize
+      C: Bajra
+      D: Ragi
+    answer: A
+    explanation: Jowar (sorghum) is the main food crop of the semi-arid areas of central and southern India.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q048
+    difficulty: medium
+    stem: The National Rail Plan announced in the Union Budget of 2021-22 aims to create a future ready railway system by which of the following years?
+    options:
+      A: "2024"
+      B: "2030"
+      C: "2025"
+      D: "2029"
+    answer: B
+    explanation: The National Rail Plan aims to create a future-ready railway system by 2030.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q049
+    difficulty: medium
+    stem: The Union Budget 2021–22 has recommended a voluntary scrapping policy for vehicles based on fitness tests after a period of ______ years for personal vehicles.
+    options:
+      A: "10"
+      B: "20"
+      C: "15"
+      D: "25"
+    answer: B
+    explanation: Under the voluntary vehicle scrapping policy, personal vehicles face fitness tests after 20 years (commercial vehicles after 15).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q050
+    difficulty: medium
+    stem: Participation in which of the following activities is NOT recommended for the motor development of a student?
+    options:
+      A: Playing cricket
+      B: Joining a dance class
+      C: Attending Yoga sessions
+      D: Helping the visually challenged
+    answer: D
+    explanation: Motor development needs physical activity such as cricket, dance or yoga. Helping the visually challenged is a social activity, not a motor one.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift1-q051
+    difficulty: medium
+    stem: The tops of two poles of heights 18 m and 30.5 m are connected by a wire. If the wire makes an angle of 30° with the horizontal, what is the length (in m) of the wire?
+    options:
+      A: "20"
+      B: "25"
+      C: "28"
+      D: "36"
+    answer: B
+    explanation: The height difference is 30.5 − 18 = 12.5 m. sin 30° = 12.5 / L, so L = 25 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q052
+    difficulty: medium
+    stem: |-
+      Study the given bar graph and answer the question that follows.
+
+      The bar graph shows the exports of cars of type A and B (in ₹ millions) from 2014 to 2018.
+
+      | Years | A | B |
+      |---|---|---|
+      | 2014 | 200 | 225 |
+      | 2015 | 150 | 250 |
+      | 2016 | 275 | 200 |
+      | 2017 | 175 | 275 |
+      | 2018 | 300 | 325 |
+
+      The total exports of cars of type A from 2014 to 2016 is approximately what percentage less than the total exports of cars of type B from 2015 to 2017 (correct to one decimal place)?
+
+      *(Figure: Bar graph (Exports in ₹ millions vs Years, blue bars A and red bars B, y-axis 0 to 350); bar values are given in the table.)*
+    options:
+      A: 10.4%
+      B: 11.7%
+      C: 11.3%
+      D: 13.8%
+    answer: D
+    explanation: A from 2014 to 2016 = 200 + 150 + 275 = 625. B from 2015 to 2017 = 250 + 200 + 275 = 725. (725 − 625)/725 × 100 ≈ 13.8%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q053
+    difficulty: medium
+    stem: |-
+      Simplify the following expression:  
+      cosec⁴A(1 − cos⁴A) − 2 cot²A − 1
+    options:
+      A: sin²A
+      B: cosec²A
+      C: "1"
+      D: "0"
+    answer: D
+    explanation: cosec⁴A(1 − cos²A)(1 + cos²A) = cosec²A(1 + cos²A) = cosec²A + cot²A. Subtracting 2cot²A + 1 leaves cosec²A − cot²A − 1 = 0.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q054
+    difficulty: medium
+    stem: The average of eleven consecutive positive integers is d. If the last two numbers are excluded, by how much will the average increase or decrease?
+    options:
+      A: Will decrease by 1
+      B: Will increase by 2
+      C: Will decrease by 2
+      D: Will increase by 1
+    answer: A
+    explanation: The numbers are d−5 to d+5. Dropping d+4 and d+5 leaves d−5 to d+3, whose average is d − 1, a decrease of 1.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q055
+    difficulty: medium
+    stem: |-
+      The following pie chart shows the distribution of percentage of a certain corporate office employees in various age-groups.  
+      Total number of employees of the corporate office = 2500  
+      Study the chart carefully and answer the question that follows.
+
+      Pie-Chart presenting the information about the percentage distribution of a certain corporate office employees by their ages.
+
+      | Age group | Percentage |
+      |---|---|
+      | 19 to 28 years | 20% |
+      | 28+ to 38 years | 25% |
+      | 38+ to 48 years | 30% |
+      | 48+ to 58 years | 15% |
+      | 58+ years and above | 10% |
+
+      The number of the corporate office employees of age group of 38+ years and above is how much percentage more than that of 28+ to 38 years?
+
+      *(Figure: Pie chart of employees by age group; slice values are given in the table.)*
+    options:
+      A: 80%
+      B: 150%
+      C: 120%
+      D: 20%
+    answer: C
+    explanation: 38+ years and above = 30 + 15 + 10 = 55%, against 25% for 28+ to 38. (55 − 25)/25 × 100 = 120%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q056
+    difficulty: medium
+    stem: If 6 tanA (tanA + 1) = 5 - tanA, Given that 0 < A < π/2 what is the value of (sinA + cosA)?
+    options:
+      A: 3√5
+      B: 5/√3
+      C: 5√3
+      D: 3/√5
+    answer: D
+    explanation: 6tan²A + 7tanA − 5 = 0 gives tanA = 1/2, so sinA = 1/√5 and cosA = 2/√5. Their sum is 3/√5.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q057
+    difficulty: medium
+    stem: |-
+      The number of cars passing the road near a colony from 6 am to 12 noon has been shown in the following histogram.
+
+      What is the minimum change percentage in the number of cars in comparison to the previous hour? (correct to 2 decimal places)
+
+      | Time of the day | Number of Cars |
+      |---|---|
+      | 6 - 7 | 70 |
+      | 7 - 8 | 105 |
+      | 8 - 9 | 130 |
+      | 9 - 10 | 115 |
+      | 10 - 11 | 95 |
+      | 11 - 12 | 45 |
+
+      *(Figure: Histogram (Number of Cars vs Time of the day, 6 to 12); bar heights are given in the table.)*
+    options:
+      A: 10.52%
+      B: 11.54%
+      C: 23.81%
+      D: 15.25%
+    answer: B
+    explanation: Hour-on-hour changes are +50%, +23.81%, −11.54%, −17.39% and −52.63%. The smallest in size is 15/130 = 11.54%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q058
+    difficulty: medium
+    stem: Points A and B are on a circle with centre O. PA and PB are tangents to the circle from an external point P. If PA and PB are inclined to each other at 42°, then find the measure of ∠OAB.
+    options:
+      A: 42°
+      B: 21°
+      C: 69°
+      D: 25°
+    answer: B
+    explanation: ∠AOB = 180° − 42° = 138°. Since OA = OB, ∠OAB = (180° − 138°)/2 = 21°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q059
+    difficulty: medium
+    stem: A college hostel mess has provisions for 25 days for 350 boys. At the end of 10 days, when some boys were shifted to another hostel, it was found that now the provisions will last for 21 more days. How many boys were shifted to another hostel?
+    options:
+      A: "92"
+      B: "110"
+      C: "98"
+      D: "100"
+    answer: D
+    explanation: After 10 days, 350 × 15 = 5250 boy-days of food remain. 5250 ÷ 21 = 250 boys, so 100 were shifted.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q060
+    difficulty: medium
+    stem: If (0.4x + 1/x) = 5, what is the value of (0.064x³ + 1/x³) ?
+    options:
+      A: "125"
+      B: "110"
+      C: "119"
+      D: "105"
+    answer: C
+    explanation: Let a = 0.4x and b = 1/x, so ab = 0.4. a³ + b³ = (a + b)³ − 3ab(a + b) = 125 − 6 = 119.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q061
+    difficulty: medium
+    stem: Manjeet bought a second-hand motorbike for ₹22,000 and spent ₹3,000 on its overhauling and maintenance. He then sold it with 12% profit. If he had sold it for ₹500 less, then what would have been his profit percentage?
+    options:
+      A: 10.5%
+      B: 10%
+      C: 5%
+      D: 8%
+    answer: B
+    explanation: CP = 22,000 + 3,000 = ₹25,000 and SP = ₹28,000. Selling at ₹27,500 gives a profit of 2,500/25,000 = 10%.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q062
+    difficulty: medium
+    stem: The difference between compound interest compounded annually and simple interest on a certain sum at a rate of 15% per annum for 2 years is ₹1,944. Find the compound interest compounded annually (in ₹) on the same sum for the same period at a rate of 10% per annum.
+    options:
+      A: 27,216
+      B: 18,060
+      C: 18,144
+      D: 20,500
+    answer: C
+    explanation: CI − SI for 2 years = P(r/100)², so 0.0225P = 1944 and P = ₹86,400. CI at 10% for 2 years = 0.21 × 86,400 = ₹18,144.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q063
+    difficulty: medium
+    stem: A shopkeeper allows a 28% discount on the marked price of an article and still makes a profit of 20%. If he gains ₹30.80 on the sale of one article, then what is the selling price (in ₹) of the article?
+    options:
+      A: "184.80"
+      B: "174.80"
+      C: "164.30"
+      D: "154.00"
+    answer: A
+    explanation: A 20% profit equals ₹30.80, so CP = ₹154 and SP = 154 + 30.80 = ₹184.80.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q064
+    difficulty: medium
+    stem: The inner circumference of a circular path enclosed between two concentric circles is 264 m. The uniform width of the circular path is 3 m. What is the area (in m², to the nearest whole number) of the path? (Take π = 22/7)
+    options:
+      A: "696"
+      B: "756"
+      C: "820"
+      D: "948"
+    answer: C
+    explanation: 2πr = 264 gives r = 42 m and R = 45 m. Area = (22/7)(45² − 42²) = (22/7)(261) ≈ 820 m².
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q065
+    difficulty: medium
+    stem: "A triangle with the lengths of its sides proportional to the numbers 7, 24 and 30 is:"
+    options:
+      A: acute angled
+      B: obtuse angled
+      C: not possible
+      D: right angled
+    answer: B
+    explanation: 7 + 24 > 30, so the triangle exists. 7² + 24² = 625 < 30² = 900, so the largest angle is obtuse.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q066
+    difficulty: medium
+    stem: 80% and 90% pure acid solutions are mixed to obtain 20 litres of 87% pure acid solution. Find the quantity (in litres) of 80% pure acid solution taken to form the mixture.
+    options:
+      A: "4"
+      B: "8"
+      C: "6"
+      D: "9"
+    answer: C
+    explanation: "By alligation, 80% : 90% = (90 − 87) : (87 − 80) = 3 : 7, so the 80% solution is 3/10 × 20 = 6 litres."
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q067
+    difficulty: medium
+    stem: In a circle with centre O, PA and PB are tangents to the circle at point A and point B, respectively. C is a point on the major arc AB. If ∠ACB = 50°, then find the measure of ∠APB.
+    options:
+      A: 100°
+      B: 90°
+      C: 80°
+      D: 50°
+    answer: C
+    explanation: ∠AOB = 2 × ∠ACB = 100°. In quadrilateral OAPB, ∠APB = 180° − 100° = 80°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q068
+    difficulty: medium
+    stem: In a right triangle ABC, right angled at B, altitude BD is drawn to the hypotenuse AC of the triangle. If AD = 6 cm, CD = 5 cm, then find the value of AB² + BD² (in cm).
+    options:
+      A: "30"
+      B: "96"
+      C: "36"
+      D: "66"
+    answer: B
+    explanation: BD² = AD·CD = 30 and AB² = AD·AC = 6 × 11 = 66. The sum is 96.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q069
+    difficulty: medium
+    stem: "Numbers A and B are 0% and 50%, respectively, more than the number C. The ratio of A to that of B is:"
+    options:
+      A: "4 : 5"
+      B: "13 : 15"
+      C: "15 : 13"
+      D: "5 : 4"
+    answer: B
+    explanation: "The stem misprints 30% as 0%. With A = 1.3C and B = 1.5C, A : B = 1.3 : 1.5 = 13 : 15."
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q070
+    difficulty: medium
+    stem: |-
+      The given bar chart represents the number of Televisions Sets (TV) manufactured (in thousands) and the respective percentage of those TV Sets sold by five different companies A, B, C, D and E in 2015.
+
+      Study the chart carefully and answer the question that follows.
+
+      | Companies | TV Sets Manufactured (in thousands) | % of TV Sets sold |
+      |---|---|---|
+      | A | 64 | 75 |
+      | B | 90 | 64 |
+      | C | 70 | 82 |
+      | D | 85 | 56 |
+      | E | 58 | 77 |
+
+      The average number of TV sets sold by companies C and D is what percentage of the number of TV sets manufactured by company E? Express your answer correct to one place of decimal.
+
+      *(Figure: Grouped bar chart (blue: TV Sets Manufactured; orange: % of TV Sets sold) for companies A to E; values are given in the table.)*
+    options:
+      A: 86.5%
+      B: 92.2%
+      C: 90.5%
+      D: 89.1%
+    answer: C
+    explanation: "Sold: C = 70 × 0.82 = 57.4 and D = 85 × 0.56 = 47.6 thousand, average 52.5. 52.5/58 × 100 ≈ 90.5%."
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q071
+    difficulty: medium
+    stem: If x² + 1/x² = 18, x > 0, then find the value of x³ + 1/x³.
+    options:
+      A: "52"
+      B: 17√5
+      C: 34√5
+      D: 46√5
+    answer: C
+    explanation: (x + 1/x)² = 18 + 2 = 20, so x + 1/x = 2√5. x³ + 1/x³ = (2√5)³ − 3(2√5) = 40√5 − 6√5 = 34√5.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q072
+    difficulty: medium
+    stem: |-
+      The value of:
+
+      [25 + 8 ÷ 2 - {16 + (14 of 7 ÷ 14) - (18 ÷ 12 of 1/2)}] = ?
+    options:
+      A: "12"
+      B: "6"
+      C: "9"
+      D: "3"
+    answer: C
+    explanation: 14 of 7 = 98 and 98 ÷ 14 = 7. 12 of 1/2 = 6 and 18 ÷ 6 = 3. The bracket is 16 + 7 − 3 = 20, so 25 + 4 − 20 = 9.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q073
+    difficulty: medium
+    stem: Find the value of k in the number 3426k if the number is divisible by 6 but NOT divisible by 5.
+    options:
+      A: "4"
+      B: "6"
+      C: "3"
+      D: "9"
+    answer: B
+    explanation: Divisible by 6 means even with a digit sum (15 + k) divisible by 3, so k = 0 or 6. Not divisible by 5 rules out 0, so k = 6.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q074
+    difficulty: medium
+    stem: "Ram travelled from a place Z to P at an average speed of 130 km/h. He travelled the first 75% of the distance in two-third of the time and the rest at an average speed of X km/h. The value of X/2 is:"
+    options:
+      A: "51"
+      B: "48.75"
+      C: "97.5"
+      D: "19.25"
+    answer: B
+    explanation: The last 25% of the distance takes 1/3 of the time, so X = (0.25/(1/3)) × 130 = 0.75 × 130 = 97.5 km/h. X/2 = 48.75.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q075
+    difficulty: medium
+    stem: What is the least square number which is exactly divisible by 2, 3, 10, 18 and 20?
+    options:
+      A: "900"
+      B: "180"
+      C: "196"
+      D: "30"
+    answer: A
+    explanation: LCM(2, 3, 10, 18, 20) = 180 = 2²·3²·5. Making every power even gives 2²·3²·5² = 900.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift1-q076
+    difficulty: medium
+    stem: |-
+      Identify the segment in the sentence which contains a grammatical error.
+
+      My friends are gone on a trip to Goa today.
+    options:
+      A: My friends
+      B: are gone
+      C: on a trip
+      D: to Goa today
+    answer: B
+    explanation: "The present perfect of go is ‘have gone’: ‘My friends have gone on a trip’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      **As I am hearing** the lecture it reminded me of a book I had read two years ago.
+    options:
+      A: As I have heard
+      B: When I hear
+      C: As I heard
+      D: No substitution required
+    answer: C
+    explanation: "‘It reminded me’ is in the past, so the clause must be past too: ‘As I heard the lecture’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Brittle
+    options:
+      A: Frail
+      B: Fragile
+      C: Durable
+      D: Crumbling
+    answer: C
+    explanation: Brittle means easily broken; durable is its opposite.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Smooth sailing
+    options:
+      A: Easy progress
+      B: Calm weather
+      C: Comfortable place
+      D: Plain dress
+    answer: A
+    explanation: ‘Smooth sailing’ means easy progress without problems.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q080
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Ask him to leave the room.
+    options:
+      A: He should be ask to leave the room.
+      B: He should be asked to leave the room.
+      C: He should be asking to leave the room.
+      D: He should have been asked to leave the room.
+    answer: B
+    explanation: "A command with ‘ask’ becomes ‘should be + past participle’: ‘He should be asked to leave the room.’"
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q081
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into segments. One of them may contain an error. Identify the segment that contains a grammatical error. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Sunil refused to / attend the meeting / of association on Saturday.
+    options:
+      A: No error
+      B: Sunil refused to
+      C: of association on Saturday
+      D: attend the meeting
+    answer: C
+    explanation: "A specific association needs the article: ‘of the association on Saturday’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Saucy
+    options:
+      A: Tasty
+      B: Polite
+      C: Smooth
+      D: Cheeky
+    answer: D
+    explanation: Saucy means impudent or cheeky.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Pliable
+    options:
+      A: Even
+      B: Smooth
+      C: Bending
+      D: Rigid
+    answer: D
+    explanation: Pliable means easily bent; rigid is its opposite.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      This hall is / badly to need / of repair.
+    options:
+      A: badly to need
+      B: No error
+      C: This hall is
+      D: of repair
+    answer: A
+    explanation: The idiom is ‘badly in need of repair’, not ‘badly to need of’.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q085
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Easily hurt emotionally
+    options:
+      A: Senseless
+      B: Sensible
+      C: Incensed
+      D: Sensitive
+    answer: D
+    explanation: A person who is easily hurt emotionally is sensitive.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q086
+    difficulty: medium
+    stem: |-
+      Identify the segment in the sentence which contains the grammatical error.
+
+      Alex picked up the boxes quite easily even they were heavy.
+    options:
+      A: the boxes
+      B: quite easily
+      C: even they were heavy
+      D: Alex picked up
+    answer: C
+    explanation: "A contrast clause needs ‘even though’ (or ‘though’): ‘even though they were heavy’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      This is one of the most remarkable cases **of all others.**
+    options:
+      A: No substitution required
+      B: of all
+      C: of other all
+      D: all of others
+    answer: B
+    explanation: ‘One of the most …’ compares within a group, so ‘of all’ is correct; ‘of all others’ is illogical.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The latest ______ I have bought is a dishwasher.
+    options:
+      A: apparatus
+      B: implement
+      C: gadget
+      D: tool
+    answer: C
+    explanation: A dishwasher is a household gadget, a small modern appliance.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q089
+    difficulty: medium
+    stem: |-
+      Given below are four sentences which are jumbled. Pick the option that gives their correct order.
+
+      A. The sectors included agriculture, public health and public utilities among others.  
+      B. The GGI framework covered 10 sectors and 58 Industries.  
+      C. The Good Governance Index (GGI) 2021scores have been declared.  
+      D. The objective was to provide quantifiable data to compare the performance of different States and Union Territories in these sectors.
+    options:
+      A: CADB
+      B: CBAD
+      C: ABDC
+      D: BACD
+    answer: B
+    explanation: "C introduces the GGI 2021 scores, B describes the framework (10 sectors), A lists the sectors and D gives the objective: CBAD."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q090
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A group of people
+    options:
+      A: Crowd
+      B: Herd
+      C: Flock
+      D: Brood
+    answer: A
+    explanation: A large group of people is a crowd; herd and flock are used for animals, and a brood is a family of young.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Robust
+    options:
+      A: sturdy
+      B: small
+      C: round
+      D: weak
+    answer: A
+    explanation: Robust means strong and sturdy.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q092
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      She is holding free classes for the poor.
+    options:
+      A: Free classes are being held by the poor for her.
+      B: The poor are holding free classes for her.
+      C: Free classes are being held for the poor by her.
+      D: Free classes have been held for the poor by her.
+    answer: C
+    explanation: "Present continuous passive: ‘Free classes are being held for the poor by her.’"
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q093
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Necessary
+      B: Beggining
+      C: Irrelevant
+      D: Location
+    answer: B
+    explanation: The correct spelling is ‘Beginning’.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      On purpose
+    options:
+      A: Intentionally
+      B: Accidently
+      C: Luckily
+      D: Mischievously
+    answer: A
+    explanation: ‘On purpose’ means intentionally.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q095
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      She said to him, “May God shower His choicest blessings on you!
+    options:
+      A: She wished that God may shower His choicest blessings on you.
+      B: She wished that may God shower your choicest blessings on Him.
+      C: She wished that God might shower His choicest blessings on you.
+      D: She wished that God might shower His choicest blessings on him.
+    answer: D
+    explanation: "A wish becomes ‘wished that … might’, and ‘you’ becomes ‘him’ (the listener): ‘God might shower His choicest blessings on him.’"
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      I decided to stay away from television (1) ______ a whole year. After a week, I started feeling (2) ______. But, my friend Bess cheered me up. She (3) ______ me every day and would take me places. It was (4) ______ how much fun we had without TV. My life had become more (5) ______ without the good old idiot box.
+
+      Select the most appropriate option to fill in the blank no. 1.
+    options:
+      A: for
+      B: to
+      C: since
+      D: from
+    answer: A
+    explanation: "Duration takes ‘for’: ‘for a whole year’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      I decided to stay away from television (1) ______ a whole year. After a week, I started feeling (2) ______. But, my friend Bess cheered me up. She (3) ______ me every day and would take me places. It was (4) ______ how much fun we had without TV. My life had become more (5) ______ without the good old idiot box.
+
+      Select the most appropriate option to fill in the blank no. 2
+    options:
+      A: depressed
+      B: devoted
+      C: delighted
+      D: deceived
+    answer: A
+    explanation: "Missing TV made the writer feel low, so Bess had to cheer him up: depressed."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      I decided to stay away from television (1) ______ a whole year. After a week, I started feeling (2) ______. But, my friend Bess cheered me up. She (3) ______ me every day and would take me places. It was (4) ______ how much fun we had without TV. My life had become more (5) ______ without the good old idiot box.
+
+      Select the most appropriate option to fill in the blank no. 3
+    options:
+      A: thanked
+      B: requested
+      C: encouraged
+      D: attended
+    answer: C
+    explanation: Bess cheered the writer up, so she encouraged him every day.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      I decided to stay away from television (1) ______ a whole year. After a week, I started feeling (2) ______. But, my friend Bess cheered me up. She (3) ______ me every day and would take me places. It was (4) ______ how much fun we had without TV. My life had become more (5) ______ without the good old idiot box.
+
+      Select the most appropriate option to fill in the blank no. 4
+    options:
+      A: unbelievable
+      B: unhealthy
+      C: unlucky
+      D: unlimited
+    answer: A
+    explanation: "Having so much fun without TV was surprising: unbelievable."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      I decided to stay away from television (1) ______ a whole year. After a week, I started feeling (2) ______. But, my friend Bess cheered me up. She (3) ______ me every day and would take me places. It was (4) ______ how much fun we had without TV. My life had become more (5) ______ without the good old idiot box.
+
+      Select the most appropriate option to fill in the blank no. 5
+    options:
+      A: certain
+      B: exciting
+      C: boring
+      D: popular
+    answer: B
+    explanation: Life without TV turned out fun, so it became more exciting.
+    tags:
+      - english

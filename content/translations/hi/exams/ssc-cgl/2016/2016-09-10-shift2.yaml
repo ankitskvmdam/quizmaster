@@ -2,7 +2,7 @@ slug: 2016-09-10-shift2
 title: एसएससी सीजीएल 2016 टियर 1
 date: 2016-09-10
 label: 10 Sept, Shift 2
-source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/57ee9ad4-dab7-11ed-83c9-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24."
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/57ee9ad4-dab7-11ed-83c9-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24, Q56."
 questions:
   - slug: cgl-2016-09-10-s2-q001
     difficulty: medium
@@ -90,10 +90,10 @@ questions:
     stem: |-
       निम्नलिखित शब्दों को शब्दकोश में दिए गए क्रम के अनुसार लिखिए ?
 
-      1) PHYSICAL
-      2) PHYSICS
-      3) PHYSIOLOGY
-      4) PHYSICIAN
+      1) PHYSICAL  
+      2) PHYSICS  
+      3) PHYSIOLOGY  
+      4) PHYSICIAN  
       5) PHONE
     options:
       A: 5,1,4,2,3
@@ -173,9 +173,9 @@ questions:
   - slug: cgl-2016-09-10-s2-q015
     difficulty: medium
     stem: |-
-      यदि 2 x 3 x 5 = 523
-      6 x 4 x 1 = 164
-      8 x 2 x 4 = 482 हो,
+      यदि 2 x 3 x 5 = 523  
+      6 x 4 x 1 = 164  
+      8 x 2 x 4 = 482 हो,  
       तब 6 x 8 x 2 = ?
     options:
       A: "826"
@@ -636,18 +636,6 @@ questions:
     explanation: Distance = 330 m/s × 10 s = 3300 m = 3.3 km.
     tags:
       - quant
-  - slug: cgl-2016-09-10-s2-q056
-    difficulty: medium
-    stem: कितनी राशि पर 2 वर्ष की R% पर साधारण ब्याज R होगा ?
-    options:
-      A: 100/2R
-      B: 50/R
-      C: 100/R
-      D: 200/R
-    answer: C
-    explanation: "SSC's answer 100/R follows if the time is R years: P × R × R/100 = R gives P = 100/R. With 2 years as printed, the sum would be 50."
-    tags:
-      - quant
   - slug: cgl-2016-09-10-s2-q057
     difficulty: medium
     stem: यदि P² + 1/P² = 47 हो, तो P + 1/P का मान बताऍ ?
@@ -834,7 +822,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q072
     difficulty: medium
     stem: |-
-      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।  
       ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
 
       पार्किंग किराया यदि Rs. 1 प्रति घण्टा हो तो प्रातः 9 बजे से सायं 7 बजे तक कुल कितनी धनराशि एकत्रित होगी ?
@@ -853,7 +841,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q073
     difficulty: medium
     stem: |-
-      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।  
       ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
 
       सांय 7 बजे से 8 बजे के बीच पार्क की गई साईकिलों की संख्या में सबसे अधिक कमी प्रतिशत क्या है ?
@@ -872,7 +860,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q074
     difficulty: medium
     stem: |-
-      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।  
       ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
 
       ग्राफ को देखकर बताए, पार्क की गई साईकिलों की औसत संख्या क्या है ?
@@ -891,7 +879,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q075
     difficulty: medium
     stem: |-
-      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।  
       ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
 
       ग्राफ में कितनी बार पार्क की गई साईकिलों की संख्या औसत से अधिक है ?

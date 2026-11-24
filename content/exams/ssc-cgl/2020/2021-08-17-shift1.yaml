@@ -1,0 +1,1409 @@
+slug: 2021-08-17-shift1
+title: SSC CGL 2020 Tier 1
+date: 2021-08-17
+label: 17 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04124753/SSC-CGL-QUESTION-PAPER-17-Aug-2021-Shift-1-Eng). Left out (picture-only options or incomplete in the source): Q1, Q8, Q14, Q16, Q20, Q23."
+questions:
+  - slug: cgl-2021-08-17-s1-q002
+    difficulty: medium
+    stem: P is the brother of Q. S is the father of P. R is the brother of S. If T is the mother of R, then how is P related to T?
+    options:
+      A: Uncle
+      B: Father
+      C: Brother
+      D: Grandson
+    answer: D
+    explanation: |-
+      T is the mother of R and of R's brother S, and S is P's father.
+      So T is P's grandmother and P is her grandson.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q003
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.
+    options:
+      A: Agitation
+      B: Contention
+      C: Turmoil
+      D: Tranquillity
+    answer: D
+    explanation: Agitation, contention and turmoil all mean disturbance or conflict; tranquillity means calm.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the options in which the numbers are related in the same way as are the numbers of the following set.
+
+      (541, 14, 737)
+    options:
+      A: (697, 13, 866)
+      B: (635, 18, 924)
+      C: (432, 25, 1108)
+      D: (832, 8, 895)
+    answer: A
+    explanation: |-
+      Third − first = (second)²: 737 − 541 = 196 = 14².
+      Likewise 866 − 697 = 169 = 13².
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q005
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      24, 48, 51, 204, 209, ?
+    options:
+      A: "1047"
+      B: "215"
+      C: "1254"
+      D: "416"
+    answer: C
+    explanation: |-
+      The steps alternate between multiplying and adding: ×2, +3, ×4, +5, ×6.
+      So 209 × 6 = 1254.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q006
+    difficulty: medium
+    stem: |-
+      Find the number of triangles in the given figure.
+
+      *(Figure: A circle with a tall triangle (tower shape) drawn inside it, divided by a vertical centre line, two horizontal lines and crossing diagonals; the triangle's sides extend to the circle.)*
+    options:
+      A: "22"
+      B: "23"
+      C: "24"
+      D: "20"
+    answer: C
+    explanation: Count the triangles systematically in each region of the tower shape and where its lines cross; SSC's count is 24.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q007
+    difficulty: medium
+    stem: In a certain code language, 'MARGIN' is written as 'SBNOJH'. How will 'PRAYER' be written in that language?
+    options:
+      A: BSQQFZ
+      B: BSQSFZ
+      C: QSBSFZ
+      D: BSQZFS
+    answer: B
+    explanation: |-
+      Split MARGIN into MAR and GIN, add 1 to each letter (NBS, HJO), then reverse each half: SBN OJH.
+      PRAYER → QSB, ZFS → BSQ SFZ.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q009
+    difficulty: medium
+    stem: |-
+      Select the option in which the numbers are related in the same way as are the numbers of the following set.
+
+      (15, 315, 7)
+    options:
+      A: (11, 188, 6)
+      B: (17, 401, 12)
+      C: (18, 486, 9)
+      D: (14, 197, 4)
+    answer: C
+    explanation: |-
+      Middle number = first × third × 3: 15 × 7 × 3 = 315.
+      Likewise 18 × 9 × 3 = 486.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q010
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: NSY
+      B: TYE
+      C: PUB
+      D: LQW
+    answer: C
+    explanation: NSY, TYE and LQW step forward by +5 and +6 (counting round the alphabet). PUB steps +5 and +7.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q011
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      Cartridge : Printer :: Motherboard : ?
+    options:
+      A: Monitor
+      B: Machine
+      C: Keyboard
+      D: Central Processing Unit
+    answer: D
+    explanation: A cartridge is a part of a printer; a motherboard is a part of the CPU (system unit).
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q012
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      WUW, TSV, QQU, NOT, ?
+    options:
+      A: KMS
+      B: LNT
+      C: MNS
+      D: JNT
+    answer: A
+    explanation: |-
+      First letters W, T, Q, N, K (−3); second letters U, S, Q, O, M (−2); third letters W, V, U, T, S (−1).
+      So the next cluster is KMS.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q013
+    difficulty: medium
+    stem: |-
+      Select the letter from among the given options that can replace the question mark (?) in the following series.
+
+      P, N, J, H, ?
+    options:
+      A: D
+      B: B
+      C: E
+      D: C
+    answer: A
+    explanation: "The letters move back by 2 and 4 alternately: P(−2)N(−4)J(−2)H(−4)D."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q015
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown, the six faces of which are marked from A to F. Select the letter that will be on the face opposite to the face showing the letter 'C'.
+
+      *(Figure: Dice 1: top F, front E, right C. Dice 2: top D, front B, right F.)*
+    options:
+      A: F
+      B: B
+      C: A
+      D: D
+    answer: B
+    explanation: |-
+      F is common to both dice and touches E, C, D and B, so A is opposite F.
+      Turning dice 2 so that F is on top matches it to dice 1 and places B opposite C.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q017
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      Cricket : Shikhar Dhawan
+    options:
+      A: "Boxing : Mary Kom"
+      B: "Kabaddi : Rani Rampal"
+      C: "Wrestling : Dipa Karmakar"
+      D: "Chess : Saina Nehwal"
+    answer: A
+    explanation: |-
+      Shikhar Dhawan plays cricket and Mary Kom boxes.
+      The other pairs are mismatched: Rani Rampal plays hockey, Dipa Karmakar is a gymnast, Saina Nehwal plays badminton.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q018
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different.
+    options:
+      A: "182 : 12"
+      B: "461 : 20"
+      C: "239 : 14"
+      D: "305 : 16"
+    answer: A
+    explanation: |-
+      First = n² + 3n + 1 for second number n: 20 → 461, 14 → 239, 16 → 305.
+      12 would give 181, not 182.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q019
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the equation.
+
+      1496 * 8 * 13 * 40 * 5 * 0
+    options:
+      A: ÷, ×, =, +, −
+      B: ÷, +, =, −, ×
+      C: ÷, +, −, ×, =
+      D: ÷, −, +, ×, =
+    answer: C
+    explanation: 1496 ÷ 8 + 13 − 40 × 5 = 187 + 13 − 200 = 0.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q021
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Introduce  
+      2. Internship  
+      3. Interaction  
+      4. Interjection  
+      5. Intervene  
+      6. Interruption
+    options:
+      A: 3, 2, 4, 6, 5, 1
+      B: 3, 4, 2, 6, 5, 1
+      C: 3, 4, 2, 6, 1, 5
+      D: 3, 4, 2, 5, 6, 1
+    answer: B
+    explanation: Interaction, Interjection, Internship, Interruption, Intervene, Introduce → 3, 4, 2, 6, 5, 1.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q022
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fourth number in the same way as the first number is related to the second number and the fifth number is related to the sixth number.
+
+      1008 : 8 :: ? : 6 :: 220 : 4
+    options:
+      A: "524"
+      B: "443"
+      C: "518"
+      D: "350"
+    answer: C
+    explanation: |-
+      First = (n + 2)³ + n for second number n: 10³ + 8 = 1008 and 6³ + 4 = 220.
+      For 6: 8³ + 6 = 518.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q024
+    difficulty: medium
+    stem: "Rajesh purchased 6 mangoes, 3 bananas and 10 guavas in ₹136. If the ratio of the cost (per piece) of mangoes, bananas and guavas is 3 : 2 : 1, what will be the total cost of 1 mango, 2 bananas and 3 guavas?"
+    options:
+      A: ₹27
+      B: ₹40
+      C: ₹46
+      D: ₹38
+    answer: B
+    explanation: |-
+      With prices 3x, 2x, x: 18x + 6x + 10x = 34x = 136, so x = 4.
+      1 mango + 2 bananas + 3 guavas = 12 + 16 + 12 = ₹40.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q025
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:  
+      Some cards are postcards.  
+      Some cards are envelopes.  
+      All envelopes are copies.
+
+      Conclusions:  
+      I. Some copies are envelopes.  
+      II. Some postcards are copies.  
+      III. Some cards are copies.
+    options:
+      A: Only conclusions II and III follow
+      B: Only conclusions I and II follow
+      C: Only conclusion I follows
+      D: Only conclusions I and III follow
+    answer: D
+    explanation: |-
+      "All envelopes are copies" gives "some copies are envelopes" (I). Some cards are envelopes, and all envelopes are copies, so some cards are copies (III).
+      II is not certain.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-17-s1-q026
+    difficulty: medium
+    stem: ______ is the ability of a single cell to produce a fertile, adult individual.
+    options:
+      A: Cloning
+      B: Pluripotency
+      C: Totipotency
+      D: Mutation
+    answer: C
+    explanation: Totipotency is the ability of a single cell to divide and develop into a complete fertile organism.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q027
+    difficulty: medium
+    stem: Which of the following is one of the three 'Domestic Systemically Important Banks' in India?
+    options:
+      A: RBL Bank
+      B: Federal Bank
+      C: Axis Bank
+      D: State Bank of India (SBI)
+    answer: D
+    explanation: RBI's D-SIBs at the time were SBI, ICICI Bank and HDFC Bank.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q028
+    difficulty: medium
+    stem: What is represented by the product of force with displacement in the direction of force?
+    options:
+      A: Work
+      B: Momentum
+      C: Impulse
+      D: Power
+    answer: A
+    explanation: Work = force × displacement in the direction of the force (W = F·s).
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q029
+    difficulty: medium
+    stem: In which of the following years was the Indian Association established?
+    options:
+      A: "1903"
+      B: "1881"
+      C: "1876"
+      D: "1856"
+    answer: C
+    explanation: Surendranath Banerjee and Ananda Mohan Bose founded the Indian Association in Calcutta in 1876.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q030
+    difficulty: medium
+    stem: In October 2020, the world's longest highway tunnel was inaugurated in the state of ______.
+    options:
+      A: Himachal Pradesh
+      B: Uttar Pradesh
+      C: Arunachal Pradesh
+      D: Madhya Pradesh
+    answer: A
+    explanation: The Atal Tunnel under the Rohtang Pass in Himachal Pradesh, inaugurated on 3 October 2020, is the world's longest highway tunnel above 10,000 ft.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q031
+    difficulty: medium
+    stem: Which of the following Articles of the Constitution of India adopted Hindi in Devanagari script as the official language of the Union?
+    options:
+      A: Article 343 (1)
+      B: Article 123
+      C: Article 231
+      D: Article 108
+    answer: A
+    explanation: Article 343(1) says the official language of the Union is Hindi in Devanagari script.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q032
+    difficulty: medium
+    stem: Which of the following countries will host the 2022 FIFA World Cup?
+    options:
+      A: Russia
+      B: Qatar
+      C: The US
+      D: Brazil
+    answer: B
+    explanation: Qatar hosted the 2022 FIFA World Cup.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q033
+    difficulty: medium
+    stem: Who among the following persons was announced as the head of the Committee to protect language, culture and land in Ladakh by the Central Government in January 2021?
+    options:
+      A: Arjun Munda
+      B: Piyush Goyal
+      C: G Kishan Reddy
+      D: Raj Kumar Singh
+    answer: C
+    explanation: In January 2021 the Centre set up a high-powered committee headed by MoS Home G. Kishan Reddy to protect Ladakh's language, culture and land.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q034
+    difficulty: medium
+    stem: Who among the following wrote the basic text of Vaisheshika philosophy?
+    options:
+      A: Jaimini
+      B: Kanada
+      C: Patanjali
+      D: Shankaracharya
+    answer: B
+    explanation: Kanada wrote the Vaisheshika Sutra, the basic text of the Vaisheshika school.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q035
+    difficulty: medium
+    stem: Whose administration became a model that was followed by Akbar when he consolidated the Mughal Empire?
+    options:
+      A: Ghiyas ud din Balban
+      B: Bahlul Lodi
+      C: Iltutmish
+      D: Sher Shah Suri
+    answer: D
+    explanation: Akbar used Sher Shah Suri's administration (revenue, currency, roads, provinces) as the model when he consolidated the Mughal Empire.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q036
+    difficulty: medium
+    stem: Which two great footballers, who were members of the gold medal winning team of 1962 Asian Games, passed away in 2020?
+    options:
+      A: Ram Bahadur and Jarnail Singh
+      B: Yousuf Khan and TA Rahaman
+      C: Krishanu Dey and C Prasad
+      D: Chuni Goswami and PK Banerjee
+    answer: D
+    explanation: Chuni Goswami and P. K. Banerjee, both of the 1962 Asian Games gold-winning football team, died in 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q037
+    difficulty: medium
+    stem: How is Dhanpat Rai Srivastava better known as?
+    options:
+      A: Premchand
+      B: Dinkar
+      C: Nirala
+      D: Agyeya
+    answer: A
+    explanation: Dhanpat Rai Srivastava is the Hindi–Urdu writer known as Munshi Premchand.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q038
+    difficulty: medium
+    stem: In January 2021, who among the following was appointed as the President of the Asian Cricket Council?
+    options:
+      A: Sourav Ganguly
+      B: Anil Kumble
+      C: Rahul Dravid
+      D: Jay Shah
+    answer: D
+    explanation: BCCI secretary Jay Shah became President of the Asian Cricket Council in January 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q039
+    difficulty: medium
+    stem: Who wrote the book 'The Quest for Equity in Development'?
+    options:
+      A: Raghuram Rajan
+      B: Montek Singh Ahluwalia
+      C: Amartya Sen
+      D: Manmohan Singh
+    answer: D
+    explanation: "'The Quest for Equity in Development' (1986) is by Manmohan Singh."
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q040
+    difficulty: medium
+    stem: In which of the following states is the Bhitarkanika National Park situated?
+    options:
+      A: Meghalaya
+      B: Kerala
+      C: Odisha
+      D: Goa
+    answer: C
+    explanation: Bhitarkanika National Park, a mangrove wetland, is in Kendrapara district of Odisha.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q041
+    difficulty: medium
+    stem: Which of the following elements’ salts are most soluble?
+    options:
+      A: Potassium
+      B: Rubidium
+      C: Sodium
+      D: Lithium
+    answer: C
+    explanation: |-
+      **Disputed.** SSC's answer is C; our check suggests B.
+
+      SSC's key gives sodium; sodium salts are very soluble in water, as the solubility rules say.
+      Measured solubilities, though, generally rise down the group, so rubidium salts are more soluble than sodium salts.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q042
+    difficulty: medium
+    stem: Which of the following is NOT a greenhouse gas?
+    options:
+      A: Nitrous oxide
+      B: Water vapour
+      C: Surface level ozone
+      D: Helium
+    answer: D
+    explanation: Helium is an inert monatomic gas that does not absorb infrared radiation, so it is not a greenhouse gas.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q043
+    difficulty: medium
+    stem: The Vedic view of an individual and his relation to society is determined by four objectives of life. Which of the following is NOT one of these objectives?
+    options:
+      A: Dharma
+      B: Moksha
+      C: Siddhi
+      D: Artha
+    answer: C
+    explanation: The four purusharthas are Dharma, Artha, Kama and Moksha; Siddhi is not one of them.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q044
+    difficulty: medium
+    stem: What do you call the amount of monetary or other returns, either earned or unearned, accruing over a period of time?
+    options:
+      A: Income
+      B: Services
+      C: Price
+      D: Value
+    answer: A
+    explanation: Income is the flow of monetary or other returns, earned or unearned, over a period of time.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q045
+    difficulty: medium
+    stem: In which year did Atal Bihari Vajpayee undertake a bus journey to Lahore to sign a Peace Declaration?
+    options:
+      A: "1999"
+      B: "1997"
+      C: "1991"
+      D: "1994"
+    answer: A
+    explanation: Vajpayee took the Delhi–Lahore bus in February 1999 and signed the Lahore Declaration.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q046
+    difficulty: medium
+    stem: Pushyabhuti, who ruled from Thaneswar, was the founder of ______ dynasty.
+    options:
+      A: Chera
+      B: Pandya
+      C: Vardhana
+      D: Chalukya
+    answer: C
+    explanation: Pushyabhuti of Thanesar founded the Pushyabhuti (Vardhana) dynasty, the dynasty of Harshavardhana.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q047
+    difficulty: medium
+    stem: All matches of the 2020-21 edition of Hero Indian Super League are being played in which of the following states?
+    options:
+      A: West Bengal
+      B: Goa
+      C: Karnataka
+      D: Kerala
+    answer: B
+    explanation: Because of COVID-19, the whole 2020–21 ISL season was played in a bio-bubble in Goa.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q048
+    difficulty: medium
+    stem: Which of the following is another name for 'white ant'?
+    options:
+      A: Housefly
+      B: Mosquito
+      C: Wasp
+      D: Termite
+    answer: D
+    explanation: Termites are commonly called white ants.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q049
+    difficulty: medium
+    stem: Till 20 January 1972, which present-day Indian state was known as the North-East Frontier Agency (NEFA)?
+    options:
+      A: Sikkim
+      B: Arunachal Pradesh
+      C: Nagaland
+      D: Assam
+    answer: B
+    explanation: NEFA became the Union Territory of Arunachal Pradesh on 20 January 1972; it became a state in 1987.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q050
+    difficulty: medium
+    stem: Almost 98% of Earth's crust is made up of eight elements. Which of the following does NOT figure among these elements?
+    options:
+      A: Carbon
+      B: Silicon
+      C: Calcium
+      D: Oxygen
+    answer: A
+    explanation: The eight main crustal elements are O, Si, Al, Fe, Ca, Na, K and Mg. Carbon is not among them.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-17-s1-q051
+    difficulty: medium
+    stem: In △ABC, D and E are the points on sides AB and AC, respectively and DE ∥ BC. BC = 8 cm and DE = 5 cm. If the area of △ADE = 45 cm², then what is the area (in cm²) of △ABC?
+    options:
+      A: "115.2"
+      B: "105.2"
+      C: "125"
+      D: "64"
+    answer: A
+    explanation: |-
+      △ADE ~ △ABC with ratio 5 : 8, so the areas are in the ratio 25 : 64.
+      Area of △ABC = 45 × 64/25 = 115.2 cm².
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q052
+    difficulty: medium
+    stem: A △ABC has sides 5 cm, 6 cm and 7 cm. AB extended touches a circle at P and AC extended touches the same circle at Q. Find the length (in cm) of AQ.
+    options:
+      A: "13"
+      B: "9"
+      C: "11"
+      D: "12"
+    answer: B
+    explanation: The circle is the excircle opposite A, so AP = AQ = the semi-perimeter = (5 + 6 + 7)/2 = 9 cm.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q053
+    difficulty: medium
+    stem: Two men and 7 women can complete a work in 28 days whereas 6 men and 16 women can do the same work in 11 days. In how many days can 7 men complete the same work?
+    options:
+      A: "11"
+      B: "22"
+      C: "12"
+      D: "24"
+    answer: B
+    explanation: |-
+      28(2m + 7w) = 11(6m + 16w) gives 10m = 20w, so 1 man = 2 women.
+      The work is 28 × 11w = 308w = 154m, so 7 men take 154/7 = 22 days.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q054
+    difficulty: medium
+    stem: In a triangle ABC, a point D lies on AB and points E and F lie on BC such that DF is parallel to AC and DE is parallel to AF. If BE = 4 cm, EF = 6cm, then find the length (in cm) of BC.
+    options:
+      A: "30"
+      B: "20"
+      C: "25"
+      D: "15"
+    answer: C
+    explanation: |-
+      DF ∥ AC and DE ∥ AF give BF² = BE × BC.
+      BF = 10, so BC = 100/4 = 25 cm.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q055
+    difficulty: medium
+    stem: "The value of 32 ÷ 12 of 3 × [5 − (15 − 12) ÷ 9] of 3/7 + 4 − 8 ÷ 2 of 4 is:"
+    options:
+      A: 3 1/3
+      B: 4 7/9
+      C: 3 1/6
+      D: 1 7/9
+    answer: B
+    explanation: |-
+      "of" comes first: 32 ÷ 36 = 8/9; [5 − 1/3] of 3/7 = 14/3 × 3/7 = 2; 8 ÷ (2 of 4) = 1.
+      8/9 × 2 + 4 − 1 = 16/9 + 3 = 4 7/9.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q056
+    difficulty: medium
+    stem: A certain number of students from school X appeared in an examination and 20% students failed. From school Y, 130% more students than that from school X, appeared in the same examination. If 90% of the total number of students appeared from from both the schools passed, then what is the percentage of students from school Y who failed (correct to one decimal place)?
+    options:
+      A: 6.4%
+      B: 10%
+      C: 5.7%
+      D: 8.3%
+    answer: C
+    explanation: |-
+      Take X = 100 students (20 fail); then Y = 230. 10% of the 330 total fail, so 33 fail and 13 of them are from Y.
+      13/230 = 5.65%, about 5.7%.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q057
+    difficulty: medium
+    stem: |-
+      The table shows the daily income (in ₹) of 50 persons.
+
+      Study the table and answer the question:
+
+      | Income (Rs) | No. of persons |
+      |---|---|
+      | less than 200 | 12 |
+      | less than 250 | 26 |
+      | less than 300 | 34 |
+      | less than 350 | 40 |
+      | less than 400 | 50 |
+
+      How many persons earn ₹200 or more but less than ₹300?
+    options:
+      A: "12"
+      B: "38"
+      C: "22"
+      D: "8"
+    answer: C
+    explanation: '"Less than 300" minus "less than 200" = 34 − 12 = 22 persons.'
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q058
+    difficulty: medium
+    stem: "A sum of ₹31866 is divided between A, B and C such that the ratio of shares of A and B is 9 : 8 and that of A and C is 4 : 5. The share (in ₹) of B is:"
+    options:
+      A: "9024"
+      B: "12690"
+      C: "10152"
+      D: "8460"
+    answer: A
+    explanation: |-
+      A : B : C = 36 : 32 : 45, which is 113 parts, so 1 part = 31866/113 = 282.
+      B = 32 × 282 = ₹9024.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q059
+    difficulty: medium
+    stem: Find the value of 3/4 cot² 30° + cos² 30° − 3cosec² 60° + tan² 60°.
+    options:
+      A: "-4"
+      B: "10"
+      C: √3/4
+      D: "2"
+    answer: D
+    explanation: 3/4 × 3 + 3/4 − 3 × 4/3 + 3 = 9/4 + 3/4 − 4 + 3 = 2.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q060
+    difficulty: medium
+    stem: A certain sum becomes ₹13650 at 15% p.a. simple interest after 2 years. What will be the amount (in ₹) of the same sum after 1 year at the same rate of interest, if the interest is compounded half yearly? (nearest to a ₹)
+    options:
+      A: "12134"
+      B: "10500"
+      C: "13625"
+      D: "11000"
+    answer: A
+    explanation: |-
+      P × 1.3 = 13650, so P = 10500.
+      Half-yearly at 7.5% for 1 year: 10500 × 1.075² = 12134.06, about ₹12134.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q061
+    difficulty: medium
+    stem: In a circle with centre O, PAX and PBY are the tangents to the circle at points A and B, from an external point P. Q is any point on the circle such that ∠QAX = 59° and ∠QBY = 72°. What is the measure of ∠AQB ?
+    options:
+      A: 31°
+      B: 72°
+      C: 49°
+      D: 59°
+    answer: C
+    explanation: |-
+      By the alternate segment theorem, ∠ABQ = ∠QAX = 59° and ∠BAQ = ∠QBY = 72°.
+      So ∠AQB = 180° − 59° − 72° = 49°.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q062
+    difficulty: medium
+    stem: By selling an article for ₹640, a person loses 15% of its selling price. At what price (in ₹) should he sell it to gain 15% on its cost price?
+    options:
+      A: "832"
+      B: "846.40"
+      C: "835"
+      D: "836.60"
+    answer: B
+    explanation: |-
+      The loss is 15% of SP = 96, so CP = 640 + 96 = 736.
+      For a 15% gain, SP = 736 × 1.15 = ₹846.40.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q063
+    difficulty: medium
+    stem: |-
+      Study the following table and answer the question:
+
+      Number of students enrolled for Vocational Courses (VC) in institutes A, B, C, D, E & F.
+
+      | Institutes \ Years | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 110 | 150 | 165 | 180 | 205 |
+      | B | 120 | 180 | 176 | 200 | 220 |
+      | C | 140 | 220 | 180 | 175 | 225 |
+      | D | 125 | 210 | 175 | 180 | 230 |
+      | E | 150 | 200 | 160 | 200 | 240 |
+      | F | 165 | 230 | 200 | 220 | 210 |
+
+      The ratio of the total number of students enrolled for VC in institutes A, C and E in 2015 to the total number of students enrolled in institutes B and D in 2017, is:
+    options:
+      A: "9 : 10"
+      B: "3 : 4"
+      C: "3 : 2"
+      D: "10 : 11"
+    answer: C
+    explanation: |-
+      A, C and E in 2015: 150 + 220 + 200 = 570. B and D in 2017: 200 + 180 = 380.
+      570 : 380 = 3 : 2.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q064
+    difficulty: medium
+    stem: "The marked price of an article is ₹1500. A shopkeeper sells it by giving 20% discount on its marked price. If the cost price of the article is ₹991, then his profit (in ₹) is:"
+    options:
+      A: "209"
+      B: "319"
+      C: "229"
+      D: "189"
+    answer: A
+    explanation: SP = 1500 × 0.8 = 1200, so profit = 1200 − 991 = ₹209.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q065
+    difficulty: medium
+    stem: "(√(sec²θ + cosec²θ)) (sinθ(1 + cosθ) / (1 + cosθ − sin²θ)), 0° < θ < 90° is equal to:"
+    options:
+      A: sec²θ
+      B: cosec²θ
+      C: cotθ
+      D: tanθ
+    answer: A
+    explanation: |-
+      √(sec²θ + cosec²θ) = 1/(sinθ cosθ). The fraction is sinθ(1 + cosθ)/(cosθ(1 + cosθ)) = tanθ.
+      The product is tanθ/(sinθ cosθ) = sec²θ.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q066
+    difficulty: medium
+    stem: "If x + y + z = 7, x² + y² + z² = 85 and x³ + y³ + z³ = 913, then the value of ∛(xyz) is:"
+    options:
+      A: "1"
+      B: "2"
+      C: "4"
+      D: "8"
+    answer: C
+    explanation: |-
+      xy + yz + zx = (49 − 85)/2 = −18, and x³ + y³ + z³ − 3xyz = 7 × (85 + 18) = 721.
+      So 3xyz = 913 − 721 = 192, xyz = 64 and ∛64 = 4.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q067
+    difficulty: medium
+    stem: "A takes 8 hours more than the time taken by B to cover a distance of 160 km. If A doubles his speed, he takes 3 hours more than B to cover the same distance. The speed (in km/h) of B is :"
+    options:
+      A: "72"
+      B: "70"
+      C: "75"
+      D: "80"
+    answer: D
+    explanation: |-
+      160/a − 160/b = 8 and 80/a − 160/b = 3. Subtracting, 80/a = 5, so a = 16 and A takes 10 h.
+      B takes 2 h, so B's speed is 80 km/h.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q068
+    difficulty: medium
+    stem: The curved surface area of a cylinder is 462 cm² and its base area is 346.5 cm². What is the volume (in cm³) of the cylinder? (Use π = 22/7)
+    options:
+      A: "2400"
+      B: "2425.5"
+      C: "4800"
+      D: "4850"
+    answer: B
+    explanation: |-
+      πr² = 346.5 gives r = 10.5. 2πrh = 462 gives h = 7.
+      V = 346.5 × 7 = 2425.5 cm³.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q069
+    difficulty: medium
+    stem: If the seven-digit number 94x29y6 is divisible by 72, then what is the value of (2x + 3y) for x ≠ y ?
+    options:
+      A: "35"
+      B: "37"
+      C: "23"
+      D: "21"
+    answer: B
+    explanation: |-
+      For 8: 9y6 divisible by 8 needs y = 3 or 7. For 9: 30 + x + y must be a multiple of 9, so x + y = 6 or 15.
+      x ≠ y gives x = 8, y = 7, and 2x + 3y = 37.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q070
+    difficulty: medium
+    stem: The average of 8 consecutive even numbers written in ascending order is 17. What is the average of the last three numbers, 36 and 53?
+    options:
+      A: "31"
+      B: "32.2"
+      C: "31.6"
+      D: "29.8"
+    answer: A
+    explanation: |-
+      The numbers are 10, 12, …, 24; the last three add up to 66.
+      (66 + 36 + 53)/5 = 155/5 = 31.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q071
+    difficulty: medium
+    stem: |-
+      The data given in the table shows the number of students studying in four different disciplines in 5 institutes.
+
+      Study the table and answer the question:
+
+      | Institutes | Arts | Science | Commerce | Computer Science |
+      |---|---|---|---|---|
+      | A | 36 | 48 | 59 | 57 |
+      | B | 45 | 54 | 55 | 48 |
+      | C | 55 | 36 | 56 | 51 |
+      | D | 45 | 48 | 55 | 53 |
+      | E | 48 | 44 | 52 | 55 |
+
+      By what percent is the number of students studying Computer Science in institutes A and B more than the number of students studying Arts in institutes B and C?
+    options:
+      A: "5"
+      B: "14"
+      C: "2"
+      D: "24"
+    answer: A
+    explanation: |-
+      Computer Science in A and B: 57 + 48 = 105. Arts in B and C: 45 + 55 = 100.
+      105 is 5% more than 100.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q072
+    difficulty: medium
+    stem: If a² + c² + 17 = 2(a − 8b − 2b²), then what is the value of (a³ + b³ + c³)?
+    options:
+      A: −7
+      B: "9"
+      C: "10"
+      D: −4
+    answer: A
+    explanation: |-
+      The equation rearranges to (a − 1)² + 4(b + 2)² + c² = 0, so a = 1, b = −2, c = 0.
+      a³ + b³ + c³ = 1 − 8 + 0 = −7.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q073
+    difficulty: medium
+    stem: |-
+      Study the following table and answer the question:
+
+      Number of students enrolled for Vocational Courses (VC) in institutes A, B, C, D, E & F.
+
+      | Institutes \ Years | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 110 | 150 | 165 | 180 | 205 |
+      | B | 120 | 180 | 176 | 200 | 220 |
+      | C | 140 | 220 | 180 | 175 | 225 |
+      | D | 125 | 210 | 175 | 180 | 230 |
+      | E | 150 | 200 | 160 | 200 | 240 |
+      | F | 165 | 230 | 200 | 220 | 210 |
+
+      The total number of students enrolled for VC in institutes B, C and E in 2015 is x % more than the total number of students enrolled in institutes A, D and F in 2016. The value of x is closest to:
+    options:
+      A: "10.3"
+      B: "11.8"
+      C: "10.8"
+      D: "11.1"
+    answer: D
+    explanation: |-
+      B, C and E in 2015: 180 + 220 + 200 = 600. A, D and F in 2016: 165 + 175 + 200 = 540.
+      (600 − 540)/540 × 100 = 11.1%.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q074
+    difficulty: medium
+    stem: "If cos(A − B) = √3/2 and cot(A + B) = 1/√3, where A-B and A+B are acute angles, then (2A-3B) is equal to:"
+    options:
+      A: 45°
+      B: 30°
+      C: 15°
+      D: 60°
+    answer: A
+    explanation: |-
+      A − B = 30° and A + B = 60°, so A = 45° and B = 15°.
+      2A − 3B = 90° − 45° = 45°.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q075
+    difficulty: medium
+    stem: If (54√2 x³ + 24√3 y³) ÷ (√18 x + √12 y) = Ax² + By² + Cxy, then what is the value of A² − (B² + C²)?
+    options:
+      A: "12"
+      B: "-36"
+      C: "-24"
+      D: "24"
+    answer: B
+    explanation: |-
+      With a = 3√2x and b = 2√3y, the quotient is a² − ab + b² = 18x² + 12y² − 6√6xy.
+      A² − (B² + C²) = 324 − (144 + 216) = −36.
+    tags:
+      - quant
+  - slug: cgl-2021-08-17-s1-q076
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      The sea has become / an cheap dumping ground / for all kinds / of waste products.
+    options:
+      A: of waste products
+      B: an cheap dumping ground
+      C: for all kinds
+      D: The sea has become
+    answer: B
+    explanation: '"Cheap" begins with a consonant sound, so the article is "a": "a cheap dumping ground".'
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Herculean task
+    options:
+      A: A job that requires a lot of talking and information
+      B: A job that makes everyone feel proud
+      C: A job that requires a large amount of physical strength
+      D: A job that only weak people are assigned
+    answer: C
+    explanation: A Herculean task needs enormous strength or effort, like the labours of Hercules.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q078
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      A. Most important, however, are its oils, which are extracted, processed, and marketed for culinary, medicinal, and cosmetic uses alike.  
+      B. Coconut products are used to make everything from clothing to animal feed to beauty creams.  
+      C. The coconut is a very useful plant with a wide range of products being sourced from it.  
+      D. Its kernel is harvested for its edible flesh and delicious water, while its husk is used for its strong fibres.
+    options:
+      A: CADB
+      B: BCAD
+      C: ADBC
+      D: CBDA
+    answer: D
+    explanation: |-
+      C introduces the coconut, B lists its products, D covers kernel and husk, and A ends with "most important, however", its oils.
+      So the order is CBDA.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      “How beautiful she is!” said Betty.
+    options:
+      A: Betty exclaimed with joy how beautiful she was.
+      B: Betty exclaimed with joy that she was very beautiful.
+      C: Betty exclaimed with joy how beautiful she is.
+      D: Betty exclaimed with joy she is very beautiful.
+    answer: B
+    explanation: 'In indirect speech, an exclamation becomes "exclaimed (with joy) that…" with the tense shifted back: "that she was very beautiful".'
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q080
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Cancellation
+      B: Incriminating
+      C: Unpretensious
+      D: Embodiment
+    answer: C
+    explanation: The correct spelling is "Unpretentious".
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The man bought a parrot that could speak five languages.
+    options:
+      A: A parrot that could spoke five languages bought the man.
+      B: A parrot that spoke five languages was bought by the man.
+      C: A parrot that spoken five languages was bought by the man.
+      D: A parrot that spoke five languages had been bought by the man.
+    answer: B
+    explanation: 'Simple past active (bought) becomes "was bought by": "A parrot that spoke five languages was bought by the man."'
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q082
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Pledge
+      B: Acquarium
+      C: Abridge
+      D: Bouquet
+    answer: B
+    explanation: The correct spelling is "Aquarium".
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution required’.
+
+      **Hears to** the news tonight at 9 p.m., as there will be an important announcement about the budget.
+    options:
+      A: Listened to
+      B: Hear to
+      C: No substitution required
+      D: Listen to
+    answer: D
+    explanation: 'An imperative uses the base verb, and you listen to (not hear to) the news: "Listen to the news tonight…".'
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Stalwart
+    options:
+      A: Firm
+      B: Robust
+      C: Cowardly
+      D: Stout
+    answer: C
+    explanation: Stalwart means loyal, strong and brave; its opposite is cowardly.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.
+
+      Either the bears or the lion **has escaped from the zoo**.
+    options:
+      A: is escaped from the zoo
+      B: have escaped from the zoo
+      C: No substitution
+      D: are escaped from the zoo
+    answer: C
+    explanation: With "either…or", the verb agrees with the nearer subject, "the lion" (singular), so "has escaped" is correct.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q086
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      One who studies the occult meanings of numbers and their supposed influence on human life
+    options:
+      A: Astronomer
+      B: Numerologist
+      C: Prophet
+      D: Astrologer
+    answer: B
+    explanation: A numerologist studies the occult meanings of numbers and their supposed influence on human life.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Munch
+    options:
+      A: Flew
+      B: Chew
+      C: Drew
+      D: Burp
+    answer: B
+    explanation: To munch is to chew steadily and audibly.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q088
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      A. But in snapping at the supposed treasure, he dropped the bit he was carrying, and so lost all.  
+      B. When he was crossing a river on his way home, he saw his own shadow reflected in the stream below.  
+      C. Thinking that it was another dog with another piece of meat, he resolved to make himself master of that also.  
+      D. A dog had stolen a piece of meat out of a butcher's shop.
+    options:
+      A: DBCA
+      B: BDCA
+      C: DACB
+      D: ACDB
+    answer: A
+    explanation: |-
+      D (the dog steals meat), B (it sees its reflection), C (it wants the other piece too), A (it loses everything).
+      So the order is DBCA.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Slur
+    options:
+      A: Mixture
+      B: Assortment
+      C: Compliment
+      D: Insult
+    answer: C
+    explanation: A slur is an insult or a damaging remark; its opposite is a compliment.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Having no boundaries or limits
+    options:
+      A: Tremendous
+      B: Infinite
+      C: Enormous
+      D: Colossal
+    answer: B
+    explanation: Infinite means having no boundaries or limits.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Social isolation, overcrowding, the ______ of our society and several other factors are responsible for stress.
+    options:
+      A: cheapness
+      B: competitiveness
+      C: attractiveness
+      D: affordability
+    answer: B
+    explanation: The competitiveness of society is a well-known cause of stress, along with isolation and overcrowding.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q092
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Won’t you / please come / to help me / along this heavy box?
+    options:
+      A: to help me
+      B: Won’t you
+      C: please come
+      D: along this heavy box
+    answer: D
+    explanation: '"Along this heavy box" is wrong; it should be "with this heavy box" (help someone with something).'
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Termination
+    options:
+      A: Conduction
+      B: Conclusion
+      C: Consolation
+      D: Conviction
+    answer: B
+    explanation: Termination means the end of something, i.e. conclusion.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Pipe dream
+    options:
+      A: A dream or idea that keeps getting repeated
+      B: A dream or idea that is loudly proclaimed
+      C: A dream or idea that is unlikely to happen
+      D: A dream or idea that is nearly accomplished
+    answer: C
+    explanation: A pipe dream is a hope or plan that is unlikely ever to happen.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Advertisers often use rhyme and ______.
+    options:
+      A: alteration
+      B: alliteration
+      C: designation
+      D: denunciation
+    answer: B
+    explanation: Alliteration, the repetition of initial sounds, is a device advertisers often use along with rhyme.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Water, a substance composed of the chemical elements hydrogen and oxygen (1)______ in gaseous, liquid, and solid states. It is (2)______ of the most plentiful and essential (3)______ compounds. A tasteless and odourless liquid at room temperature, it has the important (4)______ to dissolve many other substances. Indeed, the (5)______ of water as a solvent is essential to living organisms.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: lasts
+      B: endures
+      C: survives
+      D: exists
+    answer: D
+    explanation: Water exists in gaseous, liquid and solid states.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Water, a substance composed of the chemical elements hydrogen and oxygen (1)______ in gaseous, liquid, and solid states. It is (2)______ of the most plentiful and essential (3)______ compounds. A tasteless and odourless liquid at room temperature, it has the important (4)______ to dissolve many other substances. Indeed, the (5)______ of water as a solvent is essential to living organisms.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: one
+      B: unique
+      C: single
+      D: lone
+    answer: A
+    explanation: The phrase is "one of the most plentiful…".
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Water, a substance composed of the chemical elements hydrogen and oxygen (1)______ in gaseous, liquid, and solid states. It is (2)______ of the most plentiful and essential (3)______ compounds. A tasteless and odourless liquid at room temperature, it has the important (4)______ to dissolve many other substances. Indeed, the (5)______ of water as a solvent is essential to living organisms.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: of
+      B: in
+      C: by
+      D: for
+    answer: A
+    explanation: '"Essential of compounds" completes "one of the most plentiful and essential of compounds".'
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Water, a substance composed of the chemical elements hydrogen and oxygen (1)______ in gaseous, liquid, and solid states. It is (2)______ of the most plentiful and essential (3)______ compounds. A tasteless and odourless liquid at room temperature, it has the important (4)______ to dissolve many other substances. Indeed, the (5)______ of water as a solvent is essential to living organisms.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: ability
+      B: competence
+      C: knack
+      D: proficiency
+    answer: A
+    explanation: Water has the ability to dissolve many substances.
+    tags:
+      - english
+  - slug: cgl-2021-08-17-s1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Water, a substance composed of the chemical elements hydrogen and oxygen (1)______ in gaseous, liquid, and solid states. It is (2)______ of the most plentiful and essential (3)______ compounds. A tasteless and odourless liquid at room temperature, it has the important (4)______ to dissolve many other substances. Indeed, the (5)______ of water as a solvent is essential to living organisms.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: versatility
+      B: validity
+      C: velocity
+      D: veracity
+    answer: A
+    explanation: The versatility of water as a solvent (it dissolves so many things) is essential to living organisms.
+    tags:
+      - english

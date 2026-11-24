@@ -1,0 +1,1306 @@
+slug: 2022-04-20-all-shifts-shift3
+title: SSC CGL 2021 Tier 1
+date: 2022-04-20
+label: 20 Apr, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b8037aba-db03-11ed-91c7-0a5e36bc6706 (aglasem.com)). Left out (picture-only options or incomplete in the source): Q11, Q13, Q16, Q19, Q21, Q22, Q23."
+questions:
+  - slug: cgl-2022-04-20-all-ss-shift3-q001
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      55, 63, ?, 343, 855, 1855
+    options:
+      A: "135"
+      B: "117"
+      C: "223"
+      D: "127"
+    answer: D
+    explanation: "The differences are even cubes: 2³ = 8, 4³ = 64, 6³ = 216, 8³ = 512, 10³ = 1000. So the missing term is 63 + 64 = 127."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q002
+    difficulty: medium
+    stem: Shashank walks a certain distance, say X m, towards the west, then turns left and walks 35 m, and then turns right and walks 18 m. From there, he turns left and walks 9 m, and then turns left again and walks 60 m. From there, he turns left and walks 9 m, and then turns left again and walks 12 m. He finally turns right and walks 35 m to reach a point that is exactly 10 m to the east of the starting point. What is the value of X?
+    options:
+      A: "20"
+      B: "22"
+      C: "30"
+      D: "36"
+    answer: A
+    explanation: Adding up the moves, the north–south legs cancel and the net east–west position is −X − 18 + 60 − 12 = 30 − X. This equals +10 m (east), so X = 20.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q003
+    difficulty: medium
+    stem: |-
+      Select the number-pair in which the two numbers share the same relationship as that shared by the given pair of numbers.
+
+      14 : 421
+    options:
+      A: "13 : 310"
+      B: "11 : 265"
+      C: "18 : 611"
+      D: "16 : 421"
+    answer: B
+    explanation: 421 = 14² + 15² (n² + (n + 1)²). Likewise 11² + 12² = 121 + 144 = 265.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q004
+    difficulty: medium
+    stem: If the signs ‘–’ and ‘×’ are interchanged, then which of the following equations can be correctly balanced?
+    options:
+      A: 64 ÷ 8 – 22 × 3 + 30 = 103
+      B: 36 + 14 × 18 ÷ 3 – 12 = 72
+      C: 119 ÷ 17 – 6 + 24 × 34 = 32
+      D: 42 ÷ 6 – 18 + 30 × 7 = 146
+    answer: C
+    explanation: After swapping, 119 ÷ 17 × 6 + 24 − 34 = 42 + 24 − 34 = 32.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q005
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      9, 29, 67, 129, ?, 349
+    options:
+      A: "242"
+      B: "185"
+      C: "221"
+      D: "178"
+    answer: C
+    explanation: "Terms are n³ + (n − 1) for n = 2 to 7: 8+1, 27+2, 64+3, 125+4, 216+5 = 221, 343+6 = 349."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q006
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:  
+      Some locks are keys.  
+      No key is a chain.  
+      All springs are chains.
+
+      Conclusions:  
+      I. Some keys are springs.  
+      II. No key is a spring.  
+      III. No lock is a spring.
+    options:
+      A: Only conclusion II follows.
+      B: Only conclusions I and II follow.
+      C: None of the conclusions follow.
+      D: Either conclusion I or II follows.
+    answer: A
+    explanation: All springs are chains and no key is a chain, so no key is a spring (II). I is false, and III cannot be concluded.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q007
+    difficulty: medium
+    stem: In a certain code language, 'PENCIL' is written as 'MKFRJV' and 'ERASER' is written as 'SGVEWK'. How will 'MASTER' be written in that language?
+    options:
+      A: REWWGT
+      B: SGWWFS
+      C: RFWVES
+      D: SFWYFT
+    answer: B
+    explanation: Reverse the word, then add 1, 2, 3, 4, 5, 6 in turn. MASTER → RETSAM → S G W W F S.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q008
+    difficulty: medium
+    stem: |-
+      Study the given matrix carefully and select the number from among the given options that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 12 | 7 | 70 |
+      | 15 | 6 | 78 |
+      | 11 | 9 | ? |
+    options:
+      A: "75"
+      B: "85"
+      C: "81"
+      D: "76"
+    answer: C
+    explanation: "In each row, (first − 2) × second = third: 10 × 7 = 70, 13 × 6 = 78, so 9 × 9 = 81."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q009
+    difficulty: medium
+    stem: In a certain code language, 'STREAM' is coded as 161418445228. How will 'PERIOD' be coded in that language?
+    options:
+      A: "224418382448"
+      B: "224418362446"
+      C: "244418342446"
+      D: "224420363046"
+    answer: B
+    explanation: "Each letter becomes twice its reverse-alphabet position: S = 8 → 16, T = 7 → 14 … PERIOD → 22, 44, 18, 36, 24, 46."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q010
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Tranquil  
+      2. Transit  
+      3. Transfer  
+      4. Transient  
+      5. Training
+    options:
+      A: 5, 1, 3, 4, 2
+      B: 2, 5, 3, 4, 1
+      C: 5, 1, 3, 2, 4
+      D: 5, 1, 4, 3, 2
+    answer: A
+    explanation: "Training, Tranquil, Transfer, Transient (transie- before transit), Transit: 5, 1, 3, 4, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q012
+    difficulty: medium
+    stem: Ranjana said to a woman, “My father is the paternal grandfather of your son Piyush”. How is Piyush related to Ranjana?
+    options:
+      A: Cousin
+      B: Nephew
+      C: Grandson
+      D: Brother
+    answer: B
+    explanation: Ranjana's father is Piyush's paternal grandfather, so Piyush's father is Ranjana's brother. Piyush is her nephew.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q014
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different.
+    options:
+      A: VSQ
+      B: WTP
+      C: MJH
+      D: PMK
+    answer: B
+    explanation: VSQ, MJH and PMK go −3 then −2. WTP goes −3 then −4, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q015
+    difficulty: medium
+    stem: |-
+      Select the letter-clusters from among the given options that can sequentially replace both the question marks (?) in the following series.
+
+      ZCKR, bfow, DISB, flwg, HOAL, ?, ?
+    options:
+      A: JREQ, luiw
+      B: jreq, LUIV
+      C: jres, LUIX
+      D: jrfq, LUIW
+    answer: B
+    explanation: The four positions move +2, +3, +4 and +5, and the case alternates (upper, lower, …). HOAL → jreq → LUIV.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q017
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.
+
+      DFC : WHX :: KFQ : ?
+    options:
+      A: PHJ
+      B: QHJ
+      C: RGK
+      D: QHK
+    answer: A
+    explanation: The first and third letters become their opposites (D→W, C→X) and the middle moves +2 (F→H). KFQ → P H J.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q018
+    difficulty: medium
+    stem: |-
+      Which two signs need to be interchanged to make the following equation correct?
+
+      95 ÷ 19 × 3 – 7 + 29 = 13
+    options:
+      A: + and ×
+      B: ÷ and –
+      C: – and +
+      D: – and ×
+    answer: D
+    explanation: Swapping − and × gives 95 ÷ 19 − 3 × 7 + 29 = 5 − 21 + 29 = 13.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q020
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      L G _ Q _ G P _ L _ P Q _ G _ Q
+    options:
+      A: P, L, P, G, L, Q
+      B: P, Q, L, G, P, L
+      C: P, P, L, G, Q, L
+      D: P, L, Q, G, L, P
+    answer: D
+    explanation: The block L G P Q repeats four times, so the blanks are P, L, Q, G, L, P.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q024
+    difficulty: medium
+    stem: Six students, Abhay, Bhanu, Charu, David, Ekta and Farheen, are the top six rank holders in a school. The rank of Bhanu is between the ranks of Charu and David. Bhanu is on the fourth rank. There are two students between the ranks of Ekta and David. Ekta is at the lowest rank among all the given students. The rank of Abhay is immediately below the rank of Farheen. Who is on the fifth rank?
+    options:
+      A: Ekta
+      B: Charu
+      C: David
+      D: Abhay
+    answer: B
+    explanation: Ekta is 6th and David is 3rd (two places between them). With Bhanu 4th between David and Charu, Charu is 5th.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q025
+    difficulty: medium
+    stem: Vaidehi got 92% marks in an examination and Kavyanjali got 78% marks in the same examination. If the difference between the marks obtained by Vaidehi and Kavyanjali is 105, find the marks obtained by Vaidehi in the examination.
+    options:
+      A: "736"
+      B: "644"
+      C: "690"
+      D: "598"
+    answer: C
+    explanation: 92% − 78% = 14% of the total = 105, so the total is 750. Vaidehi got 92% of 750 = 690.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-20-all-ss-shift3-q026
+    difficulty: medium
+    stem: Decrease in which of the following factors leads to an increase in the rate of evaporation?
+    options:
+      A: Ambient temperature
+      B: Humidity
+      C: Area of the free surface of the liquid concerned
+      D: Wind speed above the surface of the liquid
+    answer: B
+    explanation: Lower humidity lets the air hold more vapour, so evaporation speeds up. Raising temperature, surface area or wind speed also speeds it up, but decreasing them does not.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q027
+    difficulty: medium
+    stem: ______ is a mask dance popular in South Malabar.
+    options:
+      A: Dhangar
+      B: Kummattikali
+      C: Parichakali
+      D: Zemmado
+    answer: B
+    explanation: Kummattikali is a colourful mask dance of South Malabar, Kerala, performed during Onam.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q028
+    difficulty: medium
+    stem: As per Economic Survey 2020-2021, during the first half of the financial year 2020-21, the services sector contracted by almost ______.
+    options:
+      A: 21%
+      B: 16%
+      C: 6%
+      D: 11%
+    answer: B
+    explanation: "Economic Survey 2020-21: the services sector contracted by about 15.9% (almost 16%) in H1 of 2020-21."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q029
+    difficulty: medium
+    stem: Acidic drain cleaners made of ______ or ______ acid are powerful enough to clear heavy-duty hair, food, grease, soap scum or paper-based clogs in 15 minutes or less.
+    options:
+      A: formic, citric
+      B: nitric, carbonic
+      C: sulphuricc, hydrochloric
+      D: malic, lactic
+    answer: C
+    explanation: Acidic drain cleaners use strong mineral acids, sulphuric or hydrochloric acid.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q030
+    difficulty: medium
+    stem: As per the Union Budget 2021-22, Mission Poshan 2.0 is proposed to be launched to improve nutritional outcomes across ______ aspirational districts.
+    options:
+      A: "95"
+      B: "101"
+      C: "119"
+      D: "112"
+    answer: D
+    explanation: Budget 2021-22 announced Mission Poshan 2.0 to improve nutritional outcomes across 112 aspirational districts.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q031
+    difficulty: medium
+    stem: The Contingency Fund of India is to be augmented from ₹500 crores to ______ crores through the Finance Bill as per the Union Budget 2021-22.
+    options:
+      A: ₹25,000
+      B: ₹30,000
+      C: ₹15,000
+      D: ₹10,000
+    answer: B
+    explanation: Budget 2021-22 proposed raising the Contingency Fund of India from ₹500 crore to ₹30,000 crore.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q032
+    difficulty: medium
+    stem: Acceleration is equal to the rate of change of ______.
+    options:
+      A: momentum
+      B: position
+      C: displacement
+      D: velocity
+    answer: D
+    explanation: Acceleration is the rate of change of velocity (a = Δv/Δt).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q033
+    difficulty: medium
+    stem: Who among the following was an ancient Indian mathematician-astronomer?
+    options:
+      A: Amalananda
+      B: Nagarjuna
+      C: Varahamihira
+      D: Banabhatta
+    answer: C
+    explanation: Varahamihira (6th century) was a mathematician-astronomer and author of the Pancha-Siddhantika.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q034
+    difficulty: medium
+    stem: "What is the maximum permissible limit of turbidity in potable water as per the Bureau of Indian Standards (BIS)(IS -10500 : 2012)?"
+    options:
+      A: 3 NTU
+      B: 5 NTU
+      C: 7 NTU
+      D: 1 NTU
+    answer: B
+    explanation: IS 10500:2012 sets turbidity at 1 NTU (acceptable) and 5 NTU (permissible when no other source is available).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q035
+    difficulty: medium
+    stem: When was the Tenth Session of the Constituent Assembly held?
+    options:
+      A: 6-17 October 1949
+      B: 14-31 July 1947
+      C: 4 November 1948 - 8 January 1949
+      D: 16 May - 16 June 1949
+    answer: A
+    explanation: The Tenth Session of the Constituent Assembly was held from 6 to 17 October 1949.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q036
+    difficulty: medium
+    stem: Which of the following Mauryan rulers did Seleucus fight against in the Seleucid–Mauryan War?
+    options:
+      A: Chandragupta Maurya
+      B: Samprati
+      C: Ashoka
+      D: Dasharatha
+    answer: A
+    explanation: Seleucus I Nicator fought Chandragupta Maurya (c. 305–303 BCE) and ceded territory to him.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q037
+    difficulty: medium
+    stem: Who among the following got the award for ‘Best Supporting Actress’ at the National Awards 2021?
+    options:
+      A: Tisca Chopra
+      B: Pallavi Joshi
+      C: Divya Dutta
+      D: Konkona Sen Sharma
+    answer: B
+    explanation: At the 67th National Film Awards (announced 2021), Pallavi Joshi won Best Supporting Actress for ‘The Tashkent Files’.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q038
+    difficulty: medium
+    stem: Which of the following festivals is celebrated in Uttarakhand?
+    options:
+      A: Vishu
+      B: Phool Dei
+      C: Dol Jatra
+      D: Nuakhai
+    answer: B
+    explanation: Phool Dei is a spring flower festival of Uttarakhand. Vishu is from Kerala, Dol Jatra from Assam/Odisha and Nuakhai from Odisha.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q039
+    difficulty: medium
+    stem: Which of the following countries will host the 2023 AIBA Men's World Boxing Championships?
+    options:
+      A: Uzbekistan
+      B: Russia
+      C: Mongolia
+      D: Serbia
+    answer: A
+    explanation: The 2023 men's World Boxing Championships were awarded to Tashkent, Uzbekistan.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q040
+    difficulty: medium
+    stem: The Hirakud Dam is built near the city of ______ in Odisha.
+    options:
+      A: Cuttack
+      B: Rourkela
+      C: Sambalpur
+      D: Balasore
+    answer: C
+    explanation: Hirakud Dam on the Mahanadi is near Sambalpur, Odisha.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q041
+    difficulty: medium
+    stem: River Ken is one of the major rivers of the Bundelkhand region of central India and flows through two states, Madhya Pradesh and ______.
+    options:
+      A: Gujarat
+      B: Maharashtra
+      C: Rajasthan
+      D: Uttar Pradesh
+    answer: D
+    explanation: The Ken, a Yamuna tributary, flows through Madhya Pradesh and Uttar Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q042
+    difficulty: medium
+    stem: Which of the following statements about ‘Swachh Survekshan - Urban’ is INCORRECT?
+    options:
+      A: It is an annual survey of cleanliness, hygiene and sanitation in cities and towns across India.
+      B: The first survey was undertaken in 2016.
+      C: It was launched as part of the Swachh Bharat Abhiyan.
+      D: It is conducted by the Ministry of Health and Family Welfare.
+    answer: D
+    explanation: Swachh Survekshan is conducted by the Ministry of Housing and Urban Affairs, not the Health Ministry, so D is incorrect.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q043
+    difficulty: medium
+    stem: ______ develops on crystalline igneous rocks in areas of low rainfall in the eastern and southern part of the Deccan Plateau.
+    options:
+      A: Red soil
+      B: Black soil
+      C: Alluvial soil
+      D: Arid soil
+    answer: A
+    explanation: Red soil forms on crystalline igneous rocks in the low-rainfall eastern and southern Deccan.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q044
+    difficulty: medium
+    stem: Who among the following was the recipient of the ‘Vatayan Lifetime Achievement Award 2020’?
+    options:
+      A: Ravi Shankar Prasad
+      B: Prakash Javadekar
+      C: Ramesh Pokhriyal
+      D: Piyush Goyal
+    answer: C
+    explanation: Union Education Minister Ramesh Pokhriyal ‘Nishank’ received the Vatayan Lifetime Achievement Award 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q045
+    difficulty: medium
+    stem: At which of the following jails was Khudiram Bose sent to the gallows?
+    options:
+      A: Chittagong
+      B: Barishal
+      C: Muzaffarpur
+      D: Alipore
+    answer: C
+    explanation: Khudiram Bose was hanged in Muzaffarpur jail on 11 August 1908.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q046
+    difficulty: medium
+    stem: Which of the following Hero Indian Super League teams appointed Sergio Lobera as its head coach in October 2020?
+    options:
+      A: North East United FC
+      B: ATK Mohun Bagan
+      C: Bengaluru FC
+      D: Mumbai City FC
+    answer: D
+    explanation: Mumbai City FC appointed Sergio Lobera as head coach for the 2020-21 ISL season.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q047
+    difficulty: medium
+    stem: Which amendment to the Constitution of India added a new subject in the Union List called 'taxes on services’?
+    options:
+      A: 56th
+      B: 62nd
+      C: 78th
+      D: 88th
+    answer: D
+    explanation: The 88th Amendment (2003) added Entry 92C, ‘taxes on services’, to the Union List and inserted Article 268A.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q048
+    difficulty: medium
+    stem: Who among the following was the Chief Justice of India – designate in April 2021?
+    options:
+      A: Justice NV Ramana
+      B: Justice AM Khanwilkar
+      C: Justice Ashok Bhushan
+      D: Justice Arun Mishra
+    answer: A
+    explanation: Justice N. V. Ramana was named the next CJI in April 2021 and took office on 24 April 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q049
+    difficulty: medium
+    stem: Which of the following Amendments of the Constitution of India amended Article 19 and inserted provisions fully securing the constitutional validity of zamindari abolition laws in general and certain specified State Acts in particular?
+    options:
+      A: Fourth Amendment
+      B: First Amendment
+      C: Third Amendment
+      D: Second Amendment
+    answer: B
+    explanation: The First Amendment (1951) amended Article 19 and inserted Articles 31A and 31B to protect zamindari abolition laws.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q050
+    difficulty: medium
+    stem: Which of the following is a property of Beryllium?
+    options:
+      A: Forms ionic compounds
+      B: Has a low melting and boiling point
+      C: Reacts with water
+      D: Forms covalent compounds
+    answer: D
+    explanation: Beryllium's small size and high ionisation energy make it form mainly covalent compounds.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-20-all-ss-shift3-q051
+    difficulty: medium
+    stem: "If a + b + c = 6, a² + b² + c² = 32, and a³ + b³ + c³ = 189, then the value of 4abc is:"
+    options:
+      A: "12"
+      B: "16"
+      C: "9"
+      D: "8"
+    answer: A
+    explanation: ab + bc + ca = (36 − 32)/2 = 2. a³ + b³ + c³ − 3abc = 6(32 − 2) = 180, so 3abc = 9, abc = 3 and 4abc = 12.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q052
+    difficulty: medium
+    stem: "If 5√3 + √75 = 17.32, then the value of 14√3 + √108 is:"
+    options:
+      A: "32.46"
+      B: "35.64"
+      C: "34.64"
+      D: "33.86"
+    answer: C
+    explanation: 5√3 + √75 = 10√3 = 17.32. 14√3 + √108 = 14√3 + 6√3 = 20√3 = 34.64.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q053
+    difficulty: medium
+    stem: |-
+      The number of cars passing the road near a colony from 6 am to 12 noon has been shown in the following histogram.
+
+      During which hour(s) is the number of cars passed less than the average number of cars passed from 7 am to 12 noon?
+
+      | Time of the day | 6–7 | 7–8 | 8–9 | 9–10 | 10–11 | 11–12 |
+      |---|---|---|---|---|---|---|
+      | Number of Cars | 70 | 105 | 130 | 115 | 95 | 45 |
+
+      *(Figure: Histogram (x-axis: Time of the day, 6 to 12; y-axis: Number of Cars) with bars 70, 105, 130, 115, 95, 45 for the hours 6–7 to 11–12; transcribed as a table in the stem.)*
+    options:
+      A: 6–7, 10–11, 11–12
+      B: 10–11, 11–12
+      C: 7–8, 8–9, 9–10
+      D: 6–7, 11–12
+    answer: A
+    explanation: The average from 7 am to 12 noon is (105 + 130 + 115 + 95 + 45)/5 = 98. The hours below 98 are 6–7 (70), 10–11 (95) and 11–12 (45).
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q054
+    difficulty: medium
+    stem: A and B can do a work in 12 days and 18 days, respectively. They worked together for 4 days after which B was replaced by C and the remaining work was completed by A and C in the next 4 days. In how many days will C alone complete 50% of the same work?
+    options:
+      A: "24"
+      B: "18"
+      C: "21"
+      D: "36"
+    answer: B
+    explanation: A and B do 4 × (1/12 + 1/18) = 5/9 in 4 days. A then does 4/12 = 3/9, so C did 1/9 in 4 days. C alone needs 36 days for the whole work, or 18 days for half.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q055
+    difficulty: medium
+    stem: |-
+      The given bar graph shows the income and expenditure (in crores ₹) of a company over 5 years, from 2014 to 2018. Study the bar graph and answer the question that follows.
+
+      Income and expenditure (in crores ₹) of a company over 5 years
+
+      | Years | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | Income | 225 | 280 | 325 | 350 | 350 |
+      | Expenditure | 175 | 250 | 275 | 300 | 325 |
+
+      What is the difference (in crores ₹) between the expenditure for the years 2017 and 2018 taken together and the income for the years 2015 and 2016 taken together?
+
+      *(Figure: Clustered bar graph of income (blue) and expenditure (red) for 2014–2018; values transcribed as a table in the stem.)*
+    options:
+      A: "15"
+      B: "20"
+      C: "18"
+      D: "16"
+    answer: B
+    explanation: Expenditure for 2017 + 2018 = 300 + 325 = 625. Income for 2015 + 2016 = 280 + 325 = 605. The difference is 20 crore.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q056
+    difficulty: medium
+    stem: |-
+      The following bar graph shows the number of youth (in lakhs) and the number of employed youth (in lakhs) in five states A, B, C, D and E.
+
+      What is the average number of youth in the five states?
+
+      | States | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Youth | 12 | 8 | 11.5 | 10 | 9 |
+      | Employed youth | 10.5 | 7 | 10 | 7.5 | 8 |
+
+      *(Figure: Clustered bar graph (y-axis: Population (in Lakhs), 0–14; x-axis: States) of youth and employed youth for states A–E; values transcribed as a table in the stem.)*
+    options:
+      A: "1200000"
+      B: "1015000"
+      C: "1025000"
+      D: "1010000"
+    answer: D
+    explanation: (12 + 8 + 11.5 + 10 + 9)/5 = 10.1 lakh = 1,010,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q057
+    difficulty: medium
+    stem: "The value of ((1 − cot θ)/(1 − tan θ))² + 1, if 0° < θ < 90°, is equal to:"
+    options:
+      A: cosec²θ
+      B: sin²θ
+      C: cos²θ
+      D: sec²θ
+    answer: A
+    explanation: (1 − cotθ)/(1 − tanθ) = −cotθ, so the expression is cot²θ + 1 = cosec²θ.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q058
+    difficulty: medium
+    stem: An article is sold at a certain price. If it is sold at 70% of this price, then there is a loss of 10%. What is the percentage profit, when it is sold at the original selling price?
+    options:
+      A: 50/7 %
+      B: 200/7 %
+      C: 300/7 %
+      D: 100/7 %
+    answer: B
+    explanation: 0.7 SP = 0.9 CP, so SP = 9/7 CP. The profit is 2/7 = 200/7 %.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q059
+    difficulty: medium
+    stem: While preparing the results of English of a class, the marks of one student got recorded as 95 in place of 57, as a result of which there was an increase in the average score by 0.95. How many students were there in the class?
+    options:
+      A: "57"
+      B: "37"
+      C: "45"
+      D: "40"
+    answer: D
+    explanation: The total rose by 95 − 57 = 38, so n = 38/0.95 = 40.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q060
+    difficulty: medium
+    stem: The length of the body diagonal of a cube is 8√3 cm. What is the volume (in cm³) of the cube?
+    options:
+      A: "343"
+      B: "216"
+      C: "512"
+      D: "729"
+    answer: C
+    explanation: Body diagonal = a√3 = 8√3, so a = 8 cm and the volume is 512 cm³.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q061
+    difficulty: medium
+    stem: "The value of (5cos²62° + 5cos²28° − 21)/(7sin²35° + 7sin²55° + 1) is:"
+    options:
+      A: "2"
+      B: −2
+      C: "3"
+      D: −3
+    answer: B
+    explanation: cos²62° + cos²28° = 1 and sin²35° + sin²55° = 1, so the value is (5 − 21)/(7 + 1) = −2.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q062
+    difficulty: medium
+    stem: |-
+      Find the value of the following expression:
+
+      [1 1/2 + 1 3/7 ÷ (1 3/5 of 1 1/4) × 2 1/3] / [2 2/3 ÷ 4/9 × 5/6 + 14]
+    options:
+      A: 107/342
+      B: 49/114
+      C: 13/114
+      D: 1/6
+    answer: D
+    explanation: 1 3/5 of 1 1/4 = 2, so the numerator is 3/2 + (10/7 ÷ 2) × 7/3 = 3/2 + 5/3 = 19/6. The denominator is 6 × 5/6 + 14 = 19. 19/6 ÷ 19 = 1/6.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q063
+    difficulty: medium
+    stem: In a right-angled triangle PQR, ∠Q = 90°. A and B are the mid-points of PQ and PR, respectively. If PQ = 16 cm, QR = 30 cm and PR = 34 cm, what is perimeter (in cm) of the trapezium ABRQ?
+    options:
+      A: "40"
+      B: "80"
+      C: "65"
+      D: "70"
+    answer: D
+    explanation: By the mid-point theorem AB = QR/2 = 15, with AQ = 8 and BR = 17. Perimeter = 15 + 17 + 30 + 8 = 70 cm.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q064
+    difficulty: medium
+    stem: PQRS is a cyclic quadrilateral and PQ is a diameter of the circle. If ∠RPQ = 23°, then what is the measure of ∠PSR?
+    options:
+      A: 113°
+      B: 157°
+      C: 147°
+      D: 123°
+    answer: A
+    explanation: PQ is a diameter, so ∠PRQ = 90° and ∠PQR = 67°. Opposite angles of a cyclic quadrilateral sum to 180°, so ∠PSR = 113°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q065
+    difficulty: medium
+    stem: Which of the following is the smallest number that is a perfect square and is divisible by each of the numbers 6, 8 and 15?
+    options:
+      A: "225"
+      B: "121"
+      C: "576"
+      D: "3600"
+    answer: D
+    explanation: LCM(6, 8, 15) = 120 = 2³·3·5. Making every power even gives 2⁴·3²·5² = 3600.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q066
+    difficulty: medium
+    stem: Divide ₹66,300 between A and B in such a way that the amount that A receives after 8 years is equal to the amount that B receives after 10 years; with compound interest being compounded annually at a rate of 10% per annum.
+    options:
+      A: A = ₹35,520, B = ₹30,810
+      B: A = ₹35,200, B = ₹31,100
+      C: A = ₹37,000, B = ₹29,300
+      D: A = ₹36,300, B = ₹30,000
+    answer: D
+    explanation: A(1.1)⁸ = B(1.1)¹⁰ gives A = 1.21B. Then 2.21B = 66,300, so B = ₹30,000 and A = ₹36,300.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q067
+    difficulty: medium
+    stem: A ladder of length 3.5 m just reaches the top of a wall. If the ladder makes an angle of 60° with the wall, then what is the height of the wall (in m)?
+    options:
+      A: "1.75"
+      B: 3.5√3
+      C: 7√3/4
+      D: 3.5/√3
+    answer: A
+    explanation: An angle of 60° with the wall means the height is 3.5 × cos60° = 1.75 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q068
+    difficulty: medium
+    stem: A circle is circumscribed on a quadrilateral ABCD. If ∠DAB = 100°, ∠ADB = 35° and ∠CDB = 40°, then find the measure of ∠DBC.
+    options:
+      A: 35°
+      B: 60°
+      C: 45°
+      D: 40°
+    answer: B
+    explanation: ∠BCD = 180° − 100° = 80°. In triangle BCD, ∠DBC = 180° − 80° − 40° = 60°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q069
+    difficulty: medium
+    stem: If (4a − 3b) = 1, ab = 1/2, where a > 0 and b > 0, what is the value of (64a³ + 27b³)?
+    options:
+      A: "15"
+      B: "25"
+      C: "30"
+      D: "35"
+    answer: D
+    explanation: 16a² + 9b² = 1 + 24ab = 13, so 4a + 3b = √(13 + 12) = 5. 64a³ + 27b³ = 5 × (13 − 6) = 35.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q070
+    difficulty: medium
+    stem: "In ΔABC, ∠A = 68°. If I is the incentre of the triangle, then the measure of ∠BIC is:"
+    options:
+      A: 124°
+      B: 112°
+      C: 68°
+      D: 56°
+    answer: A
+    explanation: ∠BIC = 90° + ∠A/2 = 90° + 34° = 124°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q071
+    difficulty: medium
+    stem: The distance between two towns is covered in 7 hours at a speed of 50 km/h. By how much should the speed (in km/h) be increased so that 2 hours of travelling time will be saved?
+    options:
+      A: "70"
+      B: "20"
+      C: "40"
+      D: "30"
+    answer: B
+    explanation: The distance is 350 km. To cover it in 5 h needs 70 km/h, an increase of 20 km/h.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q072
+    difficulty: medium
+    stem: A is 25% more than B, and B is 40% less than C. If C is 20% more than D, then A is what percentage less than D?
+    options:
+      A: 11%
+      B: 10%
+      C: 9%
+      D: 12%
+    answer: B
+    explanation: Take D = 100. Then C = 120, B = 72 and A = 90, so A is 10% less than D.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q073
+    difficulty: medium
+    stem: "Three partners shared the profit in a business in the proportion of 9 : 8 : 11. They invested their capitals for 4 months, 6 months and 18 months, respectively. What was the ratio of their capitals?"
+    options:
+      A: "81 : 48 : 22"
+      B: "27 : 48 : 22"
+      C: "81 : 16 : 66"
+      D: "27 : 16 : 66"
+    answer: A
+    explanation: "Capital ∝ profit/time: 9/4 : 8/6 : 11/18. Multiplying by 36 gives 81 : 48 : 22."
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q074
+    difficulty: medium
+    stem: A person bought a book at 31% discount on its printed price. If no discount was given, then he would have to pay ₹2,480 more. How much did he pay (in ₹) for the book?
+    options:
+      A: 7,000
+      B: 5,520
+      C: 8,000
+      D: 4,560
+    answer: B
+    explanation: 31% of MP = ₹2,480, so MP = ₹8,000 and he paid 69% of it, ₹5,520.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q075
+    difficulty: medium
+    stem: |-
+      Performance of 1800 students in grades has been shown in the following pie chart.
+
+      How many more students have obtained grade B than those who have obtained grade C?
+
+      | Grade | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Percentage | 30% | 27% | 24% | 11% | 8% |
+
+      *(Figure: Pie chart of grades: Grade A 30%, Grade B 27%, Grade C 24%, Grade D 11%, Grade E 8%; transcribed as a table in the stem.)*
+    options:
+      A: "50"
+      B: "60"
+      C: "54"
+      D: "3"
+    answer: C
+    explanation: (27% − 24%) of 1800 = 54.
+    tags:
+      - quant
+  - slug: cgl-2022-04-20-all-ss-shift3-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Back out
+    options:
+      A: To enquire
+      B: To withdraw
+      C: To throw
+      D: To explode
+    answer: B
+    explanation: ‘Back out’ means to withdraw from a commitment.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      ______ did she open her lunch box than everyone gathered around her.
+    options:
+      A: As soon as
+      B: Just as
+      C: No sooner
+      D: Hardly
+    answer: C
+    explanation: ‘No sooner … than’ is the fixed pair; ‘hardly’ would need ‘when’.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Ravenous
+    options:
+      A: Starved
+      B: Satiated
+      C: Full
+      D: Content
+    answer: A
+    explanation: Ravenous means extremely hungry, or starved.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Obdurate
+    options:
+      A: Rigid
+      B: Callous
+      C: Amenable
+      D: Secure
+    answer: C
+    explanation: Obdurate means stubbornly unyielding; its opposite is amenable.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select option ‘No substitution required’.
+
+      Often it makes one wonder at the sights **you see.**
+    options:
+      A: one sees
+      B: one see
+      C: you saw
+      D: No substitution required
+    answer: A
+    explanation: "The pronoun must stay consistent with ‘one’: ‘the sights one sees’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q081
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Place where objects of importance are exhibited
+    options:
+      A: Fair
+      B: Exhibition
+      C: Treasury
+      D: Museum
+    answer: D
+    explanation: A museum is a place where objects of historical or cultural importance are exhibited.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q082
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Lacking interest or excitement
+    options:
+      A: Despot
+      B: Hostile
+      C: Mundane
+      D: Miserly
+    answer: C
+    explanation: Mundane means dull, lacking interest or excitement.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q083
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Contemplate
+      B: Cooperate
+      C: Temprate
+      D: Syndicate
+    answer: C
+    explanation: The correct spelling is ‘Temperate’.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Will you / care for / a cup of / hot coffee?
+    options:
+      A: care for
+      B: hot coffee
+      C: Will you
+      D: a cup of
+    answer: C
+    explanation: A polite offer uses ‘Would you care for …?’, so ‘Will you’ is the error.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Lull
+    options:
+      A: Disturbance
+      B: Activity
+      C: Noise
+      D: Calm
+    answer: D
+    explanation: A lull is a period of calm.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q086
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain a grammatical error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      They had hardly completed / half of the work / than the boss called them.
+    options:
+      A: half of the work
+      B: No error
+      C: They had hardly completed
+      D: than the boss called them
+    answer: D
+    explanation: ‘Hardly’ is followed by ‘when’, not ‘than’.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      multiple
+    options:
+      A: many
+      B: double
+      C: single
+      D: triple
+    answer: C
+    explanation: Multiple means many; its opposite is single.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q088
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      We bought / two dozens / mangoes from / the market.
+    options:
+      A: the market
+      B: We bought
+      C: two dozens
+      D: mangoes from
+    answer: C
+    explanation: "After a number, ‘dozen’ stays singular: ‘two dozen mangoes’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q089
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. Thus, shared laughter is one of the most effective tools in maintaining healthy relationships.  
+      B. Emotional sharing builds strong and lasting bonds.  
+      C. It also helps in healing resentments and hurt.  
+      D. But sharing laughter brings joy and freshness to relationships.
+    options:
+      A: BCAD
+      B: DCBA
+      C: DCAB
+      D: BDCA
+    answer: D
+    explanation: "B states the general idea, D brings in laughter with ‘But’, C adds ‘also’ and A concludes with ‘Thus’: BDCA."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      It is quite difficult to **make on** what this doctor writes.
+    options:
+      A: make out
+      B: make in
+      C: No substitution required
+      D: made on
+    answer: A
+    explanation: ‘Make out’ means to read or decipher with difficulty.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q091
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in direct speech.
+
+      She exclaimed with sorrow that life had become miserable.
+    options:
+      A: She said, “Oh! What miserable life has become.”
+      B: She said, “Alas! How miserable life has become.”
+      C: She said, “How miserable had become life!”
+      D: She said, “Life has become miserable.”
+    answer: B
+    explanation: "Exclaiming with sorrow becomes ‘Alas!’ plus an exclamatory sentence: ‘How miserable life has become.’"
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q092
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      My friend / who’s leg / was fractured, / has recovered.
+    options:
+      A: has recovered
+      B: My friend
+      C: who’s leg
+      D: was fractured
+    answer: C
+    explanation: The possessive relative pronoun is ‘whose’, not ‘who’s’ (who is).
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Have a change of heart
+    options:
+      A: Undergo a surgery
+      B: Change one’s opinion
+      C: Fall in love with someone
+      D: Express happiness about something
+    answer: B
+    explanation: ‘Have a change of heart’ means to change one's opinion or decision.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q094
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      He is given proper guidance by his boss.
+    options:
+      A: His boss is giving him proper guidance.
+      B: His boss has been giving him proper guidance.
+      C: He gives proper guidance to his boss.
+      D: His boss gives him proper guidance.
+    answer: D
+    explanation: "Simple present passive → active: ‘His boss gives him proper guidance.’"
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q095
+    difficulty: medium
+    stem: |-
+      Select the correct passive voice of the given sentence.
+
+      Hold the rope firmly.
+    options:
+      A: Let the rope hold you firmly.
+      B: Let the rope firmly hold you.
+      C: Let the rope be hold firmly.
+      D: Let the rope be held firmly.
+    answer: D
+    explanation: "An imperative becomes passive with ‘Let … be + past participle’: ‘Let the rope be held firmly.’"
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q096
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      For an average Indian, driving in any of the major Indian cities is equivalent to (1) ______ a daily war. The everyday struggle of (2) ______ traffic, pollution and rash drivers is (3) ______ biggest cause of chronic stress and other (4) ______ problems. On an average a person spends (5) ______ between thirty minutes to two hours of their day driving.
+
+      Select the most appropriate option to fill in blank no.1.
+    options:
+      A: making
+      B: waging
+      C: raising
+      D: rushing
+    answer: B
+    explanation: The collocation is ‘wage a war’.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q097
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      For an average Indian, driving in any of the major Indian cities is equivalent to (1) ______ a daily war. The everyday struggle of (2) ______ traffic, pollution and rash drivers is (3) ______ biggest cause of chronic stress and other (4) ______ problems. On an average a person spends (5) ______ between thirty minutes to two hours of their day driving.
+
+      Select the most appropriate option to fill in blank no.2.
+    options:
+      A: stopping
+      B: dodging
+      C: boarding
+      D: lodging
+    answer: B
+    explanation: Drivers dodge (avoid) traffic, pollution and rash drivers.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q098
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      For an average Indian, driving in any of the major Indian cities is equivalent to (1) ______ a daily war. The everyday struggle of (2) ______ traffic, pollution and rash drivers is (3) ______ biggest cause of chronic stress and other (4) ______ problems. On an average a person spends (5) ______ between thirty minutes to two hours of their day driving.
+
+      Select the most appropriate option to fill in blank no.3.
+    options:
+      A: one
+      B: the
+      C: an
+      D: a
+    answer: B
+    explanation: "A superlative takes ‘the’: ‘the biggest cause’."
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q099
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      For an average Indian, driving in any of the major Indian cities is equivalent to (1) ______ a daily war. The everyday struggle of (2) ______ traffic, pollution and rash drivers is (3) ______ biggest cause of chronic stress and other (4) ______ problems. On an average a person spends (5) ______ between thirty minutes to two hours of their day driving.
+
+      Select the most appropriate option to fill in blank no.4.
+    options:
+      A: societal
+      B: ecological
+      C: psychological
+      D: spiritual
+    answer: C
+    explanation: Chronic stress leads to other psychological (mental) problems.
+    tags:
+      - english
+  - slug: cgl-2022-04-20-all-ss-shift3-q100
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      For an average Indian, driving in any of the major Indian cities is equivalent to (1) ______ a daily war. The everyday struggle of (2) ______ traffic, pollution and rash drivers is (3) ______ biggest cause of chronic stress and other (4) ______ problems. On an average a person spends (5) ______ between thirty minutes to two hours of their day driving.
+
+      Select the most appropriate option to fill in blank no.5.
+    options:
+      A: everywhere
+      B: nowhere
+      C: anywhere
+      D: elsewhere
+    answer: C
+    explanation: ‘Anywhere between X and Y’ means some amount within that range.
+    tags:
+      - english

@@ -1,0 +1,1342 @@
+slug: 2022-04-18-all-shifts-shift2
+title: SSC CGL 2021 Tier 1
+date: 2022-04-18
+label: 18 Apr, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/b6727296-db03-11ed-85de-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q11, Q14, Q17, Q18, Q21, Q22, Q23."
+questions:
+  - slug: cgl-2022-04-18-all-ss-shift2-q001
+    difficulty: medium
+    stem: In a certain code language, 3224 means ‘Taj is in Agra’, and 4245 means ‘Agra is near Delhi’. Which of the following is the code for ‘I like all fruits’?
+    options:
+      A: "2534"
+      B: "2425"
+      C: "1526"
+      D: "1436"
+    answer: D
+    explanation: "Each digit is the number of letters in a word: Taj(3) is(2) in(2) Agra(4) = 3224. I(1) like(4) all(3) fruits(6) = 1436."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q002
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+      15 * 1411 * 83 * 137 * 218 * 100
+    options:
+      A: ×,÷, =, +,−
+      B: ×,=,−,÷,+
+      C: +,−,×, =, ÷
+      D: ×,+,÷,−, =
+    answer: A
+    explanation: 15 × 1411 ÷ 83 = 255 and 137 + 218 − 100 = 255, so × ÷ = + − balances it.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q003
+    difficulty: medium
+    stem: "The ratio of the present ages of Charvi and Vaishnavi is 4 : 5. Yuvika is 2 years older than Charvi but 5 years younger than Vaishnavi. Find the present age of Vaishnavi."
+    options:
+      A: 35 years
+      B: 28 years
+      C: 25 years
+      D: 42 years
+    answer: A
+    explanation: With Charvi = 4x and Vaishnavi = 5x, 4x + 2 = 5x − 5, so x = 7 and Vaishnavi is 35 years old.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q004
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      39, 53, 69, 87, ?
+    options:
+      A: "99"
+      B: "107"
+      C: "92"
+      D: "115"
+    answer: B
+    explanation: The differences are 14, 16, 18, so the next is 87 + 20 = 107.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q005
+    difficulty: medium
+    stem: |-
+      Three different positions of the same non-standard dice are shown. Which letter will be on the face opposite to the face with the letter ‘Q’?
+
+      *(Figure: Three views of the dice: (1) T on top, Q in front, S on the right; (2) U on top, R in front, T on the right; (3) S on top, P in front, U on the right.)*
+    options:
+      A: S
+      B: P
+      C: U
+      D: R
+    answer: C
+    explanation: T touches Q, S, U and R, so T is opposite P. S touches T, Q, P and U, so S is opposite R. That leaves Q opposite U.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q006
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: WTR
+      B: WUT
+      C: MJH
+      D: SPN
+    answer: B
+    explanation: WTR, MJH and SPN go −3 then −2. WUT goes −2 then −1, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q007
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      28 : 729 :: 32 : ?
+    options:
+      A: "961"
+      B: "973"
+      C: "824"
+      D: "738"
+    answer: A
+    explanation: 729 = (28 − 1)², so (32 − 1)² = 961.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q008
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      K _ _ N L _ N K _ N _ L N K _ M _ L M _
+    options:
+      A: L, M, M, M, K, L, K, N
+      B: L, M, M, K, K, L, N, N
+      C: M, M, L, K, K, L, K, N
+      D: L, M, M, K, K, M, K, N
+    answer: A
+    explanation: "The series reads KLMN LMNK MNKL NKLM KLMN: each block starts one letter later in the cycle K, L, M, N."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q009
+    difficulty: medium
+    stem: |-
+      Study the given matrix carefully and select the number from among the given options that can replace the question mark (?) in it
+
+      | | | |
+      |---|---|---|
+      | 7 | 9 | 5 |
+      | 3 | 8 | ? |
+      | 28 | 81 | 50 |
+    options:
+      A: "9"
+      B: "5"
+      C: "7"
+      D: "8"
+    answer: A
+    explanation: "In each column, top × (middle + 1) = bottom: 7 × 4 = 28 and 9 × 9 = 81, so 5 × (? + 1) = 50 gives ? = 9."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q010
+    difficulty: medium
+    stem: "If GATE is coded as QKDO, then PLAN will be coded as:"
+    options:
+      A: VFXK
+      B: FVKX
+      C: ZVXK
+      D: ZVKX
+    answer: D
+    explanation: Each letter moves +10 (G→Q, A→K, T→D, E→O). PLAN → ZVKX.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q012
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster that can replace the question mark (?) in the following series.
+
+      GHB, LMG, PQK, ?
+    options:
+      A: STN
+      B: TSM
+      C: PQE
+      D: ABX
+    answer: A
+    explanation: "Each letter moves +5, then +4, then +3: G→L→P→S, H→M→Q→T, B→G→K→N. The answer is STN."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q013
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term.
+
+      DOGMATIC : EQHOBVJD :: PRODUCTS : ?
+    options:
+      A: RTQEWDVU
+      B: RTSEWDSQ
+      C: RTQFXDVU
+      D: RTQEWDWV
+    answer: A
+    explanation: Letters before M move +1 and letters from M onwards move +2 (D→E, O→Q, M→O, C→D). PRODUCTS → RTQEWDVU.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q015
+    difficulty: medium
+    stem: In a certain code language, ‘TOMATO’ is coded as 40-30-26-2-40-30 and ‘GINGER’ is coded as 14-18-28-14-10-36. How will ‘GARLIC’ be coded in that language?
+    options:
+      A: 14-2-36-24-18-6
+      B: 7-2-18-24-18-3
+      C: 7-1-36-12-9-6
+      D: 14-1-18-24-18-3
+    answer: A
+    explanation: Each letter is coded as twice its alphabet position (T = 40, O = 30). GARLIC → 14-2-36-24-18-6.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q016
+    difficulty: medium
+    stem: |-
+      Which two numbers (Not Digits) need to be interchanged to make the following equation correct?
+
+      15 + 90 ÷ 9 × 5 – 11 = 28
+    options:
+      A: 11 and 9
+      B: 15 and 9
+      C: 15 and 5
+      D: 9 and 5
+    answer: B
+    explanation: Swapping 15 and 9 gives 9 + 90 ÷ 15 × 5 − 11 = 9 + 30 − 11 = 28.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q019
+    difficulty: medium
+    stem: Radha wears five different coloured clothes, red, green, yellow, purple and brown, on five different days of a week, from Monday to Friday. She wears red clothes on Wednesday. She does not wear green and brown clothes on Monday or Friday. She wears green clothes on the next day of wearing yellow clothes. On which day does she wear brown clothes?
+    options:
+      A: Monday
+      B: Tuesday
+      C: Friday
+      D: Thursday
+    answer: D
+    explanation: Green and brown must fall on Tuesday or Thursday (Wednesday is red). Green follows yellow, so yellow is Monday and green Tuesday; brown is Thursday.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q020
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      2, 31, 4, 37, 10, 41, 28, 43, 82, 47, ?
+    options:
+      A: "422"
+      B: "242"
+      C: "224"
+      D: "244"
+    answer: D
+    explanation: The odd-place terms 2, 4, 10, 28, 82 add 2, 6, 18, 54 (×3 each time), so the next is 82 + 162 = 244. The even-place terms are primes.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q024
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      Statements:  
+      No plum is an apricot.  
+      All lemons are apricots.  
+      All grapes are lemons.
+
+      Conclusions:  
+      I. No apricot is a grape.  
+      II. No grape is a plum.  
+      III. No lemon is a plum.  
+      IV. Some plums are lemons.
+    options:
+      A: Only conclusions I, II and IV follow.
+      B: Only conclusions II, III and IV follow.
+      C: Only conclusions II and III follow.
+      D: Only conclusions I, II and III follow.
+    answer: C
+    explanation: All grapes are lemons and all lemons are apricots, and no plum is an apricot. So no lemon is a plum (III) and no grape is a plum (II). I and IV fail.
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q025
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Projection  
+      2. Professor  
+      3. Product  
+      4. Pronounce  
+      5. Provide
+    options:
+      A: 2, 3, 1, 4, 5
+      B: 3, 2, 1, 5, 4
+      C: 3, 2, 4, 1, 5
+      D: 3, 2, 1, 4, 5
+    answer: D
+    explanation: "Dictionary order: Product, Professor, Projection, Pronounce, Provide = 3, 2, 1, 4, 5."
+    tags:
+      - reasoning
+  - slug: cgl-2022-04-18-all-ss-shift2-q026
+    difficulty: medium
+    stem: Which of the following states became the first state in India to provide 100% tap water supply in rural areas in 2020?
+    options:
+      A: Goa
+      B: Kerala
+      C: Mizoram
+      D: Sikkim
+    answer: A
+    explanation: In 2020 Goa became the first state to give a tap connection to every rural household under the Jal Jeevan Mission.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q027
+    difficulty: medium
+    stem: How many electrons are there in the outermost shell of a group 16 element?
+    options:
+      A: "5"
+      B: "4"
+      C: "3"
+      D: "6"
+    answer: D
+    explanation: Group 16 elements (O, S, Se …) have 6 valence electrons (ns² np⁴).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q028
+    difficulty: medium
+    stem: Which of the following parties supported the move for partition of Bengal?
+    options:
+      A: Gadar Party
+      B: Forward Bloc
+      C: All India Muslim League
+      D: Communist Party of India
+    answer: C
+    explanation: The All India Muslim League (founded 1906) backed the 1905 Partition of Bengal, which created a Muslim-majority province.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q029
+    difficulty: medium
+    stem: In Union Budget 2021-22, there is a proposal to provide liquid waste management in ______ AMRUT cities under Jal Jeevan Mission (Urban).
+    options:
+      A: "150"
+      B: "400"
+      C: "500"
+      D: "350"
+    answer: C
+    explanation: Budget 2021-22 proposed liquid waste management in 500 AMRUT cities under Jal Jeevan Mission (Urban).
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q030
+    difficulty: medium
+    stem: According to Economic Survey 2020-2021, India’s real GDP is projected to record ______ growth in the Fiscal Year 2021-22.
+    options:
+      A: 10.8%
+      B: 12.3%
+      C: 11.0%
+      D: 13.5%
+    answer: C
+    explanation: The Economic Survey 2020-21 projected real GDP growth of 11.0% for 2021-22.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q031
+    difficulty: medium
+    stem: Which of the following symmetries is exhibited by arthropods?
+    options:
+      A: Axial
+      B: Translational
+      C: Radial
+      D: Bilateral
+    answer: D
+    explanation: Arthropods are bilaterally symmetric.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q032
+    difficulty: medium
+    stem: Who among the following wrote ‘India Wins freedom’?
+    options:
+      A: Jawaharlal Nehru
+      B: Abul Kalam Azad
+      C: Jaswant Singh
+      D: Rajendra Prasad
+    answer: B
+    explanation: ‘India Wins Freedom’ is Maulana Abul Kalam Azad’s autobiographical account.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q033
+    difficulty: medium
+    stem: In the flocculation method of water treatment ______ chemical is added to water.
+    options:
+      A: electro-neutral
+      B: low negatively charged
+      C: positively charged
+      D: high negatively charged
+    answer: C
+    explanation: Flocculants such as alum are positively charged. They neutralise the negatively charged suspended particles so that these clump together and settle.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q034
+    difficulty: medium
+    stem: The Right of Children to Free and Compulsory Education Act or Right to Education (RTE) Act is an Act of the Parliament of India enacted in the year ______.
+    options:
+      A: "2009"
+      B: "2012"
+      C: "2005"
+      D: "2007"
+    answer: A
+    explanation: The RTE Act was passed in 2009 and came into force on 1 April 2010.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q035
+    difficulty: medium
+    stem: In the context of Indian Freedom Movement, which of the following years is correctly paired with the event that took place that year?
+    options:
+      A: 1915 – Mahatma Gandhi returned from South Africa
+      B: 1944 – The Cripps Mission was sent by the British government to India to obtain Indian cooperation for the British war efforts in the 2nd World War
+      C: 1936 – The First Round Table Conference
+      D: 1945 – The All India Congress Committee met in Bombay and ratified the ‘Quit India’ resolution
+    answer: A
+    explanation: Gandhi returned from South Africa in January 1915. Cripps came in 1942, the First Round Table Conference was in 1930, and Quit India was ratified in 1942.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q036
+    difficulty: medium
+    stem: In which of the following cities was the 2020 Asian Wrestling Championships held?
+    options:
+      A: New Delhi
+      B: Tokyo
+      C: Beijing
+      D: Colombo
+    answer: A
+    explanation: The 2020 Asian Wrestling Championships were held in New Delhi in February 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q037
+    difficulty: medium
+    stem: As per Union Budget for 2021–22, interest earned on Provident Fund contribution above ______ lakhs in a year will become taxable.
+    options:
+      A: ₹1.5
+      B: ₹1
+      C: ₹2
+      D: ₹2.5
+    answer: D
+    explanation: Budget 2021-22 made interest taxable on employee PF contributions above ₹2.5 lakh a year.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q038
+    difficulty: medium
+    stem: What do you call the weight a soil can withstand before severe damage occurs to the structure of the soil?
+    options:
+      A: Field capacity
+      B: Bearing capacity
+      C: Bulk density
+      D: Buffering capacity
+    answer: B
+    explanation: Bearing capacity is the load a soil can carry without its structure failing.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q039
+    difficulty: medium
+    stem: Who was the chairman of the House Committee of the Constituent Assembly of India?
+    options:
+      A: B Pattabhi Sitaramayya
+      B: AV Thakkar
+      C: JB Kripalani
+      D: KM Munsi
+    answer: A
+    explanation: B. Pattabhi Sitaramayya chaired the House Committee of the Constituent Assembly.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q040
+    difficulty: medium
+    stem: Which of the following festivals is held on a new moon day?
+    options:
+      A: Mahavir Jayanti
+      B: Kali Puja
+      C: Dussehra
+      D: Holi
+    answer: B
+    explanation: Kali Puja falls on the new moon (amavasya) of Kartik, the same night as Diwali.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q041
+    difficulty: medium
+    stem: A ‘Nattuvanar’ conducts a ______ dance recital.
+    options:
+      A: Kuchipudi
+      B: Odissi
+      C: Kathak
+      D: Bharatanatyam
+    answer: D
+    explanation: The nattuvanar conducts a Bharatanatyam recital, reciting the syllables (sollukattu) and playing the cymbals.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q042
+    difficulty: medium
+    stem: What was the estimated national mortality rate of children under the age of five in the country as per Census of India 2011?
+    options:
+      A: "34"
+      B: "55"
+      C: "76"
+      D: "13"
+    answer: B
+    explanation: India’s under-five mortality rate for 2011 was about 55 per 1,000 live births.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q043
+    difficulty: medium
+    stem: Nitrogen is a ______ element.
+    options:
+      A: diatomic
+      B: tetra-atomic
+      C: poly-atomic
+      D: monoatomic
+    answer: A
+    explanation: Nitrogen exists as N₂ molecules, so it is diatomic.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q044
+    difficulty: medium
+    stem: Actor ______ was conferred with the ‘Lifetime Achievement’ award at the Filmfare Awards 2021.
+    options:
+      A: Irrfan Khan
+      B: Amitabh Bachchan
+      C: Dharmendra
+      D: Rishi Kapoor
+    answer: A
+    explanation: Irrfan Khan was given the Lifetime Achievement award (posthumously) at the 66th Filmfare Awards in 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q045
+    difficulty: medium
+    stem: Who among the following became the first Indian to win the ‘Best Actor’ award at the Norwegian National Awards ceremony held in Haugesund, Norway in 2018?
+    options:
+      A: Ranvir Shorey
+      B: Nawazuddin Siddique
+      C: Ram Kapoor
+      D: Adil Hussain
+    answer: D
+    explanation: Adil Hussain won Best Supporting Actor at Norway’s Amanda Awards (Haugesund, 2018) for ‘What Will People Say’, the first Indian to win one.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q046
+    difficulty: medium
+    stem: As of 2021, who is the reigning Olympic Men’s Field Hockey champion?
+    options:
+      A: Belgium
+      B: Germany
+      C: Argentina
+      D: Holland
+    answer: C
+    explanation: Argentina won the men’s hockey gold at Rio 2016. The question treats it as the reigning champion before the Tokyo Games, where Belgium won in August 2021.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q047
+    difficulty: medium
+    stem: The fine for extinguishing public lamps may extend to ______ as per Section 141 of The Electricity Act, 2003.
+    options:
+      A: ₹2,000
+      B: ₹3,000
+      C: ₹2,500
+      D: ₹5,000
+    answer: A
+    explanation: "Section 141 of the Electricity Act, 2003: maliciously extinguishing a public lamp is punishable with a fine of up to ₹2,000."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q048
+    difficulty: medium
+    stem: Ozone is a molecule made up of ______ oxygen atoms.
+    options:
+      A: four
+      B: two
+      C: one
+      D: three
+    answer: D
+    explanation: "Ozone is O₃: three oxygen atoms."
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q049
+    difficulty: medium
+    stem: Which of the following varnas was responsible for protecting people and administering justice in ancient India as per rules laid down by the Dharmasutras and Dharmashastras?
+    options:
+      A: Vaishya
+      B: Shudra
+      C: Kshatriya
+      D: Brahmana
+    answer: C
+    explanation: The Dharmasutras gave Kshatriyas the duties of fighting, protecting people and administering justice.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q050
+    difficulty: medium
+    stem: Which of the following rivers originates in a spring at Verinag in the south-eastern part of Kashmir?
+    options:
+      A: Beas
+      B: Jhelum
+      C: Chenab
+      D: Sutlej
+    answer: B
+    explanation: The Jhelum rises at the Verinag spring in south-east Kashmir.
+    tags:
+      - general-awareness
+  - slug: cgl-2022-04-18-all-ss-shift2-q051
+    difficulty: medium
+    stem: "The expression (cos⁶θ + sin⁶θ − 1)(tan²θ + cot²θ + 2) + 1 is equal to:"
+    options:
+      A: "1"
+      B: −2
+      C: "0"
+      D: −1
+    answer: B
+    explanation: cos⁶θ + sin⁶θ − 1 = −3sin²θcos²θ, and tan²θ + cot²θ + 2 = 1/(sin²θcos²θ). Their product is −3, and −3 + 1 = −2.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q052
+    difficulty: medium
+    stem: "A railway engine passes two bridges of lengths 400 m and 235 m in 100 seconds and 60 seconds, respectively. Twice the length of the railway engine (in m) is:"
+    options:
+      A: "24"
+      B: "25"
+      C: "12.5"
+      D: "12"
+    answer: B
+    explanation: (L + 400)/100 = (L + 235)/60 gives L = 12.5 m, so twice the length is 25 m.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q053
+    difficulty: medium
+    stem: "The sides AB and AC of Δ ABC are produced to points D and E, respectively. The bisectors of ∠ CBD and ∠ BCE meet at P. If ∠ A = 88°, then the measure of ∠ P is:"
+    options:
+      A: 46°
+      B: 56°
+      C: 51°
+      D: 61°
+    answer: A
+    explanation: The bisectors of two exterior angles meet at an angle of 90° − A/2 = 90° − 44° = 46°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q054
+    difficulty: medium
+    stem: |-
+      The given bar graph shows exports of cars of type A and B (in ₹ millions) from 2014 to 2018. Study the graph and answer the question that follows.
+
+      Exports of Cars of Type A and B (in ₹millions) during 2014 to 2018.
+
+      | Years | A | B |
+      |---|---|---|
+      | 2014 | 200 | 225 |
+      | 2015 | 150 | 250 |
+      | 2016 | 275 | 200 |
+      | 2017 | 175 | 275 |
+      | 2018 | 300 | 325 |
+
+      In which year are the exports of cars of type A ₹20 million less more than the average exports (per year) of cars of type B?
+
+      *(Figure: Grouped bar chart of exports (in ₹ millions) of car types A (blue) and B (red) for 2014–2018, y-axis 0 to 350; bar values as in the table.)*
+    options:
+      A: "2015"
+      B: "2014"
+      C: "2016"
+      D: "2017"
+    answer: C
+    explanation: Average B exports = 1275 ÷ 5 = 255. Type A in 2016 is 275, which is 20 more than the average.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q055
+    difficulty: medium
+    stem: "If a² + b² + 49c² + 18 = 2(b − 28c − a), then the value of (a − b − 7c) is:"
+    options:
+      A: "4"
+      B: "3"
+      C: "2"
+      D: "1"
+    answer: C
+    explanation: Rewrite as (a + 1)² + (b − 1)² + (7c + 4)² = 0, so a = −1, b = 1 and 7c = −4. Then a − b − 7c = −1 − 1 + 4 = 2.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q056
+    difficulty: medium
+    stem: Joseph deposited a total of ₹52,500 in a bank in the names of his two daughters aged 15 years and 16 years in such a way that they would get equal amounts when they become 18 years old. If the bank gives 10% compound interest compounded annually, then what is the amount (in ₹) that Joseph had deposited in the name of his younger daughter?
+    options:
+      A: 25,500
+      B: 24,500
+      C: 25,000
+      D: 26,000
+    answer: C
+    explanation: The younger daughter’s money grows for 3 years and the older’s for 2, so x(1.1)³ = y(1.1)², giving y = 1.1x. Then 2.1x = 52,500 and x = ₹25,000.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q057
+    difficulty: medium
+    stem: The circumference of the base of a right circular cylinder is 62.8 cm and its volume is 8792 cm³. What is the curved surface area (in cm²) of the cylinder? (Take π = 3.14)
+    options:
+      A: "1695.6"
+      B: "1758.4"
+      C: "1632.8"
+      D: "1570.2"
+    answer: B
+    explanation: r = 62.8 ÷ 6.28 = 10 cm and h = 8792 ÷ 314 = 28 cm. CSA = 62.8 × 28 = 1758.4 cm².
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q058
+    difficulty: medium
+    stem: "The average of eight consecutive odd numbers is 28. The sum of the smallest and the largest number is:"
+    options:
+      A: "45"
+      B: "52"
+      C: "48"
+      D: "56"
+    answer: D
+    explanation: In an arithmetic sequence, smallest + largest = 2 × average = 56.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q059
+    difficulty: medium
+    stem: "In ΔABC, AB = 7 cm, BC = 10 cm, and AC = 8 cm. If AD is the angle bisector of ∠BAC, where D is a point on BC, then DC/4 (in cm) is equal to:"
+    options:
+      A: 14/3
+      B: 4/3
+      C: 11/3
+      D: 7/3
+    answer: B
+    explanation: "BD : DC = 7 : 8, so DC = 10 × 8/15 = 16/3, and DC/4 = 4/3."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q060
+    difficulty: medium
+    stem: |-
+      The number of cars passing the road near a colony from 6 am to 12 noon has been shown in the following histogram.
+
+      During which hour(s) is the number of cars passed more than the average number of cars passed from 6 am to 11 am?
+
+      | Time of the day | Number of Cars |
+      |---|---|
+      | 6–7 | 70 |
+      | 7–8 | 105 |
+      | 8–9 | 130 |
+      | 9–10 | 115 |
+      | 10–11 | 95 |
+      | 11–12 | 45 |
+
+      *(Figure: Histogram of number of cars (y-axis) against time of the day 6 to 12 (x-axis), with bar heights labelled 70, 105, 130, 115, 95, 45.)*
+    options:
+      A: 8–9 am, 9–10 am
+      B: 8–9 am
+      C: 7–8 am, 8–9 am, 9–10 am, 10–11 am
+      D: 7–8 am, 8–9 am, 9–10 am
+    answer: D
+    explanation: Average for 6–11 am = 515 ÷ 5 = 103. Only 7–8 (105), 8–9 (130) and 9–10 (115) are above it.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q061
+    difficulty: medium
+    stem: What is the greatest four-digit number which on being divided by 6, 7 and 8 leaves 4, 5 and 6 as remainders, respectively?
+    options:
+      A: "9910"
+      B: "9920"
+      C: "9921"
+      D: "9912"
+    answer: A
+    explanation: Each remainder is 2 less than its divisor, so N = 168k − 2. The largest four-digit value is 168 × 59 − 2 = 9910.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q062
+    difficulty: medium
+    stem: A poster is on top of a building. A person is standing on the ground at a distance of 50 m from the building. The angles of elevation to the top of the poster and bottom of the poster are 45° and 30°, respectively. What is 200% of the height (in m) of the poster?
+    options:
+      A: (25/3)(3 − √3)
+      B: (75/3)(3 − √3)
+      C: (50/3)(3 − √3)
+      D: (100/3)(3 − √3)
+    answer: D
+    explanation: The poster is 50 tan 45° − 50 tan 30° = 50 − 50/√3 = (50/3)(3 − √3) m tall, so 200% of it is (100/3)(3 − √3).
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q063
+    difficulty: medium
+    stem: "The ratio of the profits of P and Q is 5 : 8. What is their investment ratio, if their investment time period ratio is 3 : 5?"
+    options:
+      A: "13 : 25"
+      B: "12 : 25"
+      C: "24 : 25"
+      D: "25 : 24"
+    answer: D
+    explanation: "Investment ∝ profit ÷ time: 5/3 : 8/5 = 25 : 24."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q064
+    difficulty: medium
+    stem: "If a nine digit number 468x5138y is divisible by 72, then the value of √(4x + 3y) is:"
+    options:
+      A: "8"
+      B: "9"
+      C: "12"
+      D: "6"
+    answer: D
+    explanation: For 8, 38y must be divisible by 8, so y = 4. For 9, the digit sum 39 + x needs x = 6. √(24 + 12) = 6.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q065
+    difficulty: medium
+    stem: |-
+      The given bar graph shows the sales of computers from six dealers A, B, C, D, E and F, during two consecutive years 2015 and 2016. Study the graph and answer the question that follows.
+
+      Sales of computers from six dealers A, B, C, D, E and F, during 2015 and 2016
+
+      | Dealers | 2015 | 2016 |
+      |---|---|---|
+      | A | 200 | 320 |
+      | B | 460 | 350 |
+      | C | 390 | 500 |
+      | D | 280 | 675 |
+      | E | 680 | 725 |
+      | F | 400 | 450 |
+
+      What is the ratio of the total sales from dealers A, B and C taken together for the year 2015 to the sales from dealers D, E and F taken together for the year 2016?
+
+      *(Figure: Grouped bar chart of number of computers sold (y-axis 0 to 800) by dealers A–F, blue bars for 2015 and orange bars for 2016; values as in the table.)*
+    options:
+      A: "25 : 39"
+      B: "37 : 21"
+      C: "21 : 37"
+      D: "39 : 25"
+    answer: C
+    explanation: "A + B + C in 2015 = 1050; D + E + F in 2016 = 1850. 1050 : 1850 = 21 : 37."
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q066
+    difficulty: medium
+    stem: "The value of 15 + 6.3 ÷ 7 – 3 × 1.3 – 2 is:"
+    options:
+      A: "9"
+      B: −10
+      C: "10"
+      D: "7"
+    answer: C
+    explanation: 15 + 0.9 − 3.9 − 2 = 10.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q067
+    difficulty: medium
+    stem: "A river 6 m deep and 35 m wide is flowing at the rate of 2.5 km/h, the amount of water that runs into the sea per minute is:"
+    options:
+      A: 8570 m³
+      B: 7850 m³
+      C: 7580 m³
+      D: 8750 m³
+    answer: D
+    explanation: Flow per minute = 6 × 35 × 2500/60 = 8750 m³.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q068
+    difficulty: medium
+    stem: A can complete work in 25 days and B can complete the same work in 20 days. They started the work together but B left after 4 days and A continued to work. In how many days will the entire work be completed?
+    options:
+      A: "25"
+      B: "20"
+      C: "28"
+      D: "22"
+    answer: B
+    explanation: In 4 days they do 4 × (1/25 + 1/20) = 36%. A does the remaining 64% in 16 days, so the work takes 20 days in all.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q069
+    difficulty: medium
+    stem: "If 2√2x³ − 3√3y³ = (√2x − √3y)(Ax² − Bxy + Cy²), then the value of √(A² + B² + C²) is:"
+    options:
+      A: √19
+      B: √11
+      C: √17
+      D: √21
+    answer: A
+    explanation: a³ − b³ = (a − b)(a² + ab + b²) with a = √2x and b = √3y gives A = 2, B = −√6 and C = 3. √(4 + 6 + 9) = √19.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q070
+    difficulty: medium
+    stem: "The cost prices of two articles A and B are in the ratio 4 : 5. While selling these articles, the shopkeeper gains 10% on article A and 20% profit on article B, and the difference in their selling prices is ₹480. Find 30% of the total cost price (in ₹) of both the articles."
+    options:
+      A: 1,250
+      B: 1,000
+      C: "900"
+      D: "810"
+    answer: D
+    explanation: The SPs are 4.4x and 6x; 1.6x = 480 gives x = 300. Total CP = 9x = 2700, and 30% of it is ₹810.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q071
+    difficulty: medium
+    stem: "The value of 2 − √((cotθ + cosθ)/(cotθ − cosθ)), when 0° < θ < 90° is equal to:"
+    options:
+      A: 2 + secθ + tanθ
+      B: 2 − secθ + tanθ
+      C: 2 − secθ − tanθ
+      D: 2 + secθ − tanθ
+    answer: C
+    explanation: (cot θ + cos θ)/(cot θ − cos θ) = (1 + sin θ)/(1 − sin θ), whose square root is (1 + sin θ)/cos θ = sec θ + tan θ. So the value is 2 − sec θ − tan θ.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q072
+    difficulty: medium
+    stem: "If a positive number ‘k’ when multiplied by 30% of itself gives a number which is 170% more than the number ‘k’, then the number ‘k’ is equal to:"
+    options:
+      A: "9"
+      B: "5"
+      C: "6"
+      D: "7"
+    answer: C
+    explanation: |-
+      **Disputed.** SSC's answer is C; our check suggests A.
+
+      k × 0.3k must equal 2.7k (170% more than k), so k = 9. SSC’s key gives 6, which makes the product only 80% more than k.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q073
+    difficulty: medium
+    stem: AB is a chord of a circle with centre O, while PAQ is the tangent at A. R is a point on the minor arc AB. If ∠BAQ = 70°, then find the measure of ∠ARB.
+    options:
+      A: 110°
+      B: 125°
+      C: 70°
+      D: 145°
+    answer: A
+    explanation: By the alternate segment theorem, the angle in the major segment is 70°, so the angle on the minor arc is 180° − 70° = 110°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q074
+    difficulty: medium
+    stem: A shopkeeper announces a discount of 48% and then by a further discount of 15%. What is the final sale price (in Rs, to the nearest rupee) of a sofa costing Rs 29600 and what is the discount (in Rs)?
+    options:
+      A: 13280, 16517
+      B: 13083, 16517
+      C: 16517, 13083
+      D: 16517, 13280
+    answer: B
+    explanation: 29,600 × 0.52 × 0.85 = ₹13,083 (nearest rupee), so the discount is 29,600 − 13,083 = ₹16,517.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q075
+    difficulty: medium
+    stem: |-
+      The following pie chart shows the distribution of percentage of a certain corporate office employees in various age-groups.
+
+      Total number of employees of the corporate office = 2500
+
+      Study the chart carefully and answer the question that follows.
+
+      Pie-Chart presenting the information about the percentage distribution of a certain corporate office employees by their ages.
+
+      | Age group | Percentage |
+      |---|---|
+      | 19 to 28 years | 20% |
+      | 28+ to 38 years | 25% |
+      | 38+ to 48 years | 30% |
+      | 48+ to 58 years | 15% |
+      | 58+ years and above | 10% |
+
+      What is the central angle (in degrees) corresponding to the age groups 38+ to 48 years and 58+ years and above, taken together?
+
+      *(Figure: Pie chart of employees by age group with the five slices labelled as in the table.)*
+    options:
+      A: "36"
+      B: "144"
+      C: "120"
+      D: "108"
+    answer: B
+    explanation: (30% + 10%) × 360° = 144°.
+    tags:
+      - quant
+  - slug: cgl-2022-04-18-all-ss-shift2-q076
+    difficulty: medium
+    stem: |-
+      Select the correct passive voice of the given sentence.
+
+      She has read all the plays of Shakespeare.
+    options:
+      A: All the plays of Shakespeare are read by her.
+      B: All the plays of Shakespeare have been read by her.
+      C: All the plays of Shakespeare had been read by her.
+      D: All the plays of Shakespeare were read by her.
+    answer: B
+    explanation: "Present perfect passive: have/has been + past participle: All the plays of Shakespeare have been read by her."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Devious
+    options:
+      A: Dishonest
+      B: Crooked
+      C: Crafty
+      D: Sincere
+    answer: D
+    explanation: Devious means dishonest or crafty; its opposite is sincere.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Threshold
+    options:
+      A: stairs
+      B: exit
+      C: window
+      D: doorway
+    answer: D
+    explanation: "A threshold is the entrance to a room: a doorway."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      OCCUPIED
+    options:
+      A: Late
+      B: Free
+      C: Vast
+      D: New
+    answer: B
+    explanation: The opposite of occupied (busy or taken) is free.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q080
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      “Please allow me to leave now,” Ritika said to her teacher.
+    options:
+      A: Ritika requested my teacher to allow her to leave now.
+      B: Ritika requested her teacher to allow her to leave then.
+      C: Ritika requested her teacher to allow me to leave now.
+      D: Ritika requested her teacher to allow me to leave then.
+    answer: B
+    explanation: A request becomes ‘requested … to’; ‘me’ becomes ‘her’ and ‘now’ becomes ‘then’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q081
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A seat for a passenger on a bicycle or motorbike
+    options:
+      A: Pillion
+      B: Girdle
+      C: Bridle
+      D: Cushion
+    answer: A
+    explanation: A pillion is the seat behind the rider on a motorbike or bicycle.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q082
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      You could put your money to good use.
+    options:
+      A: Your money is being put to good use.
+      B: Your money could have been put to good use.
+      C: Your money could be put to good use.
+      D: Your money has been put to good use.
+    answer: C
+    explanation: "A modal in the passive takes modal + be + past participle: Your money could be put to good use."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q083
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      There have been / three breaks-in / in our society / this month.
+    options:
+      A: three breaks-in
+      B: this month
+      C: in our society
+      D: There have been
+    answer: A
+    explanation: "The plural of break-in is break-ins: three break-ins."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q084
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them may contain an error. Select the part that contains the error from the given options. If you don’t find any error, mark ‘No error’ as your answer.
+
+      Take care/ for keep/ your valuables safely.
+    options:
+      A: Take care
+      B: your valuables safely
+      C: for keep
+      D: No error
+    answer: C
+    explanation: "‘Take care to keep …’: an infinitive is needed, not ‘for keep’."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q085
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Tenure
+      B: Digonal
+      C: Partner
+      D: Oblique
+    answer: B
+    explanation: The correct spelling is ‘Diagonal’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      I shall certainly write to you when **I shall reach** Bengaluru.
+    options:
+      A: No substitution required
+      B: I reach
+      C: I reached
+      D: I am reaching
+    answer: B
+    explanation: "Time clauses with ‘when’ take the simple present for the future: when I reach."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q087
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      One who knows everything
+    options:
+      A: Experienced
+      B: Omniscient
+      C: Invincible
+      D: Naïve
+    answer: B
+    explanation: Omniscient means knowing everything.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      All the guests were shocked at his ______ laughter.
+    options:
+      A: Unrecognised
+      B: Unrestrained
+      C: Unresolved
+      D: Unremarkable
+    answer: B
+    explanation: Unrestrained (uncontrolled) laughter would shock guests.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Easy money
+    options:
+      A: Collect someone’s cash for them easily
+      B: Work hard to earn a large salary without telling anyone
+      C: Have no difficulty in collecting money that is due
+      D: Make money without much effort, maybe illegally
+    answer: D
+    explanation: ‘Easy money’ is money made with little effort, often dishonestly.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If there is no need to substitute it, select ‘No substitution required’.
+
+      While the online class was going on, they **had to keep their cameras on.**
+    options:
+      A: No substitution required
+      B: have kept their cameras on
+      C: are keeping their camera on
+      D: had keep the camera on
+    answer: A
+    explanation: ‘Had to keep their cameras on’ is correct in the past context, so no substitution is needed.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Perjury
+    options:
+      A: Melancholy
+      B: Frankness
+      C: Penury
+      D: Falsehood
+    answer: D
+    explanation: "Perjury is lying under oath: falsehood."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      To bury the hatchet
+    options:
+      A: To stop talking to someone
+      B: To end a quarrel
+      C: To bury old things
+      D: To fight with someone
+    answer: B
+    explanation: To bury the hatchet is to end a quarrel and make peace.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q093
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Nowadays, common people take / interest in the manner / in which / they were governed.
+    options:
+      A: they were governed
+      B: Nowadays common people take
+      C: interest in the manner
+      D: in which
+    answer: A
+    explanation: "‘Nowadays’ sets the present tense: ‘the manner in which they are governed’."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q094
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. But instead of asking the guest to rest, he said, “I have arranged to take you for Shikar.”  
+      B. The host welcomed him warmly.  
+      C. At last he arrived at the beautiful city.  
+      D. Great preparations were made for Amir of Isfahan’s journey to Shiraz.
+    options:
+      A: CADB
+      B: DCBA
+      C: DCAB
+      D: BDCA
+    answer: B
+    explanation: "D (preparations for the journey), C (he arrived), B (the host welcomed him), A (but instead of rest, a hunt): DCBA."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q095
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      He / can have been / more polite / to her.
+    options:
+      A: more polite
+      B: He
+      C: to her
+      D: can have been
+    answer: D
+    explanation: A past possibility that did not happen takes ‘could have been’, not ‘can have been’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Not a year passes without a controversy over the national sports awards. The debate that (1) ______ every year following the announcement of the (2) ______ often leads to accusations of bias, regionalism and manipulations. (3) ______ to the Sports Minister and Chief Ministers and (4) ______ by the politicians have all become part of the (5) ______.
+
+      SubQuestion No : 21
+
+      Select the most appropriate option to fill in blank no.1
+    options:
+      A: rose
+      B: arose
+      C: rise
+      D: arises
+    answer: D
+    explanation: "A habitual present action with the singular ‘debate’: the debate that arises every year."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Not a year passes without a controversy over the national sports awards. The debate that (1) ______ every year following the announcement of the (2) ______ often leads to accusations of bias, regionalism and manipulations. (3) ______ to the Sports Minister and Chief Ministers and (4) ______ by the politicians have all become part of the (5) ______.
+
+      SubQuestion No : 22
+
+      Select the most appropriate option to fill in blank no.2
+    options:
+      A: donations
+      B: awards
+      C: gifts
+      D: rewards
+    answer: B
+    explanation: The passage is about the national sports awards, so ‘the announcement of the awards’.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Not a year passes without a controversy over the national sports awards. The debate that (1) ______ every year following the announcement of the (2) ______ often leads to accusations of bias, regionalism and manipulations. (3) ______ to the Sports Minister and Chief Ministers and (4) ______ by the politicians have all become part of the (5) ______.
+
+      SubQuestion No : 23
+
+      Select the most appropriate option to fill in blank no.3
+    options:
+      A: Illustrations
+      B: Representations
+      C: Delegations
+      D: Exhibitions
+    answer: B
+    explanation: Representations (formal appeals) are made to the Sports Minister and the Chief Ministers.
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Not a year passes without a controversy over the national sports awards. The debate that (1) ______ every year following the announcement of the (2) ______ often leads to accusations of bias, regionalism and manipulations. (3) ______ to the Sports Minister and Chief Ministers and (4) ______ by the politicians have all become part of the (5) ______.
+
+      SubQuestion No : 24
+
+      Select the most appropriate option to fill in blank no.4
+    options:
+      A: interventions
+      B: intersections
+      C: interjections
+      D: intermissions
+    answer: A
+    explanation: "Interventions by politicians: interference in the selection."
+    tags:
+      - english
+  - slug: cgl-2022-04-18-all-ss-shift2-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:  
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Not a year passes without a controversy over the national sports awards. The debate that (1) ______ every year following the announcement of the (2) ______ often leads to accusations of bias, regionalism and manipulations. (3) ______ to the Sports Minister and Chief Ministers and (4) ______ by the politicians have all become part of the (5) ______.
+
+      SubQuestion No : 25
+
+      Select the most appropriate option to fill in blank no.5
+    options:
+      A: jest
+      B: game
+      C: sport
+      D: line
+    answer: B
+    explanation: ‘Part of the game’ means a usual, expected feature.
+    tags:
+      - english

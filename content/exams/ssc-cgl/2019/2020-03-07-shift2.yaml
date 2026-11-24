@@ -176,10 +176,10 @@ questions:
     stem: |-
       Arrange the following words in the order in which they would appear in an English dictionary.
 
-      1. Temper
-      2. Temple
-      3. Tamarind
-      4. Tender
+      1. Temper  
+      2. Temple  
+      3. Tamarind  
+      4. Tender  
       5. Tenacity
     options:
       A: 1, 3, 2, 5, 4
@@ -230,13 +230,13 @@ questions:
 
       **Statements:**
 
-      1. All toys are pens.
+      1. All toys are pens.  
       2. All games are pens.
 
       **Conclusions:**
 
-      I. No toy is a game.
-      II. No pen is a game.
+      I. No toy is a game.  
+      II. No pen is a game.  
       III. Some toys are games.
     options:
       A: All conclusions I, II and III follow.
@@ -958,9 +958,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
 
-      A. It hurts the heart most of all by inflating blood pressure.
-      B. You can blow up and let it out or bottle it up and ignore it.
-      C. The question then arises– What to do about it?
+      A. It hurts the heart most of all by inflating blood pressure.  
+      B. You can blow up and let it out or bottle it up and ignore it.  
+      C. The question then arises– What to do about it?  
       D. Researchers have long agreed that anger hurts your health.
     options:
       A: BCAD
@@ -991,9 +991,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
 
-      A. I took a deep breath and inhaled the air.
-      B. It was a fine spring morning.
-      C. As soon as I entered the garden, lush green grass welcomed me.
+      A. I took a deep breath and inhaled the air.  
+      B. It was a fine spring morning.  
+      C. As soon as I entered the garden, lush green grass welcomed me.  
       D. The freshness in the air drew my feet towards a garden.
     options:
       A: ACBD

@@ -1,0 +1,1351 @@
+slug: 2017-08-12-shift3
+title: SSC CGL 2017 Tier 1
+date: 2017-08-12
+label: 12 Aug, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com - https://docs.aglasem.com/view/713ef3f2-9e8f-11e9-87d2-e470b83c4461). Left out (picture-only options or incomplete in the source): Q8, Q9, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-12-s3-q001
+    difficulty: medium
+    stem: |-
+      In the following question, select the related word from the given alternatives.
+
+      Book : Pages : : Continent : ?
+    options:
+      A: Water
+      B: Forest
+      C: Countries
+      D: Land
+    answer: C
+    explanation: A book is made up of pages; a continent is made up of countries.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q002
+    difficulty: medium
+    stem: |-
+      In the following question, select the related letters from the given alternatives.
+
+      JKLM : IIII : : PQRS : ?
+    options:
+      A: PPPP
+      B: OOOO
+      C: TTTT
+      D: OOPP
+    answer: B
+    explanation: "Each letter moves back 1, 2, 3, 4 places: J−1, K−2, L−3, M−4 = IIII. So P−1, Q−2, R−3, S−4 = OOOO."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q003
+    difficulty: medium
+    stem: |-
+      In the following question, select the related number from the given alternatives.
+
+      4 : 17 : : 7 : ?
+    options:
+      A: "49"
+      B: "50"
+      C: "51"
+      D: "52"
+    answer: B
+    explanation: "The rule is n² + 1: 4² + 1 = 17, so 7² + 1 = 50."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q004
+    difficulty: medium
+    stem: In the following question, select the odd word pair from the given alternatives.
+    options:
+      A: "Sad : Hopeful"
+      B: "Happy : Ecstatic"
+      C: "High : Giant"
+      D: "Trail : Pathway"
+    answer: A
+    explanation: "Happy : Ecstatic, High : Giant and Trail : Pathway are pairs of similar meaning (or degree). Sad : Hopeful are opposite in sense, so it is the odd pair."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q005
+    difficulty: medium
+    stem: In the following question, select the odd letters from the given alternatives.
+    options:
+      A: FHJ
+      B: LNQ
+      C: JLN
+      D: NPR
+    answer: B
+    explanation: FHJ, JLN and NPR step forward by +2, +2. In LNQ the steps are +2, +3, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q006
+    difficulty: medium
+    stem: In the following question, select the odd number pair from the given alternatives.
+    options:
+      A: 11 – 121
+      B: 13 – 169
+      C: 19 – 391
+      D: 21 – 441
+    answer: C
+    explanation: 11² = 121, 13² = 169 and 21² = 441, but 19² = 361, not 391.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q007
+    difficulty: medium
+    stem: |-
+      Arrange the given words in the sequence in which they occur in the dictionary.
+
+      1. Feeble  
+      2. From  
+      3. Floor  
+      4. Foam  
+      5. Fluorescent
+    options:
+      A: "13542"
+      B: "15342"
+      C: "13524"
+      D: "15324"
+    answer: A
+    explanation: "Dictionary order: Feeble, Floor, Fluorescent, Foam, From = 1, 3, 5, 4, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q010
+    difficulty: medium
+    stem: Pointing towards a man, Ritika said "He is the son of my grandfather's only son". How is Ritika related to that man?
+    options:
+      A: Aunty
+      B: Sister
+      C: Mother
+      D: Wife
+    answer: B
+    explanation: The only son of Ritika's grandfather is her father, so the man is her father's son, her brother. Ritika is his sister.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q011
+    difficulty: medium
+    stem: Among four books, Book1 is twice as heavy as Book 2. Book 3's weight is half of Book 2's weight. Book 4 is 60 grams more as compared to Book 2 but 60 grams less as compared Book 1. Which book is heaviest?
+    options:
+      A: Book 1
+      B: Book 2
+      C: Book 3
+      D: Book 4
+    answer: A
+    explanation: Let Book 2 = x. Then Book 1 = 2x and Book 4 = x + 60 = 2x − 60, so x = 120. Book 1 = 240 g is the heaviest.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q012
+    difficulty: medium
+    stem: |-
+      In the following question, from the given alternative words, select the word which cannot be formed using the letters of the given word.
+
+      Improvement
+    options:
+      A: Rope
+      B: Trim
+      C: Important
+      D: Prove
+    answer: C
+    explanation: IMPROVEMENT has no letter A, so 'Important' cannot be formed. Rope, Trim and Prove can.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q013
+    difficulty: medium
+    stem: In a certain code language, "MASTER" is written as "682145" and "STAMP" is written as "21869". How is "PASTE" written in that code language?
+    options:
+      A: "82145"
+      B: "98214"
+      C: "69218"
+      D: "95184"
+    answer: B
+    explanation: "From the two codes: M=6, A=8, S=2, T=1, E=4, R=5, P=9. So PASTE = 9 8 2 1 4 = 98214."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q014
+    difficulty: medium
+    stem: |-
+      If "K" denotes "multiplied by", "M" denotes "subtracted from", "J" denotes "added to" and "L" denotes "divided by", then
+
+      44 M 24 K 56 L 14 J 60 = ?
+    options:
+      A: "16"
+      B: "72"
+      C: "8"
+      D: "140"
+    answer: C
+    explanation: "Replacing the letters: 44 − 24 × 56 ÷ 14 + 60 = 44 − 96 + 60 = 8."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q015
+    difficulty: medium
+    stem: If 27 (15) 33 and 41 (13) 53, then what is the value of 'A' in 26 (A) 35?
+    options:
+      A: "16"
+      B: "13"
+      C: "14"
+      D: "11"
+    answer: A
+    explanation: "The middle number is the sum of all the digits: 2+7+3+3 = 15 and 4+1+5+3 = 13. So 2+6+3+5 = 16."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q016
+    difficulty: medium
+    stem: |-
+      In the following question, select the number which can be placed at the sign of question mark (?) from the given alternatives.
+
+      | 3 | 2 |
+      |---|---|
+      | 5 | 4 |
+      | 1 | 7 |
+
+      | 1 | 2 |
+      |---|---|
+      | 7 | 6 |
+      | 4 | 2 |
+
+      | 2 | 1 |
+      |---|---|
+      | 3 | 11 |
+      | 1 | ? |
+
+      *(Figure: Three separate 3-row × 2-column number grids printed side by side (transcribed as tables in the stem). The question is printed as an image.)*
+    options:
+      A: "2"
+      B: "4"
+      C: "6"
+      D: "8"
+    answer: B
+    explanation: "In each grid the six numbers add up to 22: 3+2+5+4+1+7 = 22 and 1+2+7+6+4+2 = 22. So 2+1+3+11+1+? = 22, which gives 4."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q017
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A square with both its diagonals drawn. On each of its four sides an isosceles triangle points outward (up, down, left, right), forming a four-pointed star. A vertical line runs from the top apex to the bottom apex and a horizontal line runs from the left apex to the right apex, both through the centre of the square.)*
+    options:
+      A: "28"
+      B: "36"
+      C: "40"
+      D: "48"
+    answer: B
+    explanation: The square with both diagonals and both midlines holds 16 triangles. Each outward triangle adds 5 more (its two halves, itself, and two triangles joining its apex to a corner and the centre), so 16 + 4 × 5 = 36.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q018
+    difficulty: medium
+    stem: |-
+      In the following question below are given some statements followed by some conclusions. Taking the given statements to be true even if they seem to be at variance from commonly known facts, read all the conclusions and then decide which of the given conclusion logically follows the given statements.
+
+      Statements:
+
+      I. Some pens are pencils.  
+      II. Some pens are erasers.
+
+      Conclusions:
+
+      I. Some pencils are erasers.  
+      II. All erasers are pens.
+    options:
+      A: Only conclusion (I) follows.
+      B: Only conclusion (II) follows.
+      C: Both conclusion follow.
+      D: Neither conclusion (I) nor conclusion (II) follows.
+    answer: D
+    explanation: Two 'some' statements with the middle term 'pens' give no definite link between pencils and erasers, and 'some pens are erasers' does not mean all erasers are pens. Neither conclusion follows.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q019
+    difficulty: medium
+    stem: |-
+      Two positions of a cube are shown below. What will come opposite to face containing ‘δ’?
+
+      *(Figure: Two views of a cube. View 1: top δ, front ∞, right α. View 2: top β, front θ, right α.)*
+    options:
+      A: δ
+      B: θ
+      C: β or θ
+      D: β
+    answer: D
+    explanation: α stays on the right in both views, so the cube has only been rolled about the α axis. A roll that brings two new faces (β, θ) to top and front is a half-turn, which puts the old bottom on top. So β is on the face opposite δ.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q020
+    difficulty: medium
+    stem: |-
+      In the given figure, how many cardboard boxes are not white?
+
+      *(Figure: Venn-type figure: a triangle labelled ‘Cardboard / गत्ता’, a circle labelled ‘Box / डिब्बा’ and a rectangle labelled ‘White / सफेद’. Numbers: 12 in triangle only; 6 in triangle and circle only; 4 in circle only; 7 in all three; 10 in circle and rectangle only; 9 in triangle and rectangle only; 5 in rectangle only (left part); 8 in rectangle only (right corner).)*
+    options:
+      A: "6"
+      B: "13"
+      C: "7"
+      D: "9"
+    answer: A
+    explanation: Cardboard boxes are the region shared by the triangle and the circle. The part outside the White rectangle holds 6.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q025
+    difficulty: medium
+    stem: |-
+      A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of **Matrix-I** are numbered from 0 to 4 and that of **Matrix-II** are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example, ‘E’ can be represented by 23, 41, etc., and ‘P’ can be represented by 56, 97, etc. Similarly, you have to identify the set for the word “GREAT”.
+
+      Matrix-I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | E | R | G | L | O |
+      | 1 | G | L | E | O | R |
+      | 2 | R | O | L | E | G |
+      | 3 | L | G | O | R | E |
+      | 4 | O | E | R | G | L |
+
+      Matrix-II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | M | P | S | T | A |
+      | 6 | P | S | T | A | M |
+      | 7 | T | M | A | S | P |
+      | 8 | S | A | M | P | T |
+      | 9 | A | T | P | M | S |
+
+      *(Figure: Two 5 × 5 letter matrices (transcribed as tables in the stem). The question is printed as an image.)*
+    options:
+      A: 10, 14, 00, 59, 97
+      B: 31, 33, 41, 67, 76
+      C: 43, 01, 23, 95, 89
+      D: 24, 42, 11, 86, 95
+    answer: C
+    explanation: "G = 43, R = 01, E = 23, A = 95, T = 89 are all correct in option C. Every other option has a wrong letter (A: 97 = P; B: 67 = T; D: 11 = L)."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q026
+    difficulty: medium
+    stem: Which of the following is called GDP Deflator?
+    options:
+      A: Ratio of nominal to real GDP
+      B: Ratio of nominal to real GNP
+      C: Ratio of nominal to real CPI
+      D: Ratio of real to nominal GNP
+    answer: A
+    explanation: GDP deflator = (Nominal GDP ÷ Real GDP) × 100, the ratio of nominal to real GDP.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q027
+    difficulty: medium
+    stem: Which organisation monitors the banks in actually maintaining cash balance?
+    options:
+      A: State Bank of India
+      B: Reserve Bank of India
+      C: Grameen Bank of India
+      D: None of these
+    answer: B
+    explanation: The Reserve Bank of India sets and monitors the Cash Reserve Ratio that banks must keep.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q028
+    difficulty: medium
+    stem: Which of the following Country doesn't have a written Constitution?
+    options:
+      A: United Kingdom
+      B: Australia
+      C: United States of America
+      D: Bangladesh
+    answer: A
+    explanation: The United Kingdom has an uncodified constitution made of statutes, conventions and judicial decisions.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q029
+    difficulty: medium
+    stem: In the Indian Parliamentary System, 'Vote on Account' is valid for how many months (except the year of elections)?
+    options:
+      A: 2 months
+      B: 3 months
+      C: 6 months
+      D: 9 months
+    answer: A
+    explanation: A vote on account lets the government draw money for a short period, normally two months, until the full budget is passed.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q030
+    difficulty: medium
+    stem: Takshashila University was located between which two rivers?
+    options:
+      A: Indus and Jhelum
+      B: Jhelum and Ravi
+      C: Beas and Indus
+      D: Satluj and Indus
+    answer: A
+    explanation: Takshashila (Taxila) lay in the region between the Indus and the Jhelum rivers.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q031
+    difficulty: medium
+    stem: Who is the most prominent god of 'Rig Veda'?
+    options:
+      A: Indra
+      B: Agni
+      C: Pashupati
+      D: Vishnu
+    answer: A
+    explanation: Indra is the most praised god of the Rig Veda; about 250 hymns are addressed to him.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q032
+    difficulty: medium
+    stem: Which Indian state has the largest share of the Wastelands in India?
+    options:
+      A: Gujarat
+      B: Andhra Pradesh
+      C: Madhya Pradesh
+      D: Rajasthan
+    answer: D
+    explanation: Rajasthan has the largest area of wasteland of any Indian state, mostly in the Thar desert.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q033
+    difficulty: medium
+    stem: Which is the highest peak in Andaman and Nicobar islands?
+    options:
+      A: Mount Koya
+      B: Mount Diavolo
+      C: Saddle Peak
+      D: Mount Thuiller
+    answer: C
+    explanation: Saddle Peak (732 m) on North Andaman is the highest point of the Andaman and Nicobar Islands.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q034
+    difficulty: medium
+    stem: How does a Unicellular Organism reproduce?
+    options:
+      A: Cell division
+      B: Cell reproduction
+      C: Cell synthesis
+      D: Fragmentation
+    answer: A
+    explanation: Unicellular organisms reproduce by cell division, for example binary fission in Amoeba.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q035
+    difficulty: medium
+    stem: What is the full form of DNA?
+    options:
+      A: Diribo nucleic acid
+      B: Di nucleic acid
+      C: Dual nitrogen acid
+      D: Deoxyribonucleic acid
+    answer: D
+    explanation: DNA stands for Deoxyribonucleic acid.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q036
+    difficulty: medium
+    stem: |-
+      Which among the following is/are female hormones?
+
+      (i) Estrogen  
+      (ii) Progesterone  
+      (iii) Testosterone
+    options:
+      A: (i) and (iii)
+      B: (i) and (ii)
+      C: (ii) and (iii)
+      D: Only (iii)
+    answer: B
+    explanation: Estrogen and progesterone are female sex hormones; testosterone is a male hormone.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q037
+    difficulty: medium
+    stem: For which of the following game, players must have the knowledge of Pascal's law?
+    options:
+      A: Climbing
+      B: Paragliding
+      C: Rafting
+      D: Scuba diving
+    answer: D
+    explanation: Scuba divers face pressure that rises with depth and acts in all directions, the idea behind Pascal's law of fluid pressure.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q038
+    difficulty: medium
+    stem: What is the value of the Least Distance of Distinct vision (in cm) for a normal human being?
+    options:
+      A: "2.5"
+      B: "25"
+      C: "58"
+      D: "60"
+    answer: B
+    explanation: The least distance of distinct vision for a normal eye is 25 cm.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q039
+    difficulty: medium
+    stem: What is the full form of ISDN?
+    options:
+      A: International Service Digital network
+      B: Indian Service Digital Network
+      C: Integrated Service Digital Network
+      D: Internal Service Digital Network
+    answer: C
+    explanation: ISDN stands for Integrated Services Digital Network.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q040
+    difficulty: medium
+    stem: Which among the following is used to treat Indigestion?
+    options:
+      A: Antacid
+      B: Antiseptic
+      C: Analgesic
+      D: Antibiotic
+    answer: A
+    explanation: Antacids neutralise excess stomach acid and relieve indigestion.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q041
+    difficulty: medium
+    stem: Which of the following cannot be beaten into Sheets?
+    options:
+      A: Gold
+      B: Silver
+      C: Potassium
+      D: Aluminum
+    answer: C
+    explanation: Gold, silver and aluminium are malleable metals. Potassium is a very soft, highly reactive metal and is not beaten into sheets.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q042
+    difficulty: medium
+    stem: Minamata disease is a nervous disorder caused by eating fish, polluted with _____ .
+    options:
+      A: Iron
+      B: Mercury
+      C: Lead
+      D: Nickel
+    answer: B
+    explanation: Minamata disease is mercury poisoning, first seen in Minamata, Japan, from eating fish contaminated with methylmercury.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q043
+    difficulty: medium
+    stem: Mahila Police volunteer scheme to be implemented in all states of the country has been launched on pilot basis firstly in which state?
+    options:
+      A: Delhi
+      B: Gujrat
+      C: Haryana
+      D: Rajasthan
+    answer: C
+    explanation: The Mahila Police Volunteer scheme was first launched as a pilot in Haryana (Karnal and Mahendragarh) in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q044
+    difficulty: medium
+    stem: Who invented the Centigrade scale?
+    options:
+      A: Anders Celsius
+      B: Daniel Gabriel Fahrenheit
+      C: William Thomson
+      D: Wright Brothers
+    answer: A
+    explanation: The centigrade scale was devised by the Swedish astronomer Anders Celsius in 1742.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q045
+    difficulty: medium
+    stem: |-
+      Match the following.
+
+      | | Trophy/Cup | | Sport |
+      |---|---|---|---|
+      | 1. | Irani Trophy | a. | Football |
+      | 2. | Santosh Trophy | b. | Cricket |
+      | 3. | Azlan Shah Cup | c. | Hockey |
+
+      *(Figure: The question is printed as an image of a two-column matching list (transcribed as a table in the stem).)*
+    options:
+      A: 1-b, 2-c, 3-a
+      B: 1-b, 2-a, 3-c
+      C: 1-a, 2-c, 3-b
+      D: 1-a, 2-b, 3-c
+    answer: B
+    explanation: "Irani Trophy is cricket, Santosh Trophy is football and the Azlan Shah Cup is hockey: 1-b, 2-a, 3-c."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q046
+    difficulty: medium
+    stem: Jallikattu practiced in Tamil Nadu is a part of which festival?
+    options:
+      A: Onam
+      B: Pongal
+      C: Natuanjali
+      D: Hampi
+    answer: B
+    explanation: Jallikattu, the bull-taming sport of Tamil Nadu, is held during Pongal (Mattu Pongal).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q047
+    difficulty: medium
+    stem: Who among the following was NOT one of the recipients of Major Dhyan Chand Lifetime Achievement Award for the year 2016?
+    options:
+      A: Rajendra Pralhad Shelke
+      B: Sylvanus Dung Dung
+      C: Sathi Geetha
+      D: Amit Kumar
+    answer: D
+    explanation: The 2016 Dhyan Chand Award went to Satti Geetha, Sylvanus Dung Dung and Rajendra Prahlad Shelke. Amit Kumar was not among them.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q048
+    difficulty: medium
+    stem: Who authored the book titled 'Jinnah often came to our House', which won the 2016 The Hindu Prize?
+    options:
+      A: Kiran Doshi
+      B: Salman Rushdie
+      C: K. Vijay Kumar
+      D: Yasser Usman
+    answer: A
+    explanation: "'Jinnah Often Came to Our House' by Kiran Doshi won The Hindu Prize for fiction in 2016."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q049
+    difficulty: medium
+    stem: With which country India has signed an agreement to renew the supply of Petroleum for a period of 5 years (i.e. till 2022)?
+    options:
+      A: Nepal
+      B: U.A.E.
+      C: Iran
+      D: Bhutan
+    answer: A
+    explanation: In 2017 Indian Oil and Nepal Oil Corporation renewed their petroleum supply agreement for five years, to 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q050
+    difficulty: medium
+    stem: Which of the following neighbouring country of India is not a landlocked country?
+    options:
+      A: Nepal
+      B: Myanmar
+      C: Bhutan
+      D: Afghanistan
+    answer: B
+    explanation: Myanmar has a long coast on the Bay of Bengal and the Andaman Sea. Nepal, Bhutan and Afghanistan are landlocked.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q051
+    difficulty: medium
+    stem: How many numbers are there from 300 to 700 which are divisible by 2, 3 and 7?
+    options:
+      A: "7"
+      B: "8"
+      C: "9"
+      D: "10"
+    answer: C
+    explanation: "The number must be divisible by LCM(2, 3, 7) = 42. The multiples of 42 from 300 to 700 run from 336 (42×8) to 672 (42×16): 9 numbers."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q052
+    difficulty: medium
+    stem: A and B do (3/5)th part of a work and the rest of the work is completed by C. If A, B and C take the same work for Rs 5000, then what is the share of C (in Rs)?
+    options:
+      A: "3000"
+      B: "2500"
+      C: "2000"
+      D: "1500"
+    answer: C
+    explanation: C does 1 − 3/5 = 2/5 of the work, so C's share = 2/5 × 5000 = ₹2000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q053
+    difficulty: medium
+    stem: A solid cone of height 36 cm and radius of base 9 cm is melted to form a solid cylinder of radius 9 cm and height 9 cm. What percent of material is wasted this process?
+    options:
+      A: "25"
+      B: "0"
+      C: "5"
+      D: "10"
+    answer: A
+    explanation: Cone = (1/3)π·81·36 = 972π; cylinder = π·81·9 = 729π. Waste = 243π, which is 243/972 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q054
+    difficulty: medium
+    stem: A dealer sells a machine having marked price as Rs 3840 at a discount of 20%. What is the selling price (in Rs) of the machine?
+    options:
+      A: "3072"
+      B: "3500"
+      C: "4608"
+      D: "3240"
+    answer: A
+    explanation: SP = 3840 × 0.80 = ₹3072.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q055
+    difficulty: medium
+    stem: In what ratio tea at Rs 240/kg should be mixed with tea at Rs 280/kg so that on selling the mixture at Rs 324/kg there is a profit of 20%?
+    options:
+      A: "1 : 1"
+      B: "1 : 2"
+      C: "1 : 3"
+      D: "1 : 4"
+    answer: C
+    explanation: "The cost of the mixture is 324 ÷ 1.2 = ₹270/kg. By alligation the ratio is (280 − 270) : (270 − 240) = 10 : 30 = 1 : 3."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q056
+    difficulty: medium
+    stem: The average age of Ram and Rahim is 18 years. The average age of Rahim and Ramesh is 25 years. The average age of Ram and Ramesh is 29 years. What is the age (in years) of the eldest of the three?
+    options:
+      A: "14"
+      B: "22"
+      C: "28"
+      D: "36"
+    answer: D
+    explanation: Pair sums are 36, 50 and 58, so all three add up to 72. Ramesh = 72 − 36 = 36 years, the eldest.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q057
+    difficulty: medium
+    stem: Profit obtained on selling an article for Rs 540 is equal to the loss incurred on selling the article for Rs 370. If selling price is Rs. 910, then what is the profit percentage?
+    options:
+      A: 16 2/3
+      B: 33 1/3
+      C: "50"
+      D: "100"
+    answer: D
+    explanation: CP = (540 + 370) ÷ 2 = ₹455. Selling at ₹910 gives a profit of 455, which is 100%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q058
+    difficulty: medium
+    stem: In an examination 65% students pass in history and 55% students pass in hindi. If 5% students failed in both the subjects, then what is the percentage of students who have passed in both the subjects?
+    options:
+      A: "15"
+      B: "20"
+      C: "25"
+      D: "30"
+    answer: C
+    explanation: 95% passed in at least one subject. Passed both = 65 + 55 − 95 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q059
+    difficulty: medium
+    stem: Diameter of wheel of a cycle is 21 cm. The cyclist takes 45 minutes to reach a destination at a speed of 16.5 km/hr. How many revolutions will the wheel make during the journey?
+    options:
+      A: "12325"
+      B: "18750"
+      C: "21000"
+      D: "24350"
+    answer: B
+    explanation: Distance = 16.5 km/h × 0.75 h = 12.375 km = 1,237,500 cm. Circumference = 22/7 × 21 = 66 cm, so 1,237,500 ÷ 66 = 18,750 revolutions.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q060
+    difficulty: medium
+    stem: A person invested a total sum of Rs 7900 in three different schemes of simple interest at 3%, 5% and 8% per annum. At the end of one year he got same interest in all three schemes. What is the money (in Rs) invested at 3%?
+    options:
+      A: "2900"
+      B: "3500"
+      C: "4000"
+      D: "5600"
+    answer: C
+    explanation: "Equal interest means 3a = 5b = 8c = k, so a : b : c = 1/3 : 1/5 : 1/8 = 40 : 24 : 15. a = 40/79 × 7900 = ₹4000."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q061
+    difficulty: medium
+    stem: If x + (1/x) = 2, then what is the value of x²¹ + (1/x¹³³¹)?
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: "4"
+    answer: C
+    explanation: x + 1/x = 2 gives x = 1, so the value is 1 + 1 = 2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q062
+    difficulty: medium
+    stem: If x³ – y³ = 81 and x – y = 3, then what is the value of x² + y²?
+    options:
+      A: "18"
+      B: "21"
+      C: "27"
+      D: "36"
+    answer: B
+    explanation: x³ − y³ = (x − y)(x² + xy + y²), so x² + xy + y² = 27. Also (x − y)² = x² + y² − 2xy = 9. Solving, xy = 6 and x² + y² = 21.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q063
+    difficulty: medium
+    stem: If √(5x – 6) + √(5x + 6) = 6, then what is the value of x?
+    options:
+      A: –4
+      B: "0"
+      C: "2"
+      D: "4"
+    answer: C
+    explanation: "At x = 2: √4 + √16 = 2 + 4 = 6."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q064
+    difficulty: medium
+    stem: If 2x + 1/(2x) = 2, then what is the value of √[2(1/x)⁴ + (1/x)⁵]?
+    options:
+      A: "1"
+      B: "2"
+      C: "4"
+      D: "8"
+    answer: D
+    explanation: 2x + 1/(2x) = 2 gives 2x = 1, so 1/x = 2. √(2·16 + 32) = √64 = 8.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q065
+    difficulty: medium
+    stem: The side BC of ΔABC is produced to D. If ∠ACD = 114° and ∠ABC= (1/2)∠BAC, then what is the value (in degrees) of ∠BAC?
+    options:
+      A: "36"
+      B: "48"
+      C: "76"
+      D: "84"
+    answer: C
+    explanation: "The exterior angle equals the sum of the opposite interior angles: 114 = ∠A + ∠A/2, so ∠BAC = 76°."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q066
+    difficulty: medium
+    stem: O is the center of the circle and two tangents are drawn from a point P to this circle at points A and B. If ∠AOP = 50°, then what is the value (in degrees) of ∠APB?
+    options:
+      A: "60"
+      B: "80"
+      C: "90"
+      D: "100"
+    answer: B
+    explanation: OA ⟂ PA, so ∠APO = 90 − 50 = 40°. ∠APB = 2 × 40 = 80°.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q067
+    difficulty: medium
+    stem: In ΔPQR, PQ = PR = 18 cm, AB and AC are parallel to lines PR and PQ respectively. If A is the mid-point of QR, then what is the perimeter (in cm) of quadrilateral ABPC?
+    options:
+      A: "18"
+      B: "28"
+      C: "32"
+      D: "36"
+    answer: D
+    explanation: "ABPC is a parallelogram whose sides are each half of PQ or PR (midpoint theorem): 9 + 9 + 9 + 9 = 36 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q068
+    difficulty: medium
+    stem: In ΔPQR, PS and PT are bisectors of ∠QPR and ∠QPS respectively. If ∠QPT = 30°, PT = 9 cm and TR = 15 cm, then what is the area (in cm²) of ΔPTR ?
+    options:
+      A: "36"
+      B: "54"
+      C: "72"
+      D: "216"
+    answer: B
+    explanation: ∠QPS = 60°, so ∠QPR = 120° and ∠TPR = 120 − 30 = 90°. Then PR = √(15² − 9²) = 12, and the area is ½ × 9 × 12 = 54 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q069
+    difficulty: medium
+    stem: What is the simplified value of [2/(cot A – tan A)]?
+    options:
+      A: sin A cos A
+      B: tan 2A
+      C: tan² A
+      D: sin² A cos² A
+    answer: B
+    explanation: 2/(cot A − tan A) = 2 sin A cos A/(cos²A − sin²A) = sin 2A/cos 2A = tan 2A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q070
+    difficulty: medium
+    stem: What is the simplified value of √[(cosec A – 1)/(cosec A + 1)]?
+    options:
+      A: cosec A
+      B: sec A – tan A
+      C: cosec ²A
+      D: tan A – cosec A
+    answer: B
+    explanation: (cosec A − 1)/(cosec A + 1) = (1 − sin A)/(1 + sin A). Its square root is (1 − sin A)/cos A = sec A − tan A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q071
+    difficulty: medium
+    stem: What is the simplified value of (sec⁴ A – tan² A) – (tan⁴ A + sec² A)?
+    options:
+      A: –1
+      B: –1/2
+      C: "0"
+      D: "1"
+    answer: C
+    explanation: sec⁴A − tan⁴A = (sec²A + tan²A)(sec²A − tan²A) = sec²A + tan²A. Subtracting (tan²A + sec²A) leaves 0.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q072
+    difficulty: medium
+    stem: |-
+      The bar chart given below shows the sales (in ‘000 units) of 4 mobile brands for 3 years.
+
+      | Year | Brand 1 | Brand 2 | Brand 3 | Brand 4 |
+      |---|---|---|---|---|
+      | 2014 | 4 | 4.5 | 6 | 7.5 |
+      | 2015 | 5.5 | 5 | 6.5 | 8.5 |
+      | 2016 | 7.5 | 6 | 7.5 | 9.5 |
+
+      What is the percentage increase in number of mobile sold by Brand 2 from 2014 to 2015?
+
+      *(Figure: Grouped bar chart: sales (in ’000 units) of Brands 1–4 for 2014, 2015 and 2016, with bar values labelled (transcribed as a table in the stem).)*
+    options:
+      A: "8.33"
+      B: "33.33"
+      C: "37.5"
+      D: "11.11"
+    answer: D
+    explanation: "Brand 2 rose from 4.5 to 5 thousand: 0.5/4.5 × 100 = 11.11%."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q073
+    difficulty: medium
+    stem: |-
+      The bar chart given below shows the sales (in ‘000 units) of 4 mobile brands for 3 years.
+
+      | Year | Brand 1 | Brand 2 | Brand 3 | Brand 4 |
+      |---|---|---|---|---|
+      | 2014 | 4 | 4.5 | 6 | 7.5 |
+      | 2015 | 5.5 | 5 | 6.5 | 8.5 |
+      | 2016 | 7.5 | 6 | 7.5 | 9.5 |
+
+      What is the percentage increase in the total number of mobiles sold by these four brands from 2014 to 2016?
+
+      *(Figure: Same bar chart as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "42.16"
+      B: "38.63"
+      C: "32.43"
+      D: "30.16"
+    answer: B
+    explanation: "The total went from 22 (2014) to 30.5 (2016) thousand: 8.5/22 × 100 = 38.63%."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q074
+    difficulty: medium
+    stem: |-
+      The bar chart given below shows the sales (in ‘000 units) of 4 mobile brands for 3 years.
+
+      | Year | Brand 1 | Brand 2 | Brand 3 | Brand 4 |
+      |---|---|---|---|---|
+      | 2014 | 4 | 4.5 | 6 | 7.5 |
+      | 2015 | 5.5 | 5 | 6.5 | 8.5 |
+      | 2016 | 7.5 | 6 | 7.5 | 9.5 |
+
+      In 2017 the sales of each brand increased by the same percentage as it did in the year 2016. What will be the approximate average sales (in units) of mobiles per brand in year 2017?
+
+      *(Figure: Same bar chart as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: "9175"
+      B: "8360"
+      C: "9436"
+      D: "9678"
+    answer: A
+    explanation: Applying each brand's 2015→2016 growth again gives 10.23 + 7.2 + 8.65 + 10.62 ≈ 36.70 thousand. The average per brand is ≈ 9175 units.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q075
+    difficulty: medium
+    stem: |-
+      The bar chart given below shows the sales (in ‘000 units) of 4 mobile brands for 3 years.
+
+      | Year | Brand 1 | Brand 2 | Brand 3 | Brand 4 |
+      |---|---|---|---|---|
+      | 2014 | 4 | 4.5 | 6 | 7.5 |
+      | 2015 | 5.5 | 5 | 6.5 | 8.5 |
+      | 2016 | 7.5 | 6 | 7.5 | 9.5 |
+
+      If for any year, the sales of a brand is more than average sales of these four brands in that year, then it gets a star. Which brand has the maximum stars?
+
+      *(Figure: Same bar chart as question 72 (transcribed as a table in the stem).)*
+    options:
+      A: Brand 3
+      B: Brand 3 and 4 both
+      C: Brand 4
+      D: All brands
+    answer: C
+    explanation: The yearly averages are 5.5, 6.375 and 7.625. Brand 4 is above average in all three years (3 stars), Brand 3 only in 2014–15 (2 stars).
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q076
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No error'.
+
+      I was taken with surprise (1)/ when I saw (2)/ the beautiful Taj Mahal. (3)/ No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: A
+    explanation: The idiom is 'taken by surprise', not 'taken with surprise', so the error is in part 1.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q077
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No error'.
+
+      I finished my household chores (1)/ before he reached (2)/ to my place after so long. (3)/ No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests C.
+
+      SSC's key marks part 1 (the earlier action needs the past perfect 'had finished'). 'Reach' is also transitive, so 'reached to my place' should be 'reached my place'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q078
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      Being a _____ doctor, he never shirks work.
+    options:
+      A: conscious
+      B: conscience
+      C: conscientious
+      D: consensus
+    answer: C
+    explanation: "'Conscientious' means careful and diligent in one's work, which fits a doctor who never shirks work."
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q079
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      The meeting was presided _____ by the Chairman.
+    options:
+      A: over
+      B: upon
+      C: of
+      D: in
+    answer: A
+    explanation: The phrasal verb is 'preside over'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q080
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Vacillate
+    options:
+      A: Continue
+      B: Playful
+      C: Conclusive
+      D: Irresolute
+    answer: D
+    explanation: Vacillate means to waver between choices; 'irresolute' (undecided) is closest.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q081
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Indomitable
+    options:
+      A: Unconquerable
+      B: Conflicting
+      C: Falsification
+      D: Intermittent
+    answer: A
+    explanation: Indomitable means impossible to defeat, which is 'unconquerable'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q082
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Extenuate
+    options:
+      A: Strengthen
+      B: Enfeeble
+      C: Abate
+      D: Acquit
+    answer: A
+    explanation: Extenuate means to lessen or weaken (an offence's seriousness); the opposite is 'strengthen'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q083
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Fecund
+    options:
+      A: Prolific
+      B: Sterile
+      C: Necessitate
+      D: Turmoil
+    answer: B
+    explanation: Fecund means fertile or productive; the opposite is 'sterile'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q084
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/Phrase. The thin end of the wedge
+    options:
+      A: In strict vigilance
+      B: Start of harmful development
+      C: Be aware of the trick
+      D: Not a worthy possession
+    answer: B
+    explanation: "'The thin end of the wedge' is a small change that is likely to lead to something worse: the start of a harmful development."
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q085
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/Phrase. To accept the gauntlet
+    options:
+      A: To accept challenge
+      B: To accept defeat
+      C: To accept what is written in fate
+      D: To be able to grasp the hidden meaning
+    answer: A
+    explanation: To accept (take up) the gauntlet is to accept a challenge.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q086
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      The (reason of) her outburst in the party is yet unknown.
+    options:
+      A: reason for
+      B: reason to
+      C: reason on
+      D: No improvement
+    answer: A
+    explanation: We speak of the 'reason for' something.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q087
+    difficulty: medium
+    stem: |-
+      Improve the bracketed part of the sentence.
+
+      I left my job because I did not (agree to) the company's appraisal policies.
+    options:
+      A: agree about
+      B: agree with
+      C: agree on
+      D: No improvement
+    answer: B
+    explanation: One agrees 'with' a person or policy, so 'agree with the company's appraisal policies' is correct.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q088
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase. Speaking with a stammer or lisp
+    options:
+      A: Melliloquent
+      B: Dentiloquent
+      C: Fatiloquent
+      D: Stuttering
+    answer: D
+    explanation: To stutter is to speak with involuntary pauses and repeated sounds, so 'Stuttering' is the substitute. Dentiloquent means speaking through the teeth.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q089
+    difficulty: medium
+    stem: In the following question, out of the four alternatives, select the alternative which is the best substitute of the phrase. Excessive desire to work
+    options:
+      A: Ergomania
+      B: Idolomania
+      C: Islomania
+      D: Ethnomania
+    answer: A
+    explanation: Ergomania is an excessive desire to work.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q090
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is incorrectly spelt. Find the incorrectly spelt word.
+    options:
+      A: Pertinacious
+      B: Demarcation
+      C: Temperament
+      D: Sureptitious
+    answer: D
+    explanation: The correct spelling is 'Surreptitious'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q091
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is incorrectly spelt. Find the incorrectly spelt word.
+    options:
+      A: Treachery
+      B: Refrendum
+      C: Suppression
+      D: Resemblance
+    answer: B
+    explanation: The correct spelling is 'Referendum'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q092
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P: While the Soviet Government bought grain and other foreign consumer goods to be sold in domestic markets at heavily subsidized rates, Russia rejected socialism.  
+      Q: The oil industry was the prime target of a sweeping privatization drive launched after the break-up of the Soviet Union.  
+      R: The Russian government has failed to do for its people even a fraction of what the Soviet Union, with twice the population, did with the revenue generated from oil.  
+      S: However, not all Russian have been rolling in oil wealth.
+    options:
+      A: QSRP
+      B: PRQS
+      C: RQSP
+      D: RSPQ
+    answer: A
+    explanation: "Q introduces oil privatisation. S ('However') says not all Russians gained. R compares the government with the Soviet Union, and P ends with how the Soviets used the revenue: QSRP."
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q093
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      P: The recent reduction in interest rates in the US and the injection of liquidity have resulted in investors seeking new avenues such as commodity markets, in view of the turbulence in financial markets and the low returns in treasuries.  
+      Q: The relatively easy liquidity and low interest rates, by themselves, make holding of inventories attractive and thus induce volatility in commodity markets.  
+      R: The financialisation of commodity trade and current extraordinary conditions in global financial markets could have influenced the spurt in prices.  
+      S: The weakening of the US dollar is also advanced as a reason for the recent volatility in commodity markets, including food items.
+    options:
+      A: PRQS
+      B: SPQR
+      C: QSPR
+      D: RPQS
+    answer: D
+    explanation: "R states the claim (financialisation and global conditions drove prices). P and Q give the interest-rate and liquidity reasons, and S adds the weak dollar ('also'): RPQS."
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q094
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Active/Passive voice. Out of four alternatives suggested, select the one which best expresses the same sentence in Passive/Active voice.
+
+      I hope that I shall win this dance competition.
+    options:
+      A: It is hoped that the dance competition will be won by me.
+      B: Winning the dance competition is hoped by me.
+      C: Dance competition winning is my hope.
+      D: The dance competition is hoped to be won.
+    answer: A
+    explanation: The passive of 'I hope that I shall win…' is 'It is hoped that the dance competition will be won by me.'
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q095
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in Indirect/Direct speech.
+
+      He said, "Let it rain I have to go."
+    options:
+      A: He persisted that he did not care for the rain and he had to go.
+      B: He said that rain can't stop him to go out.
+      C: He exclaimed that let it rain but he will go.
+      D: He said that he can't go just because it is raining.
+    answer: A
+    explanation: "'Let it rain' expresses indifference to the rain, so the reported form is 'He persisted that he did not care for the rain and he had to go.'"
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q096
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      India’s motto has been Vasudeva Kutumbakam or that the whole world is _____ community. There are a _____ of pillars upon which India’s policy of living in peace with and _____ peace among nations of the world rests. Policies of non-alignment, peaceful co-existence, economic and cultural cooperation disarmament and peaceful _____ of nuclear energy, _____ of International disputes through negotiations and peaceful means are some of the salient features that give credence to India’s commitment to world peace.
+
+      India's motto has been Vasudeva Kutumbakam or that the whole world is _____ community.
+    options:
+      A: one
+      B: distinct
+      C: essential
+      D: significant
+    answer: A
+    explanation: Vasudhaiva Kutumbakam means the whole world is one family, so the world is 'one' community.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q097
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      India’s motto has been Vasudeva Kutumbakam or that the whole world is _____ community. There are a _____ of pillars upon which India’s policy of living in peace with and _____ peace among nations of the world rests. Policies of non-alignment, peaceful co-existence, economic and cultural cooperation disarmament and peaceful _____ of nuclear energy, _____ of International disputes through negotiations and peaceful means are some of the salient features that give credence to India’s commitment to world peace.
+
+      There are a _____ of pillars upon which India's policy
+    options:
+      A: numerous
+      B: number
+      C: many
+      D: loop
+    answer: B
+    explanation: The phrase is 'a number of pillars'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q098
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      India’s motto has been Vasudeva Kutumbakam or that the whole world is _____ community. There are a _____ of pillars upon which India’s policy of living in peace with and _____ peace among nations of the world rests. Policies of non-alignment, peaceful co-existence, economic and cultural cooperation disarmament and peaceful _____ of nuclear energy, _____ of International disputes through negotiations and peaceful means are some of the salient features that give credence to India’s commitment to world peace.
+
+      of living in peace with and _____ peace among nations of the world rests.
+    options:
+      A: disturbing
+      B: allowing
+      C: generating
+      D: promoting
+    answer: D
+    explanation: India's policy is one of living in peace and 'promoting' peace among nations.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q099
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      India’s motto has been Vasudeva Kutumbakam or that the whole world is _____ community. There are a _____ of pillars upon which India’s policy of living in peace with and _____ peace among nations of the world rests. Policies of non-alignment, peaceful co-existence, economic and cultural cooperation disarmament and peaceful _____ of nuclear energy, _____ of International disputes through negotiations and peaceful means are some of the salient features that give credence to India’s commitment to world peace.
+
+      economic and cultural cooperation disarmament and peaceful _____ of nuclear energy
+    options:
+      A: uses
+      B: disruption
+      C: sources
+      D: negotiation
+    answer: A
+    explanation: The phrase is the 'peaceful uses of nuclear energy'.
+    tags:
+      - english
+  - slug: cgl-2017-08-12-s3-q100
+    difficulty: medium
+    stem: |-
+      In the following passage some of the words have been left out. Read the passage carefully and select the correct answer for the given blank out of the four alternatives.
+
+      India’s motto has been Vasudeva Kutumbakam or that the whole world is _____ community. There are a _____ of pillars upon which India’s policy of living in peace with and _____ peace among nations of the world rests. Policies of non-alignment, peaceful co-existence, economic and cultural cooperation disarmament and peaceful _____ of nuclear energy, _____ of International disputes through negotiations and peaceful means are some of the salient features that give credence to India’s commitment to world peace.
+
+      _____ of International disputes through negotiations and peaceful means are some of the salient features
+    options:
+      A: urge
+      B: requirement
+      C: settlement
+      D: enactment
+    answer: C
+    explanation: International disputes are resolved by 'settlement' through negotiation.
+    tags:
+      - english

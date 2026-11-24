@@ -150,13 +150,13 @@ questions:
 
       **Statements:**
 
-      1. All cars are trucks.
+      1. All cars are trucks.  
       2. Some buses are cars.
 
       **Conclusions:**
 
-      I. All cars are buses.
-      II. Some buses are trucks.
+      I. All cars are buses.  
+      II. Some buses are trucks.  
       III. All trucks are buses.
     options:
       A: Only conclusions II and III follow.
@@ -296,11 +296,11 @@ questions:
     stem: |-
       Arrange the following words in a logical and meaningful order.
 
-      1. Micron
-      2. Metre
-      3. Mile
-      4. Millimetre
-      5. Kilometre
+      1. Micron  
+      2. Metre  
+      3. Mile  
+      4. Millimetre  
+      5. Kilometre  
       6. Centimetre
     options:
       A: 4-6-2-5-3-1
@@ -1163,9 +1163,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
 
-      A. They can then purchase them on subsidized rates with additional loan facilities.
-      B. It will import technologically advanced medical instruments and provide them to entrepreneurs.
-      C. The Indian Government has announced certain facilities in the budget session.
+      A. They can then purchase them on subsidized rates with additional loan facilities.  
+      B. It will import technologically advanced medical instruments and provide them to entrepreneurs.  
+      C. The Indian Government has announced certain facilities in the budget session.  
       D. This will help in strengthening the economic condition of entrepreneurs.
     options:
       A: BDCA
@@ -1358,9 +1358,9 @@ questions:
     stem: |-
       Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
 
-      A. This is because of its aroma, flavour and variety in the market.
-      B. Thus, it leads to poor health and mental disorders among children.
-      C. Children as well as teenagers are tempted towards junk food.
+      A. This is because of its aroma, flavour and variety in the market.  
+      B. Thus, it leads to poor health and mental disorders among children.  
+      C. Children as well as teenagers are tempted towards junk food.  
       D. It has no or negligible nutritional value and high content of sugar and salt.
     options:
       A: BCDA

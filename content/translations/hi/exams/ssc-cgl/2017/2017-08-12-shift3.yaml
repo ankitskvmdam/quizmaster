@@ -1,0 +1,883 @@
+slug: 2017-08-12-shift3
+title: एसएससी सीजीएल 2017 टियर 1
+date: 2017-08-12
+label: 12 Aug, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com - https://docs.aglasem.com/view/713ef3f2-9e8f-11e9-87d2-e470b83c4461). Left out (picture-only options or incomplete in the source): Q8, Q9, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-12-s3-q001
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित शब्द को चुनिए।
+
+      पुस्तक : पन्ने : : महाद्वीप : ?
+    options:
+      A: जल
+      B: जंगल
+      C: देशो
+      D: भूमि
+    answer: C
+    explanation: A book is made up of pages; a continent is made up of countries.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q002
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित अक्षरों को चुनिए।
+
+      JKLM : IIII : : PQRS : ?
+    options:
+      A: PPPP
+      B: OOOO
+      C: TTTT
+      D: OOPP
+    answer: B
+    explanation: "Each letter moves back 1, 2, 3, 4 places: J−1, K−2, L−3, M−4 = IIII. So P−1, Q−2, R−3, S−4 = OOOO."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q003
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से संबंधित संख्या को चुनिए।
+
+      4 : 17 : : 7 : ?
+    options:
+      A: "49"
+      B: "50"
+      C: "51"
+      D: "52"
+    answer: B
+    explanation: "The rule is n² + 1: 4² + 1 = 17, so 7² + 1 = 50."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q004
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द युग्म को चुनिए।
+    options:
+      A: "उदास : आशामय"
+      B: "आनन्दित : अति आनन्दित"
+      C: "ऊँचा : विशाल"
+      D: "पगडंडी : पथमार्ग"
+    answer: A
+    explanation: "Happy : Ecstatic, High : Giant and Trail : Pathway are pairs of similar meaning (or degree). Sad : Hopeful are opposite in sense, so it is the odd pair."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q005
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम अक्षरों को चुनिए।
+    options:
+      A: FHJ
+      B: LNQ
+      C: JLN
+      D: NPR
+    answer: B
+    explanation: FHJ, JLN and NPR step forward by +2, +2. In LNQ the steps are +2, +3, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q006
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम संख्या युग्म को चुनिए।
+    options:
+      A: 11 – 121
+      B: 13 – 169
+      C: 19 – 391
+      D: 21 – 441
+    answer: C
+    explanation: 11² = 121, 13² = 169 and 21² = 441, but 19² = 361, not 391.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में आने वाले क्रम के अनुसार लिखें।
+
+      1. Feeble  
+      2. From  
+      3. Floor  
+      4. Foam  
+      5. Fluorescent
+    options:
+      A: "13542"
+      B: "15342"
+      C: "13524"
+      D: "15324"
+    answer: A
+    explanation: "Dictionary order: Feeble, Floor, Fluorescent, Foam, From = 1, 3, 5, 4, 2."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q010
+    difficulty: medium
+    stem: एक व्यक्ति की और संकेत करते हुए रीतिका ने कहा, ''वह मेरे दादाजी के एकमात्र पुत्र का पुत्र है।'' रीतिका उस व्यक्ति से किस प्रकार संबंधित है?
+    options:
+      A: बुआ
+      B: बहन
+      C: माता
+      D: पत्नी
+    answer: B
+    explanation: The only son of Ritika's grandfather is her father, so the man is her father's son, her brother. Ritika is his sister.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q011
+    difficulty: medium
+    stem: चार पुस्तकों में पुस्तक 1, पुस्तक 2 से दोगुनी भारी है। पुस्तक 3 का भार पुस्तक 2 के भार का आधा है। पुस्तक 4 का भार पुस्तक 2 की तुलना में 60 ग्राम अधिक है लेकिन पुस्तक 1 की तुलना में 60 ग्राम कम है। कौन सी पुस्तक सबसे भारी है?
+    options:
+      A: पुस्तक 1
+      B: पुस्तक 2
+      C: पुस्तक 3
+      D: पुस्तक 4
+    answer: A
+    explanation: Let Book 2 = x. Then Book 1 = 2x and Book 4 = x + 60 = 2x − 60, so x = 120. Book 1 = 240 g is the heaviest.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q012
+    difficulty: medium
+    stem: |-
+      दिए गए प्रश्न में, निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता है।
+
+      Improvement
+    options:
+      A: Rope
+      B: Trim
+      C: Important
+      D: Prove
+    answer: C
+    explanation: IMPROVEMENT has no letter A, so 'Important' cannot be formed. Rope, Trim and Prove can.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q013
+    difficulty: medium
+    stem: एक विशिष्ट कोड भाषा में, "MASTER" को "682145" लिखा जाता है तथा "STAMP" को "21869" लिखा जाता है। इस कोड भाषा में "PASTE" को किस प्रकार लिखा जाएगा?
+    options:
+      A: "82145"
+      B: "98214"
+      C: "69218"
+      D: "95184"
+    answer: B
+    explanation: "From the two codes: M=6, A=8, S=2, T=1, E=4, R=5, P=9. So PASTE = 9 8 2 1 4 = 98214."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q014
+    difficulty: medium
+    stem: |-
+      यदि "K" का अर्थ "गुणा" है, "M" का अर्थ "घटाव" है, "J" का अर्थ "जोड़" है तथा "L" का अर्थ "भाग" है, तो
+
+      44 M 24 K 56 L 14 J 60 = ?
+    options:
+      A: "16"
+      B: "72"
+      C: "8"
+      D: "140"
+    answer: C
+    explanation: "Replacing the letters: 44 − 24 × 56 ÷ 14 + 60 = 44 − 96 + 60 = 8."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q015
+    difficulty: medium
+    stem: यदि 27 (15) 33 तथा 41 (13) 53 हो, तो 26 (A) 35 में, 'A' का मान क्या है?
+    options:
+      A: "16"
+      B: "13"
+      C: "14"
+      D: "11"
+    answer: A
+    explanation: "The middle number is the sum of all the digits: 2+7+3+3 = 15 and 4+1+5+3 = 13. So 2+6+3+5 = 16."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q016
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में दिए गए विकल्पों में से प्रश्न चिन्ह (?) के स्थान पर आने वाली संख्या को चुनिए।
+
+      | 3 | 2 |
+      |---|---|
+      | 5 | 4 |
+      | 1 | 7 |
+
+      | 1 | 2 |
+      |---|---|
+      | 7 | 6 |
+      | 4 | 2 |
+
+      | 2 | 1 |
+      |---|---|
+      | 3 | 11 |
+      | 1 | ? |
+
+      *(चित्र: Three separate 3-row × 2-column number grids printed side by side (transcribed as tables in the stem). The question is printed as an image.)*
+    options:
+      A: "2"
+      B: "4"
+      C: "6"
+      D: "8"
+    answer: B
+    explanation: "In each grid the six numbers add up to 22: 3+2+5+4+1+7 = 22 and 1+2+7+6+4+2 = 22. So 2+1+3+11+1+? = 22, which gives 4."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q017
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में कितने त्रिभुज हैं?
+
+      *(चित्र: A square with both its diagonals drawn. On each of its four sides an isosceles triangle points outward (up, down, left, right), forming a four-pointed star. A vertical line runs from the top apex to the bottom apex and a horizontal line runs from the left apex to the right apex, both through the centre of the square.)*
+    options:
+      A: "28"
+      B: "36"
+      C: "40"
+      D: "48"
+    answer: B
+    explanation: The square with both diagonals and both midlines holds 16 triangles. Each outward triangle adds 5 more (its two halves, itself, and two triangles joining its apex to a corner and the centre), so 16 + 4 × 5 = 36.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q018
+    difficulty: medium
+    stem: |-
+      नीचे दिए गए प्रत्येक प्रश्न में कुछ कथन और उनके बाद उन कथनों पर आधारित कुछ निष्कर्ष दिए गए हैं, हालांकि उनमें सामान्य ज्ञात तथ्यों से भिन्नता हो सकती है। सभी निष्कर्ष पढ़ें और फिर निर्धारित करें कि दिए गए कौन से निष्कर्ष दिए गए कथनों के आधार पर युक्तिसंगत हैं।
+
+      कथनः
+
+      I. कुछ पेन पेसिंल हैं।  
+      II. कुछ पेन रबर हैं।
+
+      निष्कर्षः
+
+      I. कुछ पेसिंल रबर हैं।  
+      II. सभी रबर पेन हैं।
+    options:
+      A: केवल निष्कर्ष (I) सही है।
+      B: केवल निष्कर्ष (II) सही है।
+      C: दोनों ही निष्कर्ष सही है।
+      D: न तो निष्कर्ष (I) न ही निष्कर्ष (II) सही है।
+    answer: D
+    explanation: Two 'some' statements with the middle term 'pens' give no definite link between pencils and erasers, and 'some pens are erasers' does not mean all erasers are pens. Neither conclusion follows.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q019
+    difficulty: medium
+    stem: |-
+      नीचे एक घन की दो अवस्थाएँ दर्शायी गयी है। प्रतीक चिह्न ‘δ’ के विपरीत फलक पर कौन सा प्रतीक चिह्न आयेगा?
+
+      *(चित्र: Two views of a cube. View 1: top δ, front ∞, right α. View 2: top β, front θ, right α.)*
+    options:
+      A: δ
+      B: θ
+      C: β या θ
+      D: β
+    answer: D
+    explanation: α stays on the right in both views, so the cube has only been rolled about the α axis. A roll that brings two new faces (β, θ) to top and front is a half-turn, which puts the old bottom on top. So β is on the face opposite δ.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q020
+    difficulty: medium
+    stem: |-
+      दी गई आकृति में, कितने गत्ते के डिब्बे जो सफेद नहीं हैं?
+
+      *(चित्र: Venn-type figure: a triangle labelled ‘Cardboard / गत्ता’, a circle labelled ‘Box / डिब्बा’ and a rectangle labelled ‘White / सफेद’. Numbers: 12 in triangle only; 6 in triangle and circle only; 4 in circle only; 7 in all three; 10 in circle and rectangle only; 9 in triangle and rectangle only; 5 in rectangle only (left part); 8 in rectangle only (right corner).)*
+    options:
+      A: "6"
+      B: "13"
+      C: "7"
+      D: "9"
+    answer: A
+    explanation: Cardboard boxes are the region shared by the triangle and the circle. The part outside the White rectangle holds 6.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q025
+    difficulty: medium
+    stem: |-
+      एक शब्द केवल एक संख्या-समूह द्वारा दर्शाया गया है, जैसा कि विकल्पों में से किसी एक में दिया गया है। विकल्पों में दिए गए संख्या-समूह अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसा कि दिए गए दो आव्यूहों में है। **आव्यूह-I** के स्तम्भ और पंक्ति की संख्या 0 से 4 है और **आव्यूह-II** की 5 से 9। इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए ‘E’ को 23, 41, आदि द्वारा दर्शाया जा सकता है तथा ‘P’ को 56, 97, आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको प्रश्न में दिए गए शब्द “GREAT” के लिए समूह को पहचानना है।
+
+      आव्यूह-I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | E | R | G | L | O |
+      | 1 | G | L | E | O | R |
+      | 2 | R | O | L | E | G |
+      | 3 | L | G | O | R | E |
+      | 4 | O | E | R | G | L |
+
+      आव्यूह-II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | M | P | S | T | A |
+      | 6 | P | S | T | A | M |
+      | 7 | T | M | A | S | P |
+      | 8 | S | A | M | P | T |
+      | 9 | A | T | P | M | S |
+
+      *(चित्र: Two 5 × 5 letter matrices (transcribed as tables in the stem). The question is printed as an image.)*
+    options:
+      A: 10, 14, 00, 59, 97
+      B: 31, 33, 41, 67, 76
+      C: 43, 01, 23, 95, 89
+      D: 24, 42, 11, 86, 95
+    answer: C
+    explanation: "G = 43, R = 01, E = 23, A = 95, T = 89 are all correct in option C. Every other option has a wrong letter (A: 97 = P; B: 67 = T; D: 11 = L)."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-12-s3-q026
+    difficulty: medium
+    stem: निम्नलिखित में से कौन जी.डी.पी. अपस्फीतिकारक कहलाता है?
+    options:
+      A: अवास्तविक से वास्तविक जी.डी.पी. का अनुपात
+      B: अवास्तविक से वास्तविक जी.एन.पी. का अनुपात
+      C: अवास्तविक से वास्तविक सी.पी.आई. का अनुपात
+      D: वास्तविक से अवास्तविक जी.एन.पी. का अनुपात
+    answer: A
+    explanation: GDP deflator = (Nominal GDP ÷ Real GDP) × 100, the ratio of nominal to real GDP.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q027
+    difficulty: medium
+    stem: कौन सी संस्था नज़र रखती है कि बैंक वास्तव में नकद शेष बनाए हुए है?
+    options:
+      A: भारतीय स्टेट बैंक
+      B: भारतीय रिज़र्व बैंक
+      C: भारतीय ग्रामीण बैंक
+      D: इनमें से कोई नहीं
+    answer: B
+    explanation: The Reserve Bank of India sets and monitors the Cash Reserve Ratio that banks must keep.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q028
+    difficulty: medium
+    stem: निम्नलिखित में से किस देश के पास लिखित संविधान नहीं है?
+    options:
+      A: यूनाइटेड किंगडम
+      B: ऑस्ट्रेलिया
+      C: संयुक्त राज्य अमेरिका
+      D: बांग्लादेश
+    answer: A
+    explanation: The United Kingdom has an uncodified constitution made of statutes, conventions and judicial decisions.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q029
+    difficulty: medium
+    stem: भारतीय संसदीय प्रणाली में, 'खाते पर वोट' की वैधता कितने महीनों तक के लिए होती है (चुनाव के वर्ष को छोड़ कर)?
+    options:
+      A: 2 महीने
+      B: 3 महीने
+      C: 6 महीने
+      D: 9 महीने
+    answer: A
+    explanation: A vote on account lets the government draw money for a short period, normally two months, until the full budget is passed.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q030
+    difficulty: medium
+    stem: तक्षशिला विश्वविद्यालय किन दो नदियों के बीच स्थित थी?
+    options:
+      A: सिंधु तथा झेलम
+      B: झेलम तथा रावी
+      C: व्यास तथा सिंधु
+      D: सतलुज तथा सिंधु
+    answer: A
+    explanation: Takshashila (Taxila) lay in the region between the Indus and the Jhelum rivers.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q031
+    difficulty: medium
+    stem: "'ऋग्वेद' में सबसे प्रमुख देवता कौन है?"
+    options:
+      A: इंद्र
+      B: अग्नि
+      C: पशुपति
+      D: विष्णु
+    answer: A
+    explanation: Indra is the most praised god of the Rig Veda; about 250 hymns are addressed to him.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q032
+    difficulty: medium
+    stem: भारत में बंजर भूमि का सबसे बड़ा हिस्सा किस राज्य का है?
+    options:
+      A: गुजरात
+      B: आंध्र प्रदेश
+      C: मध्य प्रदेश
+      D: राजस्थान
+    answer: D
+    explanation: Rajasthan has the largest area of wasteland of any Indian state, mostly in the Thar desert.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q033
+    difficulty: medium
+    stem: अंडमान तथा निकोबार द्वीप समूह में सबसे ऊँची चोटी कौन सी है?
+    options:
+      A: माउंट कोया
+      B: माउंट दिअवोलो
+      C: सैडल चोटी
+      D: माउंट थुईलर
+    answer: C
+    explanation: Saddle Peak (732 m) on North Andaman is the highest point of the Andaman and Nicobar Islands.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q034
+    difficulty: medium
+    stem: एककोशिकीय जीव कैसे प्रजनन करता है?
+    options:
+      A: कोशिका विभाजन
+      B: कोशिका प्रजनन
+      C: कोशिका संश्लेषण
+      D: विखंडन
+    answer: A
+    explanation: Unicellular organisms reproduce by cell division, for example binary fission in Amoeba.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q035
+    difficulty: medium
+    stem: डी.एन.ए. का असंक्षिप्त रूप क्या है?
+    options:
+      A: डीराइबोन्यूक्लिक अम्ल
+      B: डी न्यूक्लिक अम्ल
+      C: डूअल नाइट्रोजन अम्ल
+      D: डीऑक्सीराइबोन्यूक्लिक अम्ल
+    answer: D
+    explanation: DNA stands for Deoxyribonucleic acid.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q036
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन सा/कौन से हॉर्मोन स्त्रियों में पाया/पाये जाता/जाते है/हैं?
+
+      (i) एस्ट्रोजन  
+      (ii) प्रोजेस्टेरोन  
+      (iii) टेस्टोस्टेरोन
+    options:
+      A: (i) तथा (iii)
+      B: (i) तथा (ii)
+      C: (ii) तथा (iii)
+      D: केवल (iii)
+    answer: B
+    explanation: Estrogen and progesterone are female sex hormones; testosterone is a male hormone.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q037
+    difficulty: medium
+    stem: निम्नलिखित में से किस खेल में खिलाड़ियों के पास पास्कल के नियम का ज्ञान होना आवश्यक है?
+    options:
+      A: चढ़ाई
+      B: पैराग्लाइडिंग
+      C: राफ्टिंग
+      D: स्कूबा डाइविंग
+    answer: D
+    explanation: Scuba divers face pressure that rises with depth and acts in all directions, the idea behind Pascal's law of fluid pressure.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q038
+    difficulty: medium
+    stem: एक सामान्य मनुष्य के लिए सुस्पष्ट दृष्टि की न्यूनतम दूरी (से.मी. में) कितनी होती है?
+    options:
+      A: "2.5"
+      B: "25"
+      C: "58"
+      D: "60"
+    answer: B
+    explanation: The least distance of distinct vision for a normal eye is 25 cm.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q039
+    difficulty: medium
+    stem: आई.एस.डी.एन. का असंक्षिप्त रूप क्या है?
+    options:
+      A: इन्टरनेशनल सर्विस डिजिटल नेटवर्क
+      B: इंडियन सर्विस डिजिटल नेटवर्क
+      C: इंटिग्रेटेड सर्विस डिजिटल नेटवर्क
+      D: इटरनल सर्विस डिजिटल नेटवर्क
+    answer: C
+    explanation: ISDN stands for Integrated Services Digital Network.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q040
+    difficulty: medium
+    stem: निम्नलिखित में से किसे अजीर्ण के इलाज के लिए उपयोग किया जाता है?
+    options:
+      A: एंटासिड
+      B: एंटीसेप्टिक
+      C: एनाल्जेसिक
+      D: एंटीबायोटिक
+    answer: A
+    explanation: Antacids neutralise excess stomach acid and relieve indigestion.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q041
+    difficulty: medium
+    stem: निम्नलिखित में से किसे चादर के आकार में परिवर्तित नहीं किया जा सकता?
+    options:
+      A: सोना
+      B: चाँदी
+      C: पोटैशियम
+      D: ऐल्युमीनियम
+    answer: C
+    explanation: Gold, silver and aluminium are malleable metals. Potassium is a very soft, highly reactive metal and is not beaten into sheets.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q042
+    difficulty: medium
+    stem: मिनामाता रोग एक तंत्रिका विकार है, जो _____ से ग्रसित मछली के सेवन से होता है।
+    options:
+      A: लोह
+      B: पारा
+      C: सीसा
+      D: निकल
+    answer: B
+    explanation: Minamata disease is mercury poisoning, first seen in Minamata, Japan, from eating fish contaminated with methylmercury.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q043
+    difficulty: medium
+    stem: देश के सभी राज्यों में महिला पुलिस स्वयंसेवी योजना के कार्यान्वयन के अंतर्गत, प्रायोगिक तौर पर सर्वप्रथम किस राज्य में शुरू की गई है?
+    options:
+      A: दिल्ली
+      B: गुजरात
+      C: हरियाणा
+      D: राजस्थान
+    answer: C
+    explanation: The Mahila Police Volunteer scheme was first launched as a pilot in Haryana (Karnal and Mahendragarh) in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q044
+    difficulty: medium
+    stem: सेंटीग्रेड माप (स्केल) का आविष्कारक कौन है?
+    options:
+      A: एन्डर्स सेल्सियस
+      B: डैनियल गैब्रियल फारेनहाइट
+      C: विलियम थॉमसन
+      D: राइट ब्रदर्स
+    answer: A
+    explanation: The centigrade scale was devised by the Swedish astronomer Anders Celsius in 1742.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q045
+    difficulty: medium
+    stem: |-
+      निम्नलिखित का मिलान कीजिए।
+
+      | | ट्रॉफी / कप | | खेल |
+      |---|---|---|---|
+      | 1. | ईरानी ट्रॉफी | a. | फुटबॉल |
+      | 2. | संतोष ट्रॉफी | b. | क्रिकेट |
+      | 3. | अज़लान शाह कप | c. | हॉकी |
+
+      *(चित्र: The question is printed as an image of a two-column matching list (transcribed as a table in the stem).)*
+    options:
+      A: 1-b, 2-c, 3-a
+      B: 1-b, 2-a, 3-c
+      C: 1-a, 2-c, 3-b
+      D: 1-a, 2-b, 3-c
+    answer: B
+    explanation: "Irani Trophy is cricket, Santosh Trophy is football and the Azlan Shah Cup is hockey: 1-b, 2-a, 3-c."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q046
+    difficulty: medium
+    stem: तमिलनाडु में जल्लीकट्टू किस त्योहार का एक हिस्सा है?
+    options:
+      A: ओनम
+      B: पोंगल
+      C: नतुनजली
+      D: हम्पी
+    answer: B
+    explanation: Jallikattu, the bull-taming sport of Tamil Nadu, is held during Pongal (Mattu Pongal).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q047
+    difficulty: medium
+    stem: निम्नलिखित में से कौन वर्ष 2016 के मेजर ध्यान चन्द लाईफ टाईम एचिवमेंट अवार्ड का प्राप्तकर्ता नहीं है?
+    options:
+      A: राजेंद्र प्रहलाद शेल्के
+      B: सिल्वानस डंग डंग
+      C: साथी गीता
+      D: अमित कुमार
+    answer: D
+    explanation: The 2016 Dhyan Chand Award went to Satti Geetha, Sylvanus Dung Dung and Rajendra Prahlad Shelke. Amit Kumar was not among them.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q048
+    difficulty: medium
+    stem: 2016 का द हिंदू पुरस्कार जीतने वाली किताब ‘जिन्नाह ऑफन केम टू आवर हाउस’ के लेखक कौन हैं?
+    options:
+      A: किरण दोषी
+      B: सलमान रूश्दी
+      C: के. विजय कुमार
+      D: यासीर उस्मान
+    answer: A
+    explanation: "'Jinnah Often Came to Our House' by Kiran Doshi won The Hindu Prize for fiction in 2016."
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q049
+    difficulty: medium
+    stem: किस देश के साथ भारत ने 5 वर्षों (अर्थात् 2022 तक) के लिए पेट्रोलियम की आपूर्ति के समझौते को नवीनीकृत करने के लिए हस्ताक्षर किया है?
+    options:
+      A: नेपाल
+      B: संयुक्त अरब अमीरात
+      C: ईरान
+      D: भूटान
+    answer: A
+    explanation: In 2017 Indian Oil and Nepal Oil Corporation renewed their petroleum supply agreement for five years, to 2022.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q050
+    difficulty: medium
+    stem: निम्नलिखित में से भारत का कौन सा पड़ोसी देश स्थलसीमा से घिरा हुआ देश नहीं है?
+    options:
+      A: नेपाल
+      B: म्यांमार
+      C: भूटान
+      D: अफ़ग़ानिस्तान
+    answer: B
+    explanation: Myanmar has a long coast on the Bay of Bengal and the Andaman Sea. Nepal, Bhutan and Afghanistan are landlocked.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-12-s3-q051
+    difficulty: medium
+    stem: 300 से 700 तक ऐसी कितनी संख्याएँ है जो 2, 3 तथा 7 से विभाजित होती हैं?
+    options:
+      A: "7"
+      B: "8"
+      C: "9"
+      D: "10"
+    answer: C
+    explanation: "The number must be divisible by LCM(2, 3, 7) = 42. The multiples of 42 from 300 to 700 run from 336 (42×8) to 672 (42×16): 9 numbers."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q052
+    difficulty: medium
+    stem: A तथा B एक कार्य का (3/5) वां भाग करते हैं तथा शेष कार्य C के द्वारा पूरा किया जाता है। यदि A, B तथा C उस कार्य को 5000 रु. में लेते हैं, तो C का हिस्सा (रु. में) क्या है?
+    options:
+      A: "3000"
+      B: "2500"
+      C: "2000"
+      D: "1500"
+    answer: C
+    explanation: C does 1 − 3/5 = 2/5 of the work, so C's share = 2/5 × 5000 = ₹2000.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q053
+    difficulty: medium
+    stem: एक ठोस शंकु जिसकी ऊँचाई 36 से.मी. तथा आधार की त्रिज्या 9 से.मी. है, को पिघलाकर एक 9 से.मी. त्रिज्या तथा 9 से.मी. ऊँचाई का एक ठोस बेलन बनाया जाता है। पूरे प्रकरण में पदार्थ का कितना प्रतिशत व्यर्थ हुआ है?
+    options:
+      A: "25"
+      B: "0"
+      C: "5"
+      D: "10"
+    answer: A
+    explanation: Cone = (1/3)π·81·36 = 972π; cylinder = π·81·9 = 729π. Waste = 243π, which is 243/972 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q054
+    difficulty: medium
+    stem: एक विक्रेता 3840 रु. अंकित मूल्य वाली एक मशीन को 20% की छूट पर बेचता है। मशीन का विक्रय मूल्य (रु. में) क्या है?
+    options:
+      A: "3072"
+      B: "3500"
+      C: "4608"
+      D: "3240"
+    answer: A
+    explanation: SP = 3840 × 0.80 = ₹3072.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q055
+    difficulty: medium
+    stem: 240 रु. प्रति कि.ग्रा. की चाय को 280 रु. प्रति कि.ग्रा. की चाय के साथ किस अनुपात में मिलाया जाए जिससे इस मिश्रण को 324 रु. प्रति कि.ग्रा. का बेचने पर 20% का लाभ हो?
+    options:
+      A: "1 : 1"
+      B: "1 : 2"
+      C: "1 : 3"
+      D: "1 : 4"
+    answer: C
+    explanation: "The cost of the mixture is 324 ÷ 1.2 = ₹270/kg. By alligation the ratio is (280 − 270) : (270 − 240) = 10 : 30 = 1 : 3."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q056
+    difficulty: medium
+    stem: राम तथा रहीम की औसत आयु 18 वर्ष है। रहीम तथा रमेश की औसत आयु 25 वर्ष है। राम तथा रमेश की औसत आयु 29 वर्ष है। तीनों में से सबसे बड़े की आयु (वर्षों में) कितनी है?
+    options:
+      A: "14"
+      B: "22"
+      C: "28"
+      D: "36"
+    answer: D
+    explanation: Pair sums are 36, 50 and 58, so all three add up to 72. Ramesh = 72 − 36 = 36 years, the eldest.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q057
+    difficulty: medium
+    stem: 540 रु. में एक वस्तु को बेचने पर प्राप्त लाभ उस वस्तु को 370 रु. में बेचने पर प्राप्त हानि के बराबर है। यदि विक्रय मूल्य 910 रु. है, तो लाभ प्रतिशत क्या है?
+    options:
+      A: 16 2/3
+      B: 33 1/3
+      C: "50"
+      D: "100"
+    answer: D
+    explanation: CP = (540 + 370) ÷ 2 = ₹455. Selling at ₹910 gives a profit of 455, which is 100%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q058
+    difficulty: medium
+    stem: एक परीक्षा में 65% विद्यार्थी इतिहास में उत्तीर्ण हुए तथा 55% विद्यार्थी हिन्दी में उत्तीर्ण हुए। यदि 5% विद्यार्थी दोनों विषयों में अनुत्तीर्ण हुए हैं, तो दोनों विषयों में उत्तीर्ण होने वाले विद्यार्थियों की प्रतिशत क्या है?
+    options:
+      A: "15"
+      B: "20"
+      C: "25"
+      D: "30"
+    answer: C
+    explanation: 95% passed in at least one subject. Passed both = 65 + 55 − 95 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q059
+    difficulty: medium
+    stem: एक साइकिल के पहिये का व्यास 21 से.मी. है। साइकिल चालक 16.5 कि.मी. प्रति घंटा की गति से एक गंतव्य स्थान तक पहुँचने के लिए 45 मिनट लेता है। यात्रा के दौरान पहिया कितने चक्कर लगाएगा?
+    options:
+      A: "12325"
+      B: "18750"
+      C: "21000"
+      D: "24350"
+    answer: B
+    explanation: Distance = 16.5 km/h × 0.75 h = 12.375 km = 1,237,500 cm. Circumference = 22/7 × 21 = 66 cm, so 1,237,500 ÷ 66 = 18,750 revolutions.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q060
+    difficulty: medium
+    stem: एक व्यक्ति 7900 रु. की कुल राशि को साधारण ब्याज की वार्षिक दर 3%, 5% तथा 8% वाली तीन योजनाओं में निवेश करता है। एक वर्ष के अंत में उसे तीनों योजनाओं से समान ब्याज प्राप्त हुआ। 3% की दर पर उसके द्वारा निवेश की गई राशि (रु. में) कितनी है?
+    options:
+      A: "2900"
+      B: "3500"
+      C: "4000"
+      D: "5600"
+    answer: C
+    explanation: "Equal interest means 3a = 5b = 8c = k, so a : b : c = 1/3 : 1/5 : 1/8 = 40 : 24 : 15. a = 40/79 × 7900 = ₹4000."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q061
+    difficulty: medium
+    stem: यदि x + (1/x) = 2, तो x²¹ + (1/x¹³³¹) का मान क्या होगा?
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: "4"
+    answer: C
+    explanation: x + 1/x = 2 gives x = 1, so the value is 1 + 1 = 2.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q062
+    difficulty: medium
+    stem: यदि x³ – y³ = 81 तथा x – y = 3, तो x² + y² का मान क्या होगा?
+    options:
+      A: "18"
+      B: "21"
+      C: "27"
+      D: "36"
+    answer: B
+    explanation: x³ − y³ = (x − y)(x² + xy + y²), so x² + xy + y² = 27. Also (x − y)² = x² + y² − 2xy = 9. Solving, xy = 6 and x² + y² = 21.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q063
+    difficulty: medium
+    stem: यदि √(5x – 6) + √(5x + 6) = 6, तो x का मान क्या है?
+    options:
+      A: –4
+      B: "0"
+      C: "2"
+      D: "4"
+    answer: C
+    explanation: "At x = 2: √4 + √16 = 2 + 4 = 6."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q064
+    difficulty: medium
+    stem: यदि 2x + 1/(2x) = 2, तो √[2(1/x)⁴ + (1/x)⁵] का मान क्या है?
+    options:
+      A: "1"
+      B: "2"
+      C: "4"
+      D: "8"
+    answer: D
+    explanation: 2x + 1/(2x) = 2 gives 2x = 1, so 1/x = 2. √(2·16 + 32) = √64 = 8.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q065
+    difficulty: medium
+    stem: त्रिभुज ABC की भुजा BC को D तक बढ़ाया गया है। यदि ∠ACD = 114° तथा ∠ABC = (1/2)∠BAC है, तो ∠BAC का मान (डिग्री में) क्या होगा?
+    options:
+      A: "36"
+      B: "48"
+      C: "76"
+      D: "84"
+    answer: C
+    explanation: "The exterior angle equals the sum of the opposite interior angles: 114 = ∠A + ∠A/2, so ∠BAC = 76°."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q066
+    difficulty: medium
+    stem: O वृत्त का केन्द्र है तथा बिंदु P से इस वृत्त पर दो स्पर्श रेखाएँ बिंदु A तथा B पर खींची गई हैं। यदि ∠AOP = 50° है, तो ∠APB का मान (डिग्री में) क्या होगा?
+    options:
+      A: "60"
+      B: "80"
+      C: "90"
+      D: "100"
+    answer: B
+    explanation: OA ⟂ PA, so ∠APO = 90 − 50 = 40°. ∠APB = 2 × 40 = 80°.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q067
+    difficulty: medium
+    stem: ΔPQR में PQ = PR = 18 से.मी. है, AB तथा AC क्रमशः PR तथा PQ के समानांतर है। यदि A, QR का मध्य बिंदु है, तो चतुर्भुज ABPC का परिमाप (से.मी. में) क्या होगा?
+    options:
+      A: "18"
+      B: "28"
+      C: "32"
+      D: "36"
+    answer: D
+    explanation: "ABPC is a parallelogram whose sides are each half of PQ or PR (midpoint theorem): 9 + 9 + 9 + 9 = 36 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q068
+    difficulty: medium
+    stem: ΔPQR में, PS तथा PT क्रमशः ∠QPR तथा ∠QPS के द्विभाजक हैं। यदि ∠QPT = 30°, PT = 9 से.मी. तथा TR = 15 से.मी. है, तो ΔPTR का क्षेत्रफल (से.मी.² में) कितना होगा?
+    options:
+      A: "36"
+      B: "54"
+      C: "72"
+      D: "216"
+    answer: B
+    explanation: ∠QPS = 60°, so ∠QPR = 120° and ∠TPR = 120 − 30 = 90°. Then PR = √(15² − 9²) = 12, and the area is ½ × 9 × 12 = 54 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q069
+    difficulty: medium
+    stem: "[2/(cot A – tan A)] का सरलीकृत मान क्या है?"
+    options:
+      A: sin A cos A
+      B: tan 2A
+      C: tan² A
+      D: sin² A cos² A
+    answer: B
+    explanation: 2/(cot A − tan A) = 2 sin A cos A/(cos²A − sin²A) = sin 2A/cos 2A = tan 2A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q070
+    difficulty: medium
+    stem: √[(cosec A – 1)/(cosec A + 1)] का सरलीकृत मान क्या है?
+    options:
+      A: cosec A
+      B: sec A – tan A
+      C: cosec ²A
+      D: tan A – cosec A
+    answer: B
+    explanation: (cosec A − 1)/(cosec A + 1) = (1 − sin A)/(1 + sin A). Its square root is (1 − sin A)/cos A = sec A − tan A.
+    tags:
+      - quant
+  - slug: cgl-2017-08-12-s3-q071
+    difficulty: medium
+    stem: (sec⁴ A – tan² A) – (tan⁴ A + sec² A) का सरलीकृत मान क्या है?
+    options:
+      A: –1
+      B: –1/2
+      C: "0"
+      D: "1"
+    answer: C
+    explanation: sec⁴A − tan⁴A = (sec²A + tan²A)(sec²A − tan²A) = sec²A + tan²A. Subtracting (tan²A + sec²A) leaves 0.
+    tags:
+      - quant

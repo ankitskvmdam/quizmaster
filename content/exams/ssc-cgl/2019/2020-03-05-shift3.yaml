@@ -1,0 +1,1365 @@
+slug: 2020-03-05-shift3
+title: SSC CGL 2019 Tier 1
+date: 2020-03-05
+label: 5 Mar, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04130001/SSC-CGL-QUESTION-PAPER-05-March-2020-Shift-3-E). Left out (picture-only options or incomplete in the source): Q1, Q17, Q19, Q20, Q23."
+questions:
+  - slug: cgl-2020-03-05-s3-q002
+    difficulty: medium
+    stem: In a certain code language, 'FASTER' is written as 'CDPQHO'. How will 'VIOLIN' be written as in that language?
+    options:
+      A: SLRILK
+      B: SLIRLM
+      C: RLTILK
+      D: SKIRKO
+    answer: A
+    explanation: |-
+      Vowels move 3 letters forward and consonants 3 letters back: F→C, A→D, S→P, T→Q, E→H, R→O.
+      So VIOLIN → S, L, R, I, L, K = SLRILK.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q003
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 42 | 37 | ? |
+      | 18 | 24 | 36 |
+      | 252 | 296 | 540 |
+    options:
+      A: "55"
+      B: "45"
+      C: "50"
+      D: "40"
+    answer: B
+    explanation: "In each column, top × middle ÷ 3 = bottom: 42 × 18/3 = 252, 37 × 24/3 = 296. So ? × 36/3 = 540 gives ? = 45."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q004
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster.
+    options:
+      A: ORUX
+      B: JMPS
+      C: PSVX
+      D: ZCFI
+    answer: C
+    explanation: ORUX, JMPS and ZCFI move +3 at each step. In PSVX the last step V → X is only +2.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q005
+    difficulty: medium
+    stem: |-
+      A + B means ‘A is the mother of B’;
+
+      A − B means ‘A is the brother of B’;
+
+      A × B means ‘A is the father of B’;
+
+      A ÷ B means ‘A is the daughter of B’.
+
+      If, P − K × Y − J ÷ S + R, then which of the following statements is NOT correct?
+    options:
+      A: K is husband of S.
+      B: Y is son of S.
+      C: J is daughter of P.
+      D: P is paternal uncle of R.
+    answer: C
+    explanation: |-
+      P is K's brother; K is Y's father; Y is J's brother; J is S's daughter; S is R's mother. So K and S are a couple with children Y, J and R.
+      J is P's niece, not his daughter, so C is wrong; P is R's paternal uncle.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q006
+    difficulty: medium
+    stem: |-
+      Select the number that can replace the question mark (?) in the following series.
+
+      45, 47, 53, 65, 85, ?
+    options:
+      A: "105"
+      B: "115"
+      C: "130"
+      D: "145"
+    answer: B
+    explanation: The differences are 2, 6, 12, 20, 30 (n² + n), so the next term is 85 + 30 = 115.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q007
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown, the six faces of which are numbered from 1 to 6. Select the number that will be on the face opposite to the one showing ‘6’.
+
+      *(Figure: Three views of one dice (top; front-left; front-right): (4; 1, 3), (6; 2, 1), (3; 1, 2).)*
+    options:
+      A: "2"
+      B: "4"
+      C: "5"
+      D: "3"
+    answer: D
+    explanation: 1 touches 4, 3, 6 and 2, so 1 is opposite 5. 3 touches 4, 1 and 2, so 3 must be opposite 6.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q008
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A large triangle whose apex is joined to a point on the right forming a quadrilateral outline; a vertical line from the apex to the base, three horizontal lines across the left triangle, and a small grid of short vertical and horizontal lines in the lower right part.)*
+    options:
+      A: "27"
+      B: "24"
+      C: "25"
+      D: "26"
+    answer: C
+    explanation: |-
+      From the apex: 3 triangles on each of the top short line, the third line and the base, and 6 on the long line reaching the right corner = 15.
+      Add the right-hand triangle itself (1) and 9 small ones with a vertex at the bottom-right corner: 25.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q009
+    difficulty: medium
+    stem: ‘Criticise’ is related to ‘Condemn’ in the same way as ‘Solidarity’ is related to ‘________’.
+    options:
+      A: Prosperity
+      B: Atrocious
+      C: Guilty
+      D: Unity
+    answer: D
+    explanation: Condemn is close in meaning to criticise; likewise unity is close in meaning to solidarity.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q010
+    difficulty: medium
+    stem: |-
+      Which two signs and two numbers should be interchanged to make the given equation correct?
+
+      28 − 32 ÷ 2 × 8 + 34 = 132
+    options:
+      A: × and − ; 32 and 34
+      B: + and − ; 28 and 32
+      C: × and − ; 8 and 2
+      D: + and − ; 32 and 34
+    answer: D
+    explanation: Swapping + and − and the numbers 32 and 34 gives 28 + 34 ÷ 2 × 8 − 32 = 28 + 136 − 32 = 132.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q011
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      1. No bottle is a pen.  
+      2. All jugs are bottles.
+
+      **Conclusions:**
+
+      I. Some jugs are pens.  
+      II. No jug is pen.  
+      III. Some bottles are jugs.
+    options:
+      A: All conclusions I, II and III follow.
+      B: Either conclusion I or II follows.
+      C: Only conclusions II and III follow.
+      D: Conclusion III and either conclusion I or II follow.
+    answer: C
+    explanation: All jugs are bottles and no bottle is a pen, so no jug is a pen (II), and some bottles are jugs (III). I is false.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q012
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      Player : Team
+    options:
+      A: "Flower : Bouquet"
+      B: "Purpose : Crowd"
+      C: "Ant : Bee"
+      D: "Student : Teacher"
+    answer: A
+    explanation: A player is one unit of a team, as a flower is one unit of a bouquet.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q013
+    difficulty: medium
+    stem: In a class of 100 students, every student has passed in one or more of the three subjects, i.e. History, Economics and English. Among all the students, 24 students have passed in English only, 14 students have passed in History only, 11 students have passed in both English and Economics only, and 12 students have passed in both English and History only. A total of 50 students have passed in History. If only 5 students have passed in all three subjects, then how many students have passed in Economics only?
+    options:
+      A: "18"
+      B: "10"
+      C: "20"
+      D: "15"
+    answer: D
+    explanation: |-
+      History = 14 + 12 + 5 + (History and Economics only) = 50, so that region is 19.
+      Economics only = 100 − (24 + 14 + 11 + 12 + 5 + 19) = 15.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q014
+    difficulty: medium
+    stem: In a certain code language, 'AUSTERE' is coded as '13102595'. How will 'SETTING' be coded as in that language?
+    options:
+      A: "11522867"
+      B: "10522957"
+      C: "11544957"
+      D: "10522948"
+    answer: B
+    explanation: |-
+      Each letter's alphabet position is reduced to its digit sum: A=1, U=21→3, S=19→10, T=20→2, E=5, R=18→9.
+      SETTING = 10, 5, 2, 2, 9, 14→5, 7 = 10522957.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q015
+    difficulty: medium
+    stem: |-
+      Select the letter that can replace the question mark (?) in the following series.
+
+      A, T, E, U, I, V, O, W, ? , X
+    options:
+      A: R
+      B: U
+      C: M
+      D: Z
+    answer: B
+    explanation: "Two alternating series: the vowels A, E, I, O, U and the letters T, U, V, W, X. The missing term is U."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q016
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the odd word.
+    options:
+      A: Pancreas
+      B: Kidney
+      C: Renin
+      D: Liver
+    answer: C
+    explanation: Pancreas, kidney and liver are organs; renin is an enzyme (secreted by the kidney).
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q018
+    difficulty: medium
+    stem: |-
+      Select the option in which the numbers are related in the same way as are the numbers in the given set.
+
+      (8, 7, 407)
+    options:
+      A: (12, 8, 555)
+      B: (10, 8, 576)
+      C: (11, 12, 450)
+      D: (9, 6, 297)
+    answer: D
+    explanation: 407 = 7³ + 8² (343 + 64). Likewise 297 = 6³ + 9² (216 + 81).
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q021
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different from the rest.
+    options:
+      A: "4209 : 15"
+      B: "7456 : 22"
+      C: "5121 : 12"
+      D: "8101 : 10"
+    answer: C
+    explanation: "The second number is the sum of the digits: 4+2+0+9 = 15, 7+4+5+6 = 22, 8+1+0+1 = 10. But 5+1+2+1 = 9, not 12."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q022
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      13 : 109 :: 24 : ?
+    options:
+      A: "194"
+      B: "201"
+      C: "216"
+      D: "197"
+    answer: D
+    explanation: 109 = 13 × 8 + 5, so 24 × 8 + 5 = 197.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q024
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster that can replace the question mark (?) in the following series.
+
+      TULG, WRPC, ZOTY, CLXU, ?
+    options:
+      A: FIBQ
+      B: FICR
+      C: FJCQ
+      D: GIAQ
+    answer: A
+    explanation: "Letter positions change by +3, −3, +4 and −4: T→W→Z→C→F, U→R→O→L→I, L→P→T→X→B, G→C→Y→U→Q. Next: FIBQ."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q025
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Colonel  
+      2. Field Marshal  
+      3. Brigadier  
+      4. Lieutenant  
+      5. General
+    options:
+      A: 1, 2, 3, 5, 4
+      B: 2, 5, 3, 1, 4
+      C: 2, 5, 1, 4, 3
+      D: 3, 5, 2, 4, 1
+    answer: B
+    explanation: "Army ranks from highest to lowest: Field Marshal, General, Brigadier, Colonel, Lieutenant = 2, 5, 3, 1, 4."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-05-s3-q026
+    difficulty: medium
+    stem: In which of the following cities is the tomb of Rani of Jhansi situated?
+    options:
+      A: Gwalior
+      B: Jabalpur
+      C: Indore
+      D: Ujjain
+    answer: A
+    explanation: Rani Lakshmibai of Jhansi died fighting near Gwalior in 1858; her samadhi (memorial tomb) is in Gwalior.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q027
+    difficulty: medium
+    stem: In which of the following states was the 12th naval exercise ‘Naseem-Al-Bahr’ between India and Oman held?
+    options:
+      A: Goa
+      B: Gujarat
+      C: Kerala
+      D: Tamilnadu
+    answer: A
+    explanation: The 12th edition of the India-Oman naval exercise Naseem-Al-Bahr was held off Goa in January 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q028
+    difficulty: medium
+    stem: Which of the following is used as a substitute of mercury in thermometers?
+    options:
+      A: Arsenic
+      B: Galinstan
+      C: Selenium
+      D: Bromine
+    answer: B
+    explanation: Galinstan, an alloy of gallium, indium and tin that is liquid at room temperature, replaces mercury in many thermometers.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q029
+    difficulty: medium
+    stem: In memory of whom is the Madhavpur Mela of Gujarat celebrated?
+    options:
+      A: Lord Shiva and Parvati
+      B: Lord Krishna and Rukmini
+      C: Lord Krishna and Radha
+      D: Lord Krishna and Draupadi
+    answer: B
+    explanation: The Madhavpur Ghed fair in Porbandar district celebrates the wedding of Lord Krishna and Rukmini.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q030
+    difficulty: medium
+    stem: Berach River, a southern-side tributary of Banas River, originates from the hills in which of the following districts of Rajasthan?
+    options:
+      A: Bharatpur
+      B: Jaisalmer
+      C: Bikaner
+      D: Udaipur
+    answer: D
+    explanation: The Berach river rises in the hills near Gogunda in Udaipur district and joins the Banas.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q031
+    difficulty: medium
+    stem: According to data available as of 2019, how many national parks are situated in India?
+    options:
+      A: "140"
+      B: "115"
+      C: "104"
+      D: "131"
+    answer: C
+    explanation: India had 104 national parks in 2019 (ENVIS / Wildlife Institute of India data).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q032
+    difficulty: medium
+    stem: Who among the following is the chairman of the 15th Finance Commission of India?
+    options:
+      A: Ramesh Chand
+      B: Subhash Chandra Garg
+      C: NK Singh
+      D: Arvind Mehta
+    answer: C
+    explanation: N K Singh chaired the 15th Finance Commission, set up in November 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q033
+    difficulty: medium
+    stem: Who was honoured with the 1st recipient of the Muppavarapu National Award for Social Service at Hyderabad on 9th January 2020?
+    options:
+      A: Dr. Gutta Muniratnam
+      B: Dr. Mankombu Sambasivan Swaminathan
+      C: Chandra Pal Singh Yadav
+      D: Uttam Prakash Agarwal
+    answer: B
+    explanation: Agricultural scientist M S Swaminathan was the first recipient of the Muppavarapu National Award, presented in Hyderabad in January 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q034
+    difficulty: medium
+    stem: Which of the following Viceroys of India addressed the Bengal famine of 1943 by ordering the army to distribute relief supplies to the starving rural Bengalis?
+    options:
+      A: Lord Mountbatten
+      B: Lord Wavell
+      C: Lord Willington
+      D: Lord Linlithgow
+    answer: D
+    explanation: |-
+      **Disputed.** SSC's answer is D; our check suggests B.
+
+      In October 1943 Lord Linlithgow was replaced as Viceroy. His successor, Lord Wavell, had the army move and distribute relief supplies, which helped ease the famine.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q035
+    difficulty: medium
+    stem: Which of the following authorities launched PPRTMS (Political Parties Registration Tracking Management System)?
+    options:
+      A: National Human Rights Commission
+      B: The Supreme Court
+      C: The Union Public Service Commission
+      D: Election Commission of India
+    answer: D
+    explanation: The Election Commission of India launched PPRTMS so that applicants can track the status of a political party's registration online.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q036
+    difficulty: medium
+    stem: Who among the following scientists invented the Cotton Gin?
+    options:
+      A: Sonny Perdue
+      B: Norman Borlaugh
+      C: Eli Whitney
+      D: George Washington Carver
+    answer: C
+    explanation: Eli Whitney invented the cotton gin in 1793; it separates cotton fibre from seeds.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q037
+    difficulty: medium
+    stem: Which of the following academies organise the Tansen Sangeet Samaroh in Gwalior?
+    options:
+      A: Ravindra Jain Sangeet Academy
+      B: Renuka Sangeet Academy
+      C: Muntirama Sangeet Academy
+      D: Ustad Alauddin Khan Kala Evam Sangeet Academy
+    answer: D
+    explanation: The Tansen Sangeet Samaroh in Gwalior is organised by the Ustad Alauddin Khan Sangeet Evam Kala Academy of the Madhya Pradesh government.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q038
+    difficulty: medium
+    stem: Who among the following Indian weightlifters has been banned for four years by NADA after being found guilty of a doping violation during the 34th Women Senior National Weightlifting Championship held at Vishakhapatnam?
+    options:
+      A: Satheesha Rai
+      B: Seema
+      C: Sarbjeet Kaur
+      D: Sanamacha Thingbaijani Chanu
+    answer: C
+    explanation: Weightlifter Sarbjeet Kaur was banned for four years by NADA after failing a dope test at the 34th Women Senior National Weightlifting Championship in Visakhapatnam.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q039
+    difficulty: medium
+    stem: The International Naval event 'Milan' is scheduled to be held in ______ in March 2020.
+    options:
+      A: Visakhapatnam
+      B: Kochi
+      C: Mumbai
+      D: Kolkata
+    answer: A
+    explanation: MILAN 2020 was scheduled for Visakhapatnam in March 2020 (it was later postponed because of COVID-19).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q040
+    difficulty: medium
+    stem: What is the ranking of India in the World Economic Forums (WEF)’s World Travel, Tourism Competitiveness Index for the year 2019?
+    options:
+      A: "31"
+      B: "37"
+      C: "39"
+      D: "34"
+    answer: D
+    explanation: India was ranked 34th in the WEF Travel and Tourism Competitiveness Report 2019, up from 40th in 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q041
+    difficulty: medium
+    stem: Which of the following acids is NOT present in grapes?
+    options:
+      A: Malic acid
+      B: Acetic acid
+      C: Tartaric acid
+      D: Citric acid
+    answer: B
+    explanation: Grapes contain tartaric, malic and some citric acid; acetic acid (the acid in vinegar) is not a natural grape acid.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q042
+    difficulty: medium
+    stem: Who among the following founded the Bombay Stock Exchange?
+    options:
+      A: Ashiskumar Chauhan
+      B: Roychand Deepchand
+      C: Premchand Roychand
+      D: Vikramjit Sen
+    answer: C
+    explanation: Premchand Roychand, a Mumbai stockbroker, founded the Native Share and Stock Brokers Association in 1875, which became the Bombay Stock Exchange.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q043
+    difficulty: medium
+    stem: Which of the following is also known as Epsom salt?
+    options:
+      A: Sodium Sulphate
+      B: Magnesium Sulphate
+      C: Calcium Sulphate
+      D: Ferrous Sulphate
+    answer: B
+    explanation: Epsom salt is magnesium sulphate heptahydrate (MgSO₄·7H₂O).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q044
+    difficulty: medium
+    stem: How many national highways were merged to form National Highway 44 (NH 44)?
+    options:
+      A: "7"
+      B: "4"
+      C: "6"
+      D: "5"
+    answer: A
+    explanation: NH 44, from Srinagar to Kanyakumari, was formed in 2010 by merging seven older national highways.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q045
+    difficulty: medium
+    stem: Who among the following conceived the Kakori train robbery in 1925?
+    options:
+      A: Baikuntha Shukla
+      B: Manmath Nath Gupta and Matangini Hazra
+      C: Ram Prasad Bismil and Ashfaqullah Khan
+      D: Ubaidullah Sindhi
+    answer: C
+    explanation: The Kakori train robbery of August 1925 was planned by Ram Prasad Bismil and Ashfaqulla Khan of the Hindustan Republican Association.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q046
+    difficulty: medium
+    stem: In which of the following years was the Congress Socialist Party (CSP) founded?
+    options:
+      A: "1934"
+      B: "1914"
+      C: "1943"
+      D: "1924"
+    answer: A
+    explanation: The Congress Socialist Party was founded in 1934 by Jayaprakash Narayan, Acharya Narendra Dev and others.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q047
+    difficulty: medium
+    stem: Under which Article of the Indian Constitution are special provisions provided to language spoken in a section of the population?
+    options:
+      A: Article 347
+      B: Article 357
+      C: Article 337
+      D: Article 374
+    answer: A
+    explanation: Article 347 lets the President recognise a language spoken by a substantial section of a state's population.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q048
+    difficulty: medium
+    stem: Who among the following has been appointed as Director of National Book Trust on 11th January 2020?
+    options:
+      A: Gobinde Prashad Sharma
+      B: Leela Samson
+      C: Lt Col Yuvraj Malik
+      D: Rita Chowdhury
+    answer: C
+    explanation: Lt Col Yuvraj Malik was appointed Director of the National Book Trust in January 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q049
+    difficulty: medium
+    stem: Which of the following is used to control pest fish?
+    options:
+      A: Predacides
+      B: Ovicides
+      C: Herbicides
+      D: Piscicides
+    answer: D
+    explanation: Piscicides are chemicals that kill fish, used to remove unwanted or pest fish.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q050
+    difficulty: medium
+    stem: Which of the following companies has roped in cricketer Harbhajan Singh as its brand ambassador in 2019?
+    options:
+      A: Brune & Bareskin
+      B: PUMA
+      C: Reebok
+      D: TAFE
+    answer: A
+    explanation: In 2019 the grooming brand Brune & Bareskin signed cricketer Harbhajan Singh as its brand ambassador.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-05-s3-q051
+    difficulty: medium
+    stem: |-
+      In the given figure, if ∠KLN = 58°, then ∠KMN = ?
+
+      *(Figure: A circle with points L (top), M (upper right), N (right) and K (lower left) on it; chords LK, LN, KM and MN are drawn.)*
+    options:
+      A: 42°
+      B: 32°
+      C: 58°
+      D: 26°
+    answer: C
+    explanation: "∠KLN and ∠KMN stand on the same arc KN and lie in the same segment, so they are equal: 58°."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q052
+    difficulty: medium
+    stem: "If x − 1/x = 11, then x³ − 1/x³ is:"
+    options:
+      A: "1474"
+      B: "1188"
+      C: "1364"
+      D: "1298"
+    answer: C
+    explanation: x³ − 1/x³ = (x − 1/x)³ + 3(x − 1/x) = 1331 + 33 = 1364.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q053
+    difficulty: medium
+    stem: The distance between two stations, A and B, is 428 km. A train starts from station ‘A’ at 6:00 a.m. and moves towards station ‘B’ at an average speed of 48 km/h. Another train starts from station ‘B’ at 6:20 a.m. and moves towards station ‘A’ at an average speed of 55 km/h. At what time will the trains meet?
+    options:
+      A: 10:00 a.m.
+      B: 10:40 a.m.
+      C: 9:40 a.m.
+      D: 10:20 a.m.
+    answer: D
+    explanation: "By 6:20 the first train has covered 16 km, leaving 412 km. They close at 48 + 55 = 103 km/h, taking 4 hours: 10:20 a.m."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q054
+    difficulty: medium
+    stem: "A certain amount is divided among Sunita, Amit and Vibha in the ratio of 2 : 3 : 4. If Vibha gets ₹14,416, then the total amount is:"
+    options:
+      A: ₹16,219
+      B: ₹32,436
+      C: ₹3,604
+      D: ₹43,248
+    answer: B
+    explanation: Vibha's 4 parts = 14,416, so 1 part = 3,604 and the total (9 parts) = ₹32,436.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q055
+    difficulty: medium
+    stem: (a + b + c − d)² − (a − b − c + d)² = ?
+    options:
+      A: 2a(b + c + d)
+      B: 4a(b + c − d)
+      C: 2a(b + c − d)
+      D: 4a(b + c + d)
+    answer: B
+    explanation: With X = a + (b + c − d) and Y = a − (b + c − d), X² − Y² = (X + Y)(X − Y) = 2a × 2(b + c − d) = 4a(b + c − d).
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q056
+    difficulty: medium
+    stem: |-
+      In the given figure, if DE ∥ BC, AD = 2.5 cm, DB = 3.5 cm and EC = 4.2 cm, then the measure of AC is:
+
+      *(Figure: Triangle ABC with A at the top; D on AB and E on AC, with DE parallel to BC (arrows on DE and BC).)*
+    options:
+      A: 7.2 cm
+      B: 3.2 cm
+      C: 7.4 cm
+      D: 3 cm
+    answer: A
+    explanation: By the basic proportionality theorem, AD/DB = AE/EC, so AE = 2.5/3.5 × 4.2 = 3 cm and AC = 3 + 4.2 = 7.2 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q057
+    difficulty: medium
+    stem: |-
+      The following table shows the number of students enrolled in different faculties in a college.
+
+      | Science Girls | Science Boys | Arts Girls | Arts Boys | Commerce Girls | Commerce Boys | Vocational Girls | Vocational Boys |
+      |---|---|---|---|---|---|---|---|
+      | 32 | 18 | 28 | 45 | 42 | 42 | 13 | 30 |
+
+      The percentage of students studying in faculties other than Science is:
+    options:
+      A: 80%
+      B: 60%
+      C: 20%
+      D: 75%
+    answer: A
+    explanation: Total students = 250 and Science has 32 + 18 = 50. Others = 200/250 = 80%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q058
+    difficulty: medium
+    stem: "The perimeter of a square is 64 cm. Its area will be:"
+    options:
+      A: 128 cm²
+      B: 256 cm²
+      C: 32 cm²
+      D: 8 cm²
+    answer: B
+    explanation: Side = 64/4 = 16 cm, so area = 16² = 256 cm².
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q059
+    difficulty: medium
+    stem: "If angles of a triangle are in the ratio of 2 : 3 : 4, then the measure of the smallest angle is:"
+    options:
+      A: 20°
+      B: 30°
+      C: 40°
+      D: 50°
+    answer: C
+    explanation: The angles are 2k, 3k and 4k with 9k = 180°, so k = 20° and the smallest angle is 40°.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q060
+    difficulty: medium
+    stem: |-
+      The following table shows the income (in rupees) for a particular month, together with their source, in respect of 5 employees (A, B, C, D and E).
+
+      | | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Salary | 52,000 | 48,500 | 42,000 | 31,000 | 25,000 |
+      | Overtime | 0 | 0 | 1,500 | 2,500 | 3,200 |
+      | Arrears | 5,500 | 4,500 | 4,000 | 3,000 | 1,500 |
+      | Bonus | 3,500 | 3,000 | 2,500 | 2,000 | 2,000 |
+      | Miscellaneous income | 5,000 | 3,000 | 2,000 | 1,500 | 0 |
+      | Total | 66,000 | 59,000 | 52,000 | 40,000 | 31,700 |
+
+      How many employees got more arrears than the average arrears received by all the employees?
+    options:
+      A: "2"
+      B: "3"
+      C: "1"
+      D: "4"
+    answer: B
+    explanation: "Average arrears = (5500 + 4500 + 4000 + 3000 + 1500)/5 = 3700. A, B and C get more: 3 employees."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q061
+    difficulty: medium
+    stem: "The value of −1 + 1/4 ÷ 1/2 × 2 + 5 is:"
+    options:
+      A: "5"
+      B: "2"
+      C: 17/4
+      D: −7/2
+    answer: A
+    explanation: "By BODMAS: 1/4 ÷ 1/2 = 1/2, × 2 = 1. So −1 + 1 + 5 = 5."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q062
+    difficulty: medium
+    stem: Sixteen men can finish a work in 8 days. Eight men and nine women working together can finish the same work in 10 days. In how many days will twenty women finish the same work?
+    options:
+      A: "12"
+      B: "9"
+      C: "11"
+      D: "13"
+    answer: A
+    explanation: |-
+      Work = 16 × 8 = 128 man-days. 8 men in 10 days do 80, so 9 women in 10 days do 48 and 1 woman = 8/15 man.
+      20 women = 32/3 men, taking 128 ÷ 32/3 = 12 days.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q063
+    difficulty: medium
+    stem: "The value of √(tan²60° + sin90°) − 2 tan 45° is:"
+    options:
+      A: "2"
+      B: "4"
+      C: "0"
+      D: "1"
+    answer: C
+    explanation: √(3 + 1) − 2 × 1 = 2 − 2 = 0.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q064
+    difficulty: medium
+    stem: "The value of cos0°cos30°cos45°cos60°cos90° is:"
+    options:
+      A: √6/8
+      B: "5"
+      C: "0"
+      D: "3"
+    answer: C
+    explanation: cos 90° = 0, so the whole product is 0.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q065
+    difficulty: medium
+    stem: "The greatest number which should be replace ‘*’ in the number 146*48 to make it divisible by 8 is:"
+    options:
+      A: "2"
+      B: "0"
+      C: "9"
+      D: "8"
+    answer: D
+    explanation: The last three digits *48 must be divisible by 8; 100 × * + 48 works when * is even. The greatest digit is 8 (848 = 8 × 106).
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q066
+    difficulty: medium
+    stem: "A certain amount of money at compound interest grows to ₹66,550 in 3 years and ₹73,205 in 4 years. The rate per cent per annum is:"
+    options:
+      A: 10%
+      B: 5%
+      C: 9%
+      D: 11%
+    answer: A
+    explanation: "One year's growth: 73,205/66,550 = 1.1, so the rate is 10% a year."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q067
+    difficulty: medium
+    stem: |-
+      The heights of some girls in a school were noted and the data obtained are as shown in the table.
+
+      | Height (in cm) | 125 - 130 | 130 - 135 | 135 - 140 | 140 - 145 | 145 - 150 | 150 - 155 |
+      |---|---|---|---|---|---|---|
+      | Number of girls | 12 | 16 | 20 | 29 | 15 | 8 |
+
+      How many girls have a height of 135 cm or more but less than 150 cm?
+    options:
+      A: "35"
+      B: "88"
+      C: "64"
+      D: "80"
+    answer: C
+    explanation: "Classes 135-140, 140-145 and 145-150: 20 + 29 + 15 = 64."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q068
+    difficulty: medium
+    stem: If tanθ − cotθ = cosecθ, 0° < θ < 90°, then what is the value of (2tanθ − cosθ)/(√3cotθ + secθ)?
+    options:
+      A: 2(2√3 − 1)/3
+      B: (4√3 − 1)/6
+      C: (3√3 − 1)/6
+      D: (2√3 − 1)/3
+    answer: B
+    explanation: |-
+      tanθ − cotθ = cosecθ gives sin²θ − cos²θ = cosθ, i.e. 2cos²θ + cosθ − 1 = 0, so cosθ = 1/2 and θ = 60°.
+      Value = (2√3 − 1/2)/(1 + 2) = (4√3 − 1)/6.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q069
+    difficulty: medium
+    stem: "The average height of 5 boys is 175 cm. A sixth boy joined the group and the average height of all the boys in the group now increased by one centimetre. The height of the sixth boy is:"
+    options:
+      A: 180 cm
+      B: 181 cm
+      C: 179 cm
+      D: 175 cm
+    answer: B
+    explanation: Sixth boy = 6 × 176 − 5 × 175 = 1056 − 875 = 181 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q070
+    difficulty: medium
+    stem: |-
+      The following table shows the monthly salaries (in ₹ ) of 50 families.
+
+      | Salary (in ₹) | 25,000 - 30,000 | 30,000 - 35,000 | 35,000 - 40,000 | 40,000 - 45,000 | 45,000 - 50,000 |
+      |---|---|---|---|---|---|
+      | Number of families | 6 | 12 | 9 | 19 | 4 |
+
+      How many families have a monthly salary less than ₹40,000?
+    options:
+      A: "46"
+      B: "9"
+      C: "18"
+      D: "27"
+    answer: D
+    explanation: "Salaries below ₹40,000: 6 + 12 + 9 = 27 families."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q071
+    difficulty: medium
+    stem: "The coefficient of x² in (2x + y)³ is:"
+    options:
+      A: 12y²
+      B: 12y
+      C: "8"
+      D: "12"
+    answer: B
+    explanation: The x² term of (2x + y)³ is 3(2x)²y = 12x²y, so its coefficient is 12y.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q072
+    difficulty: medium
+    stem: The price of sugar is increased by 20%. By what percentage must one cut down on the consumption of sugar, so that no extra amount has to be incurred on sugar?
+    options:
+      A: 16 2/3%
+      B: 20%
+      C: 83 1/3%
+      D: 80%
+    answer: A
+    explanation: Cut = 20/(100 + 20) × 100 = 16 2/3%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q073
+    difficulty: medium
+    stem: |-
+      In the figure, Two circles with centres P and Q touch externally at R. Tangents AT and BT meet the common tangent TR at T. If AP = 6 cm and PT = 10 cm, then BT = ?
+
+      *(Figure: Two circles (centres P and Q) touching at R; from a point T above, tangent TA touches the left circle at A, tangent TB touches the right circle at B, and TR is the common tangent; P is joined to A and T.)*
+    options:
+      A: 8 cm
+      B: 10 cm
+      C: 6 cm
+      D: 12 cm
+    answer: A
+    explanation: "TA = √(PT² − AP²) = √(100 − 36) = 8 cm. Tangents from T are equal: TA = TR = TB = 8 cm."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q074
+    difficulty: medium
+    stem: A furniture shopkeeper allows a discount of 16% on the marked price on the goods to his customers and still gains 20%. What is the marked price of a dining table, which costs the shopkeeper ₹11,900?
+    options:
+      A: ₹12,376
+      B: ₹15,000
+      C: ₹17,000
+      D: ₹16,000
+    answer: C
+    explanation: "SP = 1.2 × 11,900 = 14,280, which is 84% of the marked price: MP = 14,280/0.84 = ₹17,000."
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q075
+    difficulty: medium
+    stem: Sudhir purchased a laptop for ₹42,000 and a scanner-cum-printer for ₹8,000. He sold the laptop for a 10% profit and the scanner-cum-printer for a 5% profit. What is his profit percentage?
+    options:
+      A: 7 1/2%
+      B: 9 1/5%
+      C: 15%
+      D: 9 2/5%
+    answer: B
+    explanation: Profit = 4,200 + 400 = 4,600 on a cost of 50,000 = 9.2% = 9 1/5%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-05-s3-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word to fill in the blank.
+
+      Health should be our first priority and should never be ______.
+    options:
+      A: declined
+      B: suspended
+      C: discarded
+      D: neglected
+    answer: D
+    explanation: Health should never be neglected (ignored or not cared for).
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word to fill in the blank.
+
+      A colour blind person is not able to ______ between colours.
+    options:
+      A: define
+      B: glance
+      C: observe
+      D: distinguish
+    answer: D
+    explanation: "'Distinguish between' is the correct collocation: a colour-blind person cannot tell colours apart."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q078
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      Lucy has already cut the cake when we reached the party hall.
+    options:
+      A: Lucy has already
+      B: the party hall
+      C: when we reached
+      D: cut the cake
+    answer: D
+    explanation: |-
+      **Disputed.** SSC's answer is D; our check suggests A.
+
+      The cutting happened before 'we reached' (past), so the past perfect 'had already cut' is needed instead of 'has already cut'.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q079
+    difficulty: medium
+    stem: |-
+      Select the passive form of the given sentence.
+
+      People claim to have seen the wild and mad elephant in several cities.
+    options:
+      A: The wild and mad elephant was claimed to be seen by people in several cities.
+      B: The wild and mad elephant is claimed to have been seen in several cities.
+      C: The wild and mad elephant is being claimed to be seen in several cities.
+      D: The wild and mad elephant has been claimed to be seen by the people in several cities.
+    answer: B
+    explanation: "'People claim to have seen X' becomes 'X is claimed to have been seen': present 'claim' → 'is claimed', perfect infinitive 'to have seen' → 'to have been seen'."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      I wish **if I was the** Principal of my school.
+    options:
+      A: I were
+      B: No improvement
+      C: that I am
+      D: If I had been
+    answer: A
+    explanation: "An unreal wish takes the subjunctive without 'if': 'I wish I were the Principal'."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q081
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. There are many gadgets that are operated by a remote control and contain a silicon chip.  
+      B. This produces an infra-red beam, made up of electromagnetic waves.  
+      C. When a button is pressed on the remote control, the chip sets off an electronic vibration.  
+      D. The beam carries a coded signal for operating the systems.
+    options:
+      A: ACDB
+      B: ACBD
+      C: BACD
+      D: ADCB
+    answer: B
+    explanation: "A introduces remote-controlled gadgets with a chip, C says pressing a button sets off a vibration, B says this produces an infra-red beam, and D says what the beam carries: ACBD."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q082
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Corruption is one of the (1)______ problems of our country. It is an act done with (2)______ to gain some undue advantages, inconsistent with official duty. Government has (3)______ many schemes for the welfare of the people but corruption seems impossible to be (4)______ India can become a corruption-free nation only when all the citizens (5)______ rules and regulations with a strong will power and cooperate whole heartedly.
+
+      Select the most appropriate option for blank No. 1.
+    options:
+      A: powerful
+      B: major
+      C: strong
+      D: minor
+    answer: B
+    explanation: Corruption is one of the major (main, serious) problems of the country.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q083
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Corruption is one of the (1)______ problems of our country. It is an act done with (2)______ to gain some undue advantages, inconsistent with official duty. Government has (3)______ many schemes for the welfare of the people but corruption seems impossible to be (4)______ India can become a corruption-free nation only when all the citizens (5)______ rules and regulations with a strong will power and cooperate whole heartedly.
+
+      Select the most appropriate option for blank No. 2.
+    options:
+      A: intention
+      B: passion
+      C: compulsion
+      D: intuition
+    answer: A
+    explanation: A corrupt act is done with the intention of gaining undue advantage.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q084
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Corruption is one of the (1)______ problems of our country. It is an act done with (2)______ to gain some undue advantages, inconsistent with official duty. Government has (3)______ many schemes for the welfare of the people but corruption seems impossible to be (4)______ India can become a corruption-free nation only when all the citizens (5)______ rules and regulations with a strong will power and cooperate whole heartedly.
+
+      Select the most appropriate option for blank No. 3.
+    options:
+      A: denounced
+      B: announced
+      C: written
+      D: concealed
+    answer: B
+    explanation: The government has announced (declared) many welfare schemes.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q085
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Corruption is one of the (1)______ problems of our country. It is an act done with (2)______ to gain some undue advantages, inconsistent with official duty. Government has (3)______ many schemes for the welfare of the people but corruption seems impossible to be (4)______ India can become a corruption-free nation only when all the citizens (5)______ rules and regulations with a strong will power and cooperate whole heartedly.
+
+      Select the most appropriate option for blank No. 4.
+    options:
+      A: eliminated
+      B: initiated
+      C: created
+      D: permitted
+    answer: A
+    explanation: Corruption seems impossible to eliminate (remove completely).
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q086
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Corruption is one of the (1)______ problems of our country. It is an act done with (2)______ to gain some undue advantages, inconsistent with official duty. Government has (3)______ many schemes for the welfare of the people but corruption seems impossible to be (4)______ India can become a corruption-free nation only when all the citizens (5)______ rules and regulations with a strong will power and cooperate whole heartedly.
+
+      Select the most appropriate option for blank No. 5.
+    options:
+      A: reject
+      B: follow
+      C: disobey
+      D: break
+    answer: B
+    explanation: A corruption-free nation needs citizens to follow rules and regulations.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q087
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: Comemorate
+      B: Commemmorate
+      C: Commemorate
+      D: Comemmorate
+    answer: C
+    explanation: The correct spelling is 'Commemorate' (double m, single m, single r).
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word that means the same as the group of words given.
+
+      Enclosed area where aircraft are kept and repaired
+    options:
+      A: Hose
+      B: Harbinger
+      C: Hanger
+      D: Hangar
+    answer: D
+    explanation: A hangar is a large building where aircraft are kept and repaired; a hanger is for hanging clothes.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q089
+    difficulty: medium
+    stem: |-
+      Select the indirect narration of the given sentence.
+
+      He said to me," What time do the banks open and close?"
+    options:
+      A: He said me what time did the banks open and close.
+      B: He asked me what time the banks opened and closed.
+      C: He wanted to know what time the banks open and close.
+      D: He asked me what time do the banks open and close.
+    answer: B
+    explanation: "'Said to' becomes 'asked', the question becomes a statement order ('what time the banks opened'), and the present tense moves back to the past."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q090
+    difficulty: medium
+    stem: |-
+      Identify the part of the sentence that contains the grammatical error.
+
+      One of the greatest responsibilities of a scientist is that his discoveries and inventions are utilized to the overall development of the nation.
+    options:
+      A: is that his discoveries and inventions
+      B: development of the nation
+      C: are utilized to the overall
+      D: One of the greatest responsibilities of a scientist
+    answer: C
+    explanation: "'Utilize' takes 'for': the discoveries are utilized for the overall development of the nation."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      Sluggish
+    options:
+      A: Weak
+      B: Dull
+      C: Active
+      D: Sedentary
+    answer: C
+    explanation: Sluggish means slow and inactive; its opposite is active.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      Hostile
+    options:
+      A: Unfavourable
+      B: Adverse
+      C: Amiable
+      D: Violent
+    answer: C
+    explanation: Hostile means unfriendly; its opposite is amiable (friendly).
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word that means the same as the group of words given.
+
+      A short story with a moral, usually with animals as characters.
+    options:
+      A: Parody
+      B: Ode
+      C: Fable
+      D: Hymn
+    answer: C
+    explanation: A fable is a short story with a moral, usually with animals as characters.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q094
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. It is called the atmosphere.  
+      B. All parts of the earth are surrounded by air.  
+      C. Living beings breathe in and breathe out the air all the time.  
+      D. This process is called respiration.
+    options:
+      A: CBAD
+      B: DACB
+      C: BACD
+      D: ACDB
+    answer: C
+    explanation: "B states that air surrounds the earth, A names it the atmosphere, C says living beings breathe this air, and D names the process respiration: BACD."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      Amit has **the good command on** English as he was born and brought up in England.
+    options:
+      A: a good command over
+      B: No improvement
+      C: a better command of
+      D: the best command in
+    answer: A
+    explanation: "'Command' takes the article 'a', and the idiom is 'a good command over (or of)' a language."
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q096
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given Idiom.
+
+      To add fuel to the fire.
+    options:
+      A: Simplify the problem
+      B: Exploit someone
+      C: To make a bad situation worse
+      D: Calm down the situation
+    answer: C
+    explanation: To add fuel to the fire means to make a bad situation worse.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q097
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Deficiency
+    options:
+      A: Abundance
+      B: Sufficiency
+      C: Efficiency
+      D: Inadequacy
+    answer: D
+    explanation: Deficiency means a lack or shortage, i.e. inadequacy.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q098
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Catastrophic
+    options:
+      A: Tough
+      B: Mysterious
+      C: Disastrous
+      D: Delicate
+    answer: C
+    explanation: Catastrophic means extremely harmful, i.e. disastrous.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q099
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: Definate
+      B: Definiet
+      C: Definete
+      D: Definite
+    answer: D
+    explanation: The correct spelling is 'Definite'.
+    tags:
+      - english
+  - slug: cgl-2020-03-05-s3-q100
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given Idiom.
+
+      Hobson's Choice
+    options:
+      A: To be in an aggressive mood when facing a challenge
+      B: To challenge an unworthy opponent
+      C: An apparently free choice where there is no real alternative
+      D: To exercise the choice to surrender before the enemy
+    answer: C
+    explanation: "Hobson's choice is a choice that looks free but offers no real alternative: take what is offered or nothing."
+    tags:
+      - english

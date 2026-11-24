@@ -2,7 +2,7 @@ slug: 2016-09-10-shift2
 title: SSC CGL 2016 Tier 1
 date: 2016-09-10
 label: 10 Sept, Shift 2
-source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/57ee9ad4-dab7-11ed-83c9-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24."
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/57ee9ad4-dab7-11ed-83c9-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24, Q56."
 questions:
   - slug: cgl-2016-09-10-s2-q001
     difficulty: medium
@@ -99,10 +99,10 @@ questions:
     stem: |-
       Arrange the following words as per their order in the dictionary:
 
-      1) PHYSICAL
-      2) PHYSICS
-      3) PHYSIOLOGY
-      4) PHYSICIAN
+      1) PHYSICAL  
+      2) PHYSICS  
+      3) PHYSIOLOGY  
+      4) PHYSICIAN  
       5) PHONE
     options:
       A: 5,1,4,2,3
@@ -184,9 +184,9 @@ questions:
     stem: |-
       Some equations have been solved on the basis of a certain pattern. Find the correct answer for the unsolved equation on that basis:
 
-      2*3*5= 523
-      6*4*1= 164
-      8*2*4=482,
+      2*3*5= 523  
+      6*4*1= 164  
+      8*2*4=482,  
       then 6*8*2=?
     options:
       A: "826"
@@ -214,12 +214,12 @@ questions:
     stem: |-
       Consider the given statement/s to be true and decide which of the given conclusions/assumptions can definitely be drawn from the given statement.
 
-      **Statements:** Some cars are buses.
+      **Statements:** Some cars are buses.  
       All cars are caves.
 
-      **Conclusion:** Ⅰ . Some caves are not buses
-      Ⅱ .Some caves are buses
-      Ⅲ . No cave is a bus
+      **Conclusion:** Ⅰ . Some caves are not buses  
+      Ⅱ .Some caves are buses  
+      Ⅲ . No cave is a bus  
       Ⅳ. Some caves are cars
     options:
       A: Only Ⅰ Conclusion follows
@@ -668,18 +668,6 @@ questions:
     explanation: Distance = 330 m/s × 10 s = 3300 m = 3.3 km.
     tags:
       - quant
-  - slug: cgl-2016-09-10-s2-q056
-    difficulty: medium
-    stem: For what sum will the simple interest at R% for 2 years will be R?
-    options:
-      A: 100/2R
-      B: 50/R
-      C: 100/R
-      D: 200/R
-    answer: C
-    explanation: "SSC's answer 100/R follows if the time is R years: P × R × R/100 = R gives P = 100/R. With 2 years as printed, the sum would be 50."
-    tags:
-      - quant
   - slug: cgl-2016-09-10-s2-q057
     difficulty: medium
     stem: If P² + 1/P² = 47, the value of P + 1/P is
@@ -866,7 +854,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q072
     difficulty: medium
     stem: |-
-      Study the graph and answer the following questions.
+      Study the graph and answer the following questions.  
       The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
 
       Charges for parking is Rs. 1 per hour. What will be the total collection from 9 AM to 7 PM
@@ -885,7 +873,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q073
     difficulty: medium
     stem: |-
-      Study the graph and answer the following questions.
+      Study the graph and answer the following questions.  
       The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
 
       What is the percentage decrease in the number of parked cycles between 7 pm and 8 pm? (in whole number)
@@ -904,7 +892,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q074
     difficulty: medium
     stem: |-
-      Study the graph and answer the following questions.
+      Study the graph and answer the following questions.  
       The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
 
       What is the average number of parked cycles as seen from the graph?
@@ -923,7 +911,7 @@ questions:
   - slug: cgl-2016-09-10-s2-q075
     difficulty: medium
     stem: |-
-      Study the graph and answer the following questions.
+      Study the graph and answer the following questions.  
       The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
 
       How many times, as mentioned in the graph, is the number of parked cycles above average?

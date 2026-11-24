@@ -1,0 +1,1427 @@
+slug: 2021-08-16-shift2
+title: SSC CGL 2020 Tier 1
+date: 2021-08-16
+label: 16 Aug, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04124747/SSC-CGL-QUESTION-PAPER-16-Aug-2021-Shift-2-Eng). Left out (picture-only options or incomplete in the source): Q1, Q8, Q19, Q20, Q21."
+questions:
+  - slug: cgl-2021-08-16-s2-q002
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      5, 13, 22, 34, 51, 75, 108, 152, ?
+    options:
+      A: "230"
+      B: "203"
+      C: "209"
+      D: "290"
+    answer: C
+    explanation: |-
+      Differences are 8, 9, 12, 17, 24, 33, 44, and these grow by 1, 3, 5, 7, 9, 11.
+      The next difference is 44 + 13 = 57, so 152 + 57 = 209.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q003
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster from among the given options that can replace the question mark (?) in the following series.
+
+      GCB, JHE, MMH, PRK, ?
+    options:
+      A: RVM
+      B: TXO
+      C: SWN
+      D: SXM
+    answer: C
+    explanation: |-
+      First letters G, J, M, P, S (+3); second letters C, H, M, R, W (+5); third letters B, E, H, K, N (+3).
+      So the next cluster is SWN.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q004
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+    options:
+      A: IDWG
+      B: BTGN
+      C: FJQL
+      D: EMNK
+    answer: C
+    explanation: |-
+      Sum of letter positions: IDWG = 9+4+23+7 = 43, BTGN = 43, EMNK = 43, but FJQL = 6+10+17+12 = 45.
+      So FJQL is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q005
+    difficulty: medium
+    stem: |-
+      Find the number of squares in the given figure. (Rectangles NOT to be included)
+
+      *(Figure: A cluster of overlapping squares of different sizes (two large squares on the left, a tall rectangle at top, small squares inside and below, one square at bottom right) with a circle drawn across the middle.)*
+    options:
+      A: "9"
+      B: "7"
+      C: "5"
+      D: "16"
+    answer: B
+    explanation: Count each drawn square, then the squares formed where the drawn squares overlap; SSC's count is 7.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q006
+    difficulty: medium
+    stem: |-
+      Select the letter from among the given options that can replace the question mark (?) in the following series.
+
+      B, E, G, J, L, ?
+    options:
+      A: O
+      B: N
+      C: Q
+      D: P
+    answer: A
+    explanation: "The letters advance by +3, +2 alternately: B(+3)E(+2)G(+3)J(+2)L(+3)O."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q007
+    difficulty: medium
+    stem: The present age of a father is three times that of his elder son. Four years hence, the age of the father will be four times that of his younger son. If the difference between the present ages of the elder and younger child is 6 years, what is the present age of the father?
+    options:
+      A: 36 years
+      B: 32 years
+      C: 38 years
+      D: 42 years
+    answer: A
+    explanation: |-
+      Father = 36 gives elder son 12 and younger son 6; in four years 40 = 4 × 10, which fits.
+      So the father is 36 years old.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q009
+    difficulty: medium
+    stem: |-
+      Select the correct sequence of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+      6 * 10 * 55 * 162 * 9 = 23
+    options:
+      A: ×, −, +, ÷
+      B: ×, ÷, −, +
+      C: ÷, +, ×, −
+      D: +, −, ÷, ×
+    answer: A
+    explanation: "With ×, −, +, ÷: 6 × 10 − 55 + 162 ÷ 9 = 60 − 55 + 18 = 23."
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q010
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number and the sixth number is related to the fifth number.
+
+      15 : 135 :: 16 : ? :: 18 : 189
+    options:
+      A: "152"
+      B: "121"
+      C: "131"
+      D: "141"
+    answer: A
+    explanation: |-
+      Rule: n → n(n + 3)/2. 15 × 18/2 = 135 and 18 × 21/2 = 189.
+      So 16 → 16 × 19/2 = 152.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q011
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the word that is different.
+    options:
+      A: Prowl
+      B: Growl
+      C: Howl
+      D: Yowl
+    answer: A
+    explanation: Growl, howl and yowl are animal sounds; prowl means to move about stealthily.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q012
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown, the six faces of which are marked as 'AT', 'IN', 'SO', 'WE', 'GO' and 'TO'. Select the word that will be on the face opposite to the face showing the word 'TO'.
+
+      *(Figure: Dice 1: top TO, front WE, right AT. Dice 2: top WE, front IN, right GO.)*
+    options:
+      A: AT
+      B: SO
+      C: GO
+      D: IN
+    answer: C
+    explanation: |-
+      WE is common to both dice, and TO, AT, IN, GO all touch WE, so SO is opposite WE.
+      Turning dice 2 to match dice 1 puts GO on the face opposite TO.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q013
+    difficulty: medium
+    stem: In a certain code language, ‘ALPINE’ is coded as ‘171’ and ‘SPRING’ is coded as ‘83’. How will ‘CAPITAL’ be coded in that language?
+    options:
+      A: "124"
+      B: "93"
+      C: "62"
+      D: "186"
+    answer: D
+    explanation: |-
+      Code = (sum of letter positions) × (number of vowels): ALPINE 57 × 3 = 171, SPRING 83 × 1 = 83.
+      CAPITAL = 3+1+16+9+20+1+12 = 62, with 3 vowels → 186.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q014
+    difficulty: medium
+    stem: |-
+      Select the correct option that indicates the arrangement of the given words in the order in which they appear in an English dictionary.
+
+      1. Umbilical  
+      2. Urgent  
+      3. Unaltered  
+      4. Umbrella  
+      5. Unanimous
+    options:
+      A: 1, 4, 3, 5, 2
+      B: 4, 1, 3, 5, 2
+      C: 1, 4, 2, 3, 5
+      D: 4, 1, 5, 3, 2
+    answer: A
+    explanation: Umbilical, Umbrella (umbi- before umbr-), Unaltered, Unanimous (unal- before unan-), Urgent → 1, 4, 3, 5, 2.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q015
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      Chicken : Flock :: Bear : ?
+    options:
+      A: Drove
+      B: Sleuth
+      C: Ambush
+      D: Clutter
+    answer: B
+    explanation: A group of chickens is a flock; a group of bears is a sleuth (or sloth).
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q016
+    difficulty: medium
+    stem: In a certain code language, 'MORBID' is written as 'THGMID'. How will 'OBTAIN' be written in that language?
+    options:
+      A: GFOJDS
+      B: JOFGSD
+      C: GJFOSD
+      D: JGOFDS
+    answer: C
+    explanation: |-
+      Split MORBID into pairs MO RB ID, swap each pair (OM BR DI), then +5 on the first letter and −5 on the second: TH GM ID.
+      OBTAIN → BO AT NI → GJ FO SD = GJFOSD.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q017
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different.
+    options:
+      A: "169 : 55"
+      B: "289 : 70"
+      C: "256 : 61"
+      D: "324 : 64"
+    answer: D
+    explanation: |-
+      Second number = 3 × √(first) + digit sum of first: 169 → 39 + 16 = 55, 289 → 51 + 19 = 70, 256 → 48 + 13 = 61.
+      324 → 54 + 9 = 63, not 64, so 324 : 64 is the odd pair.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q018
+    difficulty: medium
+    stem: Introducing Rajat to a guest, Ajay said, "He is the only son of my father's daughter-in law". How is Ajay related to Rajat?
+    options:
+      A: Paternal grandfather
+      B: Maternal grandfather
+      C: Brother
+      D: Either father or uncle
+    answer: D
+    explanation: |-
+      Ajay's father's daughter-in-law is Ajay's wife or his brother's wife, so her only son Rajat is Ajay's son or nephew.
+      Ajay is either Rajat's father or his uncle.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q022
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      Raj Ghat : Mahatma Gandhi
+    options:
+      A: "Vijay Ghat : Lal Bahadur Shastri"
+      B: "Shanti Vana : Rajiv Gandhi"
+      C: "Shakti Sthal : Sanjay Gandhi"
+      D: "Veer Bhoomi : Indira Gandhi"
+    answer: A
+    explanation: |-
+      Raj Ghat is Mahatma Gandhi's memorial; Vijay Ghat is Lal Bahadur Shastri's.
+      The other pairs are mismatched: Shanti Vana is Nehru's, Shakti Sthal is Indira Gandhi's, Veer Bhoomi is Rajiv Gandhi's.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q023
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      22 32 7  
+      18 24 5  
+      32 40 ?
+    options:
+      A: "4"
+      B: "8"
+      C: "12"
+      D: "10"
+    answer: B
+    explanation: |-
+      Column-wise, third row = 3 × second row − first row: 3 × 18 − 22 = 32 and 3 × 24 − 32 = 40.
+      So 3 × 5 − 7 = 8.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q024
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follows from the statements.
+
+      Statements:  
+      All computers are laptops.  
+      All hard disks are pen drives.  
+      No pen drive is a keyboard.  
+      No computer is a hard disk.
+
+      Conclusions:  
+      I. Some pen drives are not laptops.  
+      II. No keyboard is a computer.  
+      III. No hard disk is a laptop.  
+      IV. All pen drives are not keyboards.
+    options:
+      A: Only conclusion III follows
+      B: Only conclusion I follows
+      C: Only conclusion II follows
+      D: Only conclusion IV follows
+    answer: D
+    explanation: |-
+      "All pen drives are not keyboards" just restates "No pen drive is a keyboard", so IV follows.
+      I, II and III are possible but not certain.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q025
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      6 11 14  
+      8 3 ?  
+      62 47 89
+    options:
+      A: "15"
+      B: "5"
+      C: "6"
+      D: "4"
+    answer: B
+    explanation: |-
+      Third row = a × b + a + b: 6×8 + 6 + 8 = 62 and 11×3 + 11 + 3 = 47.
+      For the last column, 14x + 14 + x = 89, so x = 5.
+    tags:
+      - reasoning
+  - slug: cgl-2021-08-16-s2-q026
+    difficulty: medium
+    stem: Which of the following is also called ‘green algae’?
+    options:
+      A: Phaeophyceae
+      B: Porphyridium
+      C: Chlorophyceae
+      D: Rhodophyceae
+    answer: C
+    explanation: Chlorophyceae are the green algae (chlorophyll a and b dominant). Phaeophyceae are brown algae and Rhodophyceae red algae.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q027
+    difficulty: medium
+    stem: ______ organised his trusted nobles into a group of forty known as Turkan-i-Chahalgani.
+    options:
+      A: Qutub-Ud-Din Aibak
+      B: Balban
+      C: Iltutmish
+      D: Ala-ud-Din Khilji
+    answer: C
+    explanation: Iltutmish formed the Turkan-i-Chahalgani, the "Group of Forty" Turkish nobles, in the Delhi Sultanate.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q028
+    difficulty: medium
+    stem: Who among the following is the author of the book ‘Interpreter of Maladies’?
+    options:
+      A: Sudha Murty
+      B: Arundhati Roy
+      C: Anita Nair
+      D: Jhumpa Lahiri
+    answer: D
+    explanation: "'Interpreter of Maladies' (1999) is Jhumpa Lahiri's story collection; it won the 2000 Pulitzer Prize for Fiction."
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q029
+    difficulty: medium
+    stem: The ______ rate measures rising prices in everything except food and energy.
+    options:
+      A: wage inflation
+      B: core inflation
+      C: stagflation
+      D: deflation
+    answer: B
+    explanation: Core inflation leaves out the volatile food and energy prices to show the underlying price trend.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q030
+    difficulty: medium
+    stem: Who among the following was the first Vice President of India?
+    options:
+      A: Varahagiri Venkata Giri
+      B: Gopal Swarup Pathak
+      C: Sarvepalli Radhakrishnan
+      D: Zakir Hussain
+    answer: C
+    explanation: Dr Sarvepalli Radhakrishnan was India's first Vice President (1952–1962), and later its second President.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q031
+    difficulty: medium
+    stem: The elements of the groups 3 to 12 are called ______ elements or transition elements.
+    options:
+      A: c-block
+      B: d-block
+      C: a-block
+      D: b-block
+    answer: B
+    explanation: Groups 3–12 form the d-block, the transition elements, whose differentiating electron enters a d orbital.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q032
+    difficulty: medium
+    stem: ______ is a practice of establishing and managing individual trees generally for amenity purposes.
+    options:
+      A: Floriculture
+      B: Viniculture
+      C: Silviculture
+      D: Arboriculture
+    answer: D
+    explanation: Arboriculture is growing and managing individual trees, shrubs and vines, usually for amenity. Silviculture manages whole forests.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q033
+    difficulty: medium
+    stem: Which of the following is a private good?
+    options:
+      A: A good that is available to everyone to consume, regardless of who pays for it and who does not.
+      B: A good that is consumed by a single person or household
+      C: Spillover benefits
+      D: Non-rival in consumption and non-excludable
+    answer: B
+    explanation: |-
+      A private good is rival and excludable: one person or household consumes it.
+      The other options describe public goods or externalities.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q034
+    difficulty: medium
+    stem: Which of the following nations is NOT a part of the Quad Group?
+    options:
+      A: Australia
+      B: Canada
+      C: India
+      D: Japan
+    answer: B
+    explanation: The Quad is India, the USA, Japan and Australia; Canada is not a member.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q035
+    difficulty: medium
+    stem: In which Indian state will you find the Borail Wildlife Sanctuary?
+    options:
+      A: Karnataka
+      B: Odisha
+      C: Assam
+      D: West Bengal
+    answer: C
+    explanation: Borail Wildlife Sanctuary is in the Barail hill range of Assam (Cachar–Dima Hasao).
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q036
+    difficulty: medium
+    stem: ______ is a branch of biology that studies fungi.
+    options:
+      A: Morphology
+      B: Kalology
+      C: Mycology
+      D: Virology
+    answer: C
+    explanation: Mycology is the study of fungi; virology studies viruses and morphology studies form and structure.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q037
+    difficulty: medium
+    stem: Which of the following is one of the metals used in LED semiconductor technology?
+    options:
+      A: Copper
+      B: Gallium
+      C: Iron
+      D: Zinc
+    answer: B
+    explanation: LEDs use compound semiconductors such as gallium arsenide, gallium phosphide and gallium nitride.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q038
+    difficulty: medium
+    stem: Which of the following countries’ former Prime Minister was awarded with the Padma Vibhushan award in 2021?
+    options:
+      A: Nepal
+      B: Japan
+      C: Sri Lanka
+      D: Bangladesh
+    answer: B
+    explanation: Former Japanese PM Shinzo Abe received the Padma Vibhushan in the 2021 Padma awards.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q039
+    difficulty: medium
+    stem: What is the name of the river formed by the confluence of Sankh River and South Koel River at Vedvyas in Odisha?
+    options:
+      A: Brahmani
+      B: Pennar
+      C: Subarnarekha
+      D: Sabarmati
+    answer: A
+    explanation: The Sankh and the South Koel meet at Vedvyas near Rourkela to form the Brahmani river.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q040
+    difficulty: medium
+    stem: Of the known elements in the periodic table, only ______ are gases under normal atmospheric conditions.
+    options:
+      A: "11"
+      B: "13"
+      C: "12"
+      D: "10"
+    answer: A
+    explanation: "Eleven elements are gases at normal conditions: H, N, O, F, Cl and the six noble gases He, Ne, Ar, Kr, Xe, Rn."
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q041
+    difficulty: medium
+    stem: Who among the following was the Australian Open 2020 women’s singles winner?
+    options:
+      A: Simona Halep
+      B: Serena Williams
+      C: Garbine Muguruza
+      D: Sofia Kenin
+    answer: D
+    explanation: Sofia Kenin (USA) won the 2020 Australian Open women's singles, beating Garbiñe Muguruza in the final.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q042
+    difficulty: medium
+    stem: The place of Gautama Buddha’s birth was a grove known as ______.
+    options:
+      A: Kavus
+      B: Lumbini
+      C: Mangar Bani
+      D: Mawphlang
+    answer: B
+    explanation: Gautama Buddha was born in the Lumbini grove, in present-day Nepal.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q043
+    difficulty: medium
+    stem: When is the Hindi Diwas observed annually?
+    options:
+      A: 2 October
+      B: 14 March
+      C: 6 April
+      D: 14 September
+    answer: D
+    explanation: Hindi Diwas is on 14 September, the day in 1949 when the Constituent Assembly adopted Hindi in Devanagari as an official language.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q044
+    difficulty: medium
+    stem: Who is the ex-officio President of the Indian Parliamentary Group (IPG), set up in 1949, which functions as the national group of the Inter-Parliamentary Union (IPU) and the main branch of the Commonwealth Parliamentary Association (CPA) in India?
+    options:
+      A: Vice President
+      B: Prime Minister
+      C: President
+      D: Speaker of the Lok Sabha
+    answer: D
+    explanation: The Speaker of the Lok Sabha is the ex-officio President of the Indian Parliamentary Group.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q045
+    difficulty: medium
+    stem: In which state is Ponu Yoksi, a sword-like instrument, used during ceremonial dances performed by priests?
+    options:
+      A: Uttar Pradesh
+      B: Himachal Pradesh
+      C: Arunachal Pradesh
+      D: Madhya Pradesh
+    answer: C
+    explanation: Ponu Yoksi is a ceremonial sword used by the priests of the Adi community of Arunachal Pradesh in their dances.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q046
+    difficulty: medium
+    stem: Who among the following had written the book ‘Char Chaman’, during the reign of Shah Jahan, describing the Mughal nobility?
+    options:
+      A: Chandrabhan Brahman
+      B: Abu’l Dazl
+      C: Muhammad Waris
+      D: Gulbadan Begum
+    answer: A
+    explanation: Chandrabhan Brahman, a munshi at Shah Jahan's court, wrote 'Char Chaman', which describes the Mughal court and nobility.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q047
+    difficulty: medium
+    stem: Where is the headquarters of International Hockey Federation (FIH) located?
+    options:
+      A: Australia
+      B: Switzerland
+      C: Bhutan
+      D: Nepal
+    answer: B
+    explanation: The International Hockey Federation (FIH) has its headquarters in Lausanne, Switzerland.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q048
+    difficulty: medium
+    stem: In February 2021, the Defence Ministry of India awarded a contract to manufacture 83 Light Combat Aircraft (LCA) Tejas fighters to ______.
+    options:
+      A: Hindustan Aeronautics Limited
+      B: Bharat Dynamics Limited
+      C: Bharat Electronics Limited
+      D: Defence Research and Development Organisation
+    answer: A
+    explanation: In February 2021 the Defence Ministry signed a contract with Hindustan Aeronautics Limited (HAL) for 83 LCA Tejas Mk-1A jets.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q049
+    difficulty: medium
+    stem: In which of the following years was the origin and enactment of the Indian Age of Consent Act passed?
+    options:
+      A: "1889"
+      B: "1901"
+      C: "1891"
+      D: "1834"
+    answer: C
+    explanation: The Age of Consent Act was passed in 1891 and raised the age of consent for girls from 10 to 12.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q050
+    difficulty: medium
+    stem: How many people were awarded the Padma Vibhushan in January 2021?
+    options:
+      A: "29"
+      B: "4"
+      C: "10"
+      D: "7"
+    answer: D
+    explanation: Seven people got the Padma Vibhushan in 2021, among them Shinzo Abe, S. P. Balasubrahmanyam and B. B. Lal.
+    tags:
+      - general-awareness
+  - slug: cgl-2021-08-16-s2-q051
+    difficulty: medium
+    stem: If 4x⁴ − 37x² + 9 = 0, x > √(3/2), then what is the value of 8x³ − 27/x³ ?
+    options:
+      A: "35"
+      B: "215"
+      C: "-215"
+      D: "-35"
+    answer: B
+    explanation: |-
+      Solving 4x⁴ − 37x² + 9 = 0 gives x² = 9 or 1/4; since x > √1.5, x = 3.
+      8 × 27 − 27/27 = 216 − 1 = 215.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q052
+    difficulty: medium
+    stem: "If a − 12/a = 1, where a > 0, then the value of a² + 16/a² is:"
+    options:
+      A: "15"
+      B: "17"
+      C: "19"
+      D: "11"
+    answer: B
+    explanation: |-
+      a² − a − 12 = 0 gives a = 4 (since a > 0).
+      a² + 16/a² = 16 + 1 = 17.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q053
+    difficulty: medium
+    stem: |-
+      Table shows income (in ₹) received by 4 employees of a company during the month of December 2020 and all their income sources.
+
+      | Source | Amit | Suresh | Nitin | Varun |
+      |---|---|---|---|---|
+      | Salary | 35000 | 38500 | 29000 | 42000 |
+      | Arrears | 6000 | 6300 | 5000 | 7500 |
+      | Bonus | 1000 | 1100 | 1000 | 1240 |
+      | Overtime | 1800 | 1950 | 1400 | 1500 |
+
+      By what percent is the bonus of Varun less than the bonus of Amit and Nitin taken together?
+    options:
+      A: "45"
+      B: "48"
+      C: "40.9"
+      D: "38"
+    answer: D
+    explanation: |-
+      Amit and Nitin's bonuses add up to 2000; Varun's is 1240, which is 760 less.
+      760/2000 × 100 = 38%.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q054
+    difficulty: medium
+    stem: |-
+      The bar graph shows the number of students enrolled for a science course in institutes A and B during 5 years from 2014 to 2018,
+
+      | Year | Institute A | Institute B |
+      |---|---|---|
+      | 2014 | 160 | 225 |
+      | 2015 | 280 | 360 |
+      | 2016 | 300 | 375 |
+      | 2017 | 250 | 325 |
+      | 2018 | 260 | 225 |
+
+      What is the ratio of the total numbers of students enrolled in institute B in 2015 and 2017 to that of students enrolled in institute A in 2014 and 2016?
+
+      *(Figure: Clustered bar graph (y-axis "Number of students enrolled", x-axis "Years"; blue bars Institute A, red bars Institute B). The bar labels are given as the table above.)*
+    options:
+      A: "111 : 91"
+      B: "91 : 111"
+      C: "92 : 137"
+      D: "137 : 92"
+    answer: D
+    explanation: |-
+      Institute B in 2015 and 2017: 360 + 325 = 685. Institute A in 2014 and 2016: 160 + 300 = 460.
+      685 : 460 = 137 : 92.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q055
+    difficulty: medium
+    stem: A train leaves station A at 8 am and reaches station B at 12 noon. A car leaves station B at 8:30 am and reaches station A at the same time when the train reaches station B. At what time do they meet?
+    options:
+      A: "10 : 22 am"
+      B: "10 : 08 am"
+      C: "9 : 38 am"
+      D: "9 : 52 am"
+    answer: B
+    explanation: |-
+      The train takes 4 h and the car 3.5 h. If they meet t hours after 8 am, t/4 + (t − 0.5)/3.5 = 1, so t = 32/15 h = 2 h 8 min.
+      They meet at 10:08 am.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q056
+    difficulty: medium
+    stem: "The value of 3 5/6 + [3 2/3 + {15/4 (5 4/5 ÷ 14 1/2)}] is equal to:"
+    options:
+      A: "6"
+      B: "7"
+      C: "9"
+      D: "8"
+    answer: C
+    explanation: |-
+      5 4/5 ÷ 14 1/2 = 2/5, and 15/4 × 2/5 = 3/2. Then 3 2/3 + 3/2 = 31/6.
+      23/6 + 31/6 = 9.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q057
+    difficulty: medium
+    stem: In △ABC, AB = 20 cm, BC = 21 cm and AC = 29 cm. What is the value of cot C + cosec C − 2 tan A ?
+    options:
+      A: 3/5
+      B: 9/20
+      C: 2/5
+      D: 7/20
+    answer: C
+    explanation: |-
+      20² + 21² = 29², so ∠B = 90°.
+      cot C + cosec C − 2 tan A = 21/20 + 29/20 − 2 × 21/20 = 8/20 = 2/5.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q058
+    difficulty: medium
+    stem: In a triangle ABC, point D lies on AB, and points E and F lie on BC such that DF is parallel to AC and DE is parallel to AF. If BE = 4 cm, CF = 3 cm, then find the length (in cm) of EF.
+    options:
+      A: "5"
+      B: "3"
+      C: "2"
+      D: "1.5"
+    answer: C
+    explanation: |-
+      DF ∥ AC gives BD/BA = BF/BC, and DE ∥ AF gives BD/BA = BE/BF, so BF² = BE × BC.
+      (4 + x)² = 4(7 + x), which gives x = EF = 2.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q059
+    difficulty: medium
+    stem: A and B can complete a work in 15 days and 10 days respectively. They started doing the work together but after 4 days B had to leave. Then A working with a new worker C completed the remaining work in 3 days. If C works alone, in how many days he can do 40% of the same work?
+    options:
+      A: "9"
+      B: 8 1/2
+      C: "8"
+      D: "10"
+    answer: A
+    explanation: |-
+      In 4 days A and B finish 4 × (1/15 + 1/10) = 2/3. A and C do the remaining 1/3 in 3 days, so A + C = 1/9 per day and C = 1/9 − 1/15 = 2/45 per day.
+      40% of the work takes C 0.4 × 45/2 = 9 days.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q060
+    difficulty: medium
+    stem: "If one of the angles of a triangle is 74°, then the angle between the bisectors of the other two interior angles is:"
+    options:
+      A: 53°
+      B: 106°
+      C: 127°
+      D: 16°
+    answer: C
+    explanation: The angle between the bisectors of the other two angles is 90° + 74°/2 = 127°.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q061
+    difficulty: medium
+    stem: cot³θ/cosec²θ + tan³θ/sec²θ + 2 sinθ cosθ = ?
+    options:
+      A: cosecθ secθ
+      B: sinθ cosθ
+      C: cosec²θ sec²θ
+      D: sin²θ cosθ
+    answer: A
+    explanation: |-
+      The first two terms are cos³θ/sinθ + sin³θ/cosθ = (cos⁴θ + sin⁴θ)/(sinθ cosθ). Adding 2 sinθ cosθ gives (cos²θ + sin²θ)²/(sinθ cosθ).
+      That is 1/(sinθ cosθ) = cosecθ secθ.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q062
+    difficulty: medium
+    stem: If the nine-digit number 7p5964q28 is completely divisible by 88, what is the value of (p² − q), for the largest value of q, where p and q are natural numbers?
+    options:
+      A: "81"
+      B: "9"
+      C: "0"
+      D: "72"
+    answer: D
+    explanation: |-
+      For 8: q28 must be divisible by 8, so q is odd. For 11: (7+5+6+q+8) − (p+9+4+2) = 11 + q − p, so q = p.
+      The largest q is 9, so p = 9 and p² − q = 81 − 9 = 72.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q063
+    difficulty: medium
+    stem: |-
+      Table shows the number of trees planted in 4 cities from 2016 to 2020.
+
+      | Years | Chandigarh | Ahmadabad | Pune | Kolkata |
+      |---|---|---|---|---|
+      | 2016 | 1800 | 2500 | 1800 | 2000 |
+      | 2017 | 2500 | 2300 | 1850 | 1800 |
+      | 2018 | 2300 | 2400 | 1840 | 1760 |
+      | 2019 | 2440 | 1950 | 1900 | 1600 |
+      | 2020 | 2250 | 2100 | 2000 | 1750 |
+
+      In which year were the maximum number of trees planted?
+    options:
+      A: "2016"
+      B: "2020"
+      C: "2017"
+      D: "2018"
+    answer: C
+    explanation: |-
+      Yearly totals: 2016 = 8100, 2017 = 8450, 2018 = 8300, 2019 = 7890, 2020 = 8100.
+      The maximum is in 2017.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q064
+    difficulty: medium
+    stem: Chamanlal, Arshad and Jagjit Singh contested an election. All the votes polled were valid. Arshad got 35% of the total votes. For every 35 votes Chamanlal got 14 votes. The winner got 4950 more votes than the person who received the least number of votes. Find the total number of votes polled.
+    options:
+      A: "99000"
+      B: "33000"
+      C: "13378"
+      D: "38000"
+    answer: B
+    explanation: |-
+      Chamanlal gets 14/35 = 40%, Arshad 35% and Jagjit 25%.
+      The gap between 40% and 25% is 15% = 4950, so the total is 33000.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q065
+    difficulty: medium
+    stem: AB is a diameter of a circle. C and D are points on the opposite sides of the diameter AB, such that ∠ACD = 25°. E is a point on the minor arc BD. Find the measure of ∠BED (in degrees).
+    options:
+      A: "105"
+      B: "125"
+      C: "130"
+      D: "115"
+    answer: D
+    explanation: |-
+      ∠ABD = ∠ACD = 25° (same arc AD), and ∠ADB = 90° in the semicircle, so ∠BAD = 65°.
+      ABED is cyclic, so ∠BED = 180° − 65° = 115°.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q066
+    difficulty: medium
+    stem: Three shopkeepers A, B and C marked an identical article at ₹4820. A, B and C sold their article on successive discounts of 20% and 20%; 25% and 15%; 30% and 10% respectively. Which shopkeeper gives the maximum discount and how much (in Rs)?
+    options:
+      A: C,1780
+      B: C,1783.40
+      C: B, 1800
+      D: A,1735.20
+    answer: B
+    explanation: |-
+      Net discounts: A 36%, B 36.25%, C 37% (0.7 × 0.9 = 0.63).
+      C gives the most: 37% of 4820 = ₹1783.40.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q067
+    difficulty: medium
+    stem: "Hridaya opened her piggy bank and found coins of denomination ₹1, ₹2, ₹5 and ₹ 10 in the ratio 10 : 5 : 2 : 1. If there are 72 coins in all, then how much money (in ₹) was there in the piggy bank in the form of coins?"
+    options:
+      A: "100"
+      B: "72"
+      C: "160"
+      D: "90"
+    answer: C
+    explanation: |-
+      The ratio has 18 parts, so 72 coins means 40, 20, 8 and 4 coins.
+      Value = 40 + 40 + 40 + 40 = ₹160.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q068
+    difficulty: medium
+    stem: A sum at a certain rate of simple interest becomes ₹14880 after 3 years and ₹16800 after 5 years. Find the simple interest on the same sum at 10% per annum for 4 years (in ₹).
+    options:
+      A: "5184"
+      B: "4860"
+      C: "4800"
+      D: "4740"
+    answer: C
+    explanation: |-
+      Interest for 2 years is 16800 − 14880 = 1920, so 960 a year, and the principal is 14880 − 2880 = 12000.
+      At 10% for 4 years, SI = 12000 × 0.4 = ₹4800.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q069
+    difficulty: medium
+    stem: From an external point A, two tangents AB and AC have been drawn to a circle touching the circle at B and C respectively. P and Q are points on AB and AC respectively such that PQ touches the circle at R. If AB = 11 cm, AP = 7 cm and AQ = 9 cm, then find the length of PQ (in cm).
+    options:
+      A: "7"
+      B: "5"
+      C: "8"
+      D: "6"
+    answer: D
+    explanation: |-
+      Tangents from a point are equal: PB = 11 − 7 = 4 = PR and QC = 11 − 9 = 2 = QR.
+      PQ = 4 + 2 = 6 cm.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q070
+    difficulty: medium
+    stem: What is the ratio of the average of first eight prime numbers to the average of first ten even natural numbers?
+    options:
+      A: "7 : 8"
+      B: "1 : 7"
+      C: "7 : 80"
+      D: "8 : 70"
+    answer: A
+    explanation: |-
+      The first 8 primes add up to 77, so their average is 9.625. The first ten even numbers average 11.
+      9.625 : 11 = 7 : 8.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q071
+    difficulty: medium
+    stem: |-
+      The following Pie chart represents the percentage-wise distribution of 300 students of class X in a school in six different sections A. B. C. D. E and F.
+
+      Pie chart: A 20%, B 18%, C 19%, D 17%, E 14%, F 12%.
+
+      The table given below shows the number of boys of class X in six different sections A, B, C, D, E and F.
+
+      | Section | A | B | C | D | E | F |
+      |---|---|---|---|---|---|---|
+      | No. of boys | 36 | 26 | 34 | 28 | x | 20 |
+
+      If in section E, the ratio of the number of boys to the number of girls is 3 : 4, then the ratio of number of boys in section E to the number of girls in section C is :
+
+      *(Figure: Pie chart with six sectors; the sector values are written into the stem.)*
+    options:
+      A: "23 : 18"
+      B: "23 : 24"
+      C: "24 : 23"
+      D: "18 : 23"
+    answer: D
+    explanation: |-
+      Section E has 14% of 300 = 42 students; boys : girls = 3 : 4 gives 18 boys.
+      Section C has 57 students − 34 boys = 23 girls, so the ratio is 18 : 23.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q072
+    difficulty: medium
+    stem: A heap of wheat is in the form of a cone whose base diameter is 8.4 m and height is 1.75 m. The heap is to be covered by canvass. What is the area (in m²) of the canvas required? (Use π = 22/7)
+    options:
+      A: "60.06"
+      B: "60.6"
+      C: "115.05"
+      D: "115.5"
+    answer: A
+    explanation: |-
+      r = 4.2 m and h = 1.75 m, so the slant height l = √(17.64 + 3.0625) = 4.55 m.
+      Curved area πrl = 22/7 × 4.2 × 4.55 = 60.06 m².
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q073
+    difficulty: medium
+    stem: If 2 sin(3x − 15)° = 1,0° < (3x − 15) < 90°, then find the value of cos²(2x + 15)° + cot²(x + 15)°.
+    options:
+      A: 7/2
+      B: "1"
+      C: −7/2
+      D: 5/2
+    answer: A
+    explanation: |-
+      sin(3x − 15)° = 1/2 gives 3x − 15 = 30, so x = 15.
+      cos²45° + cot²30° = 1/2 + 3 = 7/2.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q074
+    difficulty: medium
+    stem: If (16√2x³ + 81√3y³) ÷ (2√2x + 3√3y) = Ax² + By² + Cxy, then find the value of 2A − 3B − 2√6C.
+    options:
+      A: "25"
+      B: "7"
+      C: "137"
+      D: "79"
+    answer: B
+    explanation: |-
+      (a³ + b³)/(a + b) = a² − ab + b², with a = 2√2x and b = 3√3y. So A = 8, B = 27, C = −6√6.
+      2A − 3B − 2√6C = 16 − 81 + 72 = 7.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q075
+    difficulty: medium
+    stem: Radha purchased a Computer table for ₹10000 and a Centre table for ₹5000. She sold Computer table with 8% profit. With what profit percent should she sell the Centre table so as to gain 10% on the whole transaction?
+    options:
+      A: 12%
+      B: 10%
+      C: 14%
+      D: 18%
+    answer: C
+    explanation: |-
+      A 10% gain on ₹15000 needs ₹16500 in sales. The computer table brings in ₹10800, so the centre table must sell for ₹5700.
+      That is a 14% profit on ₹5000.
+    tags:
+      - quant
+  - slug: cgl-2021-08-16-s2-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the following idiom.
+
+      To the nines
+    options:
+      A: To perfection
+      B: To great depths
+      C: To be exalted
+      D: To be jealous
+    answer: A
+    explanation: '"To the nines" means to perfection, to the highest degree (e.g. dressed to the nines).'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q077
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in indirect speech.
+
+      The teacher said, “Man is mortal.”
+    options:
+      A: The teacher said that man was mortal.
+      B: The teacher instructed that man was mortal.
+      C: The teacher said that men were mortal.
+      D: The teacher said that man is mortal.
+    answer: D
+    explanation: 'A universal truth keeps its tense in indirect speech: "The teacher said that man is mortal."'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      I read some ______ of properties for sale on the Internet before I called the agent.
+    options:
+      A: spaces
+      B: monologues
+      C: arguments
+      D: descriptions
+    answer: D
+    explanation: You read descriptions of properties for sale before calling the agent.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q079
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      A. There are many secondary reasons as well along with increasing levels of carbon.  
+      B. The term is used to describe the unnatural rise in earth’s average temperature.  
+      C. Increased carbon dioxide is the primary driver of global warming.  
+      D. Global warming is the single biggest threat to life on earth today.
+    options:
+      A: DABC
+      B: DBCA
+      C: ABCD
+      D: ACBD
+    answer: B
+    explanation: |-
+      D introduces global warming, B defines the term, C gives the primary cause (CO₂), and A adds the secondary causes.
+      So the order is DBCA.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q080
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A large bedroom for a number of people in a school or institution.
+    options:
+      A: Creche
+      B: Hostel
+      C: Dormitory
+      D: Assembly
+    answer: C
+    explanation: A dormitory is a large bedroom for many people in a school or institution.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q081
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the right order to form a meaningful and coherent paragraph.
+
+      A. This awareness has motivated everyone to go for physical exercises.  
+      B. These days people are more aware of their health.  
+      C. In addition to physical exercises, some prefer taking health supplements too.  
+      D. It is advisable, but one should consult a trainer/doctor before consuming health supplements.
+    options:
+      A: BACD
+      B: DBCA
+      C: ADBC
+      D: BADC
+    answer: A
+    explanation: |-
+      B states the awareness, A says it led to exercise, C adds supplements, and D cautions about supplements.
+      So the order is BACD.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Harmony
+    options:
+      A: Conflict
+      B: Amity
+      C: Accord
+      D: Concord
+    answer: A
+    explanation: Harmony means agreement or peace; its opposite is conflict. Amity, accord and concord are synonyms.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q083
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Perfectionist
+      B: Pessymist
+      C: Optimist
+      D: Fatalist
+    answer: B
+    explanation: The correct spelling is "Pessimist".
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q084
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The postman had delayed the letter.
+    options:
+      A: The letter had been delayed by the postman.
+      B: The letter had delayed the postman.
+      C: The letter was delayed by the postman.
+      D: The postman had been delayed by the letter.
+    answer: A
+    explanation: 'Past perfect active (had delayed) becomes "had been + past participle" in the passive: "The letter had been delayed by the postman."'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Rejuvenate
+    options:
+      A: Retell
+      B: Refresh
+      C: Reset
+      D: Retake
+    answer: B
+    explanation: Rejuvenate means to make fresh or youthful again, i.e. refresh.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q086
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Profuse
+      B: Virtuous
+      C: Luxuriaus
+      D: Recluse
+    answer: C
+    explanation: The correct spelling is "Luxurious".
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Elated
+    options:
+      A: Excited
+      B: Depressed
+      C: Proud
+      D: Thrilled
+    answer: B
+    explanation: Elated means very happy; its opposite is depressed.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Chaos
+    options:
+      A: Fusion
+      B: Tension
+      C: Confusion
+      D: Dirt
+    answer: C
+    explanation: Chaos means complete disorder, i.e. confusion.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.
+
+      Sholay **is one in the most popular** Hindi movies.
+    options:
+      A: is one of the most popular
+      B: No substitution
+      C: is one in the more popular
+      D: is in the most popular
+    answer: A
+    explanation: 'The correct phrase is "one of the + superlative + plural noun": "is one of the most popular".'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.
+
+      Much of the truth about the mysterious death of her pet **was not revealed**.
+    options:
+      A: have not revealed
+      B: were not being revealed
+      C: No substitution
+      D: were not revealed
+    answer: C
+    explanation: '"Much of the truth" is uncountable and singular, so "was not revealed" is already correct.'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q091
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A group of people, typically with vehicles or animals, travelling together.
+    options:
+      A: Troop
+      B: Gang
+      C: Circus
+      D: Caravan
+    answer: D
+    explanation: A caravan is a group of people, often with vehicles or animals, travelling together.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the following idiom.
+
+      Apple of one's eye
+    options:
+      A: Someone who plays all sports
+      B: Someone very precious or dear
+      C: Someone who behaves courteously
+      D: Someone with great respect
+    answer: B
+    explanation: "\"Apple of one's eye\" means someone very precious or dear."
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q093
+    difficulty: medium
+    stem: |-
+      The following sentence has been divided into parts. One of them contains an error. Select the part that contains the error from the given options.
+
+      "Would you liked / to have / some fries / along with your coffee, / sir?" / asked the waiter.
+    options:
+      A: asked the waiter
+      B: along with your coffee
+      C: Would you liked
+      D: some fries
+    answer: C
+    explanation: 'A modal takes the base form of the verb: "Would you like", not "Would you liked".'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q094
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      The supervisor / wanted to known / the pros and cons / of the issue.
+    options:
+      A: wanted to known
+      B: the pros and cons
+      C: The supervisor
+      D: of the issue
+    answer: A
+    explanation: '"To" takes the base form: "wanted to know", not "wanted to known".'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The jungle was nearly ______, so the progress was slow.
+    options:
+      A: immaterial
+      B: immortal
+      C: immobile
+      D: impenetrable
+    answer: D
+    explanation: Progress was slow because the jungle was nearly impenetrable, i.e. impossible to get through.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      It is essential to form a link between formal education and skill (1)______. Multidisciplinary and personality enhancement skills are the (2)______ requirements of every sector. Many reforms are being (3)______ in higher education to co-relate academics to the (4)______ of various service sectors. Innovative models can help to (5)______ the varied needs of skilled and unskilled labour.
+
+      Select the most appropriate option to fill in blank no.1.
+    options:
+      A: development
+      B: maturity
+      C: progress
+      D: ripening
+    answer: A
+    explanation: '"Skill development" is the usual collocation for building skills alongside formal education.'
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      It is essential to form a link between formal education and skill (1)______. Multidisciplinary and personality enhancement skills are the (2)______ requirements of every sector. Many reforms are being (3)______ in higher education to co-relate academics to the (4)______ of various service sectors. Innovative models can help to (5)______ the varied needs of skilled and unskilled labour.
+
+      Select the most appropriate option to fill in blank no.2.
+    options:
+      A: needless
+      B: essential
+      C: external
+      D: domestic
+    answer: B
+    explanation: These skills are the essential (basic, necessary) requirements of every sector.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      It is essential to form a link between formal education and skill (1)______. Multidisciplinary and personality enhancement skills are the (2)______ requirements of every sector. Many reforms are being (3)______ in higher education to co-relate academics to the (4)______ of various service sectors. Innovative models can help to (5)______ the varied needs of skilled and unskilled labour.
+
+      Select the most appropriate option to fill in blank no.3.
+    options:
+      A: settled
+      B: related
+      C: introduced
+      D: improved
+    answer: C
+    explanation: Reforms are introduced in higher education.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      It is essential to form a link between formal education and skill (1)______. Multidisciplinary and personality enhancement skills are the (2)______ requirements of every sector. Many reforms are being (3)______ in higher education to co-relate academics to the (4)______ of various service sectors. Innovative models can help to (5)______ the varied needs of skilled and unskilled labour.
+
+      Select the most appropriate option to fill in blank no.4.
+    options:
+      A: need
+      B: urgency
+      C: charge
+      D: duty
+    answer: A
+    explanation: Academics are linked to the need (requirements) of the service sectors.
+    tags:
+      - english
+  - slug: cgl-2021-08-16-s2-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      It is essential to form a link between formal education and skill (1)______. Multidisciplinary and personality enhancement skills are the (2)______ requirements of every sector. Many reforms are being (3)______ in higher education to co-relate academics to the (4)______ of various service sectors. Innovative models can help to (5)______ the varied needs of skilled and unskilled labour.
+
+      Select the most appropriate option to fill in blank no.5.
+    options:
+      A: meet
+      B: meeting
+      C: met
+      D: meets
+    answer: A
+    explanation: 'After "help to", the verb takes its base form: "help to meet the varied needs".'
+    tags:
+      - english
