@@ -1,0 +1,1344 @@
+slug: 2019-06-07-shift3
+title: SSC CGL 2018 Tier 1
+date: 2019-06-07
+label: 7 Jun, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132639/SSC-CGL-QUESTION-PAPER-07-June-2019-Shift-3-En). Left out (picture-only options or incomplete in the source): Q4, Q5, Q6, Q13, Q23."
+questions:
+  - slug: cgl-2019-06-07-s3-q001
+    difficulty: medium
+    stem: |-
+      If
+
+      + denotes –
+
+      – denotes *
+
+      * denotes /
+
+      / denotes +
+
+      then what will be the numeric value of
+
+      60 * 10 / 40 + 6 – 5 =
+    options:
+      A: "3"
+      B: "144"
+      C: "16"
+      D: "200"
+    answer: C
+    explanation: After swapping the signs the expression is 60 / 10 + 40 - 6 × 5 = 6 + 40 - 30 = 16.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q002
+    difficulty: medium
+    stem: Three of the following four words are alike in a certain way and one is different. Pick the odd word out.
+    options:
+      A: Nepal
+      B: Ireland
+      C: Indonesia
+      D: Afghanistan
+    answer: B
+    explanation: Nepal, Indonesia and Afghanistan are Asian countries; Ireland is in Europe.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q003
+    difficulty: medium
+    stem: |-
+      Which number will replace the question mark (?) in the following series?
+
+      7, 11, 18, 29, ? , 76
+    options:
+      A: "53"
+      B: "61"
+      C: "44"
+      D: "47"
+    answer: D
+    explanation: "Each term is the sum of the two before it: 18 + 29 = 47, and 29 + 47 = 76."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q007
+    difficulty: medium
+    stem: If the word ANGEL is coded as BOHFM, then what will be the third alphabet in the code for the word SAVAGE?
+    options:
+      A: B
+      B: U
+      C: W
+      D: X
+    answer: C
+    explanation: Each letter moves one place forward (A→B, N→O ...). SAVAGE becomes TBWBHF, whose third letter is W.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q008
+    difficulty: medium
+    stem: A cycle was sold for ₹4,140 with a profit of 15%. At what price could it have been sold to earn a profit of 25%?
+    options:
+      A: ₹4,500
+      B: ₹4,350
+      C: ₹4,200
+      D: ₹4,850
+    answer: A
+    explanation: "Cost price = 4140 ÷ 1.15 = ₹3,600. For a 25% profit: 3600 × 1.25 = ₹4,500."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q009
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: HLP
+      B: DHL
+      C: PTX
+      D: LPQ
+    answer: D
+    explanation: HLP, DHL and PTX go up by +4, +4. LPQ goes +4, +1, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q010
+    difficulty: medium
+    stem: Three of the following four word pairs are alike in a certain way and one is different. Pick the odd word out.
+    options:
+      A: "Tamil Nadu : South"
+      B: "Punjab : North"
+      C: "Assam : North-East"
+      D: "Kerala : North-West"
+    answer: D
+    explanation: Kerala is in the south of India, not the north-west. The other pairs give the correct region.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q011
+    difficulty: medium
+    stem: Three of the following four numbers are alike in a certain way and one is different. Pick the number that is different from the rest.
+    options:
+      A: "2197"
+      B: "1331"
+      C: "343"
+      D: "731"
+    answer: D
+    explanation: 2197 = 13³, 1331 = 11³ and 343 = 7³ are perfect cubes; 731 is not a cube.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q012
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Doctor
+      2. Recovery
+      3. Hospital
+      4. Home
+      5. Sickness
+      6. Medicine store
+    options:
+      A: 1, 5, 3, 6, 4, 2
+      B: 5, 3, 6, 1, 3, 2
+      C: 4, 5, 6, 1, 3, 2
+      D: 5, 3, 1, 6, 2, 4
+    answer: D
+    explanation: Sickness → Hospital → Doctor → Medicine store → Recovery → Home, i.e. 5, 3, 1, 6, 2, 4.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q014
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      (11, 16, 20)
+    options:
+      A: (9, 14, 19)
+      B: (15, 20, 24)
+      C: (17, 23, 26)
+      D: (21, 26, 32)
+    answer: B
+    explanation: (11, 16, 20) goes +5, +4. Only (15, 20, 24) follows the same steps.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q015
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth term is related to the third term.
+
+      6472 : 25 :: 7343 : 41 :: 6582 : ?
+    options:
+      A: "14"
+      B: "16"
+      C: "18"
+      D: "13"
+    answer: B
+    explanation: "SSC gives 16. One rule that fits the first two pairs is (1st digit)² − (2nd digit)² + (3rd − 4th digit): 36 − 16 + 5 = 25 and 49 − 9 + 1 = 41."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q016
+    difficulty: medium
+    stem: |-
+      Select the number pair in which the two numbers are related in the same way as are the two numbers of the following number-pair.
+
+      27 : 8
+    options:
+      A: "12 : 3"
+      B: "39 : 14"
+      C: "33 : 9"
+      D: "19 : 5"
+    answer: A
+    explanation: 27 ÷ 3 − 1 = 8. In the same way 12 ÷ 3 − 1 = 3.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q017
+    difficulty: medium
+    stem: |-
+      Two statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      Some quadrilaterals are squares.
+
+      All squares are rhombuses.
+
+      **Conclusions:**
+
+      I. No quadrilateral is a rhombus.
+
+      II. All rhombuses are squares.
+
+      III. Some quadrilaterals are rhombuses.
+    options:
+      A: Only conclusion II follows
+      B: Only conclusion III follows
+      C: None of the conclusions follows
+      D: Only conclusion I follows
+    answer: B
+    explanation: Some quadrilaterals are squares and all squares are rhombuses, so some quadrilaterals are rhombuses (III). I and II do not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q018
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the gaps of the given letter series will complete the series.
+
+      cd_ab_cd_abb_dda_b
+    options:
+      A: bbcdb
+      B: dbdcb
+      C: dbcbc
+      D: cbdab
+    answer: B
+    explanation: Filling d, b, d, c, b gives cddabb | cddabb | cddabb, the block "cddabb" repeated.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q019
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster.
+
+      FLQV : JISU :: DJNR : ?
+    options:
+      A: FGQN
+      B: HMPS
+      C: HGLQ
+      D: HGPQ
+    answer: D
+    explanation: FLQV → JISU uses +4, −3, +2, −1. Applied to DJNR it gives HGPQ.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q020
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice are shown. Which number will be at the top if 3 is at the bottom?
+
+      *(Figure: Dice 1: top 5, front-left 1, front-right 4. Dice 2: top 6, front-left 3, front-right 1.)*
+    options:
+      A: "1"
+      B: "2"
+      C: "5"
+      D: "4"
+    answer: C
+    explanation: 1 is common to both dice. Going round 1 clockwise, the first die gives 4, 5 and the second gives 6, 3, so 4 faces 6 and 5 faces 3. With 3 at the bottom, 5 is on top.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q021
+    difficulty: medium
+    stem: |-
+      Select the word-pair in which the two words are related in the same way as are the two words in the following word-pair.
+
+      Mnemonic : Memory
+    options:
+      A: "Drama : Acting"
+      B: "Audition : Music"
+      C: "Sedative : Sleep"
+      D: "Audience : Speech"
+    answer: C
+    explanation: A mnemonic is used to aid memory; a sedative is used to bring on sleep.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q022
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the following figure?
+
+      *(Figure: A rectangle divided into two squares, each with both diagonals, joined on its right side to a funnel-shaped quadrilateral that widens to the right and is divided by its diagonals and a horizontal line.)*
+    options:
+      A: "27"
+      B: "29"
+      C: "31"
+      D: "25"
+    answer: B
+    explanation: SSC gives 29. Count the triangles in each square with its diagonals, then those in the funnel shape, then any that span the shared sides.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q024
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: PXWQ
+      B: SKLV
+      C: BKJC
+      D: FNMG
+    answer: B
+    explanation: In PXWQ, BKJC and FNMG the 1st and 4th letters are consecutive (P-Q, B-C, F-G) and the middle pair is reverse-consecutive. In SKLV, S and V are not consecutive.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q025
+    difficulty: medium
+    stem: ‘Judgment’ is related to ‘Deliver’ in the same way as ‘Rule’ is related to ‘______’.
+    options:
+      A: Implement
+      B: Practice
+      C: Follow
+      D: Render
+    answer: A
+    explanation: A judgment is delivered; a rule is implemented.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-07-s3-q026
+    difficulty: medium
+    stem: Brazilian physicist and astronomer ______was awarded the 2019 Templeton Prize, worth USD 1.4 million, for his work blending science and spirituality.
+    options:
+      A: Nicolaus Copernicus
+      B: Marcelo Gleiser
+      C: Charles Messier
+      D: Edwin Hubble
+    answer: B
+    explanation: Brazilian physicist Marcelo Gleiser won the 2019 Templeton Prize.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q027
+    difficulty: medium
+    stem: In March 2019, a science teacher from rural Kenya named _____ won the prestigious Global Teacher Prize 2019, worth USD 1 million, which honours the world’s best teacher.
+    options:
+      A: Hanan Al Hroub
+      B: Peter Tabichi
+      C: Nancie Atwell
+      D: Andria Zafirakou
+    answer: B
+    explanation: Peter Tabichi, a Kenyan science teacher and Franciscan friar, won the Global Teacher Prize 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q028
+    difficulty: medium
+    stem: The maximum number of nominated members to Lok Sabha is ____.
+    options:
+      A: "4"
+      B: "3"
+      C: "1"
+      D: "2"
+    answer: D
+    explanation: Under Article 331 the President could nominate up to 2 Anglo-Indian members to the Lok Sabha. This provision lapsed in 2020 (104th Amendment).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q029
+    difficulty: medium
+    stem: Who was the fifth of the ten Sikh gurus?
+    options:
+      A: Guru Angad
+      B: Guru Ramdas
+      C: Guru Arjan Dev
+      D: Guru Hargobind
+    answer: C
+    explanation: "The Sikh gurus in order: Nanak, Angad, Amar Das, Ram Das, Arjan Dev. So the fifth is Guru Arjan Dev."
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q030
+    difficulty: medium
+    stem: The Almatti dam project on the Krishna river was an issue between which states?
+    options:
+      A: Karnataka and Andhra Pradesh
+      B: Karnataka and Goa
+      C: Andhra Pradesh and Tamil Nadu
+      D: Karnataka and Tamil Nadu
+    answer: A
+    explanation: Andhra Pradesh objected to Karnataka raising the height of the Almatti dam on the Krishna.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q031
+    difficulty: medium
+    stem: The Qutub Minar was named after the Sufi saint __________.
+    options:
+      A: Syed Waheed Ashraf
+      B: Alauddin Sabir Kaliyari
+      C: Khwaja Qutbuddin Bakhtiyar Kaki
+      D: Qutub-ud-Din Aibak
+    answer: C
+    explanation: The Qutub Minar is said to be named after the Sufi saint Khwaja Qutbuddin Bakhtiyar Kaki.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q032
+    difficulty: medium
+    stem: The Suri king ______ was defeated by Humayun to regain his kingdom.
+    options:
+      A: Mahmood Suri
+      B: Sher Shah Suri
+      C: Sikandar Suri
+      D: Bahalol Suri
+    answer: C
+    explanation: Humayun defeated Sikandar Suri at Sirhind in 1555 and regained Delhi.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q033
+    difficulty: medium
+    stem: ‘Shifting cultivation’ is also known as ______ in north-east India.
+    options:
+      A: Ladang
+      B: Chena
+      C: Jhum
+      D: Logan
+    answer: C
+    explanation: In north-east India, shifting (slash-and-burn) cultivation is called Jhum.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q034
+    difficulty: medium
+    stem: Flying Officer _____ of the Indian Air Force (IAF) created history by becoming the first Indian woman to fly her first solo fighter flight in a Russian made MiG-21 fighter.
+    options:
+      A: Bhawana Kanth
+      B: Anjali Gupta
+      C: Mohana Singh
+      D: Avani Chaturvedi
+    answer: D
+    explanation: In February 2018 Avani Chaturvedi became the first Indian woman to fly a MiG-21 solo.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q035
+    difficulty: medium
+    stem: _____ is famous for outstanding specimen of Buddhist art and architecture, belonging to the period between the 3rd century B.C. and the 12th century A.D.
+    options:
+      A: Satna
+      B: Vidisha
+      C: Sanchi
+      D: Dewas
+    answer: C
+    explanation: Sanchi in Madhya Pradesh, with the Great Stupa, has Buddhist monuments from the 3rd century BC to the 12th century AD.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q036
+    difficulty: medium
+    stem: Who decides on the issue related to the disqualification of a Member of Lok Sabha under Tenth Schedule?
+    options:
+      A: Prime Minister
+      B: President
+      C: Vice President
+      D: Speaker
+    answer: D
+    explanation: Under the Tenth Schedule (anti-defection law), the Speaker decides whether a Lok Sabha member is disqualified.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q037
+    difficulty: medium
+    stem: In March 2019, the Government of ____ launched the 'Lose to Win' programme to assist overweight employees shed extra kilos and adopt a healthy lifestyle.
+    options:
+      A: Australia
+      B: UAE
+      C: US
+      D: UK
+    answer: B
+    explanation: The UAE government launched the "Lose to Win" weight-loss challenge for its employees in 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q038
+    difficulty: medium
+    stem: Who invented the atomic battery in 1912?
+    options:
+      A: Alessandro Volta
+      B: Henry Moseley
+      C: Benjamin Franklin
+      D: Louis Pasteur
+    answer: B
+    explanation: Henry Moseley built the first atomic (radioisotope) battery, in 1912-13.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q039
+    difficulty: medium
+    stem: In March 2018, Indian actress ____ was named as the new ambassador of the international award-winning non-profit organisation, Educate Girls.
+    options:
+      A: Priyanka Chopra
+      B: Katrina Kaif
+      C: Deepika Padukone
+      D: Aishwarya Rai
+    answer: B
+    explanation: Katrina Kaif was named ambassador of the NGO Educate Girls in March 2018.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q040
+    difficulty: medium
+    stem: "The base financial year for the calculation of the all India Index of Industrial Production (IIP) is:"
+    options:
+      A: 2010-2011
+      B: 2004-2005
+      C: 2011-2012
+      D: 2005-2006
+    answer: C
+    explanation: The IIP base year was revised to 2011-12 in 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q041
+    difficulty: medium
+    stem: ___________codified the first two laws of thermodynamics and deduced that the absolute zero of temperature is −273.15°C. He was honoured for this with the naming of the Kelvin temperature scale.
+    options:
+      A: William Crookes
+      B: William Thomson
+      C: Luis Alvarez
+      D: Robert Hooke
+    answer: B
+    explanation: William Thomson (Lord Kelvin) worked out absolute zero, about −273.15 °C; the Kelvin scale is named after him.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q042
+    difficulty: medium
+    stem: ________ is an important road link between Srinagar on one side and Kargil and Leh on the other side.
+    options:
+      A: Muling La
+      B: Shipki La
+      C: Zoji La
+      D: Qara Tag La
+    answer: C
+    explanation: The Zoji La pass on the Srinagar-Leh highway links Srinagar with Kargil and Leh.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q043
+    difficulty: medium
+    stem: What does the Lorenz Curve indicate?
+    options:
+      A: Relationship between the price of a certain commodity and its demand
+      B: Income distribution
+      C: Rate of employment
+      D: Taxable income elasticity
+    answer: B
+    explanation: The Lorenz curve shows how income (or wealth) is distributed; the Gini coefficient is based on it.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q044
+    difficulty: medium
+    stem: Asian Games, also known as Asiad, is a multi-sport event held every ____ years among athletes from all over Asia.
+    options:
+      A: six
+      B: four
+      C: five
+      D: three
+    answer: B
+    explanation: The Asian Games are held every four years.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q045
+    difficulty: medium
+    stem: _____ built the world famous Harmandar Sahib, popularly known as the Golden Temple in Amritsar.
+    options:
+      A: Guru Angad Dev
+      B: Guru Arjan Dev
+      C: Guru Siri Har Rai
+      D: Guru Ram Das
+    answer: B
+    explanation: Guru Arjan Dev built the Harmandir Sahib (completed 1604). Guru Ram Das had dug the sacred tank.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q046
+    difficulty: medium
+    stem: The deficiency of which nutrient causes night blindness ?
+    options:
+      A: Vitamin K
+      B: Vitamin C
+      C: Proteins
+      D: Vitamin A
+    answer: D
+    explanation: Vitamin A (retinol) is needed for the pigment rhodopsin in the eye; its lack causes night blindness.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q047
+    difficulty: medium
+    stem: During whose reign did the Chinese traveller Hiuen Tsang visit India?
+    options:
+      A: Chandragupta Vikramaditya
+      B: Samudragupta
+      C: Chandragupta I
+      D: Harshavardhana
+    answer: D
+    explanation: Hiuen Tsang (Xuanzang) visited India in the 7th century, during the reign of Harshavardhana.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q048
+    difficulty: medium
+    stem: The theory that dinosaurs were driven to extinction by the aftermath of a large asteroid impact on Earth was given by _________.
+    options:
+      A: Wilhelm Röntgen
+      B: Luis Alvarez
+      C: Henry Moseley
+      D: William Crookes
+    answer: B
+    explanation: Luis Alvarez and his son Walter proposed the asteroid-impact theory of dinosaur extinction in 1980.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q049
+    difficulty: medium
+    stem: ________was the first person to isolate methane gas. He discovered that methane mixed with air could be exploded using an electric spark.
+    options:
+      A: Alessandro Volta
+      B: William Thomson
+      C: Louis Pasteur
+      D: William Crookes
+    answer: A
+    explanation: Alessandro Volta identified methane in marsh gas in 1776 and showed it could be exploded with an electric spark.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q050
+    difficulty: medium
+    stem: _______ won gold in the Men’s freestyle wrestling 65 kg category at the Dan Kolov 2019 wrestling event.
+    options:
+      A: Yogeshwar Dutt
+      B: Bajrang Punia
+      C: Sandeep Tomar
+      D: Sushil Kumar
+    answer: B
+    explanation: Bajrang Punia won the 65 kg freestyle gold at the Dan Kolov tournament in 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-07-s3-q051
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 42 | 53 | 44 | 66 | 65 |
+      | B | 46 | 49 | 57 | 64 | 72 |
+      | C | 54 | 45 | 45 | 50 | 56 |
+      | D | 48 | 56 | 63 | 65 | 68 |
+      | E | 46 | 48 | 56 | 57 | 64 |
+
+      If the data related to the production of type D cars is represented by a pie-chart, then the central angle of the sector representing the production of cars in 2017 will be:
+    options:
+      A: 50°
+      B: 75.6°
+      C: 81.6°
+      D: 78°
+    answer: D
+    explanation: Type D total = 48 + 56 + 63 + 65 + 68 = 300. Angle for 2017 = 65/300 × 360° = 78°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q052
+    difficulty: medium
+    stem: "The ratio of the efficiencies of A, B and C is 3 : 5 : 1. Working together, they can complete a piece of work in 5 days. A and B work together for 3 days. The remaining work will be completed by C alone in?"
+    options:
+      A: 18 days
+      B: 24 days
+      C: 21 days
+      D: 15 days
+    answer: C
+    explanation: The work rates are 3, 5 and 1 units/day, so total work = 9 × 5 = 45 units. A and B do 8 × 3 = 24 units, and C does the remaining 21 units in 21 days.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q053
+    difficulty: medium
+    stem: "Four different positive numbers are written in ascending order. One-third of the average of all the four numbers is 19 less than the greatest of these numbers. If the average of the first three numbers is 12, the greatest number among the given numbers is:"
+    options:
+      A: "25"
+      B: "22"
+      C: "24"
+      D: "21"
+    answer: C
+    explanation: The first three numbers sum to 36. If x is the greatest, (36 + x)/4 ÷ 3 = x − 19, so 36 + x = 12x − 228 and x = 24.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q054
+    difficulty: medium
+    stem: If tan θ/(1 − cot θ) + cot θ/(1 − tan θ) = 1 + k, then k = ______.
+    options:
+      A: cot θ + sec θ
+      B: tan θ cosec θ
+      C: tan θ + sec θ
+      D: cosec θ sec θ
+    answer: D
+    explanation: The expression simplifies to 1 + tan θ + cot θ = 1 + 1/(sin θ cos θ) = 1 + sec θ cosec θ, so k = cosec θ sec θ.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q055
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 42 | 53 | 44 | 66 | 65 |
+      | B | 46 | 49 | 57 | 64 | 72 |
+      | C | 54 | 45 | 45 | 50 | 56 |
+      | D | 48 | 56 | 63 | 65 | 68 |
+      | E | 46 | 48 | 56 | 57 | 64 |
+
+      The average production of cars in 2018 is approximately what percent less than the total production of type D cars in 2015 and type B cars in 2017 taken together?
+    options:
+      A: 45.8%
+      B: 43.6%
+      C: 42.4%
+      D: 44.2%
+    answer: A
+    explanation: 2018 average = 325/5 = 65. D 2015 + B 2017 = 56 + 64 = 120. (120 − 65)/120 × 100 ≈ 45.8%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q056
+    difficulty: medium
+    stem: A person sells an article at a profit of 12%. If he had purchased it for 12% less and sold it for ₹9 less, he would have gained 27%. What is the original cost price of the article?
+    options:
+      A: ₹4,250
+      B: ₹4,000
+      C: ₹4,500
+      D: ₹3,750
+    answer: D
+    explanation: Let CP = x. Then 1.12x − 9 = 1.27 × 0.88x = 1.1176x, so 0.0024x = 9 and x = ₹3,750.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q057
+    difficulty: medium
+    stem: (2 tan 30°/(1 − tan² 30°)) =
+    options:
+      A: "3"
+      B: 1/3
+      C: √3
+      D: 1/√3
+    answer: C
+    explanation: 2 tan θ/(1 − tan² θ) = tan 2θ, so the value is tan 60° = √3.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q058
+    difficulty: medium
+    stem: "The base and altitude of an isosceles triangle are 10 cm and 12 cm respectively. Then the length of each equal side is:"
+    options:
+      A: 10 cm
+      B: 7.5 cm
+      C: 8.5 cm
+      D: 13 cm
+    answer: D
+    explanation: The altitude bisects the base, so each equal side = √(5² + 12²) = 13 cm.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q059
+    difficulty: medium
+    stem: In a circle with centre O, PQR is a tangent at the point Q on it. AB is a chord in the circle parallel to the tangent such that ∠BQR = 70°. What is the measure of ∠AQB?
+    options:
+      A: 40°
+      B: 60°
+      C: 55°
+      D: 35°
+    answer: A
+    explanation: AB ∥ PR, so ∠QBA = ∠BQR = 70°, and by the alternate segment theorem ∠QAB = 70°. So ∠AQB = 180° − 140° = 40°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q060
+    difficulty: medium
+    stem: "If (8x³ + 27y³) ÷ (2x + 3y) = (Ax² + Bxy + Cy²), then the value of (5A + 4B + 3C) is:"
+    options:
+      A: "26"
+      B: "23"
+      C: "24"
+      D: "27"
+    answer: B
+    explanation: 8x³ + 27y³ = (2x + 3y)(4x² − 6xy + 9y²), so A = 4, B = −6, C = 9 and 5A + 4B + 3C = 20 − 24 + 27 = 23.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q061
+    difficulty: medium
+    stem: Two chords AB and CD of lengths 5 cm and 11 cm respectively are parallel and are on the same side of the centre O of a circle. If the distance between the chords is 3 cm, then what is the diameter of the circle?
+    options:
+      A: 37 cm
+      B: √146 cm
+      C: √142 cm
+      D: 38 cm
+    answer: B
+    explanation: "With distances d₁, d₂ from the centre: d₁² − d₂² = 5.5² − 2.5² = 24 and d₁ − d₂ = 3, so d₁ = 5.5. Then r² = 2.5² + 5.5² = 36.5, and the diameter is 2√36.5 = √146 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q062
+    difficulty: medium
+    stem: "If 1/(cosec θ − 1) + 1/(cosec θ + 1) = 2sec θ, 0° < θ < 90°, then the value of (cot θ + cos θ) is:"
+    options:
+      A: (1 + √2)/2
+      B: (2 + √2)/2
+      C: (2 + √3)/√2
+      D: 1 + √2
+    answer: B
+    explanation: The LHS = 2 cosec θ/cot² θ = 2 sin θ/cos² θ. Setting this equal to 2 sec θ gives tan θ = 1, so θ = 45°. Then cot θ + cos θ = 1 + 1/√2 = (2 + √2)/2.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q063
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 42 | 53 | 44 | 66 | 65 |
+      | B | 46 | 49 | 57 | 64 | 72 |
+      | C | 54 | 45 | 45 | 50 | 56 |
+      | D | 48 | 56 | 63 | 65 | 68 |
+      | E | 46 | 48 | 56 | 57 | 64 |
+
+      What is the ratio of the total production of type A cars in 2017 and type C cars in 2014 taken together to the total production of type B cars in 2014, type C cars in 2017 and type E cars in 2018 taken together?
+    options:
+      A: "12 : 11"
+      B: "3 : 4"
+      C: "2 : 3"
+      D: "5 : 6"
+    answer: B
+    explanation: "(66 + 54) : (46 + 50 + 64) = 120 : 160 = 3 : 4."
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q064
+    difficulty: medium
+    stem: "The value of sin²30° cos²45° + 4tan²30° + (1/2)sin²90° + 2 cos 90° is:"
+    options:
+      A: 15/8
+      B: 47/24
+      C: 23/12
+      D: "2"
+    answer: B
+    explanation: (1/4)(1/2) + 4(1/3) + 1/2 + 0 = 3/24 + 32/24 + 12/24 = 47/24.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q065
+    difficulty: medium
+    stem: "If 10-digit number 67127y76x2 is divisible by 88, then the value of (7x- 2y) is:"
+    options:
+      A: "10"
+      B: "7"
+      C: "3"
+      D: "5"
+    answer: B
+    explanation: "Divisible by 8: 6x2 gives x = 3 or 7. Divisible by 11: y − x − 4 must be a multiple of 11, giving (x, y) = (3, 7) or (7, 0). Only the first gives an option: 7(3) − 2(7) = 7."
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q066
+    difficulty: medium
+    stem: "The value of 6 − 6 ÷ 6 × 6 + (6 ÷ 6 of 6) × 6 − (3 2/3 ÷ 11/30 of 2/3) ÷ 5 is:"
+    options:
+      A: "0"
+      B: "2"
+      C: "-1"
+      D: "-2"
+    answer: D
+    explanation: 'Do "of" first: 6 − 6 + (6 ÷ 36) × 6 − (11/3 ÷ 11/45) ÷ 5 = 0 + 1 − 15 ÷ 5 = 1 − 3 = −2.'
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q067
+    difficulty: medium
+    stem: A cylindrical road roller made of metal is one meter long. Its inner radius is 27 cm and the thickness of the metal sheet rolled into it is 9 cm. What is the weight of the roller, if 1 cm³ of the metal weighs 8 g?
+    options:
+      A: 441 π kg
+      B: 442.4 π kg
+      C: 449 π kg
+      D: 453.6 π kg
+    answer: D
+    explanation: Volume = π(36² − 27²) × 100 = 56,700π cm³. Weight = 56,700π × 8 g = 453.6π kg.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q068
+    difficulty: medium
+    stem: "Surbhi spends 75% of her income. If her income increases by 20% and savings decrease by 1%, then the percentage increase in her expenditure is:"
+    options:
+      A: "27"
+      B: "2.2"
+      C: "22"
+      D: "2.7"
+    answer: A
+    explanation: "Take income 100: expenditure 75, savings 25. New income 120 and savings 25 × 0.99 = 24.75, so expenditure = 95.25, a 27% increase."
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q069
+    difficulty: medium
+    stem: In ΔABC, AM ⊥ BC and AN is the bisector of ∠A. What is the measure of ∠MAN, if ∠B = 55° and ∠C = 35°?
+    options:
+      A: 10°
+      B: 12°
+      C: 15°
+      D: 5°
+    answer: A
+    explanation: The angle between the altitude and the angle bisector from A is (∠B − ∠C)/2 = (55° − 35°)/2 = 10°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q070
+    difficulty: medium
+    stem: |-
+      The table shows the production of different types of cars (in thousands).
+
+      | Car \ Year | 2014 | 2015 | 2016 | 2017 | 2018 |
+      |---|---|---|---|---|---|
+      | A | 42 | 53 | 44 | 66 | 65 |
+      | B | 46 | 49 | 57 | 64 | 72 |
+      | C | 54 | 45 | 45 | 50 | 56 |
+      | D | 48 | 56 | 63 | 65 | 68 |
+      | E | 46 | 48 | 56 | 57 | 64 |
+
+      The total production of type A cars in 2016 and type E cars in 2014 taken together is what percent of the total production of type C cars during 2014 to 2018?
+    options:
+      A: "36"
+      B: "32"
+      C: "35"
+      D: "40"
+    answer: A
+    explanation: (44 + 46) / (54 + 45 + 45 + 50 + 56) × 100 = 90/250 × 100 = 36%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q071
+    difficulty: medium
+    stem: "If 6x/(2x² + 5x − 2) = 1, x > 0, then the value of x³ + 1/x³ is:"
+    options:
+      A: (3/8)√17
+      B: 5√17/8
+      C: 5√17/16
+      D: (3/4)√17
+    answer: B
+    explanation: 6x = 2x² + 5x − 2 gives x − 1/x = 1/2, so x + 1/x = √(1/4 + 4) = √17/2. Then x³ + 1/x³ = s³ − 3s = (√17/2)(17/4 − 3) = 5√17/8.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q072
+    difficulty: medium
+    stem: "A journey of 96 km takes one hour less by a fast train (A) than by a slow train (B). If the average speed of B is 16 km/h less than that of A, then the average speed (in km/h) of A is:"
+    options:
+      A: "64"
+      B: "48"
+      C: "54"
+      D: "60"
+    answer: B
+    explanation: 96/(v − 16) − 96/v = 1 gives v² − 16v − 1536 = 0, so v = 48 km/h.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q073
+    difficulty: medium
+    stem: "A sum of ₹x is divided among A, B and C such that the ratio of shares of A and B is 7 : 12 and that of B and C is 8 : 5. If the difference in the shares of A and C is ₹214, then the value of x is:"
+    options:
+      A: 11,556
+      B: 11,128
+      C: 11,770
+      D: 11,342
+    answer: D
+    explanation: "A : B : C = 14 : 24 : 15. A − C = 1 part = ₹214, so x = 53 × 214 = ₹11,342."
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q074
+    difficulty: medium
+    stem: What is the compound interest on a sum of ₹8,100 for 1 1/4 years at 8% per annum, if the interest is compounded 5-monthly? (Nearest to ₹1)
+    options:
+      A: ₹837
+      B: ₹873
+      C: ₹842
+      D: ₹824
+    answer: A
+    explanation: The rate per 5 months is 8 × 5/12 = 10/3%, and 15 months = 3 periods. Amount = 8100 × (31/30)³ = 8937.3, so CI ≈ ₹837.
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q075
+    difficulty: medium
+    stem: By how much above the cost price should an article be marked up for sale so that after allowing two successive discounts of 20% and 6.25% on it, a net gain of 20% is made on the cost?
+    options:
+      A: 66 2/3%
+      B: 46 1/4%
+      C: 50%
+      D: 60%
+    answer: D
+    explanation: "MP × 0.8 × 0.9375 = 0.75 MP = 1.2 CP, so MP = 1.6 CP: a 60% markup."
+    tags:
+      - quant
+  - slug: cgl-2019-06-07-s3-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      LIBERTY
+    options:
+      A: slavery
+      B: freedom
+      C: autonomy
+      D: reservation
+    answer: A
+    explanation: Liberty means freedom; its opposite is slavery.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q077
+    difficulty: medium
+    stem: |-
+      Fill in the blank with the most appropriate word.
+
+      The old man wished to donate his ______ wealth for the upliftment of the downtrodden.
+    options:
+      A: immense
+      B: elusive
+      C: intense
+      D: eminent
+    answer: A
+    explanation: '"Immense" means very large, which suits "wealth". "Eminent" describes people, and "intense" describes feelings.'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q078
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: concious
+      B: corigible
+      C: complascent
+      D: contemptible
+    answer: D
+    explanation: Contemptible is correct. The others should be conscious, corrigible and complacent.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      Let us not neglect important aspects of life <u>although pursue momentary pleasures.</u>
+    options:
+      A: by pursued moment pleasures.
+      B: through pursued in momentary pleasures.
+      C: while pursuing momentary pleasures.
+      D: No improvement
+    answer: C
+    explanation: '"While pursuing momentary pleasures" correctly links the two actions; "although pursue" is ungrammatical.'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      He <u>kicked up a row</u> when he was denied entry to the amusement park.
+    options:
+      A: cried with sorrow
+      B: waited in a queue
+      C: kicked the guard
+      D: created a fuss
+    answer: D
+    explanation: '"Kick up a row" means to create a fuss or make a noisy protest.'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      TRANSIENT
+    options:
+      A: stationary
+      B: temporal
+      C: celestial
+      D: permanent
+    answer: D
+    explanation: Transient means lasting only a short time; its opposite is permanent.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q082
+    difficulty: medium
+    stem: |-
+      Select one word substitution for the given words.
+
+      To give up the throne
+    options:
+      A: bequeath
+      B: usurp
+      C: consign
+      D: abdicate
+    answer: D
+    explanation: To abdicate is to give up the throne formally.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q083
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. What can we do to avoid anger and provocation?
+
+      B. Anger and tension are prevalent due to conflicts arising out of these differences.
+
+      C. The society is full of people who think and act differently.
+
+      D. We need to develop in ourselves the capacity for conversion to turn negative experiences into positive thinking.
+    options:
+      A: ACBD
+      B: CBAD
+      C: CADB
+      D: ABDC
+    answer: B
+    explanation: "C states the situation (people differ), B gives its result (anger), A asks the question, and D answers it: CBAD."
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      RETICENT
+    options:
+      A: silent
+      B: garrulous
+      C: extrovert
+      D: confident
+    answer: A
+    explanation: Reticent means reserved or not saying much, i.e. silent. Garrulous is its opposite.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q085
+    difficulty: medium
+    stem: |-
+      Fill in the blank with the most appropriate word.
+
+      The committee members were in ______ over the budget for the function.
+    options:
+      A: difference
+      B: dissent
+      C: deference
+      D: descent
+    answer: B
+    explanation: '"In dissent" means in disagreement, which fits members arguing over a budget.'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q086
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      Each of the girls have given an impressive dance performance.
+    options:
+      A: have given
+      B: Each of the girls
+      C: an impressive
+      D: dance performance
+    answer: A
+    explanation: '"Each of" takes a singular verb, so it should be "has given".'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      The heavy losses in business came like a <u>bolt from the blue</u>.
+    options:
+      A: a thunderstorm
+      B: an unexpected disaster
+      C: a windfall
+      D: an ominous warning
+    answer: B
+    explanation: '"A bolt from the blue" is a complete surprise, usually an unpleasant one.'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q088
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: attendence
+      B: abundance
+      C: arrogence
+      D: apearance
+    answer: B
+    explanation: Abundance is correct. The others should be attendance, arrogance and appearance.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q089
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. Only the fittest creatures can survive while competing for food.
+
+      B. Why do some species survive and others become extinct?
+
+      C. His answer was that there is ceaseless struggle for life among all creatures.
+
+      D. This was the question that Darwin asked himself.
+    options:
+      A: ADCB
+      B: ABDC
+      C: BDCA
+      D: BCDA
+    answer: C
+    explanation: "B asks the question, D says Darwin asked it, C gives his answer, and A follows from it: BDCA."
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      FURY
+    options:
+      A: sorrow
+      B: anger
+      C: cruelty
+      D: fright
+    answer: B
+    explanation: Fury means violent anger.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q091
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There was still a light on in Mo's room. He often stayed (1)______ reading late into the night. Meggie had (2)______ her love of books from him. When she (3)______ refuge with him from a bad dream, nothing could lull (4)______back to sleep better than Mo's calm breathing (5)______ her and the sound of the pages turning.
+
+      Select the most appropriate option to fill in blank No.1.
+    options:
+      A: up
+      B: away
+      C: for
+      D: out
+    answer: A
+    explanation: '"Stay up" means to remain awake late at night.'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q092
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There was still a light on in Mo's room. He often stayed (1)______ reading late into the night. Meggie had (2)______ her love of books from him. When she (3)______ refuge with him from a bad dream, nothing could lull (4)______back to sleep better than Mo's calm breathing (5)______ her and the sound of the pages turning.
+
+      Select the most appropriate option to fill in blank No.2.
+    options:
+      A: procured
+      B: inherited
+      C: extracted
+      D: gained
+    answer: B
+    explanation: A love of books passed from a father to his daughter is "inherited" from him.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q093
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There was still a light on in Mo's room. He often stayed (1)______ reading late into the night. Meggie had (2)______ her love of books from him. When she (3)______ refuge with him from a bad dream, nothing could lull (4)______back to sleep better than Mo's calm breathing (5)______ her and the sound of the pages turning.
+
+      Select the most appropriate option to fill in blank No.3
+    options:
+      A: takes
+      B: has taken
+      C: will take
+      D: took
+    answer: D
+    explanation: The passage is in the past tense, so "took refuge" fits.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q094
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There was still a light on in Mo's room. He often stayed (1)______ reading late into the night. Meggie had (2)______ her love of books from him. When she (3)______ refuge with him from a bad dream, nothing could lull (4)______back to sleep better than Mo's calm breathing (5)______ her and the sound of the pages turning.
+
+      Select the most appropriate option to fill in blank No.4
+    options:
+      A: her
+      B: it
+      C: his
+      D: them
+    answer: A
+    explanation: The pronoun refers to Meggie, so "lull her back to sleep".
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q095
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There was still a light on in Mo's room. He often stayed (1)______ reading late into the night. Meggie had (2)______ her love of books from him. When she (3)______ refuge with him from a bad dream, nothing could lull (4)______back to sleep better than Mo's calm breathing (5)______ her and the sound of the pages turning.
+
+      Select the most appropriate option to fill in blank No.5.
+    options:
+      A: against
+      B: around
+      C: beside
+      D: behind
+    answer: C
+    explanation: Mo is next to her, so "calm breathing beside her".
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q096
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      The hunchback was being laughed at by everyone.
+    options:
+      A: Everyone was laughing at the hunchback.
+      B: Everyone is laughing at the hunchback.
+      C: Everyone laughed at the hunchback.
+      D: Everyone laughs at the hunchback.
+    answer: A
+    explanation: The past continuous passive "was being laughed at" becomes the past continuous active "was laughing at".
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q097
+    difficulty: medium
+    stem: |-
+      Select one word substitution for the given words.
+
+      A trade that is prohibited by law
+    options:
+      A: incredible
+      B: illusive
+      C: inapt
+      D: illicit
+    answer: D
+    explanation: Illicit means forbidden by law, as in an illicit trade.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q098
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      Some people believe that discipline means blind submission to authority.
+    options:
+      A: It is belief by some people that discipline means blind submission to authority.
+      B: It was believed by some people that discipline meant blind submission to authority.
+      C: It is believed by some people that discipline means blind submission to authority.
+      D: It has been believed by some people that discipline means blind submission to authority.
+    answer: C
+    explanation: For a present-tense "believe that...", the passive is "It is believed by some people that...", and the that-clause keeps its tense.
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q099
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      We must endeavour to increase women's <u>access for education also employment</u>.
+    options:
+      A: access in education also employment
+      B: excess to education or employment
+      C: No improvement
+      D: access to education and employment
+    answer: D
+    explanation: 'The correct idiom is "access to", and "and" joins the two nouns: "access to education and employment".'
+    tags:
+      - english
+  - slug: cgl-2019-06-07-s3-q100
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      If so many catches had not being dropped, we would have won the match.
+    options:
+      A: If so many catches
+      B: had not being dropped
+      C: won the match
+      D: we would have
+    answer: B
+    explanation: In the past perfect passive the auxiliary is "had not been dropped", not "being".
+    tags:
+      - english

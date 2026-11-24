@@ -1,0 +1,909 @@
+slug: 2016-09-10-shift2
+title: एसएससी सीजीएल 2016 टियर 1
+date: 2016-09-10
+label: 10 Sept, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/57ee9ad4-dab7-11ed-83c9-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2016-09-10-s2-q001
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      गहरा : हल्का :: शोर : ?
+    options:
+      A: संगीत
+      B: शान्त
+      C: लय
+      D: शून्य
+    answer: B
+    explanation: Dark and Light are opposites; the opposite of Noise is Quiet.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q002
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      BECD:GJHI :: LOMN:?
+    options:
+      A: PSRQ
+      B: PQRS
+      C: QTSR
+      D: QTRS
+    answer: D
+    explanation: "Each letter moves 5 places forward: B→G, E→J, C→H, D→I. So L→Q, O→T, M→R, N→S gives QTRS."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q003
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      27:125 :: 64:?
+    options:
+      A: "162"
+      B: "216"
+      C: "273"
+      D: "514"
+    answer: B
+    explanation: 27 = 3³ and 125 = 5³ (cube of the number two higher). 64 = 4³, so the answer is 6³ = 216.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q004
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या युग्म को चुनिए ?
+    options:
+      A: मीटर
+      B: किलोमीटर
+      C: डेसीमीटर
+      D: ऐमीटर
+    answer: D
+    explanation: Metre, kilometre and decimetre are units of length; an ammeter is an instrument that measures current.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q005
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या युग्म को चुनिए ?
+    options:
+      A: HP
+      B: CJ
+      C: FN
+      D: RZ
+    answer: B
+    explanation: H(8)→P(16), F(6)→N(14) and R(18)→Z(26) differ by 8; C(3)→J(10) differs by only 7.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q006
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या युग्म को चुनिए ?
+    options:
+      A: 52-61
+      B: 72-81
+      C: 54-63
+      D: 33-41
+    answer: D
+    explanation: 52-61, 72-81 and 54-63 each differ by 9; 33-41 differs by 8.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में दिए गए क्रम के अनुसार लिखिए ?
+
+      1) PHYSICAL
+      2) PHYSICS
+      3) PHYSIOLOGY
+      4) PHYSICIAN
+      5) PHONE
+    options:
+      A: 5,1,4,2,3
+      B: 5,1,2,3,4
+      C: 1,4,5,2,3
+      D: 1,5,4,3,2
+    answer: A
+    explanation: "PHONE comes first (O < Y); then PHYSICAL < PHYSICIAN < PHYSICS (A < I < S at the 7th letter) < PHYSIOLOGY: 5, 1, 4, 2, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q010
+    difficulty: medium
+    stem: मोहन ने कहा " यह लड़की मेरी माँ के पोते की पत्नी है।" मोहन का उस लड़की से संबंध बताइएं ?
+    options:
+      A: दादा/नाना
+      B: पति
+      C: पिता
+      D: ससुर
+    answer: D
+    explanation: The grandson of Mohan's mother is Mohan's son, so the girl is his daughter-in-law and Mohan is her father-in-law.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q011
+    difficulty: medium
+    stem: एक पंक्ति में बैठे पैनल के छः सदस्यों में से A, C के दायीं ओर बैठा है, किन्तु B के बायीं ओर बैठा है। E, C के बायीं ओर और D के दायीं ओर बैठा है। जबकि D स्वयं F के दायीं ओर बैठा है बताइएं पंक्ति के दोनों किनारों पर कौन-से सदस्य बैठे हैं ?
+    options:
+      A: D.F
+      B: A.B
+      C: D.B
+      D: F.B
+    answer: D
+    explanation: From left to right the row is F, D, E, C, A, B, so F and B sit at the two ends.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q012
+    difficulty: medium
+    stem: |-
+      निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता ?
+
+      LEGIBILITY
+    options:
+      A: BILL
+      B: ABILITY
+      C: BIG
+      D: LEG
+    answer: B
+    explanation: LEGIBILITY has no letter A, so ABILITY cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q013
+    difficulty: medium
+    stem: यदि REDUCE= 56, RECYCLE = 71 हो, तो REUSE किसके बराबर होगा ?
+    options:
+      A: "65"
+      B: "68"
+      C: "69"
+      D: "70"
+    answer: B
+    explanation: "The code is the sum of letter positions: REDUCE = 18+5+4+21+3+5 = 56. REUSE = 18+5+21+19+5 = 68."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q014
+    difficulty: medium
+    stem: |-
+      यदि + का अर्थ भाग हो, - का अर्थ गुणा हो, x का अर्थ घटा हो, और ÷ का अर्थ जोड़ हो, तो निम्नलिखित व्यंजक का मान क्या होगा ?
+
+      16 ÷ 8 - 4 + 2 x 4 = ?
+    options:
+      A: "16"
+      B: "28"
+      C: "32"
+      D: "44"
+    answer: B
+    explanation: "After swapping the signs: 16 + 8 × 4 ÷ 2 − 4 = 16 + 16 − 4 = 28."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q015
+    difficulty: medium
+    stem: |-
+      यदि 2 x 3 x 5 = 523
+      6 x 4 x 1 = 164
+      8 x 2 x 4 = 482 हो,
+      तब 6 x 8 x 2 = ?
+    options:
+      A: "826"
+      B: "268"
+      C: "286"
+      D: "628"
+    answer: B
+    explanation: "The digits are written in the order third, first, second: 2*3*5 → 523. So 6*8*2 → 268."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q017
+    difficulty: medium
+    stem: रीमी अपने घर से उत्तर की ओर 20 कि.मी. चली फिर वह पश्चिम की ओर मुड़ी और 15 कि.मी. चली। तत्पश्चात वह दक्षिण की ओर मुड़ी और 10 कि.मी. चली। अन्ततः पूर्व की ओर मुड़ते हुए वह 15 कि.मी. चली। अब वह अपने घर से किस दिशा में है ?
+    options:
+      A: पूर्व
+      B: पश्चिम
+      C: उत्तर
+      D: दक्षिण
+    answer: C
+    explanation: North 20 km, south 10 km leaves 10 km north; west 15 km and east 15 km cancel. She is north of her house.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q019
+    difficulty: medium
+    stem: |-
+      ब्लॉक के 6 फलकों को नीचे दिखाए अनुसार अलग-अलग रंगों से पेंट किया गया है। आकृति 3 में लाल रंग के ठीक सामने कौन-सा रंग है ?
+
+      *(चित्र: Four numbered views of a cube (top / front / right side):
+      1) PINK / ORANGE / YELLOW; 2) PINK / RED / BLACK; 3) BLUE / RED / YELLOW; 4) BLUE / ORANGE / BLACK.)*
+    options:
+      A: Black
+      B: Yellow
+      C: Orange
+      D: Pink
+    answer: C
+    explanation: Pink is adjacent to orange, yellow, red and black, so pink is opposite blue. Red touches yellow (view 3) and black (view 2), so red is opposite orange.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q025
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में विकल्पों में दिए गए संख्या-समूह, अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसे कि नीचे दिए गए दो आव्यूहों में हैं। आव्यूह I के सतम्भ और पंक्ति की संख्या 0 से 4 तक दी गई है, और आव्यूह II के 5 से 9 तक, इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए, B को 00, 13 आदि द्वारा दर्शाया जा सकता है तथा O को 56, 68आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको दिए शब्द '**TEAR**' के लिए समूह को पहचानना है।
+
+      MATRIX 1
+
+      |   | 0 | 1 | 2 | 3 | 5 |
+      |---|---|---|---|---|---|
+      | 0 | B | C | D | E | A |
+      | 1 | D | E | A | B | C |
+      | 2 | C | D | E | A | B |
+      | 3 | A | B | C | D | E |
+      | 4 | E | A | B | C | D |
+
+      MATRIX 2
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | R | O | N | T | U |
+      | 6 | T | U | R | O | N |
+      | 7 | O | N | T | U | R |
+      | 8 | U | R | O | N | T |
+      | 9 | N | T | U | R | O |
+    options:
+      A: 58,34,21,67
+      B: 96,11,26,12
+      C: 65,40,23,79
+      D: 77,58,21,98
+    answer: C
+    explanation: In option C, 65 = T, 40 = E, 23 = A and 79 = R, which spells TEAR.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q026
+    difficulty: medium
+    stem: निम्नलिखित में से कौन भारत में सामाजिक और धार्मिक सुधार में सक्रियता से नहीं जुडे थे ?
+    options:
+      A: राजा राम मोहन राय
+      B: पं ईश्वर चन्द्र विद्यासागर
+      C: जोतिबा फुले
+      D: भारतेन्दु हरिश्चन्द्र
+    answer: D
+    explanation: Bharatendu Harishchandra was a Hindi writer and poet; Ram Mohan Roy, Vidyasagar and Jyotiba Phule were social and religious reformers.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q027
+    difficulty: medium
+    stem: प्रत्यक्ष - कर का मुख्य रुप से प्रभाव किस पर पड़ता है ?
+    options:
+      A: खाद्य पदार्थों की कीमतों पर
+      B: उपभोक्ता वस्तुओं पर
+      C: पूंजीगत माल पर
+      D: आय पर
+    answer: D
+    explanation: Direct taxes, such as income tax, are levied on income and wealth, so their main effect is on income.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q028
+    difficulty: medium
+    stem: लोक सभा स्थगित करने की अधिकार किसे है ?
+    options:
+      A: अध्यक्ष
+      B: प्रधान मंत्री
+      C: संसदीय कार्य मंत्री
+      D: राष्ट्रपति
+    answer: D
+    explanation: Under Article 85 the President summons and prorogues the Houses of Parliament.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q029
+    difficulty: medium
+    stem: भारत आने वाले प्रथम यूरोपीय कौन थें ?
+    options:
+      A: ब्रिटिश
+      B: डच
+      C: फ्रांसीसी
+      D: पुर्तगाली
+    answer: D
+    explanation: "The Portuguese came first: Vasco da Gama reached Calicut in 1498."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q030
+    difficulty: medium
+    stem: डंपिंग(पाटना)' शब्द किसके लिए प्रयोग किया जाता है ?
+    options:
+      A: अवमानक चीजों की बिक्री
+      B: किसी चीज की सीमान्त लागत से कम कीमत पर किसी विदेशी बाजार में बिक्री
+      C: किसी चीज की सीमान्त लागत पर बहुत अधिक लाभ कमाते हुए विदेशी बाजार में बिक्री
+      D: सीमा शुल्क बिना अदा करते हुए माल की तस्करी
+    answer: B
+    explanation: Dumping is selling a good in a foreign market at a price below its cost or its home-market price.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q031
+    difficulty: medium
+    stem: सूर्य भूमध्य रेखा पर ऊर्ध्वाधर कब चमकता है?
+    options:
+      A: पूरे वर्ष
+      B: छः माह
+      C: वर्ष में दो बार
+      D: वर्ष में एक बार
+    answer: C
+    explanation: The sun is overhead at the Equator twice a year, at the equinoxes (around 21 March and 23 September).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q032
+    difficulty: medium
+    stem: लाइकेन किन दो के बीच का संबंध है ?
+    options:
+      A: शैवाल और कवक
+      B: शैवाल और व्रक्ष
+      C: कवक और व्रक्ष
+      D: जीवाणु और शिंब पौधे
+    answer: A
+    explanation: A lichen is a symbiotic association of an alga (or cyanobacterium) with a fungus.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q033
+    difficulty: medium
+    stem: नीचे दिए गए पोषक तत्वों में से दूध में क्या बहुत अल्प मात्रा में होता है ?
+    options:
+      A: विटामिन C
+      B: कैल्सियम
+      C: प्रोटीन
+      D: कार्बोहाइड्रेट
+    answer: A
+    explanation: Milk is rich in calcium, protein and lactose but is a poor source of vitamin C (and of iron).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q034
+    difficulty: medium
+    stem: काली मिर्च का पौधा क्या है ?
+    options:
+      A: झाड़ी
+      B: छोटा वृक्ष
+      C: बेल
+      D: पेड़
+    answer: C
+    explanation: Black pepper (Piper nigrum) is a perennial climbing vine.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q035
+    difficulty: medium
+    stem: एक तोप फाइरिंग के बाद पीछे क्यों हटती है ?
+    options:
+      A: ऊर्जा का संरक्षण
+      B: उत्सर्जित गैसों का पीछे की ओर धक्का लगने से
+      C: न्यूटन का गति का तीसरा नियम
+      D: न्यूटन का गति का प्रथम नियम
+    answer: C
+    explanation: "The shell is pushed forward and the cannon is pushed back with an equal and opposite force: Newton's third law."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q036
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा कथन सही है ?
+    options:
+      A: एक 'प्राइमरी की' 'कैन्डीडेट की' भी है
+      B: प्रत्येक रिलेशन की कम से कम एक 'फारेन की' होती है
+      C: फारेन की' का शून्य मूल्य नहीं हो सकता
+      D: प्राइमरी की' 'आल्टरनेट की' भी है ।
+    answer: A
+    explanation: A primary key is the candidate key chosen to identify rows, so every primary key is a candidate key.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q037
+    difficulty: medium
+    stem: खाना बनाने वाले बर्तनों में निम्नलिखित में से क्या नॉन - स्टिक कोटिंग के लिए प्रयोग किया जाता है ?
+    options:
+      A: पेर्सपेक्स
+      B: स्टायरोफोम
+      C: पॉलिस्टाइरीन
+      D: टैफ्लॉन
+    answer: D
+    explanation: Teflon (PTFE) is the non-stick coating used on cookware.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q038
+    difficulty: medium
+    stem: '"सुनामी" नाम किसे दिया गया है ?'
+    options:
+      A: भूकम्प
+      B: चक्रवात
+      C: ज्वारीय तरंग
+      D: समुंद्र के नीचे कि तरंगे
+    answer: C
+    explanation: A tsunami is a series of giant sea waves caused by undersea earthquakes; it is popularly called a "tidal wave".
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q039
+    difficulty: medium
+    stem: प्रथम भारतीय नागरिक, जिसे 'कमर्शियल पायलट लाइसेंस' दिया गया, कौन था ?
+    options:
+      A: विजयपत सिंघानिया
+      B: जे.आर.डी.टाटा
+      C: केप्टन गोपीनाथ
+      D: विजय माल्या
+    answer: B
+    explanation: J.R.D. Tata got India's first commercial pilot's licence in 1929.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q040
+    difficulty: medium
+    stem: |-
+      निम्नलिखित में से कौन-कौन से बारिश के बादल हैं ?
+
+      1. पक्षाव मेघ
+
+      2. वर्षा स्तरी मेघ
+
+      3. कुमुलोनिम्बस
+
+      4. मध्य कपासी मेघ
+    options:
+      A: केवल 1 और 2
+      B: केवल 2 और 3
+      C: केवल 3 और 4
+      D: केवल 1 और 4
+    answer: B
+    explanation: Nimbostratus and cumulonimbus are the rain-bearing clouds ("nimbus" means rain).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q041
+    difficulty: medium
+    stem: भारतीय संविधान के अनुसार आपात स्थिति घोषित करने का अधिकार किसको है ?
+    options:
+      A: प्रधानमंत्री को
+      B: राष्ट्रपति को
+      C: मुख्य न्यायमूर्ति
+      D: संसद को
+    answer: B
+    explanation: Under Articles 352, 356 and 360 the President proclaims emergencies.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q042
+    difficulty: medium
+    stem: विविक्तयां (< 1 µm आकार) जो अनिश्चित काल तक वायु में निलंबित रहती है और वायु प्रवाह द्वारा अन्तरित होती है, क्या कहलाती हैं ?
+    options:
+      A: कुहासा
+      B: भाप
+      C: ऐरोसॉल
+      D: धुँआ
+    answer: C
+    explanation: Fine solid or liquid particles that stay suspended in air and are carried by wind are called aerosols.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q043
+    difficulty: medium
+    stem: "नगर पालिका द्वारा ठोस अपशिष्ट पदार्थ निपटाने की तकनीक जो सबसे कम पसंद की जाती है :"
+    options:
+      A: भस्मीकरण
+      B: कम्पोस्ट करना
+      C: भूमि को भरना
+      D: ब्रिकेटिंग
+    answer: D
+    explanation: "SSC's answer is briquetting, the least used technique; incineration, composting and landfilling are the mainstream methods. Note: in the waste-management hierarchy landfilling is usually called the least preferred option."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q044
+    difficulty: medium
+    stem: यदि कोई बम चन्द्रमा पर विस्फोटित होता है तो पृथ्वी पर उसकी आवाज कितनी देर बाद सुनाई देगी ?
+    options:
+      A: 20 मिनट
+      B: 2 घंटे 20 मिनट
+      C: 3.7 घंटे
+      D: आप विस्फोट की ध्वनि नहीं सुन सकते
+    answer: D
+    explanation: Sound needs a medium; there is no air between the Moon and the Earth, so the sound cannot be heard.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q045
+    difficulty: medium
+    stem: न्यूक्लीयर संलयन के दौरान निम्नलिखित में से क्या होता है ?
+    options:
+      A: न्यूट्रॉन बमबारी से भारी न्यूक्लिअस खंडित होता है ।
+      B: एक भारी न्यूक्लिअस स्वतः ही खंडित हो जाता है ।
+      C: दो हल्के न्यूक्लाई मिल कर एक भारी न्यूक्लियस बनाते हैं।
+      D: एक हल्का न्यूक्लिअस स्वतः ही खंडित हो जाता है ।
+    answer: C
+    explanation: In nuclear fusion two light nuclei combine to form a heavier nucleus and release energy.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q046
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शहरों को उत्तर से दक्षिण की दिशा के क्रम में लिखिए ?
+
+      1) भुवनेश्वर
+
+      2) चेन्नई
+
+      3) हैदराबाद
+
+      4) कोचिन
+    options:
+      A: 1 3 2 4
+      B: 1 2 3 4
+      C: 1 2 4 3
+      D: 1 3 4 2
+    answer: A
+    explanation: "By latitude: Bhubaneswar (~20.3°N), Hyderabad (~17.4°N), Chennai (~13.1°N), Kochi (~9.9°N): 1 3 2 4."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q047
+    difficulty: medium
+    stem: ब्रिटिश को राजनीति शक्ति किसके बाद प्राप्त हुई ?
+    options:
+      A: प्लासी का युद्ध
+      B: पानीपत का युद्ध
+      C: बक्सर का युद्ध
+      D: वन्दीवाश का युद्ध
+    answer: A
+    explanation: Victory at Plassey (1757) gave the British political power in Bengal, the start of their rule in India.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q048
+    difficulty: medium
+    stem: संयुक्त राष्ट्र सुरक्षा काऊँसिल के स्थायी सदस्यो की संख्या कितनी है ?
+    options:
+      A: "5"
+      B: "15"
+      C: "10"
+      D: "25"
+    answer: A
+    explanation: "The UN Security Council has 5 permanent members: the USA, the UK, France, Russia and China."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q049
+    difficulty: medium
+    stem: |-
+      सूची (I ) का सूची (II) से मिलान करें
+
+      | I | II |
+      |---|---|
+      | a. सारस | i) बैटल टैंक |
+      | b. भीश्म | ii) मल्टिपर्पस सिविल हवाई जहाज |
+      | c. ब्रह्मोस | iii) सेटैलाईट |
+      | d. इंसैट-3सि | iv) मिसाईल |
+    options:
+      A: a-i , b-ii , c-iii , d-iv
+      B: a-iii , b-ii , c-iv , d-i
+      C: a-iv , b-iii , c-i , d-ii
+      D: a-ii , b-i , c-iv , d-iii
+    answer: D
+    explanation: SARAS is a civil aircraft, BHISHMA a battle tank (T-90), BRAHMOS a cruise missile and INSAT-3C a satellite.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q050
+    difficulty: medium
+    stem: वर्ल्ड इकोनॉमिक आउटलुक' रिपोर्ट किसके द्वारा प्रकाशित की जाती है ?
+    options:
+      A: अंतर्राष्ट्रीय मुद्रा कोष
+      B: विश्व बैंक
+      C: भारतीय रिजर्व बैंक
+      D: यू.एन.सी.टी.ऐ.डी.
+    answer: A
+    explanation: The World Economic Outlook is published by the International Monetary Fund.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q051
+    difficulty: medium
+    stem: A और B के काम करने की दर 2:3 के अनुपात में है। उनके द्वारा काम को पूरा करने में लिए गए दिनों का अनुपात क्या होगा ?
+    options:
+      A: 2:3
+      B: 4:9
+      C: 3:2
+      D: 9:4
+    answer: C
+    explanation: Time taken is inversely proportional to the rate of working, so the days are in the ratio 3:2.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q052
+    difficulty: medium
+    stem: दो धनात्मक संख्याओं का अनुपात 3:4 है। उनके वर्गों का योग 400 है। संख्याओं का योग कितना है ?
+    options:
+      A: "28"
+      B: "22"
+      C: "24"
+      D: "26"
+    answer: A
+    explanation: "Let the numbers be 3k and 4k: 9k² + 16k² = 400, so k = 4. The numbers are 12 and 16; their sum is 28."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q053
+    difficulty: medium
+    stem: यदि बिक्री मूल्य पर 10% की हानि होती है, तो लागत मूल्य पर हानि की दर क्या होगी ?
+    options:
+      A: 11 1/9%
+      B: 9 1/11%
+      C: 10%
+      D: 11%
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests B.
+
+      SSC's answer 11 1/9% is the loss as a % of SP when the loss is 10% of CP, the reverse case. As worded: loss = 0.1 SP, CP = 1.1 SP, so loss on CP = 0.1/1.1 = 9 1/11%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q054
+    difficulty: medium
+    stem: यदि “आधार बिंदुओं” को इस प्रकार परिभाषित किया जाए कि 1 प्रतिशत 100 आधार बिंदुओं के बराबर है तो कितने आधार बिंदु 62.5 प्रतिशत से 82.5 प्रतिशत अधिक है ?
+    options:
+      A: "0.2"
+      B: "20"
+      C: "200"
+      D: "2000"
+    answer: D
+    explanation: 82.5% − 62.5% = 20 percentage points, and 20 × 100 = 2000 basis points.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q055
+    difficulty: medium
+    stem: ध्वनि 330 मीटर प्रति सेकेंड की गति से यात्रा करती है। यदि बादलों के गर्जने की आवाज बिजली चमकने के 10 सेकेंड बाद सुनाई दे तो उसकी दूरी (किलोमीटर में) कितनी होगी ?
+    options:
+      A: 0.33 km
+      B: 3.3 km
+      C: 33 km
+      D: 33.3 km
+    answer: B
+    explanation: Distance = 330 m/s × 10 s = 3300 m = 3.3 km.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q056
+    difficulty: medium
+    stem: कितनी राशि पर 2 वर्ष की R% पर साधारण ब्याज R होगा ?
+    options:
+      A: 100/2R
+      B: 50/R
+      C: 100/R
+      D: 200/R
+    answer: C
+    explanation: "SSC's answer 100/R follows if the time is R years: P × R × R/100 = R gives P = 100/R. With 2 years as printed, the sum would be 50."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q057
+    difficulty: medium
+    stem: यदि P² + 1/P² = 47 हो, तो P + 1/P का मान बताऍ ?
+    options:
+      A: "5"
+      B: "6"
+      C: "7"
+      D: "8"
+    answer: C
+    explanation: (P + 1/P)² = P² + 1/P² + 2 = 49, so P + 1/P = 7.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q058
+    difficulty: medium
+    stem: (x-y)² , (x²-y²)² इन संख्याओं का तीसरा यथानुपात क्या है ?
+    options:
+      A: (x+y)³ (x-y)²
+      B: (x+y)⁴ (x-y)²
+      C: (x+y)² (x-y)²
+      D: (x+y)² (x-y)³
+    answer: B
+    explanation: The third proportional of a and b is b²/a = (x²−y²)⁴/(x−y)² = (x+y)⁴(x−y)².
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q059
+    difficulty: medium
+    stem: दो वृत्त बाहर की ओर से एक दूसरे को स्पर्श करते हैं। उनके केंद्रों के बीच की दूरी 7 से.मी. है। यदि एक वृत्त की त्रिज्या 4 से.मी. है, तो दूसरे वृत्त की त्रिज्या कितनी होगी ?
+    options:
+      A: 3 से.मी.
+      B: 4 से.मी.
+      C: 5.5 से.मी.
+      D: 3.5 से.मी.
+    answer: A
+    explanation: For circles that touch externally, the distance between centres = r₁ + r₂, so 7 − 4 = 3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q060
+    difficulty: medium
+    stem: माना कि ΔABC और ΔABD समान आधार AB पर हैं, और समान समांतरों AB और CD के बीच हैं, तो ΔABC और ΔABD के क्षेत्रफल के बीच क्या सम्बन्ध होगा ?
+    options:
+      A: ΔABD = 1/3 ΔABC
+      B: ΔABD = 1/2 ΔABC
+      C: ΔABC = 1/2 ΔABD
+      D: ΔABC =ΔABD
+    answer: D
+    explanation: Triangles on the same base and between the same parallels have equal areas.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q061
+    difficulty: medium
+    stem: tan²x + cot²x का न्यूनतम मान क्या है ?
+    options:
+      A: "3"
+      B: "2"
+      C: "0"
+      D: "1"
+    answer: B
+    explanation: tan²x + cot²x = (tan x − cot x)² + 2 ≥ 2, with equality at x = 45°.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q062
+    difficulty: medium
+    stem: एक दुकानदार घड़ी बेचते समय 5% की छूट देता है। यदि वह 7% की छूट देता है तो वह लाभ के रुप में ₹ 15 कम कमाता है। घड़ी का अंकित मूल्य क्या है ?
+    options:
+      A: "697.5"
+      B: "712.5"
+      C: "750"
+      D: None of the these
+    answer: C
+    explanation: The 2% extra discount is worth ₹15, so the marked price = 15/0.02 = ₹750.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q063
+    difficulty: medium
+    stem: "'*' के स्थान पर कितना न्यूनतम मान रखा जाए कि 63576*2 संख्या 8 से विभाजित हो जाए ?"
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: C
+    explanation: A number is divisible by 8 if its last three digits are; 6*2 works first with * = 3 (632 = 8 × 79).
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q064
+    difficulty: medium
+    stem: एक छात्र ने दी गई 10 संख्याओं का औसत ज्ञात करते समय गलती से 46 के बजाय 64 लिखा और औसत 50 निकाला, संख्याओं का सही औसत ज्ञात कीजिए ?
+    options:
+      A: "48.2"
+      B: "48"
+      C: "48.1"
+      D: "49"
+    answer: A
+    explanation: "The total was 18 too high (64 − 46), so the average falls by 18/10 = 1.8: 50 − 1.8 = 48.2."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q065
+    difficulty: medium
+    stem: यदि x + √5 = 5 + √y और x,y धनात्मक पूर्णांक है, तो (√x + y)/(x + √y) का मान क्या है ?
+    options:
+      A: "1"
+      B: "2"
+      C: √5
+      D: "5"
+    answer: A
+    explanation: Comparing the rational and irrational parts, x = 5 and y = 5, so (√5 + 5)/(5 + √5) = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q066
+    difficulty: medium
+    stem: 997 का घन क्या है ?
+    options:
+      A: "991026973"
+      B: "991029673"
+      C: "991029773"
+      D: "991097273"
+    answer: A
+    explanation: 997³ = (1000 − 3)³ = 10⁹ − 9×10⁶ + 27×10³ − 27 = 991026973.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q067
+    difficulty: medium
+    stem: एक त्रिभुज की भुजाओं की लम्बाई क्रमशः a,b,c है। यदि a² + b² + c² = ab + bc + ca हो तो त्रिभुज कैसा होगा ?
+    options:
+      A: समद्विबाहु
+      B: समबाहु
+      C: विषमबाहु
+      D: समकोणीय
+    answer: B
+    explanation: a² + b² + c² − ab − bc − ca = ½[(a−b)² + (b−c)² + (c−a)²] = 0 forces a = b = c, so the triangle is equilateral.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q068
+    difficulty: medium
+    stem: त्रिज्या Y वाले वृत्त का क्षेत्रफल W है। बड़े वृत्त (त्रिज्या Y वाले ) का क्षेत्रफल और छोटे वृत्त (त्रिज्या X वाले ) के क्षेत्रफल का अंतर W' है तो X/Y किसके बराबर होगा ?
+    options:
+      A: √(1 − W'/W)
+      B: √(1 + W'/W)
+      C: √(1 + W/W')
+      D: √(1 − W/W')
+    answer: A
+    explanation: W' = πY² − πX², so X²/Y² = (W − W')/W and X/Y = √(1 − W'/W).
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q069
+    difficulty: medium
+    stem: यदि cos 21° =x/y हो, तो cosec 21° – cos 69° किसके बराबर होगा ?
+    options:
+      A: x²/(y√(y² − x²))
+      B: y²/(x√(y² − x²))
+      C: y²/(x√(x² − y²))
+      D: x²/(y√(x² − y²))
+    answer: A
+    explanation: cosec 21° − cos 69° = 1/sin 21° − sin 21° = cos²21°/sin 21°. With sin 21° = √(y²−x²)/y this is x²/(y√(y²−x²)).
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q070
+    difficulty: medium
+    stem: |-
+      एक लंब वृत्तीय शंक्वाकार ढांचा 21 मी. व्यास वाले वृत्ताकार आधार पर खड़ा है जिसकी ऊँचाई 14 मी. है। ₹ 6 प्रति वर्गमीटर के हिसाब से तिरछी सतह की रंगाई की कुल लागत कितनी होगी ?
+
+      (जहॉ Π = 22/7 )
+    options:
+      A: "4365"
+      B: "4465"
+      C: "3465"
+      D: "3365"
+    answer: C
+    explanation: r = 10.5 m and h = 14 m, so l = √(10.5² + 14²) = 17.5 m. CSA = 22/7 × 10.5 × 17.5 = 577.5 m², and the cost is 577.5 × 6 = ₹3465.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q071
+    difficulty: medium
+    stem: एक टेलीग्राफ खंभा जमीन के ऊपर एक बिंदु पर झुका हुआ है। उसका शीर्ष उसके पाद से 8√3 मी. की दूरी पर जमीन को स्पर्श करता है और क्षैतिज पर 30° का कोण बनाता है। खम्भे की ऊँचाई कितनी (मीटर में) है ?
+    options:
+      A: "12"
+      B: "16"
+      C: "18"
+      D: "24"
+    answer: D
+    explanation: Standing part = 8√3 × tan 30° = 8 m; broken part = 8√3 / cos 30° = 16 m; height = 8 + 16 = 24 m.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q072
+    difficulty: medium
+    stem: |-
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
+
+      पार्किंग किराया यदि Rs. 1 प्रति घण्टा हो तो प्रातः 9 बजे से सायं 7 बजे तक कुल कितनी धनराशि एकत्रित होगी ?
+
+      *(चित्र: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: Rs.625
+      B: Rs.635
+      C: Rs.685
+      D: Rs.695
+    answer: D
+    explanation: "Adding the bicycle counts at each hour from 9 am to 7 pm (₹1 each): 95+75+85+65+75+55+65+45+55+35+45 = ₹695."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q073
+    difficulty: medium
+    stem: |-
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
+
+      सांय 7 बजे से 8 बजे के बीच पार्क की गई साईकिलों की संख्या में सबसे अधिक कमी प्रतिशत क्या है ?
+
+      *(चित्र: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: "30"
+      B: "38"
+      C: "42"
+      D: "45"
+    answer: D
+    explanation: From 45 to 25 the fall is 20/45 ≈ 44.4%; the nearest option is 45.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q074
+    difficulty: medium
+    stem: |-
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
+
+      ग्राफ को देखकर बताए, पार्क की गई साईकिलों की औसत संख्या क्या है ?
+
+      *(चित्र: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: "40"
+      B: "45"
+      C: "55"
+      D: "60"
+    answer: D
+    explanation: The 12 readings add up to 720, and 720/12 = 60.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q075
+    difficulty: medium
+    stem: |-
+      ग्राफ का अध्ययन करे और निम्नलिखित प्रश्नों के उत्तर दीजिए।
+      ग्राफ में किसी हॉल के पार्किंग स्थान पर अलग-अलग समय में पार्क की गई साइकिलें दर्शायी गई है।
+
+      ग्राफ में कितनी बार पार्क की गई साईकिलों की संख्या औसत से अधिक है ?
+
+      *(चित्र: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: "3"
+      B: "4"
+      C: "5"
+      D: "6"
+    answer: D
+    explanation: "Readings above 60 are 95, 75, 85, 65, 75 and 65: six times."
+    tags:
+      - quant

@@ -1,0 +1,1282 @@
+slug: 2016-09-06-shift1
+title: SSC CGL 2016 Tier 1
+date: 2016-09-06
+label: 6 Sept, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/5387210a-dab7-11ed-9b4d-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2016-09-06-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      Forecast : Future :: Regret : ?
+    options:
+      A: Present
+      B: Sins
+      C: Life
+      D: Past
+    answer: D
+    explanation: We forecast the future and we regret the past.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      DCEF : QPRS :: XWYZ : ?
+    options:
+      A: SRQP
+      B: NMOP
+      C: STOV
+      D: IMGF
+    answer: B
+    explanation: DCEF, QPRS and XWYZ all follow the pattern n, n−1, n+1, n+2 (e.g. D, C, E, F). Of the options, only NMOP follows it.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      121 : 12 :: 25 : ?
+    options:
+      A: "5"
+      B: "6"
+      C: "7"
+      D: "8"
+    answer: B
+    explanation: 121 = 11², and 11 + 1 = 12. In the same way 25 = 5², and 5 + 1 = 6.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q004
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number from the given alternatives.
+    options:
+      A: Potato
+      B: Tomato
+      C: Ginger
+      D: Carrot
+    answer: B
+    explanation: Potato, ginger and carrot grow underground; a tomato is a fruit that grows above the ground.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q005
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number from the given alternatives.
+    options:
+      A: ACEG
+      B: KMNP
+      C: HJLN
+      D: TVXZ
+    answer: B
+    explanation: ACEG, HJLN and TVXZ skip one letter each time (+2). KMNP goes +2, +1, +2.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q006
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number from the given alternatives.
+    options:
+      A: 63-36
+      B: 45-74
+      C: 48-84
+      D: 26-62
+    answer: B
+    explanation: In 63-36, 48-84 and 26-62 the second number is the first with its digits reversed. 45-74 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q007
+    difficulty: medium
+    stem: |-
+      Arrange the following words as per order in the dictionary
+
+      1. Tortoise 2. Torrid 3. Torso 4.Torque 5. Tortuous
+    options:
+      A: 4, 2, 3, 1, 5
+      B: 3, 2, 4, 1, 5
+      C: 2, 3, 4, 5, 1
+      D: 4, 3, 2, 1, 5
+    answer: A
+    explanation: Torq < Torr < Tors < Tortoise < Tortuous (Torto- before Tortu-). Order 4, 2, 3, 1, 5.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q010
+    difficulty: medium
+    stem: Pointing Rajesh in the photograph, Sunita said,' The only son of his mother is my father'. How is Sunita related to Rajesh?
+    options:
+      A: Niece
+      B: Aunt
+      C: Mother
+      D: Daughter
+    answer: D
+    explanation: "'The only son of his mother' is Rajesh himself. Rajesh is Sunita's father, so she is his daughter."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q011
+    difficulty: medium
+    stem: A, B, C, D and E are standing in a line facing North. E is standing 40 metres left to B. A is standing 20 metres left to C. D is standing 20 metres right to E and 50 metres right to C. Where is B standing from D?
+    options:
+      A: 20 metres right
+      B: 30 metres right
+      C: 40 metres right
+      D: 40 metres left
+    answer: A
+    explanation: Put E at 0. Then B is at 40 and D at 20, so B is 20 m to the right of D.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q012
+    difficulty: medium
+    stem: |-
+      From the given alternative words, select the word which cannot be formed using the letters of the given word:
+
+      COMFORTABLE
+    options:
+      A: FORT
+      B: TABLE
+      C: COMFORT
+      D: ROUTE
+    answer: D
+    explanation: COMFORTABLE has no U, so ROUTE cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q013
+    difficulty: medium
+    stem: If A = 1, AND = 19, then ANT = ?
+    options:
+      A: "35"
+      B: "33"
+      C: "23"
+      D: "19"
+    answer: A
+    explanation: "Add the letters' positions: AND = 1 + 14 + 4 = 19, so ANT = 1 + 14 + 20 = 35."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q014
+    difficulty: medium
+    stem: |-
+      If + means ÷ , ÷ means - , - means x and x means + , what will be the value of the following expression:
+
+      8 + 4 ÷ 3 x 5 - 9 = ?
+    options:
+      A: "44"
+      B: "53"
+      C: "62"
+      D: "64"
+    answer: A
+    explanation: "After swapping the signs: 8 ÷ 4 − 3 + 5 × 9 = 2 − 3 + 45 = 44."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q015
+    difficulty: medium
+    stem: |-
+      In this question, some equations are solved on the basis of a certain system. On the same basis find out the correct answer from amongst the four alternatives for the unsolved equation.
+
+      8 x 5 x 0 = 805 , 7 x 4 x 6 = 764 , 6 x 8 x 9 = ?
+    options:
+      A: "689"
+      B: "698"
+      C: "968"
+      D: "986"
+    answer: B
+    explanation: "Write the 1st, 3rd and 2nd numbers in that order: 8, 0, 5 → 805 and 7, 6, 4 → 764. So 6, 9, 8 → 698."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q017
+    difficulty: medium
+    stem: Anitha walked 20 km towards north. Then she turned right and walked 30km. Then she turned right and travelled 35 km. Then she moved left and walked 15 km. Finally she turned left and walked 15 km. In which direction was she from the starting point?
+    options:
+      A: South
+      B: North
+      C: East
+      D: West
+    answer: C
+    explanation: North 20, east 30, south 35, east 15, north 15. Her net position is 45 km east and 0 north, so she is due east of the start.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q018
+    difficulty: medium
+    stem: |-
+      Consider the given statement/s to be true and decide which of the given conclusions/assumptions can definitely be drawn from the given statement.
+
+      **Statements:** 1. No man is a Monkey. 2. Hari is a man.
+
+      **Conclusions:** I. Hari is not a Monkey. II. All men are not Hari.
+    options:
+      A: Only conclusion I follows
+      B: Only conclusion II follows
+      C: Both conclusion I and conclusion II follow
+      D: Neither conclusion I nor conclusion II follows
+    answer: A
+    explanation: No man is a monkey and Hari is a man, so Hari is not a monkey. Nothing follows about whether all men are Hari.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q019
+    difficulty: medium
+    stem: |-
+      Four positions of a cube are shown in the diagram. Which color is opposite to Green color in the given cubes?
+
+      *(Figure: Four views of the same cube (top face / left face / right face):
+      1) Red / Green / Blue; 2) Green / Yellow / Blue; 3) Blue / Yellow / Orange; 4) Yellow / Green / White.)*
+    options:
+      A: Blue
+      B: Yellow
+      C: Orange
+      D: White
+    answer: C
+    explanation: Green is shown next to Red, Blue, Yellow and White. The only colour left, Orange, must be opposite it.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q025
+    difficulty: medium
+    stem: |-
+      In the question, a word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in two matrices given below. The columns and rows of Matrix I are numbered from 0 to 4 and that of Matrix II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, e.g., 'U' can be represented by 01, 12, etc., and 'L' can be represented by 56, 67, etc. Similarly you have to identify the set for the word 'SPARE'
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | S | U | P | E | R |
+      | 1 | R | S | U | P | E |
+      | 2 | E | R | S | U | P |
+      | 3 | P | E | R | S | U |
+      | 4 | U | P | E | R | S |
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | G | L | A | N | D |
+      | 6 | D | G | L | A | N |
+      | 7 | N | D | G | L | A |
+      | 8 | A | N | D | G | L |
+      | 9 | L | A | N | D | G |
+    options:
+      A: 22, 41, 85, 32, 14
+      B: 12, 24, 21, 68, 14
+      C: 44, 78, 67, 32, 42
+      D: 33, 30, 43, 40,43
+    answer: A
+    explanation: S = 22, P = 41, A = 85, R = 32 and E = 14. Every pair in option A matches.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q026
+    difficulty: medium
+    stem: Golden Hand Shake scheme is the name of
+    options:
+      A: Retirement Scheme
+      B: Voluntary Retirement Scheme
+      C: One Rank One Pension Scheme
+      D: Private Sector Retirement Scheme
+    answer: B
+    explanation: A 'golden handshake' is the lump-sum payment offered under a Voluntary Retirement Scheme.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q027
+    difficulty: medium
+    stem: Indian Constitution can be amended according to the procedure laid down in the following Article
+    options:
+      A: Article 368
+      B: Article 345
+      C: Article 351
+      D: Article 333
+    answer: A
+    explanation: Article 368 (Part XX) sets out how Parliament can amend the Constitution.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q028
+    difficulty: medium
+    stem: Who is the Vice Chairperson of NITI Aayog ?
+    options:
+      A: Dr. Bibek Debroy
+      B: Dr. V.K. Saraswat
+      C: Dr. Arvind Panagariya
+      D: Arun Jaitley
+    answer: C
+    explanation: Arvind Panagariya was the first Vice-Chairperson of NITI Aayog (2015–2017), so he held the post at the time of the exam in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q029
+    difficulty: medium
+    stem: The city of Vijayanagar is also known as
+    options:
+      A: Halebidu
+      B: Chandragiri
+      C: Hampi
+      D: Kondavidu
+    answer: C
+    explanation: The ruins of Vijayanagara, capital of the Vijayanagara Empire, are at Hampi in Karnataka.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q030
+    difficulty: medium
+    stem: Which of the following Sultans of Tughlaq dynasty issued copper coins instead of silver ones?
+    options:
+      A: Ghiyasuddin Tughlaq
+      B: Muhammad bin Tughlaq
+      C: Firoz Shah Tughlaq
+      D: Mahmud Tughlaq
+    answer: B
+    explanation: Muhammad bin Tughlaq issued token currency in copper and brass to stand in for silver coins.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q031
+    difficulty: medium
+    stem: Which of the following areas or regions is most prone to earthquakes?
+    options:
+      A: Deccan Plateau
+      B: Ganga-Brahmaputra Valley
+      C: Plains of northern India
+      D: Western Ghats
+    answer: B
+    explanation: The Ganga-Brahmaputra valley, at the foot of the Himalayas and in the north-east, lies in high seismic zones. The Deccan and Western Ghats are more stable.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q032
+    difficulty: medium
+    stem: Honey that has high concentration of sugar does not decay because
+    options:
+      A: Bacteria cannot survive in an active state as it is totally deprived of oxygen
+      B: It contains natural antioxidant that prevents bacterial attack
+      C: Bacteria cannot survive in an active state in a solution of high osmotic strength as water is drawn out
+      D: None of these
+    answer: C
+    explanation: Honey's high sugar content creates high osmotic pressure. This draws water out of microbes, so they cannot grow.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q033
+    difficulty: medium
+    stem: "At low temperature, Lead behaves as a :"
+    options:
+      A: Semi conductor
+      B: Super conductor
+      C: Insulator
+      D: Conductor
+    answer: B
+    explanation: Lead becomes a superconductor below about 7.2 K.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q034
+    difficulty: medium
+    stem: In networks, a small message used to pass between one station to another is known as ____________
+    options:
+      A: Token
+      B: Byte
+      C: Word
+      D: Ring
+    answer: A
+    explanation: In token-passing networks (e.g. Token Ring), a small frame called a token is passed from station to station.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q035
+    difficulty: medium
+    stem: Which of the following is a natural polymer?
+    options:
+      A: Bakelite
+      B: Nylon
+      C: Polythene
+      D: Starch
+    answer: D
+    explanation: Starch is a natural polymer of glucose. Bakelite, nylon and polythene are synthetic.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q036
+    difficulty: medium
+    stem: Which of the following mammals lay eggs?
+    options:
+      A: Bat
+      B: Whale
+      C: Weasel
+      D: Platypus
+    answer: D
+    explanation: The platypus is a monotreme, a mammal that lays eggs.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q037
+    difficulty: medium
+    stem: Akbar's tomb is located at which of the following places?
+    options:
+      A: Sikandara
+      B: Agra
+      C: Fatehpursikri
+      D: Allahabad
+    answer: A
+    explanation: Akbar's tomb is at Sikandra (Sikandara), near Agra.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q038
+    difficulty: medium
+    stem: Pt. Bhimsen Joshi is associated with which of the following fields?
+    options:
+      A: Literature
+      B: Social services
+      C: Classical music
+      D: Politics
+    answer: C
+    explanation: Pt. Bhimsen Joshi was a Hindustani classical vocalist and a Bharat Ratna.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q039
+    difficulty: medium
+    stem: Security Council of the UN comprises of 10 non-permanent members and their tenure is____________
+    options:
+      A: 5 years
+      B: 4 years
+      C: 3 years
+      D: 2 years
+    answer: D
+    explanation: The ten non-permanent members of the UN Security Council are elected for two-year terms.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q040
+    difficulty: medium
+    stem: "'Tripitakas' are sacred books of ____________"
+    options:
+      A: Hindus
+      B: Jains
+      C: Parsis
+      D: Buddhists
+    answer: D
+    explanation: The Tripitaka (Pali Canon) is the sacred scripture of Buddhism.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q041
+    difficulty: medium
+    stem: If a country devalues its currency, its _______________
+    options:
+      A: Exports become cheaper and imports become costlier
+      B: Exports become costlier and imports become cheaper.
+      C: Exports value is equivalent to imports value
+      D: No effect on exports and imports
+    answer: A
+    explanation: After devaluation, the home currency buys less foreign currency. Exports become cheaper for foreigners, and imports become dearer at home.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q042
+    difficulty: medium
+    stem: Which one of the following non-metals shows allotropy in the liquid state?
+    options:
+      A: Carbon
+      B: Sulphur
+      C: Phosphorous
+      D: Bromine
+    answer: B
+    explanation: Liquid sulphur exists in different forms (λ- and μ-sulphur), so it shows allotropy in the liquid state.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q043
+    difficulty: medium
+    stem: Sectoral distribution of GDP index measures_________
+    options:
+      A: Agriculture development of a country
+      B: Economic development of a country
+      C: Social development of a country
+      D: Socio-Economic development of a country
+    answer: B
+    explanation: The shift of GDP from agriculture to industry and services is used as a measure of a country's economic development.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q044
+    difficulty: medium
+    stem: Ragini is a popular form of folk song belonging to the State of ___________
+    options:
+      A: Kashmir
+      B: Kerala
+      C: Haryana
+      D: Manipur
+    answer: C
+    explanation: Ragini is a folk song form of Haryana.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q045
+    difficulty: medium
+    stem: Which of the following border is known as Radcliffe line ?
+    options:
+      A: India and China
+      B: India and Bangladesh
+      C: India and Pakistan
+      D: India and Afghanistan
+    answer: C
+    explanation: The Radcliffe Line, drawn in 1947, is the India–Pakistan border. It also formed the line with East Pakistan, now Bangladesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q046
+    difficulty: medium
+    stem: Deepika Kumari is associated with which of the following sports?
+    options:
+      A: Archery
+      B: Gymnastics
+      C: Badminton
+      D: Athletics
+    answer: A
+    explanation: Deepika Kumari is an Indian archer and a former world No. 1 in recurve.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q047
+    difficulty: medium
+    stem: What does the term 'Ebola' stand for?
+    options:
+      A: A viral disease outbreak in West Africa
+      B: A viral disease outbreak in Bangladesh
+      C: A city in Syria destroyed by ISIS.
+      D: None of the these
+    answer: A
+    explanation: Ebola is a viral haemorrhagic fever. Its big outbreak was in West Africa in 2014–16.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q048
+    difficulty: medium
+    stem: The virus of AIDS affects the growth of_____________
+    options:
+      A: Haemoglobin
+      B: RBCs in blood
+      C: T cells in blood
+      D: Grey cells in brain
+    answer: C
+    explanation: HIV attacks and destroys the CD4 T-helper cells of the immune system.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q049
+    difficulty: medium
+    stem: Which of the following is not a nitrogenous fetiliser?
+    options:
+      A: Ammonium sulphate
+      B: Urea
+      C: Ammonium nitrate
+      D: Superphospohate
+    answer: D
+    explanation: Superphosphate is a phosphatic fertiliser. The other three supply nitrogen.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q050
+    difficulty: medium
+    stem: The absolute zero is a temperature at which _______
+    options:
+      A: molecular motion in a gas would cease
+      B: water freezes
+      C: all gases become liquid
+      D: all gases become solid
+    answer: A
+    explanation: In the classical picture, molecular motion in a gas would stop at absolute zero (0 K = −273.15 °C).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q051
+    difficulty: medium
+    stem: A can do a piece of work in 8 days and B can do it in 10 days seperately. How many days would it take for both A and B to finish the same work together?
+    options:
+      A: 33/8
+      B: 40/9
+      C: 41/10
+      D: 42/11
+    answer: B
+    explanation: Together they do 1/8 + 1/10 = 9/40 of the work a day, so they finish in 40/9 days.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q052
+    difficulty: medium
+    stem: "The lengths of the diagonals of a rhombus are 8 cm and 6 cm. The area of rhombus is:"
+    options:
+      A: 96 cm²
+      B: 60 cm²
+      C: 48 cm²
+      D: 24 cm²
+    answer: D
+    explanation: Area of a rhombus = ½ × d₁ × d₂ = ½ × 8 × 6 = 24 cm².
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q053
+    difficulty: medium
+    stem: Two successive discounts of 10% and 20% are equivalent to a single discount of
+    options:
+      A: 28%
+      B: 27%
+      C: 25%
+      D: 30%
+    answer: A
+    explanation: 1 − 0.9 × 0.8 = 0.28, so the single discount is 28%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q054
+    difficulty: medium
+    stem: A and B together have Rs. 6300. If 5/19 of A's amount is equal to 2/5 of B's amount. The amount of 'B' is
+    options:
+      A: Rs. 2500
+      B: Rs. 3800
+      C: Rs.2300
+      D: Rs. 4000
+    answer: A
+    explanation: "5A/19 = 2B/5 gives A : B = 38 : 25. So B = 6300 × 25/63 = Rs. 2500."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q055
+    difficulty: medium
+    stem: If the selling price of 40 articles is equal to the cost price of 50 articles, the loss or gain percent is
+    options:
+      A: 25% gain
+      B: 20% gain
+      C: 25% loss
+      D: 20% loss
+    answer: A
+    explanation: SP of 40 = CP of 50, so he gains the cost of 10 articles on 40. Gain = 10/40 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q056
+    difficulty: medium
+    stem: A's income is 25% more than B's income. B's income is what percent of A's income?
+    options:
+      A: "80"
+      B: "75"
+      C: "50"
+      D: "25"
+    answer: A
+    explanation: If B = 100, then A = 125. B as a percentage of A is 100/125 = 80%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q057
+    difficulty: medium
+    stem: In what time will a train, 60 metres long, running at the rate of 36 km/hr pass a telegraph post?
+    options:
+      A: 9 seconds
+      B: 8 seconds
+      C: 7 seconds
+      D: 6 seconds
+    answer: D
+    explanation: 36 km/h = 10 m/s, so time = 60/10 = 6 s.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q058
+    difficulty: medium
+    stem: If 5x + 1/x = 10, then x² + 1/25x² is equal to
+    options:
+      A: 2 1/5
+      B: 3 1/5
+      C: 3 3/5
+      D: 2 3/5
+    answer: C
+    explanation: "Divide by 5: x + 1/(5x) = 2. Then x² + 1/(25x²) = 2² − 2 × (1/5) = 4 − 2/5 = 3 3/5."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q059
+    difficulty: medium
+    stem: "If 4r = h + √(r² + h²) then r : h is ? (r≠0)"
+    options:
+      A: 17:8
+      B: 8:17
+      C: 8:15
+      D: 15:8
+    answer: C
+    explanation: "Write 4r − h = √(r² + h²) and square both sides: 16r² − 8rh + h² = r² + h², so 15r² = 8rh. Then r : h = 8 : 15."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q060
+    difficulty: medium
+    stem: If sinA + sin² A = 1 then what is the value of cos²A + cos⁴ A ?
+    options:
+      A: "1"
+      B: "2"
+      C: ½
+      D: ¼
+    answer: A
+    explanation: sinA = 1 − sin²A = cos²A. So cos²A + cos⁴A = sinA + sin²A = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q061
+    difficulty: medium
+    stem: Three angles of a quadrilateral are 60°,90°and 100°.Then the fourth angle of the quadrilateral is
+    options:
+      A: 95°
+      B: 100°
+      C: 110°
+      D: 115°
+    answer: C
+    explanation: "The angles of a quadrilateral add up to 360°: 360 − (60 + 90 + 100) = 110°."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q062
+    difficulty: medium
+    stem: Which one of the following is true for 0°<θ<90°
+    options:
+      A: cosθ > cos²θ
+      B: cosθ < cos²θ
+      C: cosθ ≥ cos²θ
+      D: cosθ ≤ cos²θ
+    answer: A
+    explanation: For 0° < θ < 90°, 0 < cos θ < 1, so cos²θ < cos θ.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q063
+    difficulty: medium
+    stem: The value of (3×9ⁿ⁺¹ + 9×3²ⁿ⁻¹)/(9×3²ⁿ − 6×9ⁿ⁻¹) is equal to?
+    options:
+      A: 3 3/5
+      B: 3 2/5
+      C: 3 1/5
+      D: "3"
+    answer: A
+    explanation: Numerator = 3^(2n)(27 + 3) = 30·3^(2n). Denominator = 3^(2n)(9 − 2/3) = (25/3)·3^(2n). Ratio = 90/25 = 3 3/5.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q064
+    difficulty: medium
+    stem: If the average age of four children is 12 years and the average age of these children and their fathers is 20 years, what is the age of the father?
+    options:
+      A: 52 years
+      B: 48 years
+      C: 62 years
+      D: 54 years
+    answer: A
+    explanation: The five ages total 5 × 20 = 100 and the children's total 4 × 12 = 48. So the father is 100 − 48 = 52.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q065
+    difficulty: medium
+    stem: If a+b=3 then the value of a³+b³+9ab-27 is
+    options:
+      A: "24"
+      B: "25"
+      C: "0"
+      D: "27"
+    answer: C
+    explanation: a³ + b³ = (a + b)³ − 3ab(a + b) = 27 − 9ab. So a³ + b³ + 9ab − 27 = 0.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q066
+    difficulty: medium
+    stem: If x+1/x = 2, then the value of x⁷+2/x⁶ is equal to?
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: "3"
+    answer: D
+    explanation: x + 1/x = 2 only when x = 1, so x⁷ + 2/x⁶ = 1 + 2 = 3.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q067
+    difficulty: medium
+    stem: In ∆ABC two medians BE and CF intersects at the point O and P,Q are the midpoints of BO and CO respectively. If the length of PQ=3cm, then the length of FE will be
+    options:
+      A: 3 cm
+      B: 6 cm
+      C: 9 cm
+      D: 12 cm
+    answer: A
+    explanation: PQ joins the midpoints of OB and OC, so PQ = BC/2. FE joins the midpoints of AB and AC, so FE = BC/2 too. Hence FE = PQ = 3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q068
+    difficulty: medium
+    stem: In a triangle PQR, S and T are the points on PQ and PR respectively, such that ST II QR and PS/SQ=3/5,PR =6cm, then PT is
+    options:
+      A: 2 cm
+      B: 2.25 cm
+      C: 3.5 cm
+      D: 4 cm
+    answer: B
+    explanation: ST ∥ QR, so PT/PR = PS/PQ = 3/8. Then PT = 6 × 3/8 = 2.25 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q069
+    difficulty: medium
+    stem: If 5 sin²θ+ 4cos² θ= 9/2 and 0 <θ<Π/2 then tanθ is equal to?
+    options:
+      A: "1"
+      B: "0"
+      C: "-1"
+      D: ¼
+    answer: A
+    explanation: 5sin²θ + 4cos²θ = 4 + sin²θ = 9/2, so sin²θ = 1/2. Then θ = 45° and tan θ = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q070
+    difficulty: medium
+    stem: If Rs. 10000 amounts to Rs. 11664 invested in compound interest(compounded annually) for two years then the annual rate of compound interest is
+    options:
+      A: 10%
+      B: 9%
+      C: 8%
+      D: 6%
+    answer: C
+    explanation: 11664/10000 = 1.1664 = (1.08)², so the rate is 8%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q071
+    difficulty: medium
+    stem: From the top of a tower 60 mts high the angle of depression of the top and bottomof a pole are observed to be 45° and 60° respectively. If the pole and tower stand on the same plane, the height of the pole in meters is
+    options:
+      A: 60(√3-1)
+      B: 20(√3-1)
+      C: 20(3-√3)
+      D: 20(√3+1)
+    answer: C
+    explanation: The distance between them is 60/tan 60° = 20√3 m. The tower rises 20√3 × tan 45° = 20√3 above the pole's top, so the pole is 60 − 20√3 = 20(3 − √3) m.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q072
+    difficulty: medium
+    stem: |-
+      The pie chart drawn below shows below the spendings of a country on various sports during a particular year. Study the pie chart and answer the questions.
+
+      The ratio of the amount spent on football, basketball and cricket to that spent on tennis,hockey andgolf is
+
+      *(Figure: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: 5:7
+      B: 7:5
+      C: 15:1
+      D: 3:20
+    answer: B
+    explanation: "(15 + 12.5 + 25) : (10 + 15 + 12.5) = 52.5 : 37.5 = 7 : 5."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q073
+    difficulty: medium
+    stem: |-
+      The pie chart drawn below shows below the spendings of a country on various sports during a particular year. Study the pie chart and answer the questions.
+
+      If the total amount spent on sports during the year was Rs. 1,20,00,000 how muchwas spent on basketball
+
+      *(Figure: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: Rs. 950000
+      B: Rs. 10,00,000
+      C: Rs. 12,00,000
+      D: Rs. 15,00,000
+    answer: D
+    explanation: Basketball gets 12.5% of Rs. 1,20,00,000, which is Rs. 15,00,000.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q074
+    difficulty: medium
+    stem: |-
+      The pie chart drawn below shows below the spendings of a country on various sports during a particular year. Study the pie chart and answer the questions.
+
+      Total central angle showing the money spent on hockey,football and other during the year was
+
+      *(Figure: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: 104°
+      B: 244°
+      C: 96°
+      D: 144°
+    answer: D
+    explanation: Hockey + football + others = 15 + 15 + 10 = 40%, and 40% of 360° is 144°.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q075
+    difficulty: medium
+    stem: |-
+      The pie chart drawn below shows below the spendings of a country on various sports during a particular year. Study the pie chart and answer the questions.
+
+      If the money spent on cricket during the year was Rs. 20,00,000, then the money spent on tennis was:
+
+      *(Figure: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: Rs. 8,00,000
+      B: Rs.10,00,000
+      C: Rs. 80,00,000
+      D: Rs. 40,00,000
+    answer: A
+    explanation: "Tennis : cricket = 10 : 25, so tennis = 20,00,000 × 10/25 = Rs. 8,00,000."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q076
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which best expresses the meaning of the given word and click the button corresponding to it.
+
+      ADAPT
+    options:
+      A: BRING UP
+      B: ADJUST
+      C: ENCOURAGE
+      D: SERVE
+    answer: B
+    explanation: To adapt is to adjust to new conditions.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q077
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which is opposite in meaning to the given word and click the button corresponding to it.
+
+      ARID
+    options:
+      A: DRY
+      B: FERTILE
+      C: BARREN
+      D: FALLOW
+    answer: B
+    explanation: Arid means dry and barren; its opposite is fertile.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q078
+    difficulty: medium
+    stem: Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word and click the button corresponding to it.
+    options:
+      A: Definite
+      B: Diffinite
+      C: Defenite
+      D: Difinite
+    answer: A
+    explanation: The correct spelling is 'definite'.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q079
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the "No error" option.
+
+      Why you (A) / copying your homework (B) / from someone else? (C) / No Error (D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: A
+    explanation: "A question in the continuous tense needs an auxiliary: 'Why are you copying…?'"
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q080
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the "No error" option.
+
+      There is (A) / few time (B) / for preparation. (C) / No Error (D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: B
+    explanation: "'Time' is uncountable, so it should be 'little time', not 'few time'."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q081
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the "No error" option.
+
+      All my hope (A) / were duped (B) / and I was plunged in deep sorrow. (C) / No Error (D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: A
+    explanation: "'Were' is plural, so the subject must be 'All my hopes'."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q082
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      Naresh made a fortune _____ buying and selling used cars.
+    options:
+      A: at
+      B: by
+      C: in
+      D: on
+    answer: B
+    explanation: "A fortune is made 'by' doing something: 'by buying and selling used cars'."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q083
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      She has finished writing the article, ______
+    options:
+      A: has she?
+      B: isn't it?
+      C: hasn't she?
+      D: is it?
+    answer: C
+    explanation: "A positive statement with 'has' takes a negative tag: 'hasn't she?'"
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q084
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      An animal species becomes _____ when its last existing member dies.
+    options:
+      A: exist
+      B: existing
+      C: extinct
+      D: extract
+    answer: C
+    explanation: A species becomes extinct when its last member dies.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q085
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Catch a tartar
+    options:
+      A: To catch a dangerous person
+      B: To deal with a person who is more than one's match
+      C: To trap a wanted criminal with great difficulty
+      D: To live carefully and cautiously
+    answer: B
+    explanation: To catch a tartar is to take on someone who turns out to be more than a match for you.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q086
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Cap in hand
+    options:
+      A: Defiant
+      B: Screaming
+      C: Well behaved
+      D: In a respectful manner
+    answer: D
+    explanation: "'Cap in hand' means humbly and respectfully, as when asking a favour."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q087
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      In the blues
+    options:
+      A: Cheerless and depressed
+      B: Violent and angry
+      C: Wearing blue badges
+      D: Singing sad songs
+    answer: A
+    explanation: "'In the blues' means feeling low, sad or depressed."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q088
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      A notice of a person's death
+    options:
+      A: Memorandum
+      B: Obituary
+      C: Reminder
+      D: Rejoinder
+    answer: B
+    explanation: An obituary is a notice of someone's death, often with a short account of their life.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q089
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      An animal that lives in groups
+    options:
+      A: Hoard
+      B: Fastidious
+      C: Gullible
+      D: Gregarious
+    answer: D
+    explanation: Gregarious animals live in flocks or groups.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q090
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      Hard working and diligent
+    options:
+      A: Seditious
+      B: Sedate
+      C: Sedulous
+      D: Scheming
+    answer: C
+    explanation: Sedulous means diligent and hard-working.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q091
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      When in doubt **check it up with** a good dictionary.
+    options:
+      A: check it up in
+      B: check it in
+      C: check it with
+      D: No improvement
+    answer: B
+    explanation: One checks something in a dictionary. 'Check it up with' is wrong.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q092
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      At the present rate of exchange, fourteen **dozen cost** Rs.3000.
+    options:
+      A: dozen costs
+      B: dozens cost
+      C: dozens costs
+      D: No improvement
+    answer: D
+    explanation: "'Fourteen dozen' (dozen takes no -s after a number) is plural, so 'cost' is correct as it stands."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q093
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      **Can you believed this is the same old and the dilapidated house I had bought last year?**
+    options:
+      A: Can you not believe this is the same old and the dilapidated house that I buy last year?
+      B: Can you believe this is the same old and the same dilapidated house I have bought last year?
+      C: Can you believe this is the same old and dilapidated house I had bought last year?
+      D: No improvement
+    answer: C
+    explanation: "'Can you believe' takes the base form, and 'the same old and dilapidated house' needs no second 'the'."
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q094
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      **If** the sky is overcast, I take my umbrella with me.
+    options:
+      A: When
+      B: Unless
+      C: Whenever
+      D: No improvement
+    answer: C
+    explanation: The sentence describes a habit, so 'Whenever the sky is overcast' fits best.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q095
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      The artist claims to have royal blood **in his veins**.
+    options:
+      A: hand
+      B: head
+      C: forehead
+      D: No improvement
+    answer: D
+    explanation: The idiom is 'royal blood in one's veins', so no change is needed.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q096
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Without breakfast, all of us - irrespective of age - are likely to experience the late morning slump; tiredness, sleepiness and the urge to sit back. Our efficiency goes down further as the day progresses.Moreover, skipping the first meal of the day leads to intense hunger pangs by late morning and we end up eating chips, samosas, burgers or other high-fat unhealthy foods. Breakfast-skippers are more likely to be overweight. A good breakfast leads to a more active, productive day. Research has found a definite connection between skipping breakfast and memory impairment in both young and older adults. Moreover, breakfast is directly linked with performance in school and college. Breakfast should contribute at least one-fourth of our daily requirement of nutrients. An ideal breakfast should contain adequate amounts of carbohydrates, proteins and fats in addition to minerals and vitamins. Essentially this means including most of our food groups in the morning meal. Whole grain cereals - like atta in parathas and puris, dalia, suji, etc. are an integral part of the traditional Indian breakfast. Their high fibre and protein content provides a feeling of satisfaction, which lowers the urge to snack before lunch. On the other hand, high-sugar foods actually make people sleepier, not active.
+
+      Milk, cheese, eggs or dals (as sprouts in idli or dosas or as sambhar) are other protein sources. A serving of milk (one cup) provides B-complex vitamins and also minerals like zinc, magnesium and calcium. Fruits or vegetables provide valuable vitamin C and keep constipation away.
+
+      We experience sleepiness in the morning because
+    options:
+      A: we eat breakfast
+      B: we miss breakfast
+      C: efficiency goes down
+      D: we feel tired and sleepy
+    answer: B
+    explanation: The passage says that 'without breakfast' we feel the late-morning slump of tiredness and sleepiness.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q097
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Without breakfast, all of us - irrespective of age - are likely to experience the late morning slump; tiredness, sleepiness and the urge to sit back. Our efficiency goes down further as the day progresses.Moreover, skipping the first meal of the day leads to intense hunger pangs by late morning and we end up eating chips, samosas, burgers or other high-fat unhealthy foods. Breakfast-skippers are more likely to be overweight. A good breakfast leads to a more active, productive day. Research has found a definite connection between skipping breakfast and memory impairment in both young and older adults. Moreover, breakfast is directly linked with performance in school and college. Breakfast should contribute at least one-fourth of our daily requirement of nutrients. An ideal breakfast should contain adequate amounts of carbohydrates, proteins and fats in addition to minerals and vitamins. Essentially this means including most of our food groups in the morning meal. Whole grain cereals - like atta in parathas and puris, dalia, suji, etc. are an integral part of the traditional Indian breakfast. Their high fibre and protein content provides a feeling of satisfaction, which lowers the urge to snack before lunch. On the other hand, high-sugar foods actually make people sleepier, not active.
+
+      Milk, cheese, eggs or dals (as sprouts in idli or dosas or as sambhar) are other protein sources. A serving of milk (one cup) provides B-complex vitamins and also minerals like zinc, magnesium and calcium. Fruits or vegetables provide valuable vitamin C and keep constipation away.
+
+      We eat unhealthy food when
+    options:
+      A: we suffer from hunger
+      B: we have become overweight
+      C: we have skipped the first meal
+      D: we love chips, burgers etc.
+    answer: C
+    explanation: Skipping the first meal of the day leads to hunger pangs, and then we eat high-fat, unhealthy foods.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q098
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Without breakfast, all of us - irrespective of age - are likely to experience the late morning slump; tiredness, sleepiness and the urge to sit back. Our efficiency goes down further as the day progresses.Moreover, skipping the first meal of the day leads to intense hunger pangs by late morning and we end up eating chips, samosas, burgers or other high-fat unhealthy foods. Breakfast-skippers are more likely to be overweight. A good breakfast leads to a more active, productive day. Research has found a definite connection between skipping breakfast and memory impairment in both young and older adults. Moreover, breakfast is directly linked with performance in school and college. Breakfast should contribute at least one-fourth of our daily requirement of nutrients. An ideal breakfast should contain adequate amounts of carbohydrates, proteins and fats in addition to minerals and vitamins. Essentially this means including most of our food groups in the morning meal. Whole grain cereals - like atta in parathas and puris, dalia, suji, etc. are an integral part of the traditional Indian breakfast. Their high fibre and protein content provides a feeling of satisfaction, which lowers the urge to snack before lunch. On the other hand, high-sugar foods actually make people sleepier, not active.
+
+      Milk, cheese, eggs or dals (as sprouts in idli or dosas or as sambhar) are other protein sources. A serving of milk (one cup) provides B-complex vitamins and also minerals like zinc, magnesium and calcium. Fruits or vegetables provide valuable vitamin C and keep constipation away.
+
+      A good breakfast
+    options:
+      A: keeps you active
+      B: causes memory loss
+      C: boosts performance
+      D: keeps you active; boosts performance
+    answer: D
+    explanation: A good breakfast 'leads to a more active, productive day' and is linked with better performance.
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q099
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Without breakfast, all of us - irrespective of age - are likely to experience the late morning slump; tiredness, sleepiness and the urge to sit back. Our efficiency goes down further as the day progresses.Moreover, skipping the first meal of the day leads to intense hunger pangs by late morning and we end up eating chips, samosas, burgers or other high-fat unhealthy foods. Breakfast-skippers are more likely to be overweight. A good breakfast leads to a more active, productive day. Research has found a definite connection between skipping breakfast and memory impairment in both young and older adults. Moreover, breakfast is directly linked with performance in school and college. Breakfast should contribute at least one-fourth of our daily requirement of nutrients. An ideal breakfast should contain adequate amounts of carbohydrates, proteins and fats in addition to minerals and vitamins. Essentially this means including most of our food groups in the morning meal. Whole grain cereals - like atta in parathas and puris, dalia, suji, etc. are an integral part of the traditional Indian breakfast. Their high fibre and protein content provides a feeling of satisfaction, which lowers the urge to snack before lunch. On the other hand, high-sugar foods actually make people sleepier, not active.
+
+      Milk, cheese, eggs or dals (as sprouts in idli or dosas or as sambhar) are other protein sources. A serving of milk (one cup) provides B-complex vitamins and also minerals like zinc, magnesium and calcium. Fruits or vegetables provide valuable vitamin C and keep constipation away.
+
+      An ideal breakfast should contain
+    options:
+      A: carbohydrates, proteins, fats, minerals and vitamins
+      B: some food groups
+      C: only high fibre and protein
+      D: foods of our choice
+    answer: A
+    explanation: "'An ideal breakfast should contain adequate amounts of carbohydrates, proteins and fats in addition to minerals and vitamins.'"
+    tags:
+      - english
+  - slug: cgl-2016-09-06-s1-q100
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Without breakfast, all of us - irrespective of age - are likely to experience the late morning slump; tiredness, sleepiness and the urge to sit back. Our efficiency goes down further as the day progresses.Moreover, skipping the first meal of the day leads to intense hunger pangs by late morning and we end up eating chips, samosas, burgers or other high-fat unhealthy foods. Breakfast-skippers are more likely to be overweight. A good breakfast leads to a more active, productive day. Research has found a definite connection between skipping breakfast and memory impairment in both young and older adults. Moreover, breakfast is directly linked with performance in school and college. Breakfast should contribute at least one-fourth of our daily requirement of nutrients. An ideal breakfast should contain adequate amounts of carbohydrates, proteins and fats in addition to minerals and vitamins. Essentially this means including most of our food groups in the morning meal. Whole grain cereals - like atta in parathas and puris, dalia, suji, etc. are an integral part of the traditional Indian breakfast. Their high fibre and protein content provides a feeling of satisfaction, which lowers the urge to snack before lunch. On the other hand, high-sugar foods actually make people sleepier, not active.
+
+      Milk, cheese, eggs or dals (as sprouts in idli or dosas or as sambhar) are other protein sources. A serving of milk (one cup) provides B-complex vitamins and also minerals like zinc, magnesium and calcium. Fruits or vegetables provide valuable vitamin C and keep constipation away.
+
+      Breakfast is satisfying when
+    options:
+      A: it is rich in fatty foods
+      B: it contains high protein and fibre content
+      C: it is rich in carbohydrates, proteins and fats
+      D: we eat to our heart's content
+    answer: B
+    explanation: Whole grains' 'high fibre and protein content provides a feeling of satisfaction'.
+    tags:
+      - english

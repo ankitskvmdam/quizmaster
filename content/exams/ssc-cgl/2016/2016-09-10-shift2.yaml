@@ -1,0 +1,1333 @@
+slug: 2016-09-10-shift2
+title: SSC CGL 2016 Tier 1
+date: 2016-09-10
+label: 10 Sept, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/57ee9ad4-dab7-11ed-83c9-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2016-09-10-s2-q001
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      Dark:Light :: Noise:?
+    options:
+      A: Music
+      B: Quiet
+      C: Melody
+      D: Vacuum
+    answer: B
+    explanation: Dark and Light are opposites; the opposite of Noise is Quiet.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q002
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      BECD:GJHI :: LOMN:?
+    options:
+      A: PSRQ
+      B: PQRS
+      C: QTSR
+      D: QTRS
+    answer: D
+    explanation: "Each letter moves 5 places forward: B→G, E→J, C→H, D→I. So L→Q, O→T, M→R, N→S gives QTRS."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q003
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/numbers from the given alternatives:
+
+      27:125 :: 64:?
+    options:
+      A: "162"
+      B: "216"
+      C: "273"
+      D: "514"
+    answer: B
+    explanation: 27 = 3³ and 125 = 5³ (cube of the number two higher). 64 = 4³, so the answer is 6³ = 216.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q004
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives
+    options:
+      A: Meter
+      B: Kilometre
+      C: Decimetre
+      D: Ammeter
+    answer: D
+    explanation: Metre, kilometre and decimetre are units of length; an ammeter is an instrument that measures current.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q005
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives
+    options:
+      A: HP
+      B: CJ
+      C: FN
+      D: RZ
+    answer: B
+    explanation: H(8)→P(16), F(6)→N(14) and R(18)→Z(26) differ by 8; C(3)→J(10) differs by only 7.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q006
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives
+    options:
+      A: 52-61
+      B: 72-81
+      C: 54-63
+      D: 33-41
+    answer: D
+    explanation: 52-61, 72-81 and 54-63 each differ by 9; 33-41 differs by 8.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q007
+    difficulty: medium
+    stem: |-
+      Arrange the following words as per their order in the dictionary:
+
+      1) PHYSICAL
+      2) PHYSICS
+      3) PHYSIOLOGY
+      4) PHYSICIAN
+      5) PHONE
+    options:
+      A: 5,1,4,2,3
+      B: 5,1,2,3,4
+      C: 1,4,5,2,3
+      D: 1,5,4,3,2
+    answer: A
+    explanation: "PHONE comes first (O < Y); then PHYSICAL < PHYSICIAN < PHYSICS (A < I < S at the 7th letter) < PHYSIOLOGY: 5, 1, 4, 2, 3."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q010
+    difficulty: medium
+    stem: Mohan said 'This girl is the wife of grand-son of my mother'. How is Mohan related to that girl?
+    options:
+      A: Grand-father
+      B: Husband
+      C: Father
+      D: Father-in-law
+    answer: D
+    explanation: The grandson of Mohan's mother is Mohan's son, so the girl is his daughter-in-law and Mohan is her father-in-law.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q011
+    difficulty: medium
+    stem: Of the six members of a panel sitting in a row, A is to the right of C, but left of B. E is sitting left of C and right of D, who is sitting to the right of F. Find the members sitting at the two ends of the row.
+    options:
+      A: D.F
+      B: A.B
+      C: D.B
+      D: F.B
+    answer: D
+    explanation: From left to right the row is F, D, E, C, A, B, so F and B sit at the two ends.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q012
+    difficulty: medium
+    stem: |-
+      From the given alternative words, select the word which cannot be formed using the letters of the given word:
+
+      LEGIBILITY
+    options:
+      A: BILL
+      B: ABILITY
+      C: BIG
+      D: LEG
+    answer: B
+    explanation: LEGIBILITY has no letter A, so ABILITY cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q013
+    difficulty: medium
+    stem: If REDUCE= 56, RECYCLE = 71 then REUSE=?
+    options:
+      A: "65"
+      B: "68"
+      C: "69"
+      D: "70"
+    answer: B
+    explanation: "The code is the sum of letter positions: REDUCE = 18+5+4+21+3+5 = 56. REUSE = 18+5+21+19+5 = 68."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q014
+    difficulty: medium
+    stem: |-
+      If '+' means 'divided by', '-' means 'multiplied by', 'x' means 'minus' and ' ÷ ' means 'plus', which of the following will be the value of the expression:
+
+      16 ÷ 8 - 4 + 2 x 4 = ?
+    options:
+      A: "16"
+      B: "28"
+      C: "32"
+      D: "44"
+    answer: B
+    explanation: "After swapping the signs: 16 + 8 × 4 ÷ 2 − 4 = 16 + 16 − 4 = 28."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q015
+    difficulty: medium
+    stem: |-
+      Some equations have been solved on the basis of a certain pattern. Find the correct answer for the unsolved equation on that basis:
+
+      2*3*5= 523
+      6*4*1= 164
+      8*2*4=482,
+      then 6*8*2=?
+    options:
+      A: "826"
+      B: "268"
+      C: "286"
+      D: "628"
+    answer: B
+    explanation: "The digits are written in the order third, first, second: 2*3*5 → 523. So 6*8*2 → 268."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q017
+    difficulty: medium
+    stem: From her house Rimi went 20 km to the north. Then she turned west and covered 15 km. Then she turned south and covered 10 Km. Finally turning to east, she covered 15 km. In which direction is she from her house?
+    options:
+      A: East
+      B: West
+      C: North
+      D: South
+    answer: C
+    explanation: North 20 km, south 10 km leaves 10 km north; west 15 km and east 15 km cancel. She is north of her house.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q018
+    difficulty: medium
+    stem: |-
+      Consider the given statement/s to be true and decide which of the given conclusions/assumptions can definitely be drawn from the given statement.
+
+      **Statements:** Some cars are buses.
+      All cars are caves.
+
+      **Conclusion:** Ⅰ . Some caves are not buses
+      Ⅱ .Some caves are buses
+      Ⅲ . No cave is a bus
+      Ⅳ. Some caves are cars
+    options:
+      A: Only Ⅰ Conclusion follows
+      B: Only Ⅱ conclusion follows
+      C: Only conclusions Ⅱ and Ⅳ follows
+      D: Only conclusion Ⅳ follows
+    answer: C
+    explanation: Since some cars are buses and all cars are caves, some caves are buses (II) and some caves are cars (IV). I and III do not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q019
+    difficulty: medium
+    stem: |-
+      6 faces of the cube are painted with different colours as shown below. In figure 3, which colour is opposite to RED?
+
+      *(Figure: Four numbered views of a cube (top / front / right side):
+      1) PINK / ORANGE / YELLOW; 2) PINK / RED / BLACK; 3) BLUE / RED / YELLOW; 4) BLUE / ORANGE / BLACK.)*
+    options:
+      A: Black
+      B: Yellow
+      C: Orange
+      D: Pink
+    answer: C
+    explanation: Pink is adjacent to orange, yellow, red and black, so pink is opposite blue. Red touches yellow (view 3) and black (view 2), so red is opposite orange.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q025
+    difficulty: medium
+    stem: |-
+      In the question, a word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in two matrices given below. The columns and rows of Matrix I are numbered from 0 to 4 and that of Matrix II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, e.g., 'B' can be represented by 00,13, etc. , and 'O' can be represented by 56, 68,etc. Similarly, you have to identify the set for the word '**TEAR**'.
+
+      MATRIX 1
+
+      |   | 0 | 1 | 2 | 3 | 5 |
+      |---|---|---|---|---|---|
+      | 0 | B | C | D | E | A |
+      | 1 | D | E | A | B | C |
+      | 2 | C | D | E | A | B |
+      | 3 | A | B | C | D | E |
+      | 4 | E | A | B | C | D |
+
+      MATRIX 2
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | R | O | N | T | U |
+      | 6 | T | U | R | O | N |
+      | 7 | O | N | T | U | R |
+      | 8 | U | R | O | N | T |
+      | 9 | N | T | U | R | O |
+    options:
+      A: 58,34,21,67
+      B: 96,11,26,12
+      C: 65,40,23,79
+      D: 77,58,21,98
+    answer: C
+    explanation: In option C, 65 = T, 40 = E, 23 = A and 79 = R, which spells TEAR.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-10-s2-q026
+    difficulty: medium
+    stem: Which of the following was not actively engaged in social and religious reforms in India ?
+    options:
+      A: Raja Ram Mohan Roy
+      B: Pandit Iswar Chandra Vidyasagar
+      C: Jotiba Phule
+      D: Bharatendu Harish Chandra
+    answer: D
+    explanation: Bharatendu Harishchandra was a Hindi writer and poet; Ram Mohan Roy, Vidyasagar and Jyotiba Phule were social and religious reformers.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q027
+    difficulty: medium
+    stem: The main effect of Direct Taxes is on
+    options:
+      A: Food prices
+      B: Consumer goods
+      C: Capital goods
+      D: Income
+    answer: D
+    explanation: Direct taxes, such as income tax, are levied on income and wealth, so their main effect is on income.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q028
+    difficulty: medium
+    stem: Who has the power to prorogue the Lok Sabha ?
+    options:
+      A: The Speaker
+      B: The Prime Minister
+      C: The Minister for Parliamentary Affairs
+      D: The President
+    answer: D
+    explanation: Under Article 85 the President summons and prorogues the Houses of Parliament.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q029
+    difficulty: medium
+    stem: The first Europeans to come to India were
+    options:
+      A: British
+      B: Dutch
+      C: French
+      D: Portugese
+    answer: D
+    explanation: "The Portuguese came first: Vasco da Gama reached Calicut in 1498."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q030
+    difficulty: medium
+    stem: The term 'Dumping' refers to
+    options:
+      A: The sale of a sub-standard commodity
+      B: Sale in a foreign market of a commodity at a price below marginal cost
+      C: Sale in a foreign market of a commodity just at marginal cost with too much of profit
+      D: Smuggling of goods without paying any customs duty
+    answer: B
+    explanation: Dumping is selling a good in a foreign market at a price below its cost or its home-market price.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q031
+    difficulty: medium
+    stem: When does the sun shine vertically on the Equator ?
+    options:
+      A: Throughout the year
+      B: For six months
+      C: Twice a year
+      D: Once a year
+    answer: C
+    explanation: The sun is overhead at the Equator twice a year, at the equinoxes (around 21 March and 23 September).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q032
+    difficulty: medium
+    stem: Lichen is an association between which of the two ?
+    options:
+      A: Algae and fungus
+      B: Algae and tree
+      C: Fungus and tree
+      D: Bacteria and legume plant
+    answer: A
+    explanation: A lichen is a symbiotic association of an alga (or cyanobacterium) with a fungus.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q033
+    difficulty: medium
+    stem: Among the given nutrients, milk is a poor source of which of the following ?
+    options:
+      A: Vitamin 'C'
+      B: Calcium
+      C: Protein
+      D: Carbohydrate
+    answer: A
+    explanation: Milk is rich in calcium, protein and lactose but is a poor source of vitamin C (and of iron).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q034
+    difficulty: medium
+    stem: What is a Pepper plant ?
+    options:
+      A: Bush
+      B: Shrub
+      C: Vine
+      D: Tree
+    answer: C
+    explanation: Black pepper (Piper nigrum) is a perennial climbing vine.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q035
+    difficulty: medium
+    stem: Why does a cannon recoil after firing ?
+    options:
+      A: Conservation of energy
+      B: Backward thrust of gases produced
+      C: Newton's third law of motion
+      D: Newton's first law of motion
+    answer: C
+    explanation: "The shell is pushed forward and the cannon is pushed back with an equal and opposite force: Newton's third law."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q036
+    difficulty: medium
+    stem: Which of the following statement is true?
+    options:
+      A: A Primary key is also a candidate key
+      B: Each relation has at least one foreign key
+      C: Foreign keys can't have null values
+      D: A Primary key is also an alternate key
+    answer: A
+    explanation: A primary key is the candidate key chosen to identify rows, so every primary key is a candidate key.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q037
+    difficulty: medium
+    stem: Which of the following is used as non-stick coating for cooking utensils?
+    options:
+      A: Perspex
+      B: Styrofoam
+      C: Polystyrene
+      D: Teflon
+    answer: D
+    explanation: Teflon (PTFE) is the non-stick coating used on cookware.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q038
+    difficulty: medium
+    stem: '"Tsunami" is the name given to which of the following?'
+    options:
+      A: Earthquake
+      B: Cyclone
+      C: Tidal Waves
+      D: Undersea Waves
+    answer: C
+    explanation: A tsunami is a series of giant sea waves caused by undersea earthquakes; it is popularly called a "tidal wave".
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q039
+    difficulty: medium
+    stem: The first Indian citizen to get commercial Pilot's Licence was
+    options:
+      A: Vijaypat Singhania
+      B: J.R.D.Tata
+      C: Captain Gopinath
+      D: Vijay Mallya
+    answer: B
+    explanation: J.R.D. Tata got India's first commercial pilot's licence in 1929.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q040
+    difficulty: medium
+    stem: |-
+      Which of the following is/are 'rain cloud'?
+
+      1. Cirrus
+
+      2. Nimbostratus
+
+      3. Cumulonimbus
+
+      4. Altocumulus
+    options:
+      A: 1 and 2 only
+      B: 2 and 3 only
+      C: 3 and 4 only
+      D: 1 and 4 only
+    answer: B
+    explanation: Nimbostratus and cumulonimbus are the rain-bearing clouds ("nimbus" means rain).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q041
+    difficulty: medium
+    stem: According to the Indian Constitution, who has the power to declare emergency ?
+    options:
+      A: Prime Minister
+      B: President
+      C: Chief Justice
+      D: Parliament
+    answer: B
+    explanation: Under Articles 352, 356 and 360 the President proclaims emergencies.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q042
+    difficulty: medium
+    stem: Particulates (< 1 µm size) remaining suspended in air indefinitely and transported by wind currents are called
+    options:
+      A: Mists
+      B: Fumes
+      C: Aerosols
+      D: Smoke
+    answer: C
+    explanation: Fine solid or liquid particles that stay suspended in air and are carried by wind are called aerosols.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q043
+    difficulty: medium
+    stem: "The least preferred technique in the disposal of Municipal Solid Waste is :"
+    options:
+      A: Incineration
+      B: Composting
+      C: Land filling
+      D: Bricketting
+    answer: D
+    explanation: "SSC's answer is briquetting, the least used technique; incineration, composting and landfilling are the mainstream methods. Note: in the waste-management hierarchy landfilling is usually called the least preferred option."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q044
+    difficulty: medium
+    stem: A bomb explodes on the moon. You will hear its sound on earth after _________
+    options:
+      A: 20 minutes
+      B: 2 hrs 20 minutes
+      C: 3.7 hours
+      D: You cannot hear the sound of explosion
+    answer: D
+    explanation: Sound needs a medium; there is no air between the Moon and the Earth, so the sound cannot be heard.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q045
+    difficulty: medium
+    stem: Which one of the following takes place during a nuclear fusion?
+    options:
+      A: a heavy nucleus bombarded by neutrons breaks up
+      B: a heavy nucleus breaks up spontaneously
+      C: two light nuclei combine to form a heavy nucleus
+      D: a light nucleus breaks up spontaneously
+    answer: C
+    explanation: In nuclear fusion two light nuclei combine to form a heavier nucleus and release energy.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q046
+    difficulty: medium
+    stem: |-
+      Arrange the following cities in an order from North to South
+
+      1) Bhubaneshwar
+
+      2) Chennai
+
+      3) Hyderabad
+
+      4) Cochin
+    options:
+      A: 1 3 2 4
+      B: 1 2 3 4
+      C: 1 2 4 3
+      D: 1 3 4 2
+    answer: A
+    explanation: "By latitude: Bhubaneswar (~20.3°N), Hyderabad (~17.4°N), Chennai (~13.1°N), Kochi (~9.9°N): 1 3 2 4."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q047
+    difficulty: medium
+    stem: British achieved political power in India after which of the following ?
+    options:
+      A: Battle of Plassey
+      B: Battle of Panipat
+      C: Battle of Buxar
+      D: Battle of Wandiwash
+    answer: A
+    explanation: Victory at Plassey (1757) gave the British political power in Bengal, the start of their rule in India.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q048
+    difficulty: medium
+    stem: The number of permanent members of the U.N. Security Council is
+    options:
+      A: "5"
+      B: "15"
+      C: "10"
+      D: "25"
+    answer: A
+    explanation: "The UN Security Council has 5 permanent members: the USA, the UK, France, Russia and China."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q049
+    difficulty: medium
+    stem: |-
+      Match list (I) with list (II)
+
+      | I | II |
+      |---|---|
+      | a. SARAS | i)battle tank |
+      | b.BHISHMA | ii)multipurpose civil aircraft |
+      | c.BRAHMOS | iii)satellite |
+      | d.INSAT-3C | iv)missile |
+    options:
+      A: a-i , b-ii , c-iii , d-iv
+      B: a-iii , b-ii , c-iv , d-i
+      C: a-iv , b-iii , c-i , d-ii
+      D: a-ii , b-i , c-iv , d-iii
+    answer: D
+    explanation: SARAS is a civil aircraft, BHISHMA a battle tank (T-90), BRAHMOS a cruise missile and INSAT-3C a satellite.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q050
+    difficulty: medium
+    stem: '"World Economic Outlook" report is published by which of the following ?'
+    options:
+      A: IMF
+      B: World Bank
+      C: RBI
+      D: UNCTAD
+    answer: A
+    explanation: The World Economic Outlook is published by the International Monetary Fund.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-10-s2-q051
+    difficulty: medium
+    stem: "The rate of working of A and B are in the ratio of 2:3. The number of days taken by them to finish the work is in the ratio:"
+    options:
+      A: 2:3
+      B: 4:9
+      C: 3:2
+      D: 9:4
+    answer: C
+    explanation: Time taken is inversely proportional to the rate of working, so the days are in the ratio 3:2.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q052
+    difficulty: medium
+    stem: The ratio of two positive numbers is 3:4. The sum of their squares is 400. What is the sum of the numbers?
+    options:
+      A: "28"
+      B: "22"
+      C: "24"
+      D: "26"
+    answer: A
+    explanation: "Let the numbers be 3k and 4k: 9k² + 16k² = 400, so k = 4. The numbers are 12 and 16; their sum is 28."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q053
+    difficulty: medium
+    stem: If 10% loss is made on selling price, then the rate of loss on the cost price will be
+    options:
+      A: 11 1/9%
+      B: 9 1/11%
+      C: 10%
+      D: 11%
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests B.
+
+      SSC's answer 11 1/9% is the loss as a % of SP when the loss is 10% of CP, the reverse case. As worded: loss = 0.1 SP, CP = 1.1 SP, so loss on CP = 0.1/1.1 = 9 1/11%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q054
+    difficulty: medium
+    stem: If "basis points" are defined so that 1 percent is equal to 100 basis points, then by how many basis points is 82.5 percent greater than 62.5 percent?
+    options:
+      A: "0.2"
+      B: "20"
+      C: "200"
+      D: "2000"
+    answer: D
+    explanation: 82.5% − 62.5% = 20 percentage points, and 20 × 100 = 2000 basis points.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q055
+    difficulty: medium
+    stem: Sound travels at 330 metres per second. The distance (in kilometres) of a thunder cloud when its sound follows the flash after 10 seconds is
+    options:
+      A: 0.33 km
+      B: 3.3 km
+      C: 33 km
+      D: 33.3 km
+    answer: B
+    explanation: Distance = 330 m/s × 10 s = 3300 m = 3.3 km.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q056
+    difficulty: medium
+    stem: For what sum will the simple interest at R% for 2 years will be R?
+    options:
+      A: 100/2R
+      B: 50/R
+      C: 100/R
+      D: 200/R
+    answer: C
+    explanation: "SSC's answer 100/R follows if the time is R years: P × R × R/100 = R gives P = 100/R. With 2 years as printed, the sum would be 50."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q057
+    difficulty: medium
+    stem: If P² + 1/P² = 47, the value of P + 1/P is
+    options:
+      A: "5"
+      B: "6"
+      C: "7"
+      D: "8"
+    answer: C
+    explanation: (P + 1/P)² = P² + 1/P² + 2 = 49, so P + 1/P = 7.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q058
+    difficulty: medium
+    stem: The third proportional of the following numbers (x-y)², (x²-y²)² is
+    options:
+      A: (x+y)³ (x-y)²
+      B: (x+y)⁴ (x-y)²
+      C: (x+y)² (x-y)²
+      D: (x+y)² (x-y)³
+    answer: B
+    explanation: The third proportional of a and b is b²/a = (x²−y²)⁴/(x−y)² = (x+y)⁴(x−y)².
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q059
+    difficulty: medium
+    stem: Two circles touch each other externally. The distance between their centres is 7 cm. If the radius of one circle is 4 cm, then the radius of the other circle will be
+    options:
+      A: 3 cm
+      B: 4 cm
+      C: 5.5 cm
+      D: 3.5 cm
+    answer: A
+    explanation: For circles that touch externally, the distance between centres = r₁ + r₂, so 7 − 4 = 3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q060
+    difficulty: medium
+    stem: Let ΔABC and ΔABD be on the same base AB and between the same parallels AB and CD. Then the relation between areas of triangles ABC and ABD will be
+    options:
+      A: ΔABD = 1/3 ΔABC
+      B: ΔABD = 1/2 ΔABC
+      C: ΔABC = 1/2 ΔABD
+      D: ΔABC =ΔABD
+    answer: D
+    explanation: Triangles on the same base and between the same parallels have equal areas.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q061
+    difficulty: medium
+    stem: The least value of tan²x + cot²x is
+    options:
+      A: "3"
+      B: "2"
+      C: "0"
+      D: "1"
+    answer: B
+    explanation: tan²x + cot²x = (tan x − cot x)² + 2 ≥ 2, with equality at x = 45°.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q062
+    difficulty: medium
+    stem: While selling a watch, a shop-keeper gives a discount of 5%. If he gives a discount of 7%, he earns ₹ 15 less as profit. The marked price of the watch is
+    options:
+      A: "697.5"
+      B: "712.5"
+      C: "750"
+      D: None of the these
+    answer: C
+    explanation: The 2% extra discount is worth ₹15, so the marked price = 15/0.02 = ₹750.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q063
+    difficulty: medium
+    stem: What least value must be assigned to '*' so that the number 63576 * 2 is divisible by 8?
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: C
+    explanation: A number is divisible by 8 if its last three digits are; 6*2 works first with * = 3 (632 = 8 × 79).
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q064
+    difficulty: medium
+    stem: A student, by mistake, wrote 64 in place of 46 as a number at the time of finding the average of 10 given numbers & got the average as 50. The correct average of the numbers is
+    options:
+      A: "48.2"
+      B: "48"
+      C: "48.1"
+      D: "49"
+    answer: A
+    explanation: "The total was 18 too high (64 − 46), so the average falls by 18/10 = 1.8: 50 − 1.8 = 48.2."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q065
+    difficulty: medium
+    stem: If x + √5 = 5 + √y and x, y are positive integers, then the value of (√x + y)/(x + √y) is
+    options:
+      A: "1"
+      B: "2"
+      C: √5
+      D: "5"
+    answer: A
+    explanation: Comparing the rational and irrational parts, x = 5 and y = 5, so (√5 + 5)/(5 + √5) = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q066
+    difficulty: medium
+    stem: The cube of 997 is
+    options:
+      A: "991026973"
+      B: "991029673"
+      C: "991029773"
+      D: "991097273"
+    answer: A
+    explanation: 997³ = (1000 − 3)³ = 10⁹ − 9×10⁶ + 27×10³ − 27 = 991026973.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q067
+    difficulty: medium
+    stem: Length of the sides of a triangle are a, b, c respectively. If a² + b² + c² = ab +bc + ca then the triangle is
+    options:
+      A: isosceles
+      B: equilateral
+      C: scalene
+      D: right-angled
+    answer: B
+    explanation: a² + b² + c² − ab − bc − ca = ½[(a−b)² + (b−c)² + (c−a)²] = 0 forces a = b = c, so the triangle is equilateral.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q068
+    difficulty: medium
+    stem: The area of the circle with radius Y is W. The difference between the areas of the bigger circle (with radius Y) and that of the smaller circle (with radius X) is W'. So x/y is equal to
+    options:
+      A: √(1 − W'/W)
+      B: √(1 + W'/W)
+      C: √(1 + W/W')
+      D: √(1 − W/W')
+    answer: A
+    explanation: W' = πY² − πX², so X²/Y² = (W − W')/W and X/Y = √(1 − W'/W).
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q069
+    difficulty: medium
+    stem: If cos 21° = x/y, then cosec 21° - cos 69° is equal to
+    options:
+      A: x²/(y√(y² − x²))
+      B: y²/(x√(y² − x²))
+      C: y²/(x√(x² − y²))
+      D: x²/(y√(x² − y²))
+    answer: A
+    explanation: cosec 21° − cos 69° = 1/sin 21° − sin 21° = cos²21°/sin 21°. With sin 21° = √(y²−x²)/y this is x²/(y√(y²−x²)).
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q070
+    difficulty: medium
+    stem: |-
+      A right circular conical structure stands on a circular base of 21m diameter and is 14m in height. The total cost of colour washing for its curved surface at ₹ 6 per sq. m. is
+
+      (Take Π = 22/7 )
+    options:
+      A: "4365"
+      B: "4465"
+      C: "3465"
+      D: "3365"
+    answer: C
+    explanation: r = 10.5 m and h = 14 m, so l = √(10.5² + 14²) = 17.5 m. CSA = 22/7 × 10.5 × 17.5 = 577.5 m², and the cost is 577.5 × 6 = ₹3465.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q071
+    difficulty: medium
+    stem: A telegraph post is bent at a point above the ground. Its top just touches the ground at a distance of 8√3 m from its foot and makes an angle of 30° with the horizontal. The height (in metre) of the post is
+    options:
+      A: "12"
+      B: "16"
+      C: "18"
+      D: "24"
+    answer: D
+    explanation: Standing part = 8√3 × tan 30° = 8 m; broken part = 8√3 / cos 30° = 16 m; height = 8 + 16 = 24 m.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q072
+    difficulty: medium
+    stem: |-
+      Study the graph and answer the following questions.
+      The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
+
+      Charges for parking is Rs. 1 per hour. What will be the total collection from 9 AM to 7 PM
+
+      *(Figure: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: Rs.625
+      B: Rs.635
+      C: Rs.685
+      D: Rs.695
+    answer: D
+    explanation: "Adding the bicycle counts at each hour from 9 am to 7 pm (₹1 each): 95+75+85+65+75+55+65+45+55+35+45 = ₹695."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q073
+    difficulty: medium
+    stem: |-
+      Study the graph and answer the following questions.
+      The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
+
+      What is the percentage decrease in the number of parked cycles between 7 pm and 8 pm? (in whole number)
+
+      *(Figure: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: "30"
+      B: "38"
+      C: "42"
+      D: "45"
+    answer: D
+    explanation: From 45 to 25 the fall is 20/45 ≈ 44.4%; the nearest option is 45.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q074
+    difficulty: medium
+    stem: |-
+      Study the graph and answer the following questions.
+      The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
+
+      What is the average number of parked cycles as seen from the graph?
+
+      *(Figure: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: "40"
+      B: "45"
+      C: "55"
+      D: "60"
+    answer: D
+    explanation: The 12 readings add up to 720, and 720/12 = 60.
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q075
+    difficulty: medium
+    stem: |-
+      Study the graph and answer the following questions.
+      The graph shows the number of bicycles parked in the parking space of a hall at various points of time.
+
+      How many times, as mentioned in the graph, is the number of parked cycles above average?
+
+      *(Figure: Bar graph "Number of parked bicycles" against Time: 9 am 95, 10 am 75, 11 am 85, 12 noon 65, 1 pm 75,
+      2 pm 55, 3 pm 65, 4 pm 45, 5 pm 55, 6 pm 35, 7 pm 45, 8 pm 25.)*
+    options:
+      A: "3"
+      B: "4"
+      C: "5"
+      D: "6"
+    answer: D
+    explanation: "Readings above 60 are 95, 75, 85, 65, 75 and 65: six times."
+    tags:
+      - quant
+  - slug: cgl-2016-09-10-s2-q076
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which best expresses the meaning of the given word and click the button corresponding to it.
+
+      RATIONAL
+    options:
+      A: TIDY
+      B: AGREEABLE
+      C: LAUDABLE
+      D: LOGICAL
+    answer: D
+    explanation: Rational means based on reason, that is, logical.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q077
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which is opposite in meaning to the given word and click the button corresponding to it.
+
+      INTERIM
+    options:
+      A: PROVISIONAL
+      B: TENTATIVE
+      C: PERMANENT
+      D: INTERVAL
+    answer: C
+    explanation: Interim means temporary or provisional; its opposite is permanent.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q078
+    difficulty: medium
+    stem: Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word and click the button corresponding to it.
+    options:
+      A: Breif
+      B: Percieve
+      C: Relieve
+      D: Cheif
+    answer: C
+    explanation: '"Relieve" is spelt correctly; the others should be brief, perceive and chief ("i before e except after c").'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q079
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the "No error" option.
+
+      The King Juan Carlos of Spain(A)/arrived in London today(B)/for a three day visit(C)/No error(D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: A
+    explanation: 'A title used with a proper name takes no article: "King Juan Carlos of Spain", not "The King Juan Carlos".'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q080
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the "No error" option.
+
+      Many people die(A)/with cholera(B)/every year(C)/No error(D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: B
+    explanation: People die "of" a disease, so the phrase should be "of cholera".
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q081
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the "No error" option.
+
+      I was(A)/at loss(B)/and did not know what to do(C)/No error(D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: B
+    explanation: The idiom is "at a loss" (meaning confused); the article "a" is missing.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q082
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      The king was moved with ______�for the beggar
+    options:
+      A: pity
+      B: piety
+      C: pithy
+      D: privy
+    answer: A
+    explanation: "\"Moved with pity\" means feeling sorrow for someone's suffering; piety is devotion, pithy means concise, privy means secret."
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q083
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      A big dictionary ________ ________ the table near the door
+    options:
+      A: are on
+      B: is over
+      C: is on
+      D: is up
+    answer: C
+    explanation: '"Dictionary" is singular, so the verb is "is"; resting on a surface takes "on".'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q084
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      Mr. Sen is absent today. He _____ sick
+    options:
+      A: has to be
+      B: could have been
+      C: might be
+      D: must have been
+    answer: C
+    explanation: 'He is absent today, so it is a present guess: "He might be sick". "Must have been" would refer to the past.'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q085
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Feather in one's cap
+    options:
+      A: Discrimination
+      B: A new and additional distinction
+      C: Hunting
+      D: Bird watching
+    answer: B
+    explanation: "\"A feather in one's cap\" is an achievement to be proud of, a new distinction."
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q086
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Donkey's years
+    options:
+      A: A decade
+      B: A long time
+      C: A century
+      D: Since school days
+    answer: B
+    explanation: "\"Donkey's years\" means a very long time."
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q087
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Leave no stone unturned
+    options:
+      A: Try every possible way
+      B: Behave smartly
+      C: Constructing
+      D: Wasting no time
+    answer: A
+    explanation: '"Leave no stone unturned" means to try every possible way.'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q088
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      A child born after the death of father
+    options:
+      A: Post dated
+      B: Premature
+      C: Paternal
+      D: Posthumous
+    answer: D
+    explanation: A child born after the father's death is posthumous.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q089
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      A person who completely abstains from alcohol
+    options:
+      A: teetotaller
+      B: drunkard
+      C: alcoholic
+      D: imposter
+    answer: A
+    explanation: A teetotaller is a person who never drinks alcohol.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q090
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      One who is able to use both hands
+    options:
+      A: Sinister
+      B: Ambidextrous
+      C: Ambivalent
+      D: Amateur
+    answer: B
+    explanation: Ambidextrous means able to use both hands equally well.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q091
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      In case of a natural calamity the shortage of essential **things** must be overcome in a short time
+    options:
+      A: commodities
+      B: consignments
+      C: material
+      D: No improvement
+    answer: A
+    explanation: Essential goods in short supply are "commodities", which is more precise than "things".
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q092
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      She decided to go there, though her husband cautioned her **on** it
+    options:
+      A: against
+      B: for
+      C: about
+      D: No improvement
+    answer: A
+    explanation: One cautions someone "against" doing something.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q093
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      I **am very much interested** in your story
+    options:
+      A: have been very interested
+      B: am much more interested
+      C: am very interesting
+      D: No improvement
+    answer: D
+    explanation: '"I am very much interested in your story" is correct; "very much" can modify the participial adjective "interested".'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q094
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      He **refused** the charge brought against him
+    options:
+      A: disagreed
+      B: disowned
+      C: denied
+      D: No improvement
+    answer: C
+    explanation: A charge is "denied", not "refused".
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q095
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to "No improvement".
+
+      **Working hard** students always achieve good results
+    options:
+      A: Energetic
+      B: Industrious
+      C: Talented
+      D: No improvement
+    answer: B
+    explanation: '"Industrious" is the single adjective for hard-working, so "Industrious students".'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q096
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Namita is from the state of Kerala. She has come to Dubai to serve as a governess for the only child of the Nairs. The Nairs are nice and gentle and Namita has no cause to complain. One day she overhears something that makes her jittery. Mr. Nair is not employed in an American company as she has been told. The nature of his business is illegal. She is shocked and wants to go back to her home town to her own people.
+
+      Gopal is from a very poor family. His family owns a very small piece of land that can hardly meet their food requirement. One day, Gopal gets a nice offer to work in the Emirates with a construction contractor. In order to meet the expenses on travelling, the family decides to sell their own land and send Gopal to the foreign country, to make money. On arrival, the contractor confiscates Gopal's passport and gives him a small place to live in with ten others like him. Gopal has little idea what he must do.
+
+      Which word from the ones given below, best describes Namita's relationship with her employers in the beginning?
+    options:
+      A: Cordial
+      B: Friendly
+      C: Sympathetic
+      D: Complaining
+    answer: A
+    explanation: The Nairs were nice and gentle and Namita had no complaints, so the relationship was cordial.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q097
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Namita is from the state of Kerala. She has come to Dubai to serve as a governess for the only child of the Nairs. The Nairs are nice and gentle and Namita has no cause to complain. One day she overhears something that makes her jittery. Mr. Nair is not employed in an American company as she has been told. The nature of his business is illegal. She is shocked and wants to go back to her home town to her own people.
+
+      Gopal is from a very poor family. His family owns a very small piece of land that can hardly meet their food requirement. One day, Gopal gets a nice offer to work in the Emirates with a construction contractor. In order to meet the expenses on travelling, the family decides to sell their own land and send Gopal to the foreign country, to make money. On arrival, the contractor confiscates Gopal's passport and gives him a small place to live in with ten others like him. Gopal has little idea what he must do.
+
+      What does the phrase, 'makes her jittery' imply?
+    options:
+      A: Sadness
+      B: Anger
+      C: Trauma
+      D: Anxiety
+    answer: D
+    explanation: '"Jittery" means nervous or anxious.'
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q098
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Namita is from the state of Kerala. She has come to Dubai to serve as a governess for the only child of the Nairs. The Nairs are nice and gentle and Namita has no cause to complain. One day she overhears something that makes her jittery. Mr. Nair is not employed in an American company as she has been told. The nature of his business is illegal. She is shocked and wants to go back to her home town to her own people.
+
+      Gopal is from a very poor family. His family owns a very small piece of land that can hardly meet their food requirement. One day, Gopal gets a nice offer to work in the Emirates with a construction contractor. In order to meet the expenses on travelling, the family decides to sell their own land and send Gopal to the foreign country, to make money. On arrival, the contractor confiscates Gopal's passport and gives him a small place to live in with ten others like him. Gopal has little idea what he must do.
+
+      Namita and Gopal are in a similar situation, because they
+    options:
+      A: love their families
+      B: are happy with their situations
+      C: are from impoverished families
+      D: are stranded in a foreign country
+    answer: D
+    explanation: Both are far from home in a foreign country with no easy way out, so they are stranded.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q099
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Namita is from the state of Kerala. She has come to Dubai to serve as a governess for the only child of the Nairs. The Nairs are nice and gentle and Namita has no cause to complain. One day she overhears something that makes her jittery. Mr. Nair is not employed in an American company as she has been told. The nature of his business is illegal. She is shocked and wants to go back to her home town to her own people.
+
+      Gopal is from a very poor family. His family owns a very small piece of land that can hardly meet their food requirement. One day, Gopal gets a nice offer to work in the Emirates with a construction contractor. In order to meet the expenses on travelling, the family decides to sell their own land and send Gopal to the foreign country, to make money. On arrival, the contractor confiscates Gopal's passport and gives him a small place to live in with ten others like him. Gopal has little idea what he must do.
+
+      Namita's situation is better than that of Gopal, because she
+    options:
+      A: has a well behaved employer
+      B: knows what she wants to do
+      C: loves the new place and the child
+      D: now knows about her employer
+    answer: B
+    explanation: Namita has decided to go back home, while Gopal has little idea what to do, so she knows what she wants.
+    tags:
+      - english
+  - slug: cgl-2016-09-10-s2-q100
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      Namita is from the state of Kerala. She has come to Dubai to serve as a governess for the only child of the Nairs. The Nairs are nice and gentle and Namita has no cause to complain. One day she overhears something that makes her jittery. Mr. Nair is not employed in an American company as she has been told. The nature of his business is illegal. She is shocked and wants to go back to her home town to her own people.
+
+      Gopal is from a very poor family. His family owns a very small piece of land that can hardly meet their food requirement. One day, Gopal gets a nice offer to work in the Emirates with a construction contractor. In order to meet the expenses on travelling, the family decides to sell their own land and send Gopal to the foreign country, to make money. On arrival, the contractor confiscates Gopal's passport and gives him a small place to live in with ten others like him. Gopal has little idea what he must do.
+
+      The conclusion that can be drawn from both situations is that people should
+    options:
+      A: stay in their own countries and villages
+      B: feel contented and satisfied with their lot
+      C: verify details before accepting any job
+      D: not travel to these regions of the world
+    answer: C
+    explanation: Both were misled about their jobs, so people should verify details before accepting a job.
+    tags:
+      - english

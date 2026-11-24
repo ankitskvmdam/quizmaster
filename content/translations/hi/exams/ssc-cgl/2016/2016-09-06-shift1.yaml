@@ -1,0 +1,849 @@
+slug: 2016-09-06-shift1
+title: एसएससी सीजीएल 2016 टियर 1
+date: 2016-09-06
+label: 6 Sept, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com (https://docs.aglasem.com/view/5387210a-dab7-11ed-9b4d-0a5e36bc6706)). Left out (picture-only options or incomplete in the source): Q8, Q9, Q16, Q20, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2016-09-06-s1-q001
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      पूर्वानुमान करना : भविष्य :: खेद व्यक्त करना : ?
+    options:
+      A: वर्तमान
+      B: पाप
+      C: जीवन
+      D: विगत
+    answer: D
+    explanation: We forecast the future and we regret the past.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q002
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      DCEF : QPRS :: XWYZ : ?
+    options:
+      A: SRQP
+      B: NMOP
+      C: STOV
+      D: IMGF
+    answer: B
+    explanation: DCEF, QPRS and XWYZ all follow the pattern n, n−1, n+1, n+2 (e.g. D, C, E, F). Of the options, only NMOP follows it.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q003
+    difficulty: medium
+    stem: |-
+      दिये गये विकल्पों में से संबन्धित शब्द/अक्षरों/संख्या को चुनिए।
+
+      121 : 12 :: 25 : ?
+    options:
+      A: "5"
+      B: "6"
+      C: "7"
+      D: "8"
+    answer: B
+    explanation: 121 = 11², and 11 + 1 = 12. In the same way 25 = 5², and 5 + 1 = 6.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q004
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या को चुनिए ?
+    options:
+      A: आलू
+      B: टमाटर
+      C: अदरक
+      D: गाजर
+    answer: B
+    explanation: Potato, ginger and carrot grow underground; a tomato is a fruit that grows above the ground.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q005
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या को चुनिए ?
+    options:
+      A: ACEG
+      B: KMNP
+      C: HJLN
+      D: TVXZ
+    answer: B
+    explanation: ACEG, HJLN and TVXZ skip one letter each time (+2). KMNP goes +2, +1, +2.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q006
+    difficulty: medium
+    stem: निम्नलिखित प्रश्न में दिए गए विकल्पों में से विषम शब्द/अक्षर/संख्या को चुनिए ?
+    options:
+      A: 63-36
+      B: 45-74
+      C: 48-84
+      D: 26-62
+    answer: B
+    explanation: In 63-36, 48-84 and 26-62 the second number is the first with its digits reversed. 45-74 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q007
+    difficulty: medium
+    stem: |-
+      निम्नलिखित शब्दों को शब्दकोश में दिए गए क्रम के अनुसार लिखिए ?
+
+      1. Tortoise 2. Torrid 3. Torso 4.Torque 5. Tortuous
+    options:
+      A: 4, 2, 3, 1, 5
+      B: 3, 2, 4, 1, 5
+      C: 2, 3, 4, 5, 1
+      D: 4, 3, 2, 1, 5
+    answer: A
+    explanation: Torq < Torr < Tors < Tortoise < Tortuous (Torto- before Tortu-). Order 4, 2, 3, 1, 5.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q010
+    difficulty: medium
+    stem: फोटोग्राफ में राजेश की ओर इशारा करते हुए सुनीता ने कहा, " उसकी माता का एक मात्र पुत्र मेरे पिता है। सुनीता का राजेश से क्या संबंध है ?
+    options:
+      A: भतीजी
+      B: चाची
+      C: माता
+      D: पुत्री
+    answer: D
+    explanation: "'The only son of his mother' is Rajesh himself. Rajesh is Sunita's father, so she is his daughter."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q011
+    difficulty: medium
+    stem: A,B,C ,Dऔर E एक पंक्ति में उत्तर की ओर मुँह करके खड़े हैं। E, B से बायीं ओर 40 मीटर की दूरी पर खड़ा है। A, C के बायीं ओर 20 मीटर की दूरी पर खड़ा है। D, E के दायीं ओर 20 मीटर की दूरी पर और C के दायीं ओर 50 मीटर की दूरी पर खड़ा है। B, D से कितनी दूर और किधर खड़ा है ?
+    options:
+      A: 20 मीटर दायीं ओर
+      B: 30 मीटर दायीं ओर
+      C: 40 मीटर दायीं ओर
+      D: 40 मीटर बायीं ओर
+    answer: A
+    explanation: Put E at 0. Then B is at 40 and D at 20, so B is 20 m to the right of D.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q012
+    difficulty: medium
+    stem: |-
+      निम्नलिखित विकल्पों में से वह शब्द चुनिए जो दिए गए शब्द के अक्षरों का प्रयोग करके नहीं बनाया जा सकता ?
+
+      COMFORTABLE
+    options:
+      A: FORT
+      B: TABLE
+      C: COMFORT
+      D: ROUTE
+    answer: D
+    explanation: COMFORTABLE has no U, so ROUTE cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q013
+    difficulty: medium
+    stem: यदि A = 1, AND = 19 हो, तो ANT किसके बराबर होगा ?
+    options:
+      A: "35"
+      B: "33"
+      C: "23"
+      D: "19"
+    answer: A
+    explanation: "Add the letters' positions: AND = 1 + 14 + 4 = 19, so ANT = 1 + 14 + 20 = 35."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q014
+    difficulty: medium
+    stem: |-
+      यदि '+' का मतलब ÷, '÷' का मतलब -, '-' का मतलब x और 'x' का मतलब + हो, तो दिए गए प्रश्न का मान बताइए ?
+
+      8 + 4 ÷ 3 x 5 - 9 = ?
+    options:
+      A: "44"
+      B: "53"
+      C: "62"
+      D: "64"
+    answer: A
+    explanation: "After swapping the signs: 8 ÷ 4 − 3 + 5 × 9 = 2 − 3 + 45 = 44."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q015
+    difficulty: medium
+    stem: |-
+      कुछ समीकरण एक निश्चित प्रणाली से हल किए गए हैं। उसी आधार पर दिए गए विकल्पों में से सही उत्तर चुनकर लिखिए ?
+
+      8 x 5 x 0 = 805 , 7 x 4 x 6 = 764 , 6 x 8 x 9 = ?
+    options:
+      A: "689"
+      B: "698"
+      C: "968"
+      D: "986"
+    answer: B
+    explanation: "Write the 1st, 3rd and 2nd numbers in that order: 8, 0, 5 → 805 and 7, 6, 4 → 764. So 6, 9, 8 → 698."
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q018
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में एक या दो वक्तव्य दिये गये हैं, जिसके आगे दो निष्कर्ष/मान्यताएँ, I और II निकाले गये हैं। आपको मानना है कि वक्तव्य सत्य है चाहे वह सामान्यतः शर्त तथ्यों से भिन्न प्रतीत होता हो। आपको निर्णय करना है कि दिए गए वक्तव्य में से कौनसा निश्चित रूप से सही निष्कर्ष/मान्यता निकाला जा सकता है ?
+
+      वक्तव्य : 1. कोई आदमी बन्दर नहीं है।
+
+      2. हरि आदमी है।
+
+      निष्कर्ष : I. हरि बन्दर नहीं है।
+
+      II.सभी आदमी हरि नहीं है।
+    options:
+      A: केवल निष्कर्ष I सही है।
+      B: केवल निष्कर्ष II सही है।
+      C: निष्कर्ष I और II दोनों सही हैं।
+      D: ना तो निष्कर्ष I सही है और ना ही निष्कर्ष II सही है।
+    answer: A
+    explanation: No man is a monkey and Hari is a man, so Hari is not a monkey. Nothing follows about whether all men are Hari.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q019
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में एक घन में चार स्थितियाँ दर्शायी गई हैं। दिए गए घनों में हरे रंग के सामने कौन-सा रंग है ?
+
+      *(चित्र: Four views of the same cube (top face / left face / right face):
+      1) Red / Green / Blue; 2) Green / Yellow / Blue; 3) Blue / Yellow / Orange; 4) Yellow / Green / White.)*
+    options:
+      A: नीला
+      B: पीला
+      C: नारंगी
+      D: सफेद
+    answer: C
+    explanation: Green is shown next to Red, Blue, Yellow and White. The only colour left, Orange, must be opposite it.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q025
+    difficulty: medium
+    stem: |-
+      निम्नलिखित प्रश्न में विकल्पों में दिए गए संख्या-समूह, अक्षरों के दो वर्गों द्वारा दर्शाए गए हैं, जैसे कि नीचे दिए गए दो आव्यूहों में हैं। आव्यूह I के सतम्भ और पंक्ति की संख्या 0 से 4 तक दी गई है, और आव्यूह II के 5 से 9 तक, इन आव्यूहों से एक अक्षर को पहले उसकी पंक्ति और बाद में स्तम्भ संख्या द्वारा दर्शाया जा सकता है। उदाहरण के लिए, U को 01, 12, आदि द्वारा दर्शाया जा सकता है तथा L को 56, 67,आदि द्वारा दर्शाया जा सकता है। इसी तरह से आपको दिए शब्द 'SPARE' के लिए समूह को पहचानना है।
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | S | U | P | E | R |
+      | 1 | R | S | U | P | E |
+      | 2 | E | R | S | U | P |
+      | 3 | P | E | R | S | U |
+      | 4 | U | P | E | R | S |
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | G | L | A | N | D |
+      | 6 | D | G | L | A | N |
+      | 7 | N | D | G | L | A |
+      | 8 | A | N | D | G | L |
+      | 9 | L | A | N | D | G |
+    options:
+      A: 22, 41, 85, 32, 14
+      B: 12, 24, 21, 68, 14
+      C: 44, 78, 67, 32, 42
+      D: 33, 30, 43, 40,43
+    answer: A
+    explanation: S = 22, P = 41, A = 85, R = 32 and E = 14. Every pair in option A matches.
+    tags:
+      - reasoning
+  - slug: cgl-2016-09-06-s1-q026
+    difficulty: medium
+    stem: '"गोल्डन हैंण्ड शेक" निम्नलिखित में किस योजना का एक और नाम है?'
+    options:
+      A: सेवानिवृत्त योजना
+      B: स्वैच्छिक सेवानिवृत्त योजना
+      C: एक रैंक एक पेंशन योजना
+      D: प्राइवेट सेक्टर सेवानिवृत्त योजना
+    answer: B
+    explanation: A 'golden handshake' is the lump-sum payment offered under a Voluntary Retirement Scheme.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q027
+    difficulty: medium
+    stem: निम्नलिखित में से किस अनुच्छेद की कार्यप्रणाली के तहत भारतीय संविधान में संशोधन किया जा सकता है ?
+    options:
+      A: अनुच्छेद 368
+      B: अनुच्छेद 345
+      C: अनुच्छेद 351
+      D: अनुच्छेद 333
+    answer: A
+    explanation: Article 368 (Part XX) sets out how Parliament can amend the Constitution.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q028
+    difficulty: medium
+    stem: नीति आयोग का उपाध्यक्ष कौन है
+    options:
+      A: डॉ. बिबेक देबराय
+      B: डॉ. वी.के. सारस्वत
+      C: डॉअरविंद पनगड़िया
+      D: अरूण जेटली
+    answer: C
+    explanation: Arvind Panagariya was the first Vice-Chairperson of NITI Aayog (2015–2017), so he held the post at the time of the exam in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q029
+    difficulty: medium
+    stem: विजयनगर शहर और किस नाम से जाना जाता है।
+    options:
+      A: हैलीबिदू
+      B: चन्द्रगिरी
+      C: हम्पी
+      D: कोन्दाविदु
+    answer: C
+    explanation: The ruins of Vijayanagara, capital of the Vijayanagara Empire, are at Hampi in Karnataka.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q030
+    difficulty: medium
+    stem: निम्नलिखित तुगलकी राजवंश के किस सुलतान ने चाँदी के सिक्कों के स्थान पर तांबे के सिक्के चलाए थे ?
+    options:
+      A: गयासुद्दीन तुगलक
+      B: मुहम्मद बिन तुगलक
+      C: फिरोज़ शाह तुगलक
+      D: महमूद तुगलक
+    answer: B
+    explanation: Muhammad bin Tughlaq issued token currency in copper and brass to stand in for silver coins.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q031
+    difficulty: medium
+    stem: निम्नलिखित में से कौनसा क्षेत्र ऐसा है जहाँ पर भूकंप आने की संभावना सब से अधिक है?
+    options:
+      A: दक्षिण (दक्कन) का पठार
+      B: गंगा-ब्रह्मपुत्र घाटी
+      C: उत्तरी भारत का मैदानी क्षेत्र
+      D: पश्चिमी घाट
+    answer: B
+    explanation: The Ganga-Brahmaputra valley, at the foot of the Himalayas and in the north-east, lies in high seismic zones. The Deccan and Western Ghats are more stable.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q032
+    difficulty: medium
+    stem: शहद, जिसमें शक्कर की उच्च सान्द्रता पाई जाती है, सड़ता नहीं है क्योंकि
+    options:
+      A: शहद में ऑक्सीजन का अभाव रहता है अतः जीवाणु सक्रिय अवस्था में जीवित नहीं रह पाते
+      B: इनमें प्राकृतिक एन्टीऑक्सिडेंट होते हैं जो जीवाणु के आक्रमण को रोक देते हैं
+      C: उच्च परासरणीय सामर्थ्य के घोल से पानी निकल जाने के कारण जीवाणु सक्रिय अवस्था में जीवित नहीं रह पाते
+      D: कोई विक्ल्प सही नहीं है
+    answer: C
+    explanation: Honey's high sugar content creates high osmotic pressure. This draws water out of microbes, so they cannot grow.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q033
+    difficulty: medium
+    stem: कम तापमात्रा पर सीसा निम्नलिखित किस रूप में बर्ताव करता है?
+    options:
+      A: अर्ध चालक
+      B: श्रेष्ठ चालक
+      C: विधुत रोधक (पृथक्कासी)
+      D: चालक
+    answer: B
+    explanation: Lead becomes a superconductor below about 7.2 K.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q034
+    difficulty: medium
+    stem: नेटवर्क में संक्षिप्त संदेश, जो एक स्टेशन से दूसरी स्टेशन को जाता है, क्या कहलाता है ?
+    options:
+      A: टोकन
+      B: बाइट
+      C: वर्ड
+      D: रिंग
+    answer: A
+    explanation: In token-passing networks (e.g. Token Ring), a small frame called a token is passed from station to station.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q035
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा एक प्राकृतिक पॉलिमर है ?
+    options:
+      A: बेकलाइट
+      B: नाइलॉन
+      C: पॉलीथीन
+      D: स्टार्च
+    answer: D
+    explanation: Starch is a natural polymer of glucose. Bakelite, nylon and polythene are synthetic.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q036
+    difficulty: medium
+    stem: निम्नलिखित में से कौन सा स्तनधारी जानवर अंडे देता है ?
+    options:
+      A: चमगादड़
+      B: व्हेल
+      C: नेवला
+      D: प्लैटीपस
+    answer: D
+    explanation: The platypus is a monotreme, a mammal that lays eggs.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q037
+    difficulty: medium
+    stem: अकबर का मकबरा निम्नलिखित किस स्थान पर स्थित है ?
+    options:
+      A: सिकन्दरा
+      B: आगरा
+      C: फतेहपुरसीकरी
+      D: इलाहाबाद
+    answer: A
+    explanation: Akbar's tomb is at Sikandra (Sikandara), near Agra.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q038
+    difficulty: medium
+    stem: पंडित भीमसेन जोशी निम्नलिखित में से किस क्षेत्र से संबंध रखते हैं?
+    options:
+      A: साहित्य
+      B: सामाजिक सेवाएं
+      C: शास्त्रीय संगीत
+      D: राजनीति
+    answer: C
+    explanation: Pt. Bhimsen Joshi was a Hindustani classical vocalist and a Bharat Ratna.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q039
+    difficulty: medium
+    stem: संयुक्त राष्ट्र की सुरक्षा परिषद के 10 अस्थायी सदस्यों का कार्यकाल कितना होता है ?
+    options:
+      A: 5 वर्ष
+      B: 4 वर्ष
+      C: 3 वर्ष
+      D: 2 वर्ष
+    answer: D
+    explanation: The ten non-permanent members of the UN Security Council are elected for two-year terms.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q040
+    difficulty: medium
+    stem: "'त्रिपिटक' धर्म ग्रन्थ का संबंध किस धर्म से है ?"
+    options:
+      A: हिन्दू
+      B: जैन
+      C: पारसी
+      D: बौद्ध
+    answer: D
+    explanation: The Tripitaka (Pali Canon) is the sacred scripture of Buddhism.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q041
+    difficulty: medium
+    stem: यदि कोई देश अपनी मुद्रा का अवमूलन करता है तो
+    options:
+      A: निर्यात सस्ता तथा आयात महंगा हो जाता है
+      B: निर्यात महंगा तथा आयात सस्ता हो जाता है
+      C: निर्यात मूल्य आयात मूल्य के बराबर हो जाता है
+      D: निर्यात तथा आयात पर कोई प्रभाव नहीं पड़ता
+    answer: A
+    explanation: After devaluation, the home currency buys less foreign currency. Exports become cheaper for foreigners, and imports become dearer at home.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q042
+    difficulty: medium
+    stem: निम्नलिखित में कौन से अधातु अपनी तरलीय अवस्था में अपरूपता प्रदर्शित करता है ?
+    options:
+      A: कार्बन
+      B: सल्फर
+      C: फॉस्फोरस
+      D: ब्रोमीन
+    answer: B
+    explanation: Liquid sulphur exists in different forms (λ- and μ-sulphur), so it shows allotropy in the liquid state.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q043
+    difficulty: medium
+    stem: जी.डी.पी. सूचकांक के क्षेत्रवार वितरण से किस का मापन किया जा सकता है?
+    options:
+      A: देश का कृषि संबंधी विकास
+      B: देश का आर्थिक विकास
+      C: देश का सामाजिक विकास
+      D: देश का सामाजिक तथा आर्थिक विकास
+    answer: B
+    explanation: The shift of GDP from agriculture to industry and services is used as a measure of a country's economic development.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q044
+    difficulty: medium
+    stem: रागिनी किस राज्य की लोकप्रिय गीत शैली है?
+    options:
+      A: कश्मीर
+      B: केरल
+      C: हरियाणा
+      D: मणिपुर
+    answer: C
+    explanation: Ragini is a folk song form of Haryana.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q045
+    difficulty: medium
+    stem: निम्न में कौन सी सीमारेखा रैडक्लिफ रेखा कहलाती है ?
+    options:
+      A: भारत तथा चीन
+      B: भारत तथा बांग्लादेश
+      C: भारत तथा पाकिस्तान
+      D: भारत तथा अफगानिस्तान
+    answer: C
+    explanation: The Radcliffe Line, drawn in 1947, is the India–Pakistan border. It also formed the line with East Pakistan, now Bangladesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q046
+    difficulty: medium
+    stem: दीपिका कुमारी का संबंध निम्नलिखित में से किस खेल से है ?
+    options:
+      A: तीरंदाजी
+      B: जिम्नास्टिक
+      C: बैडमिंटन
+      D: एथलेटिक्स
+    answer: A
+    explanation: Deepika Kumari is an Indian archer and a former world No. 1 in recurve.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q047
+    difficulty: medium
+    stem: '"इबोला" शब्द से आप क्या समझते हैं ?'
+    options:
+      A: पश्चिमी अफ्रीका में एक विषाणु रोग प्रकोप
+      B: बांग्लादेश में एक विषाणु रोग प्रकोप
+      C: आई.एस.आई.एस. द्वारा विनाश किया गया सीरिया का एक शहर
+      D: कोई भी विकल्प सही नहीं है
+    answer: A
+    explanation: Ebola is a viral haemorrhagic fever. Its big outbreak was in West Africa in 2014–16.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q048
+    difficulty: medium
+    stem: एड्स का विषाणु किसकी वृद्धि को प्रभावित करता है ?
+    options:
+      A: हीमोग्लोबिन
+      B: रक्त में आर.बी.सी.
+      C: रक्त में टी. कोशिका
+      D: मस्तिष्क में ग्रे कोशिका
+    answer: C
+    explanation: HIV attacks and destroys the CD4 T-helper cells of the immune system.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q049
+    difficulty: medium
+    stem: निम्नलिखित में कौन नाईट्रोजनीय उर्वरक नहीं है ?
+    options:
+      A: अमोनियम सल्फेट
+      B: यूरिया
+      C: अमोनियम नाइट्रेट
+      D: सूपर फॉस्फेट
+    answer: D
+    explanation: Superphosphate is a phosphatic fertiliser. The other three supply nitrogen.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q050
+    difficulty: medium
+    stem: "'परमशून्य' ताप की वह स्थिति है जिस पर_______"
+    options:
+      A: गैसों में आण्विक गति घटने लगती है
+      B: जल जमने लगता है
+      C: सभी गैसें तरलीय हो जाते हैं
+      D: सभी गैसें ठोस में परिवर्तित हो जाते हैं
+    answer: A
+    explanation: In the classical picture, molecular motion in a gas would stop at absolute zero (0 K = −273.15 °C).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-09-06-s1-q051
+    difficulty: medium
+    stem: A किसी काम को 8 दिन मे कर सकता है और B उसी काम को 10 दिन में कर सकता है। बताइए A और B मिलकर उसी काम को कितने दिन में पूरा करेंगे ?
+    options:
+      A: 33/8
+      B: 40/9
+      C: 41/10
+      D: 42/11
+    answer: B
+    explanation: Together they do 1/8 + 1/10 = 9/40 of the work a day, so they finish in 40/9 days.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q052
+    difficulty: medium
+    stem: एक समचतुर्भुज के विकर्णों की लम्बाइयाँ 8 से.मी. तथा 6 से.मी. है। समचतुर्भुज का क्षेत्रफल कितना होगा ?
+    options:
+      A: 96 से.मी.²
+      B: 60 से.मी.²
+      C: 48 से.मी.²
+      D: 24 से.मी.²
+    answer: D
+    explanation: Area of a rhombus = ½ × d₁ × d₂ = ½ × 8 × 6 = 24 cm².
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q053
+    difficulty: medium
+    stem: 10% तथा 20% की दो क्रमवार छूट किस एकमात्र छूट के समतुल्य है ?
+    options:
+      A: 28%
+      B: 27%
+      C: 25%
+      D: 30%
+    answer: A
+    explanation: 1 − 0.9 × 0.8 = 0.28, so the single discount is 28%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q054
+    difficulty: medium
+    stem: A और B के पास कुल मिलाकर Rs. 6300 है। यदि A की 5/19 राशि B की 2/5 राशि के बराबर हो तो B के पास कितनी राशि है ?
+    options:
+      A: Rs. 2500
+      B: Rs. 3800
+      C: Rs.2300
+      D: Rs. 4000
+    answer: A
+    explanation: "5A/19 = 2B/5 gives A : B = 38 : 25. So B = 6300 × 25/63 = Rs. 2500."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q055
+    difficulty: medium
+    stem: यदि 40 वस्तुओं का विक्रय मूल्य 50 वस्तुओं के क्रय मूल्य के बराबर हो तो हानि या लाभ का प्रतिशत बताइए ?
+    options:
+      A: 25% लाभ
+      B: 20%लाभ
+      C: 25% हानि
+      D: 20% हानि
+    answer: A
+    explanation: SP of 40 = CP of 50, so he gains the cost of 10 articles on 40. Gain = 10/40 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q056
+    difficulty: medium
+    stem: A की आयB की आय से 25% अधिक है। B की आय A की आय का कितना प्रतिशत है ?
+    options:
+      A: "80"
+      B: "75"
+      C: "50"
+      D: "25"
+    answer: A
+    explanation: If B = 100, then A = 125. B as a percentage of A is 100/125 = 80%.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q057
+    difficulty: medium
+    stem: 60 मीटर लम्बी एक रेलगाडी 36 कि.मी./घंटा की चाल से एक टेलाग्रॉफ के खम्भे को कितने समय में पार करेगी ?
+    options:
+      A: 9 सेकण्ड्स
+      B: 8 सेकण्ड्स
+      C: 7 सेकण्ड्स
+      D: 6 सेकण्ड्स
+    answer: D
+    explanation: 36 km/h = 10 m/s, so time = 60/10 = 6 s.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q058
+    difficulty: medium
+    stem: यदि 5x + 1/x = 10 हो तो x² + 1/25x² किसके बराबर होगा ?
+    options:
+      A: 2 1/5
+      B: 3 1/5
+      C: 3 3/5
+      D: 2 3/5
+    answer: C
+    explanation: "Divide by 5: x + 1/(5x) = 2. Then x² + 1/(25x²) = 2² − 2 × (1/5) = 4 − 2/5 = 3 3/5."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q059
+    difficulty: medium
+    stem: "यदि 4r = h + √(r² + h²) हो तो r : h का मान बताइए ? (r≠0)"
+    options:
+      A: 17:8
+      B: 8:17
+      C: 8:15
+      D: 15:8
+    answer: C
+    explanation: "Write 4r − h = √(r² + h²) and square both sides: 16r² − 8rh + h² = r² + h², so 15r² = 8rh. Then r : h = 8 : 15."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q060
+    difficulty: medium
+    stem: यदि sinA + sin² A = 1 हो तो cos²A + cos⁴ A का मान बताइए ?
+    options:
+      A: "1"
+      B: "2"
+      C: ½
+      D: ¼
+    answer: A
+    explanation: sinA = 1 − sin²A = cos²A. So cos²A + cos⁴A = sinA + sin²A = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q061
+    difficulty: medium
+    stem: किसी चतुर्भुज के तीन कोण 60° , 90° और 100° के है। बताइए चतुर्भुज का चौथा कोण कितना होगा ?
+    options:
+      A: 95°
+      B: 100°
+      C: 110°
+      D: 115°
+    answer: C
+    explanation: "The angles of a quadrilateral add up to 360°: 360 − (60 + 90 + 100) = 110°."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q062
+    difficulty: medium
+    stem: 0°<θ<90° के लिए निम्नलिखित में से क्या सही है ?
+    options:
+      A: cosθ > cos²θ
+      B: cosθ < cos²θ
+      C: cosθ ≥ cos²θ
+      D: cosθ ≤ cos²θ
+    answer: A
+    explanation: For 0° < θ < 90°, 0 < cos θ < 1, so cos²θ < cos θ.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q063
+    difficulty: medium
+    stem: (3×9ⁿ⁺¹ + 9×3²ⁿ⁻¹)/(9×3²ⁿ − 6×9ⁿ⁻¹) बराबर है?
+    options:
+      A: 3 3/5
+      B: 3 2/5
+      C: 3 1/5
+      D: "3"
+    answer: A
+    explanation: Numerator = 3^(2n)(27 + 3) = 30·3^(2n). Denominator = 3^(2n)(9 − 2/3) = (25/3)·3^(2n). Ratio = 90/25 = 3 3/5.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q065
+    difficulty: medium
+    stem: यदि a+b=3 हो तो a³+b³+9ab-27 का मान बताइएं ?
+    options:
+      A: "24"
+      B: "25"
+      C: "0"
+      D: "27"
+    answer: C
+    explanation: a³ + b³ = (a + b)³ − 3ab(a + b) = 27 − 9ab. So a³ + b³ + 9ab − 27 = 0.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q066
+    difficulty: medium
+    stem: यदि x + 1/x = 2 हो तो x⁷ + 2/x⁶ का मान बताओं ?
+    options:
+      A: "0"
+      B: "1"
+      C: "2"
+      D: "3"
+    answer: D
+    explanation: x + 1/x = 2 only when x = 1, so x⁷ + 2/x⁶ = 1 + 2 = 3.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q067
+    difficulty: medium
+    stem: त्रिभुज ABC में से मध्य रेखाएँ BE और CF बिन्दु O पर मिलती है तथा BO और CO पर क्रमशः P और Q मध्य बिन्दु है। यदि PQ की लम्बाई 3 से.मी. हो तो FE की लम्बाई क्या होगी ?
+    options:
+      A: 3 से.मी.
+      B: 6 से.मी.
+      C: 9 से.मी.
+      D: 12 से.मी.
+    answer: A
+    explanation: PQ joins the midpoints of OB and OC, so PQ = BC/2. FE joins the midpoints of AB and AC, so FE = BC/2 too. Hence FE = PQ = 3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q068
+    difficulty: medium
+    stem: PQR त्रिभुज में, S और T क्रमशः PQ और PR पर दो बिन्दु हैं। ST II QR और PS/SQ=3/5, यदि PR = 6 से.मी. हो, तो PT क्या होगा ?
+    options:
+      A: 2 से.मी.
+      B: 2.25 से.मी.
+      C: 3.5 से.मी.
+      D: 4 से.मी.
+    answer: B
+    explanation: ST ∥ QR, so PT/PR = PS/PQ = 3/8. Then PT = 6 × 3/8 = 2.25 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q069
+    difficulty: medium
+    stem: यदि 5 sin²θ+ 4cos² θ = 9/2 हो और 0 <θ<Π/2 हो तो tanθ किसके बराबर होगा ?
+    options:
+      A: "1"
+      B: "0"
+      C: "-1"
+      D: ¼
+    answer: A
+    explanation: 5sin²θ + 4cos²θ = 4 + sin²θ = 9/2, so sin²θ = 1/2. Then θ = 45° and tan θ = 1.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q071
+    difficulty: medium
+    stem: 60 मीटर ऊंची किसी मीनार के शीर्ष भाग से किसी खम्बे के शीर्ष और तल के अवनमन कोण क्रमशः 45° और 60° दिखाई देते है। यदि खम्बा और मीनार एक ही स्तर पर हो तो मीटर में खम्बे की ऊँचाई बताइए ?
+    options:
+      A: 60(√3-1)
+      B: 20(√3-1)
+      C: 20(3-√3)
+      D: 20(√3+1)
+    answer: C
+    explanation: The distance between them is 60/tan 60° = 20√3 m. The tower rises 20√3 × tan 45° = 20√3 above the pole's top, so the pole is 60 − 20√3 = 20(3 − √3) m.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q072
+    difficulty: medium
+    stem: |-
+      निम्नलिखित पाई चार्ट में किसी देश द्वारा किसी वर्ष विशेष में विभिन्न खेलकूदों पर खर्च की गई राशि दर्शायी गई है। पाई चार्ट का अध्ययन कीजिए और प्रश्नों के उत्तर दिजिए ।
+
+      फुटबॉल ,बास्केटबॉल और क्रिकेट के ऊपर किये गए खर्च तथा टेनिस, हॉकी और गॉल्फ के ऊपर किये गये खर्च में अनुपात बताइएं ?
+
+      *(चित्र: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: 5:7
+      B: 7:5
+      C: 15:1
+      D: 3:20
+    answer: B
+    explanation: "(15 + 12.5 + 25) : (10 + 15 + 12.5) = 52.5 : 37.5 = 7 : 5."
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q073
+    difficulty: medium
+    stem: |-
+      निम्नलिखित पाई चार्ट में किसी देश द्वारा किसी वर्ष विशेष में विभिन्न खेलकूदों पर खर्च की गई राशि दर्शायी गई है। पाई चार्ट का अध्ययन कीजिए और प्रश्नों के उत्तर दिजिए ।
+
+      यदि वर्ष के दौरान खेलकूद परकुल Rs. 1,20,00,000की राशि खर्च की गई तो बास्केट बॉल पर कितनी राशि खर्च की गई ?
+
+      *(चित्र: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: Rs. 950000
+      B: Rs. 10,00,000
+      C: Rs. 12,00,000
+      D: Rs. 15,00,000
+    answer: D
+    explanation: Basketball gets 12.5% of Rs. 1,20,00,000, which is Rs. 15,00,000.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q074
+    difficulty: medium
+    stem: |-
+      निम्नलिखित पाई चार्ट में किसी देश द्वारा किसी वर्ष विशेष में विभिन्न खेलकूदों पर खर्च की गई राशि दर्शायी गई है। पाई चार्ट का अध्ययन कीजिए और प्रश्नों के उत्तर दिजिए ।
+
+      कौन सा कोण हॉकी , फुटबॉल और दूसरे खेलों पर हुए खर्च को दर्शाता है ?
+
+      *(चित्र: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: 104°
+      B: 244°
+      C: 96°
+      D: 144°
+    answer: D
+    explanation: Hockey + football + others = 15 + 15 + 10 = 40%, and 40% of 360° is 144°.
+    tags:
+      - quant
+  - slug: cgl-2016-09-06-s1-q075
+    difficulty: medium
+    stem: |-
+      निम्नलिखित पाई चार्ट में किसी देश द्वारा किसी वर्ष विशेष में विभिन्न खेलकूदों पर खर्च की गई राशि दर्शायी गई है। पाई चार्ट का अध्ययन कीजिए और प्रश्नों के उत्तर दिजिए ।
+
+      यदि वर्ष के दौरान क्रिकेट पर Rs. 20,00,000 की राशि खर्च की गई तो टेनिस पर कितनी राशि खर्च की गई ?
+
+      *(चित्र: Pie chart of spending on sports: Tennis 10%, Golf 12½%, Basket ball 12½%, Foot ball 15%, Hockey 15%,
+      Cricket 25%, Others 10%.)*
+    options:
+      A: Rs. 8,00,000
+      B: Rs.10,00,000
+      C: Rs. 80,00,000
+      D: Rs. 40,00,000
+    answer: A
+    explanation: "Tennis : cricket = 10 : 25, so tennis = 20,00,000 × 10/25 = Rs. 8,00,000."
+    tags:
+      - quant

@@ -1,0 +1,1269 @@
+slug: 2017-08-21-shift1
+title: SSC CGL 2017 Tier 1
+date: 2017-08-21
+label: 21 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://docs.aglasem.com/view/17030a92-9e92-11e9-9913-e470b83c4461). Left out (picture-only options or incomplete in the source): Q7, Q8, Q9, Q16, Q19, Q21, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2017-08-21-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the related word from the given alternatives.
+
+      Cow : Calf :: Hen : ?
+    options:
+      A: Chick
+      B: Cock
+      C: Egg
+      D: Fly
+    answer: A
+    explanation: A calf is the young one of a cow; the young one of a hen is a chick.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the related letters from the given alternatives.
+
+      DHL : AEI :: QUY : ?
+    options:
+      A: MQU
+      B: NRV
+      C: OSW
+      D: PTX
+    answer: B
+    explanation: "Each letter moves 3 places back: D→A, H→E, L→I. So Q→N, U→R, Y→V gives NRV."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the related number from the given alternatives.
+
+      0.5 : 2 :: 0.125 : ?
+    options:
+      A: "6"
+      B: "16"
+      C: "8"
+      D: "12"
+    answer: C
+    explanation: 2 is the reciprocal of 0.5; the reciprocal of 0.125 is 8.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q004
+    difficulty: medium
+    stem: Select the odd word from the given alternatives.
+    options:
+      A: Book
+      B: Page
+      C: Pen
+      D: Diary
+    answer: C
+    explanation: A book, a page and a diary are made of paper and written on; a pen is the writing tool.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q005
+    difficulty: medium
+    stem: Select the odd letters from the given alternatives.
+    options:
+      A: EGI
+      B: MOQ
+      C: UWY
+      D: NLJ
+    answer: D
+    explanation: EGI, MOQ and UWY go forward in steps of 2; NLJ goes backward in steps of 2.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q006
+    difficulty: medium
+    stem: Select the odd number from the given alternatives.
+    options:
+      A: "47"
+      B: "41"
+      C: "59"
+      D: "63"
+    answer: D
+    explanation: 47, 41 and 59 are prime numbers; 63 = 7 × 9 is not.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q010
+    difficulty: medium
+    stem: Meetu's birthday is on Wednesday 8th March. On what day of the week will be Ritu's Birthday in the same year if Ritu was born on 10th July?
+    options:
+      A: Monday
+      B: Wednesday
+      C: Friday
+      D: Saturday
+    answer: A
+    explanation: From 8 March to 10 July is 23 + 30 + 31 + 30 + 10 = 124 days, which is 5 odd days. Wednesday + 5 = Monday.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q011
+    difficulty: medium
+    stem: The weights of 4 boxes are 30, 40, 50 and 80 kilograms. Which of the following cannot be the total weight, in kilograms, of any combination of these boxes and in a combination a box can be used only once?
+    options:
+      A: "120"
+      B: "110"
+      C: "100"
+      D: "130"
+    answer: C
+    explanation: 120 = 40 + 80, 110 = 30 + 80 and 130 = 50 + 80, but no set of these boxes adds up to 100.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q012
+    difficulty: medium
+    stem: |-
+      From the given alternative words, select the word which cannot be formed using the letters of the given word:
+
+      DUPLICATE
+    options:
+      A: PLATE
+      B: DUCTILE
+      C: LUCID
+      D: TEAM
+    answer: D
+    explanation: DUPLICATE has no letter M, so TEAM cannot be formed.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q013
+    difficulty: medium
+    stem: If PRIMATE is coded as MOFJXQB, then how will COW be coded as?
+    options:
+      A: ZLT
+      B: EDC
+      C: RFV
+      D: TGB
+    answer: A
+    explanation: Each letter moves 3 places back (P→M, R→O, I→F, ...). So C→Z, O→L, W→T gives ZLT.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q014
+    difficulty: medium
+    stem: |-
+      In a certain code language, '+' represents '×', '−' represents '+', '×' represents '÷' and '÷' represents '−'. What is the answer to the following question?
+
+      11 + 50 − 150 ÷ 200 = ?
+    options:
+      A: "200"
+      B: "500"
+      C: "250"
+      D: "50"
+    answer: B
+    explanation: "After swapping the signs: 11 × 50 + 150 − 200 = 550 + 150 − 200 = 500."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q015
+    difficulty: medium
+    stem: If 7×1=12; 5×4=2; 6×4=4; then what is the value of 7×4 = ?
+    options:
+      A: "8"
+      B: "6"
+      C: "11"
+      D: "28"
+    answer: B
+    explanation: "The rule is (a − b) × 2: 7×1 → 6 × 2 = 12, 5×4 → 1 × 2 = 2, 6×4 → 2 × 2 = 4. So 7×4 → 3 × 2 = 6."
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q017
+    difficulty: medium
+    stem: A man cycles 7 km East, then turns South and cycles 12 km, then turns West and cycles 7 km, then turns to his left and cycles 10 km. Where is he now with reference to his starting position?
+    options:
+      A: 22 Kms South
+      B: 2 Kms South
+      C: 22 Kms East
+      D: 2 Kms East
+    answer: A
+    explanation: The 7 km east and 7 km west cancel. Turning left while heading west means heading south, so he is 12 + 10 = 22 km south.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q018
+    difficulty: medium
+    stem: |-
+      In the question two statements are given, followed by two conclusions, I and II. You have to consider the statements to be true even if it seems to be at variance from commonly known facts. You have to decide which of the given conclusions, if any, follows from the given statements.
+
+      Statement 1 : All steel is iron.
+      Statement 2 : No iron is solid.
+
+      Conclusion I : No steel is solid.
+      Conclusion II : Some iron is steel.
+    options:
+      A: Only conclusion I follows
+      B: Only conclusion II follows
+      C: Both I and II follow
+      D: Neither I nor II follows
+    answer: C
+    explanation: All steel is iron and no iron is solid, so no steel is solid (I). By conversion, "all steel is iron" gives "some iron is steel" (II). Both follow.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q020
+    difficulty: medium
+    stem: |-
+      In the following figure, square represents athletes, triangle represents engineers, circle represents fathers and rectangle represents entrepreneurs. Which set of letters represents athletes who are either entrepreneurs or fathers?
+
+      *(Figure: Overlapping shapes: a triangle (A alone at its top, B where it overlaps the square), a square (C alone; D where it overlaps the circle), a long horizontal rectangle at bottom-left (G alone; F inside the square; E inside square, circle and rectangle; H inside rectangle and circle below the square), and a circle at right (I alone).)*
+    options:
+      A: F,E,D
+      B: D,E,F,G,H,I
+      C: G,H,I
+      D: E,H
+    answer: A
+    explanation: The athletes (square) who are also fathers (circle) or entrepreneurs (rectangle) are in regions D, E and F.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q025
+    difficulty: medium
+    stem: |-
+      A word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as shown in the given two matrices. The columns and rows of Matrix-I are numbered from 0 to 4 and that of Matrix-II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, for example 'Y' can be represented by 55, 87 etc and 'Z' can be represented by 14, 01 etc. Similarly, you have to identify the set for the word 'VERY'.
+
+      Matrix I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | W | Z | G | T | D |
+      | 1 | S | R | W | G | Z |
+      | 2 | X | F | S | D | E |
+      | 3 | Q | V | C | S | F |
+      | 4 | A | T | Q | Q | A |
+
+      Matrix II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | Y | N | L | I | Y |
+      | 6 | H | I | P | J | I |
+      | 7 | B | K | O | N | O |
+      | 8 | U | M | Y | B | P |
+      | 9 | J | O | H | L | K |
+
+      *(Figure: Two 5×5 letter matrices printed as an image; reproduced as tables.)*
+    options:
+      A: 01,43,21,78
+      B: 31,24,11,87
+      C: 11,20,66,85
+      D: 88,56,43,20
+    answer: B
+    explanation: In option B, 31 = V, 24 = E, 11 = R and 87 = Y, which spells VERY.
+    tags:
+      - reasoning
+  - slug: cgl-2017-08-21-s1-q026
+    difficulty: medium
+    stem: The demand for a inferior good decreases with ________ in the consumer's income.
+    options:
+      A: increase
+      B: decrease
+      C: constant
+      D: double
+    answer: A
+    explanation: Demand for an inferior good falls as income rises (a negative income effect).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q027
+    difficulty: medium
+    stem: Goods for which the quantity that a consumer chooses, increases as the consumer's income increases and decreases as the income decreases are called?
+    options:
+      A: Inferior goods
+      B: Normal goods
+      C: Complementary goods
+      D: Substitute goods
+    answer: B
+    explanation: Normal goods are those whose demand rises with income and falls when income falls.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q028
+    difficulty: medium
+    stem: '"Prevention of cruelty to animals" is listed in the __________ list given in the Seventh Schedule in the Constitution of India.'
+    options:
+      A: Union
+      B: State
+      C: Global
+      D: Concurrent
+    answer: D
+    explanation: '"Prevention of cruelty to animals" is entry 17 of the Concurrent List (List III).'
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q029
+    difficulty: medium
+    stem: ___________ makes laws on matters included in Union List and Concurrent List.
+    options:
+      A: Lok Sabha
+      B: Ministry of Defence
+      C: Prime Minister's Office
+      D: Securities and Exchange Board of India
+    answer: A
+    explanation: Parliament, of which the Lok Sabha is a House, makes laws on Union List and Concurrent List subjects.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q030
+    difficulty: medium
+    stem: According to the categories of land mentioned in the Chola inscriptions ___________ was known as the land for the maintenance of schools?
+    options:
+      A: Vellanvagai
+      B: Brahmadeya
+      C: Shalabhoga
+      D: Devadana
+    answer: C
+    explanation: In Chola inscriptions, shalabhoga was land set apart for the upkeep of a school.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q031
+    difficulty: medium
+    stem: Prince Salim was the name of the future Emperor _________.
+    options:
+      A: Babur
+      B: Humayun
+      C: Jahangir
+      D: Akbar
+    answer: C
+    explanation: Prince Salim, Akbar's son, became Emperor Jahangir in 1605.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q032
+    difficulty: medium
+    stem: ___________ is the breaking up of the rocks on the earth's surface.
+    options:
+      A: Erosion
+      B: Weathering
+      C: Attrition
+      D: Abrasion
+    answer: B
+    explanation: Weathering is the breaking up of rocks in place on the earth's surface; erosion carries the pieces away.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q033
+    difficulty: medium
+    stem: The method of soil conservation in the coastal and dry regions where rows of trees are planted to check the wind movement to protect soil cover is called?
+    options:
+      A: Mulching
+      B: Contour barriers
+      C: Rock dam
+      D: Shelter belts
+    answer: D
+    explanation: Shelter belts are rows of trees planted to break the wind and protect the soil in coastal and dry areas.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q034
+    difficulty: medium
+    stem: Biological names are generally derived from which language?
+    options:
+      A: French
+      B: Latin
+      C: Mexican
+      D: German
+    answer: B
+    explanation: Scientific (biological) names follow binomial nomenclature and are Latin or Latinised.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q035
+    difficulty: medium
+    stem: The members of rhodophyceae are commonly called _________ algae.
+    options:
+      A: Green
+      B: Brown
+      C: Red
+      D: Yellow
+    answer: C
+    explanation: Rhodophyceae are the red algae, coloured by the pigment r-phycoerythrin.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q036
+    difficulty: medium
+    stem: Aurelia (Medusa) and Adamsia (Polyp) are examples of which Phylum?
+    options:
+      A: Ctenophora
+      B: Annelida
+      C: Coelenterata
+      D: Aschelminthes
+    answer: C
+    explanation: Aurelia (a jellyfish, medusa) and Adamsia (a sea anemone, polyp) belong to Coelenterata (Cnidaria).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q037
+    difficulty: medium
+    stem: Energy in the form of heat is wasted when a machine is operated. This heat is generated due to ___________.
+    options:
+      A: burning
+      B: friction
+      C: combustion
+      D: lubrication
+    answer: B
+    explanation: Friction between the moving parts of a machine turns some energy into heat.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q038
+    difficulty: medium
+    stem: The incident ray, the _________ at the point of incidence and the reflected ray all lie in the same plane.
+    options:
+      A: surface
+      B: tangent
+      C: normal
+      D: angle of reflection
+    answer: C
+    explanation: By the laws of reflection, the incident ray, the normal at the point of incidence and the reflected ray lie in one plane.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q039
+    difficulty: medium
+    stem: In Microsoft Word, _______ allows us to move selected paragraphs to the right.
+    options:
+      A: Decrease Indent
+      B: Increase Indent
+      C: Double Indent
+      D: Single Indent
+    answer: B
+    explanation: '"Increase Indent" moves the selected paragraphs to the right; "Decrease Indent" moves them to the left.'
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q040
+    difficulty: medium
+    stem: Blue Vitriol is another name for which of the following?
+    options:
+      A: Copper Sulphate
+      B: Oxygen
+      C: Copper
+      D: Magnesium Oxide
+    answer: A
+    explanation: Blue vitriol is copper sulphate pentahydrate, CuSO₄·5H₂O.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q041
+    difficulty: medium
+    stem: The rubbing surface of a matchbox has powdered glass and a little red ________________.
+    options:
+      A: antimony
+      B: arsenic
+      C: silicon
+      D: phosphorus
+    answer: D
+    explanation: A matchbox's striking surface has powdered glass and a little red phosphorus.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q042
+    difficulty: medium
+    stem: A few organisms can tolerate and thrive in a wide range of temperatures. Such organisms are called ___________.
+    options:
+      A: Osmotic
+      B: Eurythermal
+      C: Stenothermal
+      D: Hydrothermal
+    answer: B
+    explanation: Organisms that tolerate a wide range of temperatures are eurythermal; those with a narrow range are stenothermal.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q043
+    difficulty: medium
+    stem: _____________ scheme by the Central Government will strengthen the bond between all the states, regions, and districts of India.
+    options:
+      A: Uday Desh Ka Aam Nagrik
+      B: Urja Ganga
+      C: Ek Bharat Shrestha Bharat
+      D: Namami Ganga Yojana
+    answer: C
+    explanation: Ek Bharat Shreshtha Bharat (2015) pairs states and UTs to strengthen bonds between the regions of India.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q044
+    difficulty: medium
+    stem: Who invented Velcro?
+    options:
+      A: Thomas Edison
+      B: William Harvey
+      C: George de Mestral
+      D: Robert Boyles
+    answer: C
+    explanation: Swiss engineer George de Mestral invented Velcro (patented in 1955).
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q045
+    difficulty: medium
+    stem: Which nation will host the FIFA Men's World Cup to be held in the year 2018?
+    options:
+      A: Japan
+      B: South Korea
+      C: China
+      D: Russia
+    answer: D
+    explanation: Russia hosted the 2018 FIFA World Cup.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q046
+    difficulty: medium
+    stem: Charminar was built by?
+    options:
+      A: Humayun
+      B: Mohammed Quli Qutab Shah
+      C: Ashoka
+      D: Narasimha
+    answer: B
+    explanation: Muhammad Quli Qutb Shah built the Charminar in Hyderabad in 1591.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q047
+    difficulty: medium
+    stem: Which of the following is an Indian military decoration awarded for valour, courageous action or self-sacrifice away from the battlefield?
+    options:
+      A: Ashok Chakra
+      B: Dada Saheb Phalke Awards
+      C: Arjuna Award
+      D: Padma Shri
+    answer: A
+    explanation: The Ashoka Chakra is India's highest peacetime gallantry award, for valour away from the battlefield.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q048
+    difficulty: medium
+    stem: |-
+      Which of the statements given below are correct?
+
+      1. The author of the novel 'Accelerando' is Charles Stross.
+      2. The author of the novel 'The Windup Girl' is Paolo Bacigalupi.
+      3. The author of the novel 'The Devil in Silver' is Josh Malerman.
+    options:
+      A: 1 and 2
+      B: 2 and 3
+      C: 1 and 3
+      D: 1, 2 and 3
+    answer: A
+    explanation: Accelerando is by Charles Stross and The Windup Girl by Paolo Bacigalupi; The Devil in Silver is by Victor LaValle, not Josh Malerman.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q049
+    difficulty: medium
+    stem: In March 2017, in which country was "world's largest artificial sun" switched on?
+    options:
+      A: China
+      B: USA
+      C: Germany
+      D: Russia
+    answer: C
+    explanation: Germany's DLR switched on "Synlight", the world's largest artificial sun, at Jülich in March 2017.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q050
+    difficulty: medium
+    stem: With which other country does Bangladesh share its border besides India?
+    options:
+      A: China
+      B: Laos
+      C: Bhutan
+      D: Myanmar
+    answer: D
+    explanation: Besides India, Bangladesh shares a land border only with Myanmar.
+    tags:
+      - general-awareness
+  - slug: cgl-2017-08-21-s1-q051
+    difficulty: medium
+    stem: What least number must be added to 329, so that the sum is completely divisible by 7?
+    options:
+      A: "1"
+      B: "0"
+      C: "2"
+      D: "3"
+    answer: B
+    explanation: 329 = 7 × 47, so it is already divisible by 7 and nothing needs to be added.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q052
+    difficulty: medium
+    stem: A can do a work in 15 days and B in 30 days. If they work on it together, then in how many days will they be able to do 50% of the work?
+    options:
+      A: "5"
+      B: "6"
+      C: "4"
+      D: "3"
+    answer: A
+    explanation: Together they do 1/15 + 1/30 = 1/10 of the work a day, so half the work takes 5 days.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q053
+    difficulty: medium
+    stem: What is the area (in sq cm) of an equilateral triangle of side 10 cm?
+    options:
+      A: 25√3
+      B: 50√3
+      C: 75√3
+      D: 10√3
+    answer: A
+    explanation: Area = (√3/4) × 10² = 25√3 cm².
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q054
+    difficulty: medium
+    stem: What is the effective discount (in %) on two successive discounts of 15% and 50%?
+    options:
+      A: "65"
+      B: "57.5"
+      C: "35"
+      D: "42.5"
+    answer: B
+    explanation: Effective discount = 1 − 0.85 × 0.5 = 0.575, that is 57.5%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q055
+    difficulty: medium
+    stem: Profit of Rs 42,500 has to be divided between three partners A, B and C in the ratio 3:5:9. How much (in Rs) does A get?
+    options:
+      A: "12500"
+      B: "9500"
+      C: "22500"
+      D: "7500"
+    answer: D
+    explanation: A's share = 3/17 × 42500 = ₹7500.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q056
+    difficulty: medium
+    stem: The average weight of A, B and C is 49 kg. If the average weight of A and B is 35 kg and that of B and C is 62 kg, then the weight of B (in kgs) is?
+    options:
+      A: "47"
+      B: "45"
+      C: "43"
+      D: "49"
+    answer: A
+    explanation: A + B = 70 and B + C = 124, and A + B + C = 147, so B = 70 + 124 − 147 = 47 kg.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q057
+    difficulty: medium
+    stem: A shopkeeper by selling 6 items, earns a profit equal to the selling price of 1 item. What is his profit percentage?
+    options:
+      A: "20"
+      B: "25"
+      C: "30"
+      D: "35"
+    answer: A
+    explanation: Profit on 6 items = SP of 1 item, so CP of 6 = SP of 5. Profit = 1/5 of CP = 20%.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q058
+    difficulty: medium
+    stem: What is the value of 125% of 25% of 80?
+    options:
+      A: "50"
+      B: "25"
+      C: "20"
+      D: "40"
+    answer: B
+    explanation: 25% of 80 = 20, and 125% of 20 = 25.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q059
+    difficulty: medium
+    stem: To cover a distance of 81 km in 1.5 hours what should be the average speed of the car in meters/second?
+    options:
+      A: "10"
+      B: "15"
+      C: "12"
+      D: "9"
+    answer: B
+    explanation: 81 km / 1.5 h = 54 km/h = 54 × 5/18 = 15 m/s.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q060
+    difficulty: medium
+    stem: In 4 years at simple interest the principal increases by 32%. What will be the compound interest earned (in Rs) on Rs. 24,000 in 3 years at the same rate?
+    options:
+      A: "5233"
+      B: "6332"
+      C: "5332"
+      D: "6233"
+    answer: D
+    explanation: The SI rate is 32/4 = 8%. CI = 24000 × (1.08³ − 1) = 24000 × 0.259712 ≈ ₹6233.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q061
+    difficulty: medium
+    stem: If 5/2(8x/3 − 1/2) + 13/2 = 2x/3, then what is the value of x?
+    options:
+      A: 7/8
+      B: 8/7
+      C: −8/7
+      D: −7/8
+    answer: D
+    explanation: 20x/3 − 5/4 + 13/2 = 2x/3, so 6x = −21/4 and x = −7/8.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q062
+    difficulty: medium
+    stem: If a³ + b³ = 72 and ab = 8 , then what is the value of a + b?
+    options:
+      A: "2"
+      B: "5"
+      C: "6"
+      D: "3"
+    answer: C
+    explanation: "a³ + b³ = (a+b)³ − 3ab(a+b): s³ − 24s = 72, which s = 6 satisfies (216 − 144 = 72)."
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q063
+    difficulty: medium
+    stem: Sum of four times a fraction and 7 times its reciprocal is 16. What is the fraction?
+    options:
+      A: 2/7
+      B: 7/2
+      C: 4/7
+      D: 7/4
+    answer: B
+    explanation: 4x + 7/x = 16 gives 4x² − 16x + 7 = 0, so x = 7/2 or 1/2. Only 7/2 is an option.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q064
+    difficulty: medium
+    stem: What is the sum of the first 11 terms of an arithmetic progression if the 3rd term is −1 and the 8th term is 19?
+    options:
+      A: "204"
+      B: "99"
+      C: "225"
+      D: "104"
+    answer: B
+    explanation: |-
+      **Disputed.** SSC's answer is B, but our check finds none of the options correct.
+
+      SSC's key says 99. Working it out: d = (19 − (−1))/5 = 4 and a = −9, so the 6th term is 11 and S₁₁ = 11 × 11 = 121, which is not among the options.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q065
+    difficulty: medium
+    stem: What is the reflection of the point ( −3, 2) in the line x = −2?
+    options:
+      A: ( −3 , −6)
+      B: (1 , 2)
+      C: ( −3 , 6)
+      D: (−1 , 2)
+    answer: D
+    explanation: Reflecting in x = −2 keeps y and gives x' = 2(−2) − (−3) = −1, so the image is (−1, 2).
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q066
+    difficulty: medium
+    stem: Point P is the midpoint of segment AB. Co-ordinates of P are (1 , 3) and A are (−3 , 8). What are the co-ordinates of point B?
+    options:
+      A: (−5 , −2)
+      B: (−5 , 2)
+      C: (5 , 2)
+      D: (5 , −2)
+    answer: D
+    explanation: B = (2 × 1 − (−3), 2 × 3 − 8) = (5, −2).
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q067
+    difficulty: medium
+    stem: What is the slope of the line perpendicular to the line passing through the points (3 , −2) and (4 , 2)?
+    options:
+      A: 1/4
+      B: "4"
+      C: −4
+      D: −1/4
+    answer: D
+    explanation: The line has slope (2 − (−2))/(4 − 3) = 4, so a perpendicular line has slope −1/4.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q068
+    difficulty: medium
+    stem: ΔABC is similar to ΔPQR. If ratio of perimeters of ΔABC and ΔPQR is 3:7 and if PQ = 21 cm, then the length of AB (in cm) is?
+    options:
+      A: "6"
+      B: "14"
+      C: "9"
+      D: "18"
+    answer: C
+    explanation: "In similar triangles, sides are in the ratio of the perimeters: AB = 21 × 3/7 = 9 cm."
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q069
+    difficulty: medium
+    stem: What is the value of 2 Sec 45° + Tan 30° ?
+    options:
+      A: (2√6 + 1)/√3
+      B: √3
+      C: (2√2 + 3)/√6
+      D: (9 + 2√3)/9
+    answer: A
+    explanation: 2 sec 45° + tan 30° = 2√2 + 1/√3 = (2√6 + 1)/√3.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q070
+    difficulty: medium
+    stem: Δ ABC is right angled at B. If m∠A = 60°, then what is the value of Cot C?
+    options:
+      A: √2
+      B: 1/√3
+      C: √3
+      D: 2/√3
+    answer: C
+    explanation: The angles add to 180°, so C = 180° − 90° − 60° = 30°, and cot 30° = √3.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q071
+    difficulty: medium
+    stem: If Cosec θ = 25/7 , then what is the value of Cos θ?
+    options:
+      A: 25/24
+      B: 7/24
+      C: 24/25
+      D: 7/25
+    answer: C
+    explanation: sin θ = 7/25, so cos θ = √(1 − 49/625) = 24/25.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q072
+    difficulty: medium
+    stem: |-
+      The pie chart shows the votes in 1000s polled in favour of six candidates (A, B, C, D, E, F) contesting for a particular seat. Study the diagram and answer the following questions.
+
+      If Candidate A is disqualified then which candidate will be declared the winner?
+
+      *(Figure: Pie chart of votes (in 1000s): A 27, B 11, C 6, D 9, E 16, F 21.)*
+    options:
+      A: E
+      B: B
+      C: F
+      D: D
+    answer: C
+    explanation: Without A (27), the highest is F with 21 thousand votes.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q073
+    difficulty: medium
+    stem: |-
+      The pie chart shows the votes in 1000s polled in favour of six candidates (A, B, C, D, E, F) contesting for a particular seat. Study the diagram and answer the following questions.
+
+      The winning candidate got how many more votes than the one who came second?
+
+      *(Figure: Pie chart of votes (in 1000s): A 27, B 11, C 6, D 9, E 16, F 21.)*
+    options:
+      A: "6000"
+      B: "5000"
+      C: "11000"
+      D: "7000"
+    answer: A
+    explanation: "Winner A has 27 thousand and runner-up F has 21 thousand: a difference of 6000."
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q074
+    difficulty: medium
+    stem: |-
+      The pie chart shows the votes in 1000s polled in favour of six candidates (A, B, C, D, E, F) contesting for a particular seat. Study the diagram and answer the following questions.
+
+      Analysts believe that if candidate E had not stood in the fray then votes that he got would have been equally divided between F and C, then what would have been the result?
+
+      *(Figure: Pie chart of votes (in 1000s): A 27, B 11, C 6, D 9, E 16, F 21.)*
+    options:
+      A: A would have lost by 1000 votes
+      B: F would have won by 2000 votes
+      C: F would have lost by 2000 votes
+      D: A would have won by 1000 votes
+    answer: B
+    explanation: E's 16 thousand split equally gives F 21 + 8 = 29 and C 6 + 8 = 14. F (29) beats A (27) by 2000 votes.
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q075
+    difficulty: medium
+    stem: |-
+      The pie chart shows the votes in 1000s polled in favour of six candidates (A, B, C, D, E, F) contesting for a particular seat. Study the diagram and answer the following questions.
+
+      If voting attendance was 60% then how many names must be there in the voter list?
+
+      *(Figure: Pie chart of votes (in 1000s): A 27, B 11, C 6, D 9, E 16, F 21.)*
+    options:
+      A: "225000"
+      B: "90000"
+      C: "144000"
+      D: "150000"
+    answer: D
+    explanation: "Total votes = 27+11+6+9+16+21 = 90 thousand, which is 60% of the list: 90000/0.6 = 150000."
+    tags:
+      - quant
+  - slug: cgl-2017-08-21-s1-q076
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      A slow smile worked (1)/ its way cross his (2)/ face and into his eyes. (3)/No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: B
+    explanation: The preposition needed is "across his face", not "cross".
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q077
+    difficulty: medium
+    stem: |-
+      In the following question, some part of the sentence may have errors. Find out which part of the sentence has an error and select the appropriate option. If a sentence is free from error, select 'No Error'.
+
+      His expression gave no (1)/ clue of what was going (2)/ on among his head. (3)/ No Error (4)
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: C
+    explanation: It should be "going on in his head"; "among" is used for groups, not inside one thing.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q078
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      After being given _________ warnings for disrupting class, Thomas was finally sent to the principal's office.
+    options:
+      A: singular
+      B: lone
+      C: numerous
+      D: unique
+    answer: C
+    explanation: '"Finally" implies many earlier warnings, so "numerous" fits.'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q079
+    difficulty: medium
+    stem: |-
+      In the following question, the sentence given with blank to be filled in with an appropriate word. Select the correct alternative out of the four and indicate it by selecting the appropriate option.
+
+      The __________ "pretty ugly" implies that a person can be both attractive and unattractive at the same time.
+    options:
+      A: simile
+      B: metaphor
+      C: alliteration
+      D: oxymoron
+    answer: D
+    explanation: An oxymoron joins contradictory words, like "pretty ugly".
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q080
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Cynicism
+    options:
+      A: Conviction
+      B: Bitterness
+      C: Credence
+      D: Intuetion
+    answer: B
+    explanation: Cynicism is distrust of others' motives, close in meaning to bitterness.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q081
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word similar in meaning to the word given.
+
+      Pinnacle
+    options:
+      A: Culmination
+      B: Nadir
+      C: Nethermost
+      D: Basal
+    answer: A
+    explanation: Pinnacle means the highest point; culmination is the closest meaning.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q082
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Befuddle
+    options:
+      A: Baffle
+      B: Daze
+      C: Fluster
+      D: Explicate
+    answer: D
+    explanation: Befuddle means to confuse; explicate (to explain clearly) is its opposite.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q083
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the word opposite in meaning to the word given.
+
+      Supplant
+    options:
+      A: Supersede
+      B: Surrender
+      C: Usurp
+      D: Oust
+    answer: B
+    explanation: Supplant means to take over or replace; surrender (to give up) is the opposite.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q084
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      Get the message
+    options:
+      A: Understand what is implied by a remark or action
+      B: Communicate using a secret language
+      C: Find it difficult to understand a different language
+      D: Fire someone from a job
+    answer: A
+    explanation: '"Get the message" means to understand what is implied.'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q085
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which best expresses the meaning of the idiom/phrase.
+
+      Keep at bay
+    options:
+      A: Keep your problems to yourselves
+      B: to control something and prevent it from causing you problems
+      C: Not share a secret
+      D: Maintain a long distance relationship
+    answer: B
+    explanation: '"Keep at bay" means to keep something under control so it cannot cause trouble.'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q086
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select "no improvement".
+
+      Tom pretended to not (heard) a thing.
+    options:
+      A: hear
+      B: hearing
+      C: be hearing
+      D: no improvement
+    answer: A
+    explanation: 'After "to" we need the base form: "pretended not to hear".'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q087
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which will improve the bracketed part of the sentence. In case no improvement is needed, select "no improvement".
+
+      He must (has change) clothes during the night.
+    options:
+      A: have changed
+      B: has changed
+      C: have changes
+      D: no improvement
+    answer: A
+    explanation: 'A modal is followed by "have" + past participle: "must have changed".'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q088
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the words/sentence.
+
+      Deriving pleasure from inflicting pain
+    options:
+      A: Sadistic
+      B: Genial
+      C: Tender
+      D: Placid
+    answer: A
+    explanation: Deriving pleasure from inflicting pain is sadistic.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q089
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, select the alternative which is the best substitute of the words/sentence.
+
+      A person highly skilled in music
+    options:
+      A: Virtuoso
+      B: Amateur
+      C: Novice
+      D: Dabbler
+    answer: A
+    explanation: A virtuoso is a person highly skilled in music or another art.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q090
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is correctly spelt. Select the correctly spelt word.
+    options:
+      A: palatable
+      B: palateble
+      C: pallateble
+      D: pallatable
+    answer: A
+    explanation: The correct spelling is "palatable".
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q091
+    difficulty: medium
+    stem: In the following question, four words are given out of which one word is correctly spelt. Select the correctly spelt word.
+    options:
+      A: unnerving
+      B: unnerveing
+      C: unerving
+      D: unerveing
+    answer: A
+    explanation: The correct spelling is "unnerving" (un + nerve + ing, dropping the final e).
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q092
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      At length, about an hour later, we
+      X-spied a little pile of boulders rising
+      Y-this we dragged ourselves
+      Z-out of the plain, and to
+    options:
+      A: XYZ
+      B: ZYX
+      C: XZY
+      D: ZXY
+    answer: C
+    explanation: '"We spied a little pile of boulders rising (X) out of the plain, and to (Z) this we dragged ourselves (Y)": XZY.'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q093
+    difficulty: medium
+    stem: |-
+      The question below consists of a set of labelled sentences. Out of the four options given, select the most logical order of the sentences to form a coherent paragraph.
+
+      Secondly, it is consistent
+      X-with human experience that
+      Y-places and be depressed in others
+      Z-land should rise gradually in some
+    options:
+      A: XYZ
+      B: ZYX
+      C: ZXY
+      D: XZY
+    answer: D
+    explanation: '"It is consistent with human experience that (X) land should rise gradually in some (Z) places and be depressed in others (Y)": XZY.'
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q094
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Active/Passive voice. Out of the four alternatives suggested, select the one which best expresses the same sentence in Passive/Active voice.
+
+      The labourers paved the entire stretch of the road.
+    options:
+      A: The entire stretch of the road is paved by the labourers.
+      B: Paving of the entire stretch of the road was done by the labourers.
+      C: The entire stretch of the road was paved by the labourers.
+      D: Paving of the entire stretch of the road is done by the labourers.
+    answer: C
+    explanation: The active verb is simple past ("paved"), so the passive is "was paved by the labourers".
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q095
+    difficulty: medium
+    stem: |-
+      In the following question, a sentence has been given in Direct/Indirect speech. Out of the four alternatives suggested, select the one which best expresses the same sentence in Indirect/Direct speech.
+
+      The visitor said, "Is your mother at home?"
+    options:
+      A: The visitor asked me is my mother at home.
+      B: The visitor asked to me whether my mother was at home.
+      C: The visitor asked to me is my mother at home.
+      D: The visitor asked me whether my mother was at home.
+    answer: D
+    explanation: A yes/no question in reported speech uses "asked me whether" and shifts "is" to "was".
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q096
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives.
+
+      But before I could be inspired by these amazing people, I had to cleanse my feed. I know my weaknesses: just last week, Facebook memories reminded me of a pizza party I'd had two years ago and I ended up ordering a chicken dominator, with garlic breadsticks and an jalapeno cheese dip. So much for Day One of Couch to 5K training. I stayed right on that couch. So far I've unfollowed Buzzfeed Tasty, TasteMade (even their adorable Tiny Kitchen) and several people who have the enviable advantage of being able to eat as much as they want and not put on weight. By my calculations, dark chocolate is healthy, so I'm still following Earth Loaf, Pascati and Mason & Co.
+
+      When I finally found a gym I liked, with the best trainers I have had, I unabashedly shared my workouts every day. From shying away from full-length pictures, I reached a point where I could share videos of myself deadlifting and doing back squats with a barbell across my shoulders. It gave me accountability: I challenged myself to go to the gym for 30 classes straight, and I did it. Which reminds me, it's time to start a new challenge.
+
+      Posts related to which topic does the writer want to remove from her feed?
+    options:
+      A: Dark Chocolate
+      B: Make-up
+      C: Sari
+      D: Food
+    answer: D
+    explanation: She unfollowed food pages like Buzzfeed Tasty and TasteMade to avoid temptation.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q097
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives.
+
+      But before I could be inspired by these amazing people, I had to cleanse my feed. I know my weaknesses: just last week, Facebook memories reminded me of a pizza party I'd had two years ago and I ended up ordering a chicken dominator, with garlic breadsticks and an jalapeno cheese dip. So much for Day One of Couch to 5K training. I stayed right on that couch. So far I've unfollowed Buzzfeed Tasty, TasteMade (even their adorable Tiny Kitchen) and several people who have the enviable advantage of being able to eat as much as they want and not put on weight. By my calculations, dark chocolate is healthy, so I'm still following Earth Loaf, Pascati and Mason & Co.
+
+      When I finally found a gym I liked, with the best trainers I have had, I unabashedly shared my workouts every day. From shying away from full-length pictures, I reached a point where I could share videos of myself deadlifting and doing back squats with a barbell across my shoulders. It gave me accountability: I challenged myself to go to the gym for 30 classes straight, and I did it. Which reminds me, it's time to start a new challenge.
+
+      What has the writer succeeded in doing?
+    options:
+      A: Lost the desired weight
+      B: Succeeded in overcoming temptations to order pizzas
+      C: Attended 30 gym classes without a break
+      D: Removed unhealthy posts including about chocolates
+    answer: C
+    explanation: She says she challenged herself to go to the gym for 30 classes straight, and did it.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q098
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives.
+
+      But before I could be inspired by these amazing people, I had to cleanse my feed. I know my weaknesses: just last week, Facebook memories reminded me of a pizza party I'd had two years ago and I ended up ordering a chicken dominator, with garlic breadsticks and an jalapeno cheese dip. So much for Day One of Couch to 5K training. I stayed right on that couch. So far I've unfollowed Buzzfeed Tasty, TasteMade (even their adorable Tiny Kitchen) and several people who have the enviable advantage of being able to eat as much as they want and not put on weight. By my calculations, dark chocolate is healthy, so I'm still following Earth Loaf, Pascati and Mason & Co.
+
+      When I finally found a gym I liked, with the best trainers I have had, I unabashedly shared my workouts every day. From shying away from full-length pictures, I reached a point where I could share videos of myself deadlifting and doing back squats with a barbell across my shoulders. It gave me accountability: I challenged myself to go to the gym for 30 classes straight, and I did it. Which reminds me, it's time to start a new challenge.
+
+      Which of the following is a page related to chocolate?
+    options:
+      A: Earth Loaf
+      B: Buzzfeed Tasty
+      C: TasteMade
+      D: Tiny Kitchen
+    answer: A
+    explanation: Earth Loaf is one of the dark-chocolate pages she still follows.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q099
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives.
+
+      But before I could be inspired by these amazing people, I had to cleanse my feed. I know my weaknesses: just last week, Facebook memories reminded me of a pizza party I'd had two years ago and I ended up ordering a chicken dominator, with garlic breadsticks and an jalapeno cheese dip. So much for Day One of Couch to 5K training. I stayed right on that couch. So far I've unfollowed Buzzfeed Tasty, TasteMade (even their adorable Tiny Kitchen) and several people who have the enviable advantage of being able to eat as much as they want and not put on weight. By my calculations, dark chocolate is healthy, so I'm still following Earth Loaf, Pascati and Mason & Co.
+
+      When I finally found a gym I liked, with the best trainers I have had, I unabashedly shared my workouts every day. From shying away from full-length pictures, I reached a point where I could share videos of myself deadlifting and doing back squats with a barbell across my shoulders. It gave me accountability: I challenged myself to go to the gym for 30 classes straight, and I did it. Which reminds me, it's time to start a new challenge.
+
+      What weight loss program has the writer enrolled in?
+    options:
+      A: 30 Straight gym classes
+      B: Couch to 5K
+      C: Mason & Co
+      D: Eat chocolate to lose weight
+    answer: B
+    explanation: She mentions Day One of her Couch to 5K training.
+    tags:
+      - english
+  - slug: cgl-2017-08-21-s1-q100
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives.
+
+      But before I could be inspired by these amazing people, I had to cleanse my feed. I know my weaknesses: just last week, Facebook memories reminded me of a pizza party I'd had two years ago and I ended up ordering a chicken dominator, with garlic breadsticks and an jalapeno cheese dip. So much for Day One of Couch to 5K training. I stayed right on that couch. So far I've unfollowed Buzzfeed Tasty, TasteMade (even their adorable Tiny Kitchen) and several people who have the enviable advantage of being able to eat as much as they want and not put on weight. By my calculations, dark chocolate is healthy, so I'm still following Earth Loaf, Pascati and Mason & Co.
+
+      When I finally found a gym I liked, with the best trainers I have had, I unabashedly shared my workouts every day. From shying away from full-length pictures, I reached a point where I could share videos of myself deadlifting and doing back squats with a barbell across my shoulders. It gave me accountability: I challenged myself to go to the gym for 30 classes straight, and I did it. Which reminds me, it's time to start a new challenge.
+
+      What gave the writer accountability?
+    options:
+      A: Sharing her workout videos on social media
+      B: Unfollowing people and pages not related to health
+      C: Going to the gym daily
+      D: Doing challenging exercises like deadlifting
+    answer: A
+    explanation: Sharing her workouts every day, including videos, gave her accountability.
+    tags:
+      - english

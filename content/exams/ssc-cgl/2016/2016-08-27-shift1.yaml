@@ -1,0 +1,1284 @@
+slug: 2016-08-27-shift1
+title: SSC CGL 2016 Tier 1
+date: 2016-08-27
+label: 27 Aug, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via aglasem.com — https://docs.aglasem.com/view/5a3f1e1c-dab7-11ed-9b4d-0a5e36bc6706). Left out (picture-only options or incomplete in the source): Q16, Q21, Q22, Q23, Q24, Q65, Q72, Q73, Q74, Q75."
+questions:
+  - slug: cgl-2016-08-27-s1-q001
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      Donkey : Brays :: Monkey : ?
+    options:
+      A: Chatters
+      B: Trumpets
+      C: Bellows
+      D: Grunts
+    answer: A
+    explanation: "A donkey brays and a monkey chatters: each animal is paired with the sound it makes."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      ABDE : FGIJ :: IJLM : ?
+    options:
+      A: NOQR
+      B: NOPQ
+      C: NMOP
+      D: NPQR
+    answer: A
+    explanation: "Each letter moves 5 places forward: A→F, B→G, D→I, E→J. So I, J, L, M → N, O, Q, R."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the related word/letters/number from the given alternatives.
+
+      1 : 8 :: ? :64
+    options:
+      A: "25"
+      B: "36"
+      C: "30"
+      D: "27"
+    answer: D
+    explanation: "1 : 8 is 1³ : 2³, so the pair is consecutive cubes: 3³ : 4³ = 27 : 64."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q004
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives.
+    options:
+      A: Swimming
+      B: Sailing
+      C: Diving
+      D: Driving
+    answer: D
+    explanation: Swimming, sailing and diving all happen in water; driving happens on land.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q005
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives.
+    options:
+      A: RGTF
+      B: MLOK
+      C: CTES
+      D: VDZC
+    answer: D
+    explanation: In RGTF, MLOK and CTES the 1st→3rd letter is +2 and the 2nd→4th is −1 (R→T, G→F). In VDZC, V→Z is +4, so it is the odd one.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q006
+    difficulty: medium
+    stem: |-
+      For the following questions
+
+      Find the odd word/letters/number pair from the given alternatives.
+    options:
+      A: "443"
+      B: "633"
+      C: "821"
+      D: "245"
+    answer: B
+    explanation: The digits of 443, 821 and 245 each add up to 11; the digits of 633 add up to 12.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q007
+    difficulty: medium
+    stem: |-
+      Arrange the following words as per order in the dictionary
+
+      1. Dyke 2. Dwindle 3. Dwell 4. Dye
+    options:
+      A: 3,2,4,1
+      B: 1,3,4,2
+      C: 2,1,3,4
+      D: 3,4,2,1
+    answer: A
+    explanation: "Dwell, Dwindle, Dye, Dyke: 'Dwe' comes before 'Dwi', and both come before 'Dy'; 'Dye' comes before 'Dyk'. Order 3, 2, 4, 1."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q008
+    difficulty: medium
+    stem: |-
+      Choose the correct alternative that will replace the question mark in the given series:
+
+      DHL, PTX, BFJ, ?
+    options:
+      A: KOS
+      B: NRV
+      C: NPS
+      D: NRU
+    answer: B
+    explanation: "Each group's letters are 4 apart (D-H-L), and the first letter moves 12 places each time: D→P→B→N (wrapping after Z). So N, R, V."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q009
+    difficulty: medium
+    stem: |-
+      Find the wrong number in the series:
+
+      28, 33, 31, 36, 34, 29
+    options:
+      A: "33"
+      B: "36"
+      C: "34"
+      D: "29"
+    answer: D
+    explanation: "The series alternates +5, −2: 28, 33, 31, 36, 34, then 34 + 5 = 39. So 29 is wrong."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q010
+    difficulty: medium
+    stem: The age of Rakhi is twelve times that of her daughter Anubha. If age of Anubha is 3 years now, then what was the age of Rakhi, 2 years earlier?
+    options:
+      A: 20 years
+      B: 34 years
+      C: 30 years
+      D: 36 years
+    answer: B
+    explanation: Rakhi is 12 × 3 = 36 now, so 2 years earlier she was 34.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q011
+    difficulty: medium
+    stem: Satya's birthday falls on 15th August and Meena's birthday falls on 25th June. If Meena's birthday was on Wednesday, what was the day on Sathya's birthday in the same year?
+    options:
+      A: Friday
+      B: Monday
+      C: Tuesday
+      D: Saturday
+    answer: A
+    explanation: From 25 June to 15 August is 5 + 31 + 15 = 51 days = 7 weeks + 2 days. Wednesday + 2 = Friday.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q012
+    difficulty: medium
+    stem: |-
+      From the given words, select the word which can be formed using the letters of the given word.
+
+      AMPLIFICATION
+    options:
+      A: ACTOR
+      B: MANOR
+      C: CHAMP
+      D: MANIA
+    answer: D
+    explanation: AMPLIFICATION has M, A (twice), N and I, so MANIA can be formed. The others need R or H, which are not in the word.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q013
+    difficulty: medium
+    stem: If BLACKSMITH is coded as CNBELUNKUJ, then CHILDREN will be coded as ?
+    options:
+      A: DIJMESFO
+      B: DJJNETFP
+      C: DJINETEP
+      D: DJJNETEP
+    answer: B
+    explanation: "Letters move alternately +1 and +2: B→C, L→N, A→B, C→E … So C H I L D R E N → D J J N E T F P."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q014
+    difficulty: medium
+    stem: |-
+      If 17 + 17 = 2895
+
+      18 + 18 = 3245
+
+      19 + 19 = 3615
+
+      then 23 + 23 = ?
+    options:
+      A: "5765"
+      B: "2565"
+      C: "4005"
+      D: "5295"
+    answer: D
+    explanation: "The result is the square followed by 5: 17² = 289 → 2895. So 23² = 529 → 5295."
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q015
+    difficulty: medium
+    stem: In the following problem, '=' stands for '÷' , '+' stands for '−' , 'x' stands for '=', '−' stands for '+' and '÷' stands for 'x'. Find the correct equation.
+    options:
+      A: 8 ÷ 4 + 1 − 5 = 6 x 4
+      B: 4 x 6 ÷ 4 + 4 = 7
+      C: 5 ÷ 3 − 25 + 20 = 20 x 39
+      D: 96 ÷ 2 x 6 ÷105 + 1
+    answer: C
+    explanation: After swapping the signs, option C reads 5 × 3 + 25 − 20 ÷ 20 = 39, i.e. 15 + 25 − 1 = 39, which is true.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q017
+    difficulty: medium
+    stem: A man walked 9 km towards East and then 12 km towards South. How far is he from the starting point?
+    options:
+      A: 8 km
+      B: 6 km
+      C: 15 km
+      D: 7.5 km
+    answer: C
+    explanation: The two legs are at right angles, so the distance is √(9² + 12²) = √225 = 15 km.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q018
+    difficulty: medium
+    stem: |-
+      Consider the given statement/s to be true and decide which of the given conclusions/assumptions can definitely be drawn from the given statement.
+
+      Statement: Poverty is a symptom as well as a consequence of social disorder.
+
+      Assumptions: I. Poverty is a type of social order
+
+      II. Poverty is related to social order
+    options:
+      A: only I assumption is correct
+      B: only assumption II is correct
+      C: Both assumptions I and II are correct
+      D: Neither assumption I nor II is correct
+    answer: D
+    explanation: The statement is about social disorder. It does not say that poverty is a kind of social order, or that it is linked to social order, so neither assumption is implicit.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q019
+    difficulty: medium
+    stem: |-
+      How many squares are there in the square figure ABCD?
+
+      *(Figure: Square ABCD (A top-left, B top-right, C bottom-right, D bottom-left) divided into a 4 × 4 grid of equal small squares.)*
+    options:
+      A: "16"
+      B: "17"
+      C: "26"
+      D: "30"
+    answer: D
+    explanation: A 4 × 4 grid has 16 + 9 + 4 + 1 = 30 squares (1×1, 2×2, 3×3 and 4×4).
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q020
+    difficulty: medium
+    stem: |-
+      Find the part which represents those actors who are also singers
+
+      *(Figure: Three overlapping rectangles labelled by arrows: 'College Students' (upper-left rectangle), 'Actors' (right rectangle) and 'Singers' (narrow vertical rectangle at the lower left). Regions: a = college students only; b = college students and actors only; d = college students and singers only; c = college students, actors and singers; e = actors and singers only; f = actors only; g = singers only.)*
+    options:
+      A: a
+      B: b
+      C: c
+      D: f
+    answer: C
+    explanation: Actors who are also singers lie in the overlap of the Actors and Singers rectangles, which is regions c and e. Of the options, only c is offered.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q025
+    difficulty: medium
+    stem: |-
+      In the question, a word is represented by only one set of numbers as given in any one of the alternatives. The sets of numbers given in the alternatives are represented by two classes of alphabets as in two matrices given below. The columns and rows of Matrix I are numbered from 0 to 4 and that of Matrix II are numbered from 5 to 9. A letter from these matrices can be represented first by its row and next by its column, e.g., G can be represented by 04, 40, etc., and 'K' can be represented by 56, 75, etc.
+
+      Similarly you have to identify the set for the word 'NILE'
+
+      Matrix - I
+
+      |   | 0 | 1 | 2 | 3 | 4 |
+      |---|---|---|---|---|---|
+      | 0 | C | D | E | F | G |
+      | 1 | F | G | C | D | E |
+      | 2 | D | E | F | G | C |
+      | 3 | E | F | G | C | D |
+      | 4 | G | C | D | E | F |
+
+      Matrix - II
+
+      |   | 5 | 6 | 7 | 8 | 9 |
+      |---|---|---|---|---|---|
+      | 5 | H | K | L | I | N |
+      | 6 | I | N | H | K | L |
+      | 7 | K | L | I | N | H |
+      | 8 | L | I | N | H | K |
+      | 9 | N | H | K | L | I |
+    options:
+      A: 56, 58, 03, 02
+      B: 59, 77, 85, 43
+      C: 56, 62, 03, 02
+      D: 57, 60, 10, 02
+    answer: B
+    explanation: N = 59 (row 5, column 9), I = 77, L = 85 and E = 43. Every pair in option B matches.
+    tags:
+      - reasoning
+  - slug: cgl-2016-08-27-s1-q026
+    difficulty: medium
+    stem: Trickle down theory ignores the impact of economic growth on
+    options:
+      A: Investment
+      B: Savings
+      C: Income distribution
+      D: Consumption
+    answer: C
+    explanation: The trickle-down theory assumes that the gains of growth reach the poor on their own, so it ignores how income is distributed.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q027
+    difficulty: medium
+    stem: The Comptroller and Auditor General of India does not audit the receipts and expenditure of
+    options:
+      A: Central Government
+      B: Local Bodies
+      C: State Government
+      D: Government Companies
+    answer: B
+    explanation: The CAG audits the accounts of the Union, the States and government companies. Local bodies are mainly audited by the state Local Fund Audit departments.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q028
+    difficulty: medium
+    stem: In which year did the Kakori conspiracy case take place?
+    options:
+      A: "1925"
+      B: "1924"
+      C: "1926"
+      D: "1927"
+    answer: A
+    explanation: The Kakori train robbery by HRA revolutionaries took place on 9 August 1925.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q029
+    difficulty: medium
+    stem: The Taj Mahal is called 'a dream in marble'. Which monument is called as 'a dream in stone'?
+    options:
+      A: The Rang Mahal
+      B: The Panch Mahal
+      C: The Red Fort
+      D: The Bahai temple
+    answer: B
+    explanation: Fatehpur Sikri, where the Panch Mahal stands, is called 'a dream in stone'. Of the options, the Panch Mahal is the one that matches.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q030
+    difficulty: medium
+    stem: Sex-ratio in India is measured as
+    options:
+      A: Number of males per thousand females
+      B: Number of females per thousand males
+      C: Number of males per hundred females
+      D: Number of females per hundred males
+    answer: B
+    explanation: In India the sex ratio is the number of females per 1000 males.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q031
+    difficulty: medium
+    stem: Companion cells are unique to
+    options:
+      A: Bryophytes
+      B: Pteridophytes
+      C: Angiosperms
+      D: Gymnosperms
+    answer: C
+    explanation: Companion cells, which go with sieve tubes in phloem, are found only in angiosperms.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q032
+    difficulty: medium
+    stem: Which one of the following is an insulator?
+    options:
+      A: Copper
+      B: Wood
+      C: Mercury
+      D: Aluminium
+    answer: B
+    explanation: Wood does not conduct electricity. Copper, mercury and aluminium are conductors.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q033
+    difficulty: medium
+    stem: "Bubbles of air rise up through liquids due to:"
+    options:
+      A: Surface tension and adherence
+      B: viscosity and buoyancy.
+      C: air current over the liquid and buoyancy
+      D: Up thrust and surface tension.
+    answer: B
+    explanation: Buoyancy pushes the bubble up, and viscosity controls how fast it rises.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q034
+    difficulty: medium
+    stem: Zeolite is
+    options:
+      A: hydrated ferric oxide
+      B: hydrated sodium aluminium silicate
+      C: sodium hexameta phosphate
+      D: sodium tetra borate
+    answer: B
+    explanation: Zeolite (permutit), used to soften water, is hydrated sodium aluminium silicate.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q035
+    difficulty: medium
+    stem: The boiling point of liquids vary as
+    options:
+      A: pressure varies
+      B: temperature varies
+      C: volume varies
+      D: density varies
+    answer: A
+    explanation: A liquid boils when its vapour pressure equals the outside pressure, so its boiling point changes with pressure.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q036
+    difficulty: medium
+    stem: The largest source of pollution in the world is
+    options:
+      A: herbicides and insecticides
+      B: Automobile exhausts
+      C: Sewage and garbage
+      D: Industrial effluents
+    answer: C
+    explanation: Sewage and garbage are the largest source of pollution in the world.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q037
+    difficulty: medium
+    stem: Among the following states, the literacy rate is highest in
+    options:
+      A: Orissa
+      B: Punjab
+      C: Maharashtra
+      D: Mizoram
+    answer: D
+    explanation: Mizoram's literacy rate (about 91% in the 2011 Census) is much higher than that of Odisha, Punjab or Maharashtra.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q038
+    difficulty: medium
+    stem: The minimum number of members that must be present to hold the meeting of the Lok Sabha is
+    options:
+      A: One-fourth of the total membership
+      B: One-tenth of the total membership
+      C: Fifty percent strength of the Lok Sabha
+      D: At least hundred members
+    answer: B
+    explanation: Under Article 100, the quorum of either House is one-tenth of its total membership.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q039
+    difficulty: medium
+    stem: India's population growth is characterized by
+    options:
+      A: An increase in rate of death
+      B: An increase in the ratio of females
+      C: An increase in the birth rate and declining death rate
+      D: Increasing number of old people
+    answer: C
+    explanation: India's population grew fast because death rates fell sharply while birth rates stayed high.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q040
+    difficulty: medium
+    stem: What will you call a system of taxation under which the poorer sections are taxed at higher rates than the richer sections?
+    options:
+      A: Progressive tax
+      B: Proportional tax
+      C: Regressive tax
+      D: Degressive tax
+    answer: C
+    explanation: A regressive tax takes a larger share of income from the poor than from the rich.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q041
+    difficulty: medium
+    stem: The most important function of an interest group is to
+    options:
+      A: form the government
+      B: alter government policies to its liking
+      C: build up public opinion
+      D: Contest elections
+    answer: B
+    explanation: An interest group tries to shape government policy in its favour. It does not form governments or contest elections.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q042
+    difficulty: medium
+    stem: Which among the following is not correctly paired?
+    options:
+      A: Shivaji-Afzal Khan
+      B: Nurjahan-Mahabat Khan
+      C: Akbar-Rana Pratap
+      D: Babar-Bairam Khan
+    answer: D
+    explanation: Bairam Khan was Humayun's general and Akbar's regent, not Babur's. The other pairs are real rivals or associates.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q043
+    difficulty: medium
+    stem: Which of the following deserts is rich in gold reserves?
+    options:
+      A: Arabian
+      B: Thar
+      C: Mongolian
+      D: Atacama
+    answer: D
+    explanation: The Atacama Desert in Chile holds large deposits of copper and gold.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q044
+    difficulty: medium
+    stem: Lacrymal glands are situated in the
+    options:
+      A: Palms
+      B: Buccal cavity
+      C: Eye orbit
+      D: Stomach
+    answer: C
+    explanation: The lacrimal (tear) glands sit in the upper outer part of the eye orbit.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q045
+    difficulty: medium
+    stem: The most extensive use of molasses after fermentation is for producing
+    options:
+      A: Methanol
+      B: Sugar
+      C: Ethanol
+      D: Sugarcane
+    answer: C
+    explanation: When molasses is fermented, it is mostly used to make ethanol (alcohol).
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q046
+    difficulty: medium
+    stem: Acid rain is caused due to pollution of atmosphere by
+    options:
+      A: oxides of nitrogen and sulphur
+      B: oxides of nitrogen and phosphorous
+      C: oxides of carbon and nitrogen
+      D: oxides of nitrogen and methane
+    answer: A
+    explanation: Oxides of sulphur and nitrogen dissolve in rainwater and form sulphuric and nitric acids.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q047
+    difficulty: medium
+    stem: The dispute over Siachin Glacier is between
+    options:
+      A: India and China
+      B: India and Afghanistan
+      C: India and Pakistan
+      D: India and Nepal
+    answer: C
+    explanation: The Siachen Glacier dispute is between India and Pakistan.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q048
+    difficulty: medium
+    stem: "Who wrote the famous line: 'A thing of beauty is a joy forever'"
+    options:
+      A: John Keats
+      B: V.S. Naipaul
+      C: Sir Richard Burton
+      D: Larry Collins
+    answer: A
+    explanation: "'A thing of beauty is a joy for ever' is the first line of John Keats's poem 'Endymion' (1818)."
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q049
+    difficulty: medium
+    stem: Who was the first lady Governor of an Indian State?
+    options:
+      A: Mrs. Sucheta Kripalani
+      B: Miss Padmaja Naidu
+      C: Mrs Tarkeswari Sinha
+      D: Mrs. Sarojini Naidu
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests D.
+
+      Sarojini Naidu became Governor of the United Provinces in 1947, the first woman Governor of an Indian state. Sucheta Kripalani was India's first woman Chief Minister.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q050
+    difficulty: medium
+    stem: Which of the following is an application protocol?
+    options:
+      A: HTTP
+      B: TCP
+      C: IP
+      D: UDP
+    answer: A
+    explanation: HTTP works at the application layer. TCP and UDP are transport protocols, and IP is a network protocol.
+    tags:
+      - general-awareness
+  - slug: cgl-2016-08-27-s1-q051
+    difficulty: medium
+    stem: A clock gains 15 minutes per day. If it is set right at 12 noon, the time it shows at 4 AM is
+    options:
+      A: 4.20 AM
+      B: 4.30 AM
+      C: 4.02 AM
+      D: 4.10 AM
+    answer: D
+    explanation: From 12 noon to 4 AM is 16 hours. The clock gains 15 × 16/24 = 10 minutes, so it shows 4.10 AM.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q052
+    difficulty: medium
+    stem: A home theatre set is Rs. 4950. If two successive discounts of 20% and 15% are given, then its selling price is
+    options:
+      A: Rs.3366
+      B: Rs.6633
+      C: Rs.3636
+      D: Rs.6363
+    answer: A
+    explanation: 4950 × 0.80 × 0.85 = Rs. 3366.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q053
+    difficulty: medium
+    stem: If 15% of x is three times of 10% of y, then x:y =
+    options:
+      A: 1:2
+      B: 2:1
+      C: 3:2
+      D: 2:3
+    answer: B
+    explanation: "0.15x = 3 × 0.10y, so 0.15x = 0.30y and x : y = 2 : 1."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q054
+    difficulty: medium
+    stem: A bookseller bought 500 text books for ₹ 20,000. He wanted to sell them at a profit so that he get 50 books free. At what profit percent should he sell them?
+    options:
+      A: "10"
+      B: "20"
+      C: "15"
+      D: "10.5"
+    answer: A
+    explanation: His profit should equal the cost of 50 books, which is 50/500 of the cost, i.e. 10%.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q055
+    difficulty: medium
+    stem: 20% of a man's salary is paid as rent, 60% are his living expenses and 10% are his savings. If he spends remaining ₹ 30 on the education of his children, find his salary
+    options:
+      A: "300"
+      B: "900"
+      C: "3000"
+      D: "9000"
+    answer: A
+    explanation: 100 − (20 + 60 + 10) = 10% of the salary is ₹30, so the salary is ₹300.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q056
+    difficulty: medium
+    stem: A gun is fired at a distance of 6.64 km away from Ram. He hears the sound 20 seconds later. Then the speed of sound is
+    options:
+      A: 664 m/s
+      B: 664 km/s
+      C: 332 m/s
+      D: 332 km/s
+    answer: C
+    explanation: Speed = 6640 m ÷ 20 s = 332 m/s.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q057
+    difficulty: medium
+    stem: The simple interest on Rs. 2000 for 2 years at Rs. 75 per thousand per annum will be
+    options:
+      A: Rs.150
+      B: Rs.300
+      C: Rs.600
+      D: Rs.400
+    answer: B
+    explanation: Rs. 75 per thousand is 7.5% a year. SI = 2000 × 7.5 × 2/100 = Rs. 300.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q058
+    difficulty: medium
+    stem: If x = 1 + √2 + √3, then the value of x² − 2x − 4 is
+    options:
+      A: √6
+      B: 2√3
+      C: 3√2
+      D: 2√6
+    answer: D
+    explanation: x − 1 = √2 + √3, so (x − 1)² = 5 + 2√6. Then x² − 2x − 4 = (x − 1)² − 5 = 2√6.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q059
+    difficulty: medium
+    stem: If, (a + b)/√ab = 2/1, then the value of (a − b) is
+    options:
+      A: "1"
+      B: "0"
+      C: −1
+      D: "2"
+    answer: B
+    explanation: a + b = 2√(ab) means (√a − √b)² = 0, so a = b and a − b = 0.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q060
+    difficulty: medium
+    stem: If ΔABC is an equilateral triangle of side 16 cm, then the length of altitude is
+    options:
+      A: 2√3 cm
+      B: 4√3 cm
+      C: 8√3 cm
+      D: 5√3 cm
+    answer: C
+    explanation: The altitude of an equilateral triangle is (√3/2) × side = (√3/2) × 16 = 8√3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q061
+    difficulty: medium
+    stem: O is the circumcentre of ΔABC. If AO = 8 cm, then the length of BO is
+    options:
+      A: 12 cm
+      B: 3 cm
+      C: 6 cm
+      D: 8 cm
+    answer: D
+    explanation: The circumcentre is the same distance from every vertex, so BO = AO = 8 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q062
+    difficulty: medium
+    stem: Given that tan(θ + 15°) = √3. Then the value of θ is?
+    options:
+      A: 15°
+      B: 75°
+      C: 45°
+      D: 65°
+    answer: C
+    explanation: tan 60° = √3, so θ + 15° = 60° and θ = 45°.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q063
+    difficulty: medium
+    stem: "The least number of square tiles of side 41 cms required to pave the ceiling of a room of size 15m 17cm long and 9m 2 cm broad is:"
+    options:
+      A: "902"
+      B: "656"
+      C: "738"
+      D: "814"
+    answer: D
+    explanation: 1517 cm ÷ 41 = 37 and 902 cm ÷ 41 = 22, so 37 × 22 = 814 tiles.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q064
+    difficulty: medium
+    stem: The average of fruits offered in a temple in a week was 75. The average of fruits offered in six days excluding Tuesday was 72. How many fruits were offered on Tuesday?
+    options:
+      A: "90"
+      B: "93"
+      C: "72"
+      D: "92"
+    answer: B
+    explanation: Total for the week = 7 × 75 = 525. The other six days = 6 × 72 = 432. Tuesday = 525 − 432 = 93.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q066
+    difficulty: medium
+    stem: If x + 1/x = 5, then the value of 6x/(x² + x + 1) is,
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: A
+    explanation: "Divide top and bottom by x: 6/(x + 1 + 1/x) = 6/(5 + 1) = 1."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q067
+    difficulty: medium
+    stem: If a > b > 0, AB = a − b cm, BC = 2√ab cm, then ∠ABC is
+    options:
+      A: 45°
+      B: 60°
+      C: 90°
+      D: 120°
+    answer: C
+    explanation: In the standard version CA = a + b. Then AB² + BC² = (a − b)² + 4ab = (a + b)² = CA², so by the converse of Pythagoras ∠ABC = 90°.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q068
+    difficulty: medium
+    stem: "PR is a tangent to a circle with centre O and radius 4 cm at point Q. If ∠POR = 90°, OR = 5 cm and OP = 20/3 cm, then the length of PR is:"
+    options:
+      A: 3 cm
+      B: 16/3 cm
+      C: 23/3 cm
+      D: 25/3 cm
+    answer: D
+    explanation: ∠POR = 90°, so PR = √(OP² + OR²) = √(400/9 + 225/9) = √(625/9) = 25/3 cm.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q069
+    difficulty: medium
+    stem: From a point, 40 m apart from the foot of a tower, the angle of elevation of its top is 60°. The height of the tower is
+    options:
+      A: 40√3
+      B: 40√3 cm
+      C: 40√3 m
+      D: 40√2 m
+    answer: C
+    explanation: height = 40 × tan 60° = 40√3 m.
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q070
+    difficulty: medium
+    stem: The radius of a sphere and hemisphere are same. The ratio of their total surface area is
+    options:
+      A: 3:1
+      B: 2:1
+      C: 3:2
+      D: 4:3
+    answer: D
+    explanation: "A sphere's total surface area is 4πr² and a solid hemisphere's is 3πr², giving a ratio of 4 : 3."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q071
+    difficulty: medium
+    stem: Two equal arcs of two circles subtend angle of 60° and 75° at the centre. The ratio of the radii of the two circles is
+    options:
+      A: 5/4
+      B: 3/2
+      C: 4/5
+      D: 2/3
+    answer: A
+    explanation: "Equal arcs mean r₁ × 60° = r₂ × 75°, so r₁ : r₂ = 75 : 60 = 5 : 4."
+    tags:
+      - quant
+  - slug: cgl-2016-08-27-s1-q076
+    difficulty: medium
+    stem: Four words are given, out of which only one word is spelt correctly. Choose the correctly spelt word and click the button corresponding to it.
+    options:
+      A: Conniosseur
+      B: Connoisseur
+      C: Connossieur
+      D: Connosseiur
+    answer: B
+    explanation: The correct spelling is 'connoisseur', an expert judge of taste.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q077
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which is opposite in meaning to the given word and click the button corresponding to it.
+
+      SOOTHE
+    options:
+      A: QUENCH
+      B: MITIGATE
+      C: HEAL
+      D: AGITATE
+    answer: D
+    explanation: To soothe is to calm, so its opposite is to agitate.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q078
+    difficulty: medium
+    stem: |-
+      In the following question, out of the four alternatives, choose the word which best expresses the meaning of the given word and click the button corresponding to it.
+
+      DEVASTATION
+    options:
+      A: DESTRUCTION
+      B: CONSTRUCTION
+      C: SEPARATION
+      D: FRUSTRATION
+    answer: A
+    explanation: Devastation means great destruction.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q079
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      An exact copy
+    options:
+      A: Facsimile
+      B: Twin
+      C: Mirror
+      D: Clone
+    answer: A
+    explanation: A facsimile is an exact copy.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q080
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      To give money to agents for sales.
+    options:
+      A: Salary
+      B: Commission
+      C: Fee
+      D: Incentive
+    answer: B
+    explanation: A commission is money paid to an agent on the sales they make.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q081
+    difficulty: medium
+    stem: |-
+      Out of the four alternatives, choose the one which can be substituted for the given words/sentences and click the button corresponding to it.
+
+      A person who is working in the same institution.
+    options:
+      A: Guide
+      B: Collector
+      C: Captain
+      D: Colleague
+    answer: D
+    explanation: A colleague is a person who works in the same institution.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q082
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Cat-nap
+    options:
+      A: Rest
+      B: Fitful sleep
+      C: Long sleep
+      D: Short sleep
+    answer: D
+    explanation: A cat-nap is a short sleep, usually during the day.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q083
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      To pull a long face
+    options:
+      A: Looked happily
+      B: Looked surprised
+      C: Looked sad
+      D: Looked calm
+    answer: C
+    explanation: To pull a long face is to look sad or unhappy.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q084
+    difficulty: medium
+    stem: |-
+      In each of the questions, four alternatives are given for the Idiom/Phrase. Choose the alternative which best expresses the meaning of the Idiom/Phrase and click the button corresponding to it.
+
+      Fit her like a glove.
+    options:
+      A: Too large
+      B: Too shabby
+      C: Too tight
+      D: Perfectly
+    answer: D
+    explanation: Something that fits like a glove fits perfectly.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q085
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      Health is too important to be ___________.
+    options:
+      A: discarded
+      B: disposed
+      C: neglected
+      D: detested
+    answer: C
+    explanation: "'Too important to be neglected' means it must not be ignored. The other words don't fit with health."
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q086
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      I am _______________this crime.
+    options:
+      A: ignorant on
+      B: innocent of
+      C: indebted to
+      D: ignoring
+    answer: B
+    explanation: The fixed phrase is 'innocent of' a crime.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q087
+    difficulty: medium
+    stem: |-
+      The sentences given with blanks are to be filled with an appropriate word(s). Four alternatives are suggested for each question. For each question, choose the correct alternative and click the button corresponding to it.
+
+      I was _____________ paying the toll tax.
+    options:
+      A: free from
+      B: exonerated from
+      C: exempted from
+      D: exposed to
+    answer: C
+    explanation: One is 'exempted from' a tax or duty. 'Exonerated' is used for blame or a charge.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q088
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the “No error” option.
+
+      I used (A)/ a pair of black trousers (B) / for a week (C)/ No error (D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: A
+    explanation: "Trousers are worn, not used: 'I wore a pair of black trousers for a week.'"
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q089
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the “No error” option.
+
+      He has made a mistake (A)/ of which (B) / I am certain (C) / No error (D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: D
+    explanation: "'He has made a mistake of which I am certain' is correct as it stands."
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q090
+    difficulty: medium
+    stem: |-
+      In the following questions, one part of the sentence may have an error. Find out which part of the sentence has an error and click the button corresponding to it. If the sentence is free from error, click the “No error” option.
+
+      He was not allowed (A) / for the teacher (B) / to read in a low voice (C) / no error (D)
+    options:
+      A: A
+      B: B
+      C: C
+      D: D
+    answer: B
+    explanation: "In the passive voice the agent takes 'by': 'He was not allowed by the teacher to read in a low voice.'"
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q091
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      My mom grew up in a traditional Chinese family in which open expressions of love were never encouraged. When she had me and my three siblings, she treated us with the same hard hand. It was not that she was a slave driver or anything, but she never openly showed affection. Instead, she demonstrated that she cared in more practical ways.
+
+      My parents couldn't have been more different emotionally. My dad is a really open-hearted person who constantly showers us with hugs and kisses no matter the occasion. After much persuasion from him, my mother did try to change, but it was clear that she never felt quite right expressing her emotions. Eventually, she reverted to her old self.
+
+      The difference between my parents was never starker than whenever I brought home good test results from school. My dad would practically jump with joy, offering warm and affectionate words of congratulations, and my mother? "Ah, good, good" she would typically say with a tense smile etched on her face. "Do better next time, OK?"
+
+      I tried not to hold a grudge against her for being so reserved. That was just her way. I reasoned.
+
+      Why did the narrator not bear a grudge against her mother?
+    options:
+      A: She felt that her mother had that kind of nature
+      B: She was satisfied with her father’s love
+      C: Her mother was incapable of loving
+      D: Her mother was angry with everyone
+    answer: A
+    explanation: "'That was just her way,' she reasoned. She accepted that her mother was reserved by nature."
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q092
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      My mom grew up in a traditional Chinese family in which open expressions of love were never encouraged. When she had me and my three siblings, she treated us with the same hard hand. It was not that she was a slave driver or anything, but she never openly showed affection. Instead, she demonstrated that she cared in more practical ways.
+
+      My parents couldn't have been more different emotionally. My dad is a really open-hearted person who constantly showers us with hugs and kisses no matter the occasion. After much persuasion from him, my mother did try to change, but it was clear that she never felt quite right expressing her emotions. Eventually, she reverted to her old self.
+
+      The difference between my parents was never starker than whenever I brought home good test results from school. My dad would practically jump with joy, offering warm and affectionate words of congratulations, and my mother? "Ah, good, good" she would typically say with a tense smile etched on her face. "Do better next time, OK?"
+
+      I tried not to hold a grudge against her for being so reserved. That was just her way. I reasoned.
+
+      The narrator's mother reverted to her old self because
+    options:
+      A: she fought with her husband
+      B: she did not feel comfortable in revealing her emotions
+      C: she was angry with the children
+      D: her husband wanted her to be her old self
+    answer: B
+    explanation: The passage says that 'she never felt quite right expressing her emotions', so she went back to her old self.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q093
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      My mom grew up in a traditional Chinese family in which open expressions of love were never encouraged. When she had me and my three siblings, she treated us with the same hard hand. It was not that she was a slave driver or anything, but she never openly showed affection. Instead, she demonstrated that she cared in more practical ways.
+
+      My parents couldn't have been more different emotionally. My dad is a really open-hearted person who constantly showers us with hugs and kisses no matter the occasion. After much persuasion from him, my mother did try to change, but it was clear that she never felt quite right expressing her emotions. Eventually, she reverted to her old self.
+
+      The difference between my parents was never starker than whenever I brought home good test results from school. My dad would practically jump with joy, offering warm and affectionate words of congratulations, and my mother? "Ah, good, good" she would typically say with a tense smile etched on her face. "Do better next time, OK?"
+
+      I tried not to hold a grudge against her for being so reserved. That was just her way. I reasoned.
+
+      The narrator's mother didn't appreciate the narrator's results because
+    options:
+      A: the marks were not good
+      B: the marks could be better
+      C: she wasn’t very expressive
+      D: she was tense
+    answer: C
+    explanation: Her muted 'Ah, good, good' came from her reserved, unexpressive nature, not from poor marks.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q094
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      My mom grew up in a traditional Chinese family in which open expressions of love were never encouraged. When she had me and my three siblings, she treated us with the same hard hand. It was not that she was a slave driver or anything, but she never openly showed affection. Instead, she demonstrated that she cared in more practical ways.
+
+      My parents couldn't have been more different emotionally. My dad is a really open-hearted person who constantly showers us with hugs and kisses no matter the occasion. After much persuasion from him, my mother did try to change, but it was clear that she never felt quite right expressing her emotions. Eventually, she reverted to her old self.
+
+      The difference between my parents was never starker than whenever I brought home good test results from school. My dad would practically jump with joy, offering warm and affectionate words of congratulations, and my mother? "Ah, good, good" she would typically say with a tense smile etched on her face. "Do better next time, OK?"
+
+      I tried not to hold a grudge against her for being so reserved. That was just her way. I reasoned.
+
+      How is the narrator's dad different from her mother?
+    options:
+      A: He is dark
+      B: He expresses his feelings openly
+      C: He dislikes children
+      D: He is persuasive in nature
+    answer: B
+    explanation: Her father 'showers us with hugs and kisses'; he shows his feelings openly.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q095
+    difficulty: medium
+    stem: |-
+      A passage is given with 5 questions following it. Read the passage carefully and choose the best answer to each question out of the four alternatives and click the button corresponding to it.
+
+      My mom grew up in a traditional Chinese family in which open expressions of love were never encouraged. When she had me and my three siblings, she treated us with the same hard hand. It was not that she was a slave driver or anything, but she never openly showed affection. Instead, she demonstrated that she cared in more practical ways.
+
+      My parents couldn't have been more different emotionally. My dad is a really open-hearted person who constantly showers us with hugs and kisses no matter the occasion. After much persuasion from him, my mother did try to change, but it was clear that she never felt quite right expressing her emotions. Eventually, she reverted to her old self.
+
+      The difference between my parents was never starker than whenever I brought home good test results from school. My dad would practically jump with joy, offering warm and affectionate words of congratulations, and my mother? "Ah, good, good" she would typically say with a tense smile etched on her face. "Do better next time, OK?"
+
+      I tried not to hold a grudge against her for being so reserved. That was just her way. I reasoned.
+
+      Why was the narrator's mother not expressive of her love?
+    options:
+      A: She was of Chinese origin
+      B: It was not her nature
+      C: She was a harsh person
+      D: The tradition at her home didn’t allow her.
+    answer: D
+    explanation: She grew up in a traditional family 'in which open expressions of love were never encouraged'.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q096
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      **Both of us had** a different opinion about it.
+
+      (The underlined part is shown in bold.)
+    options:
+      A: Both of us has
+      B: Each of us had
+      C: Each of us have
+      D: No improvement
+    answer: B
+    explanation: "'Each of us' is singular and fits 'a different opinion'. 'Both' would need 'different opinions'."
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q097
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      The trade union is **hell bent at** getting its demands fulfilled
+
+      (The underlined part is shown in bold.)
+    options:
+      A: hell bent in
+      B: hell bent about
+      C: hell bent on
+      D: No improvement
+    answer: C
+    explanation: The idiom is 'hell-bent on' doing something.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q098
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      The police had **to break** the door to get in
+
+      (The underlined part is shown in bold.)
+    options:
+      A: to break up
+      B: to break in
+      C: to break down
+      D: No improvement
+    answer: C
+    explanation: To 'break down' a door is to force it open by knocking it in.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q099
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      The plane landed and **shot** towards the airport
+
+      (The underlined part is shown in bold.)
+    options:
+      A: taxied
+      B: drove
+      C: wheeled
+      D: No improvement
+    answer: A
+    explanation: After landing, an aircraft 'taxies' slowly along the ground.
+    tags:
+      - english
+  - slug: cgl-2016-08-27-s1-q100
+    difficulty: medium
+    stem: |-
+      A sentence/a part of the sentence is underlined. Four alternatives are given to the underlined part which will improve the sentence. Choose the correct alternative and click the button corresponding to it. In case no improvement is needed, click the button corresponding to “No improvement”.
+
+      After **a hard days work**, I just want to go home.
+
+      (The underlined part is shown in bold.)
+    options:
+      A: hard day’s work
+      B: hard days’ work
+      C: hard day work
+      D: No improvement
+    answer: A
+    explanation: "The possessive is singular: 'a hard day's work' (the work of one day)."
+    tags:
+      - english

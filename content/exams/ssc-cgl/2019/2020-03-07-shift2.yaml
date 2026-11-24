@@ -1,0 +1,1350 @@
+slug: 2020-03-07-shift2
+title: SSC CGL 2019 Tier 1
+date: 2020-03-07
+label: 7 Mar, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04130019/SSC-CGL-QUESTION-PAPER-07-March-2020-Shift-2-E). Left out (picture-only options or incomplete in the source): Q7, Q9, Q13, Q18, Q24."
+questions:
+  - slug: cgl-2020-03-07-s2-q001
+    difficulty: medium
+    stem: |-
+      A cube is made by folding the given sheet. In the cube so formed, which of the following pairs of numbers will be on opposite sides?
+
+      *(Figure: Net of a cube: a vertical column of four squares 1, 4, 6, 2 (top to bottom); square 5 is attached to the right
+      of 4, and square 3 is attached to the left of 2.)*
+    options:
+      A: 1 and 5
+      B: 1 and 2
+      C: 2 and 4
+      D: 3 and 6
+    answer: C
+    explanation: "In the column 1-4-6-2, alternate squares are opposite: 1 and 6, 4 and 2. The side squares 5 and 3 are opposite each other."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q002
+    difficulty: medium
+    stem: In a certain code language, 'SOLID' is coded as '64' and 'POUR' is coded as '74'. How will 'TON' be coded as in that language?
+    options:
+      A: "52"
+      B: "49"
+      C: "85"
+      D: "60"
+    answer: A
+    explanation: "Code = sum of letter positions + number of letters: SOLID 59 + 5 = 64, POUR 70 + 4 = 74. TON: 49 + 3 = 52."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q003
+    difficulty: medium
+    stem: ‘Diabetes’ is related to ‘Blood Sugar’ in the same way as ‘Hypertension’ is related to ‘________’.
+    options:
+      A: Body Cells
+      B: Blood Pressure
+      C: Heart
+      D: Red Blood Cells
+    answer: B
+    explanation: Diabetes is a disorder of blood sugar; hypertension is high blood pressure.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q004
+    difficulty: medium
+    stem: In a certain code language, 'PAINTS' is written as 'CRPKUV'. How will 'PURITY' be written as in that language?
+    options:
+      A: WRKTAV
+      B: WRKSNU
+      C: XSISBM
+      D: VSKTAZ
+    answer: A
+    explanation: "Take the letters in pairs, swap each pair and move both letters +2: PA→AP→CR, IN→NI→PK, TS→ST→UV. PURITY: UP→WR, IR→KT, YT→AV, giving WRKTAV."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q005
+    difficulty: medium
+    stem: What day of the week was 31 January 2007?
+    options:
+      A: Tuesday
+      B: Wednesday
+      C: Monday
+      D: Thursday
+    answer: B
+    explanation: 1 January 2007 was a Monday. 31 January is 30 days later (4 weeks + 2 days), so it was a Wednesday.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q006
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 14 | 17 | 22 |
+      | 49 | 61 | ? |
+      | 189 | 237 | 317 |
+    options:
+      A: "71"
+      B: "79"
+      C: "81"
+      D: "83"
+    answer: C
+    explanation: "Down each column, ×4 − 7: 14 → 49 → 189 and 17 → 61 → 237. So 22 → 81 → 317."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q008
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the odd word.
+    options:
+      A: Litre
+      B: Distance
+      C: Kilogram
+      D: Minute
+    answer: B
+    explanation: Litre, kilogram and minute are units; distance is a quantity, not a unit.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q010
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different from the rest.
+    options:
+      A: "44 : 136"
+      B: "30 : 94"
+      C: "33 : 109"
+      D: "27 : 85"
+    answer: C
+    explanation: In the others, second = 3 × first + 4 (44→136, 30→94, 27→85). 33 × 3 + 4 = 103, not 109.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q011
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster that can replace the question mark (?) in the following series.
+
+      PERSONA, ANPERSO, ANOSPER, ?
+    options:
+      A: ANOSREP
+      B: ANOSERP
+      C: ANSORPE
+      D: NOSAREP
+    answer: A
+    explanation: "Numbering PERSONA 1-7: the series goes 1234567 → 7612345 → 7654123 → 7654321. So the next is ANOSREP."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q012
+    difficulty: medium
+    stem: |-
+      Select the letter will replace the question mark (?) in the following series.
+
+      C, B, B, C, Z, E, W, H, S, ? , N
+    options:
+      A: K
+      B: I
+      C: L
+      D: P
+    answer: C
+    explanation: Two series alternate. Odd terms C, B, Z, W, S, N go back 1, 2, 3, 4, 5 places. Even terms B, C, E, H, ? go forward 1, 2, 3, 4, so H + 4 = L.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q014
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      Office : Work
+    options:
+      A: "School : Study"
+      B: "Hospital : Director"
+      C: "House : Bricks"
+      D: "Court : Lawyer"
+    answer: A
+    explanation: An office is a place for work; a school is a place for study.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q015
+    difficulty: medium
+    stem: |-
+      Select the number that can replace the question mark (?) in the following series.
+
+      35, 36, 40, ? , 83, 208, 244
+    options:
+      A: "55"
+      B: "60"
+      C: "67"
+      D: "73"
+    answer: C
+    explanation: "The differences alternate cubes and squares: +1³, +2², +3³, +4², +5³, +6². 40 + 27 = 67."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q016
+    difficulty: medium
+    stem: |-
+      Arrange the following words in the order in which they would appear in an English dictionary.
+
+      1. Temper
+      2. Temple
+      3. Tamarind
+      4. Tender
+      5. Tenacity
+    options:
+      A: 1, 3, 2, 5, 4
+      B: 3, 1, 2, 5, 4
+      C: 3, 1, 5, 4, 2
+      D: 3, 2, 1, 4, 5
+    answer: B
+    explanation: "Dictionary order: Tamarind, Temper, Temple, Tenacity, Tender = 3, 1, 2, 5, 4."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q017
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A tall rectangle. In its upper part two lines from the top corners cross at the centre (an X) and reach the
+      ends of a horizontal line across the rectangle; short horizontal lines and a small square sit near the top
+      centre, and a short horizontal line runs from the left side to the crossing point. The lower part is split
+      in two by a vertical line.)*
+    options:
+      A: "20"
+      B: "17"
+      C: "19"
+      D: "21"
+    answer: C
+    explanation: The official answer is 19 triangles, counted from the figure (an X across the upper part with small boxes near the top).
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q019
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      11 : 265 :: 20 : ?
+    options:
+      A: "840"
+      B: "838"
+      C: "835"
+      D: "841"
+    answer: D
+    explanation: 11 → 11² + 12² = 121 + 144 = 265. So 20 → 20² + 21² = 400 + 441 = 841.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q020
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      1. All toys are pens.
+      2. All games are pens.
+
+      **Conclusions:**
+
+      I. No toy is a game.
+      II. No pen is a game.
+      III. Some toys are games.
+    options:
+      A: All conclusions I, II and III follow.
+      B: Only conclusions II and III follow.
+      C: Only conclusions I and II follow.
+      D: Either conclusion I or III follows.
+    answer: D
+    explanation: Toys and games are both inside pens, but their relation to each other is unknown. I ('no toy is a game') and III ('some toys are games') form a complementary pair, so either I or III follows.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q021
+    difficulty: medium
+    stem: |-
+      Select the option in which the numbers are related in the same way as are the numbers in the given set.
+
+      (45, 24, 441)
+    options:
+      A: (41, 18, 630)
+      B: (30, 60, 1024)
+      C: (50, 30, 480)
+      D: (35, 17, 324)
+    answer: D
+    explanation: (45 − 24)² = 21² = 441. Likewise (35 − 17)² = 18² = 324.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q022
+    difficulty: medium
+    stem: |-
+      If 'A' stands for ‘subtraction’, ‘B’ stands for 'multiplication', ‘C’ stands for 'addition', and ‘D’ stands for 'division', then what is the value of the following expression?
+
+      27 A 8 B 5 C (11 C 3) B 5 C 36 D 6
+    options:
+      A: "60"
+      B: "20"
+      C: "24"
+      D: "63"
+    answer: D
+    explanation: 27 − 8 × 5 + (11 + 3) × 5 + 36 ÷ 6 = 27 − 40 + 70 + 6 = 63.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q023
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster.
+    options:
+      A: EHKN
+      B: TWZC
+      C: PSVY
+      D: NOSV
+    answer: D
+    explanation: EHKN, TWZC and PSVY each go up by 3 letters at a time; NOSV goes +1, +4, +3.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q025
+    difficulty: medium
+    stem: |-
+      A − B means ‘A is the mother of B’;
+
+      A × B means ‘A is the sister of B’;
+
+      A ÷ B means ‘A is the daughter of B’.
+
+      Which of the following expressions means 'U is the daughter of Q'?
+    options:
+      A: Q − Z ÷ U × K
+      B: K − Z ÷ U × Q
+      C: Q − Z × U ÷ K
+      D: K − U ÷ Z × Q
+    answer: C
+    explanation: "Q − Z × U ÷ K: Q is Z's mother, Z is U's sister, and U is K's daughter. So U is Q's child and female: Q's daughter."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-07-s2-q026
+    difficulty: medium
+    stem: Who won the ‘ICC (International Cricket Council) Spirit of Cricket, 2019’ award?
+    options:
+      A: Rohit Sharma
+      B: Pat Cummins
+      C: Virat Kohli
+      D: Ben Stokes
+    answer: C
+    explanation: Virat Kohli won the ICC Spirit of Cricket Award for 2019. He had asked fans to stop booing Steve Smith at the World Cup.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q027
+    difficulty: medium
+    stem: Which of the following can be diagnosed with the Widal test?
+    options:
+      A: Cancer
+      B: AIDS
+      C: Typhoid fever
+      D: Tuberculosis
+    answer: C
+    explanation: The Widal test detects antibodies against Salmonella typhi, so it is used to diagnose typhoid fever.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q028
+    difficulty: medium
+    stem: Where were the Khelo India Youth Games, 2020 held?
+    options:
+      A: Guwahati
+      B: New Delhi
+      C: Bhopal
+      D: Chandigarh
+    answer: A
+    explanation: The 3rd Khelo India Youth Games were held in Guwahati, Assam, in January 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q029
+    difficulty: medium
+    stem: "Who is the author of the book titled 'The Anarchy: The East India Company, Corporate Violence, and the Pillage of an Empire'?"
+    options:
+      A: Pankaj Mishra
+      B: Shashi Tharoor
+      C: William Dalrymple
+      D: VP Menon
+    answer: C
+    explanation: "'The Anarchy' (2019) was written by historian William Dalrymple."
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q030
+    difficulty: medium
+    stem: A situation where the expenditure of the government exceeds its revenue is known as _____.
+    options:
+      A: Morbidity
+      B: Devaluation
+      C: Default
+      D: Deficit Financing
+    answer: D
+    explanation: When government expenditure exceeds its revenue, the gap is met by deficit financing; of the options, this is the term for that situation.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q031
+    difficulty: medium
+    stem: Which of the following is caused by a virus named 'Varicella zoster'?
+    options:
+      A: Rabies
+      B: Chickenpox
+      C: Polio
+      D: Cholera
+    answer: B
+    explanation: The varicella-zoster virus causes chickenpox, and later shingles.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q032
+    difficulty: medium
+    stem: Who wrote the play 'Mricchakatika' (The Little Clay Cart), a social drama with touches of grim reality?
+    options:
+      A: Sudraka
+      B: Kalidasa
+      C: Magh
+      D: Raidasa
+    answer: A
+    explanation: Mṛcchakaṭika (The Little Clay Cart) is a Sanskrit play attributed to Śūdraka.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q033
+    difficulty: medium
+    stem: Which organisation launched the Agricultural Marketing and Farmer Friendly Reforms Index (AMFFRI) in 2016?
+    options:
+      A: Reserve Bank of India
+      B: NITI Aayog
+      C: National Institute of Public Finance and Policy (NIPFP)
+      D: Indian Institute of Public Administration
+    answer: B
+    explanation: NITI Aayog launched the Agricultural Marketing and Farmer Friendly Reforms Index in 2016.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q034
+    difficulty: medium
+    stem: Which of the following is one of the Articles of the Constitution of India that mentions the Comptroller and Auditor General of India?
+    options:
+      A: "352"
+      B: "280"
+      C: "156"
+      D: "148"
+    answer: D
+    explanation: Article 148 provides for the Comptroller and Auditor General of India.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q035
+    difficulty: medium
+    stem: On which lake is the world's only floating post office situated?
+    options:
+      A: Chilika Lake
+      B: Wular Lake
+      C: Dal Lake
+      D: Loktak Lake
+    answer: C
+    explanation: The world's only floating post office is on a houseboat on Dal Lake, Srinagar.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q036
+    difficulty: medium
+    stem: In which year did the battle of Khanua (Khanwa) take place between Babur and the Rajput forces led by Rana Sanga?
+    options:
+      A: "1527"
+      B: "1526"
+      C: "1522"
+      D: "1529"
+    answer: A
+    explanation: Babur defeated Rana Sanga at Khanwa on 17 March 1527.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q037
+    difficulty: medium
+    stem: What is Gotabaya Rajapaksa’s nationality?
+    options:
+      A: Indonesian
+      B: Burmese
+      C: Bangladeshi
+      D: Sri Lankan
+    answer: D
+    explanation: Gotabaya Rajapaksa became President of Sri Lanka in November 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q038
+    difficulty: medium
+    stem: The tidal mouth of a river where fresh and saline water get mixed is known as a/an ____.
+    options:
+      A: Archipelago
+      B: Estuary
+      C: Gorge
+      D: Fold
+    answer: B
+    explanation: An estuary is the tidal mouth of a river, where fresh water mixes with sea water.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q039
+    difficulty: medium
+    stem: Which of the following schedules of the Constitution of India has been INCORRECTLY matched with its content?
+    options:
+      A: First Schedule – The states and the union territories
+      B: Second Schedule – Languages
+      C: Fourth Schedule – Allocation of seats in the council of states
+      D: Third Schedule – Forms of oath or affirmations
+    answer: B
+    explanation: The Second Schedule covers the pay and allowances of officials such as the President and judges. Languages are in the Eighth Schedule.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q040
+    difficulty: medium
+    stem: Who among the following was NOT a recipient of the Arjuna Awards in 2019?
+    options:
+      A: Poonam Yadav
+      B: Ravindra Jadeja
+      C: Mezban Patel
+      D: Swapana Burman
+    answer: C
+    explanation: Ravindra Jadeja, Poonam Yadav and Swapna Barman won Arjuna Awards in 2019. Hockey's Mezban Patel received the Dhyan Chand Award for lifetime achievement in 2019, not the Arjuna.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q041
+    difficulty: medium
+    stem: Who among the following was NOT associated with the revolt of 1857?
+    options:
+      A: Mangal Pandey
+      B: Kunwar Singh
+      C: Bhagat Singh
+      D: Begum Hazrat Mahal
+    answer: C
+    explanation: Bhagat Singh (born 1907) was a later revolutionary. Mangal Pandey, Kunwar Singh and Begum Hazrat Mahal took part in the 1857 revolt.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q042
+    difficulty: medium
+    stem: What is the name of the anti-hijacking exercise conducted by the Indian Navy in collaboration with the Indian Coast Guard?
+    options:
+      A: Nagah
+      B: Apharan
+      C: Indra
+      D: Ekuverin
+    answer: B
+    explanation: "'Apharan' is the anti-hijacking exercise run by the Indian Navy with the Coast Guard and other agencies."
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q043
+    difficulty: medium
+    stem: In which year did the Third Round Table Conference take place?
+    options:
+      A: "1928"
+      B: "1930"
+      C: "1932"
+      D: "1929"
+    answer: C
+    explanation: The Third Round Table Conference was held in London from November to December 1932.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q044
+    difficulty: medium
+    stem: Which one of the following statements is INCORRECT?
+    options:
+      A: The measurable unit of pressure is denoted in Metre.
+      B: Matter is made up of small particles.
+      C: Evaporation causes cooling.
+      D: Brass is a mixture of 30% zinc and 70% copper.
+    answer: A
+    explanation: Pressure is measured in pascal (N/m²), not in metres, so A is incorrect.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q045
+    difficulty: medium
+    stem: Where was the 107th edition of the Indian Science Congress held?
+    options:
+      A: Chennai
+      B: Dehradun
+      C: Lucknow
+      D: Bengaluru
+    answer: D
+    explanation: The 107th Indian Science Congress was held in January 2020 at the University of Agricultural Sciences, Bengaluru.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q046
+    difficulty: medium
+    stem: Which of the following is used for removing permanent hardness of water?
+    options:
+      A: Baking soda
+      B: Lime
+      C: Bleaching powder
+      D: Washing soda
+    answer: D
+    explanation: Washing soda (sodium carbonate) removes permanent hardness by precipitating calcium and magnesium as carbonates.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q047
+    difficulty: medium
+    stem: In which part of India are the Patkai Bum hills located?
+    options:
+      A: Northern part of India
+      B: Western part of India
+      C: Southern part of India
+      D: Eastern part of India
+    answer: D
+    explanation: The Patkai Bum hills lie on the India–Myanmar border in the north-east, i.e. the eastern part of India.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q048
+    difficulty: medium
+    stem: Which of the following martial art forms is practiced in the state of Punjab and West Bengal?
+    options:
+      A: Kalaripayattu
+      B: Mardaani khel
+      C: Lathi
+      D: Thang-ta
+    answer: C
+    explanation: Lathi (stick fighting) is a traditional martial art practised in Punjab and Bengal.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q049
+    difficulty: medium
+    stem: Who among the following was known as 'Andhra Kesari'?
+    options:
+      A: Khan Abdul Ghaffar Khan
+      B: Mahatma Gandhi
+      C: Chittaranjan Das
+      D: T. Prakasam
+    answer: D
+    explanation: Tanguturi Prakasam was called 'Andhra Kesari' (Lion of Andhra).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q050
+    difficulty: medium
+    stem: Who discovered cells in the human body?
+    options:
+      A: Charles Darwin
+      B: Robert Hooke
+      C: Herbert Spencer
+      D: Albert Einstein
+    answer: B
+    explanation: Robert Hooke first observed and named cells in 1665, in cork.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-07-s2-q051
+    difficulty: medium
+    stem: "If radius of a circle is decreased by 11%, then the total decrease in the area of the circle is given as:"
+    options:
+      A: 20.79%
+      B: 19.50%
+      C: 20.50%
+      D: 21%
+    answer: A
+    explanation: New area factor = 0.89² = 0.7921, so the decrease is 20.79%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q052
+    difficulty: medium
+    stem: If 7 divided a positive integer n, the remainder is 2. Which of the following numbers gives a remainder of 0 when divided by 7?
+    options:
+      A: n + 2
+      B: n + 5
+      C: n − 5
+      D: n + 1
+    answer: B
+    explanation: n leaves remainder 2, so n + 5 leaves remainder 7 ≡ 0 when divided by 7.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q053
+    difficulty: medium
+    stem: Expand (x/3 + y/5)³.
+    options:
+      A: x³/27 + x²y/25 + xy²/25 + y³/125
+      B: x³/27 + x²y/15 + xy²/25 + y³/125
+      C: x³/25 + x²y/15 + xy²/25 + y³/125
+      D: x³/27 + xy/15 + xy²/25 + y³/125
+    answer: B
+    explanation: "(a + b)³ = a³ + 3a²b + 3ab² + b³ with a = x/3, b = y/5: x³/27 + x²y/15 + xy²/25 + y³/125."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q054
+    difficulty: medium
+    stem: A contract is to be completed in 75 days and 187 men are to work 15 hours per day. After 65 days, 3/5 of the work is completed. How many additional men may be employed, so that the work may be completed in time, each man now working 17 hours per day?
+    options:
+      A: "514"
+      B: "532"
+      C: "528"
+      D: "495"
+    answer: C
+    explanation: "3/5 of the work took 187 × 65 × 15 man-hours, so the remaining 2/5 needs 2/3 of that. In 10 days at 17 h: men = (2/3 × 187 × 65 × 15)/(10 × 17) = 715. Extra men = 715 − 187 = 528."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q055
+    difficulty: medium
+    stem: If a² + b² + c² = 300 and ab + bc + ca = 50, then what is the value of a + b + c ? (Given that a, b and c are all positive.)
+    options:
+      A: "25"
+      B: "22"
+      C: "20"
+      D: "15"
+    answer: C
+    explanation: (a + b + c)² = 300 + 2 × 50 = 400, so a + b + c = 20.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q056
+    difficulty: medium
+    stem: The perimeter of an isosceles triangle is 50 cm. If the base is 18 cm, then find the length of the equal sides.
+    options:
+      A: 25 cm
+      B: 32 cm
+      C: 18 cm
+      D: 16 cm
+    answer: D
+    explanation: Each equal side = (50 − 18)/2 = 16 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q057
+    difficulty: medium
+    stem: If 18 men can cut a field in 35 days, then in how many days can 21 men cut the same field?
+    options:
+      A: "32"
+      B: "30"
+      C: "27"
+      D: "28"
+    answer: B
+    explanation: "Men × days is constant: 18 × 35 = 21 × d, so d = 30."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q058
+    difficulty: medium
+    stem: A sum lent out at compound interest amounts to ₹1,250 in one year and to ₹1,458 in 3 years at a certain rate percentage p.a. What is the simple interest on the same sum for 5 2/5 years at the same rate of interest?
+    options:
+      A: ₹520
+      B: ₹600
+      C: ₹500
+      D: ₹480
+    answer: C
+    explanation: 1458/1250 = 1.1664 = 1.08², so the rate is 8%. Principal = 1250/1.08. SI = (1250/1.08) × 0.08 × 5.4 = 1250 × 0.4 = ₹500.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q059
+    difficulty: medium
+    stem: The two trains leave Varanasi for Lucknow at 11:00 a.m. and at 11:30 a.m., respectively and travel at a speed of 110 km/h and 140 km/h, respectively. How many kilometers from Varanasi will both trains meet?
+    options:
+      A: 246 1/3 km
+      B: 238 2/3 km
+      C: 255 1/3 km
+      D: 256 2/3 km
+    answer: D
+    explanation: The first train leads by 55 km at 11:30. The gap closes at 30 km/h, taking 11/6 h. Distance = 140 × 11/6 = 256 2/3 km.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q060
+    difficulty: medium
+    stem: "The value of 1 1/8 ÷ (4 1/4 ÷ 3/5 of 8 1/2) − 2/5 × 1 1/3 ÷ 4/5 of 1 2/3 + 11/20 is:"
+    options:
+      A: 1 1/2
+      B: 1 1/4
+      C: 3 1/8
+      D: 3 1/2
+    answer: A
+    explanation: 4 1/4 ÷ (3/5 of 8 1/2) = 5/6, so 9/8 ÷ 5/6 = 27/20. 2/5 × 4/3 ÷ (4/5 of 5/3) = 2/5. 27/20 − 2/5 + 11/20 = 3/2.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q061
+    difficulty: medium
+    stem: |-
+      The following table shows the age-wise brand ownership of mobile phone handsets.
+
+      | Brands | 1 year old | 1 to 2 years old | 2 to 5 years old | More than 5 years old |
+      |---|---|---|---|---|
+      | A | 15% | 45% | 40% | |
+      | B | 5% | 15% | 25% | 55% |
+      | C | 10% | 10% | 10% | 70% |
+      | D | 25% | 55% | 20% | |
+      | E | 15% | 50% | 20% | 15% |
+
+      If a total of 5000 ‘C’ mobile phone sets are sold till date, then how many are more than one year old?
+    options:
+      A: "4000"
+      B: "4200"
+      C: "4500"
+      D: "4350"
+    answer: C
+    explanation: "90% of brand C sets are more than one year old: 0.9 × 5000 = 4500."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q062
+    difficulty: medium
+    stem: In quadrilateral PQRS, RM ⊥ QS, PN ⊥ QS and QS = 6 cm. If RM = 3 cm and PN = 2cm, then the area of PQRS is
+    options:
+      A: 15 cm²
+      B: 13 cm²
+      C: 14 cm²
+      D: 11 cm²
+    answer: A
+    explanation: Area = ½ × QS × (RM + PN) = ½ × 6 × 5 = 15 cm².
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q063
+    difficulty: medium
+    stem: The cost price of goods, for a shopkeeper, was X. He marked them at 15% above the cost price. Finally, he sold the goods at a discount of 25%. ‘What is his profit/loss percentage?’
+    options:
+      A: 13.5% Profit
+      B: 13% Loss
+      C: 12% Profit
+      D: 13.75% Loss
+    answer: D
+    explanation: SP = 1.15 × 0.75 = 0.8625 of CP, a loss of 13.75%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q064
+    difficulty: medium
+    stem: "If (sin A + cos A)/cos A = 17/12, then the value of (1 − cos A)/sin A is:"
+    options:
+      A: 1/5
+      B: 5/12
+      C: −5
+      D: "1"
+    answer: A
+    explanation: tanA + 1 = 17/12, so tanA = 5/12, sinA = 5/13, cosA = 12/13. (1 − cosA)/sinA = (1/13)/(5/13) = 1/5.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q065
+    difficulty: medium
+    stem: |-
+      The following table shows the annual profit of a company (in ₹ lakh).
+
+      | 2014-2015 | 2015-2016 | 2016-2017 | 2017-2018 | 2018-2019 |
+      |---|---|---|---|---|
+      | 625 | 690 | 725 | 775 | 815 |
+
+      The period which has the maximum percentage increase in profit over the previous year is:
+    options:
+      A: 2015-2016
+      B: 2018-2019
+      C: 2016-2017
+      D: 2017-2018
+    answer: A
+    explanation: "Growth: 2015-16 65/625 = 10.4%; 2016-17 5.1%; 2017-18 6.9%; 2018-19 5.2%. The highest is 2015-16."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q066
+    difficulty: medium
+    stem: |-
+      The following table shows the number of employees working in various departments of an organisation from 2016 to 2019.
+
+      | Years | Production | Marketing | Corporate | Research |
+      |---|---|---|---|---|
+      | 2016 | 500 | 130 | 50 | 145 |
+      | 2017 | 940 | 146 | 60 | 140 |
+      | 2018 | 1000 | 160 | 70 | 146 |
+      | 2019 | 1010 | 150 | 75 | 150 |
+
+      In which year were the maximum number of employees working in the organization?
+    options:
+      A: "2016"
+      B: "2017"
+      C: "2019"
+      D: "2018"
+    answer: C
+    explanation: "Totals: 2016 825, 2017 1286, 2018 1376, 2019 1385. The highest is 2019."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q067
+    difficulty: medium
+    stem: "In ΔABC, D, E and F are the midpoints of sides AB, BC and CA, respectively. If AB = 12 cm, BC = 20 cm and CA = 15 cm, then the value of 1/2 (DE + EF + DF) is:"
+    options:
+      A: 23.5 cm
+      B: 11.75 cm
+      C: 5.88 cm
+      D: 15.67 cm
+    answer: B
+    explanation: "The midpoint triangle has half the perimeter: DE + EF + DF = 47/2 = 23.5, and half of that is 11.75 cm."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q068
+    difficulty: medium
+    stem: "If 3 sec²θ + tan θ = 7, 0° < θ < 90°, then the value of (cosec2θ + cosθ)/(sin2θ + cotθ) is:"
+    options:
+      A: (2 + √3)/2
+      B: (2 + 3√2)/4
+      C: (2 + √2)/4
+      D: (3 + √2)/2
+    answer: A
+    explanation: |-
+      **Disputed.** SSC's answer is A; our check suggests C.
+
+      From 3(1 + tan²θ) + tanθ = 7: 3tan²θ + tanθ − 4 = 0, so tanθ = 1 and θ = 45°.
+      (Taken as printed, the value is (cosec90° + cos45°)/(sin90° + cot45°) = (2 + √2)/4; SSC's key gives (2 + √3)/2.)
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q069
+    difficulty: medium
+    stem: "Anu spends 68% of her monthly income. If her monthly income increases by 20% and her monthly savings increase by 9 3/8 %, then the percentage increase in her monthly expenditure is:"
+    options:
+      A: 20%
+      B: 32%
+      C: 25%
+      D: 22%
+    answer: C
+    explanation: "Income 100: spends 68, saves 32. New income 120, savings 32 × 1.09375 = 35, so expenditure = 85. The increase is 17/68 = 25%."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q070
+    difficulty: medium
+    stem: If the perimeter of a certain rectangle is 50 units and its area is 150 sq. units, then how many units is the length of its shorter side?
+    options:
+      A: "15"
+      B: "12"
+      C: "10"
+      D: "9"
+    answer: C
+    explanation: l + b = 25 and lb = 150, so the sides are 15 and 10. The shorter side is 10.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q071
+    difficulty: medium
+    stem: A man buys two watches ‘A’ and ‘B’ at a total cost of ₹800. He sells both watches at the same selling price, and earns a profit of 18% on watch ‘A’ and incurs a loss of 22% on watch ‘B’. What are the cost prices of the two watches? (two place after decimal).
+    options:
+      A: A = ₹350.32 and B = ₹450.68
+      B: A = ₹318.37 and B = ₹481.63
+      C: A = ₹220 and B = ₹580
+      D: A = ₹317 and B = ₹483
+    answer: B
+    explanation: "Equal selling prices: 1.18A = 0.78B with A + B = 800. A = 800 × 0.78/1.96 = ₹318.37 and B = ₹481.63."
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q072
+    difficulty: medium
+    stem: |-
+      The following table shows the percentage of marks obtained by seven students in six different subjects in an examination.
+
+      | Student | Maths (Maximum marks = 150) | Chemistry (Maximum marks = 130) | Physics (Maximum marks = 120) | Geography (Maximum marks = 100) | History (Maximum marks = 110) | Computer Science (Maximum marks = 90) |
+      |---|---|---|---|---|---|---|
+      | Ankit | 100 | 80 | 80 | 40 | 70 | 70 |
+      | Aman | 90 | 50 | 90 | 60 | 90 | 80 |
+      | Ayush | 80 | 65 | 70 | 70 | 80 | 70 |
+      | Rohit | 90 | 60 | 80 | 95 | 60 | 60 |
+      | Tanvi | 80 | 65 | 65 | 80 | 40 | 60 |
+      | Tarun | 70 | 75 | 85 | 77 | 50 | 90 |
+      | Muskan | 65 | 35 | 50 | 85 | 80 | 80 |
+
+      What are the average marks obtained by all the seven students in Physics? (rounded off to two digits after the decimal)
+    options:
+      A: "89.14"
+      B: "80.15"
+      C: "75.90"
+      D: "85.12"
+    answer: A
+    explanation: The table gives percentages. Average Physics % = 520/7 = 74.29%, and 74.29% of 120 = 89.14 marks.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q073
+    difficulty: medium
+    stem: If in 13 years a fixed sum doubles at simple interest, what will be the interest rate per year? (Correct to two decimal places)
+    options:
+      A: 7.69%
+      B: 7.92%
+      C: 8.69%
+      D: 7.29%
+    answer: A
+    explanation: Interest = principal in 13 years, so the rate = 100/13 = 7.69%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q074
+    difficulty: medium
+    stem: AB is a diameter of a circle with centre O. The tangent at a point C on the circle meets AB produced at Q. If ∠CAB = 42°, then what is the measure of ∠CQA?
+    options:
+      A: 17°
+      B: 6°
+      C: 5°
+      D: 7°
+    answer: B
+    explanation: ∠COB = 2∠CAB = 84° and OC ⊥ CQ, so in ΔOCQ, ∠CQA = 90° − 84° = 6°.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q075
+    difficulty: medium
+    stem: If x + y + z = 10 and xy + yz + zx = 15, then find the value of x³ + y³ + z³ − 3xyz.
+    options:
+      A: "525"
+      B: "575"
+      C: "550"
+      D: "660"
+    answer: C
+    explanation: x² + y² + z² = 100 − 30 = 70. The value = 10 × (70 − 15) = 550.
+    tags:
+      - quant
+  - slug: cgl-2020-03-07-s2-q076
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. It hurts the heart most of all by inflating blood pressure.
+      B. You can blow up and let it out or bottle it up and ignore it.
+      C. The question then arises– What to do about it?
+      D. Researchers have long agreed that anger hurts your health.
+    options:
+      A: BCAD
+      B: CADB
+      C: DACB
+      D: DBCA
+    answer: C
+    explanation: "D states that anger hurts health, A explains how, C asks what to do, and B gives the choices: DACB."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Assist
+    options:
+      A: Conceal
+      B: Decline
+      C: Support
+      D: Obstruct
+    answer: D
+    explanation: Assist means help; the opposite is obstruct.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q078
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. I took a deep breath and inhaled the air.
+      B. It was a fine spring morning.
+      C. As soon as I entered the garden, lush green grass welcomed me.
+      D. The freshness in the air drew my feet towards a garden.
+    options:
+      A: ACBD
+      B: CADB
+      C: CDAB
+      D: BADC
+    answer: D
+    explanation: "B sets the morning, A has the speaker breathe the air, D says the freshness led them to a garden, and C describes entering it: BADC."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Come to the point
+    options:
+      A: To meet at a designated place
+      B: To unravel a mystery
+      C: To get reconciled to something
+      D: To speak plainly about the real issue
+    answer: D
+    explanation: "'Come to the point' means to speak directly about the real issue."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement.
+
+      The old lady nearly **dead from fright.**
+    options:
+      A: dead out of fright
+      B: No improvement
+      C: died of fright
+      D: died with frightening
+    answer: C
+    explanation: "The sentence needs a verb: 'nearly died of fright'."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q081
+    difficulty: medium
+    stem: |-
+      Select the correct indirect form of the given sentence.
+
+      The guard said to the visitors, "Do not take photographs inside the museum."
+    options:
+      A: The guard forbade the visitors to take photographs inside the museum.
+      B: The guard warned the visitors not to be taking photographs inside the museum.
+      C: The guard told the visitors that do not take photographs inside the museum.
+      D: The guard requested the visitors to not took photographs inside the museum.
+    answer: A
+    explanation: A negative command ('Do not…') is reported with 'forbade … to …'.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q082
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There are certain spheres of one's life in which one should go by one's own (1)______ rather than follow another's counsel. The choice (2)______ one's subject of study is one such sphere. (3)______ one is genuinely interested in a subject, one (4)______ never opt for it. India is already full of (5)______ pegs in round holes, who are unfit for their roles and are doing more harm than good.
+
+      Select the most appropriate option to fill in blank number (1).
+    options:
+      A: choice
+      B: option
+      C: possibility
+      D: alternative
+    answer: A
+    explanation: One should go by one's own choice rather than another's counsel.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q083
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There are certain spheres of one's life in which one should go by one's own (1)______ rather than follow another's counsel. The choice (2)______ one's subject of study is one such sphere. (3)______ one is genuinely interested in a subject, one (4)______ never opt for it. India is already full of (5)______ pegs in round holes, who are unfit for their roles and are doing more harm than good.
+
+      Select the most appropriate option to fill in blank number (2).
+    options:
+      A: at
+      B: between
+      C: of
+      D: among
+    answer: C
+    explanation: The idiom is 'the choice of' something.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q084
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There are certain spheres of one's life in which one should go by one's own (1)______ rather than follow another's counsel. The choice (2)______ one's subject of study is one such sphere. (3)______ one is genuinely interested in a subject, one (4)______ never opt for it. India is already full of (5)______ pegs in round holes, who are unfit for their roles and are doing more harm than good.
+
+      Select the most appropriate option to fill in blank number (3).
+    options:
+      A: Even if
+      B: Unless
+      C: Although
+      D: Since
+    answer: B
+    explanation: "'Unless one is genuinely interested… one should never opt for it' gives the condition."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q085
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There are certain spheres of one's life in which one should go by one's own (1)______ rather than follow another's counsel. The choice (2)______ one's subject of study is one such sphere. (3)______ one is genuinely interested in a subject, one (4)______ never opt for it. India is already full of (5)______ pegs in round holes, who are unfit for their roles and are doing more harm than good.
+
+      Select the most appropriate option to fill in blank number (4).
+    options:
+      A: should
+      B: could
+      C: ought
+      D: would
+    answer: A
+    explanation: "'Should' gives advice: one should never opt for it."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q086
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      There are certain spheres of one's life in which one should go by one's own (1)______ rather than follow another's counsel. The choice (2)______ one's subject of study is one such sphere. (3)______ one is genuinely interested in a subject, one (4)______ never opt for it. India is already full of (5)______ pegs in round holes, who are unfit for their roles and are doing more harm than good.
+
+      Select the most appropriate option to fill in blank number (5).
+    options:
+      A: large
+      B: square
+      C: small
+      D: circular
+    answer: B
+    explanation: The idiom is 'square pegs in round holes', meaning people unfit for their roles.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement.
+
+      He was greatly disappointed **to be failed** again.
+    options:
+      A: on failing
+      B: to failed
+      C: No improvement
+      D: by being failed
+    answer: A
+    explanation: "'Disappointed on failing' is correct; 'fail' here is intransitive and cannot be passive."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Accurate
+    options:
+      A: Capable
+      B: Compact
+      C: Precise
+      D: Erroneous
+    answer: C
+    explanation: Accurate means precise.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q089
+    difficulty: medium
+    stem: |-
+      Fill in the blank with the most appropriate word.
+
+      There is a ______ growth of flowers in tropical countries.
+    options:
+      A: powerful
+      B: plenty
+      C: luxuriant
+      D: pious
+    answer: C
+    explanation: Luxuriant means growing richly and abundantly, which fits plant growth.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Affluent
+    options:
+      A: Hostile
+      B: Authentic
+      C: Impoverished
+      D: Prosperous
+    answer: D
+    explanation: Affluent means wealthy, i.e. prosperous.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q091
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      He incurred heavy losses in business.
+    options:
+      A: Heavy losses are incurred in business by him.
+      B: Heavy losses was incurred in business by him.
+      C: Heavy losses were incurred in business by him.
+      D: Heavy losses are being incurred in business by him.
+    answer: C
+    explanation: "A simple past active with a plural object becomes 'were incurred': Heavy losses were incurred in business by him."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q092
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      He went to work but returned back immediately.
+    options:
+      A: He went
+      B: to work
+      C: but returned back
+      D: immediately
+    answer: C
+    explanation: "'Returned back' is redundant, since 'return' already means come back. It should be 'returned'."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      A place where plants are grown for sale
+    options:
+      A: Nursery
+      B: Garden
+      C: Aviary
+      D: Yard
+    answer: A
+    explanation: A nursery is where plants are grown for sale.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q094
+    difficulty: medium
+    stem: |-
+      Fill in the blank with the most appropriate word.
+
+      There are ______ errors in your assignment.
+    options:
+      A: numerous
+      B: multifold
+      C: sufficient
+      D: abundant
+    answer: A
+    explanation: "'Numerous errors' means many errors; 'abundant' is used for good things or uncountable nouns."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q095
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Persuit
+      B: Parallel
+      C: Actually
+      D: Opinion
+    answer: A
+    explanation: The correct spelling is 'pursuit'.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q096
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Industrious
+    options:
+      A: Lethargic
+      B: Durable
+      C: Diligent
+      D: Cautious
+    answer: A
+    explanation: Industrious means hard-working; the opposite is lethargic.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q097
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Annihilate
+      B: Affiliate
+      C: Exclaimation
+      D: Aesthetic
+    answer: C
+    explanation: The correct spelling is 'exclamation'.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q098
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      The present what I buy for you yesterday was very expensive.
+    options:
+      A: was very expensive
+      B: The present
+      C: for you yesterday
+      D: what I buy
+    answer: D
+    explanation: "It should be 'that/which I bought': the relative pronoun is wrong and the past time 'yesterday' needs the past tense."
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q099
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      Putting to death painlessly to end suffering
+    options:
+      A: Euthanasia
+      B: Genocide
+      C: Blaspheme
+      D: Altruism
+    answer: A
+    explanation: Euthanasia is painless killing to end suffering.
+    tags:
+      - english
+  - slug: cgl-2020-03-07-s2-q100
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Give a piece of one's mind
+    options:
+      A: To rebuke someone strongly
+      B: To donate something valuable
+      C: To share one's ideas
+      D: To advise someone
+    answer: A
+    explanation: "'Give someone a piece of one's mind' means to scold them sharply."
+    tags:
+      - english

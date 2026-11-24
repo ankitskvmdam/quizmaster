@@ -1,0 +1,1296 @@
+slug: 2019-06-11-shift1
+title: SSC CGL 2018 Tier 1
+date: 2019-06-11
+label: 11 Jun, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04132653/SSC-CGL-QUESTION-PAPER-11-June-2019-Shift-1-En). Left out (picture-only options or incomplete in the source): Q5, Q9, Q14, Q15, Q17, Q24, Q25."
+questions:
+  - slug: cgl-2019-06-11-s1-q001
+    difficulty: medium
+    stem: Priyank is Akshay’s brother. Sonia is Saksham’s sister. Akshay is Sonia’s son. How is Priyank related to Sonia?
+    options:
+      A: Nephew
+      B: Father
+      C: Son
+      D: Brother
+    answer: C
+    explanation: Akshay is Sonia's son, and Priyank (a brother, so male) is Akshay's brother, so Priyank is also Sonia's son.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q002
+    difficulty: medium
+    stem: At a party, the number of girls is half the number of boys. After an hour, five boys leave the party and three girls join the party. How many people were present at the party an hour before?
+    options:
+      A: "16"
+      B: "8"
+      C: "24"
+      D: "22"
+    answer: C
+    explanation: If boys = b and girls = b/2, and after the change b − 5 = b/2 + 3, then b = 16 and girls = 8, so 24 people were there at first.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q003
+    difficulty: medium
+    stem: Three of the following four words are alike in a certain way and one is different. Pick the odd word out.
+    options:
+      A: Thorium
+      B: Uranium
+      C: Radium
+      D: Sodium
+    answer: D
+    explanation: Thorium, uranium and radium are radioactive elements; sodium is not.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the word pair in which the two words are related in the same way as the two words in the following word-pair.
+
+      Brass : Copper
+    options:
+      A: "Chromium : Silver"
+      B: "Bronze : Gold"
+      C: "Nickle : Iron"
+      D: "Solder : Tin"
+    answer: D
+    explanation: Brass is an alloy whose main metal is copper; solder is an alloy based on tin.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q006
+    difficulty: medium
+    stem: |-
+      Select the terms that will replace the ? in the following series.
+
+      Z, X, V, ?, R, P, ?
+    options:
+      A: S, N
+      B: S, O
+      C: T, O
+      D: T, N
+    answer: D
+    explanation: "The letters go back two places each time: Z, X, V, T, R, P, N."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q007
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1) Write
+      2) Publish
+      3) Author
+      4) Reader
+      5) Sale
+    options:
+      A: 3, 1, 2, 5, 4
+      B: 4, 3, 1, 2, 5
+      C: 3, 2, 1, 5, 4
+      D: 1, 3, 2, 5, 4
+    answer: A
+    explanation: "An author writes, the book is published and sold, and then it is read: 3, 1, 2, 5, 4."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q008
+    difficulty: medium
+    stem: |-
+      Select the term that will come next in the following series.
+
+      OBE, PDH, QFK, RHN, ?
+    options:
+      A: SKQ
+      B: RJQ
+      C: SJQ
+      D: SJP
+    answer: C
+    explanation: "The 1st letters go +1 (O-P-Q-R-S), the 2nd +2 (B-D-F-H-J) and the 3rd +3 (E-H-K-N-Q): SJQ."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q010
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged in the following equation to make it correct?
+
+      24 ÷ 8 – 5 × 5 + 3 = 13
+    options:
+      A: × and –
+      B: × and +
+      C: ÷ and ×
+      D: ÷ and +
+    answer: B
+    explanation: Swapping × and + gives 24 ÷ 8 − 5 + 5 × 3 = 3 − 5 + 15 = 13.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q011
+    difficulty: medium
+    stem: |-
+      Three different positions of a dice are shown below. Which number appears on the face opposite the number 6?
+
+      *(Figure: Dice 1: top 4, front 3, right 6. Dice 2: top 3, front 5, right 2. Dice 3: top 1, front 5, right 4.)*
+    options:
+      A: "1"
+      B: "2"
+      C: "4"
+      D: "5"
+    answer: D
+    explanation: 5 appears next to 3, 2, 1 and 4 across the dice, so the only face left opposite 5 is 6.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q012
+    difficulty: medium
+    stem: If AU = 21 and EGG = 245, then how will you code BAKE?
+    options:
+      A: "19"
+      B: "75"
+      C: "110"
+      D: "155"
+    answer: C
+    explanation: "The code is the product of the letters' positions: AU = 1 × 21, EGG = 5 × 7 × 7. BAKE = 2 × 1 × 11 × 5 = 110."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q013
+    difficulty: medium
+    stem: ‘Cheerful’ is related to ‘Sad’ in the same way as ‘Generous’ is related to ______.
+    options:
+      A: Gloomy
+      B: Kind
+      C: Selfish
+      D: Intelligent
+    answer: C
+    explanation: Sad is the opposite of cheerful; selfish is the opposite of generous.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q016
+    difficulty: medium
+    stem: In a code language, NEEDLE is written as MFDEKF. How will HAMMER be written in the same language?
+    options:
+      A: GBLNFT
+      B: IBLNDS
+      C: GALNDS
+      D: GBLNDS
+    answer: D
+    explanation: Letters alternate −1, +1 (N→M, E→F, E→D ...). HAMMER becomes GBLNDS.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q018
+    difficulty: medium
+    stem: Three of the following four number-pairs are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: 65-101
+      B: 26-50
+      C: 17-37
+      D: 49-82
+    answer: D
+    explanation: In the other pairs both numbers are a square + 1 (65 = 8² + 1, 101 = 10² + 1). 49 = 7² has no +1.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q019
+    difficulty: medium
+    stem: |-
+      Two statements are given, followed by two conclusions numbered I and II. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      All teachers are painters.
+
+      Some painters are rich.
+
+      **Conclusions:**
+
+      I. All painters are teachers.
+
+      II. Some rich are not painters.
+    options:
+      A: Only conclusion II follows
+      B: Neither conclusion I nor II follows
+      C: Only conclusion I follows
+      D: Either conclusion I or II follows
+    answer: B
+    explanation: '"All teachers are painters" does not reverse into I, and nothing is said about rich people outside painters, so neither conclusion follows.'
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q020
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the following figure?
+
+      *(Figure: A parallelogram containing a rectangle; the rectangle has a vertical centre line, a horizontal centre line and both diagonals, plus two short horizontal segments above and below the centre forming small triangles with the diagonals.)*
+    options:
+      A: "16"
+      B: "30"
+      C: "32"
+      D: "22"
+    answer: B
+    explanation: SSC gives 30. Count the triangles made by the rectangle's diagonals and centre lines, then those formed with the parallelogram's slanting sides.
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q021
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      2139 : 3246 :: 4262 : ______.
+    options:
+      A: "1461"
+      B: "2471"
+      C: "2371"
+      D: "2483"
+    answer: B
+    explanation: "Only one option keeps the digit sum the same: 2+1+3+9 = 3+2+4+6 = 15, and 4+2+6+2 = 2+4+7+1 = 14, giving 2471."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q022
+    difficulty: medium
+    stem: |-
+      Select the term that will come next in the following series.
+
+      57, 62, 31, 36, 18, ?
+    options:
+      A: "34"
+      B: "23"
+      C: "19"
+      D: "36"
+    answer: B
+    explanation: "The steps alternate +5 and ÷2: 57 → 62 → 31 → 36 → 18 → 23."
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q023
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: FGE
+      B: NOR
+      C: KLJ
+      D: YZX
+    answer: B
+    explanation: FGE, KLJ and YZX are two consecutive letters followed by the letter before the first. NOR breaks this (it would be NOM).
+    tags:
+      - reasoning
+  - slug: cgl-2019-06-11-s1-q026
+    difficulty: medium
+    stem: The Sepoy Mutiny in India started from ______.
+    options:
+      A: Rajkot
+      B: Meerut
+      C: Bareilly
+      D: Champaran
+    answer: B
+    explanation: The Revolt of 1857 began with the sepoys' uprising at Meerut on 10 May 1857.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q027
+    difficulty: medium
+    stem: What is the term of the elected representatives of a Gram Panchayat?
+    options:
+      A: 5 years
+      B: 3 years
+      C: 2 years
+      D: 4 years
+    answer: A
+    explanation: Under Article 243E, a Panchayat's term is five years.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q028
+    difficulty: medium
+    stem: Marfati' songs are traditional folk songs of ______.
+    options:
+      A: Afghanistan
+      B: Bangladesh
+      C: Pakistan
+      D: Nepal
+    answer: B
+    explanation: Marfati songs are mystic folk songs of Bangladesh, related to the Baul tradition.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q029
+    difficulty: medium
+    stem: Which scientist discovered the 'Penicillin'?
+    options:
+      A: Louis Pasteur
+      B: Alexander Fleming
+      C: Robert Koch
+      D: Ernst Chain
+    answer: B
+    explanation: Alexander Fleming discovered penicillin in 1928.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q030
+    difficulty: medium
+    stem: Which of the following stars is nearest to the sun?
+    options:
+      A: Proxima Centauri
+      B: Deneb
+      C: Sirius
+      D: Betelgeuse
+    answer: A
+    explanation: Proxima Centauri, about 4.24 light-years away, is the star nearest to the Sun.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q031
+    difficulty: medium
+    stem: Name the national bird of Bhutan.
+    options:
+      A: Magpai
+      B: Peacock
+      C: Parrot
+      D: Raven
+    answer: D
+    explanation: The raven is Bhutan's national bird; it also appears on the royal crown.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q032
+    difficulty: medium
+    stem: The term 'cherry picking' is used in which sport?
+    options:
+      A: Table Tennis
+      B: Swimming
+      C: Basketball
+      D: Cricket
+    answer: C
+    explanation: In basketball, cherry picking is when a player stays near the opponents' basket waiting for an easy pass.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q033
+    difficulty: medium
+    stem: Which of the following creatures is oviparous?
+    options:
+      A: Frog
+      B: Rabbit
+      C: Mouse
+      D: Squirrel
+    answer: A
+    explanation: Frogs lay eggs (oviparous); rabbits, mice and squirrels give birth to live young.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q034
+    difficulty: medium
+    stem: The summer solstice 2019 in the Northern Hemisphere will occur on ______.
+    options:
+      A: 24th June
+      B: 21st June
+      C: 26th June
+      D: 20th June
+    answer: B
+    explanation: The northern summer solstice in 2019 fell on 21 June.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q035
+    difficulty: medium
+    stem: Jorwe culture' was a Chalcolithic archaeological site located in the present day Indian state of ______.
+    options:
+      A: Assam
+      B: Maharashtra
+      C: Gujarat
+      D: Bihar
+    answer: B
+    explanation: The Jorwe culture is named after Jorwe in Ahmednagar district, Maharashtra.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q036
+    difficulty: medium
+    stem: Which of the following acids is present in ant bites?
+    options:
+      A: Formic acid
+      B: Malic acid
+      C: Perchloric acid
+      D: Nitric acid
+    answer: A
+    explanation: Ants inject formic (methanoic) acid when they sting.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q037
+    difficulty: medium
+    stem: Which of the following authors received the Jnanpith Award in 2018?
+    options:
+      A: Arundhati Roy
+      B: Vikram Seth
+      C: Kiran Desai
+      D: Amitav Ghosh
+    answer: D
+    explanation: Amitav Ghosh received the 54th Jnanpith Award (2018), the first English-language writer to win it.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q038
+    difficulty: medium
+    stem: In India, 24th January is observed as which one of the following days?
+    options:
+      A: National Farmer's Day
+      B: National Girl Child Day
+      C: National Agricultural Day
+      D: National Day of Elderly
+    answer: B
+    explanation: 24 January is National Girl Child Day in India (since 2008).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q039
+    difficulty: medium
+    stem: Which of the following is the smallest bird in the world?
+    options:
+      A: Finch
+      B: Diamond Firetail
+      C: Bee Hummingbird
+      D: Robin
+    answer: C
+    explanation: The bee hummingbird of Cuba, about 5-6 cm long, is the world's smallest bird.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q040
+    difficulty: medium
+    stem: Who among the following was named as the Chief Executive Officer of International Cricket Council (ICC) in January 2019?
+    options:
+      A: Saurav Ganguly
+      B: Anurag Thakur
+      C: Manu Sawhney
+      D: N G Khaitan
+    answer: C
+    explanation: Manu Sawhney was named ICC Chief Executive in January 2019, succeeding Dave Richardson.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q041
+    difficulty: medium
+    stem: Who was the Indian Army Chief at the time of Bangladesh Liberation War?
+    options:
+      A: Roy Bucher
+      B: Rob Lockhart
+      C: K M Cariappa
+      D: Sam Manekshaw
+    answer: D
+    explanation: General (later Field Marshal) Sam Manekshaw was Army Chief during the 1971 war.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q042
+    difficulty: medium
+    stem: The demand for a commodity or service which is a consequence of the demand for something else is called ______.
+    options:
+      A: Income Demand
+      B: Direct Demand
+      C: Composite Demand
+      D: Derived Demand
+    answer: D
+    explanation: Derived demand is demand for a good that comes from the demand for another good, e.g. labour or raw materials.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q043
+    difficulty: medium
+    stem: In which year was the East India Company incorporated for the exploitation of trade with East and Southeast Asia and India?
+    options:
+      A: "1612"
+      B: "1605"
+      C: "1600"
+      D: "1596"
+    answer: C
+    explanation: The East India Company received its royal charter on 31 December 1600.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q044
+    difficulty: medium
+    stem: Which economist gave the theory of Opportunity Cost?
+    options:
+      A: Milton Friedman
+      B: Adam Smith
+      C: John Keynes
+      D: Gottfried Haberler
+    answer: D
+    explanation: Gottfried Haberler restated trade theory in terms of opportunity cost (1936).
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q045
+    difficulty: medium
+    stem: Who among the following wrote the book 'A History of the Sikhs'?
+    options:
+      A: Bhai Vir Singh
+      B: Khushwant Singh
+      C: Amrita Pritam
+      D: Gurbachan Singh Talib
+    answer: B
+    explanation: Khushwant Singh wrote the two-volume "A History of the Sikhs".
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q046
+    difficulty: medium
+    stem: Vijay Hazare was a famous Indian player associated with the sport of ______.
+    options:
+      A: Football
+      B: Cricket
+      C: Rifle Shooting
+      D: Boxing
+    answer: B
+    explanation: Vijay Hazare was an Indian Test cricketer and captain; the Vijay Hazare Trophy is named after him.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q047
+    difficulty: medium
+    stem: Fertile riverine alluvial soil is best suited for producing ______.
+    options:
+      A: rice
+      B: tea
+      C: cotton
+      D: Corn
+    answer: A
+    explanation: Fertile, water-retaining alluvial soil in river plains suits rice.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q048
+    difficulty: medium
+    stem: The energy derived from the heat of Earth is called ______.
+    options:
+      A: Geothermal Energy
+      B: Solar Energy
+      C: Biogas
+      D: Tidal Energy
+    answer: A
+    explanation: Geothermal energy is heat drawn from inside the Earth.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q049
+    difficulty: medium
+    stem: Which article of the Constitution of India talks about the provisions for impeachment of the President of India?
+    options:
+      A: Article 51
+      B: Article 61
+      C: Article 54
+      D: Article 63
+    answer: B
+    explanation: Article 61 sets out the procedure for impeaching the President.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q050
+    difficulty: medium
+    stem: Identify the foreigner who has been conferred the second highest civilian award in India, Padma Vibhushan for 'exceptional and distinguished service' in 2019.
+    options:
+      A: John Chambers
+      B: Ismail Omar Guelleh
+      C: Pravin Gordhan
+      D: Kader Khan
+    answer: B
+    explanation: Ismail Omar Guelleh, President of Djibouti, received the Padma Vibhushan in 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2019-06-11-s1-q051
+    difficulty: medium
+    stem: "The difference between the compound interest and simple interest on ₹ x at 8.5% per annum for 2 years is ₹28.90. The value of x is:"
+    options:
+      A: "3500"
+      B: "3800"
+      C: "4000"
+      D: "4500"
+    answer: C
+    explanation: For 2 years, CI − SI = P(r/100)², so x × 0.085² = 28.90 and x = ₹4,000.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q052
+    difficulty: medium
+    stem: "If cot θ = 3/4, then sin θ + cos θ − tan θ is equal to:"
+    options:
+      A: −1/20
+      B: 2/15
+      C: 1/20
+      D: 1/15
+    answer: D
+    explanation: cot θ = 3/4 gives tan θ = 4/3, sin θ = 4/5 and cos θ = 3/5. So 4/5 + 3/5 − 4/3 = 21/15 − 20/15 = 1/15.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q053
+    difficulty: medium
+    stem: |-
+      The following table indicates the number of students studying in three disciplines in five colleges:
+
+      | Disciplines \ Colleges | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Science | 300 | 350 | 275 | 400 | 275 |
+      | Commerce | 250 | 400 | 325 | 275 | 250 |
+      | Economics | 400 | 450 | 250 | 300 | 500 |
+
+      What is the ratio of the total number of students studying in the science stream to that of studying in commerce stream in all five colleges taken together?
+    options:
+      A: "16 : 15"
+      B: "16 : 19"
+      C: "14 : 15"
+      D: "19 : 15"
+    answer: A
+    explanation: "Science total = 1600 and commerce total = 1500, so the ratio is 16 : 15."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q054
+    difficulty: medium
+    stem: |-
+      The following table indicates the number of students studying in three disciplines in five colleges:
+
+      | Disciplines \ Colleges | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Science | 300 | 350 | 275 | 400 | 275 |
+      | Commerce | 250 | 400 | 325 | 275 | 250 |
+      | Economics | 400 | 450 | 250 | 300 | 500 |
+
+      What percentage of total students are studying in the commerce stream in all five colleges together?
+    options:
+      A: 28%
+      B: 30%
+      C: 32%
+      D: 33%
+    answer: B
+    explanation: Total students = 1600 + 1500 + 1900 = 5000; commerce is 1500/5000 = 30%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q055
+    difficulty: medium
+    stem: "If a : b = 5 : 3, then (8a − 5b) : (8a + 5b) is equal to:"
+    options:
+      A: "3 : 13"
+      B: "2 : 5"
+      C: "3 : 11"
+      D: "5 : 11"
+    answer: D
+    explanation: "Put a = 5, b = 3: (40 − 15) : (40 + 15) = 25 : 55 = 5 : 11."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q056
+    difficulty: medium
+    stem: The average marks of 45 students was found to be 66. If the marks of two students were incorrectly entered as 28 and 64 instead of 82 and 46 respectively, then what is the correct average?
+    options:
+      A: "67.2"
+      B: "66.8"
+      C: "66.4"
+      D: "66.6"
+    answer: B
+    explanation: The correct marks (82 + 46 = 128) exceed the entered ones (28 + 64 = 92) by 36, so the average rises by 36/45 = 0.8, to 66.8.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q057
+    difficulty: medium
+    stem: "If √x + 1/√x = √6, then x² + 1/x² is equal to:"
+    options:
+      A: "62"
+      B: "14"
+      C: "16"
+      D: "36"
+    answer: B
+    explanation: Squaring gives x + 1/x + 2 = 6, so x + 1/x = 4 and x² + 1/x² = 16 − 2 = 14.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q058
+    difficulty: medium
+    stem: The price of sugar is increased by 22%. A person wants to increase his expenditure by 12% only. By what percent should he decrease his consumption, nearest to one decimal place?
+    options:
+      A: 10%
+      B: 7.8%
+      C: 8.2%
+      D: 8.6%
+    answer: C
+    explanation: Consumption factor = 1.12/1.22 ≈ 0.918, so consumption falls by about 8.2%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q059
+    difficulty: medium
+    stem: An article is sold for ₹657.90 after successive discounts of 15% and 10%. What is the marked price of the article?
+    options:
+      A: ₹920
+      B: ₹860
+      C: ₹900
+      D: ₹880
+    answer: B
+    explanation: MP × 0.85 × 0.90 = 0.765 MP = 657.90, so MP = ₹860.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q060
+    difficulty: medium
+    stem: The radii of two circular faces of the frustum of a cone of height 21 cm are 3 cm and 2 cm respectively. What is the volume of the frustum of the cone in cm³ (π = 22/7)?
+    options:
+      A: "154"
+      B: "286"
+      C: "345"
+      D: "418"
+    answer: D
+    explanation: V = (πh/3)(R² + r² + Rr) = (22/7)(21/3)(9 + 4 + 6) = 22 × 19 = 418 cm³.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q061
+    difficulty: medium
+    stem: |-
+      The value of:
+
+      2.8 + (5.2 ÷ 1.3 × 2) – 6 × 3 ÷ 8 + 2
+    options:
+      A: "6.45"
+      B: "4.55"
+      C: "8.45"
+      D: "10.55"
+    answer: D
+    explanation: 5.2 ÷ 1.3 × 2 = 8 and 6 × 3 ÷ 8 = 2.25, so 2.8 + 8 − 2.25 + 2 = 10.55.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q062
+    difficulty: medium
+    stem: "The value of sec²28° − cot²62° + sin²60° + cosec²30° is equal to:"
+    options:
+      A: 7/2
+      B: "3"
+      C: 19/4
+      D: 23/4
+    answer: D
+    explanation: cot 62° = tan 28°, so sec²28° − tan²28° = 1. Then 1 + 3/4 + 4 = 23/4.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q063
+    difficulty: medium
+    stem: Two articles are sold for ₹10,005 each. On one, the seller gains 15% and on the other, he loses 13%. What is his overall gain or loss percent, correct to two decimal places?
+    options:
+      A: 1.42% gain
+      B: 1.42% loss
+      C: 0.94% loss
+      D: 0.94% gain
+    answer: C
+    explanation: CPs are 10005/1.15 = 8700 and 10005/0.87 = 11500. Total CP = 20,200 and total SP = 20,010, so the loss is 190/20200 ≈ 0.94%.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q064
+    difficulty: medium
+    stem: "In ΔABC, AD is a median and P is a point on AD such that AP : PD = 3 : 4. Then ar(ΔAPB) : ar(ΔABC) is equal to:"
+    options:
+      A: "2 : 7"
+      B: "3 : 4"
+      C: "3 : 7"
+      D: "3 : 14"
+    answer: D
+    explanation: The median gives ar(ABD) = ½ ar(ABC), and AP/AD = 3/7, so ar(APB) = 3/7 × ½ = 3/14 of ABC.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q065
+    difficulty: medium
+    stem: "If a + b + c = 8 and ab + bc + ca = 12, then a³ + b³ + c³ − 3abc is equal to:"
+    options:
+      A: "192"
+      B: "224"
+      C: "144"
+      D: "400"
+    answer: B
+    explanation: a³ + b³ + c³ − 3abc = (a + b + c)[(a + b + c)² − 3(ab + bc + ca)] = 8(64 − 36) = 224.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q066
+    difficulty: medium
+    stem: |-
+      The following table indicates the number of students studying in three disciplines in five colleges:
+
+      | Disciplines \ Colleges | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Science | 300 | 350 | 275 | 400 | 275 |
+      | Commerce | 250 | 400 | 325 | 275 | 250 |
+      | Economics | 400 | 450 | 250 | 300 | 500 |
+
+      If a pie-chart is drawn representing the number of students in all five colleges, what is the central angle (correct to the nearest whole number) of the sector representing the students of college B?
+    options:
+      A: 80°
+      B: 82°
+      C: 84°
+      D: 86°
+    answer: D
+    explanation: "College B has 350 + 400 + 450 = 1200 of 5000 students: 1200/5000 × 360° = 86.4° ≈ 86°."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q067
+    difficulty: medium
+    stem: "Chords AB and CD of a circle, when produced, meet at a point P outside the circle. If AB = 6 cm, CD = 3 cm and PD = 5 cm, then PB is equal to:"
+    options:
+      A: 6 cm
+      B: 6.25 cm
+      C: 5 cm
+      D: 4 cm
+    answer: D
+    explanation: "By the secant rule PB × PA = PD × PC: PB(PB + 6) = 5 × 8 = 40, so PB = 4 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q068
+    difficulty: medium
+    stem: A is 40% more efficient than B and C is 20% less efficient than B. Working together, they can finish a task in 15 days. In how many days, will B alone complete 75% of the task?
+    options:
+      A: "36"
+      B: "48"
+      C: "32"
+      D: "44"
+    answer: A
+    explanation: With B = 1 unit/day, A = 1.4 and C = 0.8, so work = 3.2 × 15 = 48 units. B does 75% (36 units) in 36 days.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q069
+    difficulty: medium
+    stem: "In a circle with centre O, AB is the diameter and CD is a chord such that ABCD is a trapezium. If ∠BAC = 25°, then ∠CAD is equal to:"
+    options:
+      A: 45°
+      B: 65°
+      C: 40°
+      D: 25°
+    answer: C
+    explanation: ∠ACB = 90° (angle in a semicircle), so ∠ABC = 65°. In the isosceles trapezium ∠DAB = ∠ABC = 65°, so ∠CAD = 65° − 25° = 40°.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q070
+    difficulty: medium
+    stem: "If tan 4θ = cot(2θ + 30°), then θ is equal to:"
+    options:
+      A: 15°
+      B: 10°
+      C: 20°
+      D: 25°
+    answer: B
+    explanation: "tan A = cot B means A + B = 90°: 6θ + 30° = 90°, so θ = 10°."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q071
+    difficulty: medium
+    stem: "If a + b = 5 and ab = 3, then (a³ + b³) is equal to:"
+    options:
+      A: "70"
+      B: "75"
+      C: "80"
+      D: "65"
+    answer: C
+    explanation: a³ + b³ = (a + b)³ − 3ab(a + b) = 125 − 45 = 80.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q072
+    difficulty: medium
+    stem: What is the least value of x such that 517x324 is divisible by 12?
+    options:
+      A: "3"
+      B: "1"
+      C: "0"
+      D: "2"
+    answer: D
+    explanation: The last two digits, 24, are divisible by 4. For 3, the digit sum 22 + x must be a multiple of 3, so the least x is 2.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q073
+    difficulty: medium
+    stem: A train without stoppage travels with an average speed of 65 km/h and with stoppage, it travels with an average speed of 52 km/h. For how many minutes does the train stop on an average per hour?
+    options:
+      A: "13"
+      B: "15"
+      C: "12"
+      D: "14"
+    answer: C
+    explanation: Stoppage time per hour = (65 − 52)/65 × 60 = 12 minutes.
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q074
+    difficulty: medium
+    stem: |-
+      The following table indicates the number of students studying in three disciplines in five colleges:
+
+      | Disciplines \ Colleges | A | B | C | D | E |
+      |---|---|---|---|---|---|
+      | Science | 300 | 350 | 275 | 400 | 275 |
+      | Commerce | 250 | 400 | 325 | 275 | 250 |
+      | Economics | 400 | 450 | 250 | 300 | 500 |
+
+      What percentage of students in college B is studying in the science stream, (correct to one decimal place)?
+    options:
+      A: 29.4%
+      B: 29.2%
+      C: 29.6%
+      D: 29.8%
+    answer: B
+    explanation: "College B has 1200 students, 350 of them in science: 350/1200 ≈ 29.2%."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q075
+    difficulty: medium
+    stem: "ΔABC ~ ΔQRP and PQ = 6 cm, QR = 8 cm and PR = 10 cm. If ar(ΔABC) : ar(ΔPQR) = 1:4, then AB is equal to:"
+    options:
+      A: 2 cm
+      B: 5 cm
+      C: 3 cm
+      D: 4 cm
+    answer: D
+    explanation: "AB corresponds to QR = 8 cm. An area ratio of 1 : 4 means a side ratio of 1 : 2, so AB = 4 cm."
+    tags:
+      - quant
+  - slug: cgl-2019-06-11-s1-q076
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: tuition
+      B: tution
+      C: tuetion
+      D: tuttion
+    answer: A
+    explanation: '"Tuition" is the correct spelling.'
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      Your coming home to dinner on time <u>should be a rule rather the exception.</u>
+    options:
+      A: shall be a rule rather than a exception
+      B: No improvement
+      C: should be a rule rather being the exception
+      D: should be the rule rather than the exception
+    answer: D
+    explanation: 'The idiom is "the rule rather than the exception": it needs "than" and the definite articles.'
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q078
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: previledge
+      B: peivailege
+      C: privilege
+      D: previllage
+    answer: C
+    explanation: '"Privilege" is the correct spelling.'
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      She got a lucrative job of a translator because she was ______ in French.
+    options:
+      A: sufficient
+      B: efficient
+      C: deficient
+      D: proficient
+    answer: D
+    explanation: Proficient means skilled, which fits a translator's knowledge of French.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      True friends stay by our side <u>through thick and thin</u>.
+    options:
+      A: under all circumstances
+      B: in happy moments
+      C: in difficult times
+      D: in different weathers
+    answer: A
+    explanation: '"Through thick and thin" means in good times and bad, i.e. under all circumstances.'
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      One who is a great lover of books
+    options:
+      A: bibliophile
+      B: xenophile
+      C: hemophile
+      D: pedophile
+    answer: A
+    explanation: A bibliophile is a lover of books.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      A fictitious name used by an author
+    options:
+      A: pesudonym
+      B: homonym
+      C: alibi
+      D: anonymous
+    answer: A
+    explanation: A pseudonym (spelt "pesudonym" in the paper) is a fictitious name used by an author.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      ARROGANCE
+    options:
+      A: sweetness
+      B: humility
+      C: superiority
+      D: vanity
+    answer: B
+    explanation: Arrogance is pride and self-importance; its opposite is humility.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q084
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. The brain is active too during sleep, sending messages for the heart to beat regularly.
+
+      B. However, the body utilizes the sleeping time effectively.
+
+      C. We spend about one third of our time sleeping.
+
+      D. It produces energy and releases hormones for repair and growth during the night.
+    options:
+      A: CBDA
+      B: BADC
+      C: ABDC
+      D: CABD
+    answer: A
+    explanation: "C introduces sleep, B says the body uses it well, D explains how, and A adds that the brain is active too: CBDA."
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If no substitution is required, select No improvement.
+
+      Knowing the particular things that motivate each person <u>help you add power</u> to their motivation.
+    options:
+      A: No improvement
+      B: help you to add power
+      C: helps you add power
+      D: help you adding power
+    answer: C
+    explanation: The subject is the gerund "Knowing ...", which is singular, so the verb is "helps".
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The committee reached ______ decision regarding the appointment of the chairman.
+    options:
+      A: a compatible
+      B: a unanimous
+      C: an exemplary
+      D: an agreeable
+    answer: B
+    explanation: A unanimous decision is one agreed by all members, which fits a committee.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q087
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      There isn't many rice left in the house so we must replenish our stock soon.
+    options:
+      A: our stock soon
+      B: so we must replenish
+      C: There isn't many rice
+      D: left in the house
+    answer: C
+    explanation: "\"Rice\" is uncountable and takes \"much\", not \"many\": \"There isn't much rice\"."
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate antonym of the given word.
+
+      MEAGRE
+    options:
+      A: plentiful
+      B: inadequate
+      C: scanty
+      D: premium
+    answer: A
+    explanation: Meagre means scanty or insufficient; its opposite is plentiful.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the correct active form of the given sentence.
+
+      We will all be greatly benefitted by this scheme.
+    options:
+      A: This scheme has greatly benefitted us all.
+      B: This scheme would greatly benefit we all.
+      C: This scheme will greatly benefit us all.
+      D: This scheme is going to greatly benefit us all.
+    answer: C
+    explanation: The future passive "will be benefitted by this scheme" becomes "This scheme will greatly benefit us all".
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q090
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      Ten kilometres are a long distance to cover on foot for a child.
+    options:
+      A: Ten kilometres are
+      B: to cover on foot
+      C: a long distance
+      D: for a child
+    answer: A
+    explanation: 'A distance taken as one amount takes a singular verb: "Ten kilometres is".'
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      PERPLEX
+    options:
+      A: surprise
+      B: bewilder
+      C: complex
+      D: deceive
+    answer: B
+    explanation: To perplex is to confuse or bewilder.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q092
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Leaving his car with the valet, he (1)______ the hotel and joined the large crowd milling (2)______ He found a badge waiting for him (3)______ the receptionist's table and took his (4)______ in the rear of the hall. When the place was (5)______ the moderator welcomed the crowd.
+
+      Select the most appropriate option to fill in blank No.1.
+    options:
+      A: accessed
+      B: entered
+      C: admitted
+      D: invaded
+    answer: B
+    explanation: He "entered" the hotel; the other words do not fit walking into a building.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q093
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Leaving his car with the valet, he (1)______ the hotel and joined the large crowd milling (2)______ He found a badge waiting for him (3)______ the receptionist's table and took his (4)______ in the rear of the hall. When the place was (5)______ the moderator welcomed the crowd.
+
+      Select the most appropriate option to fill in blank No.2.
+    options:
+      A: about
+      B: aside
+      C: into
+      D: out
+    answer: A
+    explanation: '"Milling about" means moving around aimlessly in a crowd.'
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q094
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Leaving his car with the valet, he (1)______ the hotel and joined the large crowd milling (2)______ He found a badge waiting for him (3)______ the receptionist's table and took his (4)______ in the rear of the hall. When the place was (5)______ the moderator welcomed the crowd.
+
+      Select the most appropriate option to fill in blank No.3.
+    options:
+      A: over
+      B: at
+      C: in
+      D: by
+    answer: B
+    explanation: A badge waits "at" the receptionist's table.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q095
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Leaving his car with the valet, he (1)______ the hotel and joined the large crowd milling (2)______ He found a badge waiting for him (3)______ the receptionist's table and took his (4)______ in the rear of the hall. When the place was (5)______ the moderator welcomed the crowd.
+
+      Select the most appropriate option to fill in blank No.4.
+    options:
+      A: stand
+      B: lounge
+      C: couch
+      D: seat
+    answer: D
+    explanation: One "takes one's seat" in a hall.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q096
+    difficulty: medium
+    stem: |-
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Leaving his car with the valet, he (1)______ the hotel and joined the large crowd milling (2)______ He found a badge waiting for him (3)______ the receptionist's table and took his (4)______ in the rear of the hall. When the place was (5)______ the moderator welcomed the crowd.
+
+      Select the most appropriate option to fill in blank No.5.
+    options:
+      A: filled
+      B: completed
+      C: stuffed
+      D: empty
+    answer: A
+    explanation: The moderator begins once the place is "filled".
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q097
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct order.
+
+      A. But they faced grave danger if they tried to criticize these decisions.
+
+      B. The nationalists now began to openly criticize the policies of the British.
+
+      C. The freedom movement changed this situation.
+
+      D. Under colonial rule, the people had lived in fear of the British government and did not agree with many of the decisions that they took.
+    options:
+      A: CBAD
+      B: DBAC
+      C: BADC
+      D: DACB
+    answer: D
+    explanation: "D sets the colonial context, A adds the danger of criticism, C says the freedom movement changed this, and B shows the change: DACB."
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q098
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      DEFER
+    options:
+      A: dread
+      B: despair
+      C: dictate
+      D: delay
+    answer: D
+    explanation: To defer is to put off or delay.
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q099
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      The sailors had never encountered such a rough sea.
+    options:
+      A: Such a rough sea was never encountered by the sailors.
+      B: Such a rough sea had never been encountered by the sailors.
+      C: Such a rough sea has never been encountered by the sailors.
+      D: Such a rough sea is never encountered by the sailors.
+    answer: B
+    explanation: The past perfect active "had encountered" becomes the past perfect passive "had been encountered".
+    tags:
+      - english
+  - slug: cgl-2019-06-11-s1-q100
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      Due to increased number of lay offs in the industry, <u>the sword of Damocles</u> is always hanging over the employees.
+    options:
+      A: strict rules and regulations
+      B: an ill omen of death
+      C: a constant threat
+      D: threat of physical harm
+    answer: C
+    explanation: '"The sword of Damocles" means a constant threat of imminent danger.'
+    tags:
+      - english

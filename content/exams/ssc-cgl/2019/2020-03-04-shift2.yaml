@@ -1,0 +1,1373 @@
+slug: 2020-03-04-shift2
+title: SSC CGL 2019 Tier 1
+date: 2020-03-04
+label: 4 Mar, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04125947/SSC-CGL-QUESTION-PAPER-04-March-2020-Shift-2-E). Left out (picture-only options or incomplete in the source): Q5, Q7, Q19, Q25."
+questions:
+  - slug: cgl-2020-03-04-s2-q001
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A rectangle with a vertical line a little in from its left side. A diagonal runs from the bottom-left corner of the rectangle to its top-right corner. A second line runs from the top of the inner vertical line down to the bottom side (about three-quarters of the way across). A third line runs from a point on the top side (about 60% across) down to the right side (about two-thirds of the way down).)*
+    options:
+      A: "9"
+      B: "10"
+      C: "11"
+      D: "12"
+    answer: C
+    explanation: "Name the lines: 4 sides, the inner vertical, the diagonal and the two slanting lines. Triangles: 3 on the diagonal with the bottom side, 4 on the diagonal with the top side, 2 near the top-right corner, 1 from the inner vertical, bottom side and first slanting line, 1 between the inner vertical, diagonal and first slanting line. Total 11."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q002
+    difficulty: medium
+    stem: |-
+      A + B means ‘B is the sister of A’;
+
+      A – B means ‘A is the father of B’;
+
+      A × B means ‘B is the son of A’;
+
+      A ÷ B means ‘B is the husband of A’.
+
+      If, E ÷ F - H + J × G + D, then how is D related to H?
+    options:
+      A: Uncle
+      B: Father
+      C: Niece
+      D: Aunt
+    answer: C
+    explanation: |-
+      E ÷ F: F is E's husband; F – H: F is H's father; H + J: J is H's sister; J × G: G is J's son; G + D: D is G's sister.
+      So D is the daughter of H's sister J, i.e. H's niece.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q003
+    difficulty: medium
+    stem: ‘Grapes’ is related to ‘Fruit’ in the same way as ‘Pepper’ is related to ‘________’.
+    options:
+      A: Pulses
+      B: Dry Fruits
+      C: Spices
+      D: Cereals
+    answer: C
+    explanation: Grapes are a kind of fruit; pepper is a kind of spice.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q004
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Select the symbol that will be on the face opposite to the one showing ‘ @ ’.
+
+      *(Figure: Three views of the same die. (1) top *, front !, right @. (2) top &, front *, right @. (3) top #, front &, right <.)*
+    options:
+      A: "!"
+      B: "&"
+      C: <
+      D: "#"
+    answer: D
+    explanation: |-
+      @ touches *, ! and & (views 1 and 2). Turning about the @ axis puts & opposite !, and placing view 3 (top #, front &, right <) shows < is opposite *.
+      So # is opposite @.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q006
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster that can replace the question mark (?) in the following series.
+
+      AOS, CQU, ? , GUY, IWA
+    options:
+      A: FSX
+      B: DRV
+      C: ESW
+      D: GSW
+    answer: C
+    explanation: "Each letter moves +2: A→C→E→G→I, O→Q→S→U→W, S→U→W→Y→A. So the missing cluster is ESW."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q008
+    difficulty: medium
+    stem: |-
+      Select the number that can replace the question mark (?) in the following series.
+
+      4, 25, 121, ? , 529, 961
+    options:
+      A: "361"
+      B: "256"
+      C: "324"
+      D: "289"
+    answer: D
+    explanation: "The terms are squares of alternate primes: 2², 5², 11², 17², 23², 31². 17² = 289."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q009
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different from the rest.
+    options:
+      A: 8-138
+      B: 11-143
+      C: 6-174
+      D: 5-155
+    answer: A
+    explanation: In 11-143, 6-174 and 5-155 the second number is a multiple of the first (11×13, 6×29, 5×31). 138 is not a multiple of 8.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q010
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      Turmeric : Spices
+    options:
+      A: "Fig : Cashew Nuts"
+      B: "Dates : Dry Fruits"
+      C: "Nutmeg : Chilli Flakes"
+      D: "Apricot : Pear"
+    answer: B
+    explanation: Turmeric is a kind of spice; dates are a kind of dry fruit.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q011
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third number in the same way as the second number is related to the first number.
+
+      6 : 252 :: 5 : ?
+    options:
+      A: "175"
+      B: "150"
+      C: "125"
+      D: "225"
+    answer: B
+    explanation: 6³ + 6² = 216 + 36 = 252, so 5³ + 5² = 125 + 25 = 150.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q012
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      1. All cars are trucks.
+      2. Some buses are cars.
+
+      **Conclusions:**
+
+      I. All cars are buses.
+      II. Some buses are trucks.
+      III. All trucks are buses.
+    options:
+      A: Only conclusions II and III follow.
+      B: Only conclusion I follows.
+      C: Only conclusion II follows.
+      D: Only conclusions I and III follow.
+    answer: C
+    explanation: Some buses are cars, and all cars are trucks, so some buses are trucks (II). I and III do not follow.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q013
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it
+
+      *(Figure: A five-pointed star with a circle in the middle containing 3. Numbers in the star's points: top 11; upper right 28; lower right 327; lower left ?; upper left 5125.)*
+    options:
+      A: "446"
+      B: "464"
+      C: "4126"
+      D: "444"
+    answer: B
+    explanation: "Each point shows n followed by n³: 1-1, 2-8, 3-27, 5-125, so the missing one is 4 and 64 = 464."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q014
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster.
+    options:
+      A: HFE
+      B: GMF
+      C: DVR
+      D: OVG
+    answer: A
+    explanation: In GMF, DVR and OVG, first + third letter positions = middle letter (7+6 = 13 = M; 4+18 = 22 = V; 15+7 = 22 = V). In HFE, 8+5 = 13 ≠ F (6).
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q015
+    difficulty: medium
+    stem: Product A is costlier than product B by ₹2. If the price of product A is increased by two times the price of product B, the new price of product A becomes ₹17. What is the price of product B?
+    options:
+      A: ₹5
+      B: ₹6
+      C: ₹3
+      D: ₹7
+    answer: A
+    explanation: A = B + 2 and A + 2B = 17, so 3B + 2 = 17 and B = ₹5.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q016
+    difficulty: medium
+    stem: |-
+      Select the letter that can replace the question mark (?) in the following series.
+
+      W, Q, ? , H, E, C
+    options:
+      A: K
+      B: N
+      C: L
+      D: M
+    answer: C
+    explanation: Positions 23, 17, ?, 8, 5, 3 fall by 6, 5, 4, 3, 2. So the missing letter is 17 − 5 = 12, L.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q017
+    difficulty: medium
+    stem: In a certain code language, 'GUM' is coded as '49441169'. How will 'WAX' be coded as in that language?
+    options:
+      A: "5291576"
+      B: "2891400"
+      C: "3611121"
+      D: "8412525"
+    answer: A
+    explanation: "Each letter is replaced by the square of its position: G 49, U 441, M 169. WAX: 23² = 529, 1² = 1, 24² = 576, giving 5291576."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q018
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 10 | 3 | 14 |
+      | 49 | 15 | 68 |
+      | 33 | 19 | ? |
+    options:
+      A: "28"
+      B: "29"
+      C: "25"
+      D: "27"
+    answer: A
+    explanation: "Third column = 2 × (first − second): 2(10 − 3) = 14, 2(49 − 15) = 68, so 2(33 − 19) = 28."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q020
+    difficulty: medium
+    stem: |-
+      Which two digits should be interchanged to make the given equation correct?
+
+      32 ÷ 6 + 26 – 13 × 6 = 54
+    options:
+      A: 2 and 3
+      B: 6 and 2
+      C: 3 and 1
+      D: 3 and 6
+    answer: B
+    explanation: Swapping 6 and 2 gives 36 ÷ 2 + 62 − 13 × 2 = 18 + 62 − 26 = 54.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q021
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the odd word.
+    options:
+      A: Ahmedabad
+      B: Surat
+      C: Jhalrapatan
+      D: Rajkot
+    answer: C
+    explanation: Ahmedabad, Surat and Rajkot are in Gujarat; Jhalrapatan is in Rajasthan.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q022
+    difficulty: medium
+    stem: In a certain code language, PYTHON' is written as 'LMFRWN'. How will 'RHYTHM' be written as in that language?
+    options:
+      A: KFRWFP
+      B: NFRWFS
+      C: MFRWFT
+      D: MFRWFX
+    answer: A
+    explanation: "The word is written backwards and each letter is moved back by 2: NOHTYP → LMFRWN. RHYTHM backwards is MHTYHR, which becomes KFRWFP."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q023
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Micron
+      2. Metre
+      3. Mile
+      4. Millimetre
+      5. Kilometre
+      6. Centimetre
+    options:
+      A: 4-6-2-5-3-1
+      B: 4-6-2-5-1-3
+      C: 1-4-6-2-5-3
+      D: 1-4-6-2-3-5
+    answer: C
+    explanation: "Smallest to largest: micron, millimetre, centimetre, metre, kilometre, mile, i.e. 1-4-6-2-5-3."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q024
+    difficulty: medium
+    stem: |-
+      In the given Venn diagram, ‘Group A’ represents those who can speak 'English', ‘Group B’ represents those who can speak ‘Hindi’, and ‘Group C’ represents those who can speak ‘Marathi’. The numbers given in the diagram represent the number of persons in that particular category.
+
+      How many persons can speak exactly two languages?
+
+      *(Figure: Three overlapping circles A (top left), B (top right) and C (bottom). A only 9; B only 15; C only 10; A and B only 2; A and C only 5; B and C only 11; all three 3.)*
+    options:
+      A: "18"
+      B: "3"
+      C: "21"
+      D: "12"
+    answer: A
+    explanation: "Exactly two languages = the three pairwise-only regions: 2 + 5 + 11 = 18."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-04-s2-q026
+    difficulty: medium
+    stem: The development of a fruit without fertilization is called ______.
+    options:
+      A: Gametogamy
+      B: Parthenocarpy
+      C: Hybridogenesis
+      D: Apomixis
+    answer: B
+    explanation: Parthenocarpy is the development of fruit without fertilisation, giving seedless fruits.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q027
+    difficulty: medium
+    stem: Which of the following is NOT a nationalised bank?
+    options:
+      A: United Bank of India
+      B: State Bank of India
+      C: Punjab National Bank
+      D: Punjab and Sind Bank
+    answer: B
+    explanation: State Bank of India was set up under its own Act (1955) from the Imperial Bank; it was not nationalised under the 1969/1980 bank nationalisation.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q028
+    difficulty: medium
+    stem: In the sequence of planets in the solar system, which planet comes in between Mars and Saturn?
+    options:
+      A: Venus
+      B: Mercury
+      C: Uranus
+      D: Jupiter
+    answer: D
+    explanation: The order is Mercury, Venus, Earth, Mars, Jupiter, Saturn, so Jupiter lies between Mars and Saturn.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q029
+    difficulty: medium
+    stem: Which Tennis star will have a Swiss coin minted in his/her honour?
+    options:
+      A: Novak Djokovic
+      B: Roger Federer
+      C: Serena Williams
+      D: Rafael Nadal
+    answer: B
+    explanation: In 2019 Swissmint announced a 20-franc silver coin for Roger Federer, the first such honour for a living Swiss person.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q030
+    difficulty: medium
+    stem: Who is the first Indian to bag two International hat-tricks in cricket?
+    options:
+      A: Virat Kohli
+      B: Kuldeep Yadav
+      C: Kedar Jadhav
+      D: Rohit Sharma
+    answer: B
+    explanation: Kuldeep Yadav took ODI hat-tricks in 2017 (v Australia) and 2019 (v West Indies), the first Indian with two international hat-tricks.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q031
+    difficulty: medium
+    stem: In which city was the Jhanda Satyagraha or Flag Satyagraha of 1923 held?
+    options:
+      A: Bombay
+      B: Nagpur
+      C: Calcutta
+      D: Ahmedabad
+    answer: B
+    explanation: The Flag Satyagraha of 1923 was held in Nagpur (it began in Jabalpur), led by Jamnalal Bajaj and others.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q032
+    difficulty: medium
+    stem: Which pillar inscriptions has recorded the achievements of Samudra Gupta, who was known as the 'Napoleon of India' for his conquests?
+    options:
+      A: Iron Pillar
+      B: Sun Pillar
+      C: Vijaya Stambha
+      D: Allahabad Pillar
+    answer: D
+    explanation: Harisena's Prayag Prashasti on the Allahabad Pillar records Samudragupta's conquests.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q033
+    difficulty: medium
+    stem: John Maynard Keynes, best known for his economic theories (Keynesian economics), hailed from which country?
+    options:
+      A: Sweden
+      B: Denmark
+      C: Australia
+      D: England
+    answer: D
+    explanation: John Maynard Keynes was a British economist born in Cambridge, England.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q034
+    difficulty: medium
+    stem: Which part of the body is responsible for the manufacture of red blood cells?
+    options:
+      A: Lungs
+      B: Heart
+      C: Brain
+      D: Bone marrow
+    answer: D
+    explanation: Red blood cells are made in the red bone marrow.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q035
+    difficulty: medium
+    stem: Which of the following is NOT a twin city of India?
+    options:
+      A: Ahmedabad and Gandhinagar
+      B: Hubli and Dharwad
+      C: Thrissur and Thiruvalla
+      D: Cuttack and Bhubaneswar
+    answer: C
+    explanation: Thrissur and Thiruvalla are far apart in Kerala. The other three pairs are recognised twin cities.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q036
+    difficulty: medium
+    stem: Which city of India is known as 'The Athens of the East'?
+    options:
+      A: Allahabad
+      B: Patna
+      C: Madurai
+      D: Kochi
+    answer: C
+    explanation: Madurai, the old seat of Tamil learning, is called the 'Athens of the East'.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q037
+    difficulty: medium
+    stem: Which US based Indian topped the Forbes India's ‘20 people to watch in the 2020s’ list?
+    options:
+      A: Hasan Minhaj
+      B: Dushyant Chautala
+      C: Prashant Kishor
+      D: Mahua Moitra
+    answer: A
+    explanation: Forbes India's January 2020 list '20 people to watch in the 2020s' was topped by US-based comedian Hasan Minhaj.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q038
+    difficulty: medium
+    stem: Jellyfish are an example of which type of phylum?
+    options:
+      A: Phylum -Ctenophora
+      B: Phylum -Porifera
+      C: Phylum - Cnidaria
+      D: Phylum -Protozoa
+    answer: C
+    explanation: "Jellyfish are cnidarians (coelenterates): radially symmetric animals with stinging cells (cnidocytes)."
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q039
+    difficulty: medium
+    stem: Who chaired the sixth meeting of the Island Development Agency in New Delhi in January 2020?
+    options:
+      A: Narendra Modi
+      B: Amit Shah
+      C: Nirmala Sitharaman
+      D: Nitin Gadkari
+    answer: B
+    explanation: Union Home Minister Amit Shah chaired the 6th meeting of the Island Development Agency in January 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q040
+    difficulty: medium
+    stem: Who was appointed as Managing Director of the International Monetary Fund in October, 2019?
+    options:
+      A: Rodrigo Rato
+      B: Dominique Strauss-Kahn
+      C: Kristalina Georgieva
+      D: Christine Lagarde
+    answer: C
+    explanation: Kristalina Georgieva of Bulgaria became IMF Managing Director on 1 October 2019, succeeding Christine Lagarde.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q041
+    difficulty: medium
+    stem: Methane is a colourless, odourless, non-toxic but flammable gas. What is its common name?
+    options:
+      A: Blue vitriol
+      B: Laughing gas
+      C: Heating gas
+      D: Marsh gas
+    answer: D
+    explanation: Methane is called marsh gas because it forms when plant matter decays in marshes.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q042
+    difficulty: medium
+    stem: Freedom fighter Sucheta Kripalani, became the first woman chief minister of which state?
+    options:
+      A: Rajasthan
+      B: Andhra Pradesh
+      C: Gujarat
+      D: Uttar Pradesh
+    answer: D
+    explanation: Sucheta Kripalani became Chief Minister of Uttar Pradesh in 1963, India's first woman CM.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q043
+    difficulty: medium
+    stem: In which period was the legendary Victoria Terminus station (currently Chhatrapati Shivaji Maharaj Terminus), Mumbai built?
+    options:
+      A: 1878 to 1888
+      B: 1843 to 1853
+      C: 1933 to 1943
+      D: 1911 to 1921
+    answer: A
+    explanation: Victoria Terminus, designed by F. W. Stevens, was built from 1878 to 1888.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q044
+    difficulty: medium
+    stem: Who was the first Governor of Madhya Pradesh?
+    options:
+      A: BD Sharma
+      B: Dr. Sitaramayya
+      C: GP Singh
+      D: NN Wanchu
+    answer: B
+    explanation: Dr. Pattabhi Sitaramayya was the first Governor of Madhya Pradesh (1952–57).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q045
+    difficulty: medium
+    stem: In which state has the Jawara Dance, a dance form to celebrate wealth, originated?
+    options:
+      A: Rajasthan
+      B: Gujarat
+      C: Madhya Pradesh
+      D: Kerala
+    answer: C
+    explanation: Jawara is a harvest dance of the Bundelkhand region of Madhya Pradesh, celebrating wealth and plenty.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q046
+    difficulty: medium
+    stem: In which state did the second phase of Intensified Mission Indradhanush (IMI) 2.0 begin in January 2020?
+    options:
+      A: Uttar Pradesh
+      B: Punjab
+      C: Kerala
+      D: Bihar
+    answer: A
+    explanation: Under Intensified Mission Indradhanush 2.0, the second phase (January 2020) was reported as beginning in Uttar Pradesh.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q047
+    difficulty: medium
+    stem: Who was chosen as foreign secretary of India in January 2020?
+    options:
+      A: Vijay Keshav Gokhale
+      B: Nirupama Rao
+      C: Ranjan Mathai
+      D: Harsh Vardhan Shringla
+    answer: D
+    explanation: Harsh Vardhan Shringla took charge as Foreign Secretary in January 2020, succeeding Vijay Gokhale.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q048
+    difficulty: medium
+    stem: Which Union Minister of Home Affairs released a book titled Karmayodha Granth in New Delhi?
+    options:
+      A: Rajnath Singh
+      B: P Chidambaram
+      C: Amit Shah
+      D: Sushilkumar Shinde
+    answer: C
+    explanation: Home Minister Amit Shah released 'Karmayodha Granth', a book on PM Narendra Modi, in New Delhi in January 2020.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q049
+    difficulty: medium
+    stem: Georg Simon Ohm in whose honour we have the famous Ohm’s Law, hailed from which country?
+    options:
+      A: Germany
+      B: Spain
+      C: Poland
+      D: Russia
+    answer: A
+    explanation: Georg Simon Ohm was a German physicist.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q050
+    difficulty: medium
+    stem: Which city in India is world renowned for one of the most traditional embroidery styles, Chikankari?
+    options:
+      A: Ahmedabad
+      B: Lucknow
+      C: Hyderabad
+      D: Udaipur
+    answer: B
+    explanation: Chikankari is the traditional white embroidery of Lucknow.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-04-s2-q051
+    difficulty: medium
+    stem: If the 6-digit numbers x35624 and 1257y4 are divisible by 11 and 72, respectively, then what is the value of (5x − 2y)?
+    options:
+      A: "14"
+      B: "12"
+      C: "10"
+      D: "13"
+    answer: A
+    explanation: |-
+      x35624 ÷ 11: (x + 5 + 2) − (3 + 6 + 4) = 0, so x = 6. 1257y4 ÷ 72 needs ÷9: 19 + y = 27, so y = 8 (784 ÷ 8 also works).
+      5x − 2y = 30 − 16 = 14.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q052
+    difficulty: medium
+    stem: |-
+      The given table represents the revenue (in ₹ crores) of a company from the sale of four products A, B, C and D in 6 years. Study the table carefully and answer the question that follows.
+
+      | Product ↓ / Years → | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|
+      | A | 98 | 94 | 80 | 95 | 110 | 115 |
+      | B | 74 | 96 | 92 | 84 | 98 | 86 |
+      | C | 82 | 98 | 96 | 88 | 93 | 103 |
+      | D | 74 | 102 | 92 | 93 | 97 | 102 |
+
+      What is the ratio of the total revenue of the company in 2014 from the sale of all the four products to the total revenue from the sale of product C in 2014 to 2017?
+    options:
+      A: "14 : 23"
+      B: "18 : 19"
+      C: "7 : 10"
+      D: "7 : 9"
+    answer: B
+    explanation: "Total in 2014 = 80 + 92 + 96 + 92 = 360. Product C, 2014–17 = 96 + 88 + 93 + 103 = 380. 360 : 380 = 18 : 19."
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q053
+    difficulty: medium
+    stem: "If P = (x⁴ − 8x)/(x³ − x² − 2x), Q = (x² + 2x + 1)/(x² − 4x − 5) and R = (2x² + 4x + 8)/(x − 5), then (P × Q) ÷ R is equal to:"
+    options:
+      A: 1/2
+      B: "1"
+      C: "2"
+      D: "4"
+    answer: A
+    explanation: |-
+      P = (x−2)(x² + 2x + 4)/[(x−2)(x+1)] and Q = (x+1)/(x−5), so P × Q = (x² + 2x + 4)/(x−5).
+      Dividing by R = 2(x² + 2x + 4)/(x−5) gives 1/2.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q054
+    difficulty: medium
+    stem: "The value of [5 1/2 ÷ 3 2/3 of 1/4 + (5 1/9 − 7 7/8 ÷ 9 9/20) × 9/11] ÷ [5 ÷ 5 of 1/10 − 10 × 10 ÷ 20] is:"
+    options:
+      A: 1 4/5
+      B: 1 9/10
+      C: 3 4/5
+      D: 9 1/2
+    answer: B
+    explanation: "Numerator: 11/2 ÷ 11/12 = 6, and (46/9 − 5/6) × 9/11 = 7/2, so 9.5. Denominator: 5 ÷ 1/2 − 5 = 5. 9.5 ÷ 5 = 1 9/10."
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q055
+    difficulty: medium
+    stem: "PRT is a tangent to a circle with centre O, at the point R on it. Diameter SQ of the circle is produced to meet the tangent at P and QR is joined. If ∠QRP = 28°, then the measure of ∠SPR is:"
+    options:
+      A: 29°
+      B: 34°
+      C: 62°
+      D: 32°
+    answer: B
+    explanation: "Alternate segment: ∠RSQ = ∠QRP = 28°, and ∠SRQ = 90° (angle in a semicircle). In ΔSRP, ∠SPR = 180° − 28° − 118° = 34°."
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q056
+    difficulty: medium
+    stem: "In ΔPQR, ∠Q = 85° and ∠R = 65°. Points S and T are on the sides PQ and PR, respectively such that ∠STR = 95°, and the ratio of the QR and ST is 9 : 5. If PQ = 21.6 cm, then the length of PT is:"
+    options:
+      A: 10.5 cm
+      B: 9.6 cm
+      C: 12 cm
+      D: 9 cm
+    answer: C
+    explanation: ∠P = 30° and ∠STP = 85° = ∠Q, so ΔPTS ~ ΔPQR. PT/PQ = ST/QR = 5/9, so PT = 21.6 × 5/9 = 12 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q057
+    difficulty: medium
+    stem: The income of A is 60% less than that of B, and the expenditure of A is equal to 60% of B’s expenditure. If A’s income is equal to 70% of B’s expenditure, then what is the ratio of the savings of A and B?
+    options:
+      A: "3 : 8"
+      B: "5 : 9"
+      C: "4 : 7"
+      D: "2 : 15"
+    answer: D
+    explanation: |-
+      Let B's expenditure be 100. A's income = 70, B's income = 70/0.4 = 175, A's expenditure = 60.
+      Savings: A = 10, B = 75, so 10 : 75 = 2 : 15.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q058
+    difficulty: medium
+    stem: "If a + b + c = 7 and ab + bc + ca = −6, then the value of a³ + b³ + c³ − 3abc is:"
+    options:
+      A: "469"
+      B: "472"
+      C: "463"
+      D: "479"
+    answer: A
+    explanation: a² + b² + c² = 49 + 12 = 61. a³ + b³ + c³ − 3abc = 7 × (61 + 6) = 469.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q059
+    difficulty: medium
+    stem: The marked price of an article is ₹740. After two successive discounts of 15% and x %, it is sold for ₹566.10. What is the value of x ?
+    options:
+      A: "12"
+      B: "5"
+      C: "10"
+      D: "20"
+    answer: C
+    explanation: 740 × 0.85 = 629, and 566.10/629 = 0.90, so x = 10%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q060
+    difficulty: medium
+    stem: |-
+      The given table represents the revenue (in ₹ crores) of a company from the sale of four products A, B, C and D in 6 years. Study the table carefully and answer the question that follows.
+
+      | Product ↓ / Years → | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|
+      | A | 98 | 94 | 80 | 95 | 110 | 115 |
+      | B | 74 | 96 | 92 | 84 | 98 | 86 |
+      | C | 82 | 98 | 96 | 88 | 93 | 103 |
+      | D | 74 | 102 | 92 | 93 | 97 | 102 |
+
+      By what percentage is the total revenue of the company from the sale of products A, B and D in 2012 and 2013 more than the total revenue from the sale of product B in 2013 to 2016?(Correct to one decimal place)
+    options:
+      A: "44.5"
+      B: "31.2"
+      C: "43.6"
+      D: "45.4"
+    answer: D
+    explanation: A + B + D in 2012–13 = 246 + 292 = 538. B in 2013–16 = 370. (538 − 370)/370 × 100 = 45.4%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q061
+    difficulty: medium
+    stem: The difference in compound interest on a certain sum at 10% p.a. for one year, when the interest is compounded half yearly and yearly, is ₹88.80. What is the simple interest on the same sum for 1 2/3 years at the same rate?
+    options:
+      A: ₹5,916
+      B: ₹5,986
+      C: ₹5,980
+      D: ₹5,920
+    answer: D
+    explanation: Difference = P[(1.05)² − 1.10] = 0.0025P = 88.80, so P = ₹35,520. SI = 35,520 × 10% × 5/3 = ₹5,920.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q062
+    difficulty: medium
+    stem: If 30x² − 15x + 1 = 0, then what is the value of 25x² + (36x²)⁻¹ ?
+    options:
+      A: 9/2
+      B: 6 1/4
+      C: 65/12
+      D: 55/12
+    answer: D
+    explanation: "Divide by 6x: 5x + 1/(6x) = 5/2. Squaring: 25x² + 1/(36x²) + 5/3 = 25/4, so the value is 25/4 − 5/3 = 55/12."
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q063
+    difficulty: medium
+    stem: "The ratio of boys and girls in a group is 7 : 6. If 4 more boys join the group and 3 girls leave the group, then the ratio of boys to girls becomes 4 : 3. What is the total number of boys and girls initially in the group?"
+    options:
+      A: "117"
+      B: "78"
+      C: "91"
+      D: "104"
+    answer: D
+    explanation: (7k + 4)/(6k − 3) = 4/3 gives 21k + 12 = 24k − 12, so k = 8. The total is 13k = 104.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q064
+    difficulty: medium
+    stem: "In ΔABC, D and E are the points on sides AC and BC, respectively such that DE ∥ AB. F is a point on CE such that DF ∥ AE. If CE = 6 cm, and CF = 2.5 cm, then BC is equal to:"
+    options:
+      A: 14.4 cm
+      B: 15.6 cm
+      C: 14 cm
+      D: 12 cm
+    answer: A
+    explanation: DF ∥ AE gives CF/CE = CD/CA, and DE ∥ AB gives CE/CB = CD/CA. So CE² = CF × CB, and BC = 36/2.5 = 14.4 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q065
+    difficulty: medium
+    stem: "Two chords AB and CD of a circle are produced to intersect each other at a point P outside the circle. If AB = 7 cm, BP = 4.2 cm and PD = 2.8 cm, then the length of CD is:"
+    options:
+      A: 12 cm
+      B: 14.6 cm
+      C: 15.8 cm
+      D: 14 cm
+    answer: D
+    explanation: "PA × PB = PC × PD: 11.2 × 4.2 = PC × 2.8, so PC = 16.8 and CD = 16.8 − 2.8 = 14 cm."
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q066
+    difficulty: medium
+    stem: "One-third of goods are sold at a 15% profit, 25% of the goods are sold at a 20% profit and the rest at a 20% loss. If the total profit of ₹138.50 is earned on the whole transaction, then the value (in ₹) of the goods is:"
+    options:
+      A: ₹8,587
+      B: ₹8,030
+      C: ₹7,756
+      D: ₹8,310
+    answer: D
+    explanation: Net profit fraction = (1/3)(15%) + (1/4)(20%) − (5/12)(20%) = 1/60 of the value. The value is 138.50 × 60 = ₹8,310.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q067
+    difficulty: medium
+    stem: |-
+      The given table represents the revenue (in ₹ crores) of a company from the sale of four products A, B, C and D in 6 years. Study the table carefully and answer the question that follows.
+
+      | Product ↓ / Years → | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|
+      | A | 98 | 94 | 80 | 95 | 110 | 115 |
+      | B | 74 | 96 | 92 | 84 | 98 | 86 |
+      | C | 82 | 98 | 96 | 88 | 93 | 103 |
+      | D | 74 | 102 | 92 | 93 | 97 | 102 |
+
+      The number of years in which the revenue of the company from the sale of product D is more than the average revenue from the sale of product A over six years, is:
+    options:
+      A: "4"
+      B: "1"
+      C: "3"
+      D: "2"
+    answer: D
+    explanation: Average for A = 592/6 ≈ 98.7. D exceeds it only in 2013 (102) and 2017 (102), so 2 years.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q068
+    difficulty: medium
+    stem: "If 7sin²θ − cos²θ + 2sin θ = 2, 0° < θ < 90°, then the value of (sec 2θ + cot2θ)/(cosec 2θ + tan 2θ) is:"
+    options:
+      A: (2√3 + 1)/3
+      B: "1"
+      C: 1/5 (1 + 2√3)
+      D: 2/5 (1 + √3)
+    answer: C
+    explanation: |-
+      8sin²θ + 2sinθ − 3 = 0 gives sinθ = 1/2, so θ = 30° and 2θ = 60°.
+      (2 + 1/√3)/(2/√3 + √3) = (2√3 + 1)/5.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q069
+    difficulty: medium
+    stem: "A and B, working together, can complete a work in d days. Working alone, A takes (8 + d) days and B takes (18 + d) days to complete the same work. A works for 4 days. The remaining work will be completed by B alone, in:"
+    options:
+      A: 24 days
+      B: 16 days
+      C: 18 days
+      D: 20 days
+    answer: A
+    explanation: d² = 8 × 18, so d = 12. A takes 20 days and B takes 30. After A's 4 days (1/5 of the work), B needs 4/5 × 30 = 24 days.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q070
+    difficulty: medium
+    stem: "The average weight of some students in a class was 58.4 kg. When 5 students having the average weight 62.8 kg joined the class, the average weight of all students in the class increased by 0.55 kg. The number of students initially in the class, were:"
+    options:
+      A: "30"
+      B: "35"
+      C: "25"
+      D: "40"
+    answer: B
+    explanation: 58.4n + 5 × 62.8 = 58.95(n + 5), so 0.55n = 19.25 and n = 35.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q071
+    difficulty: medium
+    stem: "The expression 3sec²θ tan²θ + tan⁶θ − sec⁶θ is equal to:"
+    options:
+      A: −2
+      B: "1"
+      C: "2"
+      D: −1
+    answer: D
+    explanation: With s = sec²θ and t = tan²θ, s − t = 1, so s³ − t³ = (s − t)³ + 3st(s − t) = 1 + 3st. The expression is 3st − (1 + 3st) = −1.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q072
+    difficulty: medium
+    stem: The time taken by a boat to travel 13 km downstream is the same as time taken by it to travel 7 km upstream. If the speed of the stream is 3 km/h, then how much time (in hours) will it take to travel a distance of 44.8 km in still water?
+    options:
+      A: 4 12/25
+      B: 5 3/5
+      C: 5 2/5
+      D: 4 13/25
+    answer: A
+    explanation: 13/(x + 3) = 7/(x − 3) gives x = 10 km/h. 44.8/10 = 4.48 h = 4 12/25 h.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q073
+    difficulty: medium
+    stem: "A cylindrical vessel of radius 30 cm and height 42 cm is full of water. Its contents are emptied into a rectangular tub of length 75 cm and breadth 44 cm. The height (in cm) to which the water rises in the tub is: (Take π = 22/7)"
+    options:
+      A: "36"
+      B: "30"
+      C: "40"
+      D: "45"
+    answer: A
+    explanation: Volume = 22/7 × 30² × 42 = 118800 cm³. Height = 118800/(75 × 44) = 36 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q074
+    difficulty: medium
+    stem: "The value of (tan²θ − sin²θ)/(2 + tan²θ + cot²θ) is:"
+    options:
+      A: cosec⁶θ
+      B: cos⁴θ
+      C: sin⁶θ
+      D: sec⁴θ
+    answer: C
+    explanation: tan²θ − sin²θ = tan²θ·sin²θ, and 2 + tan²θ + cot²θ = (tanθ + cotθ)² = sec²θ·cosec²θ. The ratio = tan²θ sin²θ · sin²θ cos²θ = sin⁶θ.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q075
+    difficulty: medium
+    stem: |-
+      The given table represents the revenue (in ₹ crores) of a company from the sale of four products A, B, C and D in 6 years. Study the table carefully and answer the question that follows.
+
+      | Product ↓ / Years → | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 |
+      |---|---|---|---|---|---|---|
+      | A | 98 | 94 | 80 | 95 | 110 | 115 |
+      | B | 74 | 96 | 92 | 84 | 98 | 86 |
+      | C | 82 | 98 | 96 | 88 | 93 | 103 |
+      | D | 74 | 102 | 92 | 93 | 97 | 102 |
+
+      The total revenue of the company from the sale of products B, C and D in 2014 is what percentage of the total revenue from the sale of products C and D in 6 years?
+    options:
+      A: "18"
+      B: "25"
+      C: "28"
+      D: "20"
+    answer: B
+    explanation: B + C + D in 2014 = 92 + 96 + 92 = 280. C and D over 6 years = 560 + 560 = 1120. 280/1120 = 25%.
+    tags:
+      - quant
+  - slug: cgl-2020-03-04-s2-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Obsolete
+    options:
+      A: Remote
+      B: Recent
+      C: Outdated
+      D: Rigid
+    answer: B
+    explanation: Obsolete means out of date; the opposite is recent.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q077
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: Encouragement
+      B: Embarasment
+      C: Conscinteous
+      D: Comotion
+    answer: A
+    explanation: The correct spellings are encouragement, embarrassment, conscientious and commotion.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given Idiom.
+
+      The bee’s knees
+    options:
+      A: Observant
+      B: Foolish
+      C: Problematic
+      D: Extraordinary
+    answer: D
+    explanation: "'The bee's knees' means something outstanding or extraordinary."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q079
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the given group of words.
+
+      One who loads and unloads ships.
+    options:
+      A: Spinster
+      B: Stevedore
+      C: Captain
+      D: Rustic
+    answer: B
+    explanation: A stevedore loads and unloads ships at a port.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q080
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the given group of words.
+
+      A sudden rush of a large number of frightened people or animals.
+    options:
+      A: Scapegoat
+      B: Recluse
+      C: Stampede
+      D: Lunacy
+    answer: C
+    explanation: A stampede is a sudden panicked rush of people or animals.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word to fill in the blank.
+
+      A reward is a ______ which motivates a person to achieve excellence in his field.
+    options:
+      A: monument
+      B: collection
+      C: recognition
+      D: memorial
+    answer: C
+    explanation: A reward is a recognition of merit that motivates excellence.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q082
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Discipline is doing any work with rules and regulations. It is (1)______ misunderstood as a restriction to freedom but it makes our life organized. Discipline is a (2)______ for students and people in different professions. A disciplined person always (3)______ in each and every field of life. Disciplined people (4)______ a disciplined society and a powerful nation. Discipline should not be (5)______ upon the people, rather it should come from within.
+
+      Select the most appropriate option for blank number (1)
+    options:
+      A: happily
+      B: usually
+      C: slowly
+      D: proudly
+    answer: B
+    explanation: "'It is usually misunderstood' means it is commonly misread as a restriction."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q083
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Discipline is doing any work with rules and regulations. It is (1)______ misunderstood as a restriction to freedom but it makes our life organized. Discipline is a (2)______ for students and people in different professions. A disciplined person always (3)______ in each and every field of life. Disciplined people (4)______ a disciplined society and a powerful nation. Discipline should not be (5)______ upon the people, rather it should come from within.
+
+      Select the most appropriate option for blank number (2)
+    options:
+      A: disadvantage
+      B: virtue
+      C: dream
+      D: curse
+    answer: B
+    explanation: Discipline is presented as a good quality, a virtue.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q084
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Discipline is doing any work with rules and regulations. It is (1)______ misunderstood as a restriction to freedom but it makes our life organized. Discipline is a (2)______ for students and people in different professions. A disciplined person always (3)______ in each and every field of life. Disciplined people (4)______ a disciplined society and a powerful nation. Discipline should not be (5)______ upon the people, rather it should come from within.
+
+      Select the most appropriate option for blank number (3)
+    options:
+      A: succeed
+      B: succeeds
+      C: successful
+      D: success
+    answer: B
+    explanation: A singular subject ('a disciplined person') with 'always' takes the simple present 'succeeds'.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q085
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Discipline is doing any work with rules and regulations. It is (1)______ misunderstood as a restriction to freedom but it makes our life organized. Discipline is a (2)______ for students and people in different professions. A disciplined person always (3)______ in each and every field of life. Disciplined people (4)______ a disciplined society and a powerful nation. Discipline should not be (5)______ upon the people, rather it should come from within.
+
+      Select the most appropriate option for blank number (4)
+    options:
+      A: makes
+      B: make
+      C: had made
+      D: made
+    answer: B
+    explanation: A plural subject ('disciplined people') in a general truth takes 'make'.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q086
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Discipline is doing any work with rules and regulations. It is (1)______ misunderstood as a restriction to freedom but it makes our life organized. Discipline is a (2)______ for students and people in different professions. A disciplined person always (3)______ in each and every field of life. Disciplined people (4)______ a disciplined society and a powerful nation. Discipline should not be (5)______ upon the people, rather it should come from within.
+
+      Select the most appropriate option for blank number (5)
+    options:
+      A: curbed
+      B: adorned
+      C: imposed
+      D: reposed
+    answer: C
+    explanation: Discipline should not be imposed (forced) upon people; it should come from within.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q087
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. They can then purchase them on subsidized rates with additional loan facilities.
+      B. It will import technologically advanced medical instruments and provide them to entrepreneurs.
+      C. The Indian Government has announced certain facilities in the budget session.
+      D. This will help in strengthening the economic condition of entrepreneurs.
+    options:
+      A: BDCA
+      B: CADB
+      C: CBAD
+      D: DCAB
+    answer: C
+    explanation: "C announces facilities, B says what the government will import and provide, A says entrepreneurs can then buy them, and D gives the benefit: CBAD."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      To throw a fit
+    options:
+      A: Become unconscious
+      B: Caution someone about fitness
+      C: Express extreme anger
+      D: Faint and fall down
+    answer: C
+    explanation: "'To throw a fit' means to show sudden, extreme anger."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Derogatory
+    options:
+      A: Depreciating
+      B: Complimentary
+      C: Intricate
+      D: Insulting
+    answer: B
+    explanation: Derogatory means disrespectful or belittling; the opposite is complimentary.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Acknowledgement
+    options:
+      A: Confusion
+      B: Elimination
+      C: Compensation
+      D: Confirmation
+    answer: D
+    explanation: Acknowledgement means accepting or confirming something, i.e. confirmation.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q091
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      Those who follow a healthy routine is likely enjoying good health.
+    options:
+      A: good health
+      B: a healthy routine
+      C: is likely enjoying
+      D: Those who follow
+    answer: C
+    explanation: The plural subject 'Those' needs 'are likely to enjoy', not 'is likely enjoying'.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate word to fill in the blank.
+
+      The government should take stringent steps against terrorists and foil their ______ designs.
+    options:
+      A: exemplary
+      B: benevolent
+      C: conducive
+      D: malicious
+    answer: D
+    explanation: Terrorists' designs are malicious (meant to harm).
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Prodigal
+    options:
+      A: Trivial
+      B: Humble
+      C: Extravagant
+      D: Arrogant
+    answer: C
+    explanation: Prodigal means wastefully extravagant.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q094
+    difficulty: medium
+    stem: |-
+      In the sentence identify the segment which contains the grammatical error.
+
+      When I reached the cinema hall, the movie had already began.
+    options:
+      A: already began
+      B: the movie had
+      C: When I reached
+      D: the cinema hall
+    answer: A
+    explanation: "The past perfect needs the past participle: 'had already begun', not 'began'."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q095
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      His elder sister taught him English.
+    options:
+      A: He is being taught English by his elder sister.
+      B: His elder sister is taught English by him.
+      C: He has been taught English by his elder sister.
+      D: He was taught English by his elder sister.
+    answer: D
+    explanation: "A simple past active ('taught') becomes 'was taught' in the passive: He was taught English by his elder sister."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q096
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement.
+
+      The mathematical calculation of this problem is **easy than a** previous one.
+    options:
+      A: easy than the
+      B: easier than the
+      C: easiest than the
+      D: No Improvement
+    answer: B
+    explanation: A comparison of two things needs the comparative 'easier than', and the specific earlier problem takes 'the'.
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q097
+    difficulty: medium
+    stem: |-
+      Select the correct indirect form of the given sentence.
+
+      The teacher said to me, “You have not submitted the assignment.”
+    options:
+      A: The teacher said me that I had not submitted the assignment.
+      B: The teacher told to me that I have not submitted that assignment.
+      C: The teacher told me that I had not submitted the assignment.
+      D: The teacher said to me that I have not submitted the assignment.
+    answer: C
+    explanation: "'Said to' becomes 'told', 'you' becomes 'I', and the present perfect moves back to the past perfect: 'had not submitted'."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q098
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence.
+
+      No effort has been made by the Indian cricket team **to cash off on** its vibrant image in the World Cup.
+    options:
+      A: for cash through in
+      B: for cashing off on
+      C: to cash in on
+      D: to cash up on
+    answer: C
+    explanation: The phrasal verb is 'cash in on' (to take advantage of).
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q099
+    difficulty: medium
+    stem: Select the correctly spelt word.
+    options:
+      A: Veterinary
+      B: Rehersal
+      C: Employeed
+      D: Seperable
+    answer: A
+    explanation: "Correct forms: veterinary, rehearsal, employed, separable."
+    tags:
+      - english
+  - slug: cgl-2020-03-04-s2-q100
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. This is because of its aroma, flavour and variety in the market.
+      B. Thus, it leads to poor health and mental disorders among children.
+      C. Children as well as teenagers are tempted towards junk food.
+      D. It has no or negligible nutritional value and high content of sugar and salt.
+    options:
+      A: BCDA
+      B: ACDB
+      C: CADB
+      D: CDAB
+    answer: C
+    explanation: "C introduces children's craving for junk food, A explains why, D gives its drawback, and B gives the result: CADB."
+    tags:
+      - english

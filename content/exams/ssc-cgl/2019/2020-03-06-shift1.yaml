@@ -1,0 +1,1383 @@
+slug: 2020-03-06-shift1
+title: SSC CGL 2019 Tier 1
+date: 2020-03-06
+label: 6 Mar, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/06/04130005/SSC-CGL-QUESTION-PAPER-06-March-2020-Shift-1-E). Left out (picture-only options or incomplete in the source): Q13, Q18, Q24, Q25."
+questions:
+  - slug: cgl-2020-03-06-s1-q001
+    difficulty: medium
+    stem: Four words have been given, out of which three are alike in some manner and one is different. Select the odd word.
+    options:
+      A: Saxophone
+      B: Trumpet
+      C: Clarinet
+      D: Xylophone
+    answer: D
+    explanation: Saxophone, trumpet and clarinet are wind instruments; the xylophone is a percussion instrument.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the number that can replace the question mark (?) in the following series.
+
+      5, 10, 26, ? , 122, 170
+    options:
+      A: "77"
+      B: "50"
+      C: "82"
+      D: "65"
+    answer: B
+    explanation: "Each term is (prime)² + 1: 2²+1, 3²+1, 5²+1, 7²+1 = 50, 11²+1, 13²+1."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q003
+    difficulty: medium
+    stem: |-
+      Select the number that can replace the question mark (?) in the following series.
+
+      62, 66, 74, 90, ?
+    options:
+      A: "116"
+      B: "120"
+      C: "106"
+      D: "122"
+    answer: D
+    explanation: "The differences double: +4, +8, +16, +32. 90 + 32 = 122."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q004
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the given equation correct?
+
+      12 + 81 − 27 × 9 ÷ 3 − 36
+    options:
+      A: − and ÷
+      B: × and −
+      C: + and ×
+      D: ÷ and ×
+    answer: A
+    explanation: Reading the last sign as '=', swapping − and ÷ gives 12 + 81 ÷ 27 × 9 − 3 = 12 + 27 − 3 = 36.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q005
+    difficulty: medium
+    stem: |-
+      A + B means ‘A is the husband of B’;
+
+      A − B means ‘B is the sister of A’;
+
+      A × B means ‘A is the mother of B’;
+
+      A ÷ B means ‘B is the son of A’.
+
+      If, P + R × T − Q ÷ S + U, then how is P related to S?
+    options:
+      A: Uncle
+      B: Maternal grandfather
+      C: Father-in-law
+      D: Paternal grandfather
+    answer: B
+    explanation: P is R's husband and R is T's mother; Q is T's sister, so Q is P's daughter. S is Q's son, so P is S's maternal grandfather.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q006
+    difficulty: medium
+    stem: |-
+      In the given Venn diagram, the ‘rectangle’ represents ‘travellers who like to travel by plane’, the ‘circle’ represents ‘travellers who like to travel by bus’, and the ‘triangle’ ‘represents travellers who like to travel by train’. The numbers given in the diagram represent the number of travellers in that particular category.
+
+      How many travellers like to travel either by train or plane but NOT by bus?
+
+      *(Figure: Venn diagram of a rectangle (plane), a circle (bus) and a triangle (train). Numbers: circle only 10; circle and
+      triangle only 2; triangle only 11; circle and rectangle only 5; all three 9; triangle and rectangle only 6;
+      rectangle only 13.)*
+    options:
+      A: "27"
+      B: "36"
+      C: "30"
+      D: "29"
+    answer: C
+    explanation: Train or plane but not bus = triangle only (11) + rectangle only (13) + triangle-and-rectangle only (6) = 30.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q007
+    difficulty: medium
+    stem: |-
+      Select the letter-cluster that can replace the question mark (?) in the following series.
+
+      ADG, CGK, EJO, ? , IPW
+    options:
+      A: GNS
+      B: GMS
+      C: GMZ
+      D: GNZ
+    answer: B
+    explanation: The first letters move +2 (A, C, E, G, I), the second +3 (D, G, J, M, P), the third +4 (G, K, O, S, W). So GMS.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q008
+    difficulty: medium
+    stem: In a certain code language, 'DKQX' is written as 'WPJC'. How will 'AFKP' be written as in that language?
+    options:
+      A: ZUPK
+      B: ZUQJ
+      C: ZVQL
+      D: ZTOK
+    answer: A
+    explanation: Each letter is replaced by its opposite letter (A↔Z, D↔W, K↔P …). AFKP becomes ZUPK.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q009
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Select the symbol that will be on the face opposite to the one showing ‘ + ’.
+
+      *(Figure: Three views of one die (top, front, right): 1) top #, front @, right \$; 2) top %, front *, right @;
+      3) top #, front +, right %.)*
+    options:
+      A: "#"
+      B: \$
+      C: "*"
+      D: "@"
+    answer: D
+    explanation: "# touches @, \\$, % and +, so # is opposite *. @ touches #, \\$, % and *, so @ is opposite +."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q010
+    difficulty: medium
+    stem: |-
+      Select the option in which the words share the same relationship as that shared by the given pair of words.
+
+      North : South
+    options:
+      A: "Integrity : Honesty"
+      B: "Frown : Smile"
+      C: "Ductile : Bendable"
+      D: "Whole : Total"
+    answer: B
+    explanation: North and South are opposites, like frown and smile.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q011
+    difficulty: medium
+    stem: ‘Astronomy’ is related to ‘Stars’ in the same way as ‘Agronomy’ is related to ‘________’.
+    options:
+      A: Mines
+      B: Emotions
+      C: Crops
+      D: Planets
+    answer: C
+    explanation: Astronomy studies stars; agronomy is the science of crops and soil.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q012
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster.
+    options:
+      A: FBL
+      B: DDP
+      C: GCV
+      D: BJT
+    answer: C
+    explanation: In FBL, DDP and BJT the third letter's position is the product of the first two (6×2 = 12, 4×4 = 16, 2×10 = 20). In GCV, 7×3 = 21 ≠ V (22).
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q014
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. Assuming that the information given in the statements is true, even if it appears to be at variance with commonly known facts, decide which of the given conclusions logically follow(s) from the statements.
+
+      **Statements:**
+
+      1. Some machines are kites.
+      2. No machine is a pigeon.
+
+      **Conclusions:**
+
+      I. Some machines are pigeons.
+      II. All kites are pigeons.
+      III. Some kites are not pigeons.
+    options:
+      A: Only conclusions I and II follow.
+      B: Only conclusions I and III follow.
+      C: Only conclusion III follows.
+      D: Only conclusion II follows.
+    answer: C
+    explanation: Some machines are kites and no machine is a pigeon, so those kites are not pigeons. III follows; I and II do not.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q015
+    difficulty: medium
+    stem: |-
+      Arrange the following words in a logical and meaningful order.
+
+      1. Quadrillion
+      2. Quintillion
+      3. Million
+      4. Octillion
+      5. Trillion
+    options:
+      A: 4-3-5-1-2
+      B: 3-5-1-2-4
+      C: 2-3-5-1-4
+      D: 3-5-1-4-2
+    answer: B
+    explanation: "In ascending order: million, trillion, quadrillion, quintillion, octillion = 3-5-1-2-4."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q016
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 23 | 5 | 110 |
+      | 56 | 9 | 121 |
+      | 49 | 3 | ? |
+    options:
+      A: "77"
+      B: "111"
+      C: "95"
+      D: "113"
+    answer: A
+    explanation: "Third = (first + second) + its digits reversed: 23 + 5 = 28 and 28 + 82 = 110; 56 + 9 = 65 and 65 + 56 = 121; 49 + 3 = 52 and 52 + 25 = 77."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q017
+    difficulty: medium
+    stem: Four number-pairs have been given, out of which three are alike in some manner and one is different. Select the number-pair that is different from the rest.
+    options:
+      A: "11 : 121"
+      B: "17 : 289"
+      C: "13 : 169"
+      D: "15 : 250"
+    answer: D
+    explanation: 11² = 121, 17² = 289, 13² = 169, but 15² = 225, not 250.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q019
+    difficulty: medium
+    stem: In a certain group of men and horses, the total number of legs is 14 more than twice the number of heads. How many horses are there in the group?
+    options:
+      A: "7"
+      B: "11"
+      C: "5"
+      D: "9"
+    answer: A
+    explanation: Legs = 2 × heads + 2 × horses (each horse has 2 extra legs). So 2 × horses = 14, and there are 7 horses.
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q020
+    difficulty: medium
+    stem: |-
+      Select the letter that can replace the question mark (?) in the following series.
+
+      A, E, I, ? , Q, U
+    options:
+      A: O
+      B: K
+      C: N
+      D: M
+    answer: D
+    explanation: "Each letter is +4: A, E, I, M, Q, U."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q021
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A rectangle split by a vertical line into a larger left part and a smaller right part, with a horizontal line
+      across the whole rectangle near the bottom. One diagonal runs from the top-left corner of the rectangle to the
+      bottom of the vertical line; another runs from the bottom-left corner up to the top of the vertical line. A line
+      runs from a point on the top edge of the left part down to the bottom-right corner of the rectangle, and a line
+      runs from the top-right corner down to where that line crosses the horizontal line.)*
+    options:
+      A: "28"
+      B: "22"
+      C: "16"
+      D: "25"
+    answer: D
+    explanation: "Counting by the lines that form each triangle: 5 with both long diagonals, 4 with the diagonal and the line to the bottom-right corner, 2 near the top-right corner, and 14 made from one slanted line with one horizontal and one vertical line. Total 25."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q022
+    difficulty: medium
+    stem: In a certain code language, 'PAGE' is coded as '161495'. How will 'PART' be coded as in that language?
+    options:
+      A: "16125020"
+      B: "16128620"
+      C: "16132420"
+      D: "16136220"
+    answer: C
+    explanation: "PAGE: P = 16, A = 1, G = 7² = 49, E = 5. PART: 16, 1, R = 18² = 324, T = 20, giving 16132420."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q023
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      | | | |
+      |---|---|---|
+      | 15 | 3 | 24 |
+      | 21 | 6 | 30 |
+      | 49 | 5 | ? |
+    options:
+      A: "98"
+      B: "88"
+      C: "92"
+      D: "82"
+    answer: B
+    explanation: "Third = 2 × (first − second): 2(15 − 3) = 24, 2(21 − 6) = 30, 2(49 − 5) = 88."
+    tags:
+      - reasoning
+  - slug: cgl-2020-03-06-s1-q026
+    difficulty: medium
+    stem: Which of the following is the primary sex organ in females?
+    options:
+      A: Uterus
+      B: Ovary
+      C: Vagina
+      D: Fallopian tube
+    answer: B
+    explanation: The ovaries are the primary female sex organs (gonads). They produce eggs and hormones.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q027
+    difficulty: medium
+    stem: Which of the following diseases is NOT transmitted from one person to another?
+    options:
+      A: Cirrhosis
+      B: AIDS
+      C: Hepatitis B
+      D: Syphilis
+    answer: A
+    explanation: Cirrhosis is liver scarring and is not contagious. AIDS, hepatitis B and syphilis are infections passed between people.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q028
+    difficulty: medium
+    stem: Which International organisation released the ‘World Energy Outlook 2019’ Report?
+    options:
+      A: United Nations
+      B: International Energy Agency
+      C: World Trade Organisation
+      D: UNESCO
+    answer: B
+    explanation: The International Energy Agency publishes the annual World Energy Outlook.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q029
+    difficulty: medium
+    stem: The Supreme Court has declared access to the internet a fundamental right under Article ______ of the Indian Constitution.
+    options:
+      A: "19"
+      B: "14"
+      C: "21"
+      D: "17"
+    answer: A
+    explanation: In Anuradha Bhasin v. Union of India (January 2020), the Supreme Court held that freedom of speech and of trade over the internet is protected under Article 19(1)(a) and 19(1)(g).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q030
+    difficulty: medium
+    stem: Name the Indian wrestler who has been named the Junior Freestyle Wrestler of the year (2019) by United World Wrestling (UWW).
+    options:
+      A: B.P. Raju
+      B: Kamareddy
+      C: Amita Bagchi
+      D: Deepak Punia
+    answer: D
+    explanation: Deepak Punia was named UWW Junior Freestyle Wrestler of the Year for 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q031
+    difficulty: medium
+    stem: UN Women propose to partner with ______ gender park with an aim to secure gender parity in South Asia.
+    options:
+      A: Kerala’s
+      B: Rajasthan’s
+      C: Punjab’s
+      D: Haryana’s
+    answer: A
+    explanation: UN Women agreed to partner with the Gender Park in Kerala (Kozhikode) to work for gender equality in South Asia.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q032
+    difficulty: medium
+    stem: Which of the following is a natural flame retardant?
+    options:
+      A: RNA
+      B: Skin
+      C: DNA
+      D: Flowers
+    answer: C
+    explanation: "Research has shown that DNA acts as a natural flame retardant: when heated it gives off non-flammable gases and forms a protective char."
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q033
+    difficulty: medium
+    stem: Merchant discount rate refers to ______.
+    options:
+      A: the total discount a bank offers to the merchant for promoting online transactions
+      B: the rate charged to a merchant for payment processing services on debit and credit card transactions
+      C: the total discount a merchant offers on online transactions
+      D: only taxes that a digital payment entails
+    answer: B
+    explanation: Merchant Discount Rate is the fee a bank charges a merchant for processing debit and credit card payments.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q034
+    difficulty: medium
+    stem: Alyssa Healy who created a world record by becoming the highest scorer in women's T20I, belongs to ______.
+    options:
+      A: Japan
+      B: India
+      C: Canada
+      D: Australia
+    answer: D
+    explanation: Alyssa Healy is an Australian cricketer; her 148* (2019) was then the highest score in women's T20Is.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q035
+    difficulty: medium
+    stem: In the sequence of planets in the Solar system, which planet comes in between Mercury and Earth?
+    options:
+      A: Uranus
+      B: Venus
+      C: Jupiter
+      D: Mars
+    answer: B
+    explanation: The order is Mercury, Venus, Earth, so Venus lies between Mercury and Earth.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q036
+    difficulty: medium
+    stem: The SDG India index is developed by ______.
+    options:
+      A: Ministry of Home Affairs
+      B: World Bank
+      C: Ministry of Environmental, Forests and Climate Change
+      D: NITI Aayog
+    answer: D
+    explanation: NITI Aayog developed the SDG India Index (first released in 2018).
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q037
+    difficulty: medium
+    stem: Who performs the task of capturing oxygen in the blood?
+    options:
+      A: Chlorophyll
+      B: Haemoglobin
+      C: Red blood cells
+      D: White blood cells
+    answer: B
+    explanation: Haemoglobin in red blood cells binds oxygen and carries it in the blood.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q038
+    difficulty: medium
+    stem: If the inflation in an economy is rising steadily, the Central Bank might ______.
+    options:
+      A: keep the repo rate unchanged
+      B: decrease the repo rate
+      C: increase the repo rate
+      D: decrease the reverse repo rate
+    answer: C
+    explanation: To fight rising inflation the RBI raises the repo rate, which makes borrowing dearer and reduces the money supply.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q039
+    difficulty: medium
+    stem: Name the only metal that is antibacterial.
+    options:
+      A: Iron
+      B: Sodium
+      C: Copper
+      D: Aluminium
+    answer: C
+    explanation: Copper and its alloys kill bacteria on contact, so copper is the antibacterial metal among the options.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q040
+    difficulty: medium
+    stem: On which river and in which state is the Jayakwadi dam situated?
+    options:
+      A: Periyar river - Kerala
+      B: Banas river - Rajasthan
+      C: Ravi river - Punjab
+      D: Godavari river - Maharashtra
+    answer: D
+    explanation: Jayakwadi Dam is on the Godavari at Paithan in Maharashtra.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q041
+    difficulty: medium
+    stem: Who is the first General of the Indian Army, whose retirement day is celebrated as the 'Armed Forces Veterans Day' every year?
+    options:
+      A: General K.S. Thimayya
+      B: General S.M. Srinagesh
+      C: General Maharaj Rajendra Sinhji
+      D: General K. M. Cariappa
+    answer: D
+    explanation: Field Marshal K. M. Cariappa, the first Indian Commander-in-Chief, retired on 14 January 1953. Armed Forces Veterans Day is marked on 14 January.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q042
+    difficulty: medium
+    stem: Which Indian journalist was honoured with India's Most Powerful Woman in Media Award during the prestigious Confluence Excellence Award ceremony held in the British parliament on 27 September 2019?
+    options:
+      A: Kalli Puri
+      B: Anubha Bhonsle
+      C: Sunetra Chaudhary
+      D: Sona Choudhary
+    answer: A
+    explanation: Kalli Purie of the India Today Group received the 'India's Most Powerful Woman in Media' award at the Confluence Excellence Awards in the UK Parliament in September 2019.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q043
+    difficulty: medium
+    stem: Which of the following gases is consistently seen to be most abundant in a volcanic eruption?
+    options:
+      A: Water vapour
+      B: Carbon Dioxide
+      C: Sulphur Dioxide
+      D: Hydrogen Sulphide
+    answer: A
+    explanation: Water vapour is the most plentiful gas released in volcanic eruptions, followed by CO₂ and SO₂.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q044
+    difficulty: medium
+    stem: Mehrunnisa who was known as Nur Jahan was the wife of ______.
+    options:
+      A: Jahangir
+      B: Shah Jahan
+      C: Akbar
+      D: Aurangzeb
+    answer: A
+    explanation: Mehr-un-Nisa married Emperor Jahangir in 1611 and was given the title Nur Jahan.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q045
+    difficulty: medium
+    stem: Which leader gave us the C R Formula?
+    options:
+      A: Tilak
+      B: C. R. Das
+      C: Mahatma Gandhi
+      D: C. Rajagopalachari
+    answer: D
+    explanation: The C. R. Formula (1944), a Congress–League settlement plan, was put forward by C. Rajagopalachari.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q046
+    difficulty: medium
+    stem: Which of the following is the first South Asian country to call match-fixing a crime?
+    options:
+      A: Pakistan
+      B: India
+      C: Sri Lanka
+      D: Nepal
+    answer: C
+    explanation: In November 2019 Sri Lanka became the first South Asian country to make match-fixing a criminal offence.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q047
+    difficulty: medium
+    stem: To which of the following Indian states does Mardani Khel, one of the famous martial art forms in India belong?
+    options:
+      A: Maharashtra
+      B: Rajasthan
+      C: Uttar Pradesh
+      D: Madhya Pradesh
+    answer: A
+    explanation: Mardani Khel is the traditional armed martial art of Maharashtra.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q048
+    difficulty: medium
+    stem: In which year did D.C. Sircar publish Indian Epigraphy and Indian Epigraphical Glossary?
+    options:
+      A: 1966-67
+      B: 1967-68
+      C: 1965-66
+      D: 1964-65
+    answer: C
+    explanation: D. C. Sircar's 'Indian Epigraphy' appeared in 1965 and 'Indian Epigraphical Glossary' in 1966.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q049
+    difficulty: medium
+    stem: Madhavpur Mela takes place in ______.
+    options:
+      A: Uttar Pradesh
+      B: Maharashtra
+      C: Madhya Pradesh
+      D: Gujarat
+    answer: D
+    explanation: The Madhavpur Ghed Mela is held at Madhavpur near Porbandar in Gujarat.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q050
+    difficulty: medium
+    stem: When did the Vikrama Era begin?
+    options:
+      A: 57 BC
+      B: 55 BC
+      C: 50 BC
+      D: 47 BC
+    answer: A
+    explanation: The Vikrama Samvat (Vikram era) begins in 57 BC.
+    tags:
+      - general-awareness
+  - slug: cgl-2020-03-06-s1-q051
+    difficulty: medium
+    stem: "Two tangents PA and PB are drawn to a circle with centre O from an external point P. If ∠OAB = 30°, then ∠APB is:"
+    options:
+      A: 120°
+      B: 30°
+      C: 15°
+      D: 60°
+    answer: D
+    explanation: OA = OB, so ∠OBA = 30° and ∠AOB = 120°. In quadrilateral OAPB, ∠APB = 180° − 120° = 60°.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q052
+    difficulty: medium
+    stem: "ABC is an equilateral triangle. P, Q and R are the midpoints of sides AB, BC and CA, respectively. If the length of the side of the triangle ABC is 8 cm, then the area of ΔPQR is:"
+    options:
+      A: √3/3 cm²
+      B: √3/4 cm²
+      C: 4√3 cm²
+      D: 8√3 cm²
+    answer: C
+    explanation: "Area of ABC = (√3/4) × 64 = 16√3. The midpoint triangle has 1/4 of the area: 4√3 cm²."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q053
+    difficulty: medium
+    stem: |-
+      Solve the following.
+
+      sin40°/cos50° + cosec50°/sec40° − 4cos50° cosec40°
+    options:
+      A: "2"
+      B: −2
+      C: −1
+      D: "1"
+    answer: B
+    explanation: sin40°/cos50° = 1 and cosec50°/sec40° = cos40°/sin50° = 1, while 4cos50°·cosec40° = 4. So 1 + 1 − 4 = −2.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q054
+    difficulty: medium
+    stem: "The average of the marks of 30 boys is 88, and when the top two scores were excluded, the average marks reduced to 87.5. If the top two scores differ by 2, then the highest mark is:"
+    options:
+      A: "92"
+      B: "96"
+      C: "94"
+      D: "90"
+    answer: B
+    explanation: Top two total = 30 × 88 − 28 × 87.5 = 2640 − 2450 = 190. With a difference of 2 they are 96 and 94, so the highest is 96.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q055
+    difficulty: medium
+    stem: "If xcosA − ysinA = 1 and xsinA + ycosA = 4, then the value of 17x² + 17y² is:"
+    options:
+      A: "0"
+      B: "7"
+      C: "49"
+      D: "289"
+    answer: D
+    explanation: "Squaring and adding the two equations: x² + y² = 1 + 16 = 17. So 17(x² + y²) = 289."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q056
+    difficulty: medium
+    stem: |-
+      A circular disc of area 0.64π m² rolls down a length of 1.408 km. The number of revolutions it makes is:
+
+      (Take π = 22/7)
+    options:
+      A: "280"
+      B: "360"
+      C: "140"
+      D: "180"
+    answer: A
+    explanation: πr² = 0.64π, so r = 0.8 m and the circumference = 2 × 22/7 × 0.8 = 35.2/7 m. Revolutions = 1408 ÷ (35.2/7) = 280.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q057
+    difficulty: medium
+    stem: "An article was sold at a gain of 18%. If it had been sold for ₹49 more, then the gain would have been 25%. The cost price of the article is:"
+    options:
+      A: ₹700
+      B: ₹570
+      C: ₹650
+      D: ₹890
+    answer: A
+    explanation: ₹49 is the extra 25% − 18% = 7% of the cost, so the cost price = 49/0.07 = ₹700.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q058
+    difficulty: medium
+    stem: "If 3^a = 27^b = 81^c and abc = 144, then the value of 12(1/a + 1/(2b) + 1/(5c)) is:"
+    options:
+      A: 18/120
+      B: 18/10
+      C: 33/10
+      D: 17/120
+    answer: C
+    explanation: "a = 3b = 4c = k, and abc = k³/12 = 144, so k = 12: a = 12, b = 4, c = 3. 12(1/12 + 1/8 + 1/15) = 1 + 1.5 + 0.8 = 33/10."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q059
+    difficulty: medium
+    stem: "If a + b + c = 9 and ab + bc + ca = −22, then the value of a³ + b³ + c³ − 3abc is:"
+    options:
+      A: "783"
+      B: "1323"
+      C: "1571"
+      D: "487"
+    answer: B
+    explanation: a² + b² + c² = 81 + 44 = 125. The value = 9 × (125 + 22) = 1323.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q060
+    difficulty: medium
+    stem: "A shopkeeper marks the price of an article in such a way that after allowing a discount of 22%, he gets a gain of 11%. If the marked price is ₹888, then the cost price of the article is:"
+    options:
+      A: ₹624
+      B: ₹782
+      C: ₹550
+      D: ₹895
+    answer: A
+    explanation: SP = 888 × 0.78 = 692.64, so CP = 692.64/1.11 = ₹624.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q061
+    difficulty: medium
+    stem: |-
+      In the following table, the production of various crops (in tonnes) is given from 2015 to 2019. Study the table and answer the questions that follow.
+
+      | Year | Rice | Wheat | Sugarcane | Barley | Maize |
+      |---|---|---|---|---|---|
+      | 2015 | 415 | 2500 | 1000 | 975 | 490 |
+      | 2016 | 520 | 4218 | 1120 | 825 | 520 |
+      | 2017 | 585 | 3482 | 1250 | 700 | 610 |
+      | 2018 | 625 | 4500 | 1325 | 625 | 725 |
+      | 2019 | 600 | 3300 | 1450 | 775 | 840 |
+
+      The percentage growth of maize in the year 2019 over the year 2015 is:
+
+      (correct to two decimal places)
+    options:
+      A: 65.12%
+      B: 71.43%
+      C: 77.77%
+      D: 60.28%
+    answer: B
+    explanation: "Maize rose from 490 to 840: 350/490 × 100 = 71.43%."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q062
+    difficulty: medium
+    stem: "If the area of an equilateral triangle is 36√3 cm², then the perimeter of the triangle is:"
+    options:
+      A: 36√3 cm
+      B: 36 cm
+      C: 18√3 cm
+      D: 12 cm
+    answer: B
+    explanation: (√3/4)a² = 36√3 gives a = 12 cm, so the perimeter = 36 cm.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q063
+    difficulty: medium
+    stem: "If the value of (a + b − 2)² + (b + c − 5)² + (c + a − 5)² = 0, then the value of √((b + c)^a + (c + a)^b − 1) is:"
+    options:
+      A: "1"
+      B: "2"
+      C: "3"
+      D: "0"
+    answer: C
+    explanation: "Each bracket is 0: a + b = 2, b + c = 5, c + a = 5, so a = b = 1 and c = 4. √(5¹ + 5¹ − 1) = √9 = 3."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q064
+    difficulty: medium
+    stem: "If (2 sin A + cosec A) = 2√2, 0° < A < 90°, then the value of 2(sin⁴A + cos⁴A) is:"
+    options:
+      A: "2"
+      B: "1"
+      C: "4"
+      D: "0"
+    answer: B
+    explanation: 2s² − 2√2s + 1 = 0 is (√2s − 1)² = 0, so sinA = 1/√2 and A = 45°. 2(1/4 + 1/4) = 1.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q065
+    difficulty: medium
+    stem: |-
+      In the following table, the production of various crops (in tonnes) is given from 2015 to 2019. Study the table and answer the questions that follow.
+
+      | Year | Rice | Wheat | Sugarcane | Barley | Maize |
+      |---|---|---|---|---|---|
+      | 2015 | 415 | 2500 | 1000 | 975 | 490 |
+      | 2016 | 520 | 4218 | 1120 | 825 | 520 |
+      | 2017 | 585 | 3482 | 1250 | 700 | 610 |
+      | 2018 | 625 | 4500 | 1325 | 625 | 725 |
+      | 2019 | 600 | 3300 | 1450 | 775 | 840 |
+
+      The average production of wheat (in tonnes) in the period given in the table is:
+    options:
+      A: "3600"
+      B: "3482"
+      C: "3300"
+      D: "4218"
+    answer: A
+    explanation: Wheat total = 2500 + 4218 + 3482 + 4500 + 3300 = 18000. 18000/5 = 3600.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q066
+    difficulty: medium
+    stem: "A, B and C can individually complete a task in 24 days, 20 days and 18 days, respectively. B and C start the task, and they work for 6 days and leave. The number of days required by A alone to finish the remaining task, is:"
+    options:
+      A: 15 2/3 days
+      B: 12 1/2 days
+      C: 8 4/5 days
+      D: 10 days
+    answer: C
+    explanation: B and C do 6(1/20 + 1/18) = 19/30 in 6 days. A needs 11/30 × 24 = 8.8 = 8 4/5 days for the rest.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q067
+    difficulty: medium
+    stem: What will be the difference in compound interest on a sum of ₹7,800 at 8% for 1 year, when the interest is paid yearly and half yearly?
+    options:
+      A: ₹29.18
+      B: ₹12.48
+      C: ₹24.72
+      D: ₹19.46
+    answer: B
+    explanation: Yearly CI = 624. Half-yearly CI = 7800(1.04² − 1) = 636.48. Difference = ₹12.48.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q068
+    difficulty: medium
+    stem: |-
+      In the following table, the production of various crops (in tonnes) is given from 2015 to 2019. Study the table and answer the questions that follow.
+
+      | Year | Rice | Wheat | Sugarcane | Barley | Maize |
+      |---|---|---|---|---|---|
+      | 2015 | 415 | 2500 | 1000 | 975 | 490 |
+      | 2016 | 520 | 4218 | 1120 | 825 | 520 |
+      | 2017 | 585 | 3482 | 1250 | 700 | 610 |
+      | 2018 | 625 | 4500 | 1325 | 625 | 725 |
+      | 2019 | 600 | 3300 | 1450 | 775 | 840 |
+
+      The difference (in tonnes) between the average production of barley and average production of rice is:
+    options:
+      A: "231"
+      B: "780"
+      C: "549"
+      D: "471"
+    answer: A
+    explanation: Average barley = 3900/5 = 780; average rice = 2745/5 = 549. 780 − 549 = 231.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q069
+    difficulty: medium
+    stem: "If ‘+’ means ‘−’, ‘−’ means ‘+’, ‘×’ means ‘÷’ and ‘÷’ means ‘×’, then the value of [(30×5)+(84×6)]÷5 / ([2/3÷18]−[4÷2]) is:"
+    options:
+      A: "-2"
+      B: "2"
+      C: "-1"
+      D: "1"
+    answer: A
+    explanation: "After swapping the signs: [(30 ÷ 5) − (84 ÷ 6)] × 5 = −40, and (2/3 × 18) + (4 × 2) = 20. −40/20 = −2."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q070
+    difficulty: medium
+    stem: A student takes 1.25 hours to travel from home to school at a speed of 4 km/h. By what percentage should he increase his speed to reduce the time by 25% to cover the same distance from school to home?
+    options:
+      A: 33 1/3%
+      B: 50%
+      C: 45%
+      D: 25%
+    answer: A
+    explanation: "Time falls to 3/4, so speed must become 4/3 of the original: an increase of 33 1/3%."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q071
+    difficulty: medium
+    stem: "If a sum of ₹1,180 is to be divided among A, B and C, such that 2 times A’s share, 5 times B’s share and 7 times C’s share, are equal, then A’s share is:"
+    options:
+      A: ₹500
+      B: ₹750
+      C: ₹650
+      D: ₹700
+    answer: D
+    explanation: "2A = 5B = 7C = k, so A : B : C = 1/2 : 1/5 : 1/7 = 35 : 14 : 10. A = 1180 × 35/59 = ₹700."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q072
+    difficulty: medium
+    stem: "If the number 687x29 is divisible by 9, then the value of 2x is:"
+    options:
+      A: "8"
+      B: "3"
+      C: "2"
+      D: "4"
+    answer: A
+    explanation: The digit sum 32 + x must be a multiple of 9, so x = 4 and 2x = 8.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q073
+    difficulty: medium
+    stem: "The population of a city increased by 30% in the first year and decreased by 15% in the next year. If the present population is 11,050 then the population 2 years ago was:"
+    options:
+      A: 10,000
+      B: 99,500
+      C: 99,000
+      D: 10,050
+    answer: A
+    explanation: P × 1.30 × 0.85 = 1.105P = 11,050, so P = 10,000.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q074
+    difficulty: medium
+    stem: |-
+      In the following table, the production of various crops (in tonnes) is given from 2015 to 2019. Study the table and answer the questions that follow.
+
+      | Year | Rice | Wheat | Sugarcane | Barley | Maize |
+      |---|---|---|---|---|---|
+      | 2015 | 415 | 2500 | 1000 | 975 | 490 |
+      | 2016 | 520 | 4218 | 1120 | 825 | 520 |
+      | 2017 | 585 | 3482 | 1250 | 700 | 610 |
+      | 2018 | 625 | 4500 | 1325 | 625 | 725 |
+      | 2019 | 600 | 3300 | 1450 | 775 | 840 |
+
+      The highest growth of sugarcane production over its previous year is recorded in the year:
+    options:
+      A: "2018"
+      B: "2016"
+      C: "2019"
+      D: "2017"
+    answer: B
+    explanation: "Sugarcane growth: 2016 12%, 2017 11.6%, 2018 6%, 2019 9.4%. The highest is 2016."
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q075
+    difficulty: medium
+    stem: A metallic sphere of diameter 40 cm is melted into smaller spheres of radius 0.5 cm. How many such small balls can be made?
+    options:
+      A: 32,000
+      B: "3200"
+      C: 64,000
+      D: "6400"
+    answer: C
+    explanation: Number of balls = (R/r)³ = (20/0.5)³ = 40³ = 64,000.
+    tags:
+      - quant
+  - slug: cgl-2020-03-06-s1-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Persist
+    options:
+      A: Remain
+      B: Cease
+      C: Insist
+      D: Continue
+    answer: B
+    explanation: Persist means continue; the opposite is cease.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words/phrase.
+
+      Having two opposing feelings at the same time
+    options:
+      A: Equivalent
+      B: Coinciding
+      C: Contemporary
+      D: Ambivalent
+    answer: D
+    explanation: Ambivalent means having mixed or opposing feelings at the same time.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement.
+
+      We came back because **we had ran** out of money.
+    options:
+      A: No improvement
+      B: we have ran
+      C: we had run
+      D: we run
+    answer: C
+    explanation: "The past perfect takes the past participle: 'had run', not 'had ran'."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q079
+    difficulty: medium
+    stem: |-
+      Identify the segment in the sentence which contains the grammatical error. If there is no error, select 'No error'
+
+      Those who are late they will not be allowed inside the classroom.
+    options:
+      A: Those who are late
+      B: they will not be allowed
+      C: inside the classroom
+      D: No error
+    answer: B
+    explanation: The subject 'Those who are late' already exists, so the extra pronoun 'they' is wrong.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q080
+    difficulty: medium
+    stem: |-
+      Select the correct indirect form of the given sentence.
+
+      "What a rare flower!" she said.
+    options:
+      A: She exclaimed what a rare flower it is.
+      B: She exclaimed that it was a very rare flower.
+      C: She asked if it was a rare flower.
+      D: She told that what a rare flower it was.
+    answer: B
+    explanation: "An exclamation is reported with 'exclaimed that' and a statement: 'it was a very rare flower'."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the correct passive form of the given sentence.
+
+      The farmer is ploughing the fields.
+    options:
+      A: The fields have been ploughed by the farmer.
+      B: The fields are being ploughed by the farmer.
+      C: The fields were ploughed by the farmer.
+      D: The fields are ploughed by the farmer.
+    answer: B
+    explanation: "Present continuous active becomes 'are being + past participle': The fields are being ploughed by the farmer."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q082
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Atlas was made to hold the sky up on his shoulders as a punishment. Once, Hercules (1)______ to hold it for Atlas while the latter went looking (2)______ golden apples. When Atlas returned, he saw Hercules (3)______ hard to hold the sky. The weight of the sky (4)______ Hercules sweat and groan. Now Atlas did not want to (5)______ a job as arduous as that!
+
+      Select the most appropriate option to fill in blank 1.
+    options:
+      A: afforded
+      B: offered
+      C: extended
+      D: ordered
+    answer: B
+    explanation: Hercules offered (volunteered) to hold the sky for Atlas.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q083
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Atlas was made to hold the sky up on his shoulders as a punishment. Once, Hercules (1)______ to hold it for Atlas while the latter went looking (2)______ golden apples. When Atlas returned, he saw Hercules (3)______ hard to hold the sky. The weight of the sky (4)______ Hercules sweat and groan. Now Atlas did not want to (5)______ a job as arduous as that!
+
+      Select the most appropriate option to fill in blank 2.
+    options:
+      A: at
+      B: for
+      C: on
+      D: after
+    answer: B
+    explanation: The phrase is 'looking for' (searching for) the golden apples.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q084
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Atlas was made to hold the sky up on his shoulders as a punishment. Once, Hercules (1)______ to hold it for Atlas while the latter went looking (2)______ golden apples. When Atlas returned, he saw Hercules (3)______ hard to hold the sky. The weight of the sky (4)______ Hercules sweat and groan. Now Atlas did not want to (5)______ a job as arduous as that!
+
+      Select the most appropriate option to fill in blank 3.
+    options:
+      A: tackling
+      B: struggling
+      C: seeking
+      D: coping
+    answer: B
+    explanation: He saw Hercules struggling hard to hold the sky.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q085
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Atlas was made to hold the sky up on his shoulders as a punishment. Once, Hercules (1)______ to hold it for Atlas while the latter went looking (2)______ golden apples. When Atlas returned, he saw Hercules (3)______ hard to hold the sky. The weight of the sky (4)______ Hercules sweat and groan. Now Atlas did not want to (5)______ a job as arduous as that!
+
+      Select the most appropriate option to fill in blank 4.
+    options:
+      A: make
+      B: were making
+      C: was making
+      D: has made
+    answer: C
+    explanation: A singular subject ('the weight') in a past narrative takes 'was making'.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q086
+    difficulty: medium
+    stem: |-
+      **Comprehension:**
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each blank.
+
+      Atlas was made to hold the sky up on his shoulders as a punishment. Once, Hercules (1)______ to hold it for Atlas while the latter went looking (2)______ golden apples. When Atlas returned, he saw Hercules (3)______ hard to hold the sky. The weight of the sky (4)______ Hercules sweat and groan. Now Atlas did not want to (5)______ a job as arduous as that!
+
+      Select the most appropriate option to fill in blank 5.
+    options:
+      A: take out
+      B: take in
+      C: take away
+      D: take back
+    answer: D
+    explanation: Atlas did not want to take back (resume) such a hard job.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Chicken-hearted
+    options:
+      A: Cowardly
+      B: Generous
+      C: Miserly
+      D: Selfish
+    answer: A
+    explanation: Chicken-hearted means cowardly.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q088
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. The mountain range was covered with snow.
+      B. Napoleon had to cross the Alps in winter.
+      C. Napoleon replied that the word 'impossible' did not exist for him.
+      D. So, someone told Napoleon that the task was impossible.
+    options:
+      A: DBCA
+      B: BADC
+      C: ADBC
+      D: BDCA
+    answer: B
+    explanation: "B states the task, A describes the snowy Alps, D says someone called it impossible, and C gives Napoleon's reply: BADC."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Preferred
+    options:
+      A: Adored
+      B: Favoured
+      C: Feared
+      D: Compared
+    answer: B
+    explanation: Preferred means liked better, i.e. favoured.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Ovation
+    options:
+      A: Creation
+      B: Applause
+      C: Preparation
+      D: Censure
+    answer: B
+    explanation: An ovation is sustained applause.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      She ______ how the magician had performed the rope trick.
+    options:
+      A: puzzled
+      B: bewildered
+      C: suspected
+      D: wondered
+    answer: D
+    explanation: "'Wondered how…' expresses curiosity about how something was done."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence. If there is no need to substitute it, select No improvement.
+
+      When it started raining, I ran to **the nearer house** for shelter.
+    options:
+      A: the nearest house
+      B: a near house
+      C: the near house
+      D: No improvement
+    answer: A
+    explanation: Among many houses the superlative 'the nearest house' is needed.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q093
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Abandon
+      B: Acquaintence
+      C: Alliance
+      D: Acquisition
+    answer: B
+    explanation: The correct spelling is 'acquaintance'.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q094
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Out of the given options pick the one that gives their correct order.
+
+      A. Much of this war had taken place along the Western Front.
+      B. Both sides had dug in deep and each lost many men over little ground.
+      C. This front was a line of trenches across which the two sides faced each other.
+      D. Andre Maginot had fought a war with the French against the Germans.
+    options:
+      A: BCDA
+      B: ACDB
+      C: DACB
+      D: DBCA
+    answer: C
+    explanation: "D introduces Maginot's war, A says it was fought on the Western Front, C describes that front, and B describes trench warfare: DACB."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      By and by
+    options:
+      A: Suddenly
+      B: Gradually
+      C: On the whole
+      D: By any means
+    answer: B
+    explanation: "'By and by' means gradually or after a while."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q096
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Glee
+    options:
+      A: Bliss
+      B: Joy
+      C: Fun
+      D: Woe
+    answer: D
+    explanation: Glee means great delight; its opposite is woe.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q097
+    difficulty: medium
+    stem: |-
+      Identify the segment in the sentence which contains the grammatical error. If there is no error, select 'No error'
+
+      Everyone except she have travelled by air.
+    options:
+      A: travelled by air
+      B: she have
+      C: No error
+      D: Everyone except
+    answer: B
+    explanation: "After the preposition 'except' the object form 'her' is needed, and 'Everyone' takes 'has': 'Everyone except her has travelled'."
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q098
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The roof of the old building ______ during the storm.
+    options:
+      A: collapsed
+      B: scratched
+      C: destroyed
+      D: demolished
+    answer: A
+    explanation: A roof collapses (falls in) in a storm; 'demolished' and 'destroyed' need an agent.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q099
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words/phrase.
+
+      A group of ships
+    options:
+      A: fleet
+      B: squad
+      C: colony
+      D: swarm
+    answer: A
+    explanation: A group of ships is a fleet.
+    tags:
+      - english
+  - slug: cgl-2020-03-06-s1-q100
+    difficulty: medium
+    stem: Select the wrongly spelt word.
+    options:
+      A: Piece
+      B: Fierce
+      C: Sieze
+      D: Grief
+    answer: C
+    explanation: The correct spelling is 'seize'.
+    tags:
+      - english
