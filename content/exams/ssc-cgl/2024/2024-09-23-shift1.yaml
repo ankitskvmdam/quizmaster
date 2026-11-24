@@ -1,0 +1,1382 @@
+slug: 2024-09-23-shift1
+title: SSC CGL 2024 Tier 1
+date: 2024-09-23
+label: 23 Sept, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07115232/SSC-CGL-Tier-1-Question-Paper-En). Left out (picture-only options or incomplete in the source): Q3, Q13, Q19, Q20, Q80."
+questions:
+  - slug: cgl-2024-09-23-s1-q001
+    difficulty: medium
+    stem: "Based on the position in the English alphabetical order, three of the following letter-clusters are alike in some manner and one is different. Select the odd letter-cluster. Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster."
+    options:
+      A: PSKI
+      B: TWGD
+      C: JMQN
+      D: MPNK
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q002
+    difficulty: medium
+    stem: |-
+      Which of the following terms will replace the question mark (?) in the given series?
+
+      JHOQ, NFSO, ? , VBAK, ZZEI
+    options:
+      A: RCWM
+      B: RCXM
+      C: RDMW
+      D: RDWM
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the number that will come in the place of the question mark(?), if ‘+’ and ‘ – ‘ are interchanged and ‘×’ and ‘÷’ are interchanged
+
+      63 × 7 ÷ 13 – 64 + 42 = ?
+    options:
+      A: "139"
+      B: "131"
+      C: "144"
+      D: "124"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q005
+    difficulty: medium
+    stem: In a certain code language, 'RADIO' is written as 'SZEHP' and 'FREQUENCY' is written as 'GQFPVDOBZ'. How will 'TELEVISION' be written in that language?
+    options:
+      A: UDMDWHTHPM
+      B: UDMDWHTHOM
+      C: UDMDWHTHPN
+      D: UDMDWHHTPM
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q006
+    difficulty: medium
+    stem: |-
+      Three of the following numbers are alike in a certain way and one is different. Pick the odd one out.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+    options:
+      A: 18 – 11 – 63
+      B: 12 – 8 – 36
+      C: 21 – 14 – 72
+      D: 15 – 3 – 108
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q007
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that, when placed from left to right in the blanks below, will complete the letter series.
+
+      S _ Y A _ F I K M _ S U W
+    options:
+      A: UCP
+      B: VCP
+      C: VCQ
+      D: VBP
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q008
+    difficulty: medium
+    stem: |-
+      Find the correct combination of letters that when sequentially filled in the blanks of the given series will make the series logically complete.
+
+      ABF_HI_NOP_U_WABCDH_
+    options:
+      A: GMSVI
+      B: GMTUI
+      C: GMTVI
+      D: IMTVI
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q009
+    difficulty: medium
+    stem: |-
+      Six letters P, J, U, W, L and K are written on different faces of a dice. Two positions of this dice are shown in the figures below. Find the letter on the face opposite to P.
+
+      *(Figure: Two views of a dice. View 1: top P, left J, right U. View 2: top W, left J, right L.)*
+    options:
+      A: K
+      B: W
+      C: U
+      D: J
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q010
+    difficulty: medium
+    stem: |-
+      Select the triad in which the numbers are related in the same way as are the numbers of the given triads.
+
+      (25, 22, 47), (31, 24, 55)
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: (17, 15, 22)
+      B: (22, 19, 45)
+      C: (18, 21, 39)
+      D: (27, 25, 42)
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q011
+    difficulty: medium
+    stem: The position of how many letters will remain unchanged if all the letters in the word MOBILE are arranged in English alphabetical order?
+    options:
+      A: Three
+      B: One
+      C: None
+      D: Two
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q012
+    difficulty: medium
+    stem: |-
+      What will come in the place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged?
+
+      25 + 3 ÷ 9 −14 × 2 = ?
+    options:
+      A: "5"
+      B: "7"
+      C: "12"
+      D: "0"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q014
+    difficulty: medium
+    stem: |-
+      Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.
+
+      (The words must be considered as meaningful English words and must NOT be related to each other based on the number of letters/number of consonants/vowels in the word)
+
+      France : Gallic Rooster
+    options:
+      A: "New Zealand : Hornbill"
+      B: "Australia : Emu"
+      C: "Germany : Swan"
+      D: "India : Eagle"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q015
+    difficulty: medium
+    stem: "12 is related to 235 by certain logic. Following the same logic, 14 is related to 287. To which of the following is 18 related, following the same logic? (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)"
+    options:
+      A: "512"
+      B: "415"
+      C: "438"
+      D: "320"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q016
+    difficulty: medium
+    stem: |-
+      Select the option that can replace the question mark (?) in the following series.
+
+      BH14, CJ17, DL20, EN23, ?
+    options:
+      A: FP26
+      B: GO24
+      C: GP26
+      D: FO24
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q017
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are given. Find the number on the face opposite to the face showing ‘2’.
+
+      *(Figure: Three views of a dice. View 1: top 3, left 5, right 4. View 2: top 3, left 4, right 6. View 3: top 2, left 1, right 6.)*
+    options:
+      A: "6"
+      B: "4"
+      C: "3"
+      D: "1"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q018
+    difficulty: medium
+    stem: All the alphabets in the word ‘DICTIONARY’ are arranged in the alphabetical order. How many alphabets are there in the English alphabetical series between the alphabet which is fourth from the left end and the one which is second from the right end in the newly formed letter-cluster?
+    options:
+      A: "12"
+      B: "9"
+      C: "11"
+      D: "10"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q021
+    difficulty: medium
+    stem: |-
+      How many squares are there in the given figure?
+
+      *(Figure: A figure built from squares: a small tilted square (diamond) inside a square at the top-left, overlapping a larger rectangle made of small squares, with triangles and diagonal lines at the right edge and at the bottom.)*
+    options:
+      A: "14"
+      B: "12"
+      C: "11"
+      D: "15"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q022
+    difficulty: medium
+    stem: In a certain code language, ‘BOTH’ is written as ‘DQVJ’ and ‘DARE’ is written as ‘FCTG’ How will ‘WILL’ be written in that language?
+    options:
+      A: YJMN
+      B: YKNN
+      C: XJMM
+      D: XKNM
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q023
+    difficulty: medium
+    stem: |-
+      If
+
+      ‘A & Z’ means ‘A is the brother of Z’,
+
+      ‘A # Z’ means ‘A is the sister of Z’,
+
+      ‘A ^ Z’ means ‘A is the brother of Z’s father’,
+
+      ‘A @ Z’ means ‘A is the wife of Z’,
+
+      ‘A % Z’ means ‘A is the mother of Z’,
+
+      ‘A α Z’ means ‘A is the father of Z’,
+
+      then how is J related to Z in the following expression?
+
+      J % K # L @ M α N & Z
+    options:
+      A: Father’s mother
+      B: Mother
+      C: Mother’s mother
+      D: Mother’s sister
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q024
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      389, 420, 457, 498, 541, ?
+    options:
+      A: "572"
+      B: "584"
+      C: "588"
+      D: "598"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q025
+    difficulty: medium
+    stem: |-
+      Select the option in which the numbers share the same relationship as that shared by the given pair of numbers.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      40 : 123
+
+      63 : 192
+    options:
+      A: "48 : 152"
+      B: "46 : 131"
+      C: "68 : 214"
+      D: "39 : 120"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-23-s1-q026
+    difficulty: medium
+    stem: Which of the following is related to neem?
+    options:
+      A: Pinnately
+      B: Palmately
+      C: Spines
+      D: Tendril
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q027
+    difficulty: medium
+    stem: For which film did Asha Bhosle win the International Indian Film Academy (IIFA) Award in the Best Playback Singer Female category in 2002?
+    options:
+      A: Devdas
+      B: Humraz
+      C: Om Jai Jagdish
+      D: Lagaan
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q028
+    difficulty: medium
+    stem: What is the duration of monsoon in India?
+    options:
+      A: 100-120 days
+      B: 150-200 days
+      C: 40-60 days
+      D: 50-80 days
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q029
+    difficulty: medium
+    stem: The northern plain of the Indian subcontinent has been formed by the interplay of the three major river systems along with their tributaries. Choose the odd one out of the options given.
+    options:
+      A: The Indus
+      B: The Brahmaputra
+      C: The Ganga
+      D: The Godavari
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q030
+    difficulty: medium
+    stem: Which of the following is mentioned in Article 1 of the Indian constitution?
+    options:
+      A: India that is Bharat as parliamentary democracy
+      B: India that is Bharat as federation of states
+      C: India that is Bharat shall be a Union of states
+      D: India that is Bharat as presidential form of democracy
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q031
+    difficulty: medium
+    stem: Who holds the record for the longest long jump in India as of 2023?
+    options:
+      A: Murali S
+      B: Nayana James
+      C: Jeswin aldrin
+      D: TC Yohannan
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q032
+    difficulty: medium
+    stem: Name the phenomenon where an opaque object on the path of light becomes very small and where light has a tendency to bend around it and not walk in a straight line.
+    options:
+      A: Reflection of light
+      B: Angle of incidence
+      C: Diffraction of light
+      D: Angle of refraction
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q033
+    difficulty: medium
+    stem: Articles 52 to 78 in Part V of the Indian Constitution deal with __________.
+    options:
+      A: National emergency
+      B: Amendment of the Constitution
+      C: Finance Commission of India
+      D: Union Executive
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q034
+    difficulty: medium
+    stem: What is the position of India in the world’s telecommunication market, as of March 2024?
+    options:
+      A: Fourth
+      B: Second
+      C: Third
+      D: First
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q035
+    difficulty: medium
+    stem: "The National Youth Policy was launched in:"
+    options:
+      A: "2015"
+      B: "2014"
+      C: "2013"
+      D: "2012"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q036
+    difficulty: medium
+    stem: Who among the following was the President of the Belgaum Session of the Indian National Congress held in 1924?
+    options:
+      A: Vallabhbhai Patel
+      B: Mahatma Gandhi
+      C: Subhas Chandra Bose
+      D: Jawaharlal Nehru
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q037
+    difficulty: medium
+    stem: Ali Akbar Khan is known for playing the ________.
+    options:
+      A: Ektara
+      B: Sarangi
+      C: Tanpura
+      D: Sarod
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q038
+    difficulty: medium
+    stem: |-
+      Consider the following statements related to the Online Dispute Resolution (ODR) handbook.
+
+      1.It will be launched by the Ministry of Science and Technology.
+
+      2.ODR is the resolution for cases outside courts using digital technology and techniques of Alternative Dispute Resolution (ADR), such as negotiation, mediation and arbitration.
+
+      3.The development of ICT and increased use of internet has played a major role for ODR.
+
+      Which of the given statements is/are correct?
+    options:
+      A: Only 2 and 3
+      B: Only 1 and 3
+      C: Only 2
+      D: Only 1
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q039
+    difficulty: medium
+    stem: The Flexible Inflation Targeting Framework (FITF) was introduced in India post the amendment of the Reserve Bank of India (RBI) Act, 1934 in __________.
+    options:
+      A: "2010"
+      B: "2014"
+      C: "2016"
+      D: "2020"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q040
+    difficulty: medium
+    stem: The government of which of the following states allocated ₹11,728 crore for the Aasara pension scheme in its annual budget for the fiscal year 2022-23?
+    options:
+      A: Telangana
+      B: Odisha
+      C: Chhattisgarh
+      D: Gujarat
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q041
+    difficulty: medium
+    stem: ‘Atla Taddi’ is the widely celebrated festival of which Indian state?
+    options:
+      A: West Bengal
+      B: Bihar
+      C: Punjab
+      D: Andhra Pradesh
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q042
+    difficulty: medium
+    stem: Which national park in the Andaman and Nicobar Islands is home to species like Megapode, crab-eating Macaque, Nicobar Pigeon, and Giant Robber Crab?
+    options:
+      A: Campbell Bay National Park
+      B: Raimona National Park
+      C: Mouling National Park
+      D: Papikonda National Park
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q043
+    difficulty: medium
+    stem: The Permanent Settlement came into operation in which of the following years?
+    options:
+      A: "1793"
+      B: "1890"
+      C: "1789"
+      D: "1790"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q044
+    difficulty: medium
+    stem: Which part of the Constitution deals with the Panchayats?
+    options:
+      A: Part IV
+      B: Part X
+      C: Part IX
+      D: Part VII
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q045
+    difficulty: medium
+    stem: Which of the following battles was fought between Babur and Rana Sanga in 1527?
+    options:
+      A: Battle of Chanderi
+      B: Battle of Bayana
+      C: Battle of Khanwa
+      D: Second battle of Panipat
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q046
+    difficulty: medium
+    stem: Which among the following was NOT a part of the three sections of the Rigvedic tribe?
+    options:
+      A: Warriors
+      B: Priests
+      C: Ordinary people
+      D: Craftsman
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q047
+    difficulty: medium
+    stem: |-
+      Which of the following statements is/are correct?
+
+      i. The first green revolution led to over-exploitation of natural resources.
+
+      ii. The second Green Revolution was more focused on Southern India.
+
+      iii. The second green revolution ensured in achieving sustainable livelihood security.
+    options:
+      A: Only ii
+      B: i and ii
+      C: ii and iii
+      D: i and iii
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q048
+    difficulty: medium
+    stem: In which of the following states of India is Hojagiri dance predominantly performed?
+    options:
+      A: Kerala
+      B: Maharashtra
+      C: Tripura
+      D: Himachal Pradesh
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q049
+    difficulty: medium
+    stem: "A chemical reaction in which the rate of reaction is directly proportional to the first power of the concentration of the reacting substance is called:"
+    options:
+      A: second order reaction
+      B: first order reaction
+      C: zero order reaction
+      D: third order reaction
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q050
+    difficulty: medium
+    stem: Where was the 1st World Cup of Kabaddi organised in 2004?
+    options:
+      A: Hyderabad
+      B: Mumbai
+      C: Punjab
+      D: Kolkata
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-23-s1-q051
+    difficulty: medium
+    stem: 10 years ago, the age of Sunita was thrice the age of her daughter Tanya. 10 years hence, the age of Sunita will be twice the age of Tanya. What is the ratio of their present ages?
+    options:
+      A: "2 : 7"
+      B: "7 : 2"
+      C: "7 : 3"
+      D: "3 : 7"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q052
+    difficulty: medium
+    stem: A thief is noticed by a policeman from a distance of 92 m. The thief starts running and the policeman chases him. The thief and the policeman run at the speed of 90 km/h and 104.4 km/h, respectively. In how much time will the policeman catch the thief?
+    options:
+      A: 21 seconds
+      B: 26 seconds
+      C: 22 seconds
+      D: 23 seconds
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q053
+    difficulty: medium
+    stem: R targets to score 85% marks in exams. He scores 450 marks and misses the target by 35%. How much increment in percentage should be there in his scored marks to meet the target?
+    options:
+      A: "53"
+      B: "45"
+      C: "70"
+      D: "35"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q054
+    difficulty: medium
+    stem: |-
+      Study the given bar-graph and answer the question that follows.
+
+      | Country | Bhutan | Japan | Nepal | Australia | USA | India |
+      |---|---|---|---|---|---|---|
+      | Number of Engineers | 20 | 55 | 25 | 65 | 85 | 98 |
+
+      What is the ratio of the number of engineers of countries with an above average to the number of engineers of countries with a below average?
+
+      *(Figure: Bar graph: Number of Engineers by Country. Bhutan 20, Japan 55, Nepal 25, Australia 65, USA 85, India 98.)*
+    options:
+      A: 62/25
+      B: 2/1
+      C: 1/1
+      D: 39/71
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q055
+    difficulty: medium
+    stem: |-
+      Simplify.
+
+      [(232)³ + (140)³ + (353)³ − 3 × 232 × 140 × 353] / [(232)² + (140)² + (353)² − 232 × 140 − 140 × 353 − 353 × 232]
+    options:
+      A: "725"
+      B: "596"
+      C: "445"
+      D: "261"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q056
+    difficulty: medium
+    stem: In the following sets, which set represents the sides of a right-angled triangle?
+    options:
+      A: "{5, 10, 12}"
+      B: "{3, 4, 6}"
+      C: "{5, 12, 13}"
+      D: "{8, 15, 16}"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q057
+    difficulty: medium
+    stem: |-
+      Simplify
+
+      6 × [28 ÷ 84 × {36 × 49 ÷ (6 × 7)}].
+    options:
+      A: "94"
+      B: "84"
+      C: "64"
+      D: "74"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q058
+    difficulty: medium
+    stem: "The difference between the simple interests on the principal of ₹500 at an interest rate of 5% per annum for 3 years and 4% per annum for 4 years is:"
+    options:
+      A: ₹15
+      B: ₹5
+      C: ₹7.5
+      D: ₹10
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q059
+    difficulty: medium
+    stem: Aman has certain number of notes of denomination ₹20 and ₹10 which amount to ₹390. If the numbers of notes of each kind are interchanged, then the new amount is ₹90 less than before. Find the number of notes of ₹20 denomination.
+    options:
+      A: "16"
+      B: "14"
+      C: "15"
+      D: "12"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q060
+    difficulty: medium
+    stem: Which of the following are the angles of a scalene triangle?
+    options:
+      A: 60°, 30° and 90°
+      B: 110°, 35° and 35°
+      C: 60°, 60° and 60°
+      D: 90°, 45° and 45°
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q061
+    difficulty: medium
+    stem: For two circles of radius 7 units and 7/2 units, whose centres are 15 units apart, what is the length of the direct common tangent in units? (Correct to 3 decimal places.)
+    options:
+      A: "14.586"
+      B: "18.654"
+      C: "16.584"
+      D: "15.486"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q062
+    difficulty: medium
+    stem: A tank can be filled by pipe A in 4 hours and pipe B in 6 hours. At 8:00 a.m., pipe A was opened. At what time will the tank be filled if pipe B is opened at 9:00 a.m.?
+    options:
+      A: 10:16 a.m.
+      B: 10:22 a.m.
+      C: 10:48 a.m.
+      D: 10:18 a.m.
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q063
+    difficulty: medium
+    stem: "A triangle ABC is made on a circle, where AB is diameter of the circle. If BC is equal to the radius of the circle and ∠ABC = x ∠BAC, then x is :"
+    options:
+      A: "1"
+      B: "2.5"
+      C: "2"
+      D: "1.5"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q064
+    difficulty: medium
+    stem: Amit and Bilal buy goods for ₹1,500 and ₹2,000, respectively. Amit marks his goods up by y%, while Bilal marks his goods up by 2y% and offers a discount of y%. If both make the same profit, then find the value of y.
+    options:
+      A: "10.5"
+      B: "12.5"
+      C: "11.5"
+      D: "12"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q065
+    difficulty: medium
+    stem: 30 is the mean proportional of 18 and A. Find the value of A.
+    options:
+      A: "60"
+      B: "40"
+      C: "50"
+      D: "45"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q066
+    difficulty: medium
+    stem: "If 4tanθ − 3 = 0, then the value of (1 − cos2θ)/(1 + cos2θ) is:"
+    options:
+      A: 9/16
+      B: 4/3
+      C: 7/15
+      D: "1"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q067
+    difficulty: medium
+    stem: Find the length of the longest stick that can be fitted in a cubical vessel of edge 70 cm.
+    options:
+      A: 70√3 cm
+      B: 35√3 cm
+      C: 10√3 cm
+      D: 70√2 cm
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q068
+    difficulty: medium
+    stem: |-
+      A trader offers the following discount schemes on the purchase of a refrigerator.
+
+      ( I ) a discount of 10% followed by a discount of 8%  
+      ( ii ) successive discounts of 12% and 10%  
+      ( iii ) two successive discounts of 12%  
+      ( iv ) a discount of 20%
+
+      In which scheme is the selling price the lowest?
+    options:
+      A: (i)
+      B: (iv)
+      C: (iii)
+      D: (ii)
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q069
+    difficulty: medium
+    stem: For what least value of n, 2²ⁿ+2n is completely divided by 6, where n is an integer?
+    options:
+      A: "3"
+      B: "2"
+      C: "1"
+      D: "0"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q070
+    difficulty: medium
+    stem: "There is a 32 l mixture of milk and water. The ratio of milk and water in this mixture is 5 : 3. How many litres of water should be added to this mixture so that the resultant mixture has 50% water in it?"
+    options:
+      A: "4"
+      B: "8"
+      C: "6"
+      D: "5"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q071
+    difficulty: medium
+    stem: "The value of θ , when √3 cos θ + sin θ = 1 (1 ≤ θ ≤ 90°), is:"
+    options:
+      A: 60°
+      B: 30°
+      C: 20°
+      D: 90°
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q072
+    difficulty: medium
+    stem: |-
+      Study the given table and answer the question that follows.
+
+      The following table shows the production of printers by four plants of a company over the five years.
+
+      | Year | Plant 1 | Plant 2 | Plant 3 | Plant 4 |
+      |---|---|---|---|---|
+      | 2018 | 35 | 25 | 40 | 45 |
+      | 2019 | 43 | 44 | 44 | 40 |
+      | 2020 | 48 | 39 | 36 | 30 |
+      | 2021 | 32 | 40 | 35 | 48 |
+      | 2022 | 42 | 44 | 30 | 42 |
+
+      (Production in thousands)
+
+      What is the difference between the average production of plant 1 and plant 2 during five years?
+    options:
+      A: "1400"
+      B: "1600"
+      C: "3000"
+      D: "3840"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q073
+    difficulty: medium
+    stem: |-
+      Study the given bar-graph and answer the question that follows.
+
+      The bar-graph shows the sales of books (in thousands) from six branches (B1, B2, B3, B4, B5 and B6) of a publishing company during two consecutive years 2000 and 2001.
+
+      | Branch | B1 | B2 | B3 | B4 | B5 | B6 |
+      |---|---|---|---|---|---|---|
+      | 2000 | 80 | 75 | 95 | 85 | 75 | 70 |
+      | 2001 | 105 | 65 | 110 | 95 | 95 | 80 |
+
+      What is the ratio of the total sales of branch B2 for both years to the total sales of branch B4 for both years?
+
+      *(Figure: Grouped bar graph: Sales (in thousands numbers) by branch, 2000 (blue) and 2001 (red). B1 80/105, B2 75/65, B3 95/110, B4 85/95, B5 75/95, B6 70/80.)*
+    options:
+      A: "3 : 5"
+      B: "7 : 9"
+      C: "2 : 3"
+      D: "6 : 7"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q074
+    difficulty: medium
+    stem: Let x = r cos (t), y = r sin (t) cos (u), z = r sin (t)sin (u). Then the value of x² + y² + z² is ___.
+    options:
+      A: 2r
+      B: r² cos (u)
+      C: r²
+      D: r² sin (t)
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q075
+    difficulty: medium
+    stem: |-
+      The bar graph shows the number of students present in a class on four days. The average number of students present on Monday, Tuesday and Wednesday is:
+
+      *(Figure: Bar graph of students present (scale 0-35): Mon 25, Tues 30, Wed 20, Thurs 35 (bars are unlabelled; values read from the gridlines).)*
+    options:
+      A: "24"
+      B: "20"
+      C: "25"
+      D: "30"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-23-s1-q076
+    difficulty: medium
+    stem: |-
+      Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.
+
+      (O) attitude is
+
+      (P) or tendency in individuals
+
+      (Q) a broad-based behaviour
+
+      (R) which implies
+
+      (S) a hypothetical postulate
+    options:
+      A: OSRQP
+      B: SQPRO
+      C: OPQRS
+      D: OPSRQ
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Off and on
+    options:
+      A: Now and then
+      B: Know something thoroughly
+      C: Object to
+      D: Remind
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined segment in the given sentence.
+
+      The food intolerance industry has grown dramatically in the previous decade, **chiefly because of a boost** in Coeliac and Crohn’s disease cases, as well as increasing awareness among health-conscious clients.
+    options:
+      A: pretty much entirely because of a boil-down
+      B: contextually because of a spark
+      C: owing primarily to a rise
+      D: casually due to a growth
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      I have booked an apartment in the new residential colony.
+    options:
+      A: An apartment had been booked by me in the new residential colony.
+      B: An apartment have been booked by me in the new residential colony.
+      C: An apartment has been booked by me in the new residential colony.
+      D: An apartment is been booked by me in the new residential colony.
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Speaking disrespectfully about sacred or religious things.
+    options:
+      A: Mystic
+      B: Atheist
+      C: Blasphemy
+      D: Theist
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q082
+    difficulty: medium
+    stem: |-
+      Identify the error in the following sentence.
+
+      Ourselves should not boast of one’s knowledge.
+    options:
+      A: Ourselves
+      B: knowledge
+      C: boast
+      D: one’s
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q083
+    difficulty: medium
+    stem: |-
+      Given below are four jumbled sentences. Select the option that gives their correct logical sequence.
+
+      A. These are responsible for producing the major fuel used across the globe.  
+      B. The country has 100 major oil and gas fields.  
+      C. The economy of Saudi Arabia is based on petroleum.  
+      D. The chief oil field is Ghawar Field having an estimated 70 billion reserve resource.
+    options:
+      A: CBAD
+      B: ABCD
+      C: BACD
+      D: DCAB
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate homonyms from the given alternatives to fill in the blanks.
+
+      The rowing instructor commanded them to ________ in a ________.
+
+      A.row (verb)  
+      B.roe  
+      C.row (sequence)
+    options:
+      A: A, C
+      B: A, B
+      C: C, A
+      D: B, C
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to substitute the underlined word segment in the given sentence.
+
+      Sanat has just arrived in Mysore on transfer; he requests his friend Raghu to help him find **an appropriate location**.
+    options:
+      A: a suitable elevation
+      B: a rented accommodation
+      C: a proper junction
+      D: an allocation recommendation
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q086
+    difficulty: medium
+    stem: |-
+      The given sentence is divided into four segments. Select the option that has the segment with a grammatical error.
+
+      Two of the world’s / best forwards / has played alongside / David Beckham.
+    options:
+      A: has played alongside
+      B: best forwards
+      C: Two of the world’s
+      D: David Beckham.
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Brittle
+    options:
+      A: Furtive
+      B: Fatal
+      C: Fragile
+      D: Fickle
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Cherish
+    options:
+      A: Neglect
+      B: Afflict
+      C: Nurture
+      D: Breach
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Adequate
+    options:
+      A: Hidden
+      B: Sufficient
+      C: Reconcile
+      D: Evaluate
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the option that contains all the MISSPELT words in the following sentences.
+
+      1. The new restraunt offers a wide variety of delicious dishes.  
+      2. I can't beleive he made such a silly mistake in his presentation.  
+      3. The teacher asked the students to complete the assigment by Friday.  
+      4. She felt utterly embarassed by her colleague’s comments.
+    options:
+      A: restraunt, silly, assigment, colleague
+      B: delicious, silly, assigment, colleague
+      C: delicious, beleive, assigment, utterly
+      D: restraunt, beleive, assigment, embarassed
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      At a low ebb
+    options:
+      A: In a critical moment
+      B: In a happy state
+      C: In an unemployed mode
+      D: In a depressed or weak state
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q092
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The teenager delivered the speech.
+    options:
+      A: The speech has been delivered by the teenager.
+      B: The speech was delivered by the teenager.
+      C: The speech was being delivered by the teenager.
+      D: The speech is delivered by the teenager.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      This book **giving us much information** about our freedom fighters who lost their lives while serving our motherland.
+    options:
+      A: give us much information
+      B: give us many information
+      C: gives us much information
+      D: gives us many information
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q094
+    difficulty: medium
+    stem: |-
+      Select the correctly spelt word to fill in the blank.
+
+      My mother said that every relationship must have some amount of ___________.
+    options:
+      A: flexebelity
+      B: flexibility
+      C: phlexibility
+      D: flaxibilety
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Material
+    options:
+      A: Cheap
+      B: Temporary
+      C: Abstract
+      D: Concrete
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q096
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: to create
+      B: create
+      C: creating
+      D: creation
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q097
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: was
+      B: were
+      C: are
+      D: is
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q098
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: in
+      B: for
+      C: with
+      D: on
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q099
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: transmit
+      B: transmitted
+      C: transmits
+      D: transmitting
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-23-s1-q100
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Culture is (1)_______, understanding, and protecting, like the cultivation of a garden, not the destruction or eradication of its roots. Understanding the roots and seeds, taking much care and providing instructed nourishment (2)_______ important for good gardening. Culture also is similar; understanding its acquaintance (3)______ literature and art and careful protection are required. Culture is the way of life of a particular society in which a group of people live together in one place. The society’s culture is visible in its literature, arts, social system, language and religion. It is a combination of traditions, customs, institutions, food habits, manners, morals, thoughts, tastes, views and beliefs. Usually, families (4)______ culture to the younger generations. As family system is becoming weak, schools, colleges and universities should take up this responsibility as education should promote potential values of its culture. The role of universities (5)_______ only to issue course completed certificates.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: should not be restricted
+      B: should be restricted
+      C: should restricted
+      D: restrict
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english

@@ -1,0 +1,1391 @@
+slug: 2023-07-14-shift1
+title: SSC CGL 2023 Tier 1
+date: 2023-07-14
+label: 14 Jul, Shift 1
+source: "SSC candidate response sheet with the official answer marked (via adda247.com (https://www.adda247.com/jobs/wp-content/uploads/2025/07/17133430/SSC-CGL-Tier-1-Question-Paper_14.07.2023_9). Left out (picture-only options or incomplete in the source): Q1, Q6, Q9, Q13, Q14, Q61."
+questions:
+  - slug: cgl-2023-07-14-s1-q002
+    difficulty: medium
+    stem: |-
+      Select the option that represents the correct order of the given words as they would appear in an English dictionary.
+
+      1. Warriors
+
+      2. Warehouse
+
+      3. Warcraft
+
+      4. Warranty
+
+      5. Wardrobe
+
+      6. Wardenship
+    options:
+      A: 3, 6, 5, 2, 1, 4
+      B: 3, 5, 6, 2, 1, 4
+      C: 3, 5, 6, 2, 4, 1
+      D: 3, 6, 5, 2, 4, 1
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q003
+    difficulty: medium
+    stem: |-
+      Three statements are given, followed by four conclusions numbered I, II, III and IV.
+
+      Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      Some desks are trays.
+
+      Some trays are plates.
+
+      Some plates are desks.
+
+      Conclusions:
+
+      I. All desks are plates.
+
+      II. All plates are desks.
+
+      III. Some plates are trays.
+
+      IV. All trays are desks.
+    options:
+      A: Only conclusion III follows
+      B: Only conclusion IV follows
+      C: Only conclusion II follows
+      D: Only conclusion I follows
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q004
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third word in the same way as the second word is related to the first word.
+
+      (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+
+      Skin : Touch :: Nose : ?
+    options:
+      A: Smell
+      B: Taste
+      C: Nose ring
+      D: Sweat
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q005
+    difficulty: medium
+    stem: Ganesh was taking a walk with his mother’s brother’s father’s granddaughter. Who was he walking with?
+    options:
+      A: Daughter
+      B: Mother
+      C: Cousin
+      D: Granddaughter
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q007
+    difficulty: medium
+    stem: |-
+      Which of the following letter-clusters will replace the question mark (?) in the given series?
+
+      UV, OY, IB, EE, ?
+    options:
+      A: ZK
+      B: AH
+      C: BI
+      D: BH
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q008
+    difficulty: medium
+    stem: The second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs except one. Find that odd number-pair.
+    options:
+      A: "20 : 11"
+      B: "6 : 4"
+      C: "15 : 9"
+      D: "12 : 7"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q010
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘1’.
+
+      [Figure: three dice]
+
+      *(Figure: Figure 1: top 1, front-left 2, front-right 6. Figure 2: top 1, front-left 6, front-right 5. Figure 3: top 1, front-left 5, front-right 4.)*
+    options:
+      A: "6"
+      B: "2"
+      C: "3"
+      D: "4"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q011
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (55, 11, 25)
+
+      (64,16, 16)
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is NOT allowed)
+    options:
+      A: (33, 11, 9)
+      B: (33, 11, 22)
+      C: (33, 11, 3)
+      D: (33, 11, 10)
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q012
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the sixth letter-cluster in the same way as the first letter-cluster is related to the second letter-cluster and the third letter-cluster is related to the fourth letter-cluster.
+
+      HMD : KOE : : BNQ : EPR :: ? : FLV
+    options:
+      A: SJE
+      B: UJC
+      C: EJS
+      D: CJU
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q015
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the odd letter-cluster.
+    options:
+      A: BFJN
+      B: DHLP
+      C: HJKP
+      D: JNRV
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q016
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+      5 : 45::3 : 3::6 : ?
+    options:
+      A: "90"
+      B: "106"
+      C: "110"
+      D: "96"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q017
+    difficulty: medium
+    stem: |-
+      Which of the following numbers will replace the question mark (?) in the given series?
+
+      8, 15, 26, ? , 56, 75
+    options:
+      A: "39"
+      B: "41"
+      C: "35"
+      D: "43"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q018
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the third term in the same way as the second term is related to the first term and the sixth term is related to the fifth term.
+
+      7183 : 3850 :: 6957 : ? :: 8972 : 5639
+    options:
+      A: "3426"
+      B: "3624"
+      C: "3246"
+      D: "3642"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q019
+    difficulty: medium
+    stem: |-
+      Three different positions of the same dice are shown. Find the number on the face opposite the face showing ‘4’.
+
+      [Figure: three dice]
+
+      *(Figure: Figure 1: top 4, front-left 5, front-right 6. Figure 2: top 6, front-left 3, front-right 2. Figure 3: top 6, front-left 5, front-right 3.)*
+    options:
+      A: "5"
+      B: "6"
+      C: "2"
+      D: "3"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q020
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth number in the same way as the second number is related to the first number and the fourth number is related to the third number.
+
+      625 : 5 :: 2560 : 8 :: 5000 : ?
+    options:
+      A: "9"
+      B: "12"
+      C: "10"
+      D: "15"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q021
+    difficulty: medium
+    stem: In a certain code language, ‘ASK’ is written as ‘62’ and ‘BYE’ is written as ‘64’. How will ‘CRY’ be written in that language?
+    options:
+      A: "68"
+      B: "72"
+      C: "86"
+      D: "92"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q022
+    difficulty: medium
+    stem: |-
+      Select the correct combination of mathematical signs that can sequentially replace the * signs and balance the given equation.
+
+      256 * 4 * 9 * 3 * 14 = 51
+    options:
+      A: × + − ÷
+      B: ÷ × − +
+      C: × ÷ + −
+      D: ÷ − × +
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q023
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that, when placed from left to right in the following blanks, will complete the letter-series.
+
+      C L _ V E C _ _ W E C L O _ _ C _ O _ E
+    options:
+      A: O L P X E L Y
+      B: O L O Y E L Z
+      C: O L O X F M Y
+      D: O L O X E L Y
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q024
+    difficulty: medium
+    stem: In a certain code language, ‘TABLE’ is coded as ELEAT and ‘SWING’ is coded as GNLWS. How will ‘FRAME’ be coded in the same language?
+    options:
+      A: EMERF
+      B: EMDRF
+      C: ERMDF
+      D: MEDFR
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q025
+    difficulty: medium
+    stem: |-
+      Which two signs should be interchanged to make the given equation correct?
+
+      588 ÷ 28 × 32 + 72 – 160 = 760
+    options:
+      A: – and +
+      B: ÷ and –
+      C: + and ×
+      D: ÷ and +
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-14-s1-q026
+    difficulty: medium
+    stem: "The length of the badminton court for singles is:"
+    options:
+      A: 13.44 m
+      B: 13.55 m
+      C: 14 m
+      D: 13.40 m
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q027
+    difficulty: medium
+    stem: Who is the Administrative Head of the Indian Audit and Accounts Department?
+    options:
+      A: Accountant General
+      B: Principal Accountant General
+      C: Director General
+      D: The Comptroller and Auditor General
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q028
+    difficulty: medium
+    stem: Which of the following is the largest pan-India scheme to strengthen health care infrastructure across the country with focus on primary, secondary and tertiary care services?
+    options:
+      A: LaQshya
+      B: AB-PMJAY
+      C: PM-ABHIM
+      D: PM-MI
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q029
+    difficulty: medium
+    stem: Which of the following festivals is associated with the term ‘ties of protection’?
+    options:
+      A: Baisakhi
+      B: Karwa Chauth
+      C: Chhath Pooja
+      D: Raksha Bandhan
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q030
+    difficulty: medium
+    stem: In October 2021, 19-year-old ________ won the silver medal at the World Wrestling Championship.
+    options:
+      A: Anshu Malik
+      B: Seema Bisla
+      C: Sanju Devi
+      D: Sonam Malik
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q031
+    difficulty: medium
+    stem: ________ emerged as the poorest state as per the first-ever Multi-dimensional Poverty Index (MPI) prepared by Niti Aayog and launched in November 2021.
+    options:
+      A: Bihar
+      B: Madhya Pradesh
+      C: Uttar Pradesh
+      D: Mizoram
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q032
+    difficulty: medium
+    stem: The consumption of fixed capital is also known as _________.
+    options:
+      A: depreciation
+      B: net investment
+      C: appreciation
+      D: gross investment
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q033
+    difficulty: medium
+    stem: The Vedic Aryans lived in the area called Sapt-Sindhu, which means area drained by seven rivers. One of the rivers among the seven is Jhelum. What was its ancient name?
+    options:
+      A: Askini
+      B: Parushni
+      C: Vipash
+      D: Vitasta
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q034
+    difficulty: medium
+    stem: In Chola administration, ________ was the assembly in the villages which were inhabited predominantly by the Brahmanas.
+    options:
+      A: Ur
+      B: Khilya
+      C: Nagaram
+      D: Sabha
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q035
+    difficulty: medium
+    stem: Which of the following states is NOT a part of the Tapi Basin?
+    options:
+      A: Rajasthan
+      B: Maharashtra
+      C: Madhya Pradesh
+      D: Gujarat
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q036
+    difficulty: medium
+    stem: Which of the following is used as a cooling medium for the Large Hadron Collider (LHC) and the superconducting magnets in MRI scanners and NMR spectrometers?
+    options:
+      A: Neon
+      B: Chlorine
+      C: Argon
+      D: Helium
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q037
+    difficulty: medium
+    stem: In 2018, Google Doodle celebrated the 100th birthday of Mrinalini Sarabhai. She is an exponent of which of the following dance forms?
+    options:
+      A: Bharatanatyam and Kathakali
+      B: Odissi and Kathak
+      C: Kuchipudi and Bharatanatyam
+      D: Yakshagana
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q038
+    difficulty: medium
+    stem: Bharatanatyam expresses South Indian religious themes and spiritual ideas of _______.
+    options:
+      A: Sufism
+      B: Shaivism
+      C: Buddhism
+      D: Jainism
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q039
+    difficulty: medium
+    stem: Who among the following musicians is popular for his mastery over the musical instrument Sitar?
+    options:
+      A: Ali Akbar Khan
+      B: Vilayat Khan
+      C: Bahadur Khan
+      D: Amjad Ali Khan
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q040
+    difficulty: medium
+    stem: Which of the following countries was the host of AFC Women's Asia Cup Football–2022?
+    options:
+      A: Japan
+      B: Bangladesh
+      C: India
+      D: China
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q041
+    difficulty: medium
+    stem: Ms Bhakti Pradip Kulkarni was conferred with the Arjuna Award 2022 for her outstanding contribution in which of the following sports?
+    options:
+      A: Table Tennis
+      B: Chess
+      C: Badminton
+      D: Wrestling
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q042
+    difficulty: medium
+    stem: Who among the following was the founder of ‘Tiger Legion' or ‘Free India Legion'?
+    options:
+      A: Vinayak Damodar Savarkar
+      B: Subhas Chandra Bose
+      C: Sohan Singh Bhakhna
+      D: Lala Hardayal
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q043
+    difficulty: medium
+    stem: Name a reproductive strategy in which parasites take advantage of the care of other individuals of the same species or different species to raise their young.
+    options:
+      A: Brood parasitism
+      B: Sexual parasitism
+      C: Klepto parasitism
+      D: Competitive parasitism
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q044
+    difficulty: medium
+    stem: |-
+      On the basis of tribal population (2011), identify the option that arranges the following states in ascending order.
+
+      A. Madhya Pradesh
+
+      B. Maharashtra
+
+      C. Odisha
+    options:
+      A: (C), (B), (A)
+      B: (B), (A), (C),
+      C: (C), (A), (B)
+      D: (B), (C), (A)
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q045
+    difficulty: medium
+    stem: In which industrial policy was the investment limit for tiny industry/unit increased to ₹2 lakh?
+    options:
+      A: "1977"
+      B: "1991"
+      C: "1980"
+      D: "1956"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q046
+    difficulty: medium
+    stem: Which scientist thought of the concept of steady state of the universe?
+    options:
+      A: Harold Jeffrey
+      B: Edwin Hubble
+      C: Fred Hoyle
+      D: Pierre-Simon Laplace
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q047
+    difficulty: medium
+    stem: |-
+      Match the columns.
+
+      | Colum-A (Class) | Column-B (Common name) |
+      |---|---|
+      | i. Chlorophyceae | a. Brown algae |
+      | ii. Phaeophyceae | b. Green algae |
+      | iii. Rhodophyceae | c. Blue-green algae |
+      | iv. Cyanophyceae | d. Red algae |
+    options:
+      A: i-b, ii-c, iii-a, iv-d
+      B: i-b, ii-a, iii-d, iv-c
+      C: i-d, ii-c, iii-b, iv-a
+      D: i-a, ii-b, iii-c, iv-d
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q048
+    difficulty: medium
+    stem: Ryotwari system of revenue collection in India, introduced by the British, was based on the _______.
+    options:
+      A: Smith’s theory of rent
+      B: Ricardian theory of rent
+      C: Malthusian theory of rent
+      D: Marx’s theory of rent
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q049
+    difficulty: medium
+    stem: Who received the Nobel Prize in 1901 for ‘recognition of the extraordinary services rendered by the discovery of the laws of chemical dynamics and osmotic pressure in solutions’?
+    options:
+      A: Hermann Emil Fischer
+      B: Jacobus Henricus van 't Hoff
+      C: Svante August Arrhenius
+      D: Henri Moissan
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q050
+    difficulty: medium
+    stem: Which of the following Articles of the Indian Constitution are related to citizenship?
+    options:
+      A: Articles 15 to 21
+      B: Articles 5 to 11
+      C: Articles 2 to 4
+      D: Articles 25 to 31
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-14-s1-q051
+    difficulty: medium
+    stem: If A is 95% of B, then what per cent of A is B?
+    options:
+      A: 110 3/19%
+      B: 104 7/19%
+      C: 108 17/19%
+      D: 105 5/19%
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q052
+    difficulty: medium
+    stem: The marked price of mustard oil is 25% more than its cost price. At what percentage less than the marked price should it be sold to have no profit and no loss?
+    options:
+      A: 15%
+      B: 20%
+      C: 18%
+      D: 22%
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q053
+    difficulty: medium
+    stem: A can complete a piece of work in 25 days while B can complete the same work in 30 days. They work on alternate basis, starting with A. Both A and B follow this pattern for 5 days and then A leaves the work. In how many days will B finish the remaining work?
+    options:
+      A: 24 2/5
+      B: 5 2/5
+      C: 5 3/5
+      D: 24 3/5
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q054
+    difficulty: medium
+    stem: "As part of his journey, a person travels 120 km at 80 km/h, the next 100 km at 40 km/h, and comes back to the starting point at 75 km/h. The average speed of the person throughout the journey (approximately) is:"
+    options:
+      A: 63.46 km/h
+      B: 58.74 km/h
+      C: 68.15 km/h
+      D: 49.58 km/h
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q055
+    difficulty: medium
+    stem: 8 men can complete a work in 45 days. 8 women can complete the same work in 18 days. In how many days will 5 men and 8 women, together, complete the same work?
+    options:
+      A: 13 1/5
+      B: 12 4/5
+      C: 14 2/5
+      D: 15 3/5
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q056
+    difficulty: medium
+    stem: "6²⁵ + 6²⁶ + 6²⁷ + 6²⁸ is divisible by:"
+    options:
+      A: "256"
+      B: "254"
+      C: "255"
+      D: "259"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q057
+    difficulty: medium
+    stem: |-
+      Study the given table and answer the question that follows.
+
+      The table shows the classification of 100 students based on the marks obtained by them in History and Geography in an examination.
+
+      Marks out of 50
+
+      | Subject | 40 and above | 30 and above | 20 and above | 10 and above | 0 and above |
+      |---|---|---|---|---|---|
+      | History | 9 | 32 | 80 | 92 | 100 |
+      | Geography | 4 | 21 | 66 | 81 | 100 |
+      | Average (Aggregate) | 7 | 27 | 73 | 87 | 100 |
+
+      Based on the table, what is the number of students scoring less than 20% marks in aggregate?
+    options:
+      A: "13"
+      B: "11"
+      C: "10"
+      D: "12"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q058
+    difficulty: medium
+    stem: Two concentric circles are of radii 10 cm and 6 cm. Find the length of the chord of the larger circle which touches the smaller circle.
+    options:
+      A: 8 cm
+      B: 16 cm
+      C: 12 cm
+      D: 9 cm
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q059
+    difficulty: medium
+    stem: If sin (a + b) = 1 and cos (a − b) = 1/2, then find a.
+    options:
+      A: 75°
+      B: 30°
+      C: 15°
+      D: 45°
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q060
+    difficulty: medium
+    stem: A train 900 m long is running at 108 km/h. How long will it take to clear a 900 m long platform completely?
+    options:
+      A: 60 s
+      B: 45 s
+      C: 30 s
+      D: 18 s
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q062
+    difficulty: medium
+    stem: If m∠C=m∠Z and AC=XZ, then which of the following conditions is necessary for ΔABC and ΔXYZ to be congruent?
+    options:
+      A: AB=AC
+      B: BC=YZ
+      C: AB=XY
+      D: BC=AB
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q063
+    difficulty: medium
+    stem: |-
+      In the given figure, PAB is a secant and PT is a tangent to the circle from P. If PT = 8 cm, PA = 6 cm and AB = x cm, then the value of x is:
+
+      [Figure: circle with tangent PT and secant PAB]
+
+      *(Figure: Point P outside a circle; PT = 8 cm touches the circle at T; the line PAB cuts the circle at A and B, with PA = 6 cm and AB = x cm (a diameter is drawn through A and B).)*
+    options:
+      A: 14/9
+      B: 1/3
+      C: 14/3
+      D: 4/3
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q064
+    difficulty: medium
+    stem: |-
+      A shopkeeper offers the following two discount schemes.
+
+      A) Buy 3 get 4 free
+
+      B) Buy 5 get 6 free
+
+      Which scheme has the maximum discount percentage?
+    options:
+      A: A
+      B: A does not give any discount
+      C: A and B both have the same discount percentage
+      D: B
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q065
+    difficulty: medium
+    stem: |-
+      The following bar chart represents the gross amount (in ₹ lakhs) and total cost (in ₹ lakhs) of a firm.
+
+      [Bar chart: y-axis ‘Rupees in crores’, x-axis ‘Year’; legend: hatched bar = Total, white bar = Gross amount]
+
+      | Year | Total | Gross amount |
+      |---|---|---|
+      | 2016 - 17 | 3500 | 4000 |
+      | 2017 - 18 | 4500 | 5000 |
+      | 2018 - 19 | 5500 | 6000 |
+      | 2019 - 20 | 6500 | 7500 |
+
+      In order to make a profit of 25%, what should the gross amount have been (in ₹ crores) in 2019-2020, if the total cost remained the same?
+
+      *(Figure: Grouped bar chart, two bars per year (hatched ‘Total’ and white ‘Gross amount’), values as in the table.)*
+    options:
+      A: "7800"
+      B: "8000"
+      C: "8250"
+      D: "8125"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q066
+    difficulty: medium
+    stem: In what time will ₹10,000 at 4% per annum, produce the same interest as ₹8,000 does in 4 years at 5% simple interest?
+    options:
+      A: 5 years
+      B: 3 years
+      C: 4 years
+      D: 6 years
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q067
+    difficulty: medium
+    stem: A man, a boy and a woman can finish a work in 10 days, 15 days and 30 days, respectively. In how many days can the work be finished by a man, a woman and a boy when all of them work together?
+    options:
+      A: "10"
+      B: "5"
+      C: "8"
+      D: "6"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q068
+    difficulty: medium
+    stem: If cos θ = √3/2, then tan² θ cos² θ =?
+    options:
+      A: 1/√3
+      B: 1/4
+      C: 1/2
+      D: √3
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q069
+    difficulty: medium
+    stem: What is the value of (3x³ + 5x²y + 12xy² + 7y³), when x = − 4 and y = − 1?
+    options:
+      A: – 329
+      B: – 359
+      C: – 361
+      D: – 327
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q070
+    difficulty: medium
+    stem: If the four numbers, 39, 117, 17 and y are in proportion, then find the value of y.
+    options:
+      A: "49"
+      B: "51"
+      C: "57"
+      D: "85"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q071
+    difficulty: medium
+    stem: "The volume of a sphere of radius 4.2 cm is: (Use π = 22/7)"
+    options:
+      A: 278.234 cm³
+      B: 312.725 cm³
+      C: 297.824 cm³
+      D: 310.464 cm³
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q072
+    difficulty: medium
+    stem: If (a + b + c) = 16, and (a² + b² + c²) = 90, find the value of (ab + bc + ca).
+    options:
+      A: "84"
+      B: "83"
+      C: "82"
+      D: "81"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q073
+    difficulty: medium
+    stem: "If {(3 sin θ – cos θ) / (cos θ + sin θ)} = 1, then the value of cot θ is:"
+    options:
+      A: "3"
+      B: "0"
+      C: "1"
+      D: "2"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q074
+    difficulty: medium
+    stem: Two runners, Sony and Mony, start running on a circular track of length 200 m at speeds of 18 and 24 km/h, respectively, in the same direction. After how much time from the start will they meet again at the starting point?
+    options:
+      A: 120 sec
+      B: 110 sec
+      C: 100 sec
+      D: 90 sec
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q075
+    difficulty: medium
+    stem: What will be the remainder when (265)⁴⁰⁸¹+9 is divided by 266?
+    options:
+      A: "8"
+      B: "6"
+      C: "1"
+      D: "9"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-14-s1-q076
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains an error.
+
+      Neetu have been / waiting for me / since 10 o’clock / in the morning.
+    options:
+      A: Neetu have been
+      B: in the morning
+      C: since 10 o’clock
+      D: waiting for me
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      Her dog can climb **under** the fence.
+    options:
+      A: Over
+      B: Sink
+      C: Behind
+      D: Beneath
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q078
+    difficulty: medium
+    stem: |-
+      Select the INCORRECTLY spelt word in the given sentence.
+
+      The village beggars, no longer ill at ease in the gathering of gliterring dignitaries, sat in their assigned rows and joked with vegetarian Brahmin apprentices.
+    options:
+      A: assigned
+      B: apprentices
+      C: beggars
+      D: gliterring
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q079
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      The company's board of directors will announce the financial results at the annual meeting tomorrow.
+    options:
+      A: The financial results will have been announced by the company's board of directors at the annual meeting tomorrow.
+      B: The financial results are being announced by the company's board of directors at the annual meeting tomorrow.
+      C: The company's board of directors announced the financial results at the annual meeting tomorrow.
+      D: The financial results will be announced by the company's board of directors at the annual meeting tomorrow.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q080
+    difficulty: medium
+    stem: Select the grammatically correct sentence.
+    options:
+      A: The participants of the competition are waiting for their turn curiously.
+      B: The participants of the competition has been waiting for their turn curiously.
+      C: A participants of the competition is waiting for their turn curiously.
+      D: The participants of the competition is waiting for their turn curiously.
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word in the given sentence.
+
+      Henry is so **servile** that other people take advantage of him.
+    options:
+      A: Arrogant
+      B: Sheepish
+      C: Bickering
+      D: Cunning
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q082
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A thing fit to eat.
+    options:
+      A: Eligible
+      B: Digestible
+      C: Curable
+      D: Edible
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Lily-livered
+    options:
+      A: Brave
+      B: Comical
+      C: Not brave
+      D: Naughty
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Zealous
+    options:
+      A: Enthusiastic
+      B: Detached
+      C: Apathetic
+      D: Indifferent
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined word in the given sentence.
+
+      She had an ability to **persuade** others.
+    options:
+      A: halt
+      B: suppress
+      C: outrage
+      D: impress
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q086
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      We must remember that what we teach our children is what we **inculcate** in them.
+    options:
+      A: endanger
+      B: inspire
+      C: instil
+      D: import
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q087
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      He won’t receive any better choice than this from anywhere.
+    options:
+      A: Any better choice won’t be received by him than this from anywhere.
+      B: Any better choice wouldn’t have received by him than this from anywhere.
+      C: Any better choice shouldn’t be received by him than this from anywhere.
+      D: Any better choice won’t have been be received by him than this from anywhere.
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Feeble
+    options:
+      A: Unheedful
+      B: Strong
+      C: Weak
+      D: Baneful
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q089
+    difficulty: medium
+    stem: |-
+      Select the correct spelling of the underline word.
+
+      They denied having any **associasion** with the terrorists.
+    options:
+      A: asociation
+      B: asocciation
+      C: assosiation
+      D: association
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom in the given sentence.
+
+      Pooja tried to explain the problem, but soon she **tied herself up in knots**.
+    options:
+      A: Be forced to explain your actions and (probably) punished
+      B: Become very confused when you are trying to explain something
+      C: Make no progress in an argument or discussion
+      D: Won’t modify an opinion or agree to even small changes that another person wants
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q091
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. In Bihar and Central India, in particular, every district had smelters that used local deposits of ore to produce iron which was widely used for the manufacture of implements and tools of daily use.
+
+      B. The smelting was done by men while women worked on the bellows, pumping air that kept the charcoal burning.
+
+      C. But iron smelting in India was extremely common till the end of the nineteenth century.
+
+      D. Production of Wootz steel required a highly specialised technique of refining iron.
+    options:
+      A: ACDB
+      B: DCAB
+      C: BCDA
+      D: CBDA
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q092
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A. He repeated the experiment, increasing the amount until he had weighed up to a thousand pounds.
+
+      B. During the spring of 1717, the iron foundries in a remote district were often visited by a thin, middle-aged man with a notebook.
+
+      C. Three cauldrons were next prepared under his directions.
+
+      D. He would weigh out two pounds of iron, have them heated till they were red-hot and then weigh them again.
+    options:
+      A: BDAC
+      B: ABDC
+      C: BCAD
+      D: CABD
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      She is _________ a peacock in the blue satin saree.
+    options:
+      A: very beautiful as
+      B: so beautiful as
+      C: as beautiful as
+      D: beautiful like
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q094
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A.The top band is made of saffron, which symbolises power and courage.
+
+      B.The constituent assembly adopted our national flag, Tiranga, which means tricolour, on 22 July 1947.
+
+      C.As a symbol of nationalism and freedom, it is fashioned from khadi, which is domestically spun Indian cotton.
+
+      D.It features three horizontal stripes that are all the same width.
+    options:
+      A: CBAD
+      B: CBDA
+      C: BCDA
+      D: BDCA
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate homonym to fill in the blank.
+
+      The hunter dogs followed the hyena’s ________.
+    options:
+      A: sense
+      B: scent
+      C: cense
+      D: cents
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Human life is (1) _______ a unique blessing, which in turn depends on the (2) _______ of the Self. He who is not aware of the Self can neither have peace nor can he foster peaceful co- existence. We have to link our soul with God and body with the physical world for substance.
+
+      (3) _______ the formless God is invisible to the naked eye, our mind often wanders wherever it goes. (4) _______ , we are unable to develop any love for the Divine. And religion like the white light of heavens (5) _______ multi-coloured fragmentations by the prisms of men and loses its gravity. Instead of uniting, it becomes a major dividing force. French philosopher Tail hard de Chardin, thinking deeply on meaning of our existence and relationship with the Divine, expounds, “we are not human beings having a spiritual experience, we are spiritual beings having a human experience”.
+
+      Select the most appropriate option to fill in blank no. 1.
+    options:
+      A: considering
+      B: to consider
+      C: considered
+      D: consider
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Human life is (1) _______ a unique blessing, which in turn depends on the (2) _______ of the Self. He who is not aware of the Self can neither have peace nor can he foster peaceful co- existence. We have to link our soul with God and body with the physical world for substance.
+
+      (3) _______ the formless God is invisible to the naked eye, our mind often wanders wherever it goes. (4) _______ , we are unable to develop any love for the Divine. And religion like the white light of heavens (5) _______ multi-coloured fragmentations by the prisms of men and loses its gravity. Instead of uniting, it becomes a major dividing force. French philosopher Tail hard de Chardin, thinking deeply on meaning of our existence and relationship with the Divine, expounds, “we are not human beings having a spiritual experience, we are spiritual beings having a human experience”.
+
+      Select the most appropriate option to fill in blank no. 2.
+    options:
+      A: witness
+      B: known
+      C: awareness
+      D: aware
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Human life is (1) _______ a unique blessing, which in turn depends on the (2) _______ of the Self. He who is not aware of the Self can neither have peace nor can he foster peaceful co- existence. We have to link our soul with God and body with the physical world for substance.
+
+      (3) _______ the formless God is invisible to the naked eye, our mind often wanders wherever it goes. (4) _______ , we are unable to develop any love for the Divine. And religion like the white light of heavens (5) _______ multi-coloured fragmentations by the prisms of men and loses its gravity. Instead of uniting, it becomes a major dividing force. French philosopher Tail hard de Chardin, thinking deeply on meaning of our existence and relationship with the Divine, expounds, “we are not human beings having a spiritual experience, we are spiritual beings having a human experience”.
+
+      Select the most appropriate option to fill in blank no. 3.
+    options:
+      A: Since
+      B: From
+      C: As per
+      D: For
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Human life is (1) _______ a unique blessing, which in turn depends on the (2) _______ of the Self. He who is not aware of the Self can neither have peace nor can he foster peaceful co- existence. We have to link our soul with God and body with the physical world for substance.
+
+      (3) _______ the formless God is invisible to the naked eye, our mind often wanders wherever it goes. (4) _______ , we are unable to develop any love for the Divine. And religion like the white light of heavens (5) _______ multi-coloured fragmentations by the prisms of men and loses its gravity. Instead of uniting, it becomes a major dividing force. French philosopher Tail hard de Chardin, thinking deeply on meaning of our existence and relationship with the Divine, expounds, “we are not human beings having a spiritual experience, we are spiritual beings having a human experience”.
+
+      Select the most appropriate option to fill in blank no. 4.
+    options:
+      A: As a result
+      B: As a reaction
+      C: Causing
+      D: As a reason
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-14-s1-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage some words have been deleted. Fill in the blanks with the help of the alternatives given. Select the most appropriate option for each number.
+
+      Human life is (1) _______ a unique blessing, which in turn depends on the (2) _______ of the Self. He who is not aware of the Self can neither have peace nor can he foster peaceful co- existence. We have to link our soul with God and body with the physical world for substance.
+
+      (3) _______ the formless God is invisible to the naked eye, our mind often wanders wherever it goes. (4) _______ , we are unable to develop any love for the Divine. And religion like the white light of heavens (5) _______ multi-coloured fragmentations by the prisms of men and loses its gravity. Instead of uniting, it becomes a major dividing force. French philosopher Tail hard de Chardin, thinking deeply on meaning of our existence and relationship with the Divine, expounds, “we are not human beings having a spiritual experience, we are spiritual beings having a human experience”.
+
+      Select the most appropriate option to fill in blank no. 5.
+    options:
+      A: break into
+      B: breaks to
+      C: break from
+      D: breaks into
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english

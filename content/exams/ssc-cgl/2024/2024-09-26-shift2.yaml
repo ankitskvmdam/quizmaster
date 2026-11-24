@@ -1,0 +1,1381 @@
+slug: 2024-09-26-shift2
+title: SSC CGL 2024 Tier 1
+date: 2024-09-26
+label: 26 Sept, Shift 2
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07115500/SSC-CGL-Tier-1-Question-Paper-En). Left out (picture-only options or incomplete in the source): Q4, Q6, Q13, Q15."
+questions:
+  - slug: cgl-2024-09-26-s2-q001
+    difficulty: medium
+    stem: |-
+      Select the combination of letters that when sequentially placed in the blanks of the given series will complete the series.
+
+      ABC_FG_JK_MOPQ_TUV_Y
+    options:
+      A: DHLRW
+      B: DHLSX
+      C: EHLRX
+      D: EHLRW
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q002
+    difficulty: medium
+    stem: In a certain code language, ‘FUTURE’ is written as ‘IXWXUH’ and ‘ISLAND’ is written as ‘LVODQG’. How will ‘JERSEY’ be written in that language?
+    options:
+      A: KHTUHA
+      B: MHTVGB
+      C: MHUVHB
+      D: KGTVGA
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q003
+    difficulty: medium
+    stem: |-
+      Read the given statements and conclusions carefully. You have to take the given statements to be true even if they seem to be at variance from commonly known facts. You have to decide which conclusion(s) logically follow(s) from the given statements.
+
+      Statements:  
+      All Grapes are Berries.  
+      Some Berries are Juices.  
+      All Juices are Sodas.
+
+      Conclusions:  
+      (I) Some Berries are Grapes.  
+      (II) Some Sodas are Berries.
+    options:
+      A: Only conclusion (I) follows
+      B: Only conclusion (II) follows
+      C: Both the conclusions (I) and (II) follow
+      D: Both the conclusions (I) and (II) do not follow
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q005
+    difficulty: medium
+    stem: Each of the letters in the word ‘DARKEN’ is arranged in the English alphabetical order. How many letters are there in the English alphabetical series between the letter which is second from the left end and the one which is third from the right end in the new letter-cluster thus formed?
+    options:
+      A: Five
+      B: Eight
+      C: Six
+      D: Seven
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q007
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the figure given below?
+
+      *(Figure: A right-angled triangle at the top-left (right angle at its bottom-right corner) with three horizontal lines inside, joined at that corner to a square at the bottom-right; the square has a diagonal from its bottom-left to its top-right corner, plus a short horizontal line, a vertical line and a slanting line inside its lower-right half.)*
+    options:
+      A: "8"
+      B: "10"
+      C: "12"
+      D: "14"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q008
+    difficulty: medium
+    stem: |-
+      Six numbers 5, 3, 6, 7, 9 and 2 are written on different faces of a dice. Two positions of this dice are shown in the figure below. Find the number on the face opposite to the one having 5.
+
+      *(Figure: Two views of a dice. View 1: top 5, left 3, right 6. View 2: top 2, left 3, right 7.)*
+    options:
+      A: "2"
+      B: "9"
+      C: "3"
+      D: "6"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q009
+    difficulty: medium
+    stem: ‘Conceal’ is related to ‘Disclose’ in the same way as ‘Identical’ is related to ‘________’. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+    options:
+      A: Similar
+      B: Analogous
+      C: Distinct
+      D: Homogeneous
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q010
+    difficulty: medium
+    stem: |-
+      Select the number that will come in the place of the question mark(?), if ‘+’ and ‘ – ‘ are interchanged and ‘×’ and ‘÷’ are interchanged
+
+      11 ÷ 8 – 78 × 6 + 37 = ?
+    options:
+      A: "62"
+      B: "64"
+      C: "58"
+      D: "71"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q011
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following set.
+
+      3 — 20 — 5  
+      4 — 17 — 3
+
+      NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: 8 — 36 — 11
+      B: 5 — 28 — 9
+      C: 9 — 77 — 8
+      D: 11 — 28 — 5
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q012
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (16, 7, 112)  
+      (8, 12, 96)
+    options:
+      A: (13, 7, 96)
+      B: (14, 9, 128)
+      C: (12, 5, 65)
+      D: (15, 8, 120)
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q014
+    difficulty: medium
+    stem: |-
+      In a certain code language,
+
+      ‘A + B’ means ‘A is the mother of B’;  
+      ‘A − B’ means ‘A is the brother of B’;  
+      ‘A × B’ means ‘A is the wife of B’ and  
+      ‘A ÷ B’ means ‘A is the father of B’.
+
+      Based on the above, how is I related to H if ‘B + R × I − T ÷ H’?
+    options:
+      A: Brother
+      B: Father’s brother
+      C: Father’s sister
+      D: Father’s father
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q016
+    difficulty: medium
+    stem: |-
+      Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the letter-cluster that is different.
+
+      Note: The odd one out is not based on the number of consonants/vowels or their position in the letter cluster
+    options:
+      A: PRUZ
+      B: ORTU
+      C: MORW
+      D: XZCH
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q017
+    difficulty: medium
+    stem: "The second number in the given number pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) are followed in all the number pairs except one. Find that odd number pair. (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc., to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)"
+    options:
+      A: "34 : 44"
+      B: "23 : 25"
+      C: "35 : 36"
+      D: "13 : 16"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q018
+    difficulty: medium
+    stem: |-
+      Two different positions of the same dice with faces Z, G, M, F, H and S are shown below. Select the letter that will be on the face opposite to the one having G.
+
+      *(Figure: Two views of a dice. View 1: top Z, left G, right M. View 2: top Z, left F, right H.)*
+    options:
+      A: S
+      B: F
+      C: H
+      D: M
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q019
+    difficulty: medium
+    stem: |-
+      Two sets of numbers are given below. In each set of numbers, certain mathematical operation(s) on the first number result(s) in the second number. Similarly, certain mathematical operation(s) on the second number result(s) in the third number and so on. Which of the given options follows the same set of operations as in the given sets?
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into their constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      48 – 50 – 46 – 52; 37 – 39 – 35 – 41
+    options:
+      A: 26 – 28 – 24 – 30
+      B: 21 – 23 – 29 – 27
+      C: 19 – 17 – 21 – 25
+      D: 15 – 13 – 9 – 19
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q020
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      176,167,156,147,136, ?
+    options:
+      A: "126"
+      B: "119"
+      C: "127"
+      D: "124"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q021
+    difficulty: medium
+    stem: |-
+      Which of the four options will replace the question mark (?) in the following series?
+
+      FX32, EV38, DT44, CR50, ?
+    options:
+      A: BP56
+      B: CR54
+      C: DP55
+      D: CQ55
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q022
+    difficulty: medium
+    stem: |-
+      What will come in the place of ‘?’ in the following equation, if ‘÷’ and ‘–‘ are interchanged and ‘×’ and ‘+’ are interchanged?
+
+      7 + 4 ÷18 – 3 × 2 = ?
+    options:
+      A: "18"
+      B: "16"
+      C: "24"
+      D: "20"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q023
+    difficulty: medium
+    stem: |-
+      Which of the following terms will replace the question mark (?) in the given series?
+
+      QGMW, VCPU, AYSS, ? , KQYO
+    options:
+      A: FUVQ
+      B: FTUO
+      C: FVQO
+      D: FUXO
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q024
+    difficulty: medium
+    stem: In a certain code language, ‘D’ is coded as ‘16’, ‘B’ is coded as ‘4’ and ‘T’ is coded as ‘400’. How will ‘H’ be coded in the same language?
+    options:
+      A: "36"
+      B: "64"
+      C: "25"
+      D: "8"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q025
+    difficulty: medium
+    stem: In a certain code language, ‘bright colour rainbow’ is coded as ‘mq bj st’ and ‘sunny bright day’ is coded as ‘nv bj fm’. How is ‘bright’ coded in that language?
+    options:
+      A: st
+      B: mq
+      C: nv
+      D: bj
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-26-s2-q026
+    difficulty: medium
+    stem: At the 36th National Games, Hashika Ramchandra won six gold medals in which of the following sports?
+    options:
+      A: Swimming
+      B: Boxing
+      C: Wrestling
+      D: Badminton
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q027
+    difficulty: medium
+    stem: Which state in India was the most transformed by the Green Revolution?
+    options:
+      A: Kerala
+      B: Maharashtra
+      C: Punjab
+      D: West Bengal
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q028
+    difficulty: medium
+    stem: Which of the following ports was developed as a Satellite port to relieve the pressure at the Mumbai port?
+    options:
+      A: Marmagao Port
+      B: New Mangalore Port
+      C: Deendayal Port Authority
+      D: Jawaharlal Nehru Port
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q029
+    difficulty: medium
+    stem: Who among the following was the shortest-serving Prime Minister of India?
+    options:
+      A: Atal Bihari Vajpayee
+      B: Gulzarilal Nanda
+      C: Chandra Shekhar
+      D: Charan Singh
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q030
+    difficulty: medium
+    stem: In the context of Mathura school of Art, during which of the following periods were a number of sculptures of Brahmanical deities, such as Kartikeya, Vishnu and Kubera carved?
+    options:
+      A: Satavahana
+      B: Shaka
+      C: Parthian
+      D: Kushana
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q031
+    difficulty: medium
+    stem: In which of the following situations does the government run a deficit budget?
+    options:
+      A: When the government expenditure and revenue both are zero.
+      B: When the government revenue exceeds expenditure.
+      C: When the government expenditure equals revenue.
+      D: When the government expenditure exceeds revenue.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q032
+    difficulty: medium
+    stem: Tsang Po and Jamuna are other names of which river?
+    options:
+      A: Narmada
+      B: Indus
+      C: Ganga
+      D: Brahmaputra
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q033
+    difficulty: medium
+    stem: Which of the following groups/parties was started in San Francisco, United States of America during the Indian National Movement?
+    options:
+      A: Khilafat Committee
+      B: Ghadar Party
+      C: Swaraj Party
+      D: Hindustan Socialist Republican Association
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q034
+    difficulty: medium
+    stem: "Which of the following organisations is NOT a winner of the USD 100,000 cash prize as ‘Best Small Business: Good Food for All’, announced by the United Nations for providing inspiring, diverse and impactful solutions in improving access to healthy and sustainable food?"
+    options:
+      A: Edible Routes Private Limited
+      B: Oorja Development Solutions India Private Limited
+      C: Taru Naturals
+      D: Patanjali
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q035
+    difficulty: medium
+    stem: ‘Castling’ is related to which of the following sports?
+    options:
+      A: Chess
+      B: Billiards
+      C: Tennis
+      D: Table Tennis
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q036
+    difficulty: medium
+    stem: What is the cost of the ‘Nand Baba Milk Mission’ scheme launched by the Uttar Pradesh state government in 2023 to provide milk producers the facility of selling their milk at a reasonable price in villages through dairy co-operative societies?
+    options:
+      A: ₹2,000 crore
+      B: ₹1,500 crore
+      C: ₹500 crore
+      D: ₹1,000 crore
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q037
+    difficulty: medium
+    stem: "In the context of vernier calliper, an internal jaw is used to measure:"
+    options:
+      A: the depth of a beaker
+      B: the length correct up to 1 mm
+      C: the length of a rod and diameter of a sphere
+      D: the internal diameter of a hollow cylinder and pipes
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q038
+    difficulty: medium
+    stem: |-
+      Match the terms in column A with their respective properties in column B.
+
+      | Column-A | Column-B |
+      |---|---|
+      | i. Glucose | a. Intermediate substance in breakdown of glucose |
+      | ii. Yeast | b. Glucose is converted into pyruvic acid |
+      | iii. Glycolysis | c. Uses nutrients for fermentation process |
+      | iv. Pyruvic acid | d. Best organic substrate for respiration |
+    options:
+      A: i-d, ii-c, iii-b, iv-a
+      B: i-b, ii-d, iii-a, iv-c
+      C: i-a, ii-b, iii-c, iv-d
+      D: i-b, ii-a, iii-d, iv-c
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q039
+    difficulty: medium
+    stem: If a bar magnet is hung from a string, in which direction does its north pole point?
+    options:
+      A: North
+      B: South
+      C: East
+      D: West
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q040
+    difficulty: medium
+    stem: |-
+      Match the points under Column A with those under Column B.
+
+      | Column A (Subphylum) | Column B (Animal) |
+      |---|---|
+      | i. Hexapoda | a. Daphnia |
+      | ii. Crustacea | b. Mosquito |
+      | iii. Myriapoda | c. Limulus |
+      | iv. Chelicerata | d. Julus |
+    options:
+      A: i-b, ii-a, iii-d, iv-c
+      B: i-d, ii-c, iii-b, iv-a
+      C: i-a, ii-b, iii-c, iv-d
+      D: i-b, ii-c, iii-a, iv-d
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q041
+    difficulty: medium
+    stem: Fugdi dance is associated with which of the following states?
+    options:
+      A: Uttar Pradesh
+      B: Goa
+      C: Kerala
+      D: Uttarakhand
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q042
+    difficulty: medium
+    stem: "The concept of ‘Independence of judiciary’ in the Indian Constitution is taken from the Constitution of:"
+    options:
+      A: France
+      B: Britain
+      C: Ireland
+      D: The USA
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q043
+    difficulty: medium
+    stem: Umayalpuram K Sivaraman is an eminent musician associated with which of the following musical instruments?
+    options:
+      A: Dhol
+      B: Sitar
+      C: Mridangam
+      D: Guitar
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q044
+    difficulty: medium
+    stem: Rottela Panduga or the Roti Festival is celebrated in which Indian state?
+    options:
+      A: Maharashtra
+      B: Andhra Pradesh
+      C: Tamil Nadu
+      D: Karnataka
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q045
+    difficulty: medium
+    stem: Belur Math was founded by which of the following social reformers in British India?
+    options:
+      A: KT Telang
+      B: Swami Vivekanand
+      C: VN Mandlik
+      D: RG Bhandarkar
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q046
+    difficulty: medium
+    stem: Which of the following parts of the mountain will receive the most rainfall from moisture-laden winds?
+    options:
+      A: Leeward side
+      B: Relief side
+      C: Upward side
+      D: Windward side
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q047
+    difficulty: medium
+    stem: Which singer from Assam was posthumously awarded the Bharat Ratna in 2019?
+    options:
+      A: Rameshwar Pathak
+      B: Padmanav Bordoloi
+      C: Archana Mahanta
+      D: Bhupen Hazarika
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q048
+    difficulty: medium
+    stem: Medini Rai of Chanderi, Hasan Khan of Mewat and Mahmud Lodi joined Rana Sanga with their forces to fight against which of the following Mughal rulers?
+    options:
+      A: Aurangzeb
+      B: Humayun
+      C: Babur
+      D: Akbar
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q049
+    difficulty: medium
+    stem: Which writ is issued by a high court or supreme court when a lower court has considered a case going beyond its jurisdiction?
+    options:
+      A: Certiorari
+      B: Quo Warrant
+      C: Habeas Corpus
+      D: Prohibition
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q050
+    difficulty: medium
+    stem: "As per the UNDP, the rank of Sri Lanka in the Human Development Index (2022) is:"
+    options:
+      A: 72/189
+      B: 74/189
+      C: 75/189
+      D: 73/189
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-26-s2-q051
+    difficulty: medium
+    stem: "If 8cotθ = 7, then the value of (1 + sinθ)/cosθ is:"
+    options:
+      A: (1 + √113)/8
+      B: (7 + √113)/8
+      C: (1 + √113)/7
+      D: (8 + √113)/7
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q052
+    difficulty: medium
+    stem: |-
+      The table given below shows the distribution of employees in four different companies in 2022.
+
+      | Company | Number of zones | Average number of employees per zone | Male : Female |
+      |---|---|---|---|
+      | A | 30 | 300 | 3:5 |
+      | B | 35 | 400 | 5:3 |
+      | C | 27 | 500 | 4:5 |
+      | D | 25 | 450 | 5:4 |
+
+      Find the total number of male employees working in company D in 2022.
+    options:
+      A: "6000"
+      B: "6750"
+      C: "6500"
+      D: "6250"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q053
+    difficulty: medium
+    stem: The side BC of ∆ABC is produced to a point D. If AC = BC and ∠BAC = 70°, then find the value of 2.5∠ACD − 1.5∠ABC.
+    options:
+      A: 235°
+      B: 245°
+      C: 225°
+      D: 230°
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q054
+    difficulty: medium
+    stem: The marked price of an electronic watch in a store is ₹15,620 and it is available at a discount of 27%. What is the price (in ₹, to the nearest tens) that a customer pays if he buys from the store?
+    options:
+      A: 11,400
+      B: 9,880
+      C: 12,500
+      D: 10,800
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q055
+    difficulty: medium
+    stem: The five-digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z)?
+    options:
+      A: "16"
+      B: "18"
+      C: "17"
+      D: "15"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q056
+    difficulty: medium
+    stem: If x = √6 + 2 and y = √6 − 2, then what is the value of (x/y + y/x)² − 3?
+    options:
+      A: "22"
+      B: "35"
+      C: "42"
+      D: "97"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q057
+    difficulty: medium
+    stem: |-
+      Study the given bar graph and answer the question that follows.
+
+      The following bar graph shows the number of deaths that happened in cities 1, 2, 3 and 4 in the months mentioned.
+
+      | City | January | February | March | April | May | June |
+      |---|---|---|---|---|---|---|
+      | City 1 | 1080 | 1145 | 980 | 860 | 1458 | 1600 |
+      | City 2 | 869 | 1100 | 1356 | 765 | 1268 | 900 |
+      | City 3 | 765 | 1260 | 862 | 960 | 748 | 1386 |
+      | City 4 | 965 | 1288 | 1498 | 1148 | 1545 | 966 |
+
+      The average number of deaths that occurred during April across all the cities (rounded off to the next integer) is:
+
+      *(Figure: Grouped bar graph of deaths per month (January to June) for City 1 to City 4; values as in the table.)*
+    options:
+      A: "953"
+      B: "965"
+      C: "928"
+      D: "934"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q058
+    difficulty: medium
+    stem: If a ∶ b = c ∶ d = e ∶ f = 5 ∶ 7, then what is the ratio (3a + 5c + 11e) ∶ (3b + 5d + 11f)?
+    options:
+      A: "11 : 7"
+      B: "3 : 7"
+      C: "7 : 11"
+      D: "5 : 7"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q059
+    difficulty: medium
+    stem: "Varun and Raju, working together, can complete a job in 40 hours whereas Varun alone can complete the same job in 50 hours. The number of hours required by Raju to complete the job alone is:"
+    options:
+      A: "170"
+      B: "150"
+      C: "200"
+      D: "190"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q060
+    difficulty: medium
+    stem: What principal would amount to ₹21,420 in 2 years at the rate of 9.5% p.a. simple interest?
+    options:
+      A: ₹16,000
+      B: ₹12,000
+      C: ₹11,273
+      D: ₹18,000
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q061
+    difficulty: medium
+    stem: Raman fixes the sale price of his goods at 16% above the cost price. He sells his goods at 12% less than the fixed price. Find the profit percentage correct to two places of decimal.
+    options:
+      A: 0.08%
+      B: 2.08%
+      C: 1.07%
+      D: 3.01%
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q062
+    difficulty: medium
+    stem: If 2a − b = 3 and 8a³ − b³ = 999, then find the value of 4a² − b².
+    options:
+      A: "61"
+      B: "65"
+      C: "67"
+      D: "63"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q063
+    difficulty: medium
+    stem: "If the radius and height of a right circular cylinder are 21 cm and 5 cm, respectively, then the total surface area of the cylinder is (use π = 22/7):"
+    options:
+      A: 3432 cm²
+      B: 5212 cm²
+      C: 3816 cm²
+      D: 4312 cm²
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q064
+    difficulty: medium
+    stem: "If p = sinA/(1 + cosA), then sinA/(1 − cosA) is equal to:"
+    options:
+      A: p − 1
+      B: 1/p
+      C: 1/(1 − p)
+      D: 1/(p + 1)
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q065
+    difficulty: medium
+    stem: A thief takes off on his bike at a certain speed, after seeing a police car at a distance of 250 m. The police car starts chasing the thief and catches him. If the thief runs 1.5 km before being caught and the speed of the police car is 70 km/h, then what is the speed of thief’s bike (in km/h)?
+    options:
+      A: "65"
+      B: "50"
+      C: "55"
+      D: "60"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q066
+    difficulty: medium
+    stem: |-
+      Study the below data and answer the question that follows.
+
+      | Partners | Percentage of shares |
+      |---|---|
+      | Jeevan | 10% |
+      | Kiran | 15% |
+      | Lokesh | 8% |
+      | Rasool | 22% |
+      | Meera | 45% |
+
+      The company has issued 10 lakh shares between its five partners. If Jeevan offers to sell 20,000 of his shares to Meera, how many shares will Meera have?
+    options:
+      A: 4,60,000
+      B: 4,80,000
+      C: 4,70,000
+      D: 5,10,000
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q067
+    difficulty: medium
+    stem: The sum of two consecutive even numbers is 174. Find the smaller number.
+    options:
+      A: "86"
+      B: "84"
+      C: "88"
+      D: "90"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q068
+    difficulty: medium
+    stem: The central angle of a sector is 80° and whose length is 96π. What is the radius of the circle?
+    options:
+      A: 196 units
+      B: 216 units
+      C: 204 units
+      D: 116 units
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q069
+    difficulty: medium
+    stem: |-
+      Simplify the following expression.
+
+      (60 + 64 ÷ 4 of 4) × {1000 ÷ ((10 of (3 + 2)) × 2 of 5)} − 28 + (100 × 3 of 3).
+    options:
+      A: "1000"
+      B: "100"
+      C: "500"
+      D: "600"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q070
+    difficulty: medium
+    stem: "In Δ ABC, DE ∥ BC and 5AE = 3EC. If AB = 6.4 units, then the value of DB (in units) is:"
+    options:
+      A: "3.2"
+      B: "5"
+      C: "4"
+      D: "2.4"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q071
+    difficulty: medium
+    stem: "In a circle with center O, an arc ABC subtends an angle of 138° at the centre of the circle. The chord AB is produced to a point P. Then, the measure of ∠CBP is:"
+    options:
+      A: 42°
+      B: 111°
+      C: 69°
+      D: 108°
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q072
+    difficulty: medium
+    stem: |-
+      The given bar graph shows the turnover of five companies (in crores).
+
+      | Company | 2017-18 | 2018-19 | 2019-20 |
+      |---|---|---|---|
+      | HDFC | 250 | 250 | 300 |
+      | GM | 300 | 350 | 250 |
+      | HERO | 400 | 275 | 300 |
+      | LG | 250 | 200 | 300 |
+      | BPL | 300 | 400 | 350 |
+
+      What is the difference between the average sales turnover of all the companies put together between the years 2018-2019 and 2019-2020?.
+
+      *(Figure: Grouped bar graph ‘Turnover of five companies (in crores)’, scale 0-450 in steps of 50, bars for 2017-18 (blue), 2018-19 (orange), 2019-20 (grey). Bars are unlabelled; values read from the gridlines as in the table.)*
+    options:
+      A: ₹2 crore
+      B: ₹5 crore
+      C: ₹6.5 crore
+      D: ₹3.5 crore
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q073
+    difficulty: medium
+    stem: "Suresh’s expenditure and savings are in the ratio of 3 : 1. His income increases by 25%. If his savings increase by 20%, then by how much percentage does his expenditure increase?"
+    options:
+      A: 26 2/3%
+      B: 27 2/3%
+      C: 25 2/3%
+      D: 28 2/3%
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q074
+    difficulty: medium
+    stem: Half litre of a solution contains 15% of alcohol. To change the alcohol concentration to 50%, find the quantity of alcohol to be mixed.
+    options:
+      A: 400 ml
+      B: 350 ml
+      C: 175 ml
+      D: 250 ml
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q075
+    difficulty: medium
+    stem: In a ΔABC, right angled at B if tan C= √3, then find (sin²C + cos²C)/(1 + cot²C).
+    options:
+      A: 16/3
+      B: 3/4
+      C: 3/16
+      D: 4/15
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-26-s2-q076
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Accessibility
+      B: Apparatus
+      C: Aptitude
+      D: Atrocios
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q077
+    difficulty: medium
+    stem: |-
+      Identify the error in the given sentence.
+
+      My colleague always works latest than me.
+    options:
+      A: My colleague
+      B: latest
+      C: than me.
+      D: always works
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q078
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Loud enough to be heard.
+    options:
+      A: Audit
+      B: Audacity
+      C: Audacious
+      D: Audible
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q079
+    difficulty: medium
+    stem: |-
+      Identify from the given options the word which is similar in meaning to the following word.
+
+      Munificent
+    options:
+      A: Miserly
+      B: Malicious
+      C: Underappreciated
+      D: Magnanimous
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q080
+    difficulty: medium
+    stem: |-
+      Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.
+
+      P) once said
+
+      Q) a wise man
+
+      R) that action speaks
+
+      S) louder than words
+    options:
+      A: SQPR
+      B: QSRP
+      C: PQRS
+      D: QPRS
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      Just bite the ______ and tell him the truth.
+    options:
+      A: shot
+      B: gun
+      C: dust
+      D: bullet
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q082
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the opposite meaning of the underlined word.
+
+      In front of the big screen, this behaviour is generally considered **taboo**.
+    options:
+      A: Prescription
+      B: Obedience
+      C: Promotion
+      D: Acceptable
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q083
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined word in the given sentence.
+
+      **Verity** is a good virtue for human life.
+    options:
+      A: Truth
+      B: Information
+      C: Knowledge
+      D: Cooperation
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q084
+    difficulty: medium
+    stem: |-
+      Parts of a sentence are given below in jumbled order. Arrange the parts in the correct order to form a meaningful sentence.
+
+      Founding father / is / of / New Historicism / Greenbalt / considered / the.
+    options:
+      A: Greenbelt is the founding father of New Historicism considered.
+      B: Greenbalt is considered the founding father of New Historicism.
+      C: The founding father of New Historicism is considered Greenbalt.
+      D: The founding father is considered Greenbalt of New Historicism.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q085
+    difficulty: medium
+    stem: |-
+      Select the most appropriate verb / verb phrase to fill in the blank.
+
+      The team ________________ the championship before their star player got injured.
+    options:
+      A: has won
+      B: was won
+      C: win
+      D: had won
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q086
+    difficulty: medium
+    stem: |-
+      Select the correct ANTONYM of the underlined word to fill in the blank and complete the following sentence.
+
+      He is always **active** in a party but _______ in the class.
+    options:
+      A: angry
+      B: inert
+      C: careless
+      D: naughty
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can rectify the incorrectly spelt word in the following sentence.
+
+      In our quest for power, we often fail to acknowlege the existence of other people.
+    options:
+      A: acknowledge
+      B: accknowledge
+      C: acknowlede
+      D: acknowledje
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q088
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Money collected from people for a cause.
+    options:
+      A: Deposit
+      B: Fund
+      C: Collection
+      D: Savings
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined idiom.
+
+      Bincy’s mother **kept her cards close to her chest**.
+    options:
+      A: Kept her plans and thoughts hidden
+      B: Informed that all the cards must be kept safe
+      C: Kept her purse and money by herself
+      D: Decided to show more affection
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q090
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the following sentence in active voice.
+
+      The issue has been successfully resolved by the customer care team.
+    options:
+      A: The customer care team has successfully resolved the issue.
+      B: The issue has successfully resolved the customer care team.
+      C: The customer care team successfully resolves the issue.
+      D: The customer care team successfully resolved the issue.
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q091
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      I like bread made up of corn __________.
+    options:
+      A: failure
+      B: floor
+      C: flour
+      D: flower
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q092
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A.He remembered her as she once was – an eager, glowing girl.  
+      B.He had not seen her for nearly thirteen years.  
+      C.Mr. Satterthwaite went to meet her.  
+      D.And now he saw – a Frozen Lady.
+    options:
+      A: CBAD
+      B: ABCD
+      C: DBAC
+      D: DCBA
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q093
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the following sentence in passive voice.
+
+      Gill scored 3 centuries in Tata IPL 2023
+    options:
+      A: 3 centuries had been scored by Gill in Tata IPL 2023.
+      B: 3 centuries were scored by Gill in Tata IPL 2023.
+      C: 3 centuries has been scored by Gill in Tata IPL 2023.
+      D: 3 centuries were being scored by Gill in Tata IPL 2023.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Insert
+    options:
+      A: Remove
+      B: Select
+      C: Inject
+      D: Inform
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q095
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Carcass
+    options:
+      A: Scrap
+      B: Corpse
+      C: Prison
+      D: Gale
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q096
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .
+
+      Select the most appropriate option to fill in blank no. 1.
+    options:
+      A: never
+      B: don’t
+      C: frequently
+      D: seldom
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q097
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .
+
+      Select the most appropriate option to fill in blank no. 2.
+    options:
+      A: cannot
+      B: may not be
+      C: should
+      D: shall
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q098
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .
+
+      Select the most appropriate option to fill in blank no. 3.
+    options:
+      A: neutral
+      B: alien
+      C: foreign
+      D: common
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q099
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .
+
+      Select the most appropriate option to fill in blank no. 4.
+    options:
+      A: can
+      B: were
+      C: that
+      D: have been
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-26-s2-q100
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Social media companies (1)______ claim that they promote democracy and are dedicated to the empowerment of ordinary individuals. The assertion (2)______ entirely unfounded. Recent history shows how (3)______ citizens have been mobilised against totalitarian regimes on social networking sites. Starting from MeToo to Black Lives Matter, digital networks (4)______ indispensable in bringing together critical voices against social and political (5)______ .
+
+      Select the most appropriate option to fill in blank no. 5.
+    options:
+      A: democracy
+      B: election
+      C: justice
+      D: injustice
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english

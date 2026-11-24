@@ -1,0 +1,1349 @@
+slug: 2024-09-17-shift3
+title: SSC CGL 2024 Tier 1
+date: 2024-09-17
+label: 17 Sept, Shift 3
+source: "SSC candidate response sheet with the official answer marked (via adda247.com - https://www.adda247.com/jobs/wp-content/uploads/sites/22/2025/04/07115049/SSC-CGL-Tier-1-Question-Paper-En). Left out (picture-only options or incomplete in the source): Q7, Q14, Q18, Q20, Q23, Q84."
+questions:
+  - slug: cgl-2024-09-17-s3-q001
+    difficulty: medium
+    stem: Four letter-clusters have been given, out of which three are alike in some manner and one is different. Select the one that is different. The odd one out is not based on the number of consonants/vowels or their position in the letter cluster.
+    options:
+      A: KMOP
+      B: NPRS
+      C: UVXW
+      D: EGIJ
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q002
+    difficulty: medium
+    stem: Each of the letters in the word ‘MUSICAL’ is arranged in the English alphabetical order. How many letters are there in the English alphabetical series between the letter which is third from the left end and the one which is third from the right end in the new letter-cluster thus formed?
+    options:
+      A: Four
+      B: Two
+      C: Three
+      D: Five
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q003
+    difficulty: medium
+    stem: |-
+      Select the option in which the numbers share the same relationship as that shared by the given pair of numbers.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/deleting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      17 : 67
+
+      21 : 79
+    options:
+      A: "34 : 118"
+      B: "23 : 69"
+      C: "33 : 110"
+      D: "42 : 100"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q004
+    difficulty: medium
+    stem: |-
+      In a certain code language,
+
+      ‘A + B’ means ‘A is the mother of B’;
+
+      ‘A − B’ means ‘A is the brother of B’;
+
+      ‘A x B’ means ‘A is the sister of B’ and
+
+      ‘A ÷ B’ means ‘A is the daughter of B’.
+
+      Based on the above, if ‘J + K ÷ L − T x R’, then how is J related to L?
+    options:
+      A: Husband’s sister
+      B: Wife
+      C: Father’s sister
+      D: Sister
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q005
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (23, 230, 5)
+
+      (17, 272, 8)
+    options:
+      A: (14, 210, 5)
+      B: (18, 648, 9)
+      C: (16, 336, 7)
+      D: (19, 304, 8)
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q006
+    difficulty: medium
+    stem: |-
+      Select the triad in which the numbers are related in the same way as are the numbers of the given triads.
+
+      (54, 65, 76), (48, 59, 70)
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /deleting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: (42, 57, 68)
+      B: (27, 38, 50)
+      C: (38, 49, 60)
+      D: (31, 41, 53)
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q008
+    difficulty: medium
+    stem: |-
+      Three of the following four options are alike in a certain way and thus form a group. Which is the one that does NOT belong to that group?
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+    options:
+      A: 118 – 93 – 161
+      B: 86 – 41 – 38
+      C: 52 – 36 – 56
+      D: 33 – 15 – 12
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q009
+    difficulty: medium
+    stem: |-
+      Select the term from among the given options that can replace the question mark (?) in the following series.
+
+      YL 93, XK 88, WJ 83, VI 78, ?
+    options:
+      A: VI 74
+      B: UH 72
+      C: VG 74
+      D: UH 73
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q010
+    difficulty: medium
+    stem: |-
+      Three statements are given, followed by three conclusions numbered I, II and III. Assuming the statements to be true, even if they seem to be at variance with commonly known facts, decide which of the conclusions logically follow(s) from the statements.
+
+      Statements:
+
+      Some circles are rectangles.
+
+      Some rectangles are squares.
+
+      All squares are triangles.
+
+      Conclusions:
+
+      I. No circle is a triangle.
+
+      II. Some rectangles are triangles.
+
+      III. All rectangles are triangles.
+    options:
+      A: Both conclusion I and II follow
+      B: Only conclusion I follows
+      C: Only conclusion III follows
+      D: Only conclusion II follows
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q011
+    difficulty: medium
+    stem: In a certain code language, 'OASIS' is written as 'RJTBN' and 'OBESE' is written as 'DTFCN'. How will 'OCCUR’ be written in that language?
+    options:
+      A: QVNDD
+      B: VQDDN
+      C: VQNDD
+      D: QVDDN
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q012
+    difficulty: medium
+    stem: |-
+      The diagram given below has four different shapes, depicting different farmers of a small village, with different assets. The circle represents the farmers who own land of more than 100 yards, the pentagon represents farmers who own cows, the rhombus represents farmers who own goats, and the triangle represents farmers who own tractors.
+
+      How many farmers are there who have all four assets?
+
+      *(Figure: Four overlapping shapes: circle (land over 100 yards), pentagon (cows), rhombus (goats), triangle (tractors). Region numbers: circle only 83; circle and triangle only 6; circle and rhombus only 4; circle, rhombus and triangle 13; rhombus only 77; all four shapes 16; rhombus and triangle only 8; circle and pentagon only 15; circle, pentagon and triangle 14; pentagon, rhombus and triangle 12; pentagon only 30; pentagon and triangle only 21; triangle only 92.)*
+    options:
+      A: "16"
+      B: "14"
+      C: "30"
+      D: "21"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q013
+    difficulty: medium
+    stem: |-
+      Six words Hand, Leg, Eyes, Nose, Mouth and Ear are written on different faces of a dice. Three positions of this dice are shown in the figure. Find the word on the face opposite to Hand.
+
+      *(Figure: Three views of a dice. View 1: top Hand, left Leg, right Eyes. View 2: top Hand, left Nose, right Leg. View 3: top Leg, left Nose, right Mouth.)*
+    options:
+      A: Ear
+      B: Nose
+      C: Mouth
+      D: Leg
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q015
+    difficulty: medium
+    stem: |-
+      How many triangles are there in the given figure?
+
+      *(Figure: A circle with a vertical and a horizontal diameter. A square (turned 45°) joins the four ends of the diameters (top, right, bottom, left points on the circle). One more straight line runs from the midpoint of the square's lower-left side, through the centre, to the midpoint of its upper-right side.)*
+    options:
+      A: "16"
+      B: "12"
+      C: "10"
+      D: "14"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q016
+    difficulty: medium
+    stem: In a certain code language, ‘RUG’ is coded as ‘EPS’ and ‘SIT’ is coded as ‘RQG’. How will ‘COP’ be coded in the same language?
+    options:
+      A: MBM
+      B: MBO
+      C: NBM
+      D: NAM
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q017
+    difficulty: medium
+    stem: |-
+      What will come in place of the question mark (?) in the following equation, if ‘+’ and ‘–’ are interchanged and ‘×’ and ‘÷’ are interchanged?
+
+      99 ÷ 41 + 208 × 2 – 35 = ?
+    options:
+      A: "3990"
+      B: "3390"
+      C: "3890"
+      D: "3980"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q019
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that when sequentially placed from left to right in the blanks below will complete the letter series.
+
+      _ P _ J _ P _ P _ _ P _
+    options:
+      A: JPPJPJP
+      B: JPJPJPJ
+      C: PPJJJJJ
+      D: JJPPPPJ
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q021
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      1225, 1184, 1147, 1116, 1087, ?
+    options:
+      A: "1078"
+      B: "1072"
+      C: "1054"
+      D: "1064"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q022
+    difficulty: medium
+    stem: ‘Meek’ is related to ‘Bold’ in the same way as ‘Spend’ is related to ‘________’. (The words must be considered as meaningful English words and must not be related to each other based on the number of letters/number of consonants/vowels in the word.)
+    options:
+      A: Expend
+      B: Donate
+      C: Pay
+      D: Hoard
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q024
+    difficulty: medium
+    stem: |-
+      Which of the following terms will replace the question mark (?) in the given series?
+
+      JKT, LJR, NIP, ?
+    options:
+      A: PGO
+      B: OGP
+      C: PHN
+      D: PHM
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q025
+    difficulty: medium
+    stem: |-
+      What will come in place of ‘?’ in the following equation, if ‘+’ and ‘–‘ are interchanged and ‘×’ and ‘÷’ are interchanged?
+
+      6 ÷ 8 – 91 × 13 + 30= ?
+    options:
+      A: "20"
+      B: "25"
+      C: "22"
+      D: "23"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2024-09-17-s3-q026
+    difficulty: medium
+    stem: Which fundamental duty applies on you when you see a few school students, on their educational trip to Humayun’s tomb, writing their names on the walls?
+    options:
+      A: To uphold and protect the sovereignty, unity and integrity of India
+      B: To defend the country and render national service
+      C: To protect and improve the natural environment
+      D: To safeguard public property
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q027
+    difficulty: medium
+    stem: |-
+      Identify the sequence of implementation of the following taxes.
+
+      I.Land revenue
+
+      II.Sales tax
+
+      III.MODVAT
+
+      IV.Service tax
+    options:
+      A: III, II, IV, I
+      B: IV, II, I, III
+      C: I, II, III, IV
+      D: II, IV, I, III
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q028
+    difficulty: medium
+    stem: Which Lavani singer got Padma Shri 2022 by the President of India?
+    options:
+      A: Sulochana Chavan
+      B: Vaishali Samant
+      C: Bela Shende
+      D: Devaki Pandit
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q029
+    difficulty: medium
+    stem: In the year 1925, who extracted lipids from an erythrocyte sample and found that lipid monolayers are good for measuring molecular surface area versus lateral pressure?
+    options:
+      A: Avery and Buck
+      B: Gorter and Grendel
+      C: Carson and Eccles
+      D: Margulis and Ruska
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q030
+    difficulty: medium
+    stem: Which of the following is a species of tropical deciduous forests?
+    options:
+      A: Ebony
+      B: Mahogany
+      C: Teak
+      D: Palms
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q031
+    difficulty: medium
+    stem: Who among the following was appointed as the Governor of Jharkhand in February 2023?
+    options:
+      A: T Gahlot
+      B: RN Ravi
+      C: Ramesh Bais
+      D: CP Radhakrishnan
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q032
+    difficulty: medium
+    stem: Which of the following is the most acidic?
+    options:
+      A: C₃H₇COOH
+      B: CH₃COOH
+      C: C₂H₅COOH
+      D: HCOOH
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q033
+    difficulty: medium
+    stem: What is the primary objective of the 'Standup India' initiative?
+    options:
+      A: To promote digital transactions nationwide
+      B: To support all types of startups
+      C: To facilitate bank loans for SC/ST and women entrepreneurs
+      D: To boost the manufacturing sector
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q034
+    difficulty: medium
+    stem: Which of the following articles of the Constitution of India lays down that ‘The allocation of seats in the Council of States to be filled by representatives of the States and of the Union territories shall be in accordance with the provisions in that behalf contained in the fourth Schedule’?
+    options:
+      A: Article 83
+      B: Article 80
+      C: Article 81
+      D: Article 82
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q035
+    difficulty: medium
+    stem: Annapurna Devi is associated with which of the following musical instruments?
+    options:
+      A: Rudra veena
+      B: Surbahar
+      C: Ektara
+      D: Taal
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q036
+    difficulty: medium
+    stem: Where was the first women’s international test cricket match hosted in India in 1976?
+    options:
+      A: Mumbai
+      B: Bangalore
+      C: Kolkata
+      D: New Delhi
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q037
+    difficulty: medium
+    stem: Who among the following founded the Atmiya Sabha in 1814?
+    options:
+      A: Keshab Chandra Sen
+      B: Debendranath Tagore
+      C: Ishwar Chandra Vidyasagar
+      D: Raja Rammohun Roy
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q038
+    difficulty: medium
+    stem: Matki dance is the famous folk dance associated with which of the following states?
+    options:
+      A: Maharashtra
+      B: Gujarat
+      C: Punjab
+      D: Madhya Pradesh
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q039
+    difficulty: medium
+    stem: In the second Round Table Conference, Mahatma Gandhi represented which of the following parties?
+    options:
+      A: Communist Party of India
+      B: Muslim League
+      C: Indian National Congress
+      D: All India Forward Bloc
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q040
+    difficulty: medium
+    stem: Through which routes is the majority of India’s international trade carried out?
+    options:
+      A: Only Railway
+      B: Sea and railway
+      C: Railway and air
+      D: Sea and air
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q041
+    difficulty: medium
+    stem: Which of the following is NOT a greenhouse gas?
+    options:
+      A: Nitrous oxide
+      B: Methane
+      C: Carbon dioxide
+      D: Nitric oxide
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q042
+    difficulty: medium
+    stem: What is the amount of financial assistance provided per month to girl students studying in government schools under the ‘Tamil Nadu Pudhumai Penn Scheme’ launched by the Government of Tamil Nadu in 2023?
+    options:
+      A: ₹2,000 per month
+      B: ₹500 per month
+      C: ₹3,000 per month
+      D: ₹1,000 per month
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q043
+    difficulty: medium
+    stem: Which of the following options indicates the size of PPLO (Pleuro Pneumonia Like Organisms)?
+    options:
+      A: About 10 µm
+      B: About 20 µm
+      C: About 0.1 µm
+      D: About 30 µm
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q044
+    difficulty: medium
+    stem: According to the Census of India 2011, ‘Other Religions and Persuasions (ORP)’ comprise how much of the population?
+    options:
+      A: 9.9 million
+      B: 5.9 million
+      C: 7.9 million
+      D: 3.9 million
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q045
+    difficulty: medium
+    stem: Under Pradhan Mantri Fasal Bima Yojana, the maximum premium payable by the farmers will be _________ for all kharif food and oilseeds crops.
+    options:
+      A: 6%
+      B: 8%
+      C: 2%
+      D: 4%
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q046
+    difficulty: medium
+    stem: The Maukharis ruled over which of the following cities in western Uttar Pradesh that over the time replaced Pataliputra as a political centre of north India?
+    options:
+      A: Kanpur
+      B: Agra
+      C: Kannauj
+      D: Bareli
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q047
+    difficulty: medium
+    stem: Which allotrope of carbon was discovered by Robert F Curl, Harold W Kroto and Richard E Smalley in 1985?
+    options:
+      A: Lonsdaleite
+      B: Fullerene
+      C: Carbophene
+      D: Graphene
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q048
+    difficulty: medium
+    stem: Under which of the following Pala king's patronage the Vikramshila university in 8th century India was founded?
+    options:
+      A: Dharmapala
+      B: Gopala
+      C: Devapala
+      D: Mahipala I
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q049
+    difficulty: medium
+    stem: Kajari Mahotsav is primarily celebrated in which of the following districts of Uttar Pradesh?
+    options:
+      A: Kushi Nagar
+      B: Gorakhpur
+      C: Jhansi
+      D: Mirzapur
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q050
+    difficulty: medium
+    stem: When was the Rajiv Gandhi Khel Ratna Award renamed as Major Dhyan Chand Khel Ratna Award?
+    options:
+      A: 6th August 2021
+      B: 6th August 2022
+      C: 5th January 2022
+      D: 5th January 2021
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2024-09-17-s3-q051
+    difficulty: medium
+    stem: "If tan(A) = 3/5, then cos(A) is equal to:"
+    options:
+      A: 3/√34
+      B: 9/√34
+      C: 25/√34
+      D: 5/√34
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q052
+    difficulty: medium
+    stem: In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock market and is able to earn ₹30,000 for every ₹3,00,000. How much money is the bank earning finally if the total amount deposited in the bank is ₹60,00,000?
+    options:
+      A: ₹3,00,000
+      B: ₹2,40,000
+      C: ₹6,40,000
+      D: ₹3,60,000
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q053
+    difficulty: medium
+    stem: If x is an integer such that x + 1/x = 65/8, then find the value of x − 1/x.
+    options:
+      A: 63/6
+      B: 36/8
+      C: 63/8
+      D: 32/6
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q054
+    difficulty: medium
+    stem: In a triangle, the lengths of sides are 6 units, 12 units and x units. How many possible integer values are there for x?
+    options:
+      A: "11"
+      B: "12"
+      C: "10"
+      D: "9"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q055
+    difficulty: medium
+    stem: Arvind and Chetan started running simultaneously from the same point in the same direction on a circular track of length 210 m. If Arvind takes 180 seconds to complete one round, and Chetan takes 420 seconds to complete one round, after how much time will they meet for the first time at the starting point on the track?
+    options:
+      A: 28 minutes
+      B: 15 minutes
+      C: 10 minutes
+      D: 21 minutes
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q056
+    difficulty: medium
+    stem: Find the length of the longest diagonal (in cm) of a cuboidal box of dimensions 1.2 cm × 1.3 cm × 1.5 cm (correct to two decimal places).
+    options:
+      A: 2.23 cm
+      B: 2.35 cm
+      C: 2.22 cm
+      D: 2.32 cm
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q057
+    difficulty: medium
+    stem: A circular arc makes an angle of 15° at the centre. If the radius of the circular arc is 14 cm, what is the perimeter (correct up to two decimal places) of the sector so formed? (π = 3.14)?
+    options:
+      A: 21.32 cm
+      B: 17.66 cm
+      C: 35.32 cm
+      D: 31.66 cm
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q058
+    difficulty: medium
+    stem: |-
+      The following bar graph shows the number of students who passed the exam of GATE in the given years.
+
+      What was the percentage increase in the number of students in 2019 over 2018 (rounded off to two decimal places)?
+
+      *(Figure: Bar graph, y-axis ‘Number of Students’ (0 to 200 in steps of 20): 2018 = 140, 2019 = 180, 2020 = 130.)*
+    options:
+      A: 29.52%
+      B: 35.79%
+      C: 28.57%
+      D: 32.25%
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q059
+    difficulty: medium
+    stem: Two pipes can fill a tank in 12 hours and 18 hours, respectively, while a third pipe can empty it in 8 hours. How long (in hours) will it take to fill the empty tank if all three pipes are opened simultaneously?
+    options:
+      A: "36"
+      B: "24"
+      C: "72"
+      D: "48"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q060
+    difficulty: medium
+    stem: "If P is a digit such that 6954P is divisible by 11, then P equals:"
+    options:
+      A: "2"
+      B: "6"
+      C: "8"
+      D: "7"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q061
+    difficulty: medium
+    stem: |-
+      Simplify
+
+      −7/6 + 4/9 ÷ 5/3 × 1/16
+    options:
+      A: −18/23
+      B: −23/20
+      C: −23/18
+      D: −20/23
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q062
+    difficulty: medium
+    stem: When f(m) = m⁵ + 5m⁴ − 3m + 7 is divided by (m − 2), then the remainder is ______.
+    options:
+      A: "5"
+      B: "0"
+      C: "7"
+      D: "113"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q063
+    difficulty: medium
+    stem: "If sin θ + cos θ = √3 cos θ, then the value of cot θ is:"
+    options:
+      A: √3 + 1
+      B: √3 − 1
+      C: (√3 + 1)/2
+      D: (√3 − 1)/2
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q064
+    difficulty: medium
+    stem: 42 litres of milk at ₹25 per litre is mixed with 28 litres of milk at ₹40 per litre. Find the average price of the mixture.
+    options:
+      A: ₹31
+      B: ₹32
+      C: ₹31.5
+      D: ₹32.5
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q065
+    difficulty: medium
+    stem: |-
+      The below table gives shares traded on Hyderabad, Mumbai, and Bengaluru stock exchanges (in ₹). Study the table and answer the question that follows.
+
+      | Name of the company | Hyderabad High | Hyderabad Low | Mumbai High | Mumbai Low | Bengaluru High | Bengaluru Low |
+      |---|---|---|---|---|---|---|
+      | A | 150 | 140 | 180 | 165 | 160 | 155 |
+      | B | 250 | 225 | 325 | 315 | 300 | 290 |
+      | C | 180 | 175 | 195 | 180 | 190 | 185 |
+      | D | 350 | 325 | 410 | 395 | 390 | 375 |
+
+      For C, the low rates of shares are less than the average of the low rates of shares of the same company, in the stock exchange(s) at _____.
+    options:
+      A: Hyderabad
+      B: Bengaluru
+      C: Mumbai
+      D: Hyderabad and Mumbai
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q066
+    difficulty: medium
+    stem: "In triangle ABC, D is the mid-point of BC. If DL perpendicular to AB and DM perpendicular to AC such that DL = DM, then the triangle will be:"
+    options:
+      A: right angled triangle
+      B: equilateral triangle
+      C: obtuse angle triangle
+      D: isosceles triangle
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q067
+    difficulty: medium
+    stem: There are y yellow marbles and b blue marbles in a box. 18% of the yellow marbles were added to 24% of the blue marbles, and the total was 30. Three times the number of yellow marbles exceeds two times the number of blue marbles by 200. What is the ratio of y² to b²?
+    options:
+      A: "4 : 1"
+      B: 6 ∶ 5
+      C: 2 ∶ 1
+      D: 5 ∶ 2
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q068
+    difficulty: medium
+    stem: A function of two variable varies directly with x and inversely with y. Determine function when x = 5 and y = 3. Given that, for x = 0 and y = 1, f = 15 and for x = 1 and y = 15, f = 2.
+    options:
+      A: "2"
+      B: "15"
+      C: "5"
+      D: "10"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q069
+    difficulty: medium
+    stem: "Ajay spends 66 2/3 % of his income on different household items. If his income increases by 25% and expenditure increase by 20%, then the effect on his savings will be:"
+    options:
+      A: 35%
+      B: 49%
+      C: 28%
+      D: 61%
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q070
+    difficulty: medium
+    stem: |-
+      The below table shows the sales of motorbikes of four manufacturers from 2016 to 2020 (All the figures are in thousands). Study the table and answer the question that follows.
+
+      | Manufacturer | 2016 | 2017 | 2018 | 2019 | 2020 |
+      |---|---|---|---|---|---|
+      | P | 220 | 225 | 235 | 240 | 260 |
+      | Q | 280 | 290 | 310 | 310 | 330 |
+      | R | 350 | 375 | 385 | 390 | 400 |
+      | S | 400 | 420 | 430 | 440 | 450 |
+
+      Find the ratio of the total number of sales of the motorbikes of manufacturer Q to the total number of sales of the motorbikes of manufacturer S from 2016 to 2020.
+    options:
+      A: "74 : 103"
+      B: "76 : 107"
+      C: "72 : 105"
+      D: "78 : 107"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q071
+    difficulty: medium
+    stem: "If cosecx = 5/4, then the value of (5 sin²x + 8cot²x)/(27 tan²x − 125cos²x) is:"
+    options:
+      A: 99/47
+      B: 55/87
+      C: 77/30
+      D: 33/91
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q072
+    difficulty: medium
+    stem: |-
+      The following table shows the expenditure of a factory (in ₹ lakh) per annum on different heads over the given years.
+
+      | Year/Expenditure Head | Salary | Transport | Bonus | Loan Interest |
+      |---|---|---|---|---|
+      | 1998 | 125 | 38 | 8 | 25 |
+      | 1999 | 135 | 45 | 18 | 37 |
+      | 2000 | 149 | 57 | 37 | 39 |
+      | 2001 | 153 | 63 | 50 | 43 |
+
+      What was the average expenditure (in ₹ lakh) on transport per year that the factory had to pay during the given period?
+    options:
+      A: "50.75"
+      B: "45.58"
+      C: "48.75"
+      D: "56.63"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q073
+    difficulty: medium
+    stem: The marked price of a TV set is ₹18,500. If the dealer allows two successive discounts of 20% and 5%, for how much is the TV available?
+    options:
+      A: ₹14,000
+      B: ₹14,060
+      C: ₹15,000
+      D: ₹15,060
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q074
+    difficulty: medium
+    stem: If a triangle has a perimeter of 52 units, then all its sides have length ________ units.
+    options:
+      A: <24
+      B: <20
+      C: <26
+      D: <18
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q075
+    difficulty: medium
+    stem: In how many years will ₹7,200 amount to ₹8,928 at a simple interest rate of 8% per annum?
+    options:
+      A: Five
+      B: Three
+      C: Four
+      D: Two
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2024-09-17-s3-q076
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Cut corners
+    options:
+      A: Do something in an inexpensive and easy way
+      B: Complete a work
+      C: Clear a space
+      D: Find a suitable place
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q077
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      By whom were you injured?
+    options:
+      A: Who had injured you?
+      B: Who had been injuring you?
+      C: Who has injured you?
+      D: Who injured you?
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q078
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word in the following sentence.
+
+      The movie's plot was **predictable**, with clichéd twists and turns.
+    options:
+      A: undeviating
+      B: unexpected
+      C: evident
+      D: infelicitous
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q079
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the underlined word in the given sentence.
+
+      I was completely **mesmerised** by the performance.
+    options:
+      A: Bored
+      B: Irritated
+      C: Annoyed
+      D: Fascinated
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q080
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Easy does it
+    options:
+      A: Used to tell someone to do something horridly
+      B: Used to tell someone to do something violently
+      C: Used to tell someone to do something rarely
+      D: Used to tell someone to do something slowly and carefully
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Candid
+    options:
+      A: Tender
+      B: Dishonest
+      C: Irrelevant
+      D: Guileless
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q082
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A person who deceives others by pretending to be someone else
+    options:
+      A: Inaccessible
+      B: Impostor
+      C: Fraud
+      D: Unrecognisable
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q083
+    difficulty: medium
+    stem: Select the sentence that does NOT have a spelling error.
+    options:
+      A: The author is famous for leading a life of subterfuge and contredictions which has led to challenges in understanding past works.
+      B: Statistical patterns and historical data cannot predict the futristic problems that await a civilisation like ours.
+      C: The new caches of materials reveal a secret pleascence that was hidden away from the rest of the world
+      D: Many friends and memoirists have described the author in detail but there are no photos of the author available to the press.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q085
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      A thing fit to eat.
+    options:
+      A: Unpalatable
+      B: Edible
+      C: Uneatable
+      D: Toxic
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q086
+    difficulty: medium
+    stem: |-
+      The following sentence has been split into four segments. Identify the segment that contains a grammatical error.
+
+      Having known that / the train was already on the platform, / they ran fastly / to catch it.
+    options:
+      A: they ran fastly
+      B: Having known that
+      C: to catch it
+      D: the train was already on the platform
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q087
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word in the given sentence.
+
+      The patient was suffering from a **chronic** disease.
+    options:
+      A: Mild
+      B: Usual
+      C: Universal
+      D: Common
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q088
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence. If no substitution is required, select ‘No substitution’.
+
+      If it had not rained, they **would not postpone** the programmes.
+    options:
+      A: would be postponed
+      B: no substitution
+      C: would not have postponed
+      D: would not postponed
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q089
+    difficulty: medium
+    stem: |-
+      Select the word which means the same as the group of words given.
+
+      Capable of being done
+    options:
+      A: Suitable
+      B: Feasible
+      C: Useful
+      D: Practical
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the given word.
+
+      Reluctant
+    options:
+      A: Beautiful
+      B: Desperate
+      C: Obedient
+      D: Enthusiastic
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q091
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the underlined group of words.
+
+      The workers received **a sum for the services they rendered.**
+    options:
+      A: Remembrance
+      B: Recruitment
+      C: Rejuvenation
+      D: Remuneration
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q092
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in active voice.
+
+      Were the plants being grafted by the gardener?
+    options:
+      A: Was the gardener grafting the plants?
+      B: Were the gardener grafting the plants?
+      C: Was the gardener grafted the plants?
+      D: Were the plants grafting the gardener?
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q093
+    difficulty: medium
+    stem: |-
+      Identify the error in the following sentence.
+
+      Brr, the city view from the Eiffel Tower is amazing!
+    options:
+      A: amazing
+      B: view
+      C: Brr
+      D: from
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q094
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the underlined group of words.
+
+      Foul smell will come if the food is **not fresh**.
+    options:
+      A: brittle
+      B: crisp
+      C: odourless
+      D: stale
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q095
+    difficulty: medium
+    stem: |-
+      Select the INCORRECTLY spelt word in the given sentence.
+
+      Educational technology has become a necesity if one desires excellent output.
+    options:
+      A: Educational
+      B: technology
+      C: excellent
+      D: necesity
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q096
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Rory Cooper was a top aide to former House Majority Leader Eric Cantor, the up-and-coming Virginia Republican who lost a 2014 House primary. He was also a prominent Never Trumper, openly (1)______________ how awful he found the 45th president. The cause Cooper has (2)______________ himself to for the past year, though, is closer to home. He is, as he puts it in his Twitter bio, ‘Apparently Mr. Open the Schools’.
+
+      A father of a fifth grader, a second grader and a kindergartner, Cooper is (3) ___________ because the public schools in Fairfax, Virginia, where he lives, have not reopened. Fairfax, in the Washington, D.C., suburbs, is one of the school districts that has moved (4) ___________ toward in-person learning, and it is still not close: only in the past few weeks have students started to return to classrooms, and only about half of those eligible have opted to go back, for an (5) ________________ of two days a week.
+
+      Select the most appropriate option to fill in blank no. 1
+    options:
+      A: frisking
+      B: ignoring
+      C: skipping
+      D: detailing
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q097
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Rory Cooper was a top aide to former House Majority Leader Eric Cantor, the up-and-coming Virginia Republican who lost a 2014 House primary. He was also a prominent Never Trumper, openly (1)______________ how awful he found the 45th president. The cause Cooper has (2)______________ himself to for the past year, though, is closer to home. He is, as he puts it in his Twitter bio, ‘Apparently Mr. Open the Schools’.
+
+      A father of a fifth grader, a second grader and a kindergartner, Cooper is (3) ___________ because the public schools in Fairfax, Virginia, where he lives, have not reopened. Fairfax, in the Washington, D.C., suburbs, is one of the school districts that has moved (4) ___________ toward in-person learning, and it is still not close: only in the past few weeks have students started to return to classrooms, and only about half of those eligible have opted to go back, for an (5) ________________ of two days a week.
+
+      Select the most appropriate option to fill in blank no. 2
+    options:
+      A: pacified
+      B: isolated
+      C: committed
+      D: sorted
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q098
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Rory Cooper was a top aide to former House Majority Leader Eric Cantor, the up-and-coming Virginia Republican who lost a 2014 House primary. He was also a prominent Never Trumper, openly (1)______________ how awful he found the 45th president. The cause Cooper has (2)______________ himself to for the past year, though, is closer to home. He is, as he puts it in his Twitter bio, ‘Apparently Mr. Open the Schools’.
+
+      A father of a fifth grader, a second grader and a kindergartner, Cooper is (3) ___________ because the public schools in Fairfax, Virginia, where he lives, have not reopened. Fairfax, in the Washington, D.C., suburbs, is one of the school districts that has moved (4) ___________ toward in-person learning, and it is still not close: only in the past few weeks have students started to return to classrooms, and only about half of those eligible have opted to go back, for an (5) ________________ of two days a week.
+
+      Select the most appropriate option to fill in blank no. 3
+    options:
+      A: indebted
+      B: excited
+      C: provoked
+      D: frustrated
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q099
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Rory Cooper was a top aide to former House Majority Leader Eric Cantor, the up-and-coming Virginia Republican who lost a 2014 House primary. He was also a prominent Never Trumper, openly (1)______________ how awful he found the 45th president. The cause Cooper has (2)______________ himself to for the past year, though, is closer to home. He is, as he puts it in his Twitter bio, ‘Apparently Mr. Open the Schools’.
+
+      A father of a fifth grader, a second grader and a kindergartner, Cooper is (3) ___________ because the public schools in Fairfax, Virginia, where he lives, have not reopened. Fairfax, in the Washington, D.C., suburbs, is one of the school districts that has moved (4) ___________ toward in-person learning, and it is still not close: only in the past few weeks have students started to return to classrooms, and only about half of those eligible have opted to go back, for an (5) ________________ of two days a week.
+
+      Select the most appropriate option to fill in blank no. 4.
+    options:
+      A: plainest
+      B: slowest
+      C: longest
+      D: strangest
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2024-09-17-s3-q100
+    difficulty: medium
+    stem: |-
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      Rory Cooper was a top aide to former House Majority Leader Eric Cantor, the up-and-coming Virginia Republican who lost a 2014 House primary. He was also a prominent Never Trumper, openly (1)______________ how awful he found the 45th president. The cause Cooper has (2)______________ himself to for the past year, though, is closer to home. He is, as he puts it in his Twitter bio, ‘Apparently Mr. Open the Schools’.
+
+      A father of a fifth grader, a second grader and a kindergartner, Cooper is (3) ___________ because the public schools in Fairfax, Virginia, where he lives, have not reopened. Fairfax, in the Washington, D.C., suburbs, is one of the school districts that has moved (4) ___________ toward in-person learning, and it is still not close: only in the past few weeks have students started to return to classrooms, and only about half of those eligible have opted to go back, for an (5) ________________ of two days a week.
+
+      Select the most appropriate option to fill in blank no. 5.
+    options:
+      A: average
+      B: understanding
+      C: ideal
+      D: amount
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english

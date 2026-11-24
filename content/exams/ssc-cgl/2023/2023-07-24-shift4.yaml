@@ -1,0 +1,1355 @@
+slug: 2023-07-24-shift4
+title: SSC CGL 2023 Tier 1
+date: 2023-07-24
+label: 24 Jul, Shift 4
+source: "SSC candidate response sheet with the official answer marked (via adda247.com (https://www.adda247.com/jobs/wp-content/uploads/2025/07/17133540/SSC-CGL-Tier-1-Question-Paper_24.07.2023_5). Left out (picture-only options or incomplete in the source): Q5, Q6, Q10, Q14, Q15, Q22, Q23, Q24."
+questions:
+  - slug: cgl-2023-07-24-s4-q001
+    difficulty: medium
+    stem: |-
+      Which of the following terms will replace the question mark (?) in the given series?
+
+      XGR, TKN, POJ, LSF, ?, DAX
+    options:
+      A: HVB
+      B: HWB
+      C: GWB
+      D: HWA
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q002
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the given sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (15, 28, 41)
+
+      (19, 32, 45)
+    options:
+      A: (16, 28, 43)
+      B: (12, 25, 36)
+      C: (24, 38, 55)
+      D: (22, 35, 48)
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q003
+    difficulty: medium
+    stem: |-
+      A % B means ‘A is the daughter of B’
+
+      A = B means ‘A is the sister of B’
+
+      A \$ B means ‘A is the father of B’
+
+      If E = F = G \$ H = I, then how is G related to E?
+    options:
+      A: Brother
+      B: Son’s son
+      C: Son’s daughter
+      D: Father
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q004
+    difficulty: medium
+    stem: In a certain code language, “PRECIOUS” is written as “UOICERPS” and “FLAGRANT” is written as “NARGALFT”. How will “CHILDISH" be written in that language?
+    options:
+      A: HCSIDLIH
+      B: SIDLIHCH
+      C: SCHILDIH
+      D: HSIDLIHC
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q007
+    difficulty: medium
+    stem: |-
+      Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+      (6, 8,11)
+
+      (2, 1, 2)
+
+      (6, 7, ?)
+
+      (NOTE: Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding/subtracting/multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed)
+    options:
+      A: "12"
+      B: "10"
+      C: "4"
+      D: "13"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q008
+    difficulty: medium
+    stem: |-
+      Select the word-pair that best represents a similar relationship to the one expressed in the pair of words given below.
+
+      Shovel : Scoop
+    options:
+      A: "Spanner : Grip"
+      B: "Lever : Cut"
+      C: "Chisel : Grip"
+      D: "Hammer : Iron"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q009
+    difficulty: medium
+    stem: Three of the following four letter-clusters are alike in a certain way and one is different. Pick the odd one out.
+    options:
+      A: FGJP
+      B: ABEJ
+      C: TUXC
+      D: VWZE
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q011
+    difficulty: medium
+    stem: |-
+      Which two signs and numbers need to be interchanged to make the following equation correct?
+
+      (31 × 3) – (27 × 4) + (81 ÷ 9) = 126
+    options:
+      A: 27 and 81, + and −
+      B: 31 and 27, + and −
+      C: 3 and 4, ÷ and +
+      D: 27 and 9, + and −
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q012
+    difficulty: medium
+    stem: The second number in the given number-pairs is obtained by performing certain mathematical operation(s) on the first number. The same operation(s) is/are followed in all the number-pairs except one. Find that odd number-pair.
+    options:
+      A: "16 : 2"
+      B: "100 : 5"
+      C: "36 : 3"
+      D: "186 : 7"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q013
+    difficulty: medium
+    stem: |-
+      Select the option that represents the correct order of the given words as they would appear in an English dictionary.
+
+      1. Absurdly
+
+      2. Abstriction
+
+      3. Abstract
+
+      4. Absolutely
+
+      5. Abstain
+
+      6. Absorber
+    options:
+      A: 6, 4, 3, 5, 2, 1
+      B: 4, 6, 3, 5, 1, 2
+      C: 6, 4, 5, 3, 2, 1
+      D: 4, 6, 5, 3, 2, 1
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q016
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth term in the same way as the second term is related to the first term and the fourth term is related to the third term.
+
+      24 : 2 :: 81: 3 :: 375 : ?
+    options:
+      A: "15"
+      B: "5"
+      C: "9"
+      D: "7"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q017
+    difficulty: medium
+    stem: |-
+      In a certain code language,
+
+      ‘meet them now’ is coded as ‘el cn ah’;
+
+      ‘never meet alone’ is coded as ‘cn sm uv’ and
+
+      ‘not alone now’ is coded as ‘ah sm rt’.
+
+      (All the codes are two-letter codes only.)
+
+      How will ‘not them’ be coded in that language?
+    options:
+      A: rt sm
+      B: el uv
+      C: el rt
+      D: uv cn
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q018
+    difficulty: medium
+    stem: |-
+      Which of the following interchange of numbers would make the given equation correct?
+
+      5 × 15 ÷ 3 + 20 – 9 = 4
+    options:
+      A: 5, 20
+      B: 15, 20
+      C: 3, 9
+      D: 4, 20
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q019
+    difficulty: medium
+    stem: |-
+      Select the option that represents the letters that, when placed from left to right in the blanks below, will complete the letter series.
+
+      D _ B A _ C B _ D C B _ D _ B A
+    options:
+      A: C D A A C
+      B: D B C A C
+      C: D C B C A
+      D: C B D C A
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q020
+    difficulty: medium
+    stem: |-
+      Select the number from among the given options that can replace the question mark (?) in the following series.
+
+      31, 37, 46, 60, 81, ?
+    options:
+      A: "117"
+      B: "106"
+      C: "122"
+      D: "111"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q021
+    difficulty: medium
+    stem: |-
+      Select the set in which the numbers are related in the same way as are the numbers of the following sets.
+
+      (NOTE : Operations should be performed on the whole numbers, without breaking down the numbers into its constituent digits. E.g. 13 – Operations on 13 such as adding /subtracting /multiplying etc. to 13 can be performed. Breaking down 13 into 1 and 3 and then performing mathematical operations on 1 and 3 is not allowed.)
+
+      (28, 65, 261)
+
+      (37, 83, 342)
+    options:
+      A: (39, 42, 393)
+      B: (46, 92, 414)
+      C: (29, 54, 358)
+      D: (78, 95, 485)
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q025
+    difficulty: medium
+    stem: |-
+      Select the option that is related to the fifth letter-cluster in the same way as the second letter-cluster is related to the first letter-cluster and the fourth letter-cluster is related to the third letter-cluster.
+
+      ORANGE : FIQEWU :: MANGO : PIQER :: APPLE : ?
+    options:
+      A: ELPPA
+      B: FNSTF
+      C: GNSTG
+      D: ENSTE
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - reasoning
+  - slug: cgl-2023-07-24-s4-q026
+    difficulty: medium
+    stem: ________ was the chairman of the planning commission when the first five year plan was formulated in India.
+    options:
+      A: Dr Rajendra Prasad
+      B: Subhash Chandra Bose
+      C: Lal Bahadur Shastri
+      D: Jawaharlal Nehru
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q027
+    difficulty: medium
+    stem: In the self-help group, the loan and saving decisions are taken by the ________.
+    options:
+      A: group members
+      B: non-government organisation
+      C: bank
+      D: government
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q028
+    difficulty: medium
+    stem: As per the announcement made by the Education Minister, Dharmendra Pradhan in August 2021, the duration of Samagra Shiksha Scheme 2 is from 1 April 2021 to ___________.
+    options:
+      A: 31 December 2024
+      B: 31 March 2023
+      C: 31 March 2026
+      D: 31 December 2021
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q029
+    difficulty: medium
+    stem: "According to Kautilya’s Arthashastra, the Commanding Officer of the cavalry in the Mauryan administration was known as:"
+    options:
+      A: Rathadhyaksha
+      B: Hastyadhyaksha
+      C: Ashwadhyaksha
+      D: Patyadhyaksha
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q030
+    difficulty: medium
+    stem: Doongri festival of Himachal Pradesh is primarily celebrated by which religious community?
+    options:
+      A: Buddhist
+      B: Sikh
+      C: Muslim
+      D: Hindu
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q031
+    difficulty: medium
+    stem: Arjun Singh Dhurve was conferred the Padma Shri in 2022 for his contribution to the Baiga dance form of which state?
+    options:
+      A: Odisha
+      B: Rajasthan
+      C: West Bengal
+      D: Madhya Pradesh
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q032
+    difficulty: medium
+    stem: Which of the soluble fibres found in fruits is used as a thickener in cooking and baking?
+    options:
+      A: Lignin
+      B: Cellulose
+      C: Pectin
+      D: Inulin
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q033
+    difficulty: medium
+    stem: "'Vazhuvoor'is one of the styles of which Indian classical dance form?"
+    options:
+      A: Kathak
+      B: Bharatanatyam
+      C: Kathakali
+      D: Mohiniyattam
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q034
+    difficulty: medium
+    stem: Who was the Mughal emperor during the third battle of Panipat?
+    options:
+      A: Akbar II
+      B: Shahalam II
+      C: Bahadur Shah I
+      D: Bahadurshah Jafar
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q035
+    difficulty: medium
+    stem: The Champaran Satyagraha took place in ________.
+    options:
+      A: "1914"
+      B: "1923"
+      C: "1917"
+      D: "1920"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q036
+    difficulty: medium
+    stem: According to Koeppen’s Scheme, which type of climate is denoted by the letter ‘E’ in India?
+    options:
+      A: Tropical savannah
+      B: Hot desert
+      C: Monsoon with dry summer
+      D: Polar type
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q037
+    difficulty: medium
+    stem: When did Carl Friedrich Gauss and Wilhelm Eduard Weber invent the world's first electromagnetic telegraph?
+    options:
+      A: "1833"
+      B: "1832"
+      C: "1830"
+      D: "1831"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q038
+    difficulty: medium
+    stem: Who among the following was one of the founders of Rahnumai Mazdayasnan Sabha or Religious Reform Association?
+    options:
+      A: Kesub Chandra Sen
+      B: Dadabhai Naoroji
+      C: Muhammad Iqbal
+      D: Aatmarang Pandurang
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q039
+    difficulty: medium
+    stem: In which of the following cities of British India was Lata Mangeshkar born?
+    options:
+      A: Bombay
+      B: Calcutta
+      C: Lucknow
+      D: Indore
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q040
+    difficulty: medium
+    stem: When did India first win the first World Cup title in Hockey?
+    options:
+      A: "1975"
+      B: "1978"
+      C: "1971"
+      D: "1982"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q041
+    difficulty: medium
+    stem: Which of the following periods is known as the period of population explosion in India?
+    options:
+      A: 1981 - 2021
+      B: 1931 - 1961
+      C: 1921 - 1951
+      D: 1951 - 1981
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q042
+    difficulty: medium
+    stem: Which of the following is NOT one of the scenarios of National Digital Education Architecture (NDEAR) launched by the Government of India in 2021?
+    options:
+      A: Manage Learn
+      B: Learn
+      C: Develop Learn
+      D: Help Learn
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q043
+    difficulty: medium
+    stem: Which form of leucoplast specialises in oil synthesis and storage and is mainly found in the layer of cells in pollen grains that develop pollen grains?
+    options:
+      A: Gerontoplasts
+      B: Proteinoplasts
+      C: Chloroplasts
+      D: Elaioplasts
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q044
+    difficulty: medium
+    stem: |-
+      Which of the following statements are correct regarding the State Executive?
+
+      A. Article 152 of the Indian Constitution states ‘Unless the context otherwise requires, the expression ‘State’ does not include Jammu and Kashmir’.
+
+      B. The 7th Constitutional Amendment Act has provided for the appointment of the same person as Governor for two or more states.
+
+      C. The Supreme Court clearly mentioned that the office of the Governor is under the control of the Central Government.
+    options:
+      A: B and C only
+      B: A and C only
+      C: A, B and C
+      D: A and B only
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q045
+    difficulty: medium
+    stem: The ‘East-West’ corridor connects which of the following cities?
+    options:
+      A: Itanagar and Dwarka
+      B: Guwahati and Gandhinagar
+      C: Shillong and Kandla
+      D: Silchar and Porbandar
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q046
+    difficulty: medium
+    stem: The centre of a cyclone is a calm area. It is called the ______ of the storm.
+    options:
+      A: base
+      B: focal point
+      C: eye
+      D: trigger point
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q047
+    difficulty: medium
+    stem: The feature of fundamental duties in the Indian Constitution is adopted from which of the following countries?
+    options:
+      A: UK
+      B: Germany
+      C: US
+      D: Soviet Union (USSR)
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q048
+    difficulty: medium
+    stem: The Nehru trophy boat race was organised by which of the following states?
+    options:
+      A: Karnataka
+      B: Tamil Nadu
+      C: West Bengal
+      D: Kerala
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q049
+    difficulty: medium
+    stem: As mentioned in the Government of India's Economic Survey 2022-23, Aadhaar is an essential tool for social delivery of how many Central Schemes as notified under Section 7 of the Aadhaar Act, 2016?
+    options:
+      A: "228"
+      B: "564"
+      C: "318"
+      D: "720"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q050
+    difficulty: medium
+    stem: Which suffix is used when the −CHO group is attached to a carbon atom of a ring or ring system, or to a heteroatom?
+    options:
+      A: Amide
+      B: Halide
+      C: Nitrile
+      D: Carbaldehyde
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - general-awareness
+  - slug: cgl-2023-07-24-s4-q051
+    difficulty: medium
+    stem: 6 labourers can finish a work in 16 days. 10 labourers are available, but the work is to be finished by 8 days. How many more labourers are to be called to finish the work in time?
+    options:
+      A: "2"
+      B: "0"
+      C: "4"
+      D: "1"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q052
+    difficulty: medium
+    stem: R, S and T can finish a work in 20, 15 and 10 days, respectively. R works on all days and S and T work on alternate days with T starting the work on the first day. In how many days is the work finished?
+    options:
+      A: 61/7
+      B: 50/7
+      C: 52/7
+      D: 57/8
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q053
+    difficulty: medium
+    stem: "The side of an equilateral triangle is 12 cm. What is the area (in cm², rounded off to 2 decimal places) of the triangle? Given: √3 = 1.732"
+    options:
+      A: "68.07"
+      B: "63.89"
+      C: "62.35"
+      D: "65.23"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q054
+    difficulty: medium
+    stem: "A dishonest shopkeeper sells mangoes at ₹30/kg bought at ₹20/kg and he is giving 800 g instead of 1 kg. The shopkeeper’s actual profit percentage is:"
+    options:
+      A: 75%
+      B: 37.5%
+      C: 50%
+      D: 87.5%
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q055
+    difficulty: medium
+    stem: Simplify 1/(2 + 2p) + 1/(2 + 2q) + 1/(2 + 2r), where p = x/(y + z), if q = y/(z + x) and r = z/(x + y).
+    options:
+      A: "1"
+      B: x + y + z
+      C: "2"
+      D: 1/2
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q056
+    difficulty: medium
+    stem: A ball is to be made with inner radius of 2 units and outside radius of 3 units. How much material is required to make the ball?
+    options:
+      A: (19/3)π
+      B: 19π
+      C: (76/3)π
+      D: π
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q057
+    difficulty: medium
+    stem: 4 men and 6 women can complete a work in 8 days, while 3 men and 7 women can complete it in 10 days. In how many days will 10 women complete it?
+    options:
+      A: "44"
+      B: "40"
+      C: "15"
+      D: "16"
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q058
+    difficulty: medium
+    stem: |-
+      The given chart shows the marks scored by a class X student in different subjects.
+
+      [Pie chart: ‘Class X Marks of a Student (Values are in Degrees)’]
+
+      | Subject | Degrees |
+      |---|---|
+      | English | 60° |
+      | Hindi | 62° |
+      | Social Science | 72° |
+      | Mathematics | 84° |
+      | Science | 82° |
+
+      If the total marks are 1800, then find the marks in social science.
+
+      *(Figure: 3-D pie chart titled ‘Class X Marks of a Student (Values are in Degrees)’ with five sectors; legend: English - 60°, Hindi - 62°, Social Science - 72°, Mathematics - 84°, Science - 82°.)*
+    options:
+      A: "350"
+      B: "306"
+      C: "360"
+      D: "72"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q059
+    difficulty: medium
+    stem: If acot θ = b, then what will be the value of (bcosθ − asinθ)/(bcosθ + asinθ)?
+    options:
+      A: (b² + a²)/(b² − a²)
+      B: b² + a²
+      C: (b² − a²)/(b² + a²)
+      D: "0"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q060
+    difficulty: medium
+    stem: "The time required for a sum of money to amount to three times itself at 8% simple interest p.a. will be:"
+    options:
+      A: 35 years
+      B: 25 years
+      C: 30 years
+      D: 20 years
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q061
+    difficulty: medium
+    stem: |-
+      Simplify:
+
+      220 + 80 ÷ [63 − {7 × 8 + (13 − 2 × 4)}]
+    options:
+      A: "260"
+      B: "270"
+      C: "240"
+      D: "250"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q062
+    difficulty: medium
+    stem: A boat covers a distance of 80 km downstream in 8 h while it takes 10 h to cover the same distance upstream. What is the speed (in km/h) of the boat in still water?
+    options:
+      A: "18"
+      B: "12"
+      C: "9"
+      D: "16"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q063
+    difficulty: medium
+    stem: |-
+      Simplify the given expression.
+
+      (1 + sin⁴ θ + cos⁴ θ)/(cos² θ + sin⁴ θ)
+    options:
+      A: "3"
+      B: "1"
+      C: "2"
+      D: "4"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q064
+    difficulty: medium
+    stem: Dharmendra can row 80 km upstream and 110 km downstream in 13 hours. Also, he can row 60 km upstream and 88 km downstream in 10 hours. What is the speed (in km/h) of the current?
+    options:
+      A: "6"
+      B: "16"
+      C: "10"
+      D: "12"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q065
+    difficulty: medium
+    stem: In an examination a candidate had to sit for three papers A, B, and C. The candidate secured 75% marks in Paper A, 80% marks in Paper B, and 60% marks in Paper C. If the weightage assigned to Papers A, B, and C were 40%, 50% and 10%, respectively, then find the weighted percentage of marks obtained by the candidate, when all the three papers were taken together.
+    options:
+      A: 77%
+      B: 74%
+      C: 72%
+      D: 76%
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q066
+    difficulty: medium
+    stem: |-
+      Study the given pie-chart carefully and answer the following question.
+
+      What is the total amount (in Rs.) used by the school for the payment?
+
+      The entire fund that school gets from different sources is equal to Rs.10 lakh
+
+      Source of funds in school:
+
+      | Source | Share |
+      |---|---|
+      | NGO's | 38% |
+      | Donation | 35% |
+      | Internal sources | 15% |
+      | Government agencies | 12% |
+
+      Uses of Funds by school:
+
+      | Use | Share |
+      |---|---|
+      | School Maintenance | 30% |
+      | Reserved | 33% |
+      | Scholarship | 26% |
+      | Payment | 11% |
+
+      *(Figure: Two pie charts. ‘Source of funds in school’: NGO's 38%, Donation 35%, Internal sources 15%, Government agencies 12%. ‘Uses of Funds by school’: School Maintenance 30%, Reserved 33%, Scholarship 26%, Payment 11%.)*
+    options:
+      A: 1,20,000
+      B: 3,10,000
+      C: 1,10,000
+      D: 2,10,000
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q067
+    difficulty: medium
+    stem: If (4y − 4/y) = 13, find the value of (y² + 1/y²).
+    options:
+      A: 12 11/16
+      B: 10 9/16
+      C: 12 9/16
+      D: 8 9/16
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q068
+    difficulty: medium
+    stem: |-
+      In the given figure, chords XY and PQ intersect each other at point L. Find the length of XY (in cm).
+
+      [Figure: circle with chords PQ and XY extended to meet outside the circle at L]
+
+      *(Figure: A circle with chord PQ (PQ = 10 cm) extended beyond Q to L (QL = 5 cm), and chord XY (XY = x cm) extended beyond Y to the same point L (YL = 3 cm).)*
+    options:
+      A: "21"
+      B: "20"
+      C: "22"
+      D: "23"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q069
+    difficulty: medium
+    stem: "A person marks his goods x% above the cost price and allows a discount of 12% on the marked price. If his profit is 10%, then the difference between x% and the profit percentage is:"
+    options:
+      A: 15%
+      B: 18%
+      C: 13%
+      D: 10%
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q070
+    difficulty: medium
+    stem: Two equal circles of radius 18 cm intersect each other, such that each passes through the centre of the other. The length of the common chord is _________.
+    options:
+      A: 6√27 cm
+      B: 9√27 cm
+      C: √3 cm
+      D: 3√3 cm
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q071
+    difficulty: medium
+    stem: |-
+      In the given ΔABC, DE ll BC. If BC = 8 cm, DE = 6 cm and area of ΔADE = 90 cm², then what is the area of ΔABC (in cm²)?
+
+      [Figure: triangle ABC with D on AB and E on AC, DE parallel to BC]
+
+      *(Figure: Triangle ABC with apex A at the top; D on AB and E on AC, segment DE drawn parallel to the base BC.)*
+    options:
+      A: "140"
+      B: "120"
+      C: "160"
+      D: "190"
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q072
+    difficulty: medium
+    stem: Rima spends 35% of her monthly income on food articles and 15% of the remaining on clothes. She saves 40% of the remaining income. If her monthly salary is ₹27,500, how much does she save (in ₹) every month?
+    options:
+      A: "6077.5"
+      B: "6170.5"
+      C: "6277.5"
+      D: "6370.5"
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q073
+    difficulty: medium
+    stem: A pole is 9030 cm long. It is colored saffron, white and green in the ratio of 6:7:8. Find the length of the green part of the pole.
+    options:
+      A: 3440cm
+      B: 3010cm
+      C: 3480cm
+      D: 2580cm
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q074
+    difficulty: medium
+    stem: If x + 1/x = 9, then find x⁴ + 1/x⁴.
+    options:
+      A: "5431"
+      B: "6561"
+      C: "6156"
+      D: "6239"
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q075
+    difficulty: medium
+    stem: Find the value of k if 13 − [10 − {16 + 8 ÷ (k − 2)} + 2] = 20.
+    options:
+      A: 14/3
+      B: 31/3
+      C: 40/13
+      D: 23/13
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - quant
+  - slug: cgl-2023-07-24-s4-q076
+    difficulty: medium
+    stem: Select the grammatically correct sentence.
+    options:
+      A: The warrior was waiting for an right time to attack the lion hiding in a cave.
+      B: The warrior was waiting for the right time to attack the lion hiding in the cave.
+      C: An warrior was waiting for a right time to attack the lion hiding in the cave.
+      D: The warrior was waiting for a right time to attack an lion hiding in the cave.
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q077
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym for the underlined word in the given sentence.
+
+      The hot sun **enervated** the labourer to the extent that he collapsed.
+    options:
+      A: weaken
+      B: alleviate
+      C: energise
+      D: elevate
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q078
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph
+
+      A. I would attach as many as four of them to a crosspiece, rotably arranged on a thin spindle, and transmit the motion of the same to a large disc and so derive considerable ‘power’.
+
+      B. In my next attempt I seem to have acted under the first instinctive impulse which later dominated me – to harness the energies of nature to the service of man.
+
+      C. These creatures were remarkably efficient, for once they were started they had no sense to stop and continued whirling for hours and hours and the hotter it was the harder they worked.
+
+      D. I did this through the medium of May-bugs – or June-bugs as they are called in America – which were a veritable pest in that country and sometimes broke the branches of trees by the sheer weight of their bodies.
+    options:
+      A: BACD
+      B: ACBD
+      C: BDAC
+      D: DACB
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q079
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Hoarse
+      B: Imprint
+      C: Precious
+      D: Visious
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q080
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      To move or travel back and forth frequently
+    options:
+      A: Grapple
+      B: Shuttle
+      C: Rupture
+      D: Foster
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q081
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word.
+
+      My **complaint** is that the gardener dozes off during work.
+    options:
+      A: Challenge
+      B: Carp
+      C: Praise
+      D: Demur
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q082
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option that can substitute the underlined segment in the given sentence.
+
+      You can always **dependent on me**.
+    options:
+      A: depend over me
+      B: depend for me
+      C: depend at me
+      D: depend on me
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q083
+    difficulty: medium
+    stem: |-
+      Select the option that can be used as a one-word substitute for the given group of words.
+
+      Willing to take risks and try new ideas.
+    options:
+      A: Resolute
+      B: Desperate
+      C: Adventurous
+      D: Mythical
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q084
+    difficulty: medium
+    stem: |-
+      Select the most appropriate synonym of the given word.
+
+      Exuberance
+    options:
+      A: Vibrancy
+      B: Laziness
+      C: Sympathy
+      D: Impartiality
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q085
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Rakesh will win the lottery.
+    options:
+      A: The lottery is won by Rakesh.
+      B: The lottery will have won by Rakesh.
+      C: The lottery will be won by Rakesh.
+      D: The lottery was won by Rakesh.
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q086
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A.Those verses are collectively known as the Bhagavadgita.
+
+      B.His hesitation before the battle against his family became the occasion for his friend and charioteer, Lord Krishna, to deliver a discourse on dharma.
+
+      C.Arjuna was one of the five Pandava brothers, who are the heroes of the Indian epic, the ‘Mahabharata’.
+
+      D.He was the son of the god Indra and was famous for his archery.
+    options:
+      A: DCBA
+      B: CDBA
+      C: ABDC
+      D: BADC
+    answer: B
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q087
+    difficulty: medium
+    stem: Select the INCORRECTLY spelt word.
+    options:
+      A: Entrance
+      B: Brief
+      C: Thunder
+      D: Statinary
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q088
+    difficulty: medium
+    stem: |-
+      Select the option that expresses the given sentence in passive voice.
+
+      Authorities denied his simple request.
+    options:
+      A: His simple request has been denied by authorities.
+      B: His simple request is denied by authorities.
+      C: His simple request had been denied by authorities.
+      D: His simple request was denied by authorities.
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q089
+    difficulty: medium
+    stem: |-
+      Select the most appropriate phrasal verb to fill in the blank.
+
+      The details were _________ from one person to the other within no time.
+    options:
+      A: passed away
+      B: passed in
+      C: passed down
+      D: passed out
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q090
+    difficulty: medium
+    stem: |-
+      Select the most appropriate option to fill in the blank.
+
+      The room was very_______ .
+    options:
+      A: quit
+      B: quilt
+      C: quiet
+      D: quite
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q091
+    difficulty: medium
+    stem: |-
+      Select the correct idiom to replace the underlined segment in the given sentence.
+
+      Harry always **speaks his eye** but he is not always very diplomatic!
+    options:
+      A: speaks his tongue
+      B: reads his heart
+      C: speaks his mind
+      D: listens his ear
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q092
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the given idiom.
+
+      Pass the buck
+    options:
+      A: Providing essential services
+      B: Trying to calm down
+      C: Blaming another person
+      D: Saying something unpleasant
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q093
+    difficulty: medium
+    stem: |-
+      Select the most appropriate ANTONYM of the underlined word in the given sentence.
+
+      The lizard's light brown skin acts as **camouflage** in the desert sand.
+    options:
+      A: clothed
+      B: mask
+      C: reveal
+      D: vanishing
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q094
+    difficulty: medium
+    stem: |-
+      Select the most appropriate meaning of the underlined word in the given sentence.
+
+      We have always been told **retaliation** is not the key to resolving problems.
+    options:
+      A: revenge
+      B: outcome
+      C: realisation
+      D: pamper
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q095
+    difficulty: medium
+    stem: |-
+      Sentences of a paragraph are given below in jumbled order. Arrange the sentences in the correct order to form a meaningful and coherent paragraph.
+
+      A)There is a general belief that these medicines heal ailments safely.
+
+      B)The 'safe healing’ is actually that which doesn’t have any side effects.
+
+      C)Positive healing without any unwanted effect on the body drives the trend.
+
+      D)Herbal medicines are a new trend these days.
+    options:
+      A: ADCB
+      B: DACB
+      C: DABC
+      D: ACDB
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q096
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The structure of human psyche, as postulated by Sigmund Freud, (1)___________ of the ego, the super ego, and the id. The ego forms the part of our conscious mind which we work with and are most (2)______ of. The super ego forms our conscience in the form of the unconscious and works on the (3)_________ of social and cultural influences. The id represents our subconscious which contains all (4)________ thoughts, desires, and dreams. Dreams work as a free pathway into the subconscious, which is an inaccessible zone in general. It can also contain (5)_________ scenes or images that apparently have no relation to anything related to the person.
+
+      Select the most appropriate option to fill in blank number 1.
+    options:
+      A: desires
+      B: lacks
+      C: grapples
+      D: consists
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q097
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The structure of human psyche, as postulated by Sigmund Freud, (1)___________ of the ego, the super ego, and the id. The ego forms the part of our conscious mind which we work with and are most (2)______ of. The super ego forms our conscience in the form of the unconscious and works on the (3)_________ of social and cultural influences. The id represents our subconscious which contains all (4)________ thoughts, desires, and dreams. Dreams work as a free pathway into the subconscious, which is an inaccessible zone in general. It can also contain (5)_________ scenes or images that apparently have no relation to anything related to the person.
+
+      Select the most appropriate option to fill in blank number 2.
+    options:
+      A: afraid
+      B: dependent
+      C: aware
+      D: resistant
+    answer: C
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q098
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The structure of human psyche, as postulated by Sigmund Freud, (1)___________ of the ego, the super ego, and the id. The ego forms the part of our conscious mind which we work with and are most (2)______ of. The super ego forms our conscience in the form of the unconscious and works on the (3)_________ of social and cultural influences. The id represents our subconscious which contains all (4)________ thoughts, desires, and dreams. Dreams work as a free pathway into the subconscious, which is an inaccessible zone in general. It can also contain (5)_________ scenes or images that apparently have no relation to anything related to the person.
+
+      Select the most appropriate option to fill in blank number 3.
+    options:
+      A: love
+      B: counter
+      C: understanding
+      D: basis
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q099
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The structure of human psyche, as postulated by Sigmund Freud, (1)___________ of the ego, the super ego, and the id. The ego forms the part of our conscious mind which we work with and are most (2)______ of. The super ego forms our conscience in the form of the unconscious and works on the (3)_________ of social and cultural influences. The id represents our subconscious which contains all (4)________ thoughts, desires, and dreams. Dreams work as a free pathway into the subconscious, which is an inaccessible zone in general. It can also contain (5)_________ scenes or images that apparently have no relation to anything related to the person.
+
+      Select the most appropriate option to fill in blank number 4.
+    options:
+      A: repressed
+      B: heavy
+      C: legal
+      D: sanctioned
+    answer: A
+    explanation: As per SSC's official answer.
+    tags:
+      - english
+  - slug: cgl-2023-07-24-s4-q100
+    difficulty: medium
+    stem: |-
+      Comprehension:
+
+      In the following passage, some words have been deleted. Read the passage carefully and select the most appropriate option to fill in each blank.
+
+      The structure of human psyche, as postulated by Sigmund Freud, (1)___________ of the ego, the super ego, and the id. The ego forms the part of our conscious mind which we work with and are most (2)______ of. The super ego forms our conscience in the form of the unconscious and works on the (3)_________ of social and cultural influences. The id represents our subconscious which contains all (4)________ thoughts, desires, and dreams. Dreams work as a free pathway into the subconscious, which is an inaccessible zone in general. It can also contain (5)_________ scenes or images that apparently have no relation to anything related to the person.
+
+      Select the most appropriate option to fill in blank number 5.
+    options:
+      A: parallel
+      B: constricted
+      C: concurrent
+      D: bizarre
+    answer: D
+    explanation: As per SSC's official answer.
+    tags:
+      - english
