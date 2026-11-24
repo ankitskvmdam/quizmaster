@@ -13,7 +13,9 @@ questions:
       C: UVXW
       D: EGIJ
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      KMOP, NPRS and EGIJ follow +2, +2, +1.
+      UVXW follows +1, +2, −1, so it is the odd one.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q002
@@ -25,7 +27,9 @@ questions:
       C: Three
       D: Five
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      MUSICAL in alphabetical order is A C I L M S U.
+      Third from the left is I and third from the right is M; between them are J, K, L = three letters.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q003
@@ -44,7 +48,9 @@ questions:
       C: "33 : 110"
       D: "42 : 100"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Rule: × 3 + 16 (17 × 3 + 16 = 67, 21 × 3 + 16 = 79).
+      34 × 3 + 16 = 118.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q004
@@ -67,7 +73,9 @@ questions:
       C: Father’s sister
       D: Sister
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      J is the mother of K, K is the daughter of L, and L is the brother of T (so L is male).
+      K’s mother J and K’s father L are a couple: J is L’s wife.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q005
@@ -86,7 +94,9 @@ questions:
       C: (16, 336, 7)
       D: (19, 304, 8)
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Second number = first × (2 × third): 23 × 10 = 230, 17 × 16 = 272.
+      19 × 16 = 304 fits; the others do not.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q006
@@ -103,7 +113,9 @@ questions:
       C: (38, 49, 60)
       D: (31, 41, 53)
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Each triad rises by 11 at each step: 54, 65, 76 and 48, 59, 70.
+      38, 49, 60 follows the same rule.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q008
@@ -118,7 +130,9 @@ questions:
       C: 52 – 36 – 56
       D: 33 – 15 – 12
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Rule: first + third = 3 × second (118 + 161 = 279 = 3 × 93; 52 + 56 = 108 = 3 × 36; 33 + 12 = 45 = 3 × 15).
+      For B, 86 + 38 = 124, not 3 × 41 = 123, so B is the odd one.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q009
@@ -133,7 +147,9 @@ questions:
       C: VG 74
       D: UH 73
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      First letters go back one (Y, X, W, V, U), second letters go back one (L, K, J, I, H) and the numbers fall by 5 (93, 88, 83, 78, 73).
+      So the next term is UH 73.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q010
@@ -162,7 +178,9 @@ questions:
       C: Only conclusion III follows
       D: Only conclusion II follows
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Some rectangles are squares and all squares are triangles, so some rectangles are triangles (II follows).
+      Nothing settles I or III.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q011
@@ -174,7 +192,9 @@ questions:
       C: VQNDD
       D: QVDDN
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Reverse the word, then shift the letters −1, +1, +1, +1, −1 (OASIS → SISAO → RJTBN; OBESE → ESEBO → DTFCN).
+      OCCUR → RUCCO → QVDDN.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q012
@@ -191,7 +211,7 @@ questions:
       C: "30"
       D: "21"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The region shared by the circle, pentagon, rhombus and triangle holds 16, so 16 farmers have all four assets.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q013
@@ -206,7 +226,9 @@ questions:
       C: Mouth
       D: Leg
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Leg touches Hand, Eyes, Nose and Mouth, so Leg is opposite Ear.
+      Hand touches Leg, Eyes and Nose; of Mouth and Ear, Ear is taken, so Mouth is opposite Hand.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q015
@@ -221,7 +243,9 @@ questions:
       C: "10"
       D: "14"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The two diameters cut the square into 4 small triangles, and pairs of these form 4 half-square triangles.
+      The extra line through the centre splits 2 of the small triangles into 4 more: 4 + 4 + 4 = 12.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q016
@@ -233,7 +257,7 @@ questions:
       C: NBM
       D: NAM
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: In the given codes the first code letter is the word’s last letter moved 2 back (RUG → E, SIT → R), so COP starts with N; SSC’s key gives NAM.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q017
@@ -248,7 +272,7 @@ questions:
       C: "3890"
       D: "3980"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "After swapping: 99 × 41 − 208 ÷ 2 + 35 = 4059 − 104 + 35 = 3990."
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q019
@@ -263,7 +287,7 @@ questions:
       C: PPJJJJJ
       D: JJPPPPJ
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Filling J, P, P, J, P, J, P gives JPP JPP JPP JPP, the block ‘JPP’ repeated four times.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q021
@@ -278,7 +302,9 @@ questions:
       C: "1054"
       D: "1064"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The differences are the primes in descending order: −41, −37, −31, −29, then −23.
+      1087 − 23 = 1064.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q022
@@ -290,7 +316,7 @@ questions:
       C: Pay
       D: Hoard
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: ‘Meek’ and ‘Bold’ are opposites; the opposite of ‘Spend’ is ‘Hoard’.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q024
@@ -305,7 +331,9 @@ questions:
       C: PHN
       D: PHM
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      First letters +2 (J, L, N, P), second letters −1 (K, J, I, H), third letters −2 (T, R, P, N).
+      So the next term is PHN.
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q025
@@ -320,7 +348,7 @@ questions:
       C: "22"
       D: "23"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "After swapping: 6 × 8 + 91 ÷ 13 − 30 = 48 + 7 − 30 = 25."
     tags:
       - reasoning
   - slug: cgl-2024-09-17-s3-q026
@@ -332,7 +360,7 @@ questions:
       C: To protect and improve the natural environment
       D: To safeguard public property
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Humayun’s Tomb is a public monument; Article 51A(i) asks citizens to safeguard public property.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q027
@@ -353,7 +381,9 @@ questions:
       C: I, II, III, IV
       D: II, IV, I, III
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Land revenue is ancient; sales tax came in the 1930s–40s; MODVAT in 1986; service tax in 1994.
+      So the order is I, II, III, IV.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q028
@@ -365,7 +395,7 @@ questions:
       C: Bela Shende
       D: Devaki Pandit
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Lavani singer Sulochana Chavan received the Padma Shri in 2022.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q029
@@ -377,7 +407,7 @@ questions:
       C: Carson and Eccles
       D: Margulis and Ruska
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: In 1925 Gorter and Grendel extracted lipids from red blood cells and found they formed a bilayer, using lipid monolayers to measure surface area.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q030
@@ -389,7 +419,7 @@ questions:
       C: Teak
       D: Palms
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Teak is the typical tree of tropical deciduous (monsoon) forests; ebony, mahogany and palms belong to evergreen forests.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q031
@@ -401,7 +431,7 @@ questions:
       C: Ramesh Bais
       D: CP Radhakrishnan
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: C. P. Radhakrishnan was appointed Governor of Jharkhand in February 2023, succeeding Ramesh Bais.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q032
@@ -413,7 +443,7 @@ questions:
       C: C₂H₅COOH
       D: HCOOH
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Formic acid (HCOOH) has no electron-donating alkyl group, so it is the strongest of these carboxylic acids.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q033
@@ -425,7 +455,7 @@ questions:
       C: To facilitate bank loans for SC/ST and women entrepreneurs
       D: To boost the manufacturing sector
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Stand-Up India (2016) helps SC/ST and women entrepreneurs get bank loans of ₹10 lakh to ₹1 crore for new enterprises.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q034
@@ -437,7 +467,7 @@ questions:
       C: Article 81
       D: Article 82
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Article 80(2) says Rajya Sabha seats for states and UTs are allocated as set out in the Fourth Schedule.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q035
@@ -449,7 +479,7 @@ questions:
       C: Ektara
       D: Taal
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Annapurna Devi was a celebrated surbahar (bass sitar) player.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q036
@@ -461,7 +491,7 @@ questions:
       C: Kolkata
       D: New Delhi
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: India’s first women’s Test at home was against the West Indies at Bangalore in October 1976.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q037
@@ -473,7 +503,7 @@ questions:
       C: Ishwar Chandra Vidyasagar
       D: Raja Rammohun Roy
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Raja Rammohun Roy founded the Atmiya Sabha in Calcutta in 1814–15.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q038
@@ -485,7 +515,7 @@ questions:
       C: Punjab
       D: Madhya Pradesh
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Matki is a folk dance of the Malwa region of Madhya Pradesh, performed with earthen pots.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q039
@@ -497,7 +527,7 @@ questions:
       C: Indian National Congress
       D: All India Forward Bloc
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Gandhi attended the Second Round Table Conference (1931) as the sole representative of the Indian National Congress.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q040
@@ -509,7 +539,7 @@ questions:
       C: Railway and air
       D: Sea and air
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: India’s international trade moves mostly by sea, with air for high-value goods.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q041
@@ -521,7 +551,7 @@ questions:
       C: Carbon dioxide
       D: Nitric oxide
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Nitrous oxide (N₂O), methane and carbon dioxide are greenhouse gases; nitric oxide (NO) is not counted as one.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q042
@@ -533,7 +563,7 @@ questions:
       C: ₹3,000 per month
       D: ₹1,000 per month
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Under Pudhumai Penn, girls from government schools receive ₹1,000 a month during higher education.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q043
@@ -545,7 +575,7 @@ questions:
       C: About 0.1 µm
       D: About 30 µm
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: PPLO (mycoplasma) are the smallest living cells, about 0.1 µm across.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q044
@@ -557,7 +587,7 @@ questions:
       C: 7.9 million
       D: 3.9 million
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Census 2011 counted about 7.9 million people (0.66%) under Other Religions and Persuasions.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q045
@@ -569,7 +599,7 @@ questions:
       C: 2%
       D: 4%
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Under PMFBY, farmers pay at most 2% premium for kharif crops, 1.5% for rabi crops and 5% for commercial crops.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q046
@@ -581,7 +611,7 @@ questions:
       C: Kannauj
       D: Bareli
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The Maukharis ruled from Kannauj, which later replaced Pataliputra as the main political centre of north India.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q047
@@ -593,7 +623,7 @@ questions:
       C: Carbophene
       D: Graphene
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Curl, Kroto and Smalley discovered fullerenes (C₆₀) in 1985 and won the 1996 Nobel Prize in Chemistry.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q048
@@ -605,7 +635,7 @@ questions:
       C: Devapala
       D: Mahipala I
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Vikramshila University was founded by the Pala king Dharmapala in the late 8th century.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q049
@@ -617,7 +647,7 @@ questions:
       C: Jhansi
       D: Mirzapur
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Kajari Mahotsav, built around Kajari folk songs of the rainy season, is famous in Mirzapur.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q050
@@ -629,7 +659,7 @@ questions:
       C: 5th January 2022
       D: 5th January 2021
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The award was renamed the Major Dhyan Chand Khel Ratna Award on 6 August 2021.
     tags:
       - general-awareness
   - slug: cgl-2024-09-17-s3-q051
@@ -641,7 +671,9 @@ questions:
       C: 25/√34
       D: 5/√34
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      tan A = 3/5 means opposite 3 and adjacent 5, so the hypotenuse is √34.
+      cos A = 5/√34.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q052
@@ -653,7 +685,9 @@ questions:
       C: ₹6,40,000
       D: ₹3,60,000
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      The bank earns 30,000/3,00,000 = 10% and pays 6%, so it keeps 4%.
+      4% of ₹60,00,000 = ₹2,40,000.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q053
@@ -665,7 +699,9 @@ questions:
       C: 63/8
       D: 32/6
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      x + 1/x = 65/8 = 8 + 1/8, so the integer x is 8.
+      x − 1/x = 8 − 1/8 = 63/8.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q054
@@ -677,7 +713,9 @@ questions:
       C: "10"
       D: "9"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Triangle inequality: 12 − 6 < x < 12 + 6, so 6 < x < 18.
+      Integers 7 to 17 give 11 values.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q055
@@ -689,7 +727,7 @@ questions:
       C: 10 minutes
       D: 21 minutes
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: They meet at the start after LCM(180, 420) = 1260 seconds = 21 minutes.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q056
@@ -701,7 +739,7 @@ questions:
       C: 2.22 cm
       D: 2.32 cm
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Diagonal = √(1.2² + 1.3² + 1.5²) = √(1.44 + 1.69 + 2.25) = √5.38 ≈ 2.32 cm.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q057
@@ -713,7 +751,9 @@ questions:
       C: 35.32 cm
       D: 31.66 cm
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Arc = (15/360) × 2 × 3.14 × 14 ≈ 3.66 cm.
+      Perimeter = arc + 2r = 3.66 + 28 = 31.66 cm.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q058
@@ -730,7 +770,7 @@ questions:
       C: 28.57%
       D: 32.25%
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Increase = (180 − 140)/140 × 100 = 28.57%.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q059
@@ -742,7 +782,9 @@ questions:
       C: "72"
       D: "48"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Net rate per hour = 1/12 + 1/18 − 1/8 = (6 + 4 − 9)/72 = 1/72.
+      So the tank fills in 72 hours.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q060
@@ -754,7 +796,9 @@ questions:
       C: "8"
       D: "7"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Divisibility by 11: (6 + 5 + P) − (9 + 4) = P − 2 must be 0 or a multiple of 11.
+      So P = 2.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q061
@@ -769,7 +813,9 @@ questions:
       C: −23/18
       D: −20/23
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      4/9 ÷ 5/3 = 4/15, and 4/15 × 1/16 = 1/60.
+      −7/6 + 1/60 = −70/60 + 1/60 = −69/60 = −23/20.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q062
@@ -781,7 +827,7 @@ questions:
       C: "7"
       D: "113"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Remainder theorem: f(2) = 32 + 80 − 6 + 7 = 113."
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q063
@@ -793,7 +839,9 @@ questions:
       C: (√3 + 1)/2
       D: (√3 − 1)/2
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Divide by cos θ: tan θ + 1 = √3, so tan θ = √3 − 1.
+      cot θ = 1/(√3 − 1) = (√3 + 1)/2.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q064
@@ -805,7 +853,7 @@ questions:
       C: ₹31.5
       D: ₹32.5
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Average price = (42 × 25 + 28 × 40)/70 = (1050 + 1120)/70 = ₹31.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q065
@@ -827,7 +875,9 @@ questions:
       C: Mumbai
       D: Hyderabad and Mumbai
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      C’s low rates are 175, 180 and 185, averaging 180.
+      Only Hyderabad (175) is below the average.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q066
@@ -839,7 +889,9 @@ questions:
       C: obtuse angle triangle
       D: isosceles triangle
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      BD = DC and DL = DM, so right triangles BLD and CMD are congruent (RHS) and ∠B = ∠C.
+      So AB = AC: the triangle is isosceles.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q067
@@ -851,7 +903,9 @@ questions:
       C: 2 ∶ 1
       D: 5 ∶ 2
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      0.18y + 0.24b = 30 gives 3y + 4b = 500; also 3y − 2b = 200.
+      Subtracting gives 6b = 300, so b = 50 and y = 100; y² : b² = 10000 : 2500 = 4 : 1.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q068
@@ -863,7 +917,9 @@ questions:
       C: "5"
       D: "10"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Take f = ax + b/y. At x = 0, y = 1: b = 15. At x = 1, y = 15: a + 1 = 2, so a = 1.
+      At x = 5, y = 3: f = 5 + 15/3 = 10.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q069
@@ -875,7 +931,9 @@ questions:
       C: 28%
       D: 61%
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Take income 300: spending 200, savings 100.
+      New income 375, new spending 240, savings 135, so savings rise by 35%.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q070
@@ -897,7 +955,9 @@ questions:
       C: "72 : 105"
       D: "78 : 107"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Q total = 280 + 290 + 310 + 310 + 330 = 1520; S total = 400 + 420 + 430 + 440 + 450 = 2140.
+      1520 : 2140 = 76 : 107.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q071
@@ -909,7 +969,9 @@ questions:
       C: 77/30
       D: 33/91
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: |-
+      sin x = 4/5, cos x = 3/5, tan x = 4/3, cot x = 3/4.
+      Numerator 5(16/25) + 8(9/16) = 3.2 + 4.5 = 7.7; denominator 27(16/9) − 125(9/25) = 48 − 45 = 3; 7.7/3 = 77/30.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q072
@@ -931,7 +993,7 @@ questions:
       C: "48.75"
       D: "56.63"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Average transport = (38 + 45 + 57 + 63)/4 = 203/4 = 50.75.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q073
@@ -943,7 +1005,7 @@ questions:
       C: ₹15,000
       D: ₹15,060
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Price = 18,500 × 0.80 × 0.95 = ₹14,060.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q074
@@ -955,7 +1017,7 @@ questions:
       C: <26
       D: <18
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "Each side must be less than the sum of the other two, so each side is less than half the perimeter: 52/2 = 26."
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q075
@@ -967,7 +1029,9 @@ questions:
       C: Four
       D: Two
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: |-
+      Interest = 8928 − 7200 = 1728 and yearly interest = 8% of 7200 = 576.
+      Time = 1728/576 = 3 years.
     tags:
       - quant
   - slug: cgl-2024-09-17-s3-q076
@@ -982,7 +1046,7 @@ questions:
       C: Clear a space
       D: Find a suitable place
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: ‘Cut corners’ means doing something in the cheapest or easiest way, often skipping steps.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q077
@@ -997,7 +1061,7 @@ questions:
       C: Who has injured you?
       D: Who injured you?
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: ‘were you injured’ is simple past, so the active is ‘Who injured you?’
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q078
@@ -1012,7 +1076,7 @@ questions:
       C: evident
       D: infelicitous
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: ‘Predictable’ means expected, so its antonym is ‘unexpected’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q079
@@ -1027,7 +1091,7 @@ questions:
       C: Annoyed
       D: Fascinated
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: ‘Mesmerised’ means spellbound or fascinated.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q080
@@ -1042,7 +1106,7 @@ questions:
       C: Used to tell someone to do something rarely
       D: Used to tell someone to do something slowly and carefully
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: ‘Easy does it’ tells someone to act slowly and carefully.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q081
@@ -1057,7 +1121,7 @@ questions:
       C: Irrelevant
       D: Guileless
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: ‘Candid’ means frank and honest, so its antonym is ‘dishonest’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q082
@@ -1072,7 +1136,7 @@ questions:
       C: Fraud
       D: Unrecognisable
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: An impostor deceives people by pretending to be someone else.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q083
@@ -1084,7 +1148,9 @@ questions:
       C: The new caches of materials reveal a secret pleascence that was hidden away from the rest of the world
       D: Many friends and memoirists have described the author in detail but there are no photos of the author available to the press.
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: |-
+      D is spelt correctly.
+      The others misspell contradictions, futuristic and pleasance.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q085
@@ -1099,7 +1165,7 @@ questions:
       C: Uneatable
       D: Toxic
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Something fit to eat is ‘edible’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q086
@@ -1114,7 +1180,7 @@ questions:
       C: to catch it
       D: the train was already on the platform
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "‘Fastly’ is not a word; ‘fast’ is already an adverb: they ran fast."
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q087
@@ -1129,7 +1195,7 @@ questions:
       C: Universal
       D: Common
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: ‘Chronic’ means long-lasting or severe; among the options, ‘mild’ is the opposite.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q088
@@ -1144,7 +1210,7 @@ questions:
       C: would not have postponed
       D: would not postponed
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "A third conditional (if + had + past participle) takes ‘would have + past participle’: they would not have postponed."
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q089
@@ -1159,7 +1225,7 @@ questions:
       C: Useful
       D: Practical
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: ‘Feasible’ means capable of being done.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q090
@@ -1174,7 +1240,7 @@ questions:
       C: Obedient
       D: Enthusiastic
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: ‘Reluctant’ means unwilling, so its antonym is ‘enthusiastic’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q091
@@ -1189,7 +1255,7 @@ questions:
       C: Rejuvenation
       D: Remuneration
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Remuneration is payment for services rendered.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q092
@@ -1204,7 +1270,7 @@ questions:
       C: Was the gardener grafted the plants?
       D: Were the plants grafting the gardener?
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The passive ‘were the plants being grafted’ is past continuous, so the active is ‘Was the gardener grafting the plants?’ (singular subject takes ‘was’).
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q093
@@ -1219,7 +1285,7 @@ questions:
       C: Brr
       D: from
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: ‘Brr’ expresses feeling cold and does not suit admiration of a view; an interjection like ‘Wow’ is needed.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q094
@@ -1234,7 +1300,7 @@ questions:
       C: odourless
       D: stale
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Food that is not fresh is ‘stale’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q095
@@ -1249,7 +1315,7 @@ questions:
       C: excellent
       D: necesity
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: ‘Necesity’ is misspelt; the correct spelling is ‘necessity’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q096
@@ -1268,7 +1334,7 @@ questions:
       C: skipping
       D: detailing
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: As an open Never Trumper he was openly ‘detailing’ (describing) how awful he found the president.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q097
@@ -1287,7 +1353,7 @@ questions:
       C: committed
       D: sorted
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The phrase is ‘committed himself to’ a cause.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q098
@@ -1306,7 +1372,7 @@ questions:
       C: provoked
       D: frustrated
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: A parent whose children’s schools have not reopened would be ‘frustrated’.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q099
@@ -1325,7 +1391,7 @@ questions:
       C: longest
       D: strangest
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The district is ‘still not close’ to reopening, so it has moved ‘slowest’ toward in-person learning.
     tags:
       - english
   - slug: cgl-2024-09-17-s3-q100
@@ -1344,6 +1410,6 @@ questions:
       C: ideal
       D: amount
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: ‘an average of two days a week’ describes how often students attend.
     tags:
       - english

@@ -26,7 +26,7 @@ questions:
       C: 3, 5, 6, 2, 4, 1
       D: 3, 6, 5, 2, 4, 1
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Dictionary order: Warcraft, Wardenship, Wardrobe, Warehouse, Warranty, Warriors (wardE before wardR; warrA before warrI)."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q003
@@ -59,7 +59,7 @@ questions:
       C: Only conclusion II follows
       D: Only conclusion I follows
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Some trays are plates' converts to 'Some plates are trays', so III follows; no 'All' conclusion can be drawn from 'Some' statements."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q004
@@ -76,7 +76,7 @@ questions:
       C: Nose ring
       D: Sweat
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The skin is the organ of touch; the nose is the organ of smell.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q005
@@ -88,7 +88,7 @@ questions:
       C: Cousin
       D: Granddaughter
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Mother's brother's father is Ganesh's maternal grandfather; that grandfather's granddaughter (other than Ganesh's sister) is his cousin.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q007
@@ -103,7 +103,7 @@ questions:
       C: BI
       D: BH
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "First letters are the vowels in reverse: U, O, I, E, A. Second letters move +3: V, Y, B, E, H. So AH."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q008
@@ -115,7 +115,7 @@ questions:
       C: "15 : 9"
       D: "12 : 7"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "Second number = first ÷ 2 + 1: 20→11, 6→4, 12→7. But 15 ÷ 2 + 1 = 8.5, not 9."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q010
@@ -132,7 +132,7 @@ questions:
       C: "3"
       D: "4"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: 1 is adjacent to 2, 6, 5 and 4 in the three positions, so the face opposite 1 is 3.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q011
@@ -151,7 +151,7 @@ questions:
       C: (33, 11, 3)
       D: (33, 11, 10)
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "Third number = (first ÷ second)²: (55 ÷ 11)² = 25, (64 ÷ 16)² = 16, (33 ÷ 11)² = 9."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q012
@@ -166,7 +166,7 @@ questions:
       C: EJS
       D: CJU
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Each letter moves +3, +2, +1 (HMD → KOE). Working back from FLV: F−3 = C, L−2 = J, V−1 = U, giving CJU."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q015
@@ -178,7 +178,7 @@ questions:
       C: HJKP
       D: JNRV
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: BFJN, DHLP and JNRV each step forward 4 letters; HJKP (+2, +1, +5) does not.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q016
@@ -193,7 +193,7 @@ questions:
       C: "110"
       D: "96"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "n × (n − 2)²: 5 × 3² = 45, 3 × 1² = 3, so 6 × 4² = 96."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q017
@@ -208,7 +208,7 @@ questions:
       C: "35"
       D: "43"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "Differences are consecutive primes 7, 11, 13, 17, 19: 26 + 13 = 39, 39 + 17 = 56."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q018
@@ -223,7 +223,7 @@ questions:
       C: "3246"
       D: "3642"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Second term = first − 3333 (7183 − 3333 = 3850, 8972 − 3333 = 5639), so 6957 − 3333 = 3624.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q019
@@ -240,7 +240,7 @@ questions:
       C: "2"
       D: "3"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Around the face 6 the faces run 5, 3, 2 and then 4, so 4 sits opposite 3 (and 5 opposite 2).
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q020
@@ -255,7 +255,7 @@ questions:
       C: "10"
       D: "15"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: 625 = 5 × 5³ and 2560 = 5 × 8³; 5000 = 5 × 10³, so the answer is 10.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q021
@@ -267,7 +267,7 @@ questions:
       C: "86"
       D: "92"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Code = 2 × sum of letter positions: ASK = 2 × 31 = 62, BYE = 2 × 32 = 64, CRY = 2 × (3 + 18 + 25) = 92."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q022
@@ -282,7 +282,7 @@ questions:
       C: × ÷ + −
       D: ÷ − × +
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: 256 ÷ 4 − 9 × 3 + 14 = 64 − 27 + 14 = 51.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q023
@@ -297,7 +297,7 @@ questions:
       C: O L O X F M Y
       D: O L O X E L Y
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The series is CLOVE, CLOWE, CLOXE, CLOYE, so the blanks are O, L, O, X, E, L, Y.
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q024
@@ -309,7 +309,7 @@ questions:
       C: ERMDF
       D: MEDFR
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "The word is reversed and the middle letter moves +3: TABLE → ELBAT → ELEAT. FRAME → EMARF → EMDRF."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q025
@@ -324,7 +324,7 @@ questions:
       C: + and ×
       D: ÷ and +
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "Swapping − and +: 588 ÷ 28 × 32 − 72 + 160 = 672 − 72 + 160 = 760."
     tags:
       - reasoning
   - slug: cgl-2023-07-14-s1-q026
@@ -336,7 +336,7 @@ questions:
       C: 14 m
       D: 13.40 m
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: A badminton court is 13.40 m long for both singles and doubles (5.18 m wide for singles).
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q027
@@ -348,7 +348,7 @@ questions:
       C: Director General
       D: The Comptroller and Auditor General
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The Comptroller and Auditor General of India heads the Indian Audit and Accounts Department (Article 148).
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q028
@@ -360,7 +360,7 @@ questions:
       C: PM-ABHIM
       D: PM-MI
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM), launched in 2021, is the largest pan-India scheme for health infrastructure at all levels of care.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q029
@@ -372,7 +372,7 @@ questions:
       C: Chhath Pooja
       D: Raksha Bandhan
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: "Raksha Bandhan means 'bond of protection': a sister ties a rakhi on her brother's wrist."
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q030
@@ -384,7 +384,7 @@ questions:
       C: Sanju Devi
       D: Sonam Malik
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Anshu Malik won silver in the 57 kg event at the 2021 World Wrestling Championships in Oslo, the first Indian woman to reach a world final.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q031
@@ -396,7 +396,7 @@ questions:
       C: Uttar Pradesh
       D: Mizoram
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: NITI Aayog's first National MPI (November 2021) found Bihar the poorest state, with about 51.9% of people multidimensionally poor.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q032
@@ -408,7 +408,7 @@ questions:
       C: appreciation
       D: gross investment
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Consumption of fixed capital is the wear and tear of capital goods, i.e. depreciation.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q033
@@ -420,7 +420,7 @@ questions:
       C: Vipash
       D: Vitasta
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The Rigvedic name of the Jhelum is Vitasta (Askini = Chenab, Parushni = Ravi, Vipash = Beas).
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q034
@@ -432,7 +432,7 @@ questions:
       C: Nagaram
       D: Sabha
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Under the Cholas, the Sabha (Mahasabha) was the assembly of Brahmana villages (brahmadeyas); the Ur was the assembly of ordinary villages.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q035
@@ -444,7 +444,7 @@ questions:
       C: Madhya Pradesh
       D: Gujarat
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The Tapi basin lies in Madhya Pradesh, Maharashtra and Gujarat; it does not reach Rajasthan.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q036
@@ -456,7 +456,7 @@ questions:
       C: Argon
       D: Helium
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Liquid helium, at about 1.9–4.2 K, cools the superconducting magnets of the LHC, MRI scanners and NMR spectrometers.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q037
@@ -468,7 +468,7 @@ questions:
       C: Kuchipudi and Bharatanatyam
       D: Yakshagana
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Mrinalini Sarabhai, founder of Darpana Academy, was an exponent of Bharatanatyam and Kathakali.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q038
@@ -480,7 +480,7 @@ questions:
       C: Buddhism
       D: Jainism
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "Bharatanatyam draws on the Shaiva tradition: Shiva as Nataraja is the cosmic dancer."
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q039
@@ -492,7 +492,7 @@ questions:
       C: Bahadur Khan
       D: Amjad Ali Khan
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Ustad Vilayat Khan was a sitar maestro; Ali Akbar Khan and Amjad Ali Khan played the sarod.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q040
@@ -504,7 +504,7 @@ questions:
       C: India
       D: China
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: India hosted the 2022 AFC Women's Asian Cup (January–February 2022, in Mumbai and Pune).
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q041
@@ -516,7 +516,7 @@ questions:
       C: Badminton
       D: Wrestling
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Bhakti Kulkarni, a Woman Grandmaster from Goa, received the Arjuna Award 2022 for chess.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q042
@@ -528,7 +528,7 @@ questions:
       C: Sohan Singh Bhakhna
       D: Lala Hardayal
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Subhas Chandra Bose raised the Free India Legion (Tiger Legion) in Germany in 1942 from Indian prisoners of war.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q043
@@ -540,7 +540,7 @@ questions:
       C: Klepto parasitism
       D: Competitive parasitism
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: In brood parasitism (e.g. the cuckoo) a parasite leaves its young to be raised by hosts of the same or another species.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q044
@@ -559,7 +559,7 @@ questions:
       C: (C), (A), (B)
       D: (B), (C), (A)
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "Census 2011 ST population: Odisha about 95.9 lakh < Maharashtra about 105.1 lakh < Madhya Pradesh about 153.2 lakh."
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q045
@@ -571,7 +571,7 @@ questions:
       C: "1980"
       D: "1956"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The Industrial Policy Statement of 1980 raised the investment limit for tiny units from ₹1 lakh to ₹2 lakh.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q046
@@ -583,7 +583,7 @@ questions:
       C: Fred Hoyle
       D: Pierre-Simon Laplace
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: The steady state theory of the universe was proposed by Fred Hoyle with Hermann Bondi and Thomas Gold (1948).
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q047
@@ -603,7 +603,7 @@ questions:
       C: i-d, ii-c, iii-b, iv-a
       D: i-a, ii-b, iii-c, iv-d
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Chlorophyceae are green algae, Phaeophyceae brown, Rhodophyceae red and Cyanophyceae blue-green.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q048
@@ -615,7 +615,7 @@ questions:
       C: Malthusian theory of rent
       D: Marx’s theory of rent
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Thomas Munro's Ryotwari settlement drew on David Ricardo's theory of rent, taxing the surplus (rent) of the land.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q049
@@ -627,7 +627,7 @@ questions:
       C: Svante August Arrhenius
       D: Henri Moissan
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Jacobus van 't Hoff won the first Nobel Prize in Chemistry (1901) for the laws of chemical dynamics and osmotic pressure.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q050
@@ -639,7 +639,7 @@ questions:
       C: Articles 2 to 4
       D: Articles 25 to 31
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Part II of the Constitution, Articles 5 to 11, deals with citizenship.
     tags:
       - general-awareness
   - slug: cgl-2023-07-14-s1-q051
@@ -651,7 +651,7 @@ questions:
       C: 108 17/19%
       D: 105 5/19%
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: B = A ÷ 0.95, so B is 100/95 × 100 = 105 5/19% of A.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q052
@@ -663,7 +663,7 @@ questions:
       C: 18%
       D: 22%
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: If CP = 100, MP = 125. To sell at 100, the discount is 25/125 = 20%.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q053
@@ -675,7 +675,7 @@ questions:
       C: 5 3/5
       D: 24 3/5
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "Total work 150 units: A does 6/day, B 5/day. In 5 days (A, B, A, B, A) they do 28 units. B finishes the other 122 units in 122/5 = 24 2/5 days."
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q054
@@ -687,7 +687,7 @@ questions:
       C: 68.15 km/h
       D: 49.58 km/h
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Distance = 120 + 100 + 220 back = 440 km; time = 1.5 + 2.5 + 220/75 = 6.933 h; average = 440/6.933 ≈ 63.46 km/h.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q055
@@ -699,7 +699,7 @@ questions:
       C: 14 2/5
       D: 15 3/5
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: 8 × 45 men-days = 8 × 18 women-days, so 1 man = 0.4 woman. 5 men + 8 women = 10 women, who need 8 × 18 / 10 = 14 2/5 days.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q056
@@ -711,7 +711,7 @@ questions:
       C: "255"
       D: "259"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: 6²⁵ + 6²⁶ + 6²⁷ + 6²⁸ = 6²⁵(1 + 6 + 36 + 216) = 6²⁵ × 259.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q057
@@ -736,7 +736,7 @@ questions:
       C: "10"
       D: "12"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 20% of 50 is 10 marks. 87 students scored 10 and above in aggregate, so 100 − 87 = 13 scored less.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q058
@@ -748,7 +748,7 @@ questions:
       C: 12 cm
       D: 9 cm
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: The chord is tangent to the inner circle, so half-chord = √(10² − 6²) = 8 cm; chord = 16 cm.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q059
@@ -760,7 +760,7 @@ questions:
       C: 15°
       D: 45°
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: a + b = 90° and a − b = 60°, so a = 75°.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q060
@@ -772,7 +772,7 @@ questions:
       C: 30 s
       D: 18 s
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 108 km/h = 30 m/s; distance = 900 + 900 = 1800 m; time = 1800/30 = 60 s.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q062
@@ -784,7 +784,7 @@ questions:
       C: AB=XY
       D: BC=AB
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: With AC = XZ and ∠C = ∠Z, the side BC = YZ completes SAS congruence.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q063
@@ -801,7 +801,7 @@ questions:
       C: 14/3
       D: 4/3
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "PT² = PA × PB: 64 = 6(6 + x), so 6 + x = 32/3 and x = 14/3 cm."
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q064
@@ -820,7 +820,7 @@ questions:
       C: A and B both have the same discount percentage
       D: B
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "A: pay for 3, get 7, discount 4/7 ≈ 57.1%. B: pay for 5, get 11, discount 6/11 ≈ 54.5%. A is larger."
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q065
@@ -846,7 +846,7 @@ questions:
       C: "8250"
       D: "8125"
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Total cost in 2019-20 is 6500; for 25% profit the gross amount must be 6500 × 1.25 = 8125.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q066
@@ -858,7 +858,7 @@ questions:
       C: 4 years
       D: 6 years
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: SI on ₹8,000 at 5% for 4 years = ₹1,600. ₹10,000 at 4% earns ₹400 a year, so 1600/400 = 4 years.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q067
@@ -870,7 +870,7 @@ questions:
       C: "8"
       D: "6"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: 1/10 + 1/15 + 1/30 = 6/30 = 1/5 of the work per day, so 5 days.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q068
@@ -882,7 +882,7 @@ questions:
       C: 1/2
       D: √3
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: tan²θ cos²θ = sin²θ = 1 − 3/4 = 1/4.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q069
@@ -894,7 +894,7 @@ questions:
       C: – 361
       D: – 327
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: 3(−64) + 5(16)(−1) + 12(−4)(1) + 7(−1) = −192 − 80 − 48 − 7 = −327.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q070
@@ -906,7 +906,7 @@ questions:
       C: "57"
       D: "85"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: "39 : 117 = 17 : y gives y = 117 × 17 / 39 = 51."
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q071
@@ -918,7 +918,7 @@ questions:
       C: 297.824 cm³
       D: 310.464 cm³
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: V = 4/3 × 22/7 × 4.2³ = 4/3 × 22/7 × 74.088 = 310.464 cm³.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q072
@@ -930,7 +930,7 @@ questions:
       C: "82"
       D: "81"
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: 2(ab + bc + ca) = 16² − 90 = 166, so ab + bc + ca = 83.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q073
@@ -942,7 +942,7 @@ questions:
       C: "1"
       D: "2"
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: 3 sin θ − cos θ = cos θ + sin θ gives 2 sin θ = 2 cos θ, so cot θ = 1.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q074
@@ -954,7 +954,7 @@ questions:
       C: 100 sec
       D: 90 sec
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: Speeds are 5 m/s and 20/3 m/s, so one lap takes 40 s and 30 s. They are both at the start again after LCM(40, 30) = 120 s.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q075
@@ -966,7 +966,7 @@ questions:
       C: "1"
       D: "9"
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: 265 ≡ −1 (mod 266), and 4081 is odd, so 265⁴⁰⁸¹ ≡ −1. Adding 9 gives remainder 8.
     tags:
       - quant
   - slug: cgl-2023-07-14-s1-q076
@@ -981,7 +981,7 @@ questions:
       C: since 10 o’clock
       D: waiting for me
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "A singular subject takes 'has': 'Neetu has been waiting'."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q077
@@ -996,7 +996,7 @@ questions:
       C: Behind
       D: Beneath
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The opposite of 'under' is 'over'.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q078
@@ -1011,7 +1011,7 @@ questions:
       C: beggars
       D: gliterring
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The correct spelling is 'glittering'.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q079
@@ -1026,7 +1026,7 @@ questions:
       C: The company's board of directors announced the financial results at the annual meeting tomorrow.
       D: The financial results will be announced by the company's board of directors at the annual meeting tomorrow.
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Simple future active 'will announce' becomes 'will be announced' in the passive.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q080
@@ -1038,7 +1038,7 @@ questions:
       C: A participants of the competition is waiting for their turn curiously.
       D: The participants of the competition is waiting for their turn curiously.
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: The plural subject 'participants' takes the plural verb 'are'.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q081
@@ -1053,7 +1053,7 @@ questions:
       C: Bickering
       D: Cunning
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Servile' means overly submissive; its opposite is 'arrogant'."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q082
@@ -1068,7 +1068,7 @@ questions:
       C: Curable
       D: Edible
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Something fit to be eaten is 'edible'.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q083
@@ -1083,7 +1083,7 @@ questions:
       C: Not brave
       D: Naughty
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'Lily-livered' means cowardly, i.e. not brave."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q084
@@ -1098,7 +1098,7 @@ questions:
       C: Apathetic
       D: Indifferent
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Zealous' means full of zeal, i.e. enthusiastic."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q085
@@ -1113,7 +1113,7 @@ questions:
       C: outrage
       D: impress
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: Of the options, only 'impress' (to influence others' opinion) is close to 'persuade'; the others mean stop or anger.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q086
@@ -1128,7 +1128,7 @@ questions:
       C: instil
       D: import
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'Inculcate' means to fix ideas firmly in someone's mind, i.e. to instil."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q087
@@ -1143,7 +1143,7 @@ questions:
       C: Any better choice shouldn’t be received by him than this from anywhere.
       D: Any better choice won’t have been be received by him than this from anywhere.
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'won't receive' becomes 'won't be received' in the passive."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q088
@@ -1158,7 +1158,7 @@ questions:
       C: Weak
       D: Baneful
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "'Feeble' means weak."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q089
@@ -1173,7 +1173,7 @@ questions:
       C: assosiation
       D: association
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The correct spelling is 'association'.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q090
@@ -1188,7 +1188,7 @@ questions:
       C: Make no progress in an argument or discussion
       D: Won’t modify an opinion or agree to even small changes that another person wants
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: To 'tie yourself up in knots' is to become very confused while trying to explain something.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q091
@@ -1209,7 +1209,7 @@ questions:
       C: BCDA
       D: CBDA
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: D introduces Wootz steel's special technique; C contrasts that ordinary iron smelting was common; A gives where; B describes how the smelting was done.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q092
@@ -1230,7 +1230,7 @@ questions:
       C: BCAD
       D: CABD
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: B introduces the man; D describes his experiment; A says he repeated it; C ('next') gives the following step.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q093
@@ -1245,7 +1245,7 @@ questions:
       C: as beautiful as
       D: beautiful like
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "A comparison of equality uses 'as … as': 'as beautiful as a peacock'."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q094
@@ -1266,7 +1266,7 @@ questions:
       C: BCDA
       D: BDCA
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: B introduces the flag; C says what it is made of; D describes the three stripes; A then describes the top band.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q095
@@ -1281,7 +1281,7 @@ questions:
       C: cense
       D: cents
     answer: B
-    explanation: As per SSC's official answer.
+    explanation: Dogs follow an animal's 'scent' (smell); sense, cense and cents sound alike but do not fit.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q096
@@ -1302,7 +1302,7 @@ questions:
       C: considered
       D: consider
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: Passive 'is considered' (is regarded as) a unique blessing.
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q097
@@ -1323,7 +1323,7 @@ questions:
       C: awareness
       D: aware
     answer: C
-    explanation: As per SSC's official answer.
+    explanation: "A noun is needed after 'the': 'the awareness of the Self', echoed by 'aware of the Self' in the next sentence."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q098
@@ -1344,7 +1344,7 @@ questions:
       C: As per
       D: For
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'Since' introduces the reason: since God is invisible, the mind wanders."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q099
@@ -1365,7 +1365,7 @@ questions:
       C: Causing
       D: As a reason
     answer: A
-    explanation: As per SSC's official answer.
+    explanation: "'As a result' gives the consequence of the wandering mind."
     tags:
       - english
   - slug: cgl-2023-07-14-s1-q100
@@ -1386,6 +1386,6 @@ questions:
       C: break from
       D: breaks into
     answer: D
-    explanation: As per SSC's official answer.
+    explanation: The singular subject 'religion' takes 'breaks', and light 'breaks into' colours through a prism.
     tags:
       - english
