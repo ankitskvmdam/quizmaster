@@ -32,11 +32,13 @@ export default async function CoursesPage() {
               )}
               <p className="mt-auto text-[13px] text-muted-foreground">
                 <Mono>{c.subjectCount}</Mono>{" "}
-                {c.subjectCount === 1 ? "subject" : "subjects"} ·{" "}
-                <Mono>{c.lessonCount}</Mono>{" "}
-                {c.lessonCount === 1 ? "note" : "notes"} ·{" "}
-                <Mono>{c.bookCount}</Mono>{" "}
-                {c.bookCount === 1 ? "book" : "books"}
+                {c.subjectCount === 1 ? "subject" : "subjects"}
+                {c.counts.map((x) => (
+                  <span key={x.label}>
+                    {" "}
+                    · <Mono>{x.n}</Mono> {x.label}
+                  </span>
+                ))}
               </p>
             </Panel>
           </Link>

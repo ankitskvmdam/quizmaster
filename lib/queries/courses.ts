@@ -2,7 +2,8 @@ import 'server-only'
 import { cache } from 'react'
 import { createClient } from '@/lib/supabase/server'
 import { selectAll } from '@/lib/content/select-all'
-import { buildTree, type BookKind, type Tree } from '@/lib/courses/tree'
+import { buildTree, type Tree } from '@/lib/courses/tree'
+import { materialCounts, toBookKind, type Count } from '@/lib/courses/counts'
 import { pick } from '@/lib/lang'
 import { getContentLang } from './user'
 
@@ -10,14 +11,14 @@ function fail(what: string, error: { message: string } | null): never {
   throw new Error(`Could not load ${what}${error ? `: ${error.message}` : ''}`)
 }
 
-export type CourseCard = { slug: string; name: string; description: string; subjectCount: number; lessonCount: number; bookCount: number }
+export type CourseCard = { slug: string; name: string; description: string; subjectCount: number; counts: Count[] }
 
 /** Every published course (the `subjects` table holds courses). */
 export async function listCourses(): Promise<CourseCard[]> {
   const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
   const { data, error } = await supabase
     .from('subjects')
-    .select('slug, name, description, name_hi, description_hi, topics(id, parent_id, lessons(id), books(id))')
+    .select('slug, name, description, name_hi, description_hi, topics(id, parent_id, lessons(id), books(id, kind))')
     .order('position')
   if (error) fail('courses', error)
   return data.map((c) => ({
@@ -25,8 +26,10 @@ export async function listCourses(): Promise<CourseCard[]> {
     name: pick(lang, c.name, c.name_hi),
     description: pick(lang, c.description, c.description_hi),
     subjectCount: c.topics.filter((t) => t.parent_id === null).length,
-    lessonCount: c.topics.reduce((n, t) => n + t.lessons.length, 0),
-    bookCount: c.topics.reduce((n, t) => n + t.books.length, 0),
+    counts: materialCounts({
+      shortNotes: c.topics.reduce((n, t) => n + t.lessons.length, 0),
+      bookKinds: c.topics.flatMap((t) => t.books.map((b) => toBookKind(b.kind))),
+    }),
   }))
 }
 
@@ -127,7 +130,7 @@ export const getCourse = cache(async (courseSlug: string): Promise<Course | null
       id: b.id,
       topicId: b.topic_id,
       slug: b.slug,
-      kind: (b.kind === 'topic' || b.kind === 'monthly' ? b.kind : 'book') as BookKind,
+      kind: toBookKind(b.kind),
       title: pick(lang, b.title, b.title_hi),
       author: b.author,
       edition: b.edition,
