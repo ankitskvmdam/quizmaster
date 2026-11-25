@@ -15,7 +15,7 @@ export function NoteCard({ note }: { note: CaNote }) {
         <p className="flex gap-1.5 text-[14px] text-muted-foreground">
           <span aria-hidden>↳</span>
           <span className="sr-only">Exam angle: </span>
-          <Markdown variant="option" source={note.angle_md} className="text-[14px]" />
+          <Markdown variant="option" source={note.angle_md} className="text-[14px] leading-[1.5] md:text-[14px]" />
         </p>
       )}
     </article>

@@ -12,6 +12,15 @@ export function parseContentLang(v: unknown): ContentLang {
   return v === 'en' ? 'en' : 'hi'
 }
 
+/**
+ * 'hi' when the text is written in Devanagari, for a `lang` attribute (content falls back to English field by field,
+ * so the chosen language alone doesn't say what a given string is). Elements marked lang="hi" get the Hindi
+ * typography in app/globals.css: the Devanagari face, no tracking, no uppercase, no italics, room for matras.
+ */
+export function textLang(text: string | null | undefined): ContentLang | undefined {
+  return text && /[ऀ-ॿ]/.test(text) ? 'hi' : undefined
+}
+
 /** The Hindi text when Hindi is chosen and present, otherwise the English. */
 export function pick(lang: ContentLang, en: string, hi: string | null | undefined): string {
   return lang === 'hi' && hi ? hi : en

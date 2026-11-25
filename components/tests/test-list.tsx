@@ -5,6 +5,7 @@ import { DataTable } from '@/components/data-table'
 import { Mono } from '@/components/surfaces'
 import { Badge } from '@/components/badge'
 import { StartActions } from './start-actions'
+import { textLang } from '@/lib/lang'
 
 function Marking({ t }: { t: TestRow }) {
   return (
@@ -59,10 +60,14 @@ export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode 
               <tr key={t.id}>
                 <td className="font-medium">
                   <span className="flex flex-wrap items-center gap-2">
-                    {t.title}
+                    <span lang={textLang(t.title)}>{t.title}</span>
                     {t.isCurrentAffairs && <Badge tone="primary">Current affairs</Badge>}
                   </span>
-                  {t.subtitle && <span className="block text-[13px] font-normal text-muted-foreground">{t.subtitle}</span>}
+                  {t.subtitle && (
+                    <span lang={textLang(t.subtitle)} className="block text-[13px] font-normal text-muted-foreground">
+                      {t.subtitle}
+                    </span>
+                  )}
                 </td>
                 <td className="num">{t.questionCount}</td>
                 <td className="num">{t.durationSec ? formatMinutes(t.durationSec) : '—'}</td>
@@ -82,10 +87,14 @@ export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode 
         {tests.map((t, i) => (
           <li key={t.id} className={i > 0 ? 'border-t border-hairline py-4' : 'py-4'}>
             <p className="flex flex-wrap items-center gap-2 font-medium">
-              {t.title}
+              <span lang={textLang(t.title)}>{t.title}</span>
               {t.isCurrentAffairs && <Badge tone="primary">Current affairs</Badge>}
             </p>
-            {t.subtitle && <p className="text-[13px] text-muted-foreground">{t.subtitle}</p>}
+            {t.subtitle && (
+              <p lang={textLang(t.subtitle)} className="text-[13px] text-muted-foreground">
+                {t.subtitle}
+              </p>
+            )}
             <p className="mt-1 text-[13px] text-muted-foreground">
               <Mono>{t.questionCount}</Mono> questions · {t.durationSec ? <Mono>{formatMinutes(t.durationSec)}</Mono> : 'untimed'} ·{' '}
               <Marking t={t} /> · best <Best t={t} />

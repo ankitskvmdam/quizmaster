@@ -214,8 +214,6 @@ const offline: SaveResult = { ok: false, error: OFFLINE_MESSAGE }
   const paletteItems = states
   const isLast = current === questions.length - 1
 
-  const palette = <Palette items={paletteItems} current={current} onJump={go} />
-
   return (
     <div className="isolate min-h-dvh">
       <GlowBackdrop still />
@@ -230,29 +228,10 @@ const offline: SaveResult = { ok: false, error: OFFLINE_MESSAGE }
       <p className="sr-only" aria-live="polite">
         {announcement}
       </p>
-      <div className="mx-auto flex max-w-[72rem] justify-end px-4 pt-4 sm:px-6">
-        <LangToggle lang={lang} />
-      </div>
-
-      <div className="mx-auto grid max-w-[72rem] gap-6 px-4 py-6 sm:px-6 lg:grid-cols-[minmax(0,1fr)_17rem]">
+      <div className="mx-auto grid max-w-[72rem] gap-6 px-4 pt-5 pb-10 sm:px-6 sm:py-6 lg:grid-cols-[minmax(0,1fr)_17rem]">
         <div className="mx-auto w-full max-w-[70ch] lg:mx-0">
-          <div className="mb-4 flex justify-end lg:hidden">
-            <Sheet open={paletteOpen} onOpenChange={setPaletteOpen}>
-              <SheetTrigger asChild>
-                <Button variant="secondary" size="sm">
-                  <ListOrdered />
-                  Questions
-                </Button>
-              </SheetTrigger>
-              <SheetContent side="bottom" className="px-5 pt-5 pb-8">
-                <SheetHeader className="p-0">
-                  <SheetTitle>Questions</SheetTitle>
-                </SheetHeader>
-                {palette}
-              </SheetContent>
-            </Sheet>
-          </div>
-          <Panel>
+          {/* On phones the question is not a card: it uses the full width inside the page gutter. */}
+          <Panel className="max-sm:rounded-none max-sm:border-0 max-sm:bg-transparent max-sm:p-0 max-sm:shadow-none">
             <QuestionView
               key={current}
               question={questions[current]}
@@ -274,13 +253,41 @@ const offline: SaveResult = { ok: false, error: OFFLINE_MESSAGE }
               onSubmit={() => setDialog('submit')}
             />
           </Panel>
+          <div className="mt-6 flex flex-wrap items-center justify-between gap-3 lg:hidden">
+            <Sheet open={paletteOpen} onOpenChange={setPaletteOpen}>
+              <SheetTrigger asChild>
+                <Button variant="secondary" size="sm">
+                  <ListOrdered />
+                  Questions
+                  <span className="figures text-muted-foreground" aria-hidden>
+                    {current + 1}/{questions.length}
+                  </span>
+                  <span className="sr-only">, on question {current + 1} of {questions.length}</span>
+                </Button>
+              </SheetTrigger>
+              <SheetContent side="bottom" className="max-h-[85dvh] px-5 pt-5 pb-[max(2rem,env(safe-area-inset-bottom))]">
+                <SheetHeader className="p-0">
+                  <SheetTitle>Questions</SheetTitle>
+                </SheetHeader>
+                <Palette items={paletteItems} current={current} onJump={go} className="flex-1" />
+              </SheetContent>
+            </Sheet>
+            <LangToggle lang={lang} />
+          </div>
           <p className="mt-4 hidden text-center text-[12px] text-muted-foreground sm:block">
             Keys: <kbd className="figures">1</kbd>–<kbd className="figures">{questions[current].options.length}</kbd> choose ·{' '}
             <kbd className="figures">N</kbd> next · <kbd className="figures">P</kbd> previous · <kbd className="figures">M</kbd> mark
           </p>
         </div>
+        {/* Desktop: the language switcher and the question list in the side column, which sticks below the top bar
+            (64px bar + 24px gap) and is never taller than the viewport; the numbers scroll inside. */}
         <aside className="hidden lg:block">
-          <Panel className="sticky top-24">{palette}</Panel>
+          <div className="sticky top-22 flex max-h-[calc(100dvh-7rem)] flex-col gap-3">
+            <LangToggle lang={lang} className="self-end" />
+            <Panel className="flex min-h-0 flex-col">
+              <Palette items={paletteItems} current={current} onJump={go} />
+            </Panel>
+          </div>
         </aside>
       </div>
 

@@ -33,6 +33,7 @@ export function LangToggle({ lang, className }: { lang: ContentLang; className?:
           key={l.value}
           type="button"
           aria-pressed={shown === l.value}
+          lang={l.value}
           disabled={pending}
           onClick={() => choose(l.value)}
           className={cn(

@@ -3,11 +3,14 @@ import remarkGfm from 'remark-gfm'
 import remarkMath from 'remark-math'
 import rehypeKatex from 'rehype-katex'
 import type { Element, ElementContent } from 'hast'
-import type { ContentLang } from '@/lib/lang'
+import { textLang, type ContentLang } from '@/lib/lang'
 import { cn } from '@/lib/utils'
 
-/** `reading` is study text (chapter gists, short notes); the others are test questions and explanations. */
-type Variant = 'lesson' | 'question' | 'option' | 'reading'
+/**
+ * `reading` is study text (chapter gists, short notes); `question`, `option` and `explanation` are test text in the
+ * same body style; `lesson` is the compact older style (current-affairs notes).
+ */
+type Variant = 'lesson' | 'question' | 'option' | 'explanation' | 'reading'
 
 /** Text of a hast node, for reading a callout's label. */
 function textOf(node: ElementContent | undefined): string {
@@ -46,8 +49,9 @@ const shared: Components = {
     return (
       <div
         data-callout={name}
+        // The title is content and may be Hindi ("याद रखें"): plain weight, never tracked uppercase mono.
         className={cn(
-          'my-5 rounded-[14px] border-l-[3px] bg-soft px-4 py-3 [&>p:first-child>strong:first-child]:figures [&>p:first-child>strong:first-child]:block [&>p:first-child>strong:first-child]:text-[11px] [&>p:first-child>strong:first-child]:tracking-[0.08em] [&>p:first-child>strong:first-child]:text-muted-foreground [&>p:first-child>strong:first-child]:uppercase [&>p]:my-1',
+          'my-5 rounded-[14px] border-l-[3px] bg-soft px-4 py-3 [&>p:first-child>strong:first-child]:block [&>p:first-child>strong:first-child]:font-semibold [&>p]:my-1',
           name === 'trap' ? 'border-review-fg' : 'border-primary',
         )}
       >
@@ -75,7 +79,7 @@ const shared: Components = {
   table({ children }) {
     return (
       <div className="my-5 overflow-x-auto rounded-[14px] border border-hairline">
-        <table className="w-full border-collapse text-sm [&_td]:border-t [&_td]:border-hairline [&_td]:px-3 [&_td]:py-2 [&_th]:px-3 [&_th]:py-2 [&_th]:text-left [&_th]:figures [&_th]:text-[11px] [&_th]:font-medium [&_th]:tracking-[0.08em] [&_th]:text-muted-foreground [&_th]:uppercase">
+        <table className="w-full border-collapse text-[15px] leading-[1.6] [&_td]:border-t [&_td]:border-hairline [&_td]:px-3 [&_td]:py-2 [&_td]:align-top [&_th]:bg-soft [&_th]:px-3 [&_th]:py-2 [&_th]:text-start [&_th]:align-bottom [&_th]:font-semibold">
           {children}
         </table>
       </div>
@@ -167,16 +171,21 @@ function readingComponents(lang: ContentLang): Components {
 const readingHi = readingComponents('hi')
 const readingEn = readingComponents('en')
 
+/** The reading style for body text students read: 17px on phones, 18px from 768px, line-height 1.75, weight 400. */
+const body = 'text-[17px] leading-[1.75] font-normal tracking-normal text-start text-foreground md:text-[18px]'
+/** Statement questions ("1. … 2. … Which of the above…") depend on visible numbers, so lists keep their markers. */
+const blocks =
+  '[&_p]:my-2 [&>:first-child]:mt-0 [&>:last-child]:mb-0 [&_ol]:my-2 [&_ol]:list-decimal [&_ol]:pl-7 [&_ul]:my-2 [&_ul]:list-disc [&_ul]:pl-7 [&_li]:my-1 [&_li]:pl-1'
+
 const variantClass: Record<Variant, string> = {
   lesson:
     'text-base leading-[1.7] [&_h2]:mt-9 [&_h2]:mb-3 [&_h2]:text-[21px] [&_h2]:font-semibold [&_h3]:mt-6 [&_h3]:mb-2 [&_h3]:text-[17px] [&_h3]:font-semibold [&_p]:my-3 [&_ul]:my-3 [&_ul]:list-disc [&_ul]:pl-6 [&_ol]:my-3 [&_ol]:list-decimal [&_ol]:pl-6 [&_li]:my-1',
-  // Statement questions ("1. … 2. … Which of the above…") depend on visible numbers, so lists keep their markers.
-  question:
-    'text-[18px] leading-[1.6] [&_p]:my-2 [&_p:first-child]:mt-0 [&_ol]:my-2 [&_ol]:list-decimal [&_ol]:pl-7 [&_ul]:my-2 [&_ul]:list-disc [&_ul]:pl-7 [&_li]:my-1 [&_li]:pl-1',
-  option: 'text-[15px] leading-[1.5]',
-  // 17px on phones, 18px from 768px; at most ~68ch wide; no tracking, no justification.
-  reading:
-    'max-w-[68ch] text-[17px] leading-[1.75] font-normal tracking-normal text-start text-foreground md:text-[18px] [&_p]:my-4 [&>:first-child]:mt-0',
+  question: cn(body, blocks),
+  explanation: cn(body, blocks),
+  // Inline, and the colour comes from the card around it.
+  option: 'text-[17px] leading-[1.75] font-normal md:text-[18px]',
+  // At most ~68ch wide; no tracking, no justification.
+  reading: cn('max-w-[68ch]', body, '[&_p]:my-4 [&>:first-child]:mt-0'),
 }
 
 /** Renders lessons, question stems, options and explanations: GFM + KaTeX maths + callouts. */
@@ -188,15 +197,16 @@ export function Markdown({
 }: {
   source: string
   variant?: Variant
-  /** The language of `source`. Hindi study text gets lang="hi" and the Devanagari face. */
+  /** The language of `source`; when left out, Devanagari text is taken as Hindi. Hindi gets lang="hi" and the Devanagari face. */
   lang?: ContentLang
   className?: string
 }) {
+  const shownLang = lang ?? textLang(source)
   const Tag = variant === 'option' ? 'span' : 'div'
   const components =
-    variant === 'option' ? optionComponents : variant === 'reading' ? (lang === 'hi' ? readingHi : readingEn) : shared
+    variant === 'option' ? optionComponents : variant === 'reading' ? (shownLang === 'hi' ? readingHi : readingEn) : shared
   return (
-    <Tag lang={lang} className={cn(variantClass[variant], variant === 'reading' && lang === 'hi' && 'font-hindi', className)}>
+    <Tag lang={shownLang} className={cn(variantClass[variant], shownLang === 'hi' && 'font-hindi', className)}>
       <ReactMarkdown remarkPlugins={[remarkGfm, remarkMath]} rehypePlugins={[rehypeKatex]} components={components}>
         {source}
       </ReactMarkdown>

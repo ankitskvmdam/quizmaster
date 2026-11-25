@@ -17,13 +17,16 @@ export function isActive(pathname: string, href: string) {
   return pathname === href || pathname.startsWith(`${href}/`)
 }
 
-/** The primary navigation: a floating glass dock at the bottom centre, the same on every screen size. */
+/**
+ * The primary navigation: a dock at the bottom centre, the same on every screen size. One flat surface colour and a
+ * hairline border: no glass, blur, gradient or shadow; the active item is a solid primary pill.
+ */
 export function BottomDock() {
   const pathname = usePathname()
   return (
     <nav
       aria-label="Main"
-      className="glass-surface fixed bottom-[max(12px,env(safe-area-inset-bottom))] left-1/2 z-40 -translate-x-1/2 rounded-dock p-1.5"
+      className="fixed bottom-[max(12px,env(safe-area-inset-bottom))] left-1/2 z-40 -translate-x-1/2 rounded-dock border border-hairline bg-panel p-1.5"
     >
       <ul className="flex items-center gap-1">
         {DOCK_ITEMS.map(({ href, label, icon: Icon }) => {

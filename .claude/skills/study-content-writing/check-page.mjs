@@ -34,7 +34,7 @@ if (fs.existsSync(suggestionsRel)) {
   const section = /^## Reworded\s*$([\s\S]*?)(?=^## |\Z)/m.exec(fs.readFileSync(suggestionsRel, 'utf8') + '\n## ')
   for (const line of (section?.[1] ?? '').split('\n')) {
     const m = /^\s*[-*]\s*(.+?)\s*->/.exec(line)
-    if (m) for (const w of m[1].match(/[ऀ-ॿ]{4,}|[A-Za-z]{4,}/g) ?? []) reworded.add(w.toLowerCase())
+    if (m) for (const w of m[1].match(/[ऀ-ॣ०-ॿ]{4,}|[A-Za-z]{4,}/g) ?? []) reworded.add(w.toLowerCase())
   }
 }
 
@@ -126,18 +126,33 @@ function nothingLost(lang, before, after) {
   const reallyMissing = missing.filter((n) => !(n.length <= 2 && [...have].some((x) => x.length > n.length && x.endsWith(n))))
   if (reallyMissing.length) err(`${lang}: numbers in the old page that are gone: ${reallyMissing.join(', ')}`)
   // Bold phrases that end in a colon were section labels in the old gist ("**The Dutch:**"), not facts.
-  const bold = uniq((before.body.match(/\*\*[^*]+\*\*/g) ?? []).map((b) => b.slice(2, -2).trim())).filter((b) => !/[:：]$/.test(b))
-  const words = uniq(bold.flatMap((b) => b.match(/[ऀ-ॿ]{4,}|[A-Za-z]{4,}/g) ?? []))
+  const bold = uniq((before.body.replace(/\*{3}/g, '**').match(/\*\*[^*]+\*\*/g) ?? []).map((b) => b.slice(2, -2).trim())).filter((b) => !/[:：]$/.test(b))
+  const words = uniq(bold.flatMap((b) => b.match(/[ऀ-ॣ०-ॿ]{4,}|[A-Za-z]{4,}/g) ?? []))
   const stem = (w) => w.replace(/(ियों|ियाँ|ों|ें|ीं|ी|े|ा|ो|ं)$/u, '').replace(/(ies|es|s|ed|ing)$/i, '')
-  const hay = after.body.toLowerCase()
-  const gone = words.filter((w) => !hay.includes(w.toLowerCase()) && !hay.includes(stem(w).toLowerCase()) && !reworded.has(w.toLowerCase()))
-  if (gone.length)
+  // A nukta added or dropped (फरवरी / फ़रवरी) is the same word.
+  const plain = (t) => t.toLowerCase().replace(/़/g, '').replace(/[क़ख़ग़ज़ड़ढ़फ़]/g, (c) => c.normalize('NFD')[0])
+  const hay = plain(after.body)
+  const gone = words.filter((w) => !hay.includes(plain(w)) && !hay.includes(plain(stem(w))) && !reworded.has(w.toLowerCase()))
+  // English proper nouns (capitalised) must survive: an ERROR. Ordinary words, and all Hindi words, are a WARN to
+  // read through: they are usually just reworded, and the page must never be worded to suit this script. Latin
+  // glosses in the old Hindi page are not checked, since a gloss is given only once now.
+  const isLatin = (w) => /^[A-Za-z]/.test(w)
+  const names = gone.filter((w) => lang === 'en' && /^[A-Z]/.test(w))
+  const ordinary = gone.filter((w) => !names.includes(w) && !(lang === 'hi' && isLatin(w)))
+  if (names.length)
     err(
-      `${lang}: words from bold phrases of the old page that are gone (${gone.length}): ${gone.slice(0, 40).join(' | ')}\n` +
-        `      Restore each one, or, if it was only reworded (a spelling variant, a number now in digits, a label), list it in ${suggestionsRel} under "## Reworded" as "- <old word> -> <what the page says now>"`,
+      `${lang}: names from bold phrases of the old page that are gone (${names.length}): ${names.slice(0, 40).join(' | ')}\n` +
+        `      Restore each one, or, if it is a spelling variant you unified or the first word of an old label, list it in ${suggestionsRel} under "## Reworded" as "- <old word> -> <what the page says now>"`,
+    )
+  if (ordinary.length)
+    warn(
+      `${lang}: words from bold phrases of the old page that are not on the new page (${ordinary.length}): ${ordinary.slice(0, 60).join(' | ')}\n` +
+        `      Read through them: fine if each was only reworded; put it back if it is a name, place or term that got lost. Do not change headings or wording just to clear this.`,
     )
   if (before.front !== after.front && lang === 'en') err('en: frontmatter changed')
-  if (lang === 'hi' && before.front !== after.front) err('hi: frontmatter changed')
+  // The Hindi title may be respelt to match the page (nukta, one spelling per name); nothing else may change.
+  const noTitle = (f) => f.split('\n').filter((l) => !/^title:/.test(l)).join('\n')
+  if (lang === 'hi' && noTitle(before.front) !== noTitle(after.front)) err('hi: frontmatter changed (only the title may be respelt)')
 }
 
 // ---------------------------------------------------------------------------
@@ -157,7 +172,7 @@ function shape(lang, page) {
   if (/[{}]|<[A-Za-z/]/.test(b)) err(`${lang}: raw { } or < > in the text`)
   if (/(^|[^*])\*[^*\s][^*]*\*([^*]|$)/m.test(b.replace(/\*\*[^*]+\*\*/g, ''))) warn(`${lang}: italics found (use bold or plain text)`)
   const ender = lang === 'hi' ? /[।?!](?=\s|$)/g : /[.?!](?=\s|$)/g
-  const long = sk.paragraphs.filter((p) => (p.replace(/\b(e\.g|i\.e|St|Dr|Mr|Mrs|Sir|Lt|Col|Gen|No|vs|etc)\./g, '$1').match(ender) ?? []).length > 3)
+  const long = sk.paragraphs.filter((p) => (p.replace(/([A-Z]).(?=s?[A-Z])/g, '$1').replace(/\b(e\.g|i\.e|St|Dr|Mr|Mrs|Sir|Lt|Col|Gen|No|vs|etc)\./g, '$1').match(ender) ?? []).length > 3)
   if (long.length) warn(`${lang}: ${long.length} paragraph(s) longer than 3 sentences, e.g. "${long[0].slice(0, 70)}…"`)
   if (lang === 'hi') {
     const latin = (b.match(/[A-Za-z]{4,}/g) ?? []).length

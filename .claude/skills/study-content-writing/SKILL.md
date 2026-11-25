@@ -89,6 +89,10 @@ Every page is one merged document. There is no separate "Gist" and "Key facts".
   "jaziya" was a tax on non-Muslims). This is the one thing you may write that the source does not: the plain meaning
   of a word, only when you are sure of it, never a date, name or event. List every explanation you add in the
   suggestions file. If you are not sure of a meaning, leave the term unexplained and list it there instead.
+- **One spelling per name.** When the old page spells a name two ways, pick the commoner one and use it everywhere,
+  and list the change under Reworded.
+- **Abbreviations** are written out on first use (`Hindustan Republican Association (HRA)`); that counts as an
+  explanation, so list it.
 - Plain Markdown with GFM tables. No raw `{ }` or `< >`, no HTML, no footnotes.
 
 ## Hindi
@@ -110,7 +114,7 @@ tables row for row, the same list items, the same numbers. It is not a second, i
 - **Headings and table headers are translated too.** Keep them short.
 - **Glosses the old Hindi page already had** (तख़्त-ए-ताऊस for the Peacock Throne, an alternative Hindi name) stay,
   even though the English page has no counterpart.
-- **One spelling per name.** When the old page spells a name two ways, pick the commoner one and use it everywhere.
+- **One spelling per name**, in Hindi as in English (see the writing rules).
 
 ## Suggestions file
 

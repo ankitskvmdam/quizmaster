@@ -55,6 +55,26 @@ describe('Markdown', () => {
     expect(container.querySelector('blockquote')?.textContent).toContain('साधारण उद्धरण')
   })
 
+  it('marks a Hindi question stem with lang="hi" and the reading body size, without being told the language', () => {
+    const { container } = render(<Markdown variant="question" source={'विद्युत-चुम्बकीय तरंगों का वेग होता है'} />)
+    const root = container.firstElementChild
+    expect(root?.getAttribute('lang')).toBe('hi')
+    expect(root?.className).toContain('font-hindi')
+    expect(root?.className).toContain('text-[17px]')
+    expect(root?.className).toContain('md:text-[18px]')
+  })
+
+  it('leaves an English question without a lang attribute', () => {
+    const { container } = render(<Markdown variant="question" source={'Which of the above is correct?'} />)
+    expect(container.firstElementChild?.hasAttribute('lang')).toBe(false)
+  })
+
+  it('never styles a callout title in a question or explanation as tracked uppercase mono', () => {
+    const { container } = render(<Markdown variant="explanation" source={'> **याद रखें**\n> पहला बिंदु'} />)
+    const callout = container.querySelector('[data-callout]')
+    expect(callout?.className).not.toMatch(/uppercase|tracking-|figures/)
+  })
+
   it('renders an option inline, without a paragraph', () => {
     const { container } = render(<Markdown variant="option" source={'$25\\%$'} />)
     expect(container.querySelector('p')).toBeNull()

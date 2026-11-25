@@ -66,7 +66,7 @@ export function AccountMenu({ displayName, email, contentLang }: { displayName: 
           <DropdownMenuRadioGroup value={lang} onValueChange={chooseLang}>
             {CONTENT_LANGS.map((l) => (
               <DropdownMenuRadioItem key={l.value} value={l.value} disabled={switching} onSelect={(e) => e.preventDefault()}>
-                {l.label}
+                <span lang={l.value}>{l.label}</span>
               </DropdownMenuRadioItem>
             ))}
           </DropdownMenuRadioGroup>

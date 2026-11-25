@@ -23,7 +23,8 @@ export function Badge({
   return (
     <span
       className={cn(
-        'inline-flex h-6 items-center gap-1.5 rounded-full border px-2.5 text-xs font-medium whitespace-nowrap',
+        // min-h, not h: a Hindi label's matras need more than a 24px box.
+        'inline-flex min-h-6 items-center gap-1.5 rounded-full border px-2.5 py-0.5 text-xs leading-[1.4] font-medium whitespace-nowrap',
         tones[tone],
         className,
       )}

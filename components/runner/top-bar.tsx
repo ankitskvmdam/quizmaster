@@ -5,8 +5,9 @@ import { formatTimer } from '@/lib/format'
 import { timerTone } from '@/lib/runner/timer'
 import { Button } from '@/components/ui/button'
 import { cn } from '@/lib/utils'
+import { textLang } from '@/lib/lang'
 
-/** Sticky bar: leave, title, the clock, and Submit. */
+/** Sticky bar: leave, title, the clock, and Submit. One flat surface colour with a hairline below; no glass. */
 export function TopBar({
   title,
   mode,
@@ -25,12 +26,14 @@ export function TopBar({
   const tone = mode === 'timed' && seconds !== null ? timerTone(seconds) : 'normal'
   const shown = seconds === null ? '--:--' : formatTimer(seconds)
   return (
-    <div className="glass-surface sticky top-0 z-30 !rounded-none !border-x-0 !border-t-0 !shadow-none">
-      <div className="mx-auto flex h-16 max-w-[72rem] items-center gap-3 px-4 sm:px-6">
+    <div className="sticky top-0 z-30 border-b border-hairline bg-panel">
+      <div className="mx-auto flex h-16 max-w-[72rem] items-center gap-2 px-4 sm:gap-3 sm:px-6">
         <Button variant="ghost" size="icon-sm" aria-label="Leave test" onClick={onLeave}>
           <X />
         </Button>
-        <p className="min-w-0 flex-1 truncate text-[15px] font-semibold">{title}</p>
+        <p lang={textLang(title)} className="min-w-0 flex-1 truncate text-[15px] font-semibold">
+          {title}
+        </p>
         <span
           className={cn(
             'figures inline-flex h-9 items-center gap-1.5 rounded-full border px-3 text-[15px] font-semibold',
