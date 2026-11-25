@@ -1,0 +1,96 @@
+# Section 9 — Sports (June 2026)
+- slug: ca-2606-spo-01
+  difficulty: easy
+  stem: "Who became the first Indian to win the Norway Chess tournament in 2026?"
+  options: { A: "R. Praggnanandhaa", B: "D. Gukesh", C: "Arjun Erigaisi", D: "Viswanathan Anand" }
+  answer: A
+  explanation: "Praggnanandhaa won Norway Chess 2026 after beating Vincent Keymer in the last round."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-02
+  difficulty: easy
+  stem: "The opening match of the FIFA World Cup 2026 was played at the Estadio Azteca, in which country?"
+  options: { A: "The United States", B: "Mexico", C: "Canada", D: "Brazil" }
+  answer: B
+  explanation: "The tournament opened on 11 June 2026 at the Estadio Azteca, where Mexico beat South Africa 2–0."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-03
+  difficulty: easy
+  stem: "Who won the men's singles title at the French Open 2026?"
+  options: { A: "Flavio Cobolli", B: "Jannik Sinner", C: "Alexander Zverev", D: "Carlos Alcaraz" }
+  answer: C
+  explanation: "Alexander Zverev beat Flavio Cobolli to win his first Grand Slam title."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-04
+  difficulty: easy
+  stem: "The inaugural World Yogasana Championship 2026 was held in"
+  options: { A: "Rishikesh", B: "New Delhi", C: "Mysuru", D: "Ahmedabad" }
+  answer: D
+  explanation: "Ahmedabad hosted the first World Yogasana Championship, where India won 114 medals."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-05
+  difficulty: medium
+  stem: "India won a record sixth SAFF Women's Championship title in 2026 by beating which team in the final?"
+  options: { A: "Bangladesh", B: "Nepal", C: "Bhutan", D: "Sri Lanka" }
+  answer: A
+  explanation: "India beat Bangladesh in the final at Madgaon, Goa."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-06
+  difficulty: medium
+  stem: "International Olympic Day is observed on"
+  options: { A: "29 August", B: "23 June", C: "21 June", D: "6 April" }
+  answer: B
+  explanation: "Olympic Day is 23 June; the 2026 theme was 'You Can Do This! Let's Move'."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-07
+  difficulty: medium
+  stem: "Smriti Mandhana, the only Indian in the inaugural TIME100 Sports list, was placed in which category?"
+  options: { A: "Icons", B: "Pioneers", C: "Titans", D: "Leaders" }
+  answer: C
+  explanation: "Mandhana was named in the 'Titans' category of the first TIME100 Sports list."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-08
+  difficulty: medium
+  stem: "Lionel Messi became the first footballer to win which award in 2026?"
+  options: { A: "Laureus Lifetime Achievement Award", B: "Olympic Order", C: "FIFA Order of Merit", D: "Princess of Asturias Award" }
+  answer: D
+  explanation: "Messi is the first footballer to receive the Princess of Asturias Award."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-09
+  difficulty: hard
+  stem: "India's men won their first medal, a bronze, at the AVC Men's Volleyball Cup 2026 in Gandhinagar by beating"
+  options: { A: "Bahrain", B: "Iran", C: "Japan", D: "Qatar" }
+  answer: A
+  explanation: "India beat Bahrain 3–1 and rose from 60th to 42nd in the FIVB ranking."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-10
+  difficulty: hard
+  stem: "Of India's 114 medals at the World Yogasana Championship 2026, how many were gold?"
+  options: { A: "84", B: "102", C: "96", D: "110" }
+  answer: B
+  explanation: "India won 114 medals in all, 102 of them gold."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-11
+  difficulty: hard
+  stem: "Divyanshi Bhowmick became the youngest Indian woman to win a WTT Feeder singles title at"
+  options: { A: "Doha, Qatar", B: "Muscat, Oman", C: "Prishtina, Kosovo", D: "Tunis, Tunisia" }
+  answer: C
+  explanation: "The 15-year-old won the WTT Feeder singles title at Prishtina in Kosovo."
+  tags: ["2026-06"]
+
+- slug: ca-2606-spo-12
+  difficulty: hard
+  stem: "In the opening match of the ICC Women's T20 World Cup 2026 at Edgbaston, England beat Sri Lanka by"
+  options: { A: "47 runs", B: "65 runs", C: "105 runs", D: "87 runs" }
+  answer: D
+  explanation: "England won by 87 runs after Danni Wyatt-Hodge's 105 not out took them to a record 219 for 1."
+  tags: ["2026-06"]

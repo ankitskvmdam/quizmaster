@@ -1,0 +1,96 @@
+# Section 5 — Environment & Ecology (June 2026)
+- slug: ca-2606-env-01
+  difficulty: easy
+  stem: "Which wetland was announced as India's 100th Ramsar site on 5 June 2026?"
+  options: { A: "Shekha Jheel, Aligarh", B: "Jai Prakash Narayan Bird Sanctuary (Surha Tal), Ballia", C: "Kanwar Lake, Begusarai", D: "Sambhar Lake, Rajasthan" }
+  answer: B
+  explanation: "Surha Tal in Ballia, Uttar Pradesh, an oxbow lake of the Ganga, became India's 100th Ramsar site."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-02
+  difficulty: easy
+  stem: "World Environment Day is observed on"
+  options: { A: "5 June", B: "22 April", C: "17 June", D: "16 September" }
+  answer: A
+  explanation: "World Environment Day falls on 5 June; Azerbaijan was the global host in 2026."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-03
+  difficulty: easy
+  stem: "The fuel E85, whose rollout began on World Environment Day 2026, is a blend of petrol with 80–85 per cent"
+  options: { A: "methanol", B: "compressed biogas", C: "hydrogen", D: "ethanol" }
+  answer: D
+  explanation: "E85 contains 80–85 per cent ethanol and is meant only for flex-fuel vehicles."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-04
+  difficulty: easy
+  stem: "The World Day to Combat Desertification and Drought is observed on"
+  options: { A: "5 June", B: "8 June", C: "17 June", D: "21 June" }
+  answer: C
+  explanation: "It is observed on 17 June; the 2026 theme was 'Rangelands: Recognize. Respect. Restore.'"
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-05
+  difficulty: medium
+  stem: "Which country was the global host of World Environment Day 2026?"
+  options: { A: "Republic of Korea", B: "Saudi Arabia", C: "Azerbaijan", D: "Kenya" }
+  answer: C
+  explanation: "Azerbaijan hosted the 2026 celebrations, with the theme 'Inspired by Nature. For Climate. For Our Future.'"
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-06
+  difficulty: medium
+  stem: "The proposal to notify the Western Ghats as an Ecologically Sensitive Area is based mainly on the report of the"
+  options: { A: "Kasturirangan Committee", B: "Swaminathan Committee", C: "T.S.R. Subramanian Committee", D: "Shailesh Nayak Committee" }
+  answer: A
+  explanation: "The proposal, covering over 56,000 sq km in six States, follows the Kasturirangan Committee report of 2013."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-07
+  difficulty: medium
+  stem: "Which country became the 27th member of the International Big Cat Alliance?"
+  options: { A: "Nepal", B: "Bhutan", C: "Sri Lanka", D: "Bangladesh" }
+  answer: D
+  explanation: "Bangladesh joined as the 27th member of the alliance, which covers seven big cat species."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-08
+  difficulty: medium
+  stem: "India's largest floating solar park, at Omkareshwar, is in"
+  options: { A: "Maharashtra", B: "Madhya Pradesh", C: "Telangana", D: "Kerala" }
+  answer: B
+  explanation: "The 278 MW Omkareshwar floating solar park is in Madhya Pradesh."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-09
+  difficulty: hard
+  stem: "The India Meteorological Department forecast the 2026 southwest monsoon rainfall at what share of the long period average?"
+  options: { A: "88 per cent", B: "96 per cent", C: "101 per cent", D: "92 per cent" }
+  answer: D
+  explanation: "The forecast was 92 per cent of the long period average, in the below-normal range."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-10
+  difficulty: hard
+  stem: "The Mombasa Declaration, adopted at the 11th Our Ocean Conference, is about"
+  options: { A: "illegal, unreported and unregulated fishing", B: "deep-sea mining", C: "plastic pollution", D: "protection of mangroves" }
+  answer: A
+  explanation: "The declaration, adopted in Mombasa, Kenya, targets illegal, unreported and unregulated (IUU) fishing."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-11
+  difficulty: hard
+  stem: "The Joint Crediting Mechanism between India and Japan operates under which provision of the Paris Agreement?"
+  options: { A: "Article 2.1", B: "Article 4.4", C: "Article 6.2", D: "Article 9.1" }
+  answer: C
+  explanation: "The mechanism works under Article 6.2, which allows countries to trade mitigation outcomes."
+  tags: ["2026-06"]
+
+- slug: ca-2606-env-12
+  difficulty: hard
+  stem: "According to the National Institute of Solar Energy, India's floating solar potential on reservoirs is about"
+  options: { A: "52.18 GW", B: "102.18 GW", C: "152.18 GW", D: "202.18 GW" }
+  answer: B
+  explanation: "The first national assessment put the potential at about 102.18 GW, with Maharashtra on top."
+  tags: ["2026-06"]

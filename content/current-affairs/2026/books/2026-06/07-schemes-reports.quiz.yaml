@@ -1,0 +1,96 @@
+# Section 7 — Government Schemes, Reports & Indices (June 2026)
+- slug: ca-2606-sch-01
+  difficulty: easy
+  stem: "The VB-G RAM G scheme, in force from 1 July 2026, replaces which programme?"
+  options: { A: "PM Awas Yojana – Gramin", B: "Deendayal Antyodaya Yojana – NRLM", C: "MGNREGS", D: "PM Gram Sadak Yojana" }
+  answer: C
+  explanation: "VB-G RAM G replaces the Mahatma Gandhi National Rural Employment Guarantee Scheme and guarantees 125 days of work."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-02
+  difficulty: easy
+  stem: "PM SVANidhi, which completed six years in June 2026, is a loan scheme for"
+  options: { A: "street vendors", B: "small farmers", C: "weavers", D: "fishermen" }
+  answer: A
+  explanation: "PM SVANidhi, launched on 1 June 2020, gives collateral-free loans to street vendors."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-03
+  difficulty: easy
+  stem: "How many days of wage employment in a year does VB-G RAM G guarantee to a rural household?"
+  options: { A: "100", B: "125", C: "150", D: "200" }
+  answer: B
+  explanation: "The guarantee rises from 100 days under MGNREGS to 125 days."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-04
+  difficulty: easy
+  stem: "Mission Senehjori, launched in June 2026, is meant for which silk of Assam?"
+  options: { A: "Tussar", B: "Mulberry", C: "Eri", D: "Muga" }
+  answer: D
+  explanation: "Mission Senehjori supports the Muga silk sector of Assam."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-05
+  difficulty: medium
+  stem: "Under the Pradhan Mantri Surakshit Matritva Abhiyan, free antenatal check-ups are given on which day of every month?"
+  options: { A: "1st", B: "5th", C: "15th", D: "9th" }
+  answer: D
+  explanation: "PMSMA, launched on 9 June 2016, offers free antenatal care on the 9th of every month."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-06
+  difficulty: medium
+  stem: "The Khet Bachao Abhiyan was launched in June 2026 from which State?"
+  options: { A: "Uttar Pradesh", B: "Madhya Pradesh", C: "Punjab", D: "Bihar" }
+  answer: B
+  explanation: "The Union Agriculture Minister launched it from Raisen district of Madhya Pradesh."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-07
+  difficulty: medium
+  stem: "India's rank in the World Economic Forum's Energy Transition Index 2026 was"
+  options: { A: "70th", B: "42nd", C: "63rd", D: "94th" }
+  answer: A
+  explanation: "India ranked 70th; Sweden, Finland and Denmark took the top three places."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-08
+  difficulty: medium
+  stem: "The SUMAN Roadmap 2030 aims to bring the maternal mortality ratio below"
+  options: { A: "100 per lakh live births", B: "50 per lakh live births", C: "70 per lakh live births", D: "87 per lakh live births" }
+  answer: C
+  explanation: "The roadmap targets a maternal mortality ratio below 70 per lakh live births by 2030."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-09
+  difficulty: hard
+  stem: "The Anemia Mukt Bharat strategy was upgraded in June 2026 from 6x6x6 to"
+  options: { A: "6x7x8", B: "8x8x8", C: "7x7x7", D: "9x9x9" }
+  answer: C
+  explanation: "The strategy now follows a 7x7x7 design, adding a seventh beneficiary group and intervention."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-10
+  difficulty: hard
+  stem: "The MAHA Water Mission was launched by the Ministry of Jal Shakti together with the"
+  options: { A: "Anusandhan National Research Foundation", B: "Central Water Commission", C: "NITI Aayog", D: "Council of Scientific and Industrial Research" }
+  answer: A
+  explanation: "ANRF and the Ministry of Jal Shakti launched the mission with Rs 200 crore over five years."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-11
+  difficulty: hard
+  stem: "India's rank in the QS World Future Skills Index 2027 was"
+  options: { A: "5th", B: "13th", C: "25th", D: "38th" }
+  answer: B
+  explanation: "India ranked 13th; the United States topped the index."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sch-12
+  difficulty: hard
+  stem: "The interim allocation announced for VB-G RAM G was"
+  options: { A: "Rs 60,000 crore", B: "Rs 86,000 crore", C: "Rs 1,25,000 crore", D: "Rs 95,692 crore" }
+  answer: D
+  explanation: "The Rural Development Minister announced an interim allocation of Rs 95,692 crore."
+  tags: ["2026-06"]

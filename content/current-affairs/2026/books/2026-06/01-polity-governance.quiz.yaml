@@ -1,0 +1,96 @@
+# Section 1 — Polity & Governance (June 2026)
+- slug: ca-2606-pol-01
+  difficulty: easy
+  stem: "In June 2026 the Supreme Court held that which of the following is a fundamental right?"
+  options: { A: "The right to walk on safe, demarcated footpaths", B: "The right to free public transport", C: "The right to park on public roads", D: "The right to free internet access" }
+  answer: A
+  explanation: "The Court held that walking on safe, demarcated footpaths is a fundamental right under Article 19(1)(d) read with Article 21."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-02
+  difficulty: easy
+  stem: "The 11th Governing Council meeting of NITI Aayog was chaired by the"
+  options: { A: "President of India", B: "Prime Minister", C: "Union Finance Minister", D: "Vice Chairperson of NITI Aayog" }
+  answer: B
+  explanation: "The Prime Minister chairs the Governing Council of NITI Aayog; its 11th meeting had the theme 'Inclusive Human Development for Viksit Bharat @2047'."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-03
+  difficulty: easy
+  stem: "The Mekedatu dam project, opposed by a resolution of the Tamil Nadu Assembly, is proposed on which river?"
+  options: { A: "Krishna", B: "Godavari", C: "Cauvery", D: "Tungabhadra" }
+  answer: C
+  explanation: "Mekedatu is Karnataka's proposed dam on the Cauvery; the Tamil Nadu Assembly unanimously opposed it."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-04
+  difficulty: easy
+  stem: "According to the Ministry of External Affairs' clarification, an Indian passport is"
+  options: { A: "conclusive proof of citizenship", B: "proof of residence only", C: "valid only with a voter ID card", D: "a travel document and not conclusive proof of citizenship" }
+  answer: D
+  explanation: "The Ministry said a passport is a travel document and does not conclusively prove citizenship."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-05
+  difficulty: medium
+  stem: "The Supreme Court (Number of Judges) Amendment Ordinance, 2026 raised the sanctioned strength of the Court from 34 to"
+  options: { A: "36", B: "38", C: "40", D: "42" }
+  answer: B
+  explanation: "The ordinance raised the sanctioned strength from 34 to 38 judges, including the Chief Justice of India."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-06
+  difficulty: medium
+  stem: "V. Mohana became the second woman to be elevated directly from the Bar to the Supreme Court. Who was the first?"
+  options: { A: "Indu Malhotra", B: "R. Banumathi", C: "B.V. Nagarathna", D: "Indira Banerjee" }
+  answer: A
+  explanation: "Indu Malhotra was the first woman to be elevated directly from the Bar, in 2018."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-07
+  difficulty: medium
+  stem: "The new telecom authorisation framework notified by the Department of Telecommunications replaces licences given under the"
+  options: { A: "Telecom Regulatory Authority of India Act, 1997", B: "Information Technology Act, 2000", C: "Indian Wireless Telegraphy Act, 1933", D: "Indian Telegraph Act, 1885" }
+  answer: D
+  explanation: "Authorisations under the Telecommunications Act, 2023 replace the licences issued under the Indian Telegraph Act, 1885."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-08
+  difficulty: medium
+  stem: "The Delhi High Court upheld the temporary blocking of Telegram, which was ordered under which provision?"
+  options: { A: "Section 66A of the IT Act, 2000", B: "Section 79 of the IT Act, 2000", C: "Section 69A of the IT Act, 2000", D: "Section 144 of the CrPC" }
+  answer: C
+  explanation: "Blocking orders are issued under Section 69A of the Information Technology Act, 2000."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-09
+  difficulty: hard
+  stem: "Under the FCRA Amendment Rules, 2026, what share of the foreign funds already received must an NGO use before it gets the next instalment?"
+  options: { A: "50 per cent", B: "60 per cent", C: "75 per cent", D: "90 per cent" }
+  answer: C
+  explanation: "The amended rules require 75 per cent of the earlier funds to be used before further instalments."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-10
+  difficulty: hard
+  stem: "According to an ADR report, what share of the 226 sitting Rajya Sabha members have declared criminal cases against themselves?"
+  options: { A: "16 per cent", B: "31 per cent", C: "43 per cent", D: "53 per cent" }
+  answer: B
+  explanation: "The ADR report found that 31 per cent of the 226 sitting Rajya Sabha members have declared criminal cases."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-11
+  difficulty: hard
+  stem: "In the footpath judgment, the Supreme Court linked the right to walk mainly to which Article, read with Article 21?"
+  options: { A: "Article 14", B: "Article 19(1)(g)", C: "Article 25", D: "Article 19(1)(d)" }
+  answer: D
+  explanation: "Article 19(1)(d) guarantees the freedom to move freely throughout the territory of India; the Court read it with Article 21."
+  tags: ["2026-06"]
+
+- slug: ca-2606-pol-12
+  difficulty: hard
+  stem: "NCERT has included the 1975 Emergency for the first time in the textbook of which class?"
+  options: { A: "Class 9", B: "Class 8", C: "Class 10", D: "Class 12" }
+  answer: A
+  explanation: "The Emergency appears in the Class 9 textbook 'Understanding Society: India and Beyond'."
+  tags: ["2026-06"]

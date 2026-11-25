@@ -1,0 +1,96 @@
+# Section 10 — Bihar Current Affairs (June 2026)
+- slug: ca-2606-bih-01
+  difficulty: easy
+  stem: "Who became Chief Justice of the Patna High Court from 5 June 2026?"
+  options: { A: "Justice Meenakshi Madan Rai", B: "Justice Sangam Kumar Sahoo", C: "Justice V. Mohana", D: "Justice Indu Malhotra" }
+  answer: A
+  explanation: "Justice Meenakshi Madan Rai, earlier of the Sikkim High Court, succeeded Justice Sangam Kumar Sahoo."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-02
+  difficulty: easy
+  stem: "Bawan Buti Saree and Fabric, which received a GI tag in June 2026, belongs to which district of Bihar?"
+  options: { A: "Bhagalpur", B: "Nalanda", C: "Madhubani", D: "Gaya" }
+  answer: B
+  explanation: "Bawan Buti Saree and Fabric is from Nalanda; Patharkatti Stone Craft (Gaya) and Pidiya Painting (Bhojpur) also got GI tags."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-03
+  difficulty: easy
+  stem: "Akshara Gupta of Raxaul made news in June 2026 for scoring how many runs not out in a women's under-19 one-day match?"
+  options: { A: "206", B: "264", C: "306", D: "350" }
+  answer: C
+  explanation: "She scored 306 not out off 126 balls at Bhagalpur on 18 June 2026."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-04
+  difficulty: easy
+  stem: "Which student from Gaya secured All India Rank 1 in JEE Advanced 2026?"
+  options: { A: "Harsh Vardhan", B: "Akshara Gupta", C: "S.D. Sanjay", D: "Shubham Kumar" }
+  answer: D
+  explanation: "Shubham Kumar of Gaya topped JEE Advanced 2026 with 330 marks."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-05
+  difficulty: medium
+  stem: "The Patna High Court was established on"
+  options: { A: "1 April 1936", B: "3 February 1916", C: "26 January 1950", D: "22 March 1912" }
+  answer: B
+  explanation: "The Patna High Court was established on 3 February 1916."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-06
+  difficulty: medium
+  stem: "Pidiya Painting, which received a GI tag, is from which district of Bihar?"
+  options: { A: "Nalanda", B: "Gaya", C: "Bhojpur", D: "Darbhanga" }
+  answer: C
+  explanation: "Pidiya Painting is from Bhojpur."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-07
+  difficulty: medium
+  stem: "S.D. Sanjay was appointed Advocate General of Bihar. The Advocate General of a State is appointed under"
+  options: { A: "Article 76(1)", B: "Article 148(1)", C: "Article 217(1)", D: "Article 165(1)" }
+  answer: D
+  explanation: "Article 165(1) provides for the Advocate General of a State; S.D. Sanjay replaced P.K. Shahi."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-08
+  difficulty: medium
+  stem: "The Rs 170 crore Technology Centre at Khizarsarai is in which district?"
+  options: { A: "Gaya Ji", B: "Patna", C: "Nalanda", D: "Aurangabad" }
+  answer: A
+  explanation: "The Technology Centre is being set up at Khizarsarai in Gaya Ji."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-09
+  difficulty: hard
+  stem: "The CCEA approved the four-laning of the 143-km Khagaria–Purnea section of which national highway?"
+  options: { A: "NH-27", B: "NH-31", C: "NH-19", D: "NH-57" }
+  answer: B
+  explanation: "The Khagaria–Purnea section of NH-31 will be four-laned at a cost of Rs 3,936.05 crore on the Hybrid Annuity Mode."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-10
+  difficulty: hard
+  stem: "From Rabi 2026-27, the PM Fasal Bima Yojana will replace which scheme in Bihar?"
+  options: { A: "Mukhyamantri Krishi Ashirwad Yojana", B: "Bihar Krishi Input Subsidy Scheme", C: "Bihar State Crop Assistance Scheme", D: "Bihar Kisan Samman Yojana" }
+  answer: C
+  explanation: "PMFBY replaces the Bihar State Crop Assistance Scheme, which began in 2018."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-11
+  difficulty: hard
+  stem: "The Rs 31.21 crore Integrated Aqua Park under PMMSY will come up at"
+  options: { A: "Kumarbagh, West Champaran", B: "Motipur, Muzaffarpur", C: "Barbigha, Sheikhpura", D: "Vanasaur Fish Seed Farm, Bhojpur" }
+  answer: D
+  explanation: "The aqua park will be built at the Vanasaur Fish Seed Farm in Bhojpur."
+  tags: ["2026-06"]
+
+- slug: ca-2606-bih-12
+  difficulty: hard
+  stem: "The Rs 121 crore compressed biogas plant of Bharat GPS Bioenergy will be set up in which industrial area?"
+  options: { A: "Kumarbagh, West Champaran", B: "Bihta, Patna", C: "Hajipur, Vaishali", D: "Barauni, Begusarai" }
+  answer: A
+  explanation: "The CBG plant will come up in the Kumarbagh Industrial Area of West Champaran."
+  tags: ["2026-06"]

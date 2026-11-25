@@ -1,0 +1,96 @@
+# Section 3 — International Relations (June 2026)
+- slug: ca-2606-int-01
+  difficulty: easy
+  stem: "The 52nd G7 Summit, in whose outreach session the Prime Minister took part, was held in"
+  options: { A: "Italy", B: "Canada", C: "France", D: "Japan" }
+  answer: C
+  explanation: "France hosted the 52nd G7 Summit at Évian."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-02
+  difficulty: easy
+  stem: "Which country became the 10th member of the New Development Bank in June 2026?"
+  options: { A: "Uzbekistan", B: "Kazakhstan", C: "Indonesia", D: "Ethiopia" }
+  answer: A
+  explanation: "Uzbekistan joined on 5 June 2026 as the 10th member and the first from Central Asia."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-03
+  difficulty: easy
+  stem: "The 16th BRICS National Security Advisers Meeting in New Delhi was chaired by"
+  options: { A: "S. Jaishankar", B: "Rajnath Singh", C: "Vikram Misri", D: "Ajit Doval" }
+  answer: D
+  explanation: "National Security Adviser Ajit Doval chaired the meeting; India holds the BRICS chair in 2026."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-04
+  difficulty: easy
+  stem: "The headquarters of the New Development Bank are in"
+  options: { A: "Beijing", B: "Shanghai", C: "New Delhi", D: "Johannesburg" }
+  answer: B
+  explanation: "The New Development Bank, set up by the BRICS countries, is headquartered in Shanghai."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-05
+  difficulty: medium
+  stem: "Khalilur Rahman, elected President of the 81st session of the UN General Assembly, is the Foreign Minister of"
+  options: { A: "Pakistan", B: "Bangladesh", C: "Malaysia", D: "Maldives" }
+  answer: B
+  explanation: "Bangladesh's Foreign Minister Khalilur Rahman defeated Andreas Kakouris of Cyprus in a secret ballot."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-06
+  difficulty: medium
+  stem: "Which of these countries was elected to the UN Security Council for the first time, for the term beginning 1 January 2027?"
+  options: { A: "Austria", B: "Portugal", C: "Zimbabwe", D: "Kyrgyzstan" }
+  answer: D
+  explanation: "Kyrgyzstan won its first term; Austria, Portugal, Trinidad and Tobago and Zimbabwe were the other four elected."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-07
+  difficulty: medium
+  stem: "The interim peace agreement signed between the United States and Iran in June 2026 is known as the"
+  options: { A: "Islamabad MoU", B: "Doha Accord", C: "Muscat Declaration", D: "Geneva Framework" }
+  answer: A
+  explanation: "The 14-point Islamabad MoU was mediated by Pakistan and opens a 60-day window for negotiations."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-08
+  difficulty: medium
+  stem: "India will hold which position in the Financial Action Task Force (FATF) for the first time from July 2026?"
+  options: { A: "Presidency", B: "Executive Secretary", C: "Vice-Presidency", D: "Chair of the Asia-Pacific Group" }
+  answer: C
+  explanation: "Vivek Aggarwal was chosen as FATF Vice-President for July 2026 to June 2027, a first for India."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-09
+  difficulty: hard
+  stem: "During the Prime Minister's June 2026 visit, India's ties with Slovakia were raised to a"
+  options: { A: "Special Global Strategic Partnership", B: "Comprehensive Partnership", C: "Strategic Partnership", D: "Green Strategic Partnership" }
+  answer: B
+  explanation: "India and Slovakia raised their relations to a Comprehensive Partnership and signed 11 agreements."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-10
+  difficulty: hard
+  stem: "The Innovation Roadmap 2030 was adopted by India and"
+  options: { A: "France", B: "Germany", C: "The United Kingdom", D: "Japan" }
+  answer: A
+  explanation: "India and France adopted the Innovation Roadmap 2030 at Nice and launched an Economic Security Dialogue."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-11
+  difficulty: hard
+  stem: "The uranium supply deal worth CAD 2.6 billion signed with India's Department of Atomic Energy is with which company?"
+  options: { A: "Rosatom", B: "Kazatomprom", C: "Orano", D: "Cameco" }
+  answer: D
+  explanation: "Canada's Cameco will supply uranium during 2027–2035 under the CAD 2.6 billion deal."
+  tags: ["2026-06"]
+
+- slug: ca-2606-int-12
+  difficulty: hard
+  stem: "How much hydropower did Nepal agree to export to India over the next decade?"
+  options: { A: "1,000 MW", B: "5,000 MW", C: "10,000 MW", D: "25,000 MW" }
+  answer: C
+  explanation: "Nepal agreed to export 10,000 MW of hydropower to India over the next ten years."
+  tags: ["2026-06"]

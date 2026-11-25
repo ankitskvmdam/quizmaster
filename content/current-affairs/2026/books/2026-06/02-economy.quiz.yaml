@@ -1,0 +1,96 @@
+# Section 2 — Economy & Banking (June 2026)
+- slug: ca-2606-eco-01
+  difficulty: easy
+  stem: "In its June 2026 monetary policy review, the RBI kept the repo rate unchanged at"
+  options: { A: "5.00 per cent", B: "5.25 per cent", C: "5.50 per cent", D: "6.00 per cent" }
+  answer: B
+  explanation: "The Monetary Policy Committee unanimously held the repo rate at 5.25 per cent with a neutral stance."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-02
+  difficulty: easy
+  stem: "Which country issued the world's first sovereign blue bond in 2018?"
+  options: { A: "Maldives", B: "Mauritius", C: "Fiji", D: "Seychelles" }
+  answer: D
+  explanation: "Seychelles issued the first sovereign blue bond in 2018; Sagarmala Finance Corporation plans India's first blue bond."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-03
+  difficulty: easy
+  stem: "MSME Day is observed every year on"
+  options: { A: "27 June", B: "21 June", C: "29 June", D: "1 July" }
+  answer: A
+  explanation: "MSME Day falls on 27 June."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-04
+  difficulty: easy
+  stem: "The Zojila Tunnel, which achieved its final breakthrough, will provide all-weather connectivity between Kashmir and"
+  options: { A: "Himachal Pradesh", B: "Punjab", C: "Ladakh", D: "Uttarakhand" }
+  answer: C
+  explanation: "The Zojila Tunnel links Kashmir with Kargil and the rest of Ladakh throughout the year."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-05
+  difficulty: medium
+  stem: "The RBI approved a record surplus transfer to the Union Government for 2025-26 of about"
+  options: { A: "Rs 1.87 lakh crore", B: "Rs 2.11 lakh crore", C: "Rs 2.87 lakh crore", D: "Rs 3.47 lakh crore" }
+  answer: C
+  explanation: "The RBI approved a transfer of Rs 2.87 lakh crore, its highest ever."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-06
+  difficulty: medium
+  stem: "According to the Provisional Estimates, India's real GDP grew in 2025-26 by"
+  options: { A: "7.7 per cent", B: "6.5 per cent", C: "7.1 per cent", D: "8.2 per cent" }
+  answer: A
+  explanation: "The Provisional Estimates put real GDP growth for 2025-26 at 7.7 per cent, up from 7.1 per cent in 2024-25."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-07
+  difficulty: medium
+  stem: "The new base year of the Wholesale Price Index (WPI) is"
+  options: { A: "2017-18", B: "2022-23", C: "2020-21", D: "2024-25" }
+  answer: B
+  explanation: "The WPI base year was revised from 2011-12 to 2022-23 and the basket was expanded to 957 items."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-08
+  difficulty: medium
+  stem: "The BHAVYA portal, launched in June 2026, is related to the"
+  options: { A: "PM Gati Shakti National Master Plan", B: "Production Linked Incentive scheme", C: "Startup India Seed Fund Scheme", D: "Bharat Audyogik Vikas Yojana" }
+  answer: D
+  explanation: "BHAVYA is the portal of the Bharat Audyogik Vikas Yojana, which will build 100 plug-and-play industrial parks."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-09
+  difficulty: hard
+  stem: "The committee that designed the Index of Services Production was chaired by"
+  options: { A: "Bimal Jalan", B: "Saibal Chattopadhyay", C: "Pronab Sen", D: "Debjani Ghosh" }
+  answer: D
+  explanation: "A Technical Advisory Committee chaired by Debjani Ghosh developed the index, which has 2024-25 as its base year."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-10
+  difficulty: hard
+  stem: "According to UNCTAD, India's share of global ship recycling in 2025 was"
+  options: { A: "35.4 per cent", B: "20.1 per cent", C: "30.1 per cent", D: "45.4 per cent" }
+  answer: A
+  explanation: "India led the world in ship recycling in 2025 with a share of 35.4 per cent."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-11
+  difficulty: hard
+  stem: "The additional tariff proposed by the US Trade Representative on imports from India over forced-labour concerns is"
+  options: { A: "10 per cent", B: "25 per cent", C: "12.5 per cent", D: "15 per cent" }
+  answer: C
+  explanation: "After a Section 301 investigation, the USTR proposed an additional 12.5 per cent tariff on India and 53 other economies."
+  tags: ["2026-06"]
+
+- slug: ca-2606-eco-12
+  difficulty: hard
+  stem: "The RBI reduced the period allowed for realising export proceeds from 15 months to"
+  options: { A: "6 months", B: "9 months", C: "12 months", D: "3 months" }
+  answer: B
+  explanation: "The realisation period for export proceeds was cut from 15 months to 9 months."
+  tags: ["2026-06"]

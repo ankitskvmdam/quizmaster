@@ -1,0 +1,96 @@
+# Section 4 — Science & Technology (June 2026)
+- slug: ca-2606-sci-01
+  difficulty: easy
+  stem: "NASA's MAVEN mission, which came to an end, studied the atmosphere of which planet?"
+  options: { A: "Venus", B: "Jupiter", C: "Saturn", D: "Mars" }
+  answer: D
+  explanation: "MAVEN, launched in 2013, studied the upper atmosphere of Mars."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-02
+  difficulty: easy
+  stem: "India's seventh Regional Meteorological Centre was inaugurated at"
+  options: { A: "Jammu", B: "Lucknow", C: "Bhopal", D: "Patna" }
+  answer: A
+  explanation: "The seventh centre opened at Jammu; a similar centre was announced for Lucknow."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-03
+  difficulty: easy
+  stem: "The Kudankulam Nuclear Power Project, where the reactor pressure vessel of Unit 5 was installed, is in"
+  options: { A: "Kerala", B: "Karnataka", C: "Tamil Nadu", D: "Andhra Pradesh" }
+  answer: C
+  explanation: "Kudankulam is in Tamil Nadu; with six units it will have a capacity of 6,000 MWe."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-04
+  difficulty: easy
+  stem: "Sarvam AI, which became a unicorn in June 2026, is based in"
+  options: { A: "Hyderabad", B: "Bengaluru", C: "Pune", D: "Gurugram" }
+  answer: B
+  explanation: "Bengaluru-based Sarvam AI reached a valuation of about USD 1.5 billion."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-05
+  difficulty: medium
+  stem: "India's first SkyCast System was inaugurated at"
+  options: { A: "Chhatrapati Shivaji Maharaj International Airport, Mumbai", B: "Kempegowda International Airport, Bengaluru", C: "Indira Gandhi International Airport, New Delhi", D: "Rajiv Gandhi International Airport, Hyderabad" }
+  answer: C
+  explanation: "The first SkyCast System came up at IGI Airport, New Delhi, as part of Mission Mausam."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-06
+  difficulty: medium
+  stem: "The world's first nuclear heat-based hydrogen production facility was inaugurated at"
+  options: { A: "BARC, Trombay", B: "Tarapur", C: "Kakrapar", D: "IGCAR, Kalpakkam" }
+  answer: D
+  explanation: "The facility at IGCAR, Kalpakkam uses heat from the Fast Breeder Test Reactor."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-07
+  difficulty: medium
+  stem: "Which supercomputer topped the TOP500 list in June 2026?"
+  options: { A: "LineShine", B: "El Capitan", C: "Frontier", D: "Aurora" }
+  answer: A
+  explanation: "China's LineShine, at Shenzhen, replaced the US machine El Capitan at the top."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-08
+  difficulty: medium
+  stem: "Who was named Commander of NASA's Artemis III mission?"
+  options: { A: "Luca Parmitano", B: "Randy Bresnik", C: "Frank Rubio", D: "Andre Douglas" }
+  answer: B
+  explanation: "Randy Bresnik commands Artemis III; Luca Parmitano of the European Space Agency is its pilot."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-09
+  difficulty: hard
+  stem: "The hydrogen plant at Kalpakkam is based on which thermochemical cycle?"
+  options: { A: "Sulphur–iodine", B: "Copper–chlorine", C: "Iron–chlorine", D: "Calcium–bromine" }
+  answer: B
+  explanation: "It uses the copper–chlorine cycle, a technology developed by BARC."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-10
+  difficulty: hard
+  stem: "The IMI-resistant mustard hybrids to be sown from the 2026-27 rabi season were developed through"
+  options: { A: "Transgenic (GM) technology", B: "Tissue culture", C: "Mutation breeding", D: "Grafting" }
+  answer: C
+  explanation: "They were developed by mutation breeding, a non-GM method, to withstand herbicides used against the weed Orobanche."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-11
+  difficulty: hard
+  stem: "The US space-weather satellite SOLAR-1 is positioned at"
+  options: { A: "Sun–Earth Lagrange Point 1 (L1)", B: "Sun–Earth Lagrange Point 2 (L2)", C: "Geostationary orbit", D: "Low Earth orbit" }
+  answer: A
+  explanation: "NOAA's SOLAR-1 watches the Sun from the L1 point between the Sun and the Earth."
+  tags: ["2026-06"]
+
+- slug: ca-2606-sci-12
+  difficulty: hard
+  stem: "With the SkyCast System at Delhi airport, India became which country in order to deploy such a system?"
+  options: { A: "5th", B: "10th", C: "25th", D: "19th" }
+  answer: D
+  explanation: "India is the 19th country to deploy a SkyCast System."
+  tags: ["2026-06"]

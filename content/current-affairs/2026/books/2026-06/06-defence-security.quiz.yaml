@@ -1,0 +1,96 @@
+# Section 6 — Defence & Security (June 2026)
+- slug: ca-2606-def-01
+  difficulty: easy
+  stem: "Who took over as Chief of the Army Staff on 30 June 2026?"
+  options: { A: "Lt Gen Dhiraj Seth", B: "General Upendra Dwivedi", C: "Lt Gen N.S. Raja Subramani", D: "General Anil Chauhan" }
+  answer: A
+  explanation: "Lt Gen Dhiraj Seth succeeded General Upendra Dwivedi as Army Chief."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-02
+  difficulty: easy
+  stem: "The S-400 Triumf air defence system, of which India received the fourth squadron, is bought from"
+  options: { A: "France", B: "Israel", C: "The United States", D: "Russia" }
+  answer: D
+  explanation: "The S-400 is a Russian system, bought under a 2018 deal for five squadrons."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-03
+  difficulty: easy
+  stem: "Exercise Khaan Quest 2026 was held in"
+  options: { A: "Kazakhstan", B: "Mongolia", C: "Nepal", D: "Vietnam" }
+  answer: B
+  explanation: "Khaan Quest is a multinational peacekeeping exercise hosted by Mongolia; the 2026 edition was the 23rd."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-04
+  difficulty: easy
+  stem: "With which country did India sign a BrahMos missile export deal, announced at the Shangri-La Dialogue?"
+  options: { A: "Indonesia", B: "Thailand", C: "Vietnam", D: "Malaysia" }
+  answer: C
+  explanation: "The deal with Vietnam was announced by the Defence Secretary; the Philippines was the first buyer in 2022."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-05
+  difficulty: medium
+  stem: "INS Dunagiri, INS Sanshodhak and INS Agray, commissioned together at Kolkata, were built by"
+  options: { A: "Mazagon Dock Shipbuilders", B: "Cochin Shipyard", C: "Garden Reach Shipbuilders and Engineers", D: "Goa Shipyard" }
+  answer: C
+  explanation: "All three ships were built by GRSE, Kolkata, with more than 75 per cent indigenous content."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-06
+  difficulty: medium
+  stem: "RudraM-II, flight-tested by DRDO and the Indian Air Force, is"
+  options: { A: "a surface-to-air missile", B: "an air-to-surface anti-radiation missile", C: "an anti-tank guided missile", D: "a submarine-launched ballistic missile" }
+  answer: B
+  explanation: "RudraM is a series of air-to-surface anti-radiation missiles meant to suppress enemy air defences."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-07
+  difficulty: medium
+  stem: "According to the SIPRI Yearbook 2026, India's rank among the world's military spenders in 2025 was"
+  options: { A: "second", B: "third", C: "fourth", D: "fifth" }
+  answer: D
+  explanation: "India was the fifth-largest spender in 2025, at USD 92.1 billion."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-08
+  difficulty: medium
+  stem: "Exercise Pitch Black 2026, in which the Indian Air Force will take part, is hosted by"
+  options: { A: "Australia", B: "The United States", C: "France", D: "Japan" }
+  answer: A
+  explanation: "Pitch Black is the Royal Australian Air Force's multinational air combat exercise, held in the Northern Territory."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-09
+  difficulty: hard
+  stem: "The gallantry awards conferred at the Defence Investiture Ceremony 2026 (Phase-I) included how many Kirti Chakras?"
+  options: { A: "5", B: "7", C: "15", D: "29" }
+  answer: B
+  explanation: "The 51 awards comprised 7 Kirti Chakras, 15 Vir Chakras and 29 Shaurya Chakras."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-10
+  difficulty: hard
+  stem: "Project Kusha is the name of India's"
+  options: { A: "nuclear submarine programme", B: "fifth-generation fighter aircraft programme", C: "light tank programme", D: "Extended Range Air Defence System" }
+  answer: D
+  explanation: "Project Kusha is the Extended Range Air Defence System with three interceptors, M1, M2 and M3."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-11
+  difficulty: hard
+  stem: "The Netra airborne early warning and control system, which received Final Operational Clearance, is mounted on an aircraft made by"
+  options: { A: "Embraer", B: "Airbus", C: "Boeing", D: "Ilyushin" }
+  answer: A
+  explanation: "Netra is fitted on the Brazilian Embraer EMB-145I and was developed by DRDO's Centre for Airborne Systems."
+  tags: ["2026-06"]
+
+- slug: ca-2606-def-12
+  difficulty: hard
+  stem: "Garudastra, tested at Mhow in June 2026, is"
+  options: { A: "a loitering munition", B: "a man-portable air defence missile", C: "a 120 mm vehicle-mounted mortar system", D: "a 155 mm towed howitzer" }
+  answer: C
+  explanation: "Garudastra is an indigenous 120 mm vehicle-mounted mortar system."
+  tags: ["2026-06"]

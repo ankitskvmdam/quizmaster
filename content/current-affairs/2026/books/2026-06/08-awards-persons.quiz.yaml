@@ -1,0 +1,96 @@
+# Section 8 — Awards, Appointments & Persons in News (June 2026)
+- slug: ca-2606-aps-01
+  difficulty: easy
+  stem: "The International Day of Yoga is observed on"
+  options: { A: "5 June", B: "19 June", C: "20 June", D: "21 June" }
+  answer: D
+  explanation: "The 12th International Day of Yoga was observed on 21 June 2026."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-02
+  difficulty: easy
+  stem: "Who was appointed Director of the Intelligence Bureau in June 2026?"
+  options: { A: "Mahesh Dixit", B: "Tapan Kumar Deka", C: "Ashutosh Dixit", D: "Vivek Aggarwal" }
+  answer: A
+  explanation: "Mahesh Dixit, a 1993-batch IPS officer, succeeded Tapan Kumar Deka."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-03
+  difficulty: easy
+  stem: "National Statistics Day, observed on 29 June, marks the birth anniversary of"
+  options: { A: "C.R. Rao", B: "P.V. Sukhatme", C: "P.C. Mahalanobis", D: "C.D. Deshmukh" }
+  answer: C
+  explanation: "Statistics Day honours Prasanta Chandra Mahalanobis; 2026 saw its 20th edition."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-04
+  difficulty: easy
+  stem: "Who was reappointed Solicitor General of India for three years from 1 July 2026?"
+  options: { A: "R. Venkataramani", B: "Tushar Mehta", C: "K.K. Venugopal", D: "Mukul Rohatgi" }
+  answer: B
+  explanation: "Tushar Mehta's term as Solicitor General was extended by three years."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-05
+  difficulty: medium
+  stem: "The theme of the International Day of Yoga 2026 was"
+  options: { A: "Yoga for One Earth, One Health", B: "Yoga for Self and Society", C: "Yoga for Healthy Ageing", D: "Yoga for Harmony and Peace" }
+  answer: C
+  explanation: "The 2026 theme was 'Yoga for Healthy Ageing'; the Prime Minister led the main event at Kolkata."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-06
+  difficulty: medium
+  stem: "The Order of the White Double Cross, conferred on the Prime Minister in June 2026, is the highest state honour of"
+  options: { A: "Slovenia", B: "Seychelles", C: "Estonia", D: "Slovakia" }
+  answer: D
+  explanation: "Slovak President Peter Pellegrini presented the Order of the White Double Cross (1st Class) in Bratislava."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-07
+  difficulty: medium
+  stem: "Who became the first Indian to win the Russia Grand Sand Master Cup 2026?"
+  options: { A: "Sudarsan Pattnaik", B: "Manas Kumar Sahoo", C: "Raghunath Mohapatra", D: "Subodh Gupta" }
+  answer: A
+  explanation: "Sand artist Sudarsan Pattnaik won the cup at a sand sculpture festival in Kaliningrad."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-08
+  difficulty: medium
+  stem: "The theme of World Refugee Day 2026 (20 June) was"
+  options: { A: "Hope Away from Home", B: "Until Everyone Is Safe", C: "Solidarity with Refugees", D: "Together We Heal, Learn and Shine" }
+  answer: B
+  explanation: "World Refugee Day 2026 had the theme 'Until Everyone Is Safe'."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-09
+  difficulty: hard
+  stem: "Who among the following received the Padma Vibhushan at the Civil Investiture Ceremony of 23 June 2026?"
+  options: { A: "Mammootty", B: "K.T. Thomas", C: "Vijay Amritraj", D: "Rohit Sharma" }
+  answer: B
+  explanation: "K.T. Thomas and P. Narayanan received the Padma Vibhushan; Mammootty and Vijay Amritraj received the Padma Bhushan and Rohit Sharma the Padma Shri."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-10
+  difficulty: hard
+  stem: "Bimal N. Patel was elected in June 2026 as a judge of the"
+  options: { A: "International Court of Justice", B: "International Criminal Court", C: "Permanent Court of Arbitration", D: "International Tribunal for the Law of the Sea" }
+  answer: D
+  explanation: "He was elected to the Hamburg-based tribunal for the term 2026–2035."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-11
+  difficulty: hard
+  stem: "The 'Guardian of the Blue Horizon' distinction was conferred on the Prime Minister by"
+  options: { A: "Seychelles", B: "Mauritius", C: "Maldives", D: "Fiji" }
+  answer: A
+  explanation: "Seychelles conferred the distinction during the Prime Minister's visit for its 50th National Day."
+  tags: ["2026-06"]
+
+- slug: ca-2606-aps-12
+  difficulty: hard
+  stem: "Who received the Sukhatme National Award in Statistics 2026?"
+  options: { A: "Saibal Chattopadhyay", B: "Madhavan Mukund", C: "Arup Bose", D: "Shubhabrata Das" }
+  answer: C
+  explanation: "Arup Bose of ISI Kolkata received the award on Statistics Day."
+  tags: ["2026-06"]
