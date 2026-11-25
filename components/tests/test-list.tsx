@@ -5,6 +5,7 @@ import { DataTable } from '@/components/data-table'
 import { Mono } from '@/components/surfaces'
 import { Badge } from '@/components/badge'
 import { StartActions } from './start-actions'
+import { DeleteTestButton } from './delete-test-button'
 import { textLang } from '@/lib/lang'
 
 function Marking({ t }: { t: TestRow }) {
@@ -27,17 +28,21 @@ function Best({ t }: { t: TestRow }) {
 }
 
 /** Tests as a dense table from md up, and as stacked rows on phones. */
-export function TestList({ tests, empty }: { tests: TestRow[]; empty: ReactNode }) {
+/** With `deletable`, each row also gets a delete button (for tests the person built). */
+export function TestList({ tests, empty, deletable = false }: { tests: TestRow[]; empty: ReactNode; deletable?: boolean }) {
   if (tests.length === 0) return <>{empty}</>
   const actions = (t: TestRow) => (
-    <StartActions
-      testId={t.id}
-      title={t.title}
-      questionCount={t.questionCount}
-      durationSec={t.durationSec}
-      marksCorrect={t.marksCorrect}
-      marksWrong={t.marksWrong}
-    />
+    <div className="flex items-start justify-end gap-1">
+      <StartActions
+        testId={t.id}
+        title={t.title}
+        questionCount={t.questionCount}
+        durationSec={t.durationSec}
+        marksCorrect={t.marksCorrect}
+        marksWrong={t.marksWrong}
+      />
+      {deletable && <DeleteTestButton testId={t.id} title={t.title} />}
+    </div>
   )
   return (
     <>

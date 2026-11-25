@@ -1,33 +1,47 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
-import { BookOpen, CalendarDays, ClipboardList, Library, Sparkles } from 'lucide-react'
-import { getBuilderTopics, getFeed } from '@/lib/queries/home'
+import { BookOpen, CalendarDays, ClipboardList, Library, Plus, Sparkles, SquareStack } from 'lucide-react'
+import { getFeed } from '@/lib/queries/home'
+import { listMyBuiltTests } from '@/lib/queries/tests'
+import { Button } from '@/components/ui/button'
+import { TestList } from '@/components/tests/test-list'
 import { formatDate } from '@/lib/format'
 import { PageHeader } from '@/components/page-header'
 import { Panel, IconTile, Mono } from '@/components/surfaces'
 import { Badge } from '@/components/badge'
 import { EmptyState } from '@/components/empty-state'
-import { TestBuilder } from '@/components/new/test-builder'
 import { cn } from '@/lib/utils'
 
 export const metadata: Metadata = { title: 'New' }
 
 export default async function NewPage() {
-  const [topics, feed] = await Promise.all([getBuilderTopics(), getFeed(20)])
+  const [built, feed] = await Promise.all([listMyBuiltTests(), getFeed(5)])
   return (
     <>
       <PageHeader title="New" description="Build your own test, and see what was added recently." />
 
       <section aria-labelledby="build" className="mb-8">
-        <Panel className="flex flex-col gap-5">
+        <div className="mb-3 flex flex-wrap items-center justify-between gap-3">
           <h2 id="build" className="text-lg font-semibold">
-            Build a test
+            Your tests
           </h2>
-          {topics.length === 0 ? (
-            <p className="text-sm text-muted-foreground">There are no practice questions yet.</p>
-          ) : (
-            <TestBuilder topics={topics} />
-          )}
+          <Button asChild>
+            <Link href="/new/build">
+              <Plus aria-hidden />
+              Build a new test
+            </Link>
+          </Button>
+        </div>
+        <Panel>
+          <TestList
+            tests={built}
+            deletable
+            empty={
+              <EmptyState icon={<SquareStack />} title="No tests built yet">
+                Mix any subjects and topics into a test of your own. It stays here, so you can take it again.
+              </EmptyState>
+            }
+          />
         </Panel>
       </section>
 
@@ -43,7 +57,7 @@ export default async function NewPage() {
           ) : (
             <ul className="-my-2 flex flex-col">
               {feed.map((item, i) => (
-                <li key={`${item.type}-${item.href}-${item.title}`} className={cn(i > 0 && 'border-t border-hairline')}>
+                <li key={`${item.type}-${item.href}-${item.title}-${i}`} className={cn(i > 0 && 'border-t border-hairline')}>
                   <Link href={item.href} className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3 hover:bg-soft">
                     <IconTile size="sm">{item.type === 'lesson' ? <BookOpen /> : item.type === 'book' ? <Library /> : item.type === 'month' ? <CalendarDays /> : <ClipboardList />}</IconTile>
                     <div className="min-w-0 flex-1">

@@ -1,7 +1,7 @@
 -- Syllabus tree (topics with parents and paths) and books with chapter gists (courses plan, step 1).
 begin;
 create extension if not exists pgtap with schema extensions;
-select plan(16);
+select plan(20);
 
 insert into public.allowed_emails (email) values ('tree1@test.dev'), ('tree2@test.dev');
 insert into auth.users (id, email) values
@@ -79,6 +79,16 @@ select is((select count(*) from public.test_questions where test_id = (select id
   'practising a node draws from its whole subtree plus chapters tagged inside it');
 select is((select title from public.tests where id = (select id from ids where name = 'anc')), 'Practice: Ancient',
   'a practice set is named after its nodes');
+
+insert into ids values ('ch', public.create_custom_test('{}'::uuid[], 5, null, array['c2000000-0000-0000-0000-0000000000e1']::uuid[]));
+select is((select count(*) from public.test_questions where test_id = (select id from ids where name = 'ch')), 1::bigint,
+  'picking a chapter draws only that chapter''s questions');
+select is((select title from public.tests where id = (select id from ids where name = 'ch')), 'Practice: The Mauryas',
+  'a practice set picked by chapter is named after the chapter');
+select throws_ok($$select public.create_custom_test('{}'::uuid[], 5, null, array['c2000000-0000-0000-0000-0000000000e2']::uuid[])$$,
+  'P0001', 'Topic not found', 'a chapter of an unpublished book cannot be picked');
+select throws_ok($$select public.create_custom_test('{}'::uuid[], 5)$$, 'P0001', 'Pick at least one topic',
+  'a test needs at least one node or chapter');
 
 insert into ids values ('att', public.start_attempt('c4000000-0000-0000-0000-0000000000e1', 'practice'));
 select is(public.get_attempt((select id from ids where name = 'att'))->'questions'->0->>'topic_name', 'The Mauryas · Ancient India',

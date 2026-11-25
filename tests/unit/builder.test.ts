@@ -1,5 +1,5 @@
 import { describe, expect, it } from 'vitest'
-import { defaultMinutes, parseBuilder } from '@/lib/builder'
+import { defaultMinutes, parseBuiltTest, splitCount } from '@/lib/builder'
 
 const form = (entries: [string, string][]) => {
   const f = new FormData()
@@ -15,25 +15,32 @@ describe('defaultMinutes', () => {
   })
 })
 
-describe('parseBuilder', () => {
-  it('reads topics, count, mode and minutes', () => {
-    const r = parseBuilder(form([['topic', 't1'], ['topic', 't2'], ['count', '20'], ['mode', 'timed'], ['minutes', '25']]))
-    expect(r).toEqual({ ok: true, value: { topicIds: ['t1', 't2'], count: 20, mode: 'timed', durationSec: 1500 } })
+describe('parseBuiltTest', () => {
+  const sections = (v: unknown) => ['sections', JSON.stringify(v)] as [string, string]
+  it('reads sections, count, mode, minutes and name', () => {
+    const r = parseBuiltTest(form([sections([['a', 'b', 'a'], ['c']]), ['count', '37'], ['mode', 'timed'], ['minutes', '45'], ['title', '  Mix  ']]))
+    expect(r).toEqual({ ok: true, value: { sections: [['a', 'b'], ['c']], count: 37, mode: 'timed', durationSec: 2700, title: 'Mix' } })
   })
-  it('has no time limit in practice mode', () => {
-    const r = parseBuilder(form([['topic', 't1'], ['count', '10'], ['mode', 'practice'], ['minutes', '25']]))
-    expect(r).toEqual({ ok: true, value: { topicIds: ['t1'], count: 10, mode: 'practice', durationSec: null } })
+  it('has no time limit in practice mode and no name when left blank', () => {
+    const r = parseBuiltTest(form([sections([['a']]), ['count', '10'], ['mode', 'practice'], ['minutes', '5'], ['title', ' ']]))
+    expect(r).toEqual({ ok: true, value: { sections: [['a']], count: 10, mode: 'practice', durationSec: null, title: null } })
   })
-  it('needs at least one topic', () => {
-    expect(parseBuilder(form([['count', '10'], ['mode', 'practice']]))).toEqual({ ok: false, error: 'Pick at least one topic.' })
+  it('needs a topic in every section, at most ten sections, and 5 to 150 questions', () => {
+    expect(parseBuiltTest(form([sections([['a'], []]), ['count', '10']]))).toEqual({ ok: false, error: 'Pick at least one topic in section 2, or remove it.' })
+    expect(parseBuiltTest(form([sections(Array.from({ length: 11 }, () => ['a'])), ['count', '10']])).ok).toBe(false)
+    expect(parseBuiltTest(form([sections([['a']]), ['count', '4']])).ok).toBe(false)
+    expect(parseBuiltTest(form([sections([['a']]), ['count', '151']])).ok).toBe(false)
   })
-  it('only allows 10, 20 or 30 questions', () => {
-    expect(parseBuilder(form([['topic', 't1'], ['count', '15'], ['mode', 'practice']])).ok).toBe(false)
+})
+
+describe('splitCount', () => {
+  it('splits evenly, the first sections taking the remainder', () => {
+    expect(splitCount(20, [100, 100, 100])).toEqual([7, 7, 6])
   })
-  it('needs a sensible time limit for a timed test', () => {
-    expect(parseBuilder(form([['topic', 't1'], ['count', '10'], ['mode', 'timed'], ['minutes', '0']]))).toEqual({
-      ok: false,
-      error: 'Set a time limit between 1 and 180 minutes.',
-    })
+  it("passes a small section's spare share to the others", () => {
+    expect(splitCount(10, [20, 3])).toEqual([7, 3])
+  })
+  it('stops at what the sections have', () => {
+    expect(splitCount(50, [4, 6])).toEqual([4, 6])
   })
 })

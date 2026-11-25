@@ -3,7 +3,7 @@
 import { revalidatePath } from 'next/cache'
 import { redirect } from 'next/navigation'
 import { createClient } from '@/lib/supabase/server'
-import { parseBuilder } from '@/lib/builder'
+import { parseBuiltTest } from '@/lib/builder'
 import { isMonthKey, monthToDate } from '@/lib/periods'
 import { parseContentLang } from '@/lib/lang'
 
@@ -41,12 +41,14 @@ async function startCustom(
   count: number,
   durationSec: number | null,
   mode: 'timed' | 'practice',
+  chapterIds: string[] = [],
 ): Promise<ActionResult> {
   const supabase = await createClient()
   const created = await supabase.rpc('create_custom_test', {
     p_topic_ids: topicIds,
     p_count: count,
     ...(durationSec ? { p_duration_sec: durationSec } : {}),
+    ...(chapterIds.length ? { p_chapter_ids: chapterIds } : {}),
   })
   if (created.error) return { error: message(created.error) }
   const started = await supabase.rpc('start_attempt', { p_test_id: created.data, p_mode: mode })
@@ -54,12 +56,31 @@ async function startCustom(
   redirect(`/attempt/${started.data}`)
 }
 
-/** The New tab's test builder. */
-export async function createCustomTest(_prev: ActionResult, formData: FormData): Promise<ActionResult> {
-  const parsed = parseBuilder(formData)
+/** The step-by-step builder: sections of chapters, split evenly; the test starts straight away. */
+export async function createBuiltTest(_prev: ActionResult, formData: FormData): Promise<ActionResult> {
+  const parsed = parseBuiltTest(formData)
   if (!parsed.ok) return { error: parsed.error }
-  const { topicIds, count, durationSec, mode } = parsed.value
-  return startCustom(topicIds, count, durationSec, mode)
+  const { sections, count, durationSec, mode, title } = parsed.value
+  const supabase = await createClient()
+  const created = await supabase.rpc('create_built_test', {
+    p_sections: sections.map((ids) => ({ chapter_ids: ids })),
+    p_count: count,
+    ...(durationSec ? { p_duration_sec: durationSec } : {}),
+    ...(title ? { p_title: title } : {}),
+  })
+  if (created.error) return { error: message(created.error) }
+  const started = await supabase.rpc('start_attempt', { p_test_id: created.data, p_mode: mode })
+  if (started.error) return { error: message(started.error) }
+  redirect(`/attempt/${started.data}`)
+}
+
+/** Deletes a test the person built (the database refuses anyone else's), with its attempts. */
+export async function deleteMyTest(testId: string): Promise<ActionResult> {
+  const supabase = await createClient()
+  const { error } = await supabase.rpc('delete_my_test', { p_test_id: testId })
+  if (error) return { error: message(error) }
+  revalidatePath('/new')
+  revalidatePath('/past')
 }
 
 /** Ten untimed questions from topics the person has read; from every topic if they haven't read any yet. */

@@ -535,11 +535,17 @@ isOneToOne: false
         isOneToOne: true
         isSetofReturn: false
       } },
+"create_built_test":
+{ Args: { "p_count": number,"p_duration_sec"?: number,"p_sections": Json,"p_title"?: string }; Returns: string
+                           },
 "create_custom_test":
-{ Args: { "p_count": number,"p_duration_sec"?: number,"p_topic_ids": (string)[] }; Returns: string
+{ Args: { "p_chapter_ids"?: (string)[],"p_count": number,"p_duration_sec"?: number,"p_topic_ids": (string)[] }; Returns: string
                            },
 "create_period_test":
 { Args: { "p_categories"?: (string)[],"p_count"?: number,"p_from": string,"p_seconds_per_question"?: number,"p_to": string }; Returns: string
+                           },
+"delete_my_test":
+{ Args: { "p_test_id": string }; Returns: undefined
                            },
 "get_attempt":
 { Args: { "p_attempt_id": string }; Returns: Json
