@@ -1,0 +1,96 @@
+# Section 7 — Government Schemes, Reports & Indices (May 2026)
+- slug: ca-2605-sch-01
+  difficulty: easy
+  stem: "The Pradhan Mantri Ujjwala Yojana, which completed 10 years in May 2026, provides"
+  options: { A: "free electricity connections", B: "LPG connections to poor households", C: "piped drinking water", D: "crop insurance" }
+  answer: B
+  explanation: "PMUY, run by the Ministry of Petroleum and Natural Gas, has given 10.54 crore LPG connections."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-02
+  difficulty: easy
+  stem: "India's rank in the World Press Freedom Index 2026 was"
+  options: { A: "151st", B: "142nd", C: "161st", D: "157th" }
+  answer: D
+  explanation: "India ranked 157th of 180 countries, down from 151st in 2025; the index is published by Reporters Without Borders."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-03
+  difficulty: easy
+  stem: "Which State became India's fifth fully literate State under the ULLAS programme?"
+  options: { A: "Sikkim", B: "Kerala", C: "Nagaland", D: "Uttarakhand" }
+  answer: A
+  explanation: "Sikkim followed Mizoram, Goa, Tripura and Himachal Pradesh."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-04
+  difficulty: easy
+  stem: "According to NFHS-6 (2023-24), India's total fertility rate is"
+  options: { A: "1.8", B: "2.2", C: "2.0", D: "2.4" }
+  answer: C
+  explanation: "NFHS-6 put the total fertility rate at 2.0."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-05
+  difficulty: medium
+  stem: "The fourth phase of the Pradhan Mantri Gram Sadak Yojana (PMGSY-IV) was launched nationally at"
+  options: { A: "Bhairunda, Madhya Pradesh", B: "Warangal, Telangana", C: "Gangtok, Sikkim", D: "Hajipur, Bihar" }
+  answer: A
+  explanation: "PMGSY-IV was launched at Bhairunda in Madhya Pradesh as the scheme completed 25 years."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-06
+  difficulty: medium
+  stem: "SARTHAK-PDS, approved by the CCEA in May 2026, is an umbrella scheme to modernise"
+  options: { A: "rural roads", B: "primary health centres", C: "the Public Distribution System", D: "post offices" }
+  answer: C
+  explanation: "SARTHAK-PDS has an outlay of Rs 25,530 crore for 2026–31 and uses technology to modernise the ration system."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-07
+  difficulty: medium
+  stem: "The World Migration Report 2026, which named India the largest recipient of remittances, is published by"
+  options: { A: "The World Bank", B: "International Organization for Migration", C: "International Labour Organization", D: "UN Development Programme" }
+  answer: B
+  explanation: "The IOM report put India's remittances at USD 137.67 billion in 2024."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-08
+  difficulty: medium
+  stem: "Under the VB-G RAM G Act, 2025, which replaces MGNREGA, the guaranteed days of work per rural household in a year are"
+  options: { A: "100", B: "110", C: "150", D: "125" }
+  answer: D
+  explanation: "The new law raises guaranteed employment from 100 to 125 days and takes effect from July 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-09
+  difficulty: hard
+  stem: "BHAVYA, for which DPIIT issued guidelines in May 2026, is a scheme to develop"
+  options: { A: "100 smart villages", B: "100 textile parks", C: "100 industrial parks", D: "100 tourist destinations" }
+  answer: C
+  explanation: "The Bharat Audyogik Vikas Yojana (BHAVYA) will develop 100 industrial parks at a cost of about Rs 33,660 crore."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-10
+  difficulty: hard
+  stem: "According to the NCRB's Crime in India 2024 report, which State had the lowest crime rate?"
+  options: { A: "Nagaland", B: "Sikkim", C: "Mizoram", D: "Goa" }
+  answer: A
+  explanation: "Nagaland had the lowest crime rate; Telangana had the highest rate of cybercrime."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-11
+  difficulty: hard
+  stem: "The first calendar-year Periodic Labour Force Survey (2025) put India's unemployment rate at"
+  options: { A: "2.1 per cent", B: "3.1 per cent", C: "4.8 per cent", D: "5.6 per cent" }
+  answer: B
+  explanation: "The PLFS 2025 put the unemployment rate at 3.1 per cent and the labour force participation rate at 59.3 per cent."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sch-12
+  difficulty: hard
+  stem: "In the Times Higher Education Asia University Rankings 2026, the best-placed Indian institution was"
+  options: { A: "IIT Bombay", B: "IIT Delhi", C: "Jawaharlal Nehru University", D: "IISc Bengaluru" }
+  answer: D
+  explanation: "IISc Bengaluru was 43rd in Asia; India had the most ranked institutions, 128."
+  tags: ["2026-05"]

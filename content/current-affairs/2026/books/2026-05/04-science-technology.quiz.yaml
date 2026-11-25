@@ -1,0 +1,96 @@
+# Section 4 — Science & Technology (May 2026)
+- slug: ca-2605-sci-01
+  difficulty: easy
+  stem: "Mission Drishti, the world's first OptoSAR satellite launched in May 2026, was built by which Indian startup?"
+  options: { A: "Skyroot Aerospace", B: "GalaxEye", C: "Agnikul Cosmos", D: "Dhruva Space" }
+  answer: B
+  explanation: "Bengaluru-based GalaxEye launched Mission Drishti on 3 May 2026 on a SpaceX Falcon 9."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-02
+  difficulty: easy
+  stem: "The theme of National Technology Day 2026 was"
+  options: { A: "Responsible Innovation for Inclusive Growth", B: "School to Startups: Igniting Young Minds to Innovate", C: "Technology for a Sustainable Future", D: "Science for Self-Reliant India" }
+  answer: A
+  explanation: "National Technology Day is observed on 11 May; the 2026 theme was 'Responsible Innovation for Inclusive Growth'."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-03
+  difficulty: easy
+  stem: "The indigenous Cell Broadcast System for disaster alerts, launched in May 2026, was developed by"
+  options: { A: "ISRO", B: "DRDO", C: "BSNL", D: "C-DOT" }
+  answer: D
+  explanation: "C-DOT developed the system, which is linked to the SACHET alert platform."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-04
+  difficulty: easy
+  stem: "The Ebola outbreak declared a Public Health Emergency of International Concern by the WHO in May 2026 is caused by which virus?"
+  options: { A: "Zaire virus", B: "Marburg virus", C: "Bundibugyo virus", D: "Nipah virus" }
+  answer: C
+  explanation: "The outbreak in the DR Congo and Uganda is caused by the Bundibugyo virus, for which there is no licensed vaccine."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-05
+  difficulty: medium
+  stem: "'Pathfinder', being built by Pixxel and Sarvam AI, will be India's first"
+  options: { A: "orbital data centre satellite", B: "private crewed spacecraft", C: "reusable launch vehicle", D: "private lunar lander" }
+  answer: A
+  explanation: "Pathfinder is planned as India's first orbital data centre satellite, for launch by the last quarter of 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-06
+  difficulty: medium
+  stem: "In May 2026 the condition PCOS was renamed"
+  options: { A: "Polycystic Endocrine Syndrome (PES)", B: "Metabolic Ovarian Disorder (MOD)", C: "Ovarian Hormonal Syndrome (OHS)", D: "Polyendocrine Metabolic Ovarian Syndrome (PMOS)" }
+  answer: D
+  explanation: "Polycystic Ovary Syndrome was renamed Polyendocrine Metabolic Ovarian Syndrome (PMOS)."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-07
+  difficulty: medium
+  stem: "The World Health Assembly passed its first-ever resolution on which condition in May 2026?"
+  options: { A: "Diabetes", B: "Stroke", C: "Dementia", D: "Obesity" }
+  answer: B
+  explanation: "The Assembly's first resolution on stroke called it a public health priority."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-08
+  difficulty: medium
+  stem: "With the approval of two more units in Gujarat, the number of plants under the India Semiconductor Mission rose to"
+  options: { A: "8", B: "10", C: "12", D: "15" }
+  answer: C
+  explanation: "The two Gujarat units, one of them a GaN Mini/Micro-LED display plant, took the total to 12."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-09
+  difficulty: hard
+  stem: "In the Chandrayaan-3 hop experiment, about how far did the Vikram lander move?"
+  options: { A: "50 cm", B: "5 cm", C: "5 m", D: "50 m" }
+  answer: A
+  explanation: "Vikram lifted off using leftover propellant and moved about 50 cm."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-10
+  difficulty: hard
+  stem: "Radar signs of possible buried ice on the Moon, reported from Chandrayaan-2 data in May 2026, were strongest inside which crater?"
+  options: { A: "Shackleton", B: "Tycho", C: "Faustini", D: "Copernicus" }
+  answer: C
+  explanation: "Scientists of the Physical Research Laboratory, Ahmedabad, found the strongest evidence in a crater inside Faustini, using the DFSAR radar."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-11
+  difficulty: hard
+  stem: "The Indian Association for the Cultivation of Science, which completed 150 years in 2026, was founded by"
+  options: { A: "Jagadish Chandra Bose", B: "Prafulla Chandra Ray", C: "C.V. Raman", D: "Mahendralal Sircar" }
+  answer: D
+  explanation: "Dr Mahendralal Sircar founded the IACS in 1876."
+  tags: ["2026-05"]
+
+- slug: ca-2605-sci-12
+  difficulty: hard
+  stem: "A task force of the Department of Science and Technology recommended that India's critical sectors fully adopt post-quantum cryptography by"
+  options: { A: "2027", B: "2029", C: "2035", D: "2047" }
+  answer: B
+  explanation: "The task force suggested a phased shift, with full adoption by 2029."
+  tags: ["2026-05"]

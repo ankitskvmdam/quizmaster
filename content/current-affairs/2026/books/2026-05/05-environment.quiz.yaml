@@ -1,0 +1,96 @@
+# Section 5 — Environment & Ecology (May 2026)
+- slug: ca-2605-env-01
+  difficulty: easy
+  stem: "The first International Big Cat Alliance (IBCA) Summit is to be held on 1–2 June 2026 in"
+  options: { A: "Bhopal", B: "Dehradun", C: "Nagpur", D: "New Delhi" }
+  answer: D
+  explanation: "India will host the first IBCA Summit in New Delhi, where the Delhi Declaration is expected to be adopted."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-02
+  difficulty: easy
+  stem: "Kanha Tiger Reserve, where several tigers died of suspected canine distemper in May 2026, is in"
+  options: { A: "Madhya Pradesh", B: "Maharashtra", C: "Chhattisgarh", D: "Odisha" }
+  answer: A
+  explanation: "Kanha is in Madhya Pradesh; a tigress and her four cubs were among the tigers that died."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-03
+  difficulty: easy
+  stem: "According to a Morgan Stanley report, India's rank in the world in installed renewable energy capacity is"
+  options: { A: "second", B: "third", C: "fourth", D: "fifth" }
+  answer: B
+  explanation: "India is third, after China and the United States."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-04
+  difficulty: easy
+  stem: "Mayon Volcano, which erupted in May 2026, is in"
+  options: { A: "Indonesia", B: "Japan", C: "The Philippines", D: "Papua New Guinea" }
+  answer: C
+  explanation: "Mayon is in Albay province on Luzon island in the Philippines."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-05
+  difficulty: medium
+  stem: "India's first satellite-tagged Ganges soft-shell turtle was released in"
+  options: { A: "National Chambal Sanctuary", B: "Sundarbans National Park", C: "Kaziranga National Park", D: "Bhitarkanika National Park" }
+  answer: C
+  explanation: "The Wildlife Institute of India released the tagged turtle in Kaziranga, Assam."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-06
+  difficulty: medium
+  stem: "About 670 hectares of the Central Ridge were declared a reserved forest in May 2026. The Central Ridge is in"
+  options: { A: "Delhi", B: "Jaipur", C: "Gurugram", D: "Chandigarh" }
+  answer: A
+  explanation: "The Delhi Government notified the Central Ridge under Section 20 of the Indian Forest Act, 1927."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-07
+  difficulty: medium
+  stem: "The lion cub deaths around Gir in May 2026 were linked to Babesia infection, which is spread by"
+  options: { A: "mosquitoes", B: "contaminated water", C: "bats", D: "ticks" }
+  answer: D
+  explanation: "Babesiosis is a tick-borne disease that attacks red blood cells."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-08
+  difficulty: medium
+  stem: "The IUCN Red List status of the rusty-spotted cat, photographed breeding in the Aravallis, is"
+  options: { A: "Least Concern", B: "Near Threatened", C: "Endangered", D: "Critically Endangered" }
+  answer: B
+  explanation: "The rusty-spotted cat is listed as Near Threatened."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-09
+  difficulty: hard
+  stem: "The new tree species Humboldtia nairiana was discovered in which protected area?"
+  options: { A: "Silent Valley National Park", B: "Periyar Tiger Reserve", C: "Shendurney Wildlife Sanctuary", D: "Wayanad Wildlife Sanctuary" }
+  answer: C
+  explanation: "Humboldtia nairiana was found in Shendurney Wildlife Sanctuary in Kerala."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-10
+  difficulty: hard
+  stem: "The dragonfly Gynacantha khasiaca, last recorded in 1914, was rediscovered in"
+  options: { A: "Namdapha National Park", B: "Keibul Lamjao National Park", C: "Manas National Park", D: "Dzukou Valley" }
+  answer: A
+  explanation: "The long-tailed duskhawker was seen again in Namdapha National Park, Arunachal Pradesh."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-11
+  difficulty: hard
+  stem: "The new cascade frog Amolops kamal was described from which State?"
+  options: { A: "Mizoram", B: "Meghalaya", C: "Sikkim", D: "Nagaland" }
+  answer: D
+  explanation: "The Zoological Survey of India described Amolops kamal from Kiphire district, Nagaland."
+  tags: ["2026-05"]
+
+- slug: ca-2605-env-12
+  difficulty: hard
+  stem: "The Supreme Court asked which three States to act against illegal sand mining in the National Chambal Sanctuary?"
+  options: { A: "Gujarat, Rajasthan and Madhya Pradesh", B: "Uttar Pradesh, Madhya Pradesh and Rajasthan", C: "Uttar Pradesh, Bihar and Madhya Pradesh", D: "Haryana, Rajasthan and Uttar Pradesh" }
+  answer: B
+  explanation: "The sanctuary lies along the Chambal in Uttar Pradesh, Madhya Pradesh and Rajasthan."
+  tags: ["2026-05"]

@@ -1,0 +1,96 @@
+# Section 8 — Awards, Appointments & Persons in News (May 2026)
+- slug: ca-2605-aps-01
+  difficulty: easy
+  stem: "Who was appointed Chairman of Prasar Bharati in May 2026?"
+  options: { A: "Shashi Shekhar Vempati", B: "Ashutosh Gowariker", C: "Prasoon Joshi", D: "Anupam Kher" }
+  answer: C
+  explanation: "Lyricist Prasoon Joshi, earlier Chairperson of the CBFC, was appointed Chairman of Prasar Bharati."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-02
+  difficulty: easy
+  stem: "The Agricola Medal, conferred on Prime Minister Narendra Modi in May 2026, is given by the"
+  options: { A: "Food and Agriculture Organization (FAO)", B: "World Food Programme (WFP)", C: "World Health Organization (WHO)", D: "UN Environment Programme (UNEP)" }
+  answer: A
+  explanation: "The Prime Minister received the FAO Agricola Medal 2026 at the FAO headquarters in Rome."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-03
+  difficulty: easy
+  stem: "World No Tobacco Day is observed on"
+  options: { A: "7 April", B: "31 May", C: "20 May", D: "5 June" }
+  answer: B
+  explanation: "World No Tobacco Day is 31 May; the 2026 theme was 'Unmasking the Appeal: Countering Nicotine and Tobacco Addiction'."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-04
+  difficulty: easy
+  stem: "The Urdu poet and Padma Shri awardee who died in Bhopal on 28 May 2026 was"
+  options: { A: "Munawwar Rana", B: "Rahat Indori", C: "Nida Fazli", D: "Bashir Badr" }
+  answer: D
+  explanation: "Bashir Badr died in Bhopal on 28 May 2026 at the age of 91."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-05
+  difficulty: medium
+  stem: "Which book won the International Booker Prize 2026?"
+  options: { A: "Heart Lamp", B: "Taiwan Travelogue", C: "Tomb of Sand", D: "Kairos" }
+  answer: B
+  explanation: "Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King, is the first winner originally written in Mandarin Chinese."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-06
+  difficulty: medium
+  stem: "Parveen Shaikh won the Whitley Award 2026 for the conservation of which bird?"
+  options: { A: "Great Indian Bustard", B: "Greater Adjutant Stork", C: "Sarus Crane", D: "Indian Skimmer" }
+  answer: D
+  explanation: "She was honoured for community-led conservation of the Indian Skimmer along the Ganga."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-07
+  difficulty: medium
+  stem: "Who succeeded Prasoon Joshi as Chairperson of the Central Board of Film Certification?"
+  options: { A: "Shashi Shekhar Vempati", B: "Ashutosh Gowariker", C: "Shekhar Kapur", D: "Vivek Agnihotri" }
+  answer: A
+  explanation: "Shashi Shekhar Vempati, a former CEO of Prasar Bharati, was appointed CBFC Chairperson."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-08
+  difficulty: medium
+  stem: "Major Abhilasha Barak, named the UN Military Gender Advocate of the Year, was serving with which UN mission?"
+  options: { A: "MONUSCO in the DR Congo", B: "UNMISS in South Sudan", C: "UNIFIL in Lebanon", D: "UNDOF in the Golan Heights" }
+  answer: C
+  explanation: "She commands the Female Engagement Team of UNIFIL in Lebanon and is the third Indian to win the award."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-09
+  difficulty: hard
+  stem: "The Palme d'Or at the 79th Cannes Film Festival (2026) went to 'Fjord', directed by"
+  options: { A: "Andrey Zvyagintsev", B: "Valeska Grisebach", C: "Cristian Mungiu", D: "Abinash Bikram Shah" }
+  answer: C
+  explanation: "Romanian director Cristian Mungiu won the Palme d'Or for Fjord."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-10
+  difficulty: hard
+  stem: "Indian journalists Anand RK and Suparna Sharma won a Pulitzer Prize in 2026 for which project?"
+  options: { A: "trAPPed", B: "The Wild Call", C: "Elephants in the Fog", D: "Taiwan Travelogue" }
+  answer: A
+  explanation: "'trAPPed', produced for Bloomberg, is an illustrated report on 'digital arrest' scams in India."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-11
+  difficulty: hard
+  stem: "The Royal Order of the Polar Star, conferred on the Prime Minister in May 2026, is an honour of"
+  options: { A: "Norway", B: "Denmark", C: "Finland", D: "Sweden" }
+  answer: D
+  explanation: "Sweden conferred the Royal Order of the Polar Star; Norway gave the Grand Cross of the Royal Norwegian Order of Merit."
+  tags: ["2026-05"]
+
+- slug: ca-2605-aps-12
+  difficulty: hard
+  stem: "Joram Aniya, in the news in May 2026, became the first woman from the North-East to be appointed"
+  options: { A: "a judge of the Supreme Court", B: "a full-time Member of NITI Aayog", C: "Chairperson of the UPSC", D: "Deputy Governor of the RBI" }
+  answer: B
+  explanation: "Joram Aniya and Dr R. Balasubramaniam were appointed full-time Members of NITI Aayog."
+  tags: ["2026-05"]

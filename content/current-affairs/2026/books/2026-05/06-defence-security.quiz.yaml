@@ -1,0 +1,96 @@
+# Section 6 — Defence & Security (May 2026)
+- slug: ca-2605-def-01
+  difficulty: easy
+  stem: "Who was appointed India's third Chief of Defence Staff in May 2026?"
+  options: { A: "General Upendra Dwivedi", B: "General Manoj Pande", C: "Lt Gen N.S. Raja Subramani (retd)", D: "Admiral Dinesh Kumar Tripathi" }
+  answer: C
+  explanation: "Lt Gen N.S. Raja Subramani (retd) succeeds General Anil Chauhan with effect from 31 May 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-02
+  difficulty: easy
+  stem: "Who took over as the 27th Chief of the Naval Staff?"
+  options: { A: "Admiral Krishna Swaminathan", B: "Admiral R. Hari Kumar", C: "Admiral Karambir Singh", D: "Admiral Sanjay Vatsayan" }
+  answer: A
+  explanation: "Admiral Krishna Swaminathan succeeded Admiral Dinesh Kumar Tripathi."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-03
+  difficulty: easy
+  stem: "Exercise CINBAX is held between India and"
+  options: { A: "Vietnam", B: "Thailand", C: "Indonesia", D: "Cambodia" }
+  answer: D
+  explanation: "CINBAX-II, the second India–Cambodia exercise, was held in Kampong Speu Province, Cambodia."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-04
+  difficulty: easy
+  stem: "INS Mahendragiri, which joined the Navy in May 2026, is a"
+  options: { A: "Scorpene-class submarine", B: "Nilgiri-class stealth frigate", C: "Visakhapatnam-class destroyer", D: "Vikrant-class aircraft carrier" }
+  answer: B
+  explanation: "INS Mahendragiri is the sixth Nilgiri-class (Project 17A) stealth frigate, built by Mazagon Dock Shipbuilders."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-05
+  difficulty: medium
+  stem: "Exercise PRAGATI 2026, a multinational army exercise, was held at"
+  options: { A: "Umroi, Meghalaya", B: "Mahajan, Rajasthan", C: "Aundh, Maharashtra", D: "Chaubatia, Uttarakhand" }
+  answer: A
+  explanation: "PRAGATI 2026 was held at Umroi Military Station in Meghalaya."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-06
+  difficulty: medium
+  stem: "TARA, whose first flight trial was held in May 2026, is India's first indigenous"
+  options: { A: "hypersonic cruise missile", B: "anti-drone laser", C: "glide weapon", D: "light tank" }
+  answer: C
+  explanation: "TARA (Tactical Advanced Range Augmentation) is a glide kit that turns unguided bombs into precision weapons."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-07
+  difficulty: medium
+  stem: "'Mission Vande Mataram' was the name of the first all-women Mount Everest expedition of the"
+  options: { A: "Indian Army", B: "ITBP", C: "CRPF", D: "BSF" }
+  answer: D
+  explanation: "The BSF's first all-women mountaineering team climbed Everest under this name."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-08
+  difficulty: medium
+  stem: "Operation Navjeevan, in which 27 Maoists surrendered, took place in"
+  options: { A: "Chhattisgarh", B: "Jharkhand", C: "Odisha", D: "Telangana" }
+  answer: B
+  explanation: "The Maoists surrendered before the Jharkhand Police in Ranchi."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-09
+  difficulty: hard
+  stem: "Operation RAGEPILL of the Narcotics Control Bureau led to India's first-ever seizure of"
+  options: { A: "fentanyl", B: "Captagon", C: "mephedrone", D: "ketamine" }
+  answer: B
+  explanation: "The operation made India's first seizure of the drug Captagon."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-10
+  difficulty: hard
+  stem: "Squadron Leader Saanya became the first woman officer of the Indian Air Force to"
+  options: { A: "earn the CAT-A Qualified Flying Instructor grade", B: "fly the Rafale fighter", C: "command a fighter squadron", D: "become a test pilot" }
+  answer: A
+  explanation: "CAT-A is the highest grade for flying instructors in the Air Force."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-11
+  difficulty: hard
+  stem: "The TARA glide weapon kit was developed by"
+  options: { A: "Hindustan Aeronautics Limited, Bengaluru", B: "Bharat Dynamics Limited, Hyderabad", C: "Armament Research and Development Establishment, Pune", D: "Research Centre Imarat, Hyderabad" }
+  answer: D
+  explanation: "Research Centre Imarat, a DRDO laboratory in Hyderabad, developed TARA with other DRDO labs."
+  tags: ["2026-05"]
+
+- slug: ca-2605-def-12
+  difficulty: hard
+  stem: "The ULPGM-V3 missile tested by DRDO at Kurnool in May 2026 is launched from"
+  options: { A: "a submarine", B: "a battle tank", C: "an unmanned aerial vehicle (drone)", D: "a warship" }
+  answer: C
+  explanation: "ULPGM-V3 is a precision missile launched from a drone; it was tested at the National Open Area Range, Kurnool."
+  tags: ["2026-05"]

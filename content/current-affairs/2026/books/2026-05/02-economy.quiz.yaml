@@ -1,0 +1,104 @@
+# Section 2 — Economy & Banking (May 2026)
+- slug: ca-2605-eco-01
+  difficulty: easy
+  stem: "Who was appointed Deputy Governor of the Reserve Bank of India in May 2026, succeeding T. Rabi Sankar?"
+  options: { A: "Rohit Jain", B: "Swaminathan J.", C: "Poonam Gupta", D: "M. Rajeshwar Rao" }
+  answer: A
+  explanation: "Rohit Jain, earlier an Executive Director of the RBI, was appointed Deputy Governor for three years."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-02
+  difficulty: easy
+  stem: "The Fair and Remunerative Price (FRP) of sugarcane for the 2026-27 season was fixed at"
+  options: { A: "Rs 340 per quintal", B: "Rs 355 per quintal", C: "Rs 365 per quintal", D: "Rs 400 per quintal" }
+  answer: C
+  explanation: "The CCEA approved an FRP of Rs 365 per quintal for 2026-27."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-03
+  difficulty: easy
+  stem: "Which country overtook the UAE to become India's second-largest export destination?"
+  options: { A: "China", B: "Singapore", C: "The Netherlands", D: "The United Kingdom" }
+  answer: B
+  explanation: "Singapore moved to second place; the United States remains India's largest export market."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-04
+  difficulty: easy
+  stem: "The export of which commodity was placed in the 'Prohibited' category by the DGFT until 30 September 2026?"
+  options: { A: "Wheat", B: "Rice", C: "Onion", D: "Sugar" }
+  answer: D
+  explanation: "All sugar exports (raw, white and refined) were prohibited until 30 September 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-05
+  difficulty: medium
+  stem: "In May 2026 the effective import duty on gold and silver was raised from 9.2 per cent to"
+  options: { A: "12.5 per cent", B: "15 per cent", C: "18.4 per cent", D: "20 per cent" }
+  answer: C
+  explanation: "The effective duty was doubled to 18.4 per cent to curb imports and protect foreign exchange reserves."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-06
+  difficulty: medium
+  stem: "The outlay of the coal and lignite gasification scheme approved by the Cabinet in May 2026 is"
+  options: { A: "Rs 8,500 crore", B: "Rs 37,500 crore", C: "Rs 25,530 crore", D: "Rs 41,534 crore" }
+  answer: B
+  explanation: "The scheme has an outlay of Rs 37,500 crore and aims to gasify 75 million tonnes of coal and lignite by 2030."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-07
+  difficulty: medium
+  stem: "Which market overtook India to become the world's fifth-largest stock market?"
+  options: { A: "Taiwan", B: "South Korea", C: "Germany", D: "France" }
+  answer: A
+  explanation: "Taiwan's market value moved ahead of India's, pushing India to sixth place."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-08
+  difficulty: medium
+  stem: "India's first barrier-less (multi-lane free flow) toll system was launched on which stretch?"
+  options: { A: "Delhi–Jaipur on NH-48", B: "Mumbai–Pune Expressway", C: "Bengaluru–Mysuru Expressway", D: "Surat–Bharuch on NH-48" }
+  answer: D
+  explanation: "The NHAI launched the system on the Surat–Bharuch stretch of NH-48 in Gujarat."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-09
+  difficulty: hard
+  stem: "The RBI's expert committee 'Q-SAFE', set up in May 2026, deals with"
+  options: { A: "quality of bank assets", B: "safety of bank lockers", C: "quarterly audit of NBFCs", D: "quantum-era security of the financial system" }
+  answer: D
+  explanation: "Q-SAFE stands for Quantum Secure and Adaptive Financial Ecosystem; the committee has eight members."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-10
+  difficulty: hard
+  stem: "Press Note 2 (2026 Series) allows investment through the automatic route by firms with Chinese or Hong Kong shareholding of up to"
+  options: { A: "5 per cent", B: "10 per cent", C: "26 per cent", D: "49 per cent" }
+  answer: B
+  explanation: "Firms with up to 10 per cent Chinese or Hong Kong shareholding can use the automatic route, easing Press Note 3 of 2020."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-11
+  difficulty: hard
+  stem: "The Bharat Maritime Insurance Pool, launched in May 2026, is managed by"
+  options: { A: "GIC Re", B: "LIC of India", C: "New India Assurance", D: "IRDAI" }
+  answer: A
+  explanation: "GIC Re manages the pool, which is backed by a sovereign guarantee of Rs 12,980 crore."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-12
+  difficulty: hard
+  stem: "India's first SEZ developed by an urban local body, notified in May 2026, is in"
+  options: { A: "Goa", B: "Chandigarh", C: "Puducherry", D: "Kerala" }
+  answer: C
+  explanation: "The IT/ITES SEZ developed by Oulgaret Municipality in Puducherry is the first SEZ built by an urban local body."
+  tags: ["2026-05"]
+
+- slug: ca-2605-eco-13
+  difficulty: medium
+  stem: "India's first mega greenfield shipyard, for which an agreement was signed with HD KSOE of South Korea, will come up at"
+  options: { A: "Kandla", B: "Paradip", C: "Thoothukudi", D: "Visakhapatnam" }
+  answer: C
+  explanation: "The shipyard will be built at Thoothukudi in Tamil Nadu."
+  tags: ["2026-05"]

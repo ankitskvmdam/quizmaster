@@ -1,0 +1,104 @@
+# Section 1 — Polity & Governance (May 2026)
+- slug: ca-2605-pol-01
+  difficulty: easy
+  stem: "Who took oath in May 2026 as the first BJP Chief Minister of West Bengal?"
+  options: { A: "Dilip Ghosh", B: "Suvendu Adhikari", C: "Sukanta Majumdar", D: "Samik Bhattacharya" }
+  answer: B
+  explanation: "Suvendu Adhikari was sworn in on 9 May 2026 at the Brigade Parade Ground, Kolkata, after the BJP won 206 seats."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-02
+  difficulty: easy
+  stem: "Which party emerged as the single largest party in the Tamil Nadu Assembly election of 2026?"
+  options: { A: "DMK", B: "AIADMK", C: "BJP", D: "Tamilaga Vettri Kazhagam (TVK)" }
+  answer: D
+  explanation: "TVK, led by Vijay, won 108 of 234 seats; Vijay was sworn in as Chief Minister on 10 May 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-03
+  difficulty: easy
+  stem: "Who was sworn in as Chief Minister of Kerala on 18 May 2026?"
+  options: { A: "V.D. Satheesan", B: "Ramesh Chennithala", C: "K.C. Venugopal", D: "Shashi Tharoor" }
+  answer: A
+  explanation: "V.D. Satheesan of the Congress became Chief Minister after the UDF defeated the LDF."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-04
+  difficulty: easy
+  stem: "Which State was declared India's first with a fully paperless judiciary?"
+  options: { A: "Kerala", B: "Goa", C: "Sikkim", D: "Tripura" }
+  answer: C
+  explanation: "Chief Justice of India Surya Kant announced Sikkim as the first paperless judiciary State at a conclave in Gangtok."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-05
+  difficulty: medium
+  stem: "The Supreme Court (Number of Judges) Amendment Bill, 2026 raises the sanctioned strength of the Court, including the Chief Justice, to"
+  options: { A: "36", B: "38", C: "40", D: "42" }
+  answer: B
+  explanation: "The Cabinet approved raising the strength from 34 to 38, including the Chief Justice of India."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-06
+  difficulty: medium
+  stem: "N. Rangasamy was sworn in for a record fifth term in May 2026 as Chief Minister of"
+  options: { A: "Puducherry", B: "Tamil Nadu", C: "Goa", D: "Kerala" }
+  answer: A
+  explanation: "N. Rangasamy of the AINRC took oath as Chief Minister of Puducherry on 13 May 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-07
+  difficulty: medium
+  stem: "With the passing of its Uniform Civil Code Bill in 2026, Assam became the third State to adopt a UCC after"
+  options: { A: "Goa and Gujarat", B: "Uttarakhand and Madhya Pradesh", C: "Gujarat and Haryana", D: "Uttarakhand and Gujarat" }
+  answer: D
+  explanation: "Assam followed Uttarakhand and Gujarat and is the first North-Eastern State with a UCC; Scheduled Tribes are exempt."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-08
+  difficulty: medium
+  stem: "Which State was the first to launch a grievance redressal system for gig workers, on Labour Day 2026?"
+  options: { A: "Rajasthan", B: "Telangana", C: "Karnataka", D: "Maharashtra" }
+  answer: C
+  explanation: "Karnataka launched the system on 1 May 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-09
+  difficulty: hard
+  stem: "'Su Sahay', launched by the Supreme Court in May 2026, is"
+  options: { A: "a mobile court for rural areas", B: "a legal aid fund for undertrials", C: "an AI chatbot on the Court's website", D: "a portal for filing public interest petitions" }
+  answer: C
+  explanation: "Su Sahay is an AI chatbot developed by the National Informatics Centre; it was launched along with 'One Case One Data'."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-10
+  difficulty: hard
+  stem: "The Supreme Court declared the right to safe travel on National Highways to be a part of which Article of the Constitution?"
+  options: { A: "Article 14", B: "Article 19", C: "Article 32", D: "Article 21" }
+  answer: D
+  explanation: "The Court read safe travel on National Highways into the right to life under Article 21."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-11
+  difficulty: hard
+  stem: "The High-Level Committee on demographic change set up by the Home Ministry in May 2026 is headed by"
+  options: { A: "Justice Prakash Prabhakar Navlekar", B: "Justice Ranjana Prakash Desai", C: "Justice Ajay Rastogi", D: "Justice Hemant Gupta" }
+  answer: A
+  explanation: "The committee, headed by retired Supreme Court judge Justice Prakash Prabhakar Navlekar, has one year to submit its report."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-12
+  difficulty: hard
+  stem: "In May 2026 the Central Information Commission ruled that which body is not a 'public authority' under the RTI Act, 2005?"
+  options: { A: "Indian Olympic Association", B: "Board of Control for Cricket in India (BCCI)", C: "All India Football Federation", D: "Hockey India" }
+  answer: B
+  explanation: "The CIC reversed its own 2018 order and held that the BCCI is not a public authority under the RTI Act."
+  tags: ["2026-05"]
+
+- slug: ca-2605-pol-13
+  difficulty: medium
+  stem: "Phase 3 of the Special Intensive Revision (SIR) of electoral rolls, announced by the Election Commission, begins on"
+  options: { A: "30 May 2026", B: "1 May 2026", C: "15 May 2026", D: "20 May 2026" }
+  answer: A
+  explanation: "Phase 3 of the SIR begins on 30 May 2026 and covers 16 States and 3 Union Territories."
+  tags: ["2026-05"]

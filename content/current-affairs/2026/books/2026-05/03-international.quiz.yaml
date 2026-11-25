@@ -1,0 +1,96 @@
+# Section 3 — International Relations (May 2026)
+- slug: ca-2605-int-01
+  difficulty: easy
+  stem: "The third India–Nordic Summit was held in May 2026 in"
+  options: { A: "Stockholm", B: "Copenhagen", C: "Oslo", D: "Helsinki" }
+  answer: C
+  explanation: "Norway hosted the third India–Nordic Summit in Oslo; Finland will host the fourth."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-02
+  difficulty: easy
+  stem: "With which country did India raise its ties to a 'Special Strategic Partnership' in May 2026?"
+  options: { A: "Italy", B: "Sweden", C: "Cyprus", D: "The Netherlands" }
+  answer: A
+  explanation: "Ties with Italy were raised to a Special Strategic Partnership; those with Sweden, Cyprus and the Netherlands became Strategic Partnerships."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-03
+  difficulty: easy
+  stem: "The 11th Quad Foreign Ministers' Meeting was held in May 2026 in"
+  options: { A: "Tokyo", B: "New Delhi", C: "Canberra", D: "Washington, D.C." }
+  answer: B
+  explanation: "New Delhi hosted the 11th Quad Foreign Ministers' Meeting, which launched the Indo-Pacific Maritime Surveillance Collaboration."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-04
+  difficulty: easy
+  stem: "The Kimberley Process, which India chairs in 2026, regulates the international trade in"
+  options: { A: "gold", B: "crude oil", C: "rare earths", D: "rough diamonds" }
+  answer: D
+  explanation: "The Kimberley Process is a certification scheme for rough diamonds; India hosted its intersessional meeting in Mumbai."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-05
+  difficulty: medium
+  stem: "India and Vietnam raised their ties in May 2026 to"
+  options: { A: "a Strategic Partnership", B: "an Enhanced Comprehensive Strategic Partnership", C: "a Special Strategic and Global Partnership", D: "a Green Strategic Partnership" }
+  answer: B
+  explanation: "The upgrade came during President To Lam's State Visit, with a trade target of USD 25 billion by 2030."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-06
+  difficulty: medium
+  stem: "The Anaimangalam Copper Plates, returned to India in May 2026, were held by a university in"
+  options: { A: "the United Kingdom", B: "Germany", C: "France", D: "the Netherlands" }
+  answer: D
+  explanation: "The plates, also called the Leiden Copper Plates, were returned by the University of Leiden in the Netherlands."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-07
+  difficulty: medium
+  stem: "Which country moved the climate resolution in the UN General Assembly on which India abstained in May 2026?"
+  options: { A: "Vanuatu", B: "Tuvalu", C: "Fiji", D: "Maldives" }
+  answer: A
+  explanation: "The resolution moved by Vanuatu was adopted by 141 votes to 8; India was among the countries that abstained."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-08
+  difficulty: medium
+  stem: "The second term of UN Secretary-General António Guterres ends on"
+  options: { A: "30 June 2026", B: "31 December 2027", C: "31 December 2026", D: "30 September 2026" }
+  answer: C
+  explanation: "Guterres's term ends on 31 December 2026, and the process to choose his successor has begun."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-09
+  difficulty: hard
+  stem: "The award of the Permanent Court of Arbitration that India rejected in May 2026 concerned which pair of hydro projects?"
+  options: { A: "Tulbul and Baglihar", B: "Pakal Dul and Kiru", C: "Kishenganga and Ratle", D: "Uri and Salal" }
+  answer: C
+  explanation: "The award under the Indus Waters Treaty concerned the Kishenganga and Ratle projects; India does not recognise the tribunal."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-10
+  difficulty: hard
+  stem: "LeadIT 3.0, announced during the Prime Minister's visit to Sweden, is to be launched at"
+  options: { A: "the G20 summit", B: "COP31 in Antalya", C: "the UN General Assembly", D: "the BRICS summit in India" }
+  answer: B
+  explanation: "LeadIT 3.0 will be launched at COP31 in Antalya, Türkiye."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-11
+  difficulty: hard
+  stem: "Under an agreement reached during the Prime Minister's visit to the UAE, ADNOC will store in India's strategic petroleum reserves up to"
+  options: { A: "30 million barrels of crude oil", B: "5 million barrels of crude oil", C: "10 million barrels of crude oil", D: "50 million barrels of crude oil" }
+  answer: A
+  explanation: "ADNOC agreed to store up to 30 million barrels; UAE entities also pledged USD 5 billion of investment."
+  tags: ["2026-05"]
+
+- slug: ca-2605-int-12
+  difficulty: hard
+  stem: "The BRICS Foreign Ministers' Meeting in New Delhi could not issue a joint declaration mainly because of differences between"
+  options: { A: "India and China", B: "Russia and Brazil", C: "Egypt and Ethiopia", D: "Iran and the UAE" }
+  answer: D
+  explanation: "Iran and the UAE disagreed on the wording, so a Chair's Statement was issued instead."
+  tags: ["2026-05"]

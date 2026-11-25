@@ -1,0 +1,96 @@
+# Section 9 — Sports (May 2026)
+- slug: ca-2605-spo-01
+  difficulty: easy
+  stem: "Which team won IPL 2026?"
+  options: { A: "Gujarat Titans", B: "Punjab Kings", C: "Rajasthan Royals", D: "Royal Challengers Bengaluru" }
+  answer: D
+  explanation: "RCB beat Gujarat Titans by five wickets in the final at Ahmedabad on 31 May 2026, their second title in a row."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-02
+  difficulty: easy
+  stem: "Who won the Orange Cap in IPL 2026?"
+  options: { A: "Vaibhav Sooryavanshi", B: "Virat Kohli", C: "Shubman Gill", D: "Sai Sudharsan" }
+  answer: A
+  explanation: "Vaibhav Sooryavanshi of Rajasthan Royals scored 776 runs."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-03
+  difficulty: easy
+  stem: "Which club won the UEFA Champions League in May 2026?"
+  options: { A: "Arsenal", B: "Paris Saint-Germain", C: "Real Madrid", D: "Bayern Munich" }
+  answer: B
+  explanation: "Paris Saint-Germain beat Arsenal on penalties in the final in Budapest to retain the title."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-04
+  difficulty: easy
+  stem: "The Thomas Cup and the Uber Cup are associated with"
+  options: { A: "table tennis", B: "tennis", C: "badminton", D: "squash" }
+  answer: C
+  explanation: "They are the men's and women's world team championships of badminton; China and South Korea won them in 2026."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-05
+  difficulty: medium
+  stem: "Who won the men's singles title at the Italian Open 2026?"
+  options: { A: "Carlos Alcaraz", B: "Casper Ruud", C: "Jannik Sinner", D: "Alexander Zverev" }
+  answer: C
+  explanation: "Sinner beat Casper Ruud in the final on 17 May 2026, the first Italian man to win in Rome since Adriano Panatta in 1976."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-06
+  difficulty: medium
+  stem: "Who set a national record of 10.09 seconds in the men's 100 metres in May 2026?"
+  options: { A: "Animesh Kujur", B: "Gurindervir Singh", C: "Amlan Borgohain", D: "Manikanta Hoblidhar" }
+  answer: B
+  explanation: "Gurindervir Singh ran 10.09 seconds at the Federation Cup in Ranchi, beating the old record of 10.18 seconds."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-07
+  difficulty: medium
+  stem: "Who won the IBSF World Billiards Championship held at Carlow, Ireland?"
+  options: { A: "Sourav Kothari", B: "Pankaj Advani", C: "Dhruv Sitwala", D: "Aditya Mehta" }
+  answer: A
+  explanation: "Sourav Kothari beat Pankaj Advani in the final to retain the title."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-08
+  difficulty: medium
+  stem: "Who won the Purple Cap in IPL 2026?"
+  options: { A: "Josh Hazlewood", B: "Jasprit Bumrah", C: "Arshdeep Singh", D: "Kagiso Rabada" }
+  answer: D
+  explanation: "Kagiso Rabada of Gujarat Titans took 29 wickets."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-09
+  difficulty: hard
+  stem: "Sumit Antil's world record of 74.82 metres, set in May 2026, is in which event?"
+  options: { A: "F46 javelin throw", B: "F41 javelin throw", C: "F64 discus throw", D: "F64 javelin throw" }
+  answer: D
+  explanation: "Sumit Antil bettered his own world record in the F64 javelin throw at Bengaluru."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-10
+  difficulty: hard
+  stem: "By winning the Italian Open 2026, Jannik Sinner became the second man to win all nine ATP Masters 1000 tournaments. Who was the first?"
+  options: { A: "Novak Djokovic", B: "Rafael Nadal", C: "Roger Federer", D: "Andy Murray" }
+  answer: A
+  explanation: "Novak Djokovic was the first to win all nine Masters 1000 titles."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-11
+  difficulty: hard
+  stem: "Which country won the Uber Cup 2026, held at Horsens, Denmark?"
+  options: { A: "China", B: "Japan", C: "South Korea", D: "Indonesia" }
+  answer: C
+  explanation: "South Korea beat China in the Uber Cup final; China won the Thomas Cup by beating France."
+  tags: ["2026-05"]
+
+- slug: ca-2605-spo-12
+  difficulty: hard
+  stem: "The mascot of the first World Yogasana Championship, to be held at Ahmedabad in June 2026, is"
+  options: { A: "Ujjwala the Tigress", B: "Veer the Lion", C: "Savaj the Lion", D: "Mauli the Elephant" }
+  answer: B
+  explanation: "'Veer the Lion' is the mascot of the championship, to be held from 4 to 8 June 2026."
+  tags: ["2026-05"]
