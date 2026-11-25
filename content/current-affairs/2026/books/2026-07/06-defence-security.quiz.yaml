@@ -1,0 +1,96 @@
+# Section 6 — Defence & Security (July 2026)
+- slug: ca-2607-def-01
+  difficulty: easy
+  stem: "Who became the 31st Chief of the Army Staff in 2026?"
+  options: { A: "General Dhiraj Seth", B: "General Upendra Dwivedi", C: "General Manoj Pande", D: "General N.S. Raja Subramani" }
+  answer: A
+  explanation: "General Dhiraj Seth became the 31st Chief of the Army Staff and set out the VIJAY roadmap."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-02
+  difficulty: easy
+  stem: "Project UNICORN is India's first defence co-development project with"
+  options: { A: "France", B: "Japan", C: "Israel", D: "The United States" }
+  answer: B
+  explanation: "Project UNICORN (Unified Complex Radio Antenna), a mast for the Navy, is the first India–Japan defence co-development project."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-03
+  difficulty: easy
+  stem: "Kargil Vijay Diwas is observed every year on"
+  options: { A: "15 January", B: "8 October", C: "26 July", D: "4 December" }
+  answer: C
+  explanation: "The 27th Kargil Vijay Diwas was observed on 26 July 2026."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-04
+  difficulty: easy
+  stem: "Which country signed a USD 200 million deal for two BrahMos batteries in July 2026?"
+  options: { A: "The Philippines", B: "Vietnam", C: "Malaysia", D: "Indonesia" }
+  answer: D
+  explanation: "Indonesia signed for two BrahMos batteries worth USD 200 million."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-05
+  difficulty: medium
+  stem: "The multinational naval exercise RIMPAC 2026 was held off"
+  options: { A: "Guam", B: "Darwin", C: "Hawaii", D: "Okinawa" }
+  answer: C
+  explanation: "The 30th edition of RIMPAC was held off Hawaii with 30 nations; the Indian Navy sent a P-8I aircraft."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-06
+  difficulty: medium
+  stem: "INS Trikand foiled a piracy attempt on MV Golden Arsenal in the"
+  options: { A: "Gulf of Aden", B: "Strait of Malacca", C: "Persian Gulf", D: "Gulf of Guinea" }
+  answer: A
+  explanation: "INS Trikand foiled the piracy attempt on MV Golden Arsenal in the Gulf of Aden."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-07
+  difficulty: medium
+  stem: "Kusha, which had its maiden flight test in July 2026, is a"
+  options: { A: "Anti-tank guided missile", B: "Hypersonic cruise missile", C: "Submarine-launched ballistic missile", D: "Long-range surface-to-air missile" }
+  answer: D
+  explanation: "Kusha is India's long-range surface-to-air missile (LR-SAM)."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-08
+  difficulty: medium
+  stem: "Samudra Pradakshina, the first tri-service all-women circumnavigation, was sailed on"
+  options: { A: "INSV Tarini", B: "IASV Triveni", C: "INSV Mhadei", D: "INSV Kaundinya" }
+  answer: B
+  explanation: "The crew sailed about 25,500 nautical miles on IASV Triveni and ended at the Gateway of India."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-09
+  difficulty: hard
+  stem: "In the July 2026 test of the Pinaka Long Range Guided Rocket, which minimum range was validated?"
+  options: { A: "45 km", B: "60 km", C: "75 km", D: "90 km" }
+  answer: B
+  explanation: "The test at ITR Chandipur validated the minimum range of 60 km; the maximum range is 120 km."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-10
+  difficulty: hard
+  stem: "India's defence exports in 2025-26 were worth"
+  options: { A: "Rs 21,083 crore", B: "Rs 50,000 crore", C: "Rs 1.78 lakh crore", D: "Rs 38,424 crore" }
+  answer: D
+  explanation: "Defence exports were Rs 38,424 crore; Rs 1.78 lakh crore was the value of defence production."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-11
+  difficulty: hard
+  stem: "The theme of RIMPAC 2026 was"
+  options: { A: "Partners: Integrated and Prepared", B: "Capable, Adaptive Partners", C: "Bridges of Friendship", D: "Harmony Across the Seas" }
+  answer: A
+  explanation: "RIMPAC, held since 1971, had the theme 'Partners: Integrated and Prepared' in 2026."
+  tags: ["2026-07"]
+
+- slug: ca-2607-def-12
+  difficulty: hard
+  stem: "How many days did the Samudra Pradakshina voyage last?"
+  options: { A: "180", B: "240", C: "314", D: "275" }
+  answer: C
+  explanation: "The voyage set out on 11 September 2025 and ended after 314 days at the Gateway of India."
+  tags: ["2026-07"]

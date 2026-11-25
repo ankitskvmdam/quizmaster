@@ -1,0 +1,96 @@
+# Section 8 — Awards, Appointments & Persons in News (July 2026)
+- slug: ca-2607-aps-01
+  difficulty: easy
+  stem: "Which film won Best Feature Film at the 72nd National Film Awards?"
+  options: { A: "Amaran", B: "Kalki 2898 AD", C: "Article 370", D: "Chandu Champion" }
+  answer: C
+  explanation: "Article 370 won Best Feature Film; Kalki 2898 AD was named the most popular film."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-02
+  difficulty: easy
+  stem: "The 60th Jnanpith Award (for 2025) was given to"
+  options: { A: "R. Vairamuthu", B: "Vinod Kumar Shukla", C: "Gulzar", D: "Damodar Mauzo" }
+  answer: A
+  explanation: "The Tamil writer R. Vairamuthu received the 60th Jnanpith Award."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-03
+  difficulty: easy
+  stem: "The Bintang Adipurna, conferred on Prime Minister Narendra Modi in July 2026, is the highest honour of"
+  options: { A: "Malaysia", B: "Thailand", C: "The Philippines", D: "Indonesia" }
+  answer: D
+  explanation: "The Bintang Adipurna is Indonesia's highest honour; it is Modi's 35th international honour."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-04
+  difficulty: easy
+  stem: "World Population Day is observed on"
+  options: { A: "11 June", B: "11 July", C: "28 July", D: "6 July" }
+  answer: B
+  explanation: "World Population Day, 11 July, was started by the UNDP in 1989."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-05
+  difficulty: medium
+  stem: "Who became the first woman Director General of the Geological Survey of India?"
+  options: { A: "Anita Karwal", B: "Varsha Ashok Aglawe", C: "Sangita Reddy", D: "Rita Teaotia" }
+  answer: B
+  explanation: "Varsha Ashok Aglawe became the 54th Director General of the GSI, which was set up in 1851."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-06
+  difficulty: medium
+  stem: "Who was appointed CEO of NITI Aayog in July 2026?"
+  options: { A: "Anurag Jain", B: "Harjit Singh Grewal", C: "Amitabh Kant", D: "B.V.R. Subrahmanyam" }
+  answer: A
+  explanation: "Anurag Jain, an IAS officer of the 1989 batch from the Madhya Pradesh cadre, became CEO of NITI Aayog."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-07
+  difficulty: medium
+  stem: "Shabdalok, India's first immersive language museum, is located at the"
+  options: { A: "National Museum, New Delhi", B: "Salar Jung Museum, Hyderabad", C: "National Library, Kolkata", D: "Victoria Memorial, Kolkata" }
+  answer: C
+  explanation: "Shabdalok, the Museum of Word, is at the National Library in Kolkata."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-08
+  difficulty: medium
+  stem: "Ajit Doval received which award in July 2026?"
+  options: { A: "Gandhi Peace Prize", B: "Lal Bahadur Shastri National Award", C: "Indira Gandhi Prize", D: "Lokmanya Tilak National Award" }
+  answer: D
+  explanation: "Ajit Doval received the Lokmanya Tilak National Award 2026."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-09
+  difficulty: hard
+  stem: "Which Fields Medal 2026 winner is only the third woman to receive the medal?"
+  options: { A: "Yu Deng", B: "Jacob Tsimerman", C: "John Pardon", D: "Hong Wang" }
+  answer: D
+  explanation: "Hong Wang shared the 2026 Fields Medal with Yu Deng, John Pardon and Jacob Tsimerman."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-10
+  difficulty: hard
+  stem: "Harjit Singh Grewal was appointed Chairman of the"
+  options: { A: "National Commission for Scheduled Castes", B: "National Commission for Minorities", C: "National Human Rights Commission", D: "National Commission for Backward Classes" }
+  answer: B
+  explanation: "Grewal became Chairman of the National Commission for Minorities, a post vacant since April 2025."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-11
+  difficulty: hard
+  stem: "With 8 new GI tags in July 2026, how many GI tags does Himachal Pradesh now have?"
+  options: { A: "12", B: "15", C: "17", D: "21" }
+  answer: C
+  explanation: "Himachal Pradesh's total rose to 17; the new tags include Kinnauri Apple and Chamba Metal Art."
+  tags: ["2026-07"]
+
+- slug: ca-2607-aps-12
+  difficulty: hard
+  stem: "Mangal Pandey was born in 1827 at"
+  options: { A: "Ballia", B: "Ghazipur", C: "Azamgarh", D: "Barrackpore" }
+  answer: A
+  explanation: "Mangal Pandey was born on 19 July 1827 in Ballia."
+  tags: ["2026-07"]

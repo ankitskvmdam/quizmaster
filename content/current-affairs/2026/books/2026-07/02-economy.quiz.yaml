@@ -1,0 +1,96 @@
+# Section 2 — Economy & Banking (July 2026)
+- slug: ca-2607-eco-01
+  difficulty: easy
+  stem: "The India–UK Comprehensive Economic and Trade Agreement (CETA) came into effect on"
+  options: { A: "1 July 2026", B: "10 July 2026", C: "15 July 2026", D: "26 July 2026" }
+  answer: C
+  explanation: "The CETA and its companion Double Contribution Convention took effect on 15 July 2026."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-02
+  difficulty: easy
+  stem: "Which industry was added to the Index of Core Industries in the new series with base year 2022-23?"
+  options: { A: "Iron ore", B: "Aluminium", C: "Copper", D: "Bauxite" }
+  answer: A
+  explanation: "Iron ore became the ninth core industry; the eight earlier ones continue."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-03
+  difficulty: easy
+  stem: "In July 2026 GST completed how many years since its launch?"
+  options: { A: "Seven", B: "Eight", C: "Ten", D: "Nine" }
+  answer: D
+  explanation: "GST was launched in 2017 and completed nine years; gross collections reached Rs 22.27 lakh crore in 2025-26."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-04
+  difficulty: easy
+  stem: "India's first Telecom Manufacturing Zone is to be set up at"
+  options: { A: "Indore", B: "Gwalior", C: "Noida", D: "Hosur" }
+  answer: B
+  explanation: "The Department of Telecommunications and the Madhya Pradesh government are setting up the zone at Gwalior."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-05
+  difficulty: medium
+  stem: "Wholesale (WPI) inflation in June 2026 stood at"
+  options: { A: "4.38 per cent", B: "6.12 per cent", C: "9.87 per cent", D: "12.41 per cent" }
+  answer: C
+  explanation: "WPI inflation rose to 9.87 per cent in June 2026; 4.38 per cent was the retail (CPI) inflation."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-06
+  difficulty: medium
+  stem: "The outlay approved by the Union Cabinet for Semicon 2.0 is"
+  options: { A: "Rs 1,27,500 crore", B: "Rs 62,500 crore", C: "Rs 76,000 crore", D: "Rs 33,660 crore" }
+  answer: A
+  explanation: "Semicon 2.0 has an outlay of Rs 1,27,500 crore; Rs 62,500 crore is the outlay of the Mobile Phone Manufacturing Scheme."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-07
+  difficulty: medium
+  stem: "In July 2026 the DPIIT allowed FDI in inventory-based e-commerce only for"
+  options: { A: "Sale of farm produce", B: "Domestic retail in Tier-2 cities", C: "Sale of medicines", D: "Exports of goods made in India" }
+  answer: D
+  explanation: "Foreign-funded entities may hold inventory only to export goods made in India; domestic retail stays barred."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-08
+  difficulty: medium
+  stem: "In the World Bank's income classification for FY2027, India is placed in which group?"
+  options: { A: "Low income", B: "Lower-middle income", C: "Upper-middle income", D: "High income" }
+  answer: B
+  explanation: "India remains a lower-middle-income economy, with a GNI per capita of USD 2,760."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-09
+  difficulty: hard
+  stem: "With the Cabinet's additional investment approved in July 2026, the Government's total commitment to the NIIF becomes"
+  options: { A: "Rs 30,000 crore", B: "Rs 40,000 crore", C: "Rs 50,000 crore", D: "Rs 60,000 crore" }
+  answer: D
+  explanation: "The Cabinet approved a further Rs 30,000 crore, taking the total commitment to Rs 60,000 crore."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-10
+  difficulty: hard
+  stem: "The first trial release of the sub-sectoral Index of Services Production by MoSPI covers how many services sub-sectors?"
+  options: { A: "19", B: "9", C: "14", D: "23" }
+  answer: A
+  explanation: "The trial index covers 19 services sub-sectors with 2024-25 as base year."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-11
+  difficulty: hard
+  stem: "The DGFT's ban on imports of goods made with forced labour uses the definition given in"
+  options: { A: "ILO Convention No. 138", B: "ILO Convention No. 182", C: "ILO Convention No. 29", D: "ILO Convention No. 87" }
+  answer: C
+  explanation: "Para 2.20B of the Foreign Trade Policy 2023 adopts the definition in the ILO Forced Labour Convention, 1930 (No. 29)."
+  tags: ["2026-07"]
+
+- slug: ca-2607-eco-12
+  difficulty: hard
+  stem: "The Sabka Bima Sabki Raksha Act, 2025 raised the FDI limit in the insurance sector from 74 per cent to"
+  options: { A: "80 per cent", B: "100 per cent", C: "90 per cent", D: "76 per cent" }
+  answer: B
+  explanation: "The Act allows 100 per cent FDI in insurance, up from 74 per cent."
+  tags: ["2026-07"]

@@ -1,0 +1,96 @@
+# Section 5 — Environment & Ecology (July 2026)
+- slug: ca-2607-env-01
+  difficulty: easy
+  stem: "In the Environmental Performance Index (EPI) 2026, India was ranked"
+  options: { A: "176th of 177", B: "120th of 180", C: "150th of 177", D: "94th of 167" }
+  answer: A
+  explanation: "India was ranked 176th of 177 countries with a score of 22.46; Estonia was first and Laos last."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-02
+  difficulty: easy
+  stem: "The Supreme Court allowed India's first night safari in July 2026 at"
+  options: { A: "Jim Corbett, Uttarakhand", B: "Kukrail, Lucknow", C: "Sasan Gir, Gujarat", D: "Kaziranga, Assam" }
+  answer: B
+  explanation: "The night safari at Kukrail in Lucknow will be India's first and the world's fifth."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-03
+  difficulty: easy
+  stem: "Global Tiger Day is observed on"
+  options: { A: "22 April", B: "5 June", C: "29 July", D: "3 March" }
+  answer: C
+  explanation: "Global Tiger Day, 29 July, was started in 2010 at St Petersburg; India's tiger count stands at 3,682."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-04
+  difficulty: easy
+  stem: "Which is India's deepest freshwater lake?"
+  options: { A: "Wular Lake", B: "Dal Lake", C: "Loktak Lake", D: "Manasbal Lake" }
+  answer: D
+  explanation: "Manasbal Lake in Ganderbal, Jammu and Kashmir, is India's deepest freshwater lake."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-05
+  difficulty: medium
+  stem: "In July 2026 the Supreme Court quashed the 2021 office memorandum that allowed"
+  options: { A: "Mining in tiger reserves", B: "Sand mining without permits", C: "Diversion of forest land for roads", D: "Ex post facto environmental clearances" }
+  answer: D
+  explanation: "The Court struck down the 2021 office memorandum that allowed projects to get environmental clearance after they had started."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-06
+  difficulty: medium
+  stem: "In the seventh draft notification on the Western Ghats Ecologically Sensitive Area, which State has the largest area?"
+  options: { A: "Kerala", B: "Maharashtra", C: "Karnataka", D: "Tamil Nadu" }
+  answer: C
+  explanation: "Karnataka has the largest area (20,668 sq km) and Gujarat the smallest (449 sq km) of the 56,825.7 sq km in six States."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-07
+  difficulty: medium
+  stem: "According to the IMD, a cloudburst is rainfall of at least how much in one hour over 20–30 sq km?"
+  options: { A: "100 mm", B: "50 mm", C: "150 mm", D: "200 mm" }
+  answer: A
+  explanation: "The IMD defines a cloudburst as 100 mm or more of rain in one hour over an area of 20–30 sq km."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-08
+  difficulty: medium
+  stem: "The Indian Grey Hornbill, which bred for the fourth year in a row in 2026, was reintroduced in 2021 into"
+  options: { A: "Kanha", B: "Gir", C: "Sundarbans", D: "Periyar" }
+  answer: B
+  explanation: "The hornbill was reintroduced into Gir in 2021 with 40 birds."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-09
+  difficulty: hard
+  stem: "The Natural History Museum declared the 21st Designated Repository under the Biological Diversity Act, 2002 belongs to"
+  options: { A: "Mizoram University", B: "North-Eastern Hill University", C: "Gauhati University", D: "Manipur University" }
+  answer: A
+  explanation: "The Natural History Museum of Mizoram University became the 21st Designated Repository."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-10
+  difficulty: hard
+  stem: "About 4,141 hectares of the core area of which tiger reserve will be submerged by the Daudhan reservoir of the Ken–Betwa project?"
+  options: { A: "Ranthambore", B: "Satpura", C: "Bandhavgarh", D: "Panna" }
+  answer: D
+  explanation: "The Daudhan reservoir will submerge about 4,141 hectares of the core of Panna Tiger Reserve."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-11
+  difficulty: hard
+  stem: "The White-bellied Heron, in the news over the 1,200 MW Lohit project, is classed as"
+  options: { A: "Vulnerable", B: "Endangered", C: "Critically Endangered", D: "Near Threatened" }
+  answer: C
+  explanation: "The White-bellied Heron is Critically Endangered, with fewer than 60 birds left."
+  tags: ["2026-07"]
+
+- slug: ca-2607-env-12
+  difficulty: hard
+  stem: "India's first AI-powered bird monitoring centre has been set up at"
+  options: { A: "Chilika Lake", B: "Thane Creek Flamingo Sanctuary", C: "Bharatpur (Keoladeo)", D: "Point Calimere" }
+  answer: B
+  explanation: "The centre, costing Rs 45 crore, is at the Thane Creek Flamingo Sanctuary."
+  tags: ["2026-07"]

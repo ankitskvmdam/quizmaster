@@ -1,0 +1,96 @@
+# Section 4 — Science & Technology (July 2026)
+- slug: ca-2607-sci-01
+  difficulty: easy
+  stem: "Vikram-1, India's first privately developed orbital rocket, was built by"
+  options: { A: "Agnikul Cosmos", B: "Skyroot Aerospace", C: "Pixxel", D: "Bellatrix Aerospace" }
+  answer: B
+  explanation: "Skyroot Aerospace's Vikram-1 reached low Earth orbit on its maiden flight, Mission Aagaman."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-02
+  difficulty: easy
+  stem: "Qdenga, approved by the CDSCO in July 2026, is India's first vaccine against"
+  options: { A: "Malaria", B: "Chikungunya", C: "Zika", D: "Dengue" }
+  answer: D
+  explanation: "Qdenga, made by Takeda, is a tetravalent dengue vaccine approved for ages 4 to 60."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-03
+  difficulty: easy
+  stem: "India's first hydrogen-powered train, 'NaMo Green Rail', runs on which section?"
+  options: { A: "Jind–Sonipat", B: "Kalka–Shimla", C: "Rewari–Rohtak", D: "Ambala–Chandigarh" }
+  answer: A
+  explanation: "The train runs on the 89-km Jind–Sonipat section of Northern Railway in Haryana."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-04
+  difficulty: easy
+  stem: "GAGAN, used for India's first satellite-based landing approach on a commercial jet, was developed by ISRO and the"
+  options: { A: "DRDO", B: "Hindustan Aeronautics Limited", C: "Airports Authority of India", D: "Indian Air Force" }
+  answer: C
+  explanation: "GAGAN (GPS Aided GEO Augmented Navigation) was developed by ISRO and the Airports Authority of India."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-05
+  difficulty: medium
+  stem: "India's first geothermal wells were commissioned in July 2026 at"
+  options: { A: "Manikaran, Himachal Pradesh", B: "Tattapani, Chhattisgarh", C: "Bakreshwar, West Bengal", D: "Puga Valley, Ladakh" }
+  answer: D
+  explanation: "Two 1,000-metre wells were commissioned in Puga Valley by the ONGC Energy Centre for a 1 MW pilot plant."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-06
+  difficulty: medium
+  stem: "With the orbital flight of Vikram-1, India became the third country where a private company has reached orbit on its own, after the US and"
+  options: { A: "Russia", B: "China", C: "Japan", D: "France" }
+  answer: B
+  explanation: "Only the US and China had private companies reach orbit independently before India."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-07
+  difficulty: medium
+  stem: "Which State made cancer a notifiable disease in July 2026?"
+  options: { A: "Telangana", B: "Kerala", C: "Punjab", D: "Odisha" }
+  answer: A
+  explanation: "Telangana requires every diagnosed cancer case to be reported to a State portal within one month."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-08
+  difficulty: medium
+  stem: "The NeoSep1 trial, which JIPMER Puducherry joined as the first Indian centre, concerns"
+  options: { A: "Childhood tuberculosis", B: "Sickle cell disease", C: "Neonatal sepsis", D: "Rotavirus diarrhoea" }
+  answer: C
+  explanation: "NeoSep1, sponsored by GARDP, tests treatments for sepsis in newborns."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-09
+  difficulty: hard
+  stem: "The exoplanet Beta Pictoris d was discovered using the"
+  options: { A: "Hubble Space Telescope", B: "James Webb Space Telescope", C: "Very Large Telescope", D: "Chandra X-ray Observatory" }
+  answer: B
+  explanation: "The James Webb Space Telescope found the hidden gas giant about 63 light-years away."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-10
+  difficulty: hard
+  stem: "'Mission Drishti', which lost communication after a solar storm, is described as the world's first"
+  options: { A: "Quantum communication satellite", B: "Hyperspectral nanosatellite", C: "Private lunar orbiter", D: "OptoSAR satellite" }
+  answer: D
+  explanation: "Mission Drishti is described as the world's first OptoSAR satellite; a geomagnetic storm hit an onboard system."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-11
+  difficulty: hard
+  stem: "Which institute demonstrated the first use of borophene as a lubricant additive?"
+  options: { A: "IASST Guwahati", B: "IISc Bengaluru", C: "IIT Madras", D: "CSIR-NCL Pune" }
+  answer: A
+  explanation: "Researchers at IASST Guwahati added borophene to castor oil and cut friction sharply."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sci-12
+  difficulty: hard
+  stem: "The I-2SEA submarine cable will land in India at South Chennai and"
+  options: { A: "Visakhapatnam", B: "Puducherry", C: "Machilipatnam", D: "Paradip" }
+  answer: C
+  explanation: "The I-2SEA cable links India's east coast, at Machilipatnam and South Chennai, with Malaysia and Singapore."
+  tags: ["2026-07"]

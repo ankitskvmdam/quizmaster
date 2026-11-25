@@ -1,0 +1,96 @@
+# Section 7 — Government Schemes, Reports & Indices (July 2026)
+- slug: ca-2607-sch-01
+  difficulty: easy
+  stem: "The VB-G RAM G Act, 2025, which came into force on 1 July 2026, replaced"
+  options: { A: "PM-KISAN", B: "MGNREGA", C: "PMAY-Gramin", D: "DAY-NRLM" }
+  answer: B
+  explanation: "The VB-G RAM G Act replaced MGNREGA and guarantees 125 days of work."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-02
+  difficulty: easy
+  stem: "Which State topped NITI Aayog's first Investment Friendliness Index 2026?"
+  options: { A: "Gujarat", B: "Maharashtra", C: "Tamil Nadu", D: "Karnataka" }
+  answer: A
+  explanation: "Gujarat was first with 56.6, followed by Maharashtra and Tamil Nadu."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-03
+  difficulty: easy
+  stem: "How many days of work does the VB-G RAM G Act, 2025 guarantee?"
+  options: { A: "100 days", B: "150 days", C: "125 days", D: "200 days" }
+  answer: C
+  explanation: "The Act guarantees 125 days of work, with a wage floor of Rs 300 a day."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-04
+  difficulty: easy
+  stem: "India's first cooperative university is"
+  options: { A: "Amul University", B: "Vaikunth Mehta University", C: "Anand Agricultural University", D: "Tribhuvan Sahkari University" }
+  answer: D
+  explanation: "Tribhuvan Sahkari University is India's first cooperative university."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-05
+  difficulty: medium
+  stem: "In the UN Sustainable Development Report 2026, India was ranked"
+  options: { A: "94th of 167", B: "109th of 166", C: "176th of 177", D: "57th of 167" }
+  answer: A
+  explanation: "India was 94th of 167 countries with a score of 68.3; Finland was first."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-06
+  difficulty: medium
+  stem: "BHAVYA (Bharat Audyogik Vikas Yojana) aims to set up how many industrial parks?"
+  options: { A: "50", B: "75", C: "200", D: "100" }
+  answer: D
+  explanation: "BHAVYA, run by the DPIIT, will set up 100 industrial parks at a cost of Rs 33,660 crore."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-07
+  difficulty: medium
+  stem: "PM Surya Sarovar Yojana is meant to promote"
+  options: { A: "Rooftop solar on homes", B: "Floating solar power", C: "Solar pumps for farmers", D: "Solar-powered cold storage" }
+  answer: B
+  explanation: "The scheme aims at 5,000 MW of floating solar power with an outlay of Rs 5,070 crore."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-08
+  difficulty: medium
+  stem: "In the Global Terrorism Index 2026, which country was found to be the most affected by terrorism?"
+  options: { A: "Afghanistan", B: "Burkina Faso", C: "Pakistan", D: "Syria" }
+  answer: C
+  explanation: "The 13th edition of the index, by the Institute for Economics and Peace, placed Pakistan first; India was 13th."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-09
+  difficulty: hard
+  stem: "According to AISHE 2023-24, the gross enrolment ratio in higher education in India is"
+  options: { A: "27.3", B: "28.4", C: "30", D: "32.6" }
+  answer: C
+  explanation: "AISHE 2023-24 put the GER at 30, with 4.50 crore students and a gender parity index of 1.08."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-10
+  difficulty: hard
+  stem: "Which State or UT topped the Performance Grading Index 2.0 in UDISE+ 2025-26?"
+  options: { A: "Kerala", B: "Chandigarh", C: "Punjab", D: "Delhi" }
+  answer: B
+  explanation: "Chandigarh topped the Performance Grading Index 2.0 at the Uttam-3 level."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-11
+  difficulty: hard
+  stem: "Under the VB-G RAM G Act, 2025, costs are shared between the Centre and the States in the ratio"
+  options: { A: "75:25", B: "90:10", C: "50:50", D: "60:40" }
+  answer: D
+  explanation: "The Centre and the States share the costs 60:40; the wage floor is Rs 300 a day."
+  tags: ["2026-07"]
+
+- slug: ca-2607-sch-12
+  difficulty: hard
+  stem: "The DAANVEER platform has been developed by the NIC, DigiHaat and the"
+  options: { A: "Ministry of Panchayati Raj", B: "Ministry of Rural Development", C: "Ministry of Cooperation", D: "Ministry of Social Justice and Empowerment" }
+  answer: A
+  explanation: "DAANVEER is a platform of the Ministry of Panchayati Raj, the NIC and DigiHaat, linked to the Meri Panchayat App."
+  tags: ["2026-07"]

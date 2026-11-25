@@ -1,0 +1,96 @@
+# Section 1 — Polity & Governance (July 2026)
+- slug: ca-2607-pol-01
+  difficulty: easy
+  stem: "The task force set up in July 2026 to make the National Testing Agency's examinations leak-proof is chaired by"
+  options: { A: "S. Somanath", B: "Nandan Nilekani", C: "V. Kamakoti", D: "Anita Karwal" }
+  answer: B
+  explanation: "Nandan Nilekani chairs the task force on examination reforms set up after the NEET-UG controversy."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-02
+  difficulty: easy
+  stem: "In July 2026 the Home Ministry proposed a customised arrangement for Ladakh under which Article of the Constitution?"
+  options: { A: "Article 244", B: "Article 239A", C: "Article 370", D: "Article 371" }
+  answer: D
+  explanation: "The Ministry offered a tailor-made Article 371 model with an elected UT-level body instead of the Sixth Schedule."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-03
+  difficulty: easy
+  stem: "The Prevention of Insults to National Honour (Amendment) Bill, 2026 extends legal protection to"
+  options: { A: "Vande Mataram", B: "The National Emblem", C: "The National Calendar", D: "The National Pledge" }
+  answer: A
+  explanation: "The Bill amends the 1971 Act to cover Vande Mataram, the national song."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-04
+  difficulty: easy
+  stem: "The Viksit Bharat Shiksha Adhishthan Bill, 2025 seeks to replace the UGC, the AICTE and the"
+  options: { A: "NCERT", B: "NAAC", C: "NCTE", D: "CBSE" }
+  answer: C
+  explanation: "The Bill would replace the UGC, AICTE and NCTE with a single higher-education regulator having three councils."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-05
+  difficulty: medium
+  stem: "The Supreme Court said in July 2026 that the Special Intensive Revision (SIR) of electoral rolls cannot be used to decide"
+  options: { A: "The delimitation of constituencies", B: "The age of a voter", C: "The symbol of a party", D: "Citizenship" }
+  answer: D
+  explanation: "The Court held that SIR is only for electoral purposes and cannot determine citizenship or affect welfare benefits."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-06
+  difficulty: medium
+  stem: "Under the Public Examinations (Prevention of Unfair Means) Amendment Bill, 2026, the minimum jail term for an offence is raised from 3 years to"
+  options: { A: "5 years", B: "4 years", C: "7 years", D: "10 years" }
+  answer: A
+  explanation: "The minimum term goes up from 3 to 5 years; the maximum fine for general offences rises to Rs 50 lakh."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-07
+  difficulty: medium
+  stem: "Under the one-time settlement of the Sardar Sarovar Project dispute, which State agreed to raise its share of project costs to 75 per cent?"
+  options: { A: "Madhya Pradesh", B: "Maharashtra", C: "Gujarat", D: "Rajasthan" }
+  answer: C
+  explanation: "Gujarat agreed to bear 75 per cent of the costs, up from 50 per cent, in the settlement signed by the four States."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-08
+  difficulty: medium
+  stem: "Under the Telecommunications (Temporary Suspension of Services) Rules, 2024, an internet suspension order cannot run for more than"
+  options: { A: "7 days", B: "15 days", C: "30 days", D: "60 days" }
+  answer: B
+  explanation: "The 2024 Rules, which replaced the 2017 Rules, limit a suspension order to 15 days."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-09
+  difficulty: hard
+  stem: "The Supreme Court's judgment in Sabitri Dey v. Union of India (2026) dealt with"
+  options: { A: "Written grounds of arrest", B: "Reservation in promotions", C: "Citizenship cases decided by Foreigners Tribunals in Assam", D: "Retrospective environmental clearances" }
+  answer: C
+  explanation: "The Court set aside 27 Gauhati High Court judgments that had upheld Foreigners Tribunal opinions and held that Articles 14 and 21 extend to foreigners."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-10
+  difficulty: hard
+  stem: "The draft National Food Security (Amendment) Bill, 2026 proposes to fix the Antyodaya Anna Yojana entitlement at"
+  options: { A: "5 kg per person", B: "7 kg per person, capped at 35 kg per household", C: "10 kg per person, capped at 50 kg per household", D: "35 kg per person" }
+  answer: B
+  explanation: "The fixed 35 kg per household would become 7 kg per person, with a ceiling of 35 kg per household."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-11
+  difficulty: hard
+  stem: "The Supreme Court's direction to States to frame a policy on early release of elderly and terminally ill prisoners came on a petition by"
+  options: { A: "NALSA", B: "The National Human Rights Commission", C: "The Law Commission of India", D: "The Bar Council of India" }
+  answer: A
+  explanation: "The order followed a petition by the National Legal Services Authority; States and UTs have three months to frame the policy."
+  tags: ["2026-07"]
+
+- slug: ca-2607-pol-12
+  difficulty: hard
+  stem: "In Abdul Hameed v. State of Rajasthan, the Supreme Court set aside a death sentence in a case about the"
+  options: { A: "2008 Jaipur serial blasts", B: "2007 Ajmer Dargah blast", C: "1993 Mumbai serial blasts", D: "1996 Samleti bus blast" }
+  answer: D
+  explanation: "The Court ordered a fresh trial in the 1996 Samleti bus blast case because the accused was denied effective legal representation."
+  tags: ["2026-07"]

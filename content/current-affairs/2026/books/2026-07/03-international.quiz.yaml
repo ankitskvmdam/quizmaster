@@ -1,0 +1,96 @@
+# Section 3 — International Relations (July 2026)
+- slug: ca-2607-int-01
+  difficulty: easy
+  stem: "Which site became India's 45th UNESCO World Heritage Site in July 2026?"
+  options: { A: "Sarnath", B: "Nalanda", C: "Kushinagar", D: "Vaishali" }
+  answer: A
+  explanation: "Sarnath in Uttar Pradesh was inscribed at the 48th session of the World Heritage Committee in Busan."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-02
+  difficulty: easy
+  stem: "The 16th India–Japan Annual Summit of July 2026 was held in"
+  options: { A: "Tokyo", B: "Osaka", C: "New Delhi", D: "Gandhinagar" }
+  answer: C
+  explanation: "The summit was held in New Delhi and adopted a Joint Declaration on Economic Security Cooperation."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-03
+  difficulty: easy
+  stem: "With which country did India raise its relations to a Strategic Partnership and adopt a 'Roadmap to 2030' in July 2026?"
+  options: { A: "Australia", B: "New Zealand", C: "Indonesia", D: "Romania" }
+  answer: B
+  explanation: "India and New Zealand adopted the Roadmap to 2030 during the first visit by an Indian Prime Minister in four decades."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-04
+  difficulty: easy
+  stem: "The World AI Cooperation Organization (WAICO), launched by China in July 2026, has its headquarters in"
+  options: { A: "Beijing", B: "Shenzhen", C: "Hangzhou", D: "Shanghai" }
+  answer: D
+  explanation: "WAICO was launched at the 2026 World AI Conference and is headquartered in Shanghai; 29 countries signed up."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-05
+  difficulty: medium
+  stem: "For the UN Security Council non-permanent seat of 2028-29, India is competing with"
+  options: { A: "Kyrgyzstan", B: "The Philippines", C: "Tajikistan", D: "Sri Lanka" }
+  answer: C
+  explanation: "India and Tajikistan are the contenders for the Asia-Pacific seat for 2028-29."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-06
+  difficulty: medium
+  stem: "In July 2026 the President of India made the first-ever visits by an Indian Head of State to North Macedonia and"
+  options: { A: "Moldova", B: "Romania", C: "Bulgaria", D: "Albania" }
+  answer: A
+  explanation: "Moldova and North Macedonia were both first-ever visits; Romania was the last leg of the tour."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-07
+  difficulty: medium
+  stem: "India and Indonesia agreed in July 2026 to develop which port jointly?"
+  options: { A: "Belawan", B: "Tanjung Priok", C: "Makassar", D: "Sabang" }
+  answer: D
+  explanation: "The two countries agreed on joint development of Sabang Port during the Prime Minister's state visit."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-08
+  difficulty: medium
+  stem: "India became the 123rd WTO member to accept which agreement in July 2026?"
+  options: { A: "Trade Facilitation Agreement", B: "Agreement on Fisheries Subsidies", C: "Information Technology Agreement", D: "Agreement on Government Procurement" }
+  answer: B
+  explanation: "India deposited its acceptance of the Agreement on Fisheries Subsidies, which covers marine capture fishing."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-09
+  difficulty: hard
+  stem: "The 'Tagore-Dewantara Year' (2026-27) was announced by India and"
+  options: { A: "Indonesia", B: "Japan", C: "Australia", D: "New Zealand" }
+  answer: A
+  explanation: "India and Indonesia named 2026-27 the Tagore-Dewantara Year during the Prime Minister's state visit."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-10
+  difficulty: hard
+  stem: "The SHANTI framework proposed by India with its UN Security Council candidature names which region as its pilot?"
+  options: { A: "The Arabian Sea", B: "The Gulf of Aden", C: "The Bay of Bengal", D: "The South China Sea" }
+  answer: C
+  explanation: "SHANTI (Securing Holistic Advancement through Norms, Trust and Integrity) is to be piloted in the Bay of Bengal."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-11
+  difficulty: hard
+  stem: "Australia agreed to host a temporary space-tracking terminal for the Gaganyaan mission on"
+  options: { A: "Christmas Island", B: "Norfolk Island", C: "Tasmania", D: "The Cocos (Keeling) Islands" }
+  answer: D
+  explanation: "The support for Gaganyaan announced at the India–Australia summit includes a tracking terminal on the Cocos (Keeling) Islands."
+  tags: ["2026-07"]
+
+- slug: ca-2607-int-12
+  difficulty: hard
+  stem: "The 16th BRICS Health Ministers' Meeting under India's chairship was held in"
+  options: { A: "New Delhi", B: "Chandigarh", C: "Hyderabad", D: "Bhubaneswar" }
+  answer: B
+  explanation: "The meeting was held in Chandigarh during India's BRICS chairship of 2026."
+  tags: ["2026-07"]

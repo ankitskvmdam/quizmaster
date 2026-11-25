@@ -1,0 +1,96 @@
+# Section 10 — Bihar Current Affairs (July 2026)
+- slug: ca-2607-bih-01
+  difficulty: easy
+  stem: "Bihar's first river-linking project, the Belwa–Minapur Link Channel, is in which district?"
+  options: { A: "Sitamarhi", B: "Sheohar", C: "Muzaffarpur", D: "East Champaran" }
+  answer: B
+  explanation: "The 68.80 km channel in Sheohar joins the Bagmati and the Burhi Gandak at a cost of Rs 130 crore."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-02
+  difficulty: easy
+  stem: "Jhandu Kumar, who won India's first medal at the 2026 Commonwealth Games, competed in"
+  options: { A: "Para-powerlifting", B: "Weightlifting", C: "Wrestling", D: "Boxing" }
+  answer: A
+  explanation: "Jhandu Kumar of Harnaut, Nalanda, won bronze in men's heavyweight para-powerlifting with 190 kg."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-03
+  difficulty: easy
+  stem: "The Bihar Prison and Correctional Services Bill, 2026 replaces the"
+  options: { A: "Prisoners Act, 1900", B: "Model Prisons Act, 2023", C: "Bihar Jail Manual, 2012", D: "Prisons Act, 1894" }
+  answer: D
+  explanation: "The Bill approved by the State Cabinet on 20 July 2026 replaces the Prisons Act, 1894."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-04
+  difficulty: easy
+  stem: "A banyan tree about 700 years old, found to be the oldest accurately dated banyan, is in"
+  options: { A: "Gaya", B: "Bhagalpur", C: "Munger", D: "Rajgir" }
+  answer: C
+  explanation: "The tree in Munger was dated by the BSIP using radiocarbon (AMS) methods."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-05
+  difficulty: medium
+  stem: "Under the Bihar Special Universities Act, 2026, who is the Chancellor of the new universities?"
+  options: { A: "The Governor", B: "The Education Minister", C: "The Chief Minister", D: "The Chief Secretary" }
+  answer: C
+  explanation: "The Act makes the Chief Minister the Chancellor of the new special universities."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-06
+  difficulty: medium
+  stem: "Which three districts of Bihar stopped mass drug administration against filariasis after clearing TAS-1?"
+  options: { A: "Araria, Madhepura and Supaul", B: "Purnia, Katihar and Kishanganj", C: "Gaya, Nawada and Jamui", D: "Siwan, Saran and Gopalganj" }
+  answer: A
+  explanation: "Araria, Madhepura and Supaul cleared the first Transmission Assessment Survey; the national elimination target is 2027."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-07
+  difficulty: medium
+  stem: "The first bulk sea consignment of flavoured makhana from Bihar was sent to"
+  options: { A: "The United Kingdom", B: "The UAE", C: "Australia", D: "Canada" }
+  answer: D
+  explanation: "The consignment went to Canada through Kolkata port, with help from APEDA."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-08
+  difficulty: medium
+  stem: "Patna High Court set up fast-track courts for examination offences at Patna, Lakhisarai and"
+  options: { A: "Gaya", B: "Purnia", C: "Darbhanga", D: "Bhagalpur" }
+  answer: B
+  explanation: "The three fast-track courts for exam offences are at Patna, Lakhisarai and Purnia."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-09
+  difficulty: hard
+  stem: "The Bihar Cabinet gave former Agniveers what sub-quota in recruitment of jail warders?"
+  options: { A: "10 per cent", B: "12.5 per cent", C: "15 per cent", D: "20 per cent" }
+  answer: B
+  explanation: "Former Agniveers get a 12.5 per cent sub-quota for jail warder posts."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-10
+  difficulty: hard
+  stem: "Patna High Court Chief Justice Meenakshi Madan Rai, who retired on 11 July 2026, was the court's"
+  options: { A: "First woman Chief Justice", B: "Third woman Chief Justice", C: "Fourth woman Chief Justice", D: "Second woman Chief Justice" }
+  answer: D
+  explanation: "She was the 48th Chief Justice and the second woman to head the court; Justice Sudhir Singh became acting Chief Justice."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-11
+  difficulty: hard
+  stem: "The Dr Shyama Prasad Mukherjee University of AI and Computer Science, set up under the Bihar Special Universities Act, 2026, is in"
+  options: { A: "Bhagalpur", B: "Muzaffarpur", C: "Patna", D: "Darbhanga" }
+  answer: A
+  explanation: "The AI university is in Bhagalpur; the Shaheed Jubba Sahni university of architecture and civil engineering is in Muzaffarpur."
+  tags: ["2026-07"]
+
+- slug: ca-2607-bih-12
+  difficulty: hard
+  stem: "Which places are covered by the first phase of Bihar's Heli-Tourism and Air Tourism Seva Yojana 2026?"
+  options: { A: "Bodh Gaya, Vaishali and Nalanda", B: "Kesaria, Sitamarhi and Pawapuri", C: "Valmikinagar, Mundeshwari and Rajgir", D: "Barabar, Vikramshila and Simaria" }
+  answer: C
+  explanation: "The scheme covers Valmikinagar, Mundeshwari (Kaimur) and Rajgir; a joyride over Patna costs Rs 2,100."
+  tags: ["2026-07"]

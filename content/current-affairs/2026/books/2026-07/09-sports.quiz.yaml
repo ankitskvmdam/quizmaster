@@ -1,0 +1,96 @@
+# Section 9 — Sports (July 2026)
+- slug: ca-2607-spo-01
+  difficulty: easy
+  stem: "The 23rd Commonwealth Games (2026) were held in"
+  options: { A: "Birmingham", B: "Glasgow", C: "Melbourne", D: "Edinburgh" }
+  answer: B
+  explanation: "The 23rd Commonwealth Games were held in Glasgow from 23 July to 2 August 2026."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-02
+  difficulty: easy
+  stem: "Which country won the FIFA World Cup 2026?"
+  options: { A: "Spain", B: "Argentina", C: "France", D: "Brazil" }
+  answer: A
+  explanation: "Spain beat Argentina 1-0 after extra time in the final on 19 July."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-03
+  difficulty: easy
+  stem: "Who won India's first gold medal at the 2026 Commonwealth Games?"
+  options: { A: "Gyaneshwari Yadav", B: "Harjinder Kaur", C: "Bindyarani Devi", D: "Mirabai Chanu" }
+  answer: D
+  explanation: "Mirabai Chanu won the women's 48 kg weightlifting with 190 kg, her third straight CWG gold."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-04
+  difficulty: easy
+  stem: "India will host the 2030 Commonwealth Games in"
+  options: { A: "New Delhi", B: "Bhubaneswar", C: "Ahmedabad", D: "Hyderabad" }
+  answer: C
+  explanation: "Ahmedabad will host the 2030 Commonwealth Games."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-05
+  difficulty: medium
+  stem: "Who won the men's singles at Wimbledon 2026?"
+  options: { A: "Carlos Alcaraz", B: "Alexander Zverev", C: "Jannik Sinner", D: "Novak Djokovic" }
+  answer: C
+  explanation: "Jannik Sinner beat Alexander Zverev on 12 July for his second straight Wimbledon and fifth major title."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-06
+  difficulty: medium
+  stem: "PV Sindhu became the first Indian to win which badminton title in July 2026?"
+  options: { A: "Japan Open", B: "China Open", C: "All England Open", D: "Indonesia Open" }
+  answer: A
+  explanation: "Sindhu beat Akane Yamaguchi 21-17, 21-17 to become the first Indian Japan Open champion."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-07
+  difficulty: medium
+  stem: "Gulveer Singh became the first Indian man to win a Commonwealth Games medal in which event?"
+  options: { A: "Marathon", B: "5,000 m", C: "3,000 m steeplechase", D: "10,000 m" }
+  answer: D
+  explanation: "Gulveer Singh won silver in the men's 10,000 m at Glasgow 2026."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-08
+  difficulty: medium
+  stem: "Who won the Golden Ball at the FIFA World Cup 2026?"
+  options: { A: "Kylian Mbappe", B: "Rodri", C: "Lionel Messi", D: "Pau Cubarsi" }
+  answer: B
+  explanation: "Rodri won the Golden Ball; Mbappe won the Golden Boot with 10 goals and Pau Cubarsi was Best Young Player."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-09
+  difficulty: hard
+  stem: "At what age did Vaibhav Sooryavanshi make his T20I debut against England?"
+  options: { A: "16 years 205 days", B: "15 years 99 days", C: "14 years 230 days", D: "15 years 312 days" }
+  answer: B
+  explanation: "He debuted at Old Trafford aged 15 years 99 days, passing Sachin Tendulkar's 16 years 205 days as India's youngest men's international."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-10
+  difficulty: hard
+  stem: "Which of the following was NOT inducted into the ICC Hall of Fame in 2026?"
+  options: { A: "Sourav Ganguly", B: "Anjum Chopra", C: "Mithali Raj", D: "Kevin Pietersen" }
+  answer: C
+  explanation: "The 2026 inductees were Sourav Ganguly, Anjum Chopra and Kevin Pietersen, taking the Hall of Fame to 125 members."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-11
+  difficulty: hard
+  stem: "Anahat Singh became the first Indian girl to win the World Junior Squash title at"
+  options: { A: "Melbourne", B: "Houston", C: "Cairo", D: "Niagara-on-the-Lake" }
+  answer: D
+  explanation: "Anahat Singh beat Ruqayya Salem in the final at Niagara-on-the-Lake."
+  tags: ["2026-07"]
+
+- slug: ca-2607-spo-12
+  difficulty: hard
+  stem: "Justin Greaves set a Test record by bowling five wicket-maiden overs in a row, breaking the record of"
+  options: { A: "Stuart Broad", B: "James Anderson", C: "Glenn McGrath", D: "Muttiah Muralitharan" }
+  answer: A
+  explanation: "Greaves, of the West Indies, bowled five in a row against Pakistan in Trinidad; Stuart Broad's record was 4."
+  tags: ["2026-07"]
