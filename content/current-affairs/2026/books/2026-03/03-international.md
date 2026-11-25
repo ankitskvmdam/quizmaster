@@ -4,37 +4,68 @@ number: 3
 title: "International Relations"
 covers: ["."]
 ---
-## Gist
-The war that began with **United States and Israeli strikes on Iran** ran through the whole month. Iran named **Mojtaba Khamenei** its new Supreme Leader, a US submarine sank an Iranian warship close to Sri Lanka, and attacks moved to the oil and gas sites of the Gulf: Kharg Island, Fujairah, South Pars and Ras Laffan. For India the worry was oil, gas and the safety of Indians working in the Gulf.
+## The war on Iran
 
-India's own diplomacy was busy. Canadian Prime Minister **Mark Carney's** visit repaired ties and restarted trade talks, and Finland's President **Alexander Stubb** was chief guest at the **Raisina Dialogue**. In Nepal, **Balendra Shah** became the country's youngest Prime Minister.
+The war began with United States and Israeli strikes on Iran and ran through the whole month. The United States named its campaign against Iran Operation Epic Fury. For India the worry was oil, gas and the safety of Indians working in the Gulf.
 
-In trade, the **WTO's 14th Ministerial Conference** in Cameroon ended without agreement, and the United States opened two **Section 301** investigations that name India.
+- **Iran's new Supreme Leader:**
+  - Before the new leader was named, an interim Leadership Council ran Iran under Article 111 of its constitution. The cleric Alireza Arafi was one of its three members.
+  - On 8 March 2026, Mojtaba Khamenei was named the third Supreme Leader of Iran. He succeeded his father, Ali Khamenei, who was killed in the US–Israeli strikes.
+- **IRIS Dena:** In early March 2026 a US submarine torpedoed and sank the Iranian frigate IRIS Dena.
+  - The ship was sunk about 40 nautical miles off Galle, Sri Lanka.
+  - It was returning from a naval event at Visakhapatnam.
+  - The sinking was described as the first time since the Second World War that a US submarine had sunk an enemy ship with a torpedo.
+- **Oil and gas sites:** The attacks moved to the oil and gas sites of the Gulf.
+  - The United States bombed Kharg Island. About 90 per cent of Iran's crude oil exports pass through it.
+  - Iran struck oil facilities at Fujairah in the United Arab Emirates (UAE).
+  - Israel struck Iran's South Pars gas field. It is part of the world's largest natural gas field, which Iran shares with Qatar. In Qatar the field is called the North Field.
+  - Ras Laffan was also among the Gulf sites attacked.
+- **Nuclear Non-Proliferation Treaty (NPT):** Iran said it was reviewing a possible exit from the NPT. Article X of the treaty allows withdrawal with three months' notice.
+- **IAEA:** The International Atomic Energy Agency (IAEA) held an emergency meeting in Vienna at the request of Russia and Iran.
 
-## Key facts
-- On **8 March 2026**, **Mojtaba Khamenei** was named the **third Supreme Leader of Iran**, succeeding his father **Ali Khamenei**, who was killed in the US–Israeli strikes.
-- Before that, an interim **Leadership Council** ran Iran under **Article 111** of its constitution; the cleric **Alireza Arafi** was one of its three members.
-- The United States named its campaign against Iran **Operation Epic Fury**.
-- In early March 2026 a US submarine torpedoed and sank the Iranian frigate **IRIS Dena** about **40 nautical miles off Galle, Sri Lanka**; the ship was returning from a naval event at **Visakhapatnam**.
-- The sinking of IRIS Dena was described as the first time a US submarine had sunk an enemy ship with a torpedo since the **Second World War**.
-- The United States bombed **Kharg Island**, through which about **90 per cent** of Iran's crude oil exports pass; Iran struck oil facilities at **Fujairah** in the UAE.
-- Israel struck Iran's **South Pars** gas field, part of the **world's largest natural gas field**, which Iran shares with **Qatar** (where it is called the North Field).
-- Iran said it was reviewing a possible exit from the **Nuclear Non-Proliferation Treaty (NPT)**; Article X of the treaty allows withdrawal with **three months'** notice.
-- The **IAEA** held an emergency meeting in **Vienna** at the request of **Russia and Iran**.
-- Pakistan launched a cross-border operation named **Ghazab Lil Haq** against Afghan Taliban forces along the **Durand Line**.
-- During Canadian Prime Minister **Mark Carney's** visit, India and Canada signed terms of reference to restart talks on a trade pact (**CEPA**) and set a goal of **USD 50 billion** in trade by **2030**.
-- India's Department of Atomic Energy signed a **USD 2.6 billion** long-term contract with Canada's **Cameco** for **uranium**.
-- Canada agreed to join the **International Solar Alliance** and the **Global Biofuels Alliance**.
-- The **11th Raisina Dialogue** was held in New Delhi with Finland's President **Alexander Stubb** as chief guest; its theme was **'Samskara: Assertion, Accommodation, Advancement'**.
-- The Raisina Dialogue is organised by the **Ministry of External Affairs** with the **Observer Research Foundation**.
-- India and Finland raised their ties to a **Strategic Partnership in Digitalization and Sustainability**.
-- Israel proposed a **'Hexagon of Alliances'** whose core members would be **India, Israel, Greece and Cyprus**.
-- **Balendra (Balen) Shah**, aged **35**, became **Nepal's youngest Prime Minister** after his **Rastriya Swatantra Party** won **182** of 275 seats.
-- **Bhumika Shrestha** became Nepal's **first transgender woman lawmaker**.
-- The WTO's **14th Ministerial Conference (MC14)** at **Yaoundé, Cameroon** ended without consensus, and the moratorium on customs duty on **e-commerce**, in place since 1998, lapsed.
-- At the WTO, India opposed bringing the China-backed **Investment Facilitation for Development** agreement into the WTO framework.
-- The United States opened investigations under **Section 301 of the Trade Act, 1974**: one into excess manufacturing capacity in **16** trading partners including India, and one into forced labour covering **60** economies.
-- India holds the **BRICS** chair in 2026 with the theme **'Building for Resilience, Innovation, Cooperation and Sustainability'**.
-- **Indonesia** banned social media accounts for children under **16**, the first country in **Southeast Asia** to do so.
-- India–China border trade through **Lipulekh Pass** in Uttarakhand is to resume in **June 2026** after six years; **Nepal** objected.
-- The **Ashmolean Museum** of Oxford returned to India a 16th-century bronze idol of the saint **Thirumangai Alvar** from Tamil Nadu.
+## India's ties with other countries
+
+- **Canada:** Canadian Prime Minister Mark Carney's visit repaired ties.
+  - India and Canada signed terms of reference to restart talks on a trade pact, the Comprehensive Economic Partnership Agreement (CEPA).
+  - They set a goal of USD 50 billion in trade by 2030.
+  - India's Department of Atomic Energy signed a USD 2.6 billion long-term contract for uranium with Canada's Cameco.
+  - Canada agreed to join the International Solar Alliance and the Global Biofuels Alliance.
+- **Finland:** India and Finland raised their ties to a Strategic Partnership in Digitalization and Sustainability.
+- **Israel:** Israel proposed a 'Hexagon of Alliances'. Its core members would be India, Israel, Greece and Cyprus.
+- **China:** India–China border trade through Lipulekh Pass in Uttarakhand is to resume in June 2026, after six years. Nepal objected.
+- **United Kingdom:** The Ashmolean Museum of Oxford returned a 16th-century bronze idol to India. The idol is of the saint Thirumangai Alvar, from Tamil Nadu.
+
+## Summits and groupings
+
+- **11th Raisina Dialogue:** It was held in New Delhi with Finland's President Alexander Stubb as chief guest. Its theme was 'Samskara: Assertion, Accommodation, Advancement'. The Dialogue is organised by the Ministry of External Affairs with the Observer Research Foundation.
+- **BRICS:** India holds the BRICS chair in 2026. The theme is 'Building for Resilience, Innovation, Cooperation and Sustainability'.
+
+## Trade
+
+- **WTO's 14th Ministerial Conference (MC14):** The conference of the World Trade Organization (WTO) at Yaoundé, Cameroon ended without consensus.
+  - The moratorium, an agreed pause, on customs duty on e-commerce had been in place since 1998. It lapsed.
+  - India opposed bringing the China-backed Investment Facilitation for Development agreement into the WTO framework.
+- **Section 301:** The United States opened two investigations under Section 301 of the Trade Act, 1974, that name India.
+  - One is into excess manufacturing capacity in 16 trading partners, including India.
+  - The other is into forced labour, covering 60 economies.
+
+## Neighbourhood and the wider world
+
+- **Nepal:**
+  - Balendra (Balen) Shah, aged 35, became Nepal's youngest Prime Minister. His Rastriya Swatantra Party won 182 of 275 seats.
+  - Bhumika Shrestha became Nepal's first transgender woman lawmaker.
+- **Pakistan:** Pakistan launched a cross-border operation named Ghazab Lil Haq against Afghan Taliban forces along the Durand Line.
+- **Indonesia:** Indonesia banned social media accounts for children under 16. It is the first country in Southeast Asia to do so.
+
+> **Remember**
+>
+> - **8 March 2026:** Mojtaba Khamenei was named the third Supreme Leader of Iran.
+> - **Operation Epic Fury:** the US campaign against Iran.
+> - **IRIS Dena:** the Iranian frigate sunk about 40 nautical miles off Galle, Sri Lanka.
+> - **Kharg Island:** about 90 per cent of Iran's crude oil exports pass through it.
+> - **11th Raisina Dialogue:** Alexander Stubb was chief guest; the theme was 'Samskara'.
+> - **USD 50 billion by 2030:** the India–Canada trade goal.
+> - **Balendra Shah:** Nepal's youngest Prime Minister, at 35.
+> - **MC14, Yaoundé:** the WTO conference ended without consensus.
+> - **Lipulekh Pass:** India–China border trade to resume in June 2026.
+> - **Indonesia:** the first country in Southeast Asia to ban social media accounts for children under 16.
