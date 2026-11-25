@@ -4,31 +4,67 @@ number: 9
 title: "Sports"
 covers: ["."]
 ---
-## Gist
-The month ended with the **IPL final** on 31 May, where **Royal Challengers Bengaluru** beat Gujarat Titans to win a second title in a row. The season's star was the teenager **Vaibhav Sooryavanshi**, who took the Orange Cap.
+## At a glance: winners
 
-In world sport, **Jannik Sinner** won both the Madrid and Italian Opens, **Paris Saint-Germain** kept the Champions League, and **China** and **South Korea** won the Thomas and Uber Cups in badminton.
+| Event | Winner | Final |
+| --- | --- | --- |
+| Madrid Open, men's singles | Jannik Sinner (Italy) | Beat Alexander Zverev |
+| Madrid Open, women's singles | Marta Kostyuk (Ukraine) | — |
+| Italian Open, men's singles | Jannik Sinner | Beat Casper Ruud in Rome |
+| Italian Open, women's singles | Elina Svitolina (Ukraine) | Beat Coco Gauff |
+| Thomas Cup (badminton, men) | China | Beat France |
+| Uber Cup (badminton, women) | South Korea | Beat China; Horsens, Denmark |
+| UEFA Champions League | Paris Saint-Germain | Beat Arsenal on penalties in Budapest |
+| IPL 2026 | Royal Challengers Bengaluru (RCB) | Beat Gujarat Titans by five wickets in Ahmedabad |
+| IBSF World Billiards Championship | Sourav Kothari | Beat Pankaj Advani at Carlow, Ireland |
+| Archery World Cup Stage 2, women's recurve team | India | Beat China in a shoot-off in Shanghai |
+| Wushu Sanda World Cup, women's 52 kg | Aparna | Held in Macau |
 
-Indian athletes set records at home: **Gurindervir Singh** ran the fastest 100 metres by an Indian and para-athlete **Sumit Antil** bettered his own world record. **Sourav Kothari** kept his world billiards title and the women's recurve archers won World Cup gold. The Government also notified rules for the new **National Sports Board**.
+## Cricket
 
-## Key facts
-- **Royal Challengers Bengaluru (RCB)** won **IPL 2026**, beating **Gujarat Titans** by **five wickets** in the final on **31 May 2026** at the **Narendra Modi Stadium, Ahmedabad**.
-- It was RCB's **second IPL title in a row**; **Virat Kohli** scored an unbeaten 75 in the final and **Rajat Patidar** was the captain.
-- **Vaibhav Sooryavanshi** of Rajasthan Royals won the **Orange Cap** with **776 runs**; **Kagiso Rabada** of Gujarat Titans won the **Purple Cap** with **29 wickets**.
-- **Punjab Kings** won the Fair Play Award of IPL 2026.
-- **Jannik Sinner** of Italy won the **Madrid Open** men's singles, beating **Alexander Zverev**; **Marta Kostyuk** of Ukraine won the women's title.
-- Sinner won the **Italian Open** in Rome on **17 May 2026**, beating **Casper Ruud**; he is the first Italian man to win it since **Adriano Panatta in 1976**.
-- With the Rome title Sinner became only the second man, after **Novak Djokovic**, to win **all nine ATP Masters 1000** tournaments.
-- **Elina Svitolina** of Ukraine won the Italian Open women's singles, beating **Coco Gauff**.
-- **China** won badminton's **Thomas Cup** (men), beating **France** in the final for its **12th title**.
-- **South Korea** won the **Uber Cup** (women), beating China in the final; the finals were held at **Horsens, Denmark**.
-- **Paris Saint-Germain** retained the **UEFA Champions League**, beating **Arsenal** on penalties after a 1-1 draw in the final in **Budapest** on 30 May 2026.
-- **Sourav Kothari** beat **Pankaj Advani** in the final to retain the **IBSF World Billiards Championship** at **Carlow, Ireland**.
-- India's **women's recurve team** (**Deepika Kumari, Ankita Bhakat and Kumkum Mohod**) won gold at the **Archery World Cup Stage 2 in Shanghai**, beating China in a shoot-off.
-- **Gurindervir Singh** set a national record of **10.09 seconds** in the men's **100 metres** at the Federation Cup in **Ranchi**; the old record was 10.18 seconds.
-- Para-athlete **Sumit Antil** set a world record of **74.82 metres** in the **F64 javelin throw** at Bengaluru.
-- **Aparna** won gold in the women's 52 kg class at the **Wushu Sanda World Cup** in **Macau**.
-- The **first World Yogasana Championship** will be held at **Ahmedabad** from **4 to 8 June 2026**; its mascot is **"Veer the Lion"**.
-- The Government notified the **National Sports Board** Rules and the **National Sports Tribunal** Rules, 2026, under the **National Sports Governance Act, 2025**.
-- **Rithika Sri** of Tamil Nadu became India's **first transgender cricket umpire**.
-- India adopted a formal policy that stops **bilateral sporting ties with Pakistan** while allowing play against it in multilateral events such as those of the ICC and IOC.
+- **31 May 2026:** RCB won the IPL 2026 final at the Narendra Modi Stadium, Ahmedabad. It was RCB's second IPL title in a row.
+  - Virat Kohli scored an unbeaten 75 in the final.
+  - Rajat Patidar was the captain.
+  - Vaibhav Sooryavanshi of Rajasthan Royals, a teenager, won the Orange Cap with 776 runs.
+  - Kagiso Rabada of Gujarat Titans won the Purple Cap with 29 wickets.
+  - Punjab Kings won the Fair Play Award.
+- **Rithika Sri:** From Tamil Nadu, she became India's first transgender cricket umpire.
+
+## Tennis
+
+- **Jannik Sinner:** He won both the Madrid Open and the Italian Open.
+  - He won the Italian Open on 17 May 2026. He is the first Italian man to win it since Adriano Panatta in 1976.
+  - With the Rome title he became only the second man, after Novak Djokovic, to win all nine ATP Masters 1000 tournaments.
+
+## Badminton and football
+
+- **Thomas Cup:** China's win was its 12th title.
+- **30 May 2026:** Paris Saint-Germain retained the UEFA Champions League. The final ended 1-1 before the penalties.
+
+## Indian athletes
+
+- **Gurindervir Singh:** He set a national record of 10.09 seconds in the men's 100 metres at the Federation Cup in Ranchi. The old record was 10.18 seconds. It is the fastest 100 metres by an Indian.
+- **Sumit Antil:** The para-athlete set a world record of 74.82 metres in the F64 javelin throw at Bengaluru. He bettered his own world record.
+- **Sourav Kothari:** He retained his world billiards title.
+- **Women's recurve team:** The gold-winning team was Deepika Kumari, Ankita Bhakat and Kumkum Mohod.
+
+## Sports governance
+
+- **National Sports Governance Act, 2025:** The Government notified two sets of rules under it, the National Sports Board Rules and the National Sports Tribunal Rules, 2026.
+- **Pakistan:** India adopted a formal policy on sporting ties with Pakistan.
+  - It stops bilateral sporting ties with Pakistan.
+  - It allows play against Pakistan in multilateral events such as those of the ICC and IOC.
+- **First World Yogasana Championship:** It will be held at Ahmedabad from 4 to 8 June 2026. Its mascot is "Veer the Lion".
+
+> **Remember**
+>
+> - **RCB:** IPL 2026, its second title in a row, beating Gujarat Titans by five wickets.
+> - **776 runs:** Vaibhav Sooryavanshi's Orange Cap tally.
+> - **29 wickets:** Kagiso Rabada's Purple Cap tally.
+> - **Jannik Sinner:** Second man after Novak Djokovic to win all nine ATP Masters 1000 titles.
+> - **1976:** Adriano Panatta, the last Italian man before Sinner to win the Italian Open.
+> - **China:** 12th Thomas Cup title; South Korea won the Uber Cup.
+> - **Paris Saint-Germain:** Retained the UEFA Champions League, beating Arsenal.
+> - **10.09 seconds:** Gurindervir Singh's national 100 metres record.
+> - **74.82 metres:** Sumit Antil's world record in the F64 javelin throw.
+> - **Rithika Sri:** India's first transgender cricket umpire.

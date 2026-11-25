@@ -4,33 +4,66 @@ number: 9
 title: "Sports"
 covers: ["."]
 ---
-## Gist
-Chess gave India its best news of the month: **R. Vaishali** won the **Women's Candidates Tournament** in Cyprus and will now play for the world title. In the open section **Javokhir Sindarov** of Uzbekistan won the right to challenge world champion **D. Gukesh**.
+## At a glance: results
 
-World sport saw a landmark at the **London Marathon**, where **Sabastian Sawe** of Kenya became the first man to run an official marathon in under two hours. **Rory McIlroy** won the Masters again and **Jannik Sinner** won at Monte Carlo to return to world No. 1.
+| Event | Winner | Final |
+| --- | --- | --- |
+| FIDE Women's Candidates Tournament 2026, Cyprus | R. Vaishali | 8.5 points from 14 rounds; the first Indian woman to win it |
+| FIDE Candidates Tournament 2026 | Javokhir Sindarov (Uzbekistan) | Anish Giri finished second |
+| Masters golf, Augusta, 12 April 2026 | Rory McIlroy | Beat Scottie Scheffler by one stroke |
+| Monte Carlo Masters, 12 April 2026 | Jannik Sinner (Italy) | Beat Carlos Alcaraz |
+| London Marathon, men, 26 April 2026 | Sabastian Sawe (Kenya) | 1:59:30 |
+| London Marathon, women | Tigst Assefa (Ethiopia) | 2:15:41, a women-only world record |
+| Badminton Asia Championships, men's singles, Ningbo (China) | Shi Yuqi (China) | Beat India's Ayush Shetty, who won silver |
+| Badminton Asia Championships, women's singles | An Se-young (South Korea) | Won the title |
+| SAFF U-20 Championship 2026, Malé (Maldives) | Bangladesh | Beat India 4–3 on penalties |
 
-Indian teams did well at the Asian championships in wrestling and boxing, **Ayush Shetty** won silver at the Badminton Asia Championships, and the first **Khelo India Tribal Games** ended in Chhattisgarh.
+## Chess
 
-## Key facts
-- **R. Vaishali** won the **FIDE Women's Candidates Tournament 2026** in **Cyprus** with 8.5 points from 14 rounds, the first Indian woman to win it.
-- By winning the Women's Candidates, Vaishali earned the right to challenge women's world champion **Ju Wenjun** of China.
-- **Javokhir Sindarov** of **Uzbekistan** won the **FIDE Candidates Tournament 2026** and will challenge world champion **D. Gukesh**; **Anish Giri** finished second.
-- **Aronyak Ghosh** of Kolkata became India's **95th chess Grandmaster**.
-- **Rory McIlroy** won the **Masters** golf tournament at Augusta on **12 April 2026**, beating **Scottie Scheffler** by one stroke.
-- McIlroy is only the **fourth golfer** to win the Masters in two successive years, after Jack Nicklaus, Nick Faldo and Tiger Woods.
-- **Jannik Sinner** of Italy beat **Carlos Alcaraz** in the final of the **Monte Carlo Masters** on 12 April 2026 and returned to **world No. 1**.
-- At the **London Marathon** on **26 April 2026**, **Sabastian Sawe** of **Kenya** ran **1:59:30**, the first official marathon under two hours.
-- **Tigst Assefa** of **Ethiopia** won the women's race at the London Marathon in 2:15:41, a women-only world record.
-- **Sawan Barwal** set a new **national marathon record** of **2:11:58** at the **Rotterdam Marathon**, breaking **Shivnath Singh's** record that had stood since **1978**.
-- At the **Badminton Asia Championships** in **Ningbo, China**, India's **Ayush Shetty** won **silver**, losing the men's singles final to **Shi Yuqi** of China.
-- **An Se-young** of South Korea won the women's singles title at the Badminton Asia Championships.
-- India won **17 medals** (2 gold, 7 silver, 8 bronze) at the **Asian Wrestling Championships** in **Bishkek**, Kyrgyzstan.
-- India won **16 medals**, including **5 gold**, at the **Asian Boxing Championships** in **Ulaanbaatar**, Mongolia, finishing second behind **Kazakhstan**.
-- **Vishvanath Suresh** won gold in the men's 50 kg class at the Asian Boxing Championships.
-- The **first Khelo India Tribal Games** were held in **Chhattisgarh** (Raipur, Jagdalpur and Surguja) from 25 March to 3 April 2026; **Karnataka** won the overall title.
-- The mascot of the Khelo India Tribal Games is **"Morveer"**.
-- **Bangladesh** beat India **4–3 on penalties** in the final of the **SAFF U-20 Championship 2026** at **Malé**, Maldives.
-- At the **Laureus World Sports Awards 2026** in **Madrid**, **Carlos Alcaraz** was named Sportsman of the Year and **Aryna Sabalenka** Sportswoman of the Year.
-- Other Laureus winners were **Paris Saint-Germain** (Team of the Year), **Lando Norris** (Breakthrough) and **Nadia Comăneci** (Lifetime Achievement).
-- **Rithika Sri** of **Tamil Nadu** became India's **first transgender cricket umpire**.
-- **IIT Madras** introduced **OmegaBall** to India, a game played by **three teams at once** on a circular field.
+Chess gave India its best news of the month.
+
+- **R. Vaishali:** By winning the Women's Candidates, she earned the right to challenge the women's world champion, Ju Wenjun of China.
+- **Javokhir Sindarov:** He won the open section. He will challenge the world champion, D. Gukesh.
+- **Aronyak Ghosh:** This player from Kolkata became India's 95th chess Grandmaster.
+
+## Golf, tennis and athletics
+
+- **12 April 2026:** Rory McIlroy won the Masters again. He is only the fourth golfer to win the Masters in two successive years, after Jack Nicklaus, Nick Faldo and Tiger Woods.
+- **12 April 2026:** Jannik Sinner won at Monte Carlo and returned to world No. 1.
+- **26 April 2026:** At the London Marathon, Sabastian Sawe became the first man to run an official marathon in under two hours.
+- **Sawan Barwal:** He set a new national marathon record of 2:11:58 at the Rotterdam Marathon. He broke Shivnath Singh's record, which had stood since 1978.
+
+## Asian championships
+
+Indian teams did well at the Asian championships in wrestling and boxing.
+
+- **Asian Wrestling Championships:** India won 17 medals at Bishkek, Kyrgyzstan: 2 gold, 7 silver and 8 bronze.
+- **Asian Boxing Championships:** India won 16 medals, including 5 gold, at Ulaanbaatar, Mongolia. It finished second, behind Kazakhstan.
+  - Vishvanath Suresh won gold in the men's 50 kg class.
+
+## Other news
+
+- **25 March to 3 April 2026:** The first Khelo India Tribal Games were held in Chhattisgarh, at Raipur, Jagdalpur and Surguja.
+  - Karnataka won the overall title.
+  - The mascot was "Morveer".
+- **Laureus World Sports Awards 2026:** The awards were given in Madrid.
+  - Sportsman of the Year: Carlos Alcaraz.
+  - Sportswoman of the Year: Aryna Sabalenka.
+  - Team of the Year: Paris Saint-Germain.
+  - Breakthrough: Lando Norris.
+  - Lifetime Achievement: Nadia Comăneci.
+- **Rithika Sri:** She is from Tamil Nadu. She became India's first transgender cricket umpire.
+- **OmegaBall:** IIT Madras introduced this game to India. It is played by three teams at once on a circular field.
+
+> **Remember**
+>
+> - **R. Vaishali:** First Indian woman to win the Women's Candidates; she will challenge Ju Wenjun.
+> - **Javokhir Sindarov:** Won the Candidates; he will challenge D. Gukesh.
+> - **Aronyak Ghosh:** India's 95th chess Grandmaster.
+> - **1:59:30:** Sabastian Sawe's London Marathon time, the first official marathon under two hours.
+> - **Rory McIlroy:** Only the fourth golfer to win the Masters in two successive years.
+> - **Sawan Barwal:** National marathon record of 2:11:58, breaking a record from 1978.
+> - **16 medals, 5 gold:** India at the Asian Boxing Championships, second behind Kazakhstan.
+> - **Khelo India Tribal Games:** The first edition, in Chhattisgarh; Karnataka won.
+> - **Rithika Sri:** India's first transgender cricket umpire.
+> - **Carlos Alcaraz:** Laureus Sportsman of the Year 2026.

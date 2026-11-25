@@ -4,29 +4,69 @@ number: 9
 title: "Sports"
 covers: ["."]
 ---
-## Gist
-The **23rd Commonwealth Games** opened in **Glasgow** on 23 July. Weightlifter **Mirabai Chanu** won India's first gold, and **Gulveer Singh** became the first Indian man to win a medal in the 10,000 m. India will host the next Games, in **Ahmedabad** in 2030.
+## At a glance: results
 
-Abroad, **Spain** won the **FIFA World Cup 2026**, beating Argentina in extra time, and **Jannik Sinner** won Wimbledon for the second year running. **PV Sindhu** became the first Indian to win the Japan Open, and **Anahat Singh** won the world junior squash title.
+| Event | Winner | Final |
+| --- | --- | --- |
+| Wimbledon 2026, men's singles, 12 July | Jannik Sinner | Beat Alexander Zverev |
+| Wimbledon 2026, women's singles | Linda Noskova | Beat Karolina Muchova |
+| FIFA World Cup 2026, 19 July | Spain | Beat Argentina 1-0 after extra time |
+| Japan Open | PV Sindhu | Beat Akane Yamaguchi 21-17, 21-17 |
+| World Junior Squash, Niagara-on-the-Lake | Anahat Singh | Beat Ruqayya Salem |
 
-In cricket, **Vaibhav Sooryavanshi** became India's youngest men's international player, and **Sourav Ganguly** entered the ICC Hall of Fame. At home, the **National Anti-Doping Act** came into force.
+## Commonwealth Games 2026
 
-## Key facts
-- The **23rd Commonwealth Games** were held in **Glasgow** from **23 July to 2 August 2026**, with **74 nations** and **10 sports**.
-- **Mirabai Chanu** won India's **first gold** of the Games in the women's **48 kg** weightlifting, lifting **190 kg** (85 + 105); it was her **third straight CWG gold**.
-- **Gulveer Singh** won **silver** in the men's **10,000 m**, the **first Indian man** to win a medal in the event.
-- In weightlifting, **Harjinder Kaur** won silver in the **69 kg** class with **227 kg**.
-- Other weightlifting medals: **Gyaneshwari Yadav** (silver, 53 kg), **Bindyarani Devi** (bronze, 58 kg), **Rishikanta Singh** (silver, 60 kg) and **Raja Muthupandi** (silver, 65 kg).
-- India will host the **2030 Commonwealth Games** in **Ahmedabad**.
-- **Spain** won the **FIFA World Cup 2026**, beating **Argentina 1-0** after extra time on **19 July**; **Ferran Torres** scored in the **106th minute**.
-- The 2026 World Cup, the first with **48 teams**, was hosted by the **USA, Canada and Mexico**.
-- World Cup awards: **Golden Ball** to **Rodri**, **Golden Boot** to **Mbappe** (10 goals), **Golden Glove** to **Unai Simon** and **Best Young Player** to **Pau Cubarsi**.
-- **Jannik Sinner** beat **Alexander Zverev** in the **Wimbledon 2026** final on **12 July**, his second straight Wimbledon and **fifth major** title.
-- **Linda Noskova** won the **Wimbledon women's singles**, beating **Karolina Muchova** in the final.
-- **PV Sindhu** became the **first Indian to win the Japan Open**, beating **Akane Yamaguchi** 21-17, 21-17.
-- **Anahat Singh** became the **first Indian girl to win the World Junior Squash** title, beating **Ruqayya Salem** at **Niagara-on-the-Lake**.
-- **Vaibhav Sooryavanshi** made his **T20I debut** against **England** at **Old Trafford** aged **15 years 99 days**.
-- Sooryavanshi became India's **youngest men's international cricketer**, passing **Sachin Tendulkar** (16 years 205 days).
-- The **ICC Hall of Fame 2026** inducted **Sourav Ganguly**, **Anjum Chopra** and **Kevin Pietersen** at **Edinburgh**, taking it to **125 members**.
-- **Justin Greaves** of the West Indies bowled **five wicket-maiden overs in a row** in a Test against Pakistan in **Trinidad**; the old record was **4**, by **Stuart Broad**.
-- The **National Anti-Doping Act, 2022** and its **Amendment Act, 2025** came into force, setting up the **National Board for Anti-Doping in Sports**.
+The 23rd Commonwealth Games were held in Glasgow from 23 July to 2 August 2026. 74 nations took part, in 10 sports.
+
+- **Mirabai Chanu:** She won India's first gold of the Games, in the women's 48 kg weightlifting. She lifted 190 kg (85 + 105).
+  - It was her third straight Commonwealth Games (CWG) gold.
+- **Gulveer Singh:** He won silver in the men's 10,000 m. He is the first Indian man to win a medal in the event.
+- **Weightlifting:** India's other medals were these.
+
+| Lifter | Class | Medal |
+| --- | --- | --- |
+| Gyaneshwari Yadav | 53 kg | Silver |
+| Bindyarani Devi | 58 kg | Bronze |
+| Rishikanta Singh | 60 kg | Silver |
+| Raja Muthupandi | 65 kg | Silver |
+| Harjinder Kaur | 69 kg, with 227 kg | Silver |
+
+- **2030 Commonwealth Games:** India will host the next Games, in Ahmedabad.
+
+## Football
+
+- **FIFA World Cup 2026:** Ferran Torres scored Spain's winner in the 106th minute of the final.
+  - It was the first World Cup with 48 teams.
+  - It was hosted by the USA, Canada and Mexico.
+- **World Cup awards:**
+  - Golden Ball: Rodri.
+  - Golden Boot: Mbappe, with 10 goals.
+  - Golden Glove: Unai Simon.
+  - Best Young Player: Pau Cubarsi.
+
+## Tennis, badminton and squash
+
+- **Jannik Sinner:** Wimbledon 2026 was his second straight Wimbledon and his fifth major title.
+- **PV Sindhu:** She became the first Indian to win the Japan Open.
+- **Anahat Singh:** She became the first Indian girl to win the World Junior Squash title.
+
+## Cricket and other news
+
+- **Vaibhav Sooryavanshi:** He made his T20I debut against England at Old Trafford, aged 15 years 99 days.
+  - He became India's youngest men's international cricketer, passing Sachin Tendulkar (16 years 205 days).
+- **ICC Hall of Fame 2026:** Sourav Ganguly, Anjum Chopra and Kevin Pietersen were inducted at Edinburgh. This took it to 125 members.
+- **Justin Greaves:** This West Indies bowler bowled five wicket-maiden overs in a row in a Test against Pakistan in Trinidad. The old record was 4, by Stuart Broad.
+- **Anti-doping:** The National Anti-Doping Act, 2022 and its Amendment Act, 2025 came into force. They set up the National Board for Anti-Doping in Sports.
+
+> **Remember**
+>
+> - **23rd Commonwealth Games:** Glasgow, 23 July to 2 August 2026; 74 nations, 10 sports.
+> - **Mirabai Chanu:** India's first gold of the Games, 190 kg; her third straight CWG gold.
+> - **Gulveer Singh:** First Indian man to win a medal in the 10,000 m at the Games.
+> - **Ahmedabad:** Host of the 2030 Commonwealth Games.
+> - **Spain:** FIFA World Cup 2026 winner; Ferran Torres scored in the 106th minute.
+> - **48 teams:** The first World Cup of this size, hosted by the USA, Canada and Mexico.
+> - **Jannik Sinner:** Second straight Wimbledon; fifth major title.
+> - **PV Sindhu:** First Indian to win the Japan Open.
+> - **Vaibhav Sooryavanshi:** India's youngest men's international cricketer, at 15 years 99 days.
+> - **125 members:** ICC Hall of Fame after Ganguly, Chopra and Pietersen joined.

@@ -32,7 +32,7 @@ Use these renderings for consistency across books:
 | Partition of Bengal / Swadeshi / Boycott | बंगाल विभाजन / स्वदेशी / बहिष्कार |
 | Home Rule League / Khilafat / Swarajists | होमरूल लीग / खिलाफत / स्वराजवादी |
 | Non-Cooperation / Civil Disobedience / Quit India Movement | असहयोग / सविनय अवज्ञा / भारत छोड़ो आंदोलन |
-| Round Table Conference / Communal Award / Poona Pact | गोलमेज सम्मेलन / सांप्रदायिक पंचाट / पूना समझौता |
+| Round Table Conference / Communal Award / Poona Pact | गोलमेज़ सम्मेलन / सांप्रदायिक पंचाट / पूना समझौता |
 | Provincial autonomy / separate electorate | प्रांतीय स्वायत्तता / पृथक निर्वाचक मंडल |
 | Constituent Assembly / Cabinet Mission / Interim Government | संविधान सभा / कैबिनेट मिशन / अंतरिम सरकार |
 | Muslim League / Indian National Army | मुस्लिम लीग / आज़ाद हिंद फ़ौज (INA) |
