@@ -1,0 +1,96 @@
+# Section 6 — Defence & Security (March 2026)
+- slug: ca-2603-def-01
+  difficulty: easy
+  stem: "Exercise LAMITIYE is a military exercise between India and"
+  options: { A: "Mauritius", B: "Seychelles", C: "Maldives", D: "Madagascar" }
+  answer: B
+  explanation: "LAMITIYE, meaning 'friendship' in Creole, is the India–Seychelles exercise; its 11th edition was held in March 2026."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-02
+  difficulty: easy
+  stem: "Which country was ranked first in the Global Terrorism Index 2026?"
+  options: { A: "Afghanistan", B: "Burkina Faso", C: "Nigeria", D: "Pakistan" }
+  answer: D
+  explanation: "Pakistan was ranked 1st and India 13th in the index of the Institute for Economics and Peace."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-03
+  difficulty: easy
+  stem: "The S-400 air defence system, bought from Russia, is known in Indian service as"
+  options: { A: "Sudarshan", B: "Akash", C: "Trishul", D: "Kusha" }
+  answer: A
+  explanation: "The S-400 Triumf is called 'Sudarshan' in Indian service; three of the five squadrons are operational."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-04
+  difficulty: easy
+  stem: "Exercise Kakadu, in which INS Nilgiri took part in March 2026, is hosted by the navy of"
+  options: { A: "Japan", B: "Indonesia", C: "Australia", D: "France" }
+  answer: C
+  explanation: "Kakadu is the main multinational exercise of the Royal Australian Navy."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-05
+  difficulty: medium
+  stem: "'Defence Forces Vision 2047', released in March 2026, was prepared by"
+  options: { A: "the Defence Research and Development Organisation", B: "NITI Aayog", C: "Headquarters Integrated Defence Staff", D: "the National Security Council Secretariat" }
+  answer: C
+  explanation: "The road map was prepared by Headquarters Integrated Defence Staff and released by the Defence Minister."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-06
+  difficulty: medium
+  stem: "Exercise Amogh Jwala was held by the Army's Southern Command in March 2026 at"
+  options: { A: "Babina, Uttar Pradesh", B: "Pokhran, Rajasthan", C: "Mahajan, Rajasthan", D: "Deolali, Maharashtra" }
+  answer: A
+  explanation: "Amogh Jwala was held at the Babina field firing ranges from 6 to 18 March 2026."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-07
+  difficulty: medium
+  stem: "India took the chair of the Indian Ocean Naval Symposium (IONS) for 2026–2028 after a gap of"
+  options: { A: "6 years", B: "10 years", C: "12 years", D: "16 years" }
+  answer: D
+  explanation: "India chairs IONS for 2026–2028 after 16 years and hosted its exercise IMEX 2026 at Kochi."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-08
+  difficulty: medium
+  stem: "The six ALH Mk-III helicopters ordered from HAL in March 2026 are meant for the"
+  options: { A: "Indian Army", B: "Indian Coast Guard", C: "Indian Air Force", D: "Border Security Force" }
+  answer: B
+  explanation: "The Rs 5,083 crore contracts covered six ALH Mk-III helicopters for the Coast Guard and Shtil missiles for the Navy."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-09
+  difficulty: hard
+  stem: "Dunagiri, delivered to the Navy in March 2026, is the"
+  options: { A: "fourth Project 17A frigate, built by Mazagon Dock", B: "first Project 17A frigate, built by Mazagon Dock", C: "seventh Project 17A frigate, built by GRSE", D: "fifth Project 17A frigate, built by GRSE" }
+  answer: D
+  explanation: "Dunagiri is the fifth ship of Project 17A and the second built by Garden Reach Shipbuilders & Engineers, Kolkata."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-10
+  difficulty: hard
+  stem: "The Indian ship that took part in Exercise LAMITIYE-2026 was"
+  options: { A: "INS Trikand", B: "INS Nilgiri", C: "INS Sumedha", D: "INS Tarkash" }
+  answer: A
+  explanation: "INS Trikand took part as India sent all three services to the exercise for the first time."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-11
+  difficulty: hard
+  stem: "Sheshnag-150, a long-range strike drone, was developed by"
+  options: { A: "Solar Industries", B: "IG Drones", C: "NewSpace Research and Technologies", D: "Alpha Design Technologies" }
+  answer: C
+  explanation: "Sheshnag-150, with a range of over 1,000 km, was developed by NewSpace Research and Technologies of Bengaluru."
+  tags: ["2026-03"]
+
+- slug: ca-2603-def-12
+  difficulty: hard
+  stem: "Under the Free Movement Regime on the India–Myanmar border, visa-free movement is now limited to"
+  options: { A: "5 km", B: "10 km", C: "16 km", D: "40 km" }
+  answer: B
+  explanation: "The limit was cut from 16 km to 10 km; the border is 1,643 km long."
+  tags: ["2026-03"]

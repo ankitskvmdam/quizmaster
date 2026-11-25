@@ -1,0 +1,96 @@
+# Section 5 — Environment & Ecology (March 2026)
+- slug: ca-2603-env-01
+  difficulty: easy
+  stem: "According to the World Air Quality Report 2025 of IQAir, the world's most polluted city was"
+  options: { A: "Ghaziabad", B: "Lahore", C: "Loni", D: "Dhaka" }
+  answer: C
+  explanation: "Loni in Uttar Pradesh was the most polluted city; New Delhi was the most polluted capital for the 8th year running."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-02
+  difficulty: easy
+  stem: "Earth Hour, observed on 28 March 2026, is organised by"
+  options: { A: "UNEP", B: "WWF", C: "Greenpeace", D: "IUCN" }
+  answer: B
+  explanation: "Earth Hour is a campaign of the World Wide Fund for Nature (WWF); the 2026 theme was 'Give An Hour For Earth'."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-03
+  difficulty: easy
+  stem: "The National Chambal Sanctuary, on which the Supreme Court acted on its own in March 2026, is best known for the"
+  options: { A: "gharial", B: "one-horned rhinoceros", C: "Asiatic lion", D: "red panda" }
+  answer: A
+  explanation: "The tri-State sanctuary on the Chambal is the main home of the gharial; the Court took up illegal sand mining there."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-04
+  difficulty: easy
+  stem: "World Wildlife Day is observed every year on"
+  options: { A: "22 March", B: "5 June", C: "22 April", D: "3 March" }
+  answer: D
+  explanation: "World Wildlife Day falls on 3 March; the 2026 theme was about medicinal and aromatic plants."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-05
+  difficulty: medium
+  stem: "Under the Nationally Determined Contribution for 2031–35, India aims for what share of installed electricity capacity from non-fossil sources by 2035?"
+  options: { A: "50 per cent", B: "60 per cent", C: "47 per cent", D: "75 per cent" }
+  answer: B
+  explanation: "The new target is 60 per cent non-fossil capacity by 2035; 47 per cent is the target cut in emissions intensity."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-06
+  difficulty: medium
+  stem: "CMS COP15, the meeting on migratory species held in March 2026, took place at"
+  options: { A: "Samarkand, Uzbekistan", B: "Gandhinagar, India", C: "Cali, Colombia", D: "Campo Grande, Brazil" }
+  answer: D
+  explanation: "COP15 of the Convention on Migratory Species was held at Campo Grande in Brazil."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-07
+  difficulty: medium
+  stem: "The first National Highways Green Cover Index was prepared by the NHAI together with"
+  options: { A: "the National Remote Sensing Centre", B: "the Forest Survey of India", C: "the Wildlife Institute of India", D: "the Central Pollution Control Board" }
+  answer: A
+  explanation: "The index uses satellite data and was prepared with ISRO's National Remote Sensing Centre."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-08
+  difficulty: medium
+  stem: "A Great Indian Bustard chick hatched after a decade in March 2026, through the 'jumpstart' method, in"
+  options: { A: "Jaisalmer, Rajasthan", B: "Solapur, Maharashtra", C: "Kutch, Gujarat", D: "Ballari, Karnataka" }
+  answer: C
+  explanation: "An egg from the captive breeding programme was placed in a wild bird's nest in Kutch, Gujarat, where it hatched."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-09
+  difficulty: hard
+  stem: "India's first full checklist of fireflies, published in March 2026, lists"
+  options: { A: "27 species in 9 genera", B: "142 species in 23 genera", C: "70 species in 22 genera", D: "92 species in 27 genera" }
+  answer: D
+  explanation: "The checklist records 92 species in 27 genera, with the Western Ghats the richest region."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-10
+  difficulty: hard
+  stem: "India's Seventh National Report to the Convention on Biological Diversity puts the country's forest and tree cover at"
+  options: { A: "21.76 per cent", B: "25.17 per cent", C: "29.77 per cent", D: "33.0 per cent" }
+  answer: B
+  explanation: "The report gives forest and tree cover as 25.17 per cent of India's area."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-11
+  difficulty: hard
+  stem: "The 'Bhavasagara' centre, made India's first National Repository for Deep-Sea Fauna, belongs to"
+  options: { A: "CMLRE, Kochi", B: "NIOT, Chennai", C: "NIO, Goa", D: "ZSI, Kolkata" }
+  answer: A
+  explanation: "Bhavasagara is the referral centre of the Centre for Marine Living Resources and Ecology (CMLRE), Kochi."
+  tags: ["2026-03"]
+
+- slug: ca-2603-env-12
+  difficulty: hard
+  stem: "Under the standards notified by the Ministry of New and Renewable Energy, 'green ammonia' may emit at most how much CO2 equivalent per kg?"
+  options: { A: "2 kg", B: "0.44 kg", C: "0.38 kg", D: "1 kg" }
+  answer: C
+  explanation: "The limit is 0.38 kg for green ammonia and 0.44 kg for green methanol."
+  tags: ["2026-03"]

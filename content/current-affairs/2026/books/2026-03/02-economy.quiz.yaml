@@ -1,0 +1,96 @@
+# Section 2 — Economy & Banking (March 2026)
+- slug: ca-2603-eco-01
+  difficulty: easy
+  stem: "The retail inflation target retained by the Government for 1 April 2026 to 31 March 2031 is"
+  options: { A: "2 per cent", B: "3 per cent", C: "4 per cent", D: "5 per cent" }
+  answer: C
+  explanation: "The target stays at 4 per cent, with a tolerance band of 2 to 6 per cent."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-02
+  difficulty: easy
+  stem: "According to the Hurun Global Rich List 2026, who is the richest Indian?"
+  options: { A: "Mukesh Ambani", B: "Gautam Adani", C: "Shiv Nadar", D: "Cyrus Poonawalla" }
+  answer: A
+  explanation: "Mukesh Ambani remained the richest Indian; India had 308 billionaires, the third-highest number in the world."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-03
+  difficulty: easy
+  stem: "Which airport in Tamil Nadu did the Cabinet approve as an international airport in March 2026?"
+  options: { A: "Salem", B: "Madurai", C: "Thoothukudi", D: "Vellore" }
+  answer: B
+  explanation: "The Union Cabinet approved declaring Madurai airport an international airport."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-04
+  difficulty: easy
+  stem: "India's first LPG ATM was launched by BPCL in"
+  options: { A: "Pune", B: "Lucknow", C: "Kochi", D: "Gurugram" }
+  answer: D
+  explanation: "Bharat Petroleum launched the country's first LPG ATM as a pilot in Gurugram, Haryana."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-05
+  difficulty: medium
+  stem: "The Economic Stabilisation Fund announced by the Finance Minister in March 2026 has a size of"
+  options: { A: "Rs 1 lakh crore", B: "Rs 50,000 crore", C: "Rs 33,660 crore", D: "Rs 28,840 crore" }
+  answer: A
+  explanation: "The fund of Rs 1 lakh crore was announced along with the second batch of Supplementary Demands for Grants for 2025-26."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-06
+  difficulty: medium
+  stem: "The BHAVYA scheme approved by the Cabinet aims to build"
+  options: { A: "100 airports from unused airstrips", B: "200 helipads in hill States", C: "28 logistics hubs along freight corridors", D: "100 plug-and-play industrial parks" }
+  answer: D
+  explanation: "Bharat Audyogik Vikas Yojna (BHAVYA), with Rs 33,660 crore, will set up 100 plug-and-play industrial parks through the NICDC."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-07
+  difficulty: medium
+  stem: "Which port became the first in India to launch a Digital Twin of its operations?"
+  options: { A: "Jawaharlal Nehru Port", B: "Deendayal Port", C: "V.O. Chidambaranar Port", D: "Paradip Port" }
+  answer: C
+  explanation: "V.O. Chidambaranar Port in Tamil Nadu, formerly Tuticorin Port, was the first to launch a Digital Twin."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-08
+  difficulty: medium
+  stem: "India's strategic petroleum reserves are located at Visakhapatnam, Mangaluru and"
+  options: { A: "Jamnagar", B: "Padur", C: "Kochi", D: "Haldia" }
+  answer: B
+  explanation: "The three reserves at Visakhapatnam, Mangaluru and Padur together hold about 5.33 million tonnes."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-09
+  difficulty: hard
+  stem: "The RELIEF scheme of Rs 497 crore, launched after the West Asia crisis, gives exporters insurance cover through"
+  options: { A: "EXIM Bank", B: "SIDBI", C: "ECGC", D: "NABARD" }
+  answer: C
+  explanation: "The Commerce Ministry's RELIEF scheme gives credit insurance to affected exporters through ECGC."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-10
+  difficulty: hard
+  stem: "Under the relaxed Press Note 3 of 2020, investors from land-border countries can hold, through the automatic route, non-controlling beneficial ownership of up to"
+  options: { A: "10 per cent", B: "5 per cent", C: "26 per cent", D: "49 per cent" }
+  answer: A
+  explanation: "The Cabinet allowed up to 10 per cent non-controlling beneficial ownership from land-border countries under the automatic route."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-11
+  difficulty: hard
+  stem: "The first export consignment of GI-tagged Joha rice from Assam was sent to"
+  options: { A: "Japan and South Korea", B: "the United Arab Emirates and Oman", C: "the United States and Canada", D: "the United Kingdom and Italy" }
+  answer: D
+  explanation: "APEDA helped send the first consignment of Assam's aromatic Joha rice to the United Kingdom and Italy."
+  tags: ["2026-03"]
+
+- slug: ca-2603-eco-12
+  difficulty: hard
+  stem: "The Modified UDAN scheme approved by the Cabinet has an outlay of Rs 28,840 crore for the period"
+  options: { A: "2026–2031", B: "2026–2036", C: "2025–2030", D: "2026–2047" }
+  answer: B
+  explanation: "The Modified UDAN regional connectivity scheme runs from 2026 to 2036 and plans 100 airports and 200 helipads."
+  tags: ["2026-03"]

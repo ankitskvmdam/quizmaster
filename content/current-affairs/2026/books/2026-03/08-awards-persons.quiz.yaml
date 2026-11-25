@@ -1,0 +1,96 @@
+# Section 8 — Awards, Appointments & Persons in News (March 2026)
+- slug: ca-2603-aps-01
+  difficulty: easy
+  stem: "Who was chosen for the 60th Jnanpith Award?"
+  options: { A: "Vairamuthu", B: "Mamta Kalia", C: "Vinod Kumar Shukla", D: "Perumal Murugan" }
+  answer: A
+  explanation: "The Tamil poet Vairamuthu was chosen for the 60th Jnanpith Award, the third Tamil writer to win it."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-02
+  difficulty: easy
+  stem: "Which film won Best Picture at the 98th Academy Awards held on 15 March 2026?"
+  options: { A: "Sinners", B: "Hamnet", C: "One Battle After Another", D: "Sentimental Value" }
+  answer: C
+  explanation: "'One Battle After Another', directed by Paul Thomas Anderson, won Best Picture."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-03
+  difficulty: easy
+  stem: "International Women's Day is observed on"
+  options: { A: "3 March", B: "8 March", C: "20 March", D: "22 March" }
+  answer: B
+  explanation: "International Women's Day falls on 8 March; the 2026 UN theme was 'Rights. Justice. Action. For ALL Women and Girls.'"
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-04
+  difficulty: easy
+  stem: "World Tuberculosis Day is observed on"
+  options: { A: "7 March", B: "16 March", C: "22 March", D: "24 March" }
+  answer: D
+  explanation: "World Tuberculosis Day is 24 March; the 2026 theme was 'Yes! We Can End TB'."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-05
+  difficulty: medium
+  stem: "The Sahitya Akademi Award 2025 for Hindi went to Mamta Kalia for"
+  options: { A: "Crimson Spring", B: "Hara Parbati Katha", C: "Karuna", D: "Jeete Jee Allahabad" }
+  answer: D
+  explanation: "Mamta Kalia won for her memoir 'Jeete Jee Allahabad'; 'Crimson Spring' is Navtej Sarna's English novel."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-06
+  difficulty: medium
+  stem: "The Abel Prize 2026 was awarded to"
+  options: { A: "Michel Talagrand", B: "Gerd Faltings", C: "Masaki Kashiwara", D: "Terence Tao" }
+  answer: B
+  explanation: "The German mathematician Gerd Faltings won the Abel Prize 2026."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-07
+  difficulty: medium
+  stem: "Who was given additional charge as CEO of NITI Aayog in March 2026?"
+  options: { A: "Nidhi Chhibber", B: "Suman Bery", C: "Parameswaran Iyer", D: "Vir Vikram Yadav" }
+  answer: A
+  explanation: "Nidhi Chhibber took additional charge after B.V.R. Subrahmanyam completed his term."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-08
+  difficulty: medium
+  stem: "The theme of World Water Day 2026 was"
+  options: { A: "Industry for Water", B: "Water for Peace", C: "Water and Gender", D: "Glacier Preservation" }
+  answer: C
+  explanation: "World Water Day, 22 March, had the 2026 theme 'Water and Gender'."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-09
+  difficulty: hard
+  stem: "The Saraswati Samman 2025 went to Ramkumar Mukhopadhyay, who writes in"
+  options: { A: "Odia", B: "Assamese", C: "Bengali", D: "Maithili" }
+  answer: C
+  explanation: "The Bengali writer Ramkumar Mukhopadhyay won for his novel 'Hara Parbati Katha'."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-10
+  difficulty: hard
+  stem: "The World Food Prize 2026 was awarded to"
+  options: { A: "Mariangela Hungria", B: "Huub Lelieveld", C: "Sanjaya Rajaram", D: "Geoffrey Hawtin" }
+  answer: B
+  explanation: "Huub Lelieveld of the Netherlands won the World Food Prize 2026 for his work on food safety."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-11
+  difficulty: hard
+  stem: "Who was chosen for the Sangita Kalanidhi award of the Music Academy, Madras, in March 2026?"
+  options: { A: "Malavika Sarukkai", B: "Bombay Jayashri", C: "T.M. Krishna", D: "Jayanthi Kumaresh" }
+  answer: D
+  explanation: "The veena player Jayanthi Kumaresh was chosen for the Sangita Kalanidhi; Malavika Sarukkai was chosen for the Nritya Kalanidhi."
+  tags: ["2026-03"]
+
+- slug: ca-2603-aps-12
+  difficulty: hard
+  stem: "Which country was the focus country of the first International Film Festival of Delhi, held from 25 to 31 March 2026?"
+  options: { A: "Spain", B: "France", C: "Norway", D: "Japan" }
+  answer: A
+  explanation: "The first International Film Festival of Delhi, held at Bharat Mandapam, had Spain as its focus country."
+  tags: ["2026-03"]

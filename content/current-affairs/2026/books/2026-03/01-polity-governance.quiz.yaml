@@ -1,0 +1,96 @@
+# Section 1 — Polity & Governance (March 2026)
+- slug: ca-2603-pol-01
+  difficulty: easy
+  stem: "Who became the Lieutenant Governor of Delhi in the reshuffle of March 2026?"
+  options: { A: "Vinai Kumar Saxena", B: "Taranjit Singh Sandhu", C: "Kavinder Gupta", D: "R.N. Ravi" }
+  answer: B
+  explanation: "Former diplomat Taranjit Singh Sandhu became Lieutenant Governor of Delhi; Vinai Kumar Saxena moved from Delhi to Ladakh."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-02
+  difficulty: easy
+  stem: "The mascots of Census 2027, unveiled in March 2026, are named"
+  options: { A: "Pragati and Vikas", B: "Jan and Gan", C: "Bharat and Bharati", D: "Asha and Vishwas" }
+  answer: A
+  explanation: "Home Minister Amit Shah unveiled Pragati (female) and Vikas (male) as the mascots of Census 2027."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-03
+  difficulty: easy
+  stem: "In March 2026 the Supreme Court allowed passive euthanasia for the first time for a particular patient. The case was that of"
+  options: { A: "Aruna Shanbaug", B: "Prabhu Kumar", C: "Chinthada Anand", D: "Harish Rana" }
+  answer: D
+  explanation: "The Court allowed withdrawal of life support for Harish Rana, applying its Common Cause (2018) guidelines to an individual for the first time."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-04
+  difficulty: easy
+  stem: "Who was named brand ambassador of Census 2027?"
+  options: { A: "Amitabh Bachchan", B: "Sachin Tendulkar", C: "Sudarsan Pattnaik", D: "Kailash Satyarthi" }
+  answer: C
+  explanation: "The Ministry of Home Affairs named sand artist Sudarsan Pattnaik as brand ambassador of Census 2027."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-05
+  difficulty: medium
+  stem: "Who was appointed chairperson of the Lok Sabha Committee of Privileges with effect from 3 March 2026?"
+  options: { A: "Ravi Shankar Prasad", B: "Jagdambika Pal", C: "Nishikant Dubey", D: "Sunil Kumar Singh" }
+  answer: A
+  explanation: "Speaker Om Birla reconstituted the 15-member Committee of Privileges with Ravi Shankar Prasad as chairperson."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-06
+  difficulty: medium
+  stem: "Census 2027 will count caste in the decennial census for the first time since"
+  options: { A: "1921", B: "1941", C: "1951", D: "1931" }
+  answer: D
+  explanation: "Caste was last counted in the census of 1931; Census 2027 is also the first fully digital census."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-07
+  difficulty: medium
+  stem: "The Transgender Persons (Protection of Rights) Amendment Bill, 2026 received the President's assent on"
+  options: { A: "24 March 2026", B: "25 March 2026", C: "30 March 2026", D: "16 March 2026" }
+  answer: C
+  explanation: "The Lok Sabha passed the Bill on 24 March, the Rajya Sabha on 25 March, and the President gave assent on 30 March 2026."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-08
+  difficulty: medium
+  stem: "The 'guillotine', used by the Lok Sabha in March 2026, refers to"
+  options: { A: "ending a debate by a closure motion", B: "putting all remaining Demands for Grants to vote together without discussion", C: "the lapse of a Bill when the House is dissolved", D: "suspending a member for disorderly conduct" }
+  answer: B
+  explanation: "By the guillotine the Lok Sabha passed Demands for Grants of over Rs 53 lakh crore for 2026-27 without discussing each of them."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-09
+  difficulty: hard
+  stem: "While giving adoptive mothers maternity leave whatever the child's age, the Supreme Court struck down a provision of the"
+  options: { A: "Maternity Benefit Act, 1961", B: "Juvenile Justice Act, 2015", C: "Code on Wages, 2019", D: "Code on Social Security, 2020" }
+  answer: D
+  explanation: "The Court struck down Section 60(4) of the Code on Social Security, 2020, which limited the benefit by the age of the adopted child."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-10
+  difficulty: hard
+  stem: "In which case did the Supreme Court hold in March 2026 that Scheduled Caste status is lost on conversion to a religion other than Hinduism, Sikhism or Buddhism?"
+  options: { A: "Prabhu Kumar v. State of Himachal Pradesh", B: "Chinthada Anand v. State of Andhra Pradesh", C: "Common Cause v. Union of India", D: "Vikash Kumar v. UPSC" }
+  answer: B
+  explanation: "In Chinthada Anand v. State of Andhra Pradesh the Court held that SC status is open only to those professing Hinduism, Sikhism or Buddhism."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-11
+  difficulty: hard
+  stem: "The Cabinet extended the IVFRT scheme up to 31 March 2031. Which ministry runs it, and with what outlay?"
+  options: { A: "Ministry of Home Affairs, Rs 1,800 crore", B: "Ministry of External Affairs, Rs 1,800 crore", C: "Ministry of Home Affairs, Rs 2,584 crore", D: "Ministry of Tourism, Rs 497 crore" }
+  answer: A
+  explanation: "The Immigration, Visa, Foreigners Registration and Tracking scheme belongs to the Ministry of Home Affairs and was extended with Rs 1,800 crore."
+  tags: ["2026-03"]
+
+- slug: ca-2603-pol-12
+  difficulty: hard
+  stem: "Under which Article can the Chief Election Commissioner be removed only in the manner of a Supreme Court judge?"
+  options: { A: "Article 61", B: "Article 338B", C: "Article 324(5)", D: "Article 124(2)" }
+  answer: C
+  explanation: "Article 324(5) protects the Chief Election Commissioner; in March 2026 the Opposition considered a removal motion against CEC Gyanesh Kumar."
+  tags: ["2026-03"]

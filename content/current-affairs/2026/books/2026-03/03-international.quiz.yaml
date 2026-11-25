@@ -1,0 +1,96 @@
+# Section 3 — International Relations (March 2026)
+- slug: ca-2603-int-01
+  difficulty: easy
+  stem: "Who was named the third Supreme Leader of Iran on 8 March 2026?"
+  options: { A: "Alireza Arafi", B: "Masoud Pezeshkian", C: "Hassan Rouhani", D: "Mojtaba Khamenei" }
+  answer: D
+  explanation: "Mojtaba Khamenei succeeded his father Ali Khamenei as Iran's third Supreme Leader."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-02
+  difficulty: easy
+  stem: "Who became Nepal's youngest Prime Minister in March 2026?"
+  options: { A: "Balendra Shah", B: "Rabi Lamichhane", C: "K.P. Sharma Oli", D: "Gagan Thapa" }
+  answer: A
+  explanation: "Balendra (Balen) Shah of the Rastriya Swatantra Party became Prime Minister at the age of 35."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-03
+  difficulty: easy
+  stem: "Who was the chief guest at the 11th Raisina Dialogue in New Delhi?"
+  options: { A: "Mark Carney", B: "Alexander Stubb", C: "Mette Frederiksen", D: "Anthony Albanese" }
+  answer: B
+  explanation: "Finland's President Alexander Stubb was chief guest at the 11th Raisina Dialogue."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-04
+  difficulty: easy
+  stem: "The 14th Ministerial Conference of the WTO (MC14) was held in"
+  options: { A: "Geneva, Switzerland", B: "Abu Dhabi, UAE", C: "Yaoundé, Cameroon", D: "Nairobi, Kenya" }
+  answer: C
+  explanation: "MC14 was held at Yaoundé in Cameroon and ended without consensus."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-05
+  difficulty: medium
+  stem: "The Iranian frigate IRIS Dena was sunk by a US submarine in March 2026 off the coast of"
+  options: { A: "Oman", B: "Sri Lanka", C: "Maldives", D: "Yemen" }
+  answer: B
+  explanation: "IRIS Dena was torpedoed about 40 nautical miles off Galle, Sri Lanka, while returning from Visakhapatnam."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-06
+  difficulty: medium
+  stem: "Kharg Island, bombed by the United States in March 2026, is important because it"
+  options: { A: "houses Iran's main uranium enrichment plant", B: "is the headquarters of the US Fifth Fleet", C: "controls the entrance to the Red Sea", D: "handles about 90 per cent of Iran's crude oil exports" }
+  answer: D
+  explanation: "Kharg Island in the Persian Gulf is Iran's main oil export terminal, handling about 90 per cent of its crude exports."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-07
+  difficulty: medium
+  stem: "India and Canada set a goal of raising their trade by 2030 to"
+  options: { A: "USD 50 billion", B: "USD 25 billion", C: "USD 100 billion", D: "USD 68 billion" }
+  answer: A
+  explanation: "During Mark Carney's visit the two countries agreed to restart CEPA talks and aim for USD 50 billion in trade by 2030."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-08
+  difficulty: medium
+  stem: "Which country became the first in Southeast Asia to ban social media for children under 16?"
+  options: { A: "Malaysia", B: "Vietnam", C: "Indonesia", D: "Thailand" }
+  answer: C
+  explanation: "Indonesia banned social media accounts for children under 16 and asked platforms to verify age."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-09
+  difficulty: hard
+  stem: "With which Canadian company did India's Department of Atomic Energy sign a USD 2.6 billion uranium contract?"
+  options: { A: "Bombardier", B: "Brookfield", C: "Nutrien", D: "Cameco" }
+  answer: D
+  explanation: "The long-term contract for uranium ore concentrates was signed with Cameco of Canada."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-10
+  difficulty: hard
+  stem: "The cross-border operation launched by Pakistan against Afghan Taliban forces in March 2026 was named"
+  options: { A: "Ghazab Lil Haq", B: "Epic Fury", C: "True Promise", D: "Zarb-e-Azb" }
+  answer: A
+  explanation: "Pakistan named its operation across the Durand Line 'Ghazab Lil Haq'; Epic Fury was the US campaign against Iran."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-11
+  difficulty: hard
+  stem: "The core members of the 'Hexagon of Alliances' proposed by Israel are India, Israel and"
+  options: { A: "Egypt and Jordan", B: "Greece and Cyprus", C: "the UAE and Bahrain", D: "Italy and France" }
+  answer: B
+  explanation: "Israel named India, Israel, Greece and Cyprus as the core of the proposed six-sided grouping."
+  tags: ["2026-03"]
+
+- slug: ca-2603-int-12
+  difficulty: hard
+  stem: "The two trade investigations opened by the United States in March 2026 that name India were launched under"
+  options: { A: "Section 232 of the Trade Expansion Act, 1962", B: "the International Emergency Economic Powers Act", C: "Section 301 of the Trade Act, 1974", D: "Section 201 of the Trade Act, 1974" }
+  answer: C
+  explanation: "Both probes, on excess manufacturing capacity and on forced labour, were opened under Section 301 of the Trade Act, 1974."
+  tags: ["2026-03"]

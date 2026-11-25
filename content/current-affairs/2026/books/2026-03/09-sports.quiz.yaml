@@ -1,0 +1,96 @@
+# Section 9 — Sports (March 2026)
+- slug: ca-2603-spo-01
+  difficulty: easy
+  stem: "Which team did India beat in the final of the ICC Men's T20 World Cup on 8 March 2026?"
+  options: { A: "South Africa", B: "Australia", C: "New Zealand", D: "England" }
+  answer: C
+  explanation: "India beat New Zealand by 96 runs at the Narendra Modi Stadium, Ahmedabad."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-02
+  difficulty: easy
+  stem: "Who was Player of the Tournament at the ICC Men's T20 World Cup 2026?"
+  options: { A: "Sanju Samson", B: "Jasprit Bumrah", C: "Suryakumar Yadav", D: "Finn Allen" }
+  answer: A
+  explanation: "Sanju Samson, with 321 runs, was Player of the Tournament; Jasprit Bumrah was Player of the Match in the final."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-03
+  difficulty: easy
+  stem: "Which Indian player was runner-up in men's singles at the All England Open 2026?"
+  options: { A: "H.S. Prannoy", B: "Kidambi Srikanth", C: "Priyanshu Rajawat", D: "Lakshya Sen" }
+  answer: D
+  explanation: "Lakshya Sen lost the final to Lin Chun-yi of Chinese Taipei."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-04
+  difficulty: easy
+  stem: "The first Khelo India Tribal Games began in March 2026 in"
+  options: { A: "Jharkhand", B: "Chhattisgarh", C: "Odisha", D: "Madhya Pradesh" }
+  answer: B
+  explanation: "The games began on 25 March 2026 at Raipur, Jagdalpur and Surguja in Chhattisgarh."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-05
+  difficulty: medium
+  stem: "With its win in 2026, India became the first team to win the men's T20 World Cup how many times?"
+  options: { A: "Two", B: "Three", C: "Four", D: "Five" }
+  answer: B
+  explanation: "India won in 2007, 2024 and 2026, becoming the first team with three titles."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-06
+  difficulty: medium
+  stem: "Who won the Polly Umrigar Award for best international cricketer (men) at the BCCI Naman Awards 2026?"
+  options: { A: "Virat Kohli", B: "Jasprit Bumrah", C: "Harshit Rana", D: "Shubman Gill" }
+  answer: D
+  explanation: "Shubman Gill won the men's award and Smriti Mandhana the women's."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-07
+  difficulty: medium
+  stem: "Who won the season-opening Australian Grand Prix on 8 March 2026?"
+  options: { A: "George Russell", B: "Max Verstappen", C: "Lando Norris", D: "Charles Leclerc" }
+  answer: A
+  explanation: "George Russell of Mercedes won the race at Melbourne."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-08
+  difficulty: medium
+  stem: "Which country won the AFC Women's Asian Cup 2026?"
+  options: { A: "Australia", B: "China", C: "Japan", D: "South Korea" }
+  answer: C
+  explanation: "Japan beat hosts Australia 1–0 in the final at Sydney on 21 March 2026 for its third title."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-09
+  difficulty: hard
+  stem: "Finn Allen's century against South Africa, the fastest in T20 World Cup history, came in"
+  options: { A: "27 balls", B: "47 balls", C: "40 balls", D: "33 balls" }
+  answer: D
+  explanation: "Finn Allen reached his hundred in 33 balls in the semi-final at Eden Gardens, Kolkata."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-10
+  difficulty: hard
+  stem: "Who received the Major Dhyan Chand Lifetime Achievement Award at the Hockey India Annual Awards 2025?"
+  options: { A: "Zafar Iqbal", B: "Ajit Pal Singh", C: "Dhanraj Pillay", D: "Pargat Singh" }
+  answer: A
+  explanation: "Zafar Iqbal, a member of the 1980 Olympic gold-winning team, received the lifetime award."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-11
+  difficulty: hard
+  stem: "How many medals did India win at the World Para Athletics Grand Prix in New Delhi, a record that put it on top of the table?"
+  options: { A: "75", B: "159", C: "208", D: "255" }
+  answer: C
+  explanation: "India won 208 medals, including 75 gold."
+  tags: ["2026-03"]
+
+- slug: ca-2603-spo-12
+  difficulty: hard
+  stem: "The first National Indoor Athletics Championships were held on 24–25 March 2026 at"
+  options: { A: "Jawaharlal Nehru Stadium, New Delhi", B: "Kalinga Stadium, Bhubaneswar", C: "Netaji Subhas National Institute of Sports, Patiala", D: "Sree Kanteerava Stadium, Bengaluru" }
+  answer: B
+  explanation: "The championships were held at the Kalinga Stadium, Bhubaneswar."
+  tags: ["2026-03"]

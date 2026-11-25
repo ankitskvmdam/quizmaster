@@ -1,0 +1,96 @@
+# Section 4 — Science & Technology (March 2026)
+- slug: ca-2603-sci-01
+  difficulty: easy
+  stem: "Which city was chosen in March 2026 to host a high-energy proton accelerator for India's nuclear programme?"
+  options: { A: "Visakhapatnam", B: "Kalpakkam", C: "Indore", D: "Hyderabad" }
+  answer: A
+  explanation: "Visakhapatnam was chosen for the proton accelerator, which will help India use its thorium."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-02
+  difficulty: easy
+  stem: "NavIC, which lost another atomic clock in March 2026, is India's"
+  options: { A: "weather forecasting system", B: "deep-sea exploration mission", C: "satellite navigation system", D: "quantum communication network" }
+  answer: C
+  explanation: "NavIC is India's regional satellite navigation system; after the failure on IRNSS-1F only four satellites give positioning."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-03
+  difficulty: easy
+  stem: "Which was the first Indian State to float a tender for its own earth-observation satellites?"
+  options: { A: "Kerala", B: "Assam", C: "Gujarat", D: "Karnataka" }
+  answer: B
+  explanation: "Assam invited private firms to build and run at least 5 satellites under the name AssamSAT."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-04
+  difficulty: easy
+  stem: "According to the WHO's announcement of 10 March 2026, the first country in the Americas to eliminate leprosy is"
+  options: { A: "Brazil", B: "Cuba", C: "Argentina", D: "Chile" }
+  answer: D
+  explanation: "The WHO verified Chile as the first country in the Americas to eliminate leprosy."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-05
+  difficulty: medium
+  stem: "The Xi-cc-plus baryon discovered at CERN is made of"
+  options: { A: "two up quarks and one down quark", B: "two charm quarks and one up quark", C: "one charm quark and two strange quarks", D: "two charm quarks and one down quark" }
+  answer: D
+  explanation: "The LHCb experiment found the Xi-cc-plus, a baryon with two charm quarks and one down quark."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-06
+  difficulty: medium
+  stem: "CALM-Brain, launched in Bengaluru, is India's first digital repository of"
+  options: { A: "psychiatric disorders", B: "rare genetic diseases", C: "cancer genomes", D: "traditional medicines" }
+  answer: A
+  explanation: "CALM-Brain, developed by NIMHANS and NCBS-TIFR, is an open database on major psychiatric disorders."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-07
+  difficulty: medium
+  stem: "The trainset of India's first hydrogen train was built by"
+  options: { A: "Rail Coach Factory, Kapurthala", B: "Integral Coach Factory, Chennai", C: "Modern Coach Factory, Raebareli", D: "BEML, Bengaluru" }
+  answer: B
+  explanation: "The 10-coach hydrogen trainset was built by the Integral Coach Factory, Chennai, and tested by RDSO."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-08
+  difficulty: medium
+  stem: "LIGO-India, the country's first gravitational wave observatory, is being built in"
+  options: { A: "Hanle, Ladakh", B: "Theni, Tamil Nadu", C: "Hingoli, Maharashtra", D: "Pokhran, Rajasthan" }
+  answer: C
+  explanation: "LIGO-India is coming up in Hingoli district of Maharashtra, with completion targeted for 2030."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-09
+  difficulty: hard
+  stem: "The proton accelerator project at Visakhapatnam is being developed by"
+  options: { A: "Bhabha Atomic Research Centre, Mumbai", B: "Indira Gandhi Centre for Atomic Research, Kalpakkam", C: "Raja Ramanna Centre for Advanced Technology, Indore", D: "Variable Energy Cyclotron Centre, Kolkata" }
+  answer: C
+  explanation: "RRCAT, Indore, under the Department of Atomic Energy, is developing the accelerator."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-10
+  difficulty: hard
+  stem: "The Akasha300 3D printer was delivered to which ISRO centre?"
+  options: { A: "Liquid Propulsion Systems Centre, Valiyamala", B: "Satish Dhawan Space Centre, Sriharikota", C: "U.R. Rao Satellite Centre, Bengaluru", D: "Space Applications Centre, Ahmedabad" }
+  answer: A
+  explanation: "The Kerala startup Spacetime 4D delivered the Akasha300 to the Liquid Propulsion Systems Centre at Valiyamala."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-11
+  difficulty: hard
+  stem: "GARBH-INi, which runs India's largest pregnancy cohort study to predict preterm births, is a programme of the"
+  options: { A: "Indian Council of Medical Research", B: "Department of Biotechnology", C: "Department of Health Research", D: "NITI Aayog" }
+  answer: B
+  explanation: "GARBH-INi is a flagship programme of the Department of Biotechnology and tracks about 12,000 pregnant women."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sci-12
+  difficulty: hard
+  stem: "How many academic institutions were approved in March 2026 to set up quantum teaching labs under the National Quantum Mission?"
+  options: { A: "4", B: "12", C: "50", D: "23" }
+  answer: D
+  explanation: "The Government approved 23 institutions for quantum teaching labs under the mission, which has an outlay of Rs 6,003 crore."
+  tags: ["2026-03"]

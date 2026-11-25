@@ -1,0 +1,96 @@
+# Section 10 — Bihar Current Affairs (March 2026)
+- slug: ca-2603-bih-01
+  difficulty: easy
+  stem: "Who was sworn in as the 43rd Governor of Bihar in March 2026?"
+  options: { A: "Arif Mohammed Khan", B: "Syed Ata Hasnain", C: "Rajendra Vishwanath Arlekar", D: "Nand Kishore Yadav" }
+  answer: B
+  explanation: "Lt Gen (retd) Syed Ata Hasnain took oath as the 43rd Governor of Bihar."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-02
+  difficulty: easy
+  stem: "Bihar Diwas is celebrated every year on"
+  options: { A: "15 November", B: "1 April", C: "26 January", D: "22 March" }
+  answer: D
+  explanation: "Bihar Diwas on 22 March marks the State's foundation day; 2026 was the 114th."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-03
+  difficulty: easy
+  stem: "To which House was Bihar Chief Minister Nitish Kumar elected on 16 March 2026?"
+  options: { A: "Rajya Sabha", B: "Lok Sabha", C: "Bihar Legislative Assembly", D: "Bihar Legislative Council" }
+  answer: A
+  explanation: "Nitish Kumar was elected to the Rajya Sabha as the NDA won all five seats from Bihar."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-04
+  difficulty: easy
+  stem: "The new greenfield international airport approved by the Bihar cabinet in March 2026 will come up at"
+  options: { A: "Bihta", B: "Rajgir", C: "Sonepur", D: "Bhagalpur" }
+  answer: C
+  explanation: "The airport is planned at Sonepur in Saran district on about 4,200 acres, with completion targeted for 2030."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-05
+  difficulty: medium
+  stem: "The theme of Bihar Diwas 2026 was"
+  options: { A: "Yuva Shakti, Bihar ki Pragati", B: "Jal-Jeevan-Hariyali", C: "Unnat Bihar, Ujjwal Bihar", D: "Viksit Bihar, Samriddh Bihar" }
+  answer: C
+  explanation: "Bihar Diwas 2026, the 114th foundation day, had the theme 'Unnat Bihar, Ujjwal Bihar'."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-06
+  difficulty: medium
+  stem: "Bihar's third zoo has been approved in which district?"
+  options: { A: "Gaya", B: "Nalanda", C: "Muzaffarpur", D: "Purnia" }
+  answer: A
+  explanation: "The third zoo will come up in Gaya district, after the zoos at Patna and Rajgir."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-07
+  difficulty: medium
+  stem: "The tunnel launched in Patna in March 2026 connects the Bihar Museum with"
+  options: { A: "Golghar", B: "the Patna Museum", C: "Sabhyata Dwar", D: "the Patna Planetarium" }
+  answer: B
+  explanation: "The tunnel of about 1.5 km joins the Bihar Museum and the Patna Museum."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-08
+  difficulty: medium
+  stem: "Two nuclear power plants are planned in Bihar at"
+  options: { A: "Buxar and Kaimur", B: "Pirpainti and Barauni", C: "Rajauli and Kahalgaon", D: "Nawada and Banka" }
+  answer: D
+  explanation: "The plants at Nawada and Banka will have a combined capacity of about 1,400 MW."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-09
+  difficulty: hard
+  stem: "Under the Bihar Semiconductor Policy 2026, land is offered at a token rate of"
+  options: { A: "Rs 1 per acre for every Rs 100 crore of project cost", B: "Rs 100 per acre for every Rs 1 crore of project cost", C: "Rs 1 lakh per acre for all projects", D: "Rs 1 per square foot for every Rs 10 crore of project cost" }
+  answer: A
+  explanation: "The policy offers land at Rs 1 per acre for every Rs 100 crore of project cost and aims for about Rs 25,000 crore of investment."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-10
+  difficulty: hard
+  stem: "Balirajgarh Fort, where the ASI approved a fresh excavation in March 2026, is in which district?"
+  options: { A: "Darbhanga", B: "Vaishali", C: "Rohtas", D: "Madhubani" }
+  answer: D
+  explanation: "Balirajgarh Fort is in Madhubani district; its fortification dates to about 200 BCE."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-11
+  difficulty: hard
+  stem: "In NITI Aayog's Fiscal Health Index 2026, Bihar moved from the 'Aspirational' category to"
+  options: { A: "Achiever", B: "Front-runner", C: "Performer", D: "Leader" }
+  answer: C
+  explanation: "Bihar moved up from 'Aspirational' to 'Performer' in the second edition of the index."
+  tags: ["2026-03"]
+
+- slug: ca-2603-bih-12
+  difficulty: hard
+  stem: "The Chief Minister's Samriddhi Yatra, which continued in March 2026, had begun on 16 January 2026 from"
+  options: { A: "Jamui", B: "Bettiah", C: "Araria", D: "Gaya" }
+  answer: B
+  explanation: "The yatra began from Bettiah in West Champaran; in Jamui it launched 370 projects worth Rs 914 crore."
+  tags: ["2026-03"]

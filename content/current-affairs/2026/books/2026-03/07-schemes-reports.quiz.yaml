@@ -1,0 +1,96 @@
+# Section 7 — Government Schemes, Reports & Indices (March 2026)
+- slug: ca-2603-sch-01
+  difficulty: easy
+  stem: "Which country topped the World Happiness Report 2026?"
+  options: { A: "Denmark", B: "Iceland", C: "Costa Rica", D: "Finland" }
+  answer: D
+  explanation: "Finland was ranked first for the 9th year in a row; India was 116th."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-02
+  difficulty: easy
+  stem: "The Cabinet in March 2026 extended the Jal Jeevan Mission up to"
+  options: { A: "March 2027", B: "December 2028", C: "March 2030", D: "December 2031" }
+  answer: B
+  explanation: "The mission, now called JJM 2.0, was extended to December 2028 with a total outlay of Rs 8.69 lakh crore."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-03
+  difficulty: easy
+  stem: "Jan Aushadhi Diwas is observed on"
+  options: { A: "7 March", B: "4 March", C: "16 March", D: "24 March" }
+  answer: A
+  explanation: "Jan Aushadhi Diwas falls on 7 March and promotes low-cost generic medicines sold through Jan Aushadhi Kendras."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-04
+  difficulty: easy
+  stem: "Which Union Territory became the second fully literate UT after Ladakh?"
+  options: { A: "Puducherry", B: "Lakshadweep", C: "Chandigarh", D: "Delhi" }
+  answer: C
+  explanation: "Chandigarh reached a literacy rate of 99.93 per cent under the ULLAS programme."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-05
+  difficulty: medium
+  stem: "Which State topped the major States in NITI Aayog's Fiscal Health Index 2026?"
+  options: { A: "Gujarat", B: "Goa", C: "Odisha", D: "Maharashtra" }
+  answer: C
+  explanation: "Odisha came first among the major States, followed by Goa and Jharkhand."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-06
+  difficulty: medium
+  stem: "India's rank in the World Happiness Report 2026 was"
+  options: { A: "116th", B: "99th", C: "104th", D: "126th" }
+  answer: A
+  explanation: "India was ranked 116th of 147 countries; Afghanistan was last."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-07
+  difficulty: medium
+  stem: "The PM E-DRIVE scheme, extended to 31 March 2028, is run by the"
+  options: { A: "Ministry of Road Transport and Highways", B: "Ministry of Power", C: "Ministry of New and Renewable Energy", D: "Ministry of Heavy Industries" }
+  answer: D
+  explanation: "PM E-DRIVE, with an outlay of Rs 10,900 crore, is a scheme of the Ministry of Heavy Industries for electric vehicles."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-08
+  difficulty: medium
+  stem: "The World Obesity Atlas 2026 found that India has the second-highest number of children with high BMI, after"
+  options: { A: "the United States", B: "China", C: "Brazil", D: "Indonesia" }
+  answer: B
+  explanation: "India has about 41 million children with high BMI, second only to China."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-09
+  difficulty: hard
+  stem: "The Small Hydro Power Development Scheme approved by the Cabinet has an outlay of"
+  options: { A: "Rs 2,584 crore", B: "Rs 1,800 crore", C: "Rs 10,900 crore", D: "Rs 497 crore" }
+  answer: A
+  explanation: "The scheme, for 2026-27 to 2030-31, has Rs 2,584 crore to add about 1,500 MW of small hydro capacity."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-10
+  difficulty: hard
+  stem: "The Centre paused rice fortification under PMGKAY after a study by"
+  options: { A: "ICAR", B: "the National Institute of Nutrition", C: "IIT Delhi", D: "IIT Kharagpur" }
+  answer: D
+  explanation: "An IIT Kharagpur study found that the added micronutrients decline when rice is stored for long."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-11
+  difficulty: hard
+  stem: "India's first nationwide survey to map manuscripts, begun in March 2026, is part of the"
+  options: { A: "National Mission on Libraries", B: "Gyan Bharatam Mission", C: "Bhasha Sangam programme", D: "PM SETU scheme" }
+  answer: B
+  explanation: "The Ministry of Culture's three-month survey feeds a national digital repository under the Gyan Bharatam Mission."
+  tags: ["2026-03"]
+
+- slug: ca-2603-sch-12
+  difficulty: hard
+  stem: "Which State became the 12th to sign the reform-linked agreement under Jal Jeevan Mission 2.0?"
+  options: { A: "Sikkim", B: "Assam", C: "Meghalaya", D: "Tripura" }
+  answer: C
+  explanation: "Meghalaya became the 12th State to sign the agreement under JJM 2.0."
+  tags: ["2026-03"]
