@@ -4,37 +4,64 @@ number: 8
 title: "Awards, Appointments & Persons in News"
 covers: ["."]
 ---
-## Gist
-The Prime Minister collected three honours on his tour of Europe: Sweden's **Royal Order of the Polar Star**, Norway's **Grand Cross of the Royal Norwegian Order of Merit** and the **Agricola Medal** of the FAO. At home, the President gave away the first batch of the **Padma Awards 2026**.
+## At a glance: awards
 
-Indians won abroad too: two journalists shared a **Pulitzer Prize**, **Parveen Shaikh** won the Whitley Award for saving the Indian Skimmer, and **Major Abhilasha Barak** was named the UN's Military Gender Advocate of the Year. The **International Booker Prize** went to a novel from Taiwan and the top prize at Cannes to a Romanian film.
+| Award | Winner | Note |
+| --- | --- | --- |
+| Royal Order of the Polar Star (Commander Grand Cross) | Prime Minister Narendra Modi | Conferred by Sweden. |
+| Grand Cross of the Royal Norwegian Order of Merit | Prime Minister Narendra Modi | Norway's highest civilian honour, presented by King Harald V in Oslo. |
+| FAO Agricola Medal 2026 | Prime Minister Narendra Modi | Received at the headquarters of the Food and Agriculture Organization (FAO) in Rome. |
+| Pulitzer Prize for Illustrated Reporting and Commentary | Anand RK and Suparna Sharma | For 'trAPPed', a Bloomberg project on "digital arrest" scams. |
+| International Booker Prize 2026 | Taiwan Travelogue by Yáng Shuāng-zǐ, translated by Lin King | The first winner originally written in Mandarin Chinese. |
+| Whitley Award 2026 (the "Green Oscar") | Parveen Shaikh | For community-led conservation of the Indian Skimmer along the Ganga. |
+| Palme d'Or, 79th Cannes Film Festival | Fjord, directed by Cristian Mungiu of Romania | The festival's top prize. |
+| UN Military Gender Advocate of the Year 2025 | Major Abhilasha Barak, Indian Army | She serves with UNIFIL in Lebanon. She is the third Indian to win it. |
+| 2026 Goddard Astronautics Award | ISRO's Chandrayaan-3 mission | — |
 
-Among appointments, note the new heads of **Prasar Bharati** and the **Central Board of Film Certification**, and two new members of NITI Aayog. The Urdu poet **Bashir Badr** died on 28 May.
+The Prime Minister received his three honours on his tour of Europe.
 
-## Key facts
-- Sweden conferred on Prime Minister Narendra Modi the **Royal Order of the Polar Star (Commander Grand Cross)**.
-- Norway conferred on the Prime Minister the **Grand Cross of the Royal Norwegian Order of Merit**, its highest civilian honour, presented by King Harald V in Oslo.
-- The Prime Minister received the **FAO Agricola Medal 2026** at the headquarters of the Food and Agriculture Organization in **Rome**.
-- President Droupadi Murmu conferred the **Padma Awards 2026** at Rashtrapati Bhavan; there are **131 awards**: 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri.
-- Indian journalists **Anand RK** and **Suparna Sharma** won the **Pulitzer Prize** for Illustrated Reporting and Commentary for **'trAPPed'**, a Bloomberg project on "digital arrest" scams.
-- The **International Booker Prize 2026** went to ***Taiwan Travelogue*** by **Yáng Shuāng-zǐ**, translated by **Lin King**; it is the first winner originally written in **Mandarin Chinese**.
-- **Parveen Shaikh** won the **Whitley Award 2026** (the "Green Oscar") for community-led conservation of the **Indian Skimmer** along the Ganga.
-- At the **79th Cannes Film Festival**, the **Palme d'Or** went to ***Fjord***, directed by **Cristian Mungiu** of Romania.
-- ***Elephants in the Fog*** became the **first Nepali film** to win an award at Cannes.
-- **Major Abhilasha Barak** of the Indian Army, serving with **UNIFIL in Lebanon**, was named the **UN Military Gender Advocate of the Year** for 2025; she is the third Indian to win it.
-- **Soumya Swaminathan** and **Manindra Agrawal** (Director, IIT Kanpur) were elected **Fellows of the Royal Society**.
-- ISRO's **Chandrayaan-3** mission received the **2026 Goddard Astronautics Award**.
-- Lyricist **Prasoon Joshi** was appointed **Chairman of Prasar Bharati**.
-- **Shashi Shekhar Vempati** succeeded Prasoon Joshi as **Chairperson of the Central Board of Film Certification (CBFC)**.
-- **Dr R. Balasubramaniam** and **Joram Aniya** were appointed full-time **Members of NITI Aayog**; Joram Aniya is the first woman from the North-East in the post.
-- Film-maker **Ashutosh Gowariker** was named **Festival Director of the 57th International Film Festival of India (IFFI)**, to be held in Goa.
-- **Raghav Chadha** was appointed Chairman of the **Rajya Sabha Committee on Petitions**.
-- Nepal's **Kami Rita Sherpa** climbed Mount Everest for a record **32nd time**; **Lhakpa Sherpa** made her **11th** ascent, the most by a woman.
-- Urdu poet **Bashir Badr**, a Padma Shri awardee, died in **Bhopal** on **28 May 2026** at the age of 91.
-- **Ted Turner**, founder of the news channel **CNN**, died in May 2026 at the age of 87.
-- **International Labour Day** (1 May) had the 2026 theme **"Ensuring a Healthy Psychosocial Working Environment"**.
-- **World Metrology Day** is **20 May**; the 2026 theme was **"Metrology: Building Trust in Policy Making"**.
-- **World No Tobacco Day** is **31 May**; the 2026 theme was **"Unmasking the Appeal: Countering Nicotine and Tobacco Addiction"**.
-- The sacred **Piprahwa relics of the Buddha** were displayed in **Ladakh** from 1 to 14 May 2026 under the theme **"Peace in Times of Conflict"**.
-- Vice President **C. P. Radhakrishnan** released the book ***The Library Man of India: The Story of P. N. Panicker***.
-- The **Andaman and Nicobar Islands** set a Guinness World Record for the **largest flag unfurled underwater**, at **Swaraj Dweep** (Havelock Island).
+## Other honours
+
+- **Padma Awards 2026:** President Droupadi Murmu conferred the first batch at Rashtrapati Bhavan. There are 131 awards in all: 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri.
+- **Elephants in the Fog:** It became the first Nepali film to win an award at Cannes.
+- **Royal Society:** Soumya Swaminathan and Manindra Agrawal, Director of IIT Kanpur, were elected Fellows of the Royal Society.
+
+## Appointments
+
+- **Prasoon Joshi:** The lyricist was appointed Chairman of Prasar Bharati.
+- **Shashi Shekhar Vempati:** He succeeded Prasoon Joshi as Chairperson of the Central Board of Film Certification (CBFC).
+- **NITI Aayog:** Dr R. Balasubramaniam and Joram Aniya were appointed full-time Members of NITI Aayog. Joram Aniya is the first woman from the North-East in the post.
+- **Ashutosh Gowariker:** The film-maker was named Festival Director of the 57th International Film Festival of India (IFFI), to be held in Goa.
+- **Raghav Chadha:** He was appointed Chairman of the Rajya Sabha Committee on Petitions.
+
+## Records
+
+- **Kami Rita Sherpa:** The climber from Nepal climbed Mount Everest for a record 32nd time.
+- **Lhakpa Sherpa:** She made her 11th ascent of Everest, the most by a woman.
+- **Underwater flag:** The Andaman and Nicobar Islands set a Guinness World Record for the largest flag unfurled underwater. It was at Swaraj Dweep (Havelock Island).
+
+## Days and events
+
+- **1 May:** International Labour Day had the 2026 theme "Ensuring a Healthy Psychosocial Working Environment".
+- **1 to 14 May 2026:** The sacred Piprahwa relics of the Buddha were displayed in Ladakh. The theme was "Peace in Times of Conflict".
+- **20 May:** World Metrology Day. The 2026 theme was "Metrology: Building Trust in Policy Making". Metrology is the science of measurement.
+- **31 May:** World No Tobacco Day. The 2026 theme was "Unmasking the Appeal: Countering Nicotine and Tobacco Addiction".
+- **The Library Man of India:** Vice President C. P. Radhakrishnan released the book "The Library Man of India: The Story of P. N. Panicker".
+
+## Deaths
+
+- **28 May 2026:** Urdu poet Bashir Badr, a Padma Shri awardee, died in Bhopal at the age of 91.
+- **Ted Turner:** The founder of the news channel CNN died in May 2026 at the age of 87.
+
+> **Remember**
+>
+> - **Royal Order of the Polar Star:** Sweden's honour for the Prime Minister.
+> - **Grand Cross of the Royal Norwegian Order of Merit:** Norway's highest civilian honour, for the Prime Minister.
+> - **131:** Padma Awards 2026, including 5 Padma Vibhushan.
+> - **Taiwan Travelogue:** International Booker Prize 2026, the first winner originally written in Mandarin Chinese.
+> - **Parveen Shaikh:** Whitley Award 2026 for the Indian Skimmer.
+> - **Fjord:** Palme d'Or at the 79th Cannes Film Festival.
+> - **Major Abhilasha Barak:** UN Military Gender Advocate of the Year, the third Indian to win it.
+> - **Prasoon Joshi:** Chairman of Prasar Bharati; Shashi Shekhar Vempati now heads the CBFC.
+> - **Joram Aniya:** First woman from the North-East as a Member of NITI Aayog.
+> - **32nd time:** Kami Rita Sherpa's record Everest climb.
