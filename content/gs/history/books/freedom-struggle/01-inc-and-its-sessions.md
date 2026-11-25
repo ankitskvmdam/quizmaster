@@ -4,65 +4,112 @@ number: 1
 title: "Indian National Congress and Its Sessions"
 covers: [modern]
 ---
-## Gist
-Before 1885, educated Indians had formed political bodies in each presidency: the **Indian Association** in Calcutta (**1876**, Surendranath Banerjea and Ananda Mohan Bose), the **Poona Sarvajanik Sabha**, the **Madras Mahajan Sabha (1884)** and the **Bombay Presidency Association (1885)**. They asked for more Indians in the services and councils, but each spoke only for its own region. Towards the end of the 19th century, writers also used history to build national pride: they refuted the British picture of Indians as backward and wrote about India's glorious past.
+## Political bodies before the Congress
 
-The **Indian National Congress** was the first all-India body. It met for the first time in **December 1885** at **Gokuldas Tejpal Sanskrit College, Bombay**, with **72 delegates**. **A.O. Hume**, a retired British civil servant, organised it, **W.C. Bonnerjee** presided, and **Lord Dufferin** was the Viceroy. Later, **Lala Lajpat Rai** argued that Hume had founded it as a **"safety valve"** to protect British rule from popular anger, and used this theory to attack the Moderates.
+Before 1885, educated Indians formed political bodies in the presidencies. These bodies asked for more Indians in the services and the councils. But each of them spoke only for its own region.
 
-For twenty years the **Moderates** (Naoroji, Gokhale, Surendranath Banerjea, Pherozeshah Mehta) led with petitions and resolutions. **Aurobindo Ghosh** criticised this in **"New Lamps for Old"**, and the **Extremists** (Lal, Bal, Pal) wanted boycott and mass action. At **Calcutta in 1906**, under **Dadabhai Naoroji**, the Congress declared **Swaraj** its goal; at **Surat in 1907** it split. The two wings came together again at **Lucknow in 1916**, where the Congress also made a pact with the Muslim League.
+| Body | Year | Key people |
+| --- | --- | --- |
+| British Indian Association, Calcutta | 1851 | — |
+| East India Association, London | 1866 | Dadabhai Naoroji |
+| Indian Association (Indian National Association), Calcutta | 1876 | Surendranath Banerjea and Ananda Mohan Bose |
+| Madras Mahajan Sabha | 1884 | M. Viraraghavachari, G. Subramania Iyer, P. Ananda Charlu |
+| Bombay Presidency Association | 1885 | Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji |
+| Poona Sarvajanik Sabha | — | M.G. Ranade and others |
 
-Under Gandhi the sessions marked each turn of the movement: **Nagpur 1920** adopted non-cooperation, **Gaya 1922** rejected council entry, **Lahore 1929** under **Jawaharlal Nehru** demanded **Purna Swaraj**, and **Karachi 1931** passed the resolution on **Fundamental Rights**. Exams ask the session, its year, its president and what it decided.
+- **British Indian Association:** It was formed by merging the Landholders' Society and the Bengal British India Society.
+- **Indian Association:** It was the most important body before the Congress. In 1883 it held the all-India Indian National Conference at Calcutta. The Conference merged with the Congress in 1886.
+- **History as a weapon:** Towards the end of the 19th century, nationalists reinterpreted history. They refuted the British view of Indians as backward and wrote about India's glorious past. They urged people to struggle to change their condition under British rule.
 
-Bihar hosted three sessions before independence: **Bankipore (Patna) 1912**, **Gaya 1922** and **Ramgarh 1940**. Bihar also gave the Congress presidents such as **Hasan Imam (1918)** and **Rajendra Prasad (1934)**.
+## Founding of the Congress (1885)
 
-## Key facts
-- **British Indian Association (1851)**, Calcutta: formed by merging the **Landholders' Society** and the **Bengal British India Society**.
-- **East India Association**: founded by **Dadabhai Naoroji** in **London** in **1866**.
-- **Indian Association (Indian National Association)**: founded in **Calcutta** in **1876** by **Surendranath Banerjea and Ananda Mohan Bose**; the most important pre-Congress body.
-- The Indian Association held the all-India **Indian National Conference** at Calcutta in **1883**; it merged with the Congress in **1886**.
-- **Poona Sarvajanik Sabha**: **M.G. Ranade** and others. **Madras Mahajan Sabha (1884)**: **M. Viraraghavachari, G. Subramania Iyer, P. Ananda Charlu**. **Bombay Presidency Association (1885)**: **Pherozeshah Mehta, K.T. Telang, Badruddin Tyabji**.
-- Towards the end of the 19th century, nationalists **reinterpreted history** to refute the British view of Indians as backward, wrote about India's **glorious past**, and urged people to struggle to change their condition under British rule.
-- **Indian National Congress founded in 1885**: first session in **December 1885** at **Gokuldas Tejpal Sanskrit College, Bombay**, with **72 delegates**.
-- Founder: **A.O. Hume**, a retired British civil servant. First president: **W.C. Bonnerjee**. Viceroy at the time: **Lord Dufferin**.
-- **Safety-valve theory**: the idea that Hume founded the Congress to protect British rule from popular discontent. **Lala Lajpat Rai** (in **Young India, 1916**) was the first to use it to attack the **Moderates**.
-- **1886, Calcutta**: president **Dadabhai Naoroji**. He presided three times: **1886, 1893 (Lahore) and 1906 (Calcutta)**.
-- **1887, Madras**: **Badruddin Tyabji**, the **first Muslim president**.
-- **1888, Allahabad**: **George Yule**, the **first English (European) president**.
-- **1896, Calcutta**: **Vande Mataram** was sung for the first time at a Congress session (president **Rahimtulla Sayani**).
-- **Aurobindo Ghosh** wrote the series **"New Lamps for Old"** in **Indu Prakash (1893–94)**, criticising the Moderate Congress.
-- **Servants of India Society**: founded by **Gopal Krishna Gokhale** in **1905** at Poona.
-- **1905, Banaras**: president **Gopal Krishna Gokhale**; the session supported the Swadeshi and boycott movement in Bengal.
-- **1906, Calcutta**: president **Dadabhai Naoroji**; **Swaraj** was declared the goal of the Congress, and exam sources credit Naoroji with unfurling the **flag of Swaraj** here. Resolutions on **swadeshi, boycott, national education and self-government** were passed.
-- **1907, Surat**: president **Rash Behari Ghosh**; the Congress **split** into Moderates and Extremists (the **Surat Split**).
-- Order of events: **Surat Split (1907)** → **Morley-Minto Reforms (1909)** → **Home Rule Movement (1916)** → **Kheda Satyagraha (1918)**.
-- **1911, Calcutta**: **Jana Gana Mana** was sung for the first time (president **Bishan Narayan Dar**).
-- **1912, Bankipore (Patna)**: president **R.N. Mudholkar**; the first Congress session held in Bihar. **Mazharul Haque** was chairman of the reception committee.
-- **1916, Lucknow**: president **Ambica Charan Mazumdar**; **Moderates and Extremists reunited**, and the **Lucknow Pact** was made with the Muslim League. Raj Kumar Shukla met Gandhi at this session and asked him to come to Champaran.
-- **Home Rule Leagues (1916)**: **Tilak's** in April and **Annie Besant's** in September.
-- **1917, Calcutta**: **Annie Besant**, the **first woman president** of the Congress.
-- **1918, Bombay (special session)**: president **Syed Hasan Imam** of Patna; it discussed the Montagu-Chelmsford proposals.
-- **1920**: the **special session at Calcutta** (president **Lala Lajpat Rai**) approved non-cooperation; the **Nagpur** session (president **C. Vijayaraghavachariar**) confirmed it.
-- **1922, Gaya**: president **Chittaranjan Das**; his proposal for council entry was defeated, and he then formed the **Swaraj Party** with Motilal Nehru.
-- **1923, Delhi (special session)**: **Maulana Abul Kalam Azad**, the **youngest president** of the Congress.
-- **1924, Belgaum**: **Mahatma Gandhi**; the **only session he presided over**.
-- **1925, Kanpur**: **Sarojini Naidu**, the **first Indian woman president**.
-- **1927, Madras**: president **M.A. Ansari**; the session decided to **boycott the Simon Commission**.
-- **1928, Calcutta**: president **Motilal Nehru**; the Nehru Report was taken up.
-- **1929, Lahore**: president **Jawaharlal Nehru**; the **Purna Swaraj (complete independence)** resolution was passed, and the tricolour was hoisted on the bank of the **Ravi** at midnight on **31 December 1929**.
-- **26 January 1930** was observed as the first **Independence Day (Purna Swaraj Day)**.
-- **1931, Karachi**: president **Vallabhbhai Patel**; resolutions on **Fundamental Rights and the National Economic Programme** were passed for the first time, and the Gandhi-Irwin Pact was endorsed.
-- **1934, Bombay**: president **Rajendra Prasad** of Bihar.
-- **Faizpur session (December 1936)**: president **Jawaharlal Nehru**; the **first session held in a village**.
-- **1938, Haripura**: president **Subhas Chandra Bose**; a **National Planning Committee** was set up.
-- **1939, Tripuri**: Subhas Bose was re-elected, defeating **Pattabhi Sitaramayya**; he later resigned and **Rajendra Prasad** took over.
-- **1940, Ramgarh** (then in Bihar, now in Jharkhand): president **Maulana Abul Kalam Azad**, who stayed president till **1946**.
-- **1946, Meerut**: president **J.B. Kripalani**; he was Congress president when India became independent.
-- Congress sessions held in Bihar before independence: **Bankipore (1912), Gaya (1922) and Ramgarh (1940)**.
+The Indian National Congress was the first all-India political body.
+
+- **First session:** It met in December 1885 at Gokuldas Tejpal Sanskrit College, Bombay. 72 delegates attended.
+- **Founder:** A.O. Hume, a retired British civil servant, organised it.
+- **First president:** W.C. Bonnerjee.
+- **Viceroy at the time:** Lord Dufferin.
+- **Safety-valve theory:** This is the idea that Hume founded the Congress to protect British rule from popular discontent. Lala Lajpat Rai was the first to use it, in Young India (1916). He used it to attack the Moderates.
+
+## Moderates and Extremists (1886–1916)
+
+### Leaders and ideas
+
+- **Moderates:** For twenty years the Moderates led the Congress through petitions and resolutions. Their leaders included Naoroji, Gokhale, Surendranath Banerjea and Pherozeshah Mehta.
+- **1893–94:** Aurobindo Ghosh wrote the series "New Lamps for Old" in Indu Prakash. In it he criticised the Moderate Congress.
+- **Extremists:** Lal, Bal and Pal wanted boycott and mass action.
+- **1905:** Gopal Krishna Gokhale founded the Servants of India Society at Poona.
+- **1916:** Tilak set up his Home Rule League in April. Annie Besant set up hers in September.
+
+### Sessions
+
+| Session | President | What happened |
+| --- | --- | --- |
+| 1886, Calcutta | Dadabhai Naoroji | He presided three times: 1886, 1893 (Lahore) and 1906 (Calcutta). |
+| 1887, Madras | Badruddin Tyabji | The first Muslim president. |
+| 1888, Allahabad | George Yule | The first English (European) president. |
+| 1896, Calcutta | Rahimtulla Sayani | Vande Mataram was sung at a Congress session for the first time. |
+| 1905, Banaras | Gopal Krishna Gokhale | The session supported the Swadeshi and boycott movement in Bengal. |
+| 1906, Calcutta | Dadabhai Naoroji | Swaraj (self-rule) was declared the goal of the Congress. Resolutions on swadeshi, boycott, national education and self-government were passed. Exam sources credit Naoroji with unfurling the flag of Swaraj here. |
+| 1907, Surat | Rash Behari Ghosh | The Congress split into Moderates and Extremists. This is the Surat Split. |
+| 1911, Calcutta | Bishan Narayan Dar | Jana Gana Mana was sung for the first time. |
+| 1912, Bankipore (Patna) | R.N. Mudholkar | The first Congress session held in Bihar. Mazharul Haque was chairman of the reception committee. |
+| 1916, Lucknow | Ambica Charan Mazumdar | The Moderates and Extremists reunited. The Lucknow Pact was made with the Muslim League. Raj Kumar Shukla met Gandhi here and asked him to come to Champaran. |
+
+## Later sessions (1917–1946)
+
+Under Gandhi the sessions marked each turn of the movement.
+
+### Sessions
+
+| Session | President | What happened |
+| --- | --- | --- |
+| 1917, Calcutta | Annie Besant | The first woman president of the Congress. |
+| 1918, Bombay (special session) | Syed Hasan Imam of Patna | The session discussed the Montagu-Chelmsford proposals. |
+| 1920, Calcutta (special session) | Lala Lajpat Rai | The session approved non-cooperation. |
+| 1920, Nagpur | C. Vijayaraghavachariar | The session confirmed non-cooperation. |
+| 1922, Gaya | Chittaranjan Das | His proposal for council entry (entering the legislative councils through elections) was defeated. He then formed the Swaraj Party with Motilal Nehru. |
+| 1923, Delhi (special session) | Maulana Abul Kalam Azad | The youngest president of the Congress. |
+| 1924, Belgaum | Mahatma Gandhi | The only session Gandhi presided over. |
+| 1925, Kanpur | Sarojini Naidu | The first Indian woman president. |
+| 1927, Madras | M.A. Ansari | The session decided to boycott the Simon Commission. |
+| 1928, Calcutta | Motilal Nehru | The Nehru Report was taken up. |
+| 1929, Lahore | Jawaharlal Nehru | The Purna Swaraj (complete independence) resolution was passed. The tricolour was hoisted on the bank of the Ravi at midnight on 31 December 1929. |
+| 1931, Karachi | Vallabhbhai Patel | Resolutions on Fundamental Rights and the National Economic Programme were passed for the first time. The Gandhi-Irwin Pact was endorsed. |
+| 1934, Bombay | Rajendra Prasad of Bihar | — |
+| December 1936, Faizpur | Jawaharlal Nehru | The first session held in a village. |
+| 1938, Haripura | Subhas Chandra Bose | A National Planning Committee was set up. |
+| 1939, Tripuri | Subhas Chandra Bose | Bose was re-elected, defeating Pattabhi Sitaramayya. He later resigned, and Rajendra Prasad took over. |
+| 1940, Ramgarh | Maulana Abul Kalam Azad | Ramgarh was then in Bihar and is now in Jharkhand. Azad stayed president till 1946. |
+| 1946, Meerut | J.B. Kripalani | He was Congress president when India became independent. |
+
+26 January 1930 was observed as the first Independence Day (Purna Swaraj Day).
+
+## Bihar and the Congress
+
+- **Sessions in Bihar before independence:** Bankipore (Patna) in 1912, Gaya in 1922 and Ramgarh in 1940.
+- **Presidents from Bihar:** Syed Hasan Imam (1918) and Rajendra Prasad (1934).
 
 ## What the exams ask
+
+Exams ask the session, its year, its president and what it decided.
+
 - Who presided over a named session (Lahore 1929, Gaya 1922, Patna 1912, Belgaum 1924).
 - Which session passed a named resolution (Swaraj, Purna Swaraj, Fundamental Rights).
-- Firsts among presidents: first Muslim, first woman, first Indian woman, youngest.
+- Firsts among presidents: the first Muslim, the first woman, the first Indian woman, the youngest.
 - Who founded a body and when (Indian Association 1876, Servants of India Society 1905, Congress 1885).
 - Who said or wrote it: the safety-valve theory, "New Lamps for Old".
-- Putting events in order: Surat Split, Morley-Minto Reforms, Home Rule, Kheda.
+- Putting events in order: Surat Split (1907), Morley-Minto Reforms (1909), Home Rule Movement (1916), Kheda Satyagraha (1918).
+
+> **Remember**
+>
+> - **December 1885:** The first Congress session met in Bombay with 72 delegates. W.C. Bonnerjee presided.
+> - **1887, Madras:** Badruddin Tyabji was the first Muslim president.
+> - **1906, Calcutta:** Swaraj was declared the goal, under Dadabhai Naoroji.
+> - **1907, Surat:** The Congress split.
+> - **1916, Lucknow:** The two wings reunited, and the Lucknow Pact was made.
+> - **1917, Calcutta:** Annie Besant was the first woman president.
+> - **1924, Belgaum:** The only session Gandhi presided over.
+> - **1929, Lahore:** The Purna Swaraj resolution was passed under Jawaharlal Nehru.
+> - **1931, Karachi:** The resolution on Fundamental Rights was passed.
+> - **Bihar:** Sessions at Bankipore (1912), Gaya (1922) and Ramgarh (1940).
