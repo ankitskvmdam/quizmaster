@@ -4,57 +4,174 @@ number: 15
 title: "Emergence of Gandhi"
 covers: [modern]
 ---
-## Gist
-*Book pages 305–327.*
+Book pages 305–327.
 
-After the First World War a nationalist upsurge was fed by **post-war economic hardship**, unmet **expectations of political gains** for war help, **disillusionment with imperialism** (Paris Peace Conference) and the **Russian Revolution (November 7, 1917)** under **Lenin**.
+## At a glance: Gandhi's first struggles in India
 
-The government used **'carrot and stick'**: the **Montford Reforms** (announced **July 1918**) and the **Government of India Act, 1919**, with the **Rowlatt Act** as the stick. The Act brought **dyarchy in the provinces**: **reserved** subjects (law and order, finance, land revenue, irrigation) under the governor's executive council, and **transferred** subjects (education, health, local government, industry, agriculture, excise) under **ministers responsible to the legislature**. Provincial councils became **70 per cent elected** and **women got the vote**. The Centre got **no responsible government**: **three Indians in the viceroy's council of eight**, a bicameral legislature (**Central Legislative Assembly of 145, Council of State of 60**), **75 per cent of the budget non-votable**, and the Secretary of State paid from the **British exchequer**. A **special Congress session at Bombay (August 1918) under Hasan Imam** called the reforms "disappointing"; **Tilak** called them a **"sunless dawn"**.
+| Struggle | When and where | Known as |
+| --- | --- | --- |
+| Champaran Satyagraha | 1917, Bihar | The first civil disobedience |
+| Ahmedabad Mill Strike | March 1918, Ahmedabad | The first hunger strike |
+| Kheda Satyagraha | 1918, Kheda | The first non-cooperation |
+| Rowlatt Satyagraha | April 1919 | The first mass strike |
 
-**Gandhi**, born **October 2, 1869 at Porbandar**, fought racism in **South Africa** until **1914**: a moderate phase (**Natal Indian Congress**, **Indian Opinion**), then **satyagraha from 1906** against **registration certificates** (Passive Resistance Association), migration curbs, the **three-pound poll tax** and invalidation of Indian marriages, and the **Transvaal Immigration Act**. He set up **Phoenix Farm (1904, Natal; inspired by Ruskin's Unto This Last)** and **Tolstoy Farm (1910**, named by **Herman Kallenbach**). A settlement followed talks with **Hardinge, C.F. Andrews and General Smuts**.
+## Background: why nationalism rose after the war
 
-He returned in **January 1915**. **Champaran Satyagraha (1917), Bihar — the first civil disobedience**: invited by **Rajkumar Shukla**, Gandhi probed the **tinkathia system** (indigo forced on **3/20** of the land). Joined by **Rajendra Prasad, Mazhar-ul-Haq, Mahadeo Desai, Narhari Parekh and J.B. Kripalani**, he defied an order to leave, sat on the government committee, got **tinkathia abolished** and **25 per cent** of illegal dues refunded. Other leaders: **Brajkishore Prasad, Anugrah Narayan Sinha, Ramnavmi Prasad, Shambhusharan Varma**. **Ahmedabad Mill Strike (March 1918) — first hunger strike**: with **Anusuya Sarabhai**, Gandhi backed a **35 per cent** wage demand, which a tribunal awarded. **Kheda Satyagraha (1918) — first non-cooperation**: led on the ground by **Vallabhbhai Patel**.
+After the First World War there was a nationalist upsurge. Four things fed it.
 
-The **Rowlatt Act (March 1919)**, officially the **Anarchical and Revolutionary Crimes Act**, allowed imprisonment without trial. Gandhi called it the **"Black Act"**, formed a **Satyagraha Sabha** and fixed **April 6, 1919** — the **first mass strike**. In Amritsar, **Saifuddin Kitchlew and Dr Satyapal** were arrested on **April 9**. On **April 13 (Baisakhi)**, **Brigadier-General Reginald Dyer** fired on a crowd in **Jallianwala Bagh** (official: **379 dead**; **1,650 bullets**). **Tagore renounced his knighthood**; Gandhi gave up **Kaiser-i-Hind** and withdrew the movement on **April 18, 1919**. **Udham Singh** later killed **Michael O'Dwyer**.
+1. **Post-war economic hardship:** The years after the war brought economic hardship.
+2. **Expectations of political gains:** Indians had helped in the war and expected political gains in return. These expectations were not met.
+3. **Disillusionment with imperialism:** The Paris Peace Conference brought this disillusionment.
+4. **Russian Revolution (7 November 1917):** It took place under Lenin. It founded the first socialist state.
 
-The **Hunter Committee (Disorders Inquiry Committee, October 14, 1919)** condemned Dyer (report **March 1920**) but imposed no penalty; an **Indemnity Act** protected officers. Dyer was relieved of command in **March 1920**.
+The government answered with a policy of 'carrot and stick'. The carrot was the Montford Reforms and the Government of India Act, 1919. The stick was the Rowlatt Act.
 
-## Key facts
-- **Russian Revolution — November 7, 1917**; led by **Lenin**; founded the first socialist state.
-- Montford Reforms announced **July 1918**; basis of the **Government of India Act, 1919**.
-- **Dyarchy** introduced in the **provinces**; **reserved** (law and order, finance, land revenue, irrigation) vs **transferred** (education, health, local government, industry, agriculture, excise).
-- Ministers for transferred subjects were **responsible to the legislature**; executive councillors were **not**.
-- Provincial councils: **70 per cent elected**; **women** given the right to vote; governor could **restore a rejected budget**.
-- Viceroy's executive council of **eight** — **three Indians**.
-- **Central Legislative Assembly: 145** members (41 nominated, 104 elected), tenure **3 years**; **Council of State: 60** (26 nominated, 34 elected), tenure **5 years**, male members only.
-- **75 per cent** of the central budget was not votable.
-- Act of 1919: **Secretary of State paid from the British exchequer**.
-- Central franchise: about **1.5 million** voters out of about **260 million** people.
-- Special Congress session, **Bombay, August 1918**, president **Hasan Imam** — reforms "disappointing" and "unsatisfactory".
-- Montford reforms — **"unworthy and disappointing — a sunless dawn"** (**Tilak**); "unworthy of England to offer and India to accept" (**Annie Besant**).
-- Gandhi born **October 2, 1869, Porbandar**; client in South Africa: **Dada Abdullah**.
-- South Africa moderate phase **1894-1906**: **Natal Indian Congress**, paper **Indian Opinion**.
-- Satyagraha phase **1906-1914**; **Passive Resistance Association** against **registration certificates (1906)**.
-- Poll tax of **three pounds** on ex-indentured Indians.
-- **Phoenix Farm (1904, Natal)** — inspired by **John Ruskin's Unto This Last**.
-- **Tolstoy Farm (1910)** — named by **Herman Kallenbach**; worked till **1913**.
-- Settlement in South Africa through **Gandhi, Lord Hardinge, C.F. Andrews and General Smuts**.
-- Gandhi returned to India in **January 1915**; he was **not in favour of the Home Rule agitation** while Britain was at war, believing only **non-violent satyagraha** could meet nationalist aims.
-- **Champaran Satyagraha (1917), Bihar** — **first civil disobedience**; invited by **Rajkumar Shukla**.
-- **Tinkathia system**: indigo on **3/20** of the land; abolished, with **25 per cent** compensation of illegal dues.
-- Champaran companions: **Rajendra Prasad, Mazhar-ul-Haq, Mahadeo Desai, Narhari Parekh, J.B. Kripalani**; also **Brajkishore Prasad, Anugrah Narayan Sinha, Ramnavmi Prasad, Shambhusharan Varma**.
-- **Ahmedabad Mill Strike (March 1918)** — **first hunger strike**; issue: plague bonus; Gandhi sought **35 per cent** (tribunal awarded 35 per cent).
-- **Anusuya Sarabhai** — sister of mill owner **Ambalal Sarabhai**; formed the **Ahmedabad Textile Labour Association (1920)**.
-- **Kheda Satyagraha (1918)** — **first non-cooperation**; remission due if yield below **one-fourth**; led by **Vallabhbhai Patel**, Narahari Parikh, Mohanlal Pandya, Ravi Shankar Vyas.
-- **Rowlatt Act (March 1919)** = **Anarchical and Revolutionary Crimes Act**; Rowlatt Commission headed by **Sir Sidney Rowlatt**.
-- Elected members who resigned against it included **Jinnah, Madan Mohan Malaviya and Mazhar Ul Haq**.
-- Rowlatt Satyagraha — **first mass strike**; date fixed **April 6, 1919**; withdrawn **April 18, 1919**.
-- **Jallianwala Bagh — April 13, 1919 (Baisakhi)**; **Brig.-Gen. Reginald Dyer**; official **379 dead, ~1,100 wounded**; Congress estimate ~**1,000 killed**; **1,650 bullets** fired.
-- **Tagore** renounced knighthood; **Gandhi** returned **Kaiser-i-Hind** (given for Boer War work).
-- **Udham Singh (Ram Mohammad Singh Azad)** killed **Michael O'Dwyer**; hanged **1940**.
-- **Hunter Committee** = **Disorders Inquiry Committee**, announced **October 14, 1919**; chairman **Lord William Hunter**; report **March 1920**.
-- Indian members of Hunter Committee: **Chimanlal Setalvad, Pandit Jagat Narayan, Sultan Ahmad Khan**.
-- Indemnity Act ("white washing bill") criticised by **Motilal Nehru**.
-- **Churchill** — "monstrous"; **Asquith** — "one of the worst outrages in the whole of our history".
-- Dyer relieved of command **March 1920**; the **House of Lords** passed a motion in his support.
-- Congress inquiry committee: **Motilal Nehru, C.R. Das, Abbas Tyabji, M.R. Jayakar, Gandhi**.
+## Montford Reforms and the Government of India Act, 1919
+
+The Montford Reforms were announced in July 1918. They were the basis of the Government of India Act, 1919.
+
+### Provinces: dyarchy
+
+The Act introduced dyarchy in the provinces. Under dyarchy the subjects were divided into two lists.
+
+| List | Subjects | In whose charge |
+| --- | --- | --- |
+| Reserved | Law and order, finance, land revenue, irrigation | The governor's executive council. The executive councillors were not responsible to the legislature. |
+| Transferred | Education, health, local government, industry, agriculture, excise | Ministers responsible to the legislature |
+
+- The provincial councils became 70 per cent elected.
+- Women got the right to vote.
+- The governor could restore a rejected budget.
+
+### Centre
+
+The Centre got no responsible government.
+
+- The viceroy's executive council had eight members. Three of them were Indians.
+- The central legislature became bicameral, that is, it had two houses.
+- 75 per cent of the central budget was not votable.
+- The Secretary of State was now paid from the British exchequer (treasury).
+- The central franchise was small. There were about 1.5 million voters out of about 260 million people.
+
+| House | Members | Tenure |
+| --- | --- | --- |
+| Central Legislative Assembly | 145 (41 nominated, 104 elected) | 3 years |
+| Council of State | 60 (26 nominated, 34 elected), male members only | 5 years |
+
+### Indian reactions
+
+- **August 1918:** A special Congress session was held at Bombay. Its president was Hasan Imam. It called the reforms "disappointing" and "unsatisfactory".
+- **Tilak:** He called the reforms "unworthy and disappointing — a sunless dawn".
+- **Annie Besant:** She called them "unworthy of England to offer and India to accept".
+
+## Gandhi in South Africa
+
+- **2 October 1869:** Gandhi was born at Porbandar.
+- His client in South Africa was Dada Abdullah.
+- He fought racism in South Africa until 1914.
+
+### Moderate phase (1894–1906)
+
+- The Natal Indian Congress belongs to this phase.
+- So does the paper Indian Opinion.
+
+### Satyagraha phase (1906–1914)
+
+From 1906 Gandhi used satyagraha. It was directed against five things.
+
+1. **Registration certificates (1906):** The Passive Resistance Association was formed against them.
+2. **Migration curbs:** There were curbs on the migration of Indians.
+3. **Poll tax:** A poll tax (a fixed tax on each person) of three pounds was placed on ex-indentured Indians.
+4. **Indian marriages:** Indian marriages were declared invalid.
+5. **Transvaal Immigration Act:** Satyagraha was offered against this Act too.
+
+A settlement followed talks among Gandhi, Lord Hardinge, C.F. Andrews and General Smuts.
+
+### Gandhi's two farms
+
+- **1904:** Phoenix Farm was set up in Natal. It was inspired by John Ruskin's book Unto This Last.
+- **1910:** Tolstoy Farm was set up. Herman Kallenbach gave it its name. It worked till 1913.
+
+## Gandhi's first struggles in India
+
+- **January 1915:** Gandhi returned to India.
+- He was not in favour of the Home Rule agitation while Britain was at war.
+- He believed that only non-violent satyagraha could meet the nationalist aims.
+
+### Champaran Satyagraha (1917)
+
+- **Known as:** The first civil disobedience. It took place in Bihar.
+- **Issue:** The tinkathia system. Under it, indigo (a plant that gives blue dye) was forced on 3/20 of the land.
+- **Invitation:** Rajkumar Shukla invited Gandhi. Gandhi probed the tinkathia system.
+- **Companions:** Rajendra Prasad, Mazhar-ul-Haq, Mahadeo Desai, Narhari Parikh and J.B. Kripalani joined him.
+- **Other leaders:** Brajkishore Prasad, Anugrah Narayan Sinha, Ramnavmi Prasad and Shambhusharan Varma.
+- **What Gandhi did:** He defied an order to leave. He then sat on the government committee.
+- **Result:** The tinkathia system was abolished. 25 per cent of the illegal dues were refunded as compensation.
+
+### Ahmedabad Mill Strike (March 1918)
+
+- **Known as:** The first hunger strike.
+- **Issue:** The plague bonus. Gandhi backed a demand for a 35 per cent rise in wages.
+- **People:** Anusuya Sarabhai worked with Gandhi. She was the sister of the mill owner Ambalal Sarabhai. She formed the Ahmedabad Textile Labour Association in 1920.
+- **Result:** A tribunal awarded the 35 per cent.
+
+### Kheda Satyagraha (1918)
+
+- **Known as:** The first non-cooperation.
+- **Issue:** A remission (a waiver of revenue) was due if the yield was below one-fourth.
+- **People:** Vallabhbhai Patel led it on the ground. The other leaders were Narhari Parikh, Mohanlal Pandya and Ravi Shankar Vyas.
+
+## Rowlatt Act and Rowlatt Satyagraha
+
+The Rowlatt Commission was headed by Sir Sidney Rowlatt.
+
+1. **March 1919:** The Rowlatt Act was passed. Its official name was the Anarchical and Revolutionary Crimes Act. It allowed imprisonment without trial.
+2. Some elected members resigned against it. They included Jinnah, Madan Mohan Malaviya and Mazhar-ul-Haq.
+3. Gandhi called it the "Black Act". He formed a Satyagraha Sabha.
+4. **6 April 1919:** This was the date fixed for the satyagraha. It was the first mass strike.
+5. **18 April 1919:** Gandhi withdrew the movement.
+
+## Jallianwala Bagh massacre
+
+1. **9 April 1919:** Saifuddin Kitchlew and Dr Satyapal were arrested in Amritsar.
+2. **13 April 1919:** It was the day of Baisakhi. Brigadier-General Reginald Dyer fired on a crowd in Jallianwala Bagh.
+
+The figures of the firing:
+
+- **Official figure:** 379 dead and about 1,100 wounded.
+- **Congress estimate:** about 1,000 killed.
+- **Bullets fired:** 1,650 bullets.
+
+What followed:
+
+- Tagore renounced his knighthood.
+- Gandhi gave up the Kaiser-i-Hind. It had been given to him for his work in the Boer War.
+- Udham Singh later killed Michael O'Dwyer. Udham Singh was also called Ram Mohammad Singh Azad. He was hanged in 1940.
+
+## Hunter Committee and the inquiries
+
+1. **14 October 1919:** The Hunter Committee was announced. Its official name was the Disorders Inquiry Committee. Its chairman was Lord William Hunter.
+2. Its Indian members were Chimanlal Setalvad, Pandit Jagat Narayan and Sultan Ahmad Khan.
+3. **March 1920:** The report condemned Dyer. It imposed no penalty on him.
+4. **March 1920:** Dyer was relieved of his command.
+
+Other responses:
+
+- **Indemnity Act:** It protected the officers. It was called the "white washing bill". Motilal Nehru criticised it.
+- **House of Lords:** It passed a motion in support of Dyer.
+- **Churchill:** His word was "monstrous".
+- **Asquith:** He called it "one of the worst outrages in the whole of our history".
+- **Congress inquiry committee:** Its members were Motilal Nehru, C.R. Das, Abbas Tyabji, M.R. Jayakar and Gandhi.
+
+> **Remember**
+>
+> - **July 1918:** The Montford Reforms were announced.
+> - **Dyarchy:** The Act of 1919 introduced it in the provinces, with reserved and transferred subjects.
+> - **145 and 60:** The members of the Central Legislative Assembly and of the Council of State.
+> - **January 1915:** Gandhi returned to India from South Africa.
+> - **Champaran (1917):** The first civil disobedience. It ended the tinkathia system.
+> - **Ahmedabad (March 1918):** The first hunger strike.
+> - **Kheda (1918):** The first non-cooperation.
+> - **6 April 1919:** The Rowlatt Satyagraha, the first mass strike.
+> - **13 April 1919:** The Jallianwala Bagh massacre, on Baisakhi day.
+> - **14 October 1919:** The Hunter Committee was announced.

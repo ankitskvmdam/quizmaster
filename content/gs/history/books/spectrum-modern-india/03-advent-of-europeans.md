@@ -4,66 +4,196 @@ number: 3
 title: "Advent of the Europeans in India"
 covers: [modern]
 ---
-## Gist
-*Book pages 21–58.*
+Book pages 21–58.
 
-**Why a sea route:** after **Constantinople fell to the Ottoman Turks (1453)**, Arab intermediaries controlled Indian trade. Renaissance curiosity, better ships and demand for spices pushed Europe to find a sea route. **Pope Nicholas V** gave **Prince Henry 'the Navigator'** a bull in **1454**, and the **Treaty of Tordesillas (1494)** divided the non-Christian world between Portugal and Spain. **Bartholomew Dias** rounded the **Cape of Good Hope in 1487**.
+## At a glance: the five European powers
 
-**Portuguese:** **Vasco da Gama**, guided by the Gujarati pilot **Abdul Majid**, reached **Calicut in May 1498** and was welcomed by the **Zamorin**. **Cabral** set up a factory at Calicut (1500). **Francisco De Almeida** (from 1505) followed the **Blue Water Policy (cartaze system)**. **Albuquerque**, the real founder of Portuguese power, took **Goa from the Sultan of Bijapur (1510)** and abolished **sati**. **Nino da Cunha** moved the headquarters from **Cochin to Goa** and settled Portuguese in **Bengal with Hooghly** as headquarters. Jesuits **Aquaviva and Monserrate** reached Akbar at **Fatehpur Sikri (1580)**. Shah Jahan's forces **captured Hooghly (1632)**. The Portuguese declined because of stronger Indian powers, religious intolerance, piracy and the **discovery of Brazil**. They were the first Europeans to come and the **last to leave (1961)**.
+In this chapter a factory means a trading post.
 
-**Dutch:** the Dutch East India Company was formed in **1602**; first factory **Masulipatnam (1605)**. Factories included **Pulicat, Surat, Chinsura, Kasimbazar, Balasore, Patna** and Nagapatam. From **Bihar** they carried **saltpetre**. The **Amboyna massacre (1623)** sharpened Anglo-Dutch rivalry. The English defeated them at **Hooghly/Bidara (1759)**.
+| Power | Company / arrival year | First factory | Main centre |
+| --- | --- | --- | --- |
+| Portuguese | Arrived 1498 | Calicut (1500) | Goa |
+| Dutch | Company 1602 | Masulipatnam (1605) | Nagapatam |
+| English | Company 1600 | Surat (1613) | Bombay, Madras, Fort William |
+| French | Company 1664 | Surat (1667) | Pondicherry |
+| Danes | Company 1616 | Tranquebar (1620) | Serampore |
 
-**English:** **Queen Elizabeth I's charter (31 December 1600)** gave a 15-year monopoly. **Hawkins** came to Jahangir's court (1609). **Captain Best** beat the Portuguese off Surat (1612), and a factory followed at **Surat (1613)**. **Sir Thomas Roe** (1615–19) won factories at **Agra, Ahmedabad and Broach**. Other milestones: the **Golden Farman** of Golconda (**1632**), **Madras via Francis Day (1639)**, and **Bombay** as Catherine's dowry to Charles II (1662), leased to the Company for **£10 a year (1668)**. In **1651** **Shah Shuja** let the English trade in Bengal for **Rs 3,000** a year. Factories followed at **Hooghly, Kasimbazar, Patna and Rajmahal**. **Job Charnock** returned to **Sutanuti (1690)**. In **1698** the Company bought **Sutanuti, Gobindapur and Kalikata**, and **Fort William (1700)** had **Sir Charles Eyre** as first president. **John Surman's** mission (1715) won **Farrukhsiyar's farmans — the 'Magna Carta' of the Company**. The rival companies merged in **1708**.
+## Why a sea route was sought
 
-**French:** **Colbert** founded the company in **1664**. Its first factory was at **Surat (1667)**, followed by **Masulipatnam (1669)** and **Chandernagore (1673)**. **Francois Martin** founded **Pondicherry (1674)**.
+1. **1453:** Constantinople fell to the Ottoman Turks.
+2. After this, Arab intermediaries controlled the trade with India.
+3. Three things pushed Europe to find a sea route: the curiosity born of the Renaissance, better ships and the demand for spices.
+4. **1454:** Pope Nicholas V gave Prince Henry 'the Navigator' a bull (a papal order). The bull was for sailing 'as far as India'.
+5. **1487:** Bartholomew Dias rounded the Cape of Good Hope.
+6. **1494:** The Treaty of Tordesillas divided the non-Christian world between Portugal and Spain. The dividing line lay about 1,300 miles west of the Cape Verde Islands.
 
-**Carnatic Wars:** **First (1740–48)** — Madras captured in 1746; the **Treaty of Aix-La Chapelle** gave it back; at **St. Thome** a small French force beat the Nawab's army. **Second (1749–54)** — **Dupleix** backed **Muzaffar Jang and Chanda Sahib**; **Clive took Arcot (1751)**; Dupleix was recalled in **1754**. **Third (1758–63)** — **Eyre Coote** routed **Lally at Wandiwash (22 January 1760)**; Pondicherry fell in 1761. The English won through private enterprise, naval superiority, three bases against one, sound finances and better commanders.
+## The five powers: one by one
 
-**Danes:** company **1616**, factory **Tranquebar (1620)**, settlement **Serampore**, sold to the British in **1845**.
+### Portuguese
 
-## Key facts
-- **Constantinople** fell to the **Ottoman Turks in 1453**.
-- **Pope Nicholas V** gave **Prince Henry the Navigator** a bull in **1454** to sail 'as far as India'.
-- **Treaty of Tordesillas (1494)** — Portugal and Spain divided the non-Christian world by a line about **1,300 miles west of the Cape Verde Islands**.
-- **Bartholomew Dias** rounded the **Cape of Good Hope in 1487**.
-- **Vasco da Gama** reached **Calicut in May 1498**, guided by Gujarati pilot **Abdul Majid**; Calicut's ruler was the **Zamorin (Samuthiri)**.
-- **Pedro Alvarez Cabral** reached Calicut in **September 1500** and set up a factory there.
-- **Francisco De Almeida** (appointed **1505**) — **Blue Water Policy (cartaze system)**; Portuguese lost off **Diu in 1507** to the Egyptian and Gujarat navies.
-- **Albuquerque** — real founder of Portuguese power; took **Goa from the Sultan of Bijapur in 1510**; **abolished sati**; encouraged marriage with Indian women.
-- **Nino da Cunha** (from **November 1529**) moved the HQ **from Cochin to Goa**; **Bahadur Shah of Gujarat** ceded **Bassein (1534)** and was killed in **1537**.
-- Portuguese introduced **tobacco and cashew nut** as new crops.
-- First Jesuit mission to Akbar: **Rodolfo Aquaviva and Antonio Monserrate**, reached **Fatehpur Sikri on 28 February 1580**; third mission (1595, Lahore) led by **Jerome Xavier and Emanuel Pinheiro**.
-- **William Hawkins** reached **Surat in 1608** in the **Hector**, spoke **Turki** with Jahangir, and was made a **mansabdar of 400**.
-- Portuguese at **Hooghly** (farman c. **1579**, near **Satgaon**) monopolised salt; Mughal siege began **24 June 1632** under **Shah Jahan**, led by Bengal governor **Qasim Khan**.
-- **Marathas captured Salsette and Bassein (1739)**; Portuguese held **Goa, Daman and Diu until 1961**.
-- Portuguese decline factors include the **discovery of Brazil** and the **Spain-Portugal union (1580-81)**.
-- Portuguese drilling of infantry on the **Spanish model (1630s)** was adopted by the French and English, later the **Marathas and Sikhs**.
-- **Cornelis de Houtman** — first Dutchman to reach **Sumatra and Bantam (1596)**; Dutch East India Company formed **1602**.
-- Dutch first factory: **Masulipatnam (1605)**; main southern stronghold **Nagapatam**.
-- Dutch factories in Bengal-Bihar: **Chinsura (1653), Baranagar, Kasimbazar, Balasore, Patna**; the Dutch carried **saltpetre from Bihar**.
-- **Amboyna massacre (1623)** — Dutch killed **ten Englishmen and nine Japanese**; Anglo-Dutch compromise **1667**.
-- English defeated the Dutch at **Hooghly / Battle of Bidara (1759)**.
-- English East India Company — charter of **Queen Elizabeth I, 31 December 1600**; 15-year monopoly extended indefinitely in **May 1609**.
-- **Captain Thomas Best** defeated the Portuguese off Surat (**1612**); factory at **Surat (1613)** under **Thomas Aldworth**.
-- **Sir Thomas Roe** (ambassador of James I, **1615–1619**) — factories at **Agra, Ahmedabad, Broach**.
-- First English factory in the south: **Masulipatnam (1616)**; first in east India: **Hariharpur / Balasore (1633)**.
-- **Golden Farman (1632)** — **Sultan of Golconda**, for **500 pagodas** a year.
-- **Francis Day (1639)** — permission from the ruler of **Chandragiri** for Madras (**Fort St. George**).
-- **Bombay** — dowry to **Charles II** on marrying **Catherine (of Braganza) (1662)**; given to the Company in **1668** for **ten pounds** a year; HQ shifted from Surat to Bombay in **1687**.
-- **Shah Shuja (1651)** let the English trade in Bengal for **Rs 3,000 a year**; factories at **Hooghly, Kasimbazar, Patna, Rajmahal**.
-- **William Hedges** — first agent and governor of the Company in Bengal; appealed to **Shaista Khan (1682)**; Mughals sacked **Hooghly (October 1686)**.
-- **Job Charnock** returned to **Sutanuti (August 1690)**; farman of **10 February 1691**.
-- **1698** — zamindari of **Sutanuti, Gobindapur, Kalikata** bought for **Rs 1,200**; **Fort William (1700)**, first president **Sir Charles Eyre**.
-- **John Surman's mission (1715)** to **Farrukhsiyar** — farmans called the **'Magna Carta' of the Company**; Surat exemption for **Rs 10,000** a year; **Bombay-minted coins** valid across the empire.
-- Rival companies amalgamated in **1708** as the **'United Company of Merchants of England Trading to the East Indies'**.
-- French company (**Compagnie des Indes Orientales**) — **Colbert, 1664**, under **Louis XIV**; first factory **Surat (1667, Francois Caron)**.
-- **Mercara** founded the French factory at **Masulipatnam (1669)**; **Chandernagore (1673)** with Shaista Khan's permission.
-- **Sher Khan Lodi** granted **Francois Martin** the site; **Pondicherry founded 1674**.
-- Dutch captured Pondicherry **1693**; restored by the **Treaty of Ryswick (1697)**; French company reorganised as the **'Perpetual Company of the Indies' (1720)**.
-- **First Carnatic War (1740–48)** — French took **Madras (1746)** under **La Bourdonnais**; ended by **Treaty of Aix-La Chapelle (1748)**; **Battle of St. Thome** on the **Adyar** (Captain Paradise beat Mahfuz Khan).
-- **Second Carnatic War (1749–54)** — **Anwar-ud-din** killed at **Ambur (1749)**; **Clive** took **Arcot (August 1751) with 210 men**; Dupleix recalled **1754**, succeeded by **Godeheu**.
-- **Dupleix** — first European to interfere in Indian rulers' politics; **originator of the subsidiary alliance**.
-- **Third Carnatic War (1758–63)** — **Wandiwash, 22 January 1760**: **Eyre Coote** beat **Lally** and captured **Bussy**; Pondicherry surrendered **16 January 1761**; **Treaty of Paris (1763)**.
-- In the French company the monarch held **more than 60 per cent** of shares; no shareholders' meeting **1725–1765**.
-- **Bank of England** — the world's first central bank; Britain funded its wars through **debt markets**.
-- **Danish East India Company (1616)**; factory at **Tranquebar (1620)**; principal settlement **Serampore**; sold to the British in **1845**.
+#### Arrival
+
+1. **May 1498:** Vasco da Gama reached Calicut. He was guided by the Gujarati pilot Abdul Majid. The ruler of Calicut, the Zamorin (Samuthiri), welcomed him.
+2. **September 1500:** Pedro Alvarez Cabral reached Calicut. He set up a factory there.
+
+#### Key people
+
+| Name | Period | Contribution |
+| --- | --- | --- |
+| Francisco De Almeida | Appointed 1505 | Followed the Blue Water Policy, that is, the cartaze system. |
+| Albuquerque | — | The real founder of Portuguese power. Took Goa from the Sultan of Bijapur in 1510. Abolished sati. Encouraged marriage with Indian women. |
+| Nino da Cunha | From November 1529 | Moved the headquarters from Cochin to Goa. Settled Portuguese in Bengal with Hooghly as headquarters. |
+
+#### Settlements and factories
+
+- **Hooghly:** The Portuguese received a farman in about 1579. The settlement was near Satgaon. Here the Portuguese monopolised salt.
+
+#### Relations with Indian rulers
+
+1. **1507:** The Portuguese lost off Diu to the navies of Egypt and Gujarat.
+2. **1534:** Bahadur Shah of Gujarat ceded Bassein.
+3. **1537:** Bahadur Shah was killed.
+4. **28 February 1580:** The first Jesuit mission to Akbar reached Fatehpur Sikri. Its members were Rodolfo Aquaviva and Antonio Monserrate.
+5. **1595:** The third Jesuit mission went to Lahore. It was led by Jerome Xavier and Emanuel Pinheiro.
+6. **24 June 1632:** The Mughal siege of Hooghly began. Shah Jahan ordered it and Qasim Khan, the governor of Bengal, led it. Shah Jahan's forces captured Hooghly in 1632.
+7. **1739:** The Marathas captured Salsette and Bassein.
+
+#### Contribution
+
+- The Portuguese introduced tobacco and cashew nut as new crops.
+- In the 1630s the Portuguese drilled their infantry on the Spanish model. The French and the English adopted this method. Later the Marathas and Sikhs adopted it too.
+
+#### Causes of decline
+
+1. The union of Spain and Portugal (1580-81).
+2. The discovery of Brazil.
+3. Stronger Indian powers.
+4. Religious intolerance.
+5. Piracy.
+
+The Portuguese held Goa, Daman and Diu until 1961. So they were the first Europeans to come to India and the last to leave.
+
+### Dutch
+
+#### Arrival
+
+1. **1596:** Cornelis de Houtman reached Sumatra and Bantam. He was the first Dutchman to reach there.
+2. **1602:** The Dutch East India Company was formed.
+
+#### Settlements and factories
+
+- **First factory:** Masulipatnam (1605).
+- **Main stronghold in the south:** Nagapatam.
+- **Other factories:** Pulicat and Surat.
+- **Factories in Bengal and Bihar:** Chinsura (1653), Baranagar, Kasimbazar, Balasore and Patna.
+- The Dutch carried saltpetre from Bihar.
+
+#### Causes of decline
+
+1. **1623:** The Amboyna massacre took place. The Dutch killed ten Englishmen and nine Japanese. This sharpened the Anglo-Dutch rivalry.
+2. **1667:** An Anglo-Dutch compromise was reached.
+3. **1759:** The English defeated the Dutch at Hooghly, in the Battle of Bidara.
+
+### English
+
+#### Milestones of the Company
+
+1. **31 December 1600:** The English East India Company was formed by a charter of Queen Elizabeth I. The charter gave a monopoly for 15 years.
+2. **May 1609:** This monopoly was extended indefinitely.
+3. **1708:** The rival companies were amalgamated. The new company was named the 'United Company of Merchants of England Trading to the East Indies'.
+4. **1715:** John Surman's mission went to Farrukhsiyar. The farmans it won were called the 'Magna Carta' of the Company.
+
+Two points of Farrukhsiyar's farmans:
+
+- At Surat the Company got an exemption for Rs 10,000 a year.
+- Bombay-minted coins became valid across the empire.
+
+#### Western India
+
+1. **1608:** William Hawkins reached Surat in the ship Hector.
+2. **1609:** Hawkins came to Jahangir's court. He spoke with Jahangir in Turki. He was made a mansabdar of 400.
+3. **1612:** Captain Thomas Best defeated the Portuguese off Surat.
+4. **1613:** A factory was set up at Surat. It was under Thomas Aldworth.
+5. **1615–1619:** Sir Thomas Roe came as the ambassador of James I. He won permission to set up factories at Agra, Ahmedabad and Broach.
+6. **1662:** Charles II received Bombay as dowry on marrying Catherine of Braganza.
+7. **1668:** Bombay was leased to the Company for 10 pounds (£10) a year.
+8. **1687:** The headquarters shifted from Surat to Bombay.
+
+#### South India
+
+1. **1616:** A factory opened at Masulipatnam. It was the first English factory in the south.
+2. **1632:** The Sultan of Golconda issued the Golden Farman. In return 500 pagodas a year were to be paid.
+3. **1639:** Francis Day got permission for Madras from the ruler of Chandragiri. Fort St. George was built here.
+
+#### Bengal
+
+1. **1633:** A factory opened at Hariharpur / Balasore. It was the first English factory in east India.
+2. **1651:** Shah Shuja let the English trade in Bengal. In return Rs 3,000 a year was to be paid. After this, factories opened at Hooghly, Kasimbazar, Patna and Rajmahal.
+3. **1682:** William Hedges appealed to Shaista Khan. Hedges was the first agent and governor of the Company in Bengal.
+4. **October 1686:** The Mughals sacked Hooghly.
+5. **August 1690:** Job Charnock returned to Sutanuti.
+6. **10 February 1691:** A farman was issued.
+7. **1698:** The Company bought the zamindari of Sutanuti, Gobindapur and Kalikata for Rs 1,200.
+8. **1700:** Fort William was built. Sir Charles Eyre became its first president.
+
+### French
+
+#### Arrival
+
+1. **1664:** Colbert founded the French company. Its name was the Compagnie des Indes Orientales. It was formed in the reign of Louis XIV.
+2. **1720:** The company was reorganised as the 'Perpetual Company of the Indies'.
+
+#### Key people
+
+- **Dupleix:** He was the first European to interfere in the politics of Indian rulers. He was the originator of the subsidiary alliance.
+
+#### Settlements and factories
+
+1. **1667:** Francois Caron set up the first factory at Surat.
+2. **1669:** Mercara founded a factory at Masulipatnam.
+3. **1673:** Chandernagore was settled with the permission of Shaista Khan.
+4. **1674:** Pondicherry was founded. Sher Khan Lodi granted Francois Martin the site for it.
+5. **1693:** The Dutch captured Pondicherry.
+6. **1697:** Pondicherry was restored by the Treaty of Ryswick.
+
+#### Causes of decline
+
+The decline of the French is tied to the Carnatic Wars. Its causes are given below under "Why the English won".
+
+### Danes
+
+1. **1616:** The Danish East India Company was formed.
+2. **1620:** A factory opened at Tranquebar.
+3. The principal settlement was Serampore.
+4. **1845:** It was sold to the British.
+
+## The Carnatic Wars
+
+The Carnatic Wars were three wars between the English and the French.
+
+| War | Main events | Result |
+| --- | --- | --- |
+| First (1740–48) | In 1746 the French under La Bourdonnais captured Madras. The Battle of St. Thome was fought on the Adyar river. In it a small French force under Captain Paradise beat the Nawab's army under Mahfuz Khan. | The war ended in 1748 with the Treaty of Aix-La Chapelle. The treaty gave Madras back. |
+| Second (1749–54) | In 1749 Anwar-ud-din was killed at Ambur. Dupleix backed Muzaffar Jang and Chanda Sahib. In August 1751 Clive took Arcot with 210 men. | In 1754 Dupleix was recalled. Godeheu succeeded him. |
+| Third (1758–63) | On 22 January 1760 Eyre Coote routed Lally at Wandiwash. He captured Bussy. On 16 January 1761 Pondicherry surrendered. | The Treaty of Paris was signed in 1763. |
+
+## Why the English won
+
+1. **Private enterprise:** The English company was a private enterprise. In the French company, by contrast, the monarch held more than 60 per cent of the shares. No shareholders' meeting was held there between 1725 and 1765.
+2. **Naval superiority:** The English navy was superior.
+3. **More bases:** The English had three bases. The French had only one base.
+4. **Sound finances:** The Bank of England was the world's first central bank. Britain funded its wars through debt markets.
+5. **Better commanders:** The English had better commanders.
+
+> **Remember**
+>
+> - **May 1498:** Vasco da Gama reached Calicut.
+> - **1510:** Albuquerque took Goa from the Sultan of Bijapur.
+> - **1961:** The Portuguese were the first Europeans to come to India and the last to leave.
+> - **31 December 1600:** The English company was formed by the charter of Elizabeth I.
+> - **1605:** The first Dutch factory opened at Masulipatnam.
+> - **1613:** The English factory opened at Surat.
+> - **1715:** Farrukhsiyar's farmans were called the 'Magna Carta' of the Company.
+> - **1759:** The English defeated the Dutch in the Battle of Bidara.
+> - **22 January 1760:** Eyre Coote defeated Lally at Wandiwash.
+> - **More than 60 per cent:** the monarch's share in the French company.

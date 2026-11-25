@@ -77,6 +77,11 @@ for (const f of fs.readdirSync(EN).sort()) {
     if (JSON.stringify(e.data.covers) !== JSON.stringify(h.data.covers)) problems.push(`${f}: covers differs`)
     if (!deva.test(h.data.title || '')) problems.push(`${f}: title not in Hindi`)
     const b = h.content
+    // A structured study page (no "## Gist") is checked by the study-content-writing skill's check-page.mjs instead.
+    if (!/^## Gist\s*$/m.test(e.content)) {
+      if (problems.length === before) filesOk++
+      continue
+    }
     if (!/^## Gist\s*$/m.test(b) || !/^## Key facts\s*$/m.test(b)) problems.push(`${f}: missing ## Gist / ## Key facts heading`)
     const facts = (s) => (s.split(/^## Key facts\s*$/m)[1] || '').split('\n').filter((l) => /^\s*- /.test(l))
     const gist = (s) => s.split(/^## Key facts\s*$/m)[0]

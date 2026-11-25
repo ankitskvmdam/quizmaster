@@ -7,6 +7,7 @@ import { Panel, IconTile } from '@/components/surfaces'
 import { EmptyState } from '@/components/empty-state'
 import { Input } from '@/components/ui/input'
 import { cn } from '@/lib/utils'
+import { textLang } from '@/lib/lang'
 
 export const metadata: Metadata = { title: 'Search' }
 
@@ -62,11 +63,17 @@ export default async function SearchPage({ searchParams }: PageProps<'/search'>)
                       </IconTile>
                       <span className="flex min-w-0 flex-1 flex-col gap-1">
                         <span className="flex flex-wrap items-baseline gap-x-2">
-                          <span className="font-medium">{h.title}</span>
+                          <span lang={textLang(h.title)} className="font-medium">
+                            {h.title}
+                          </span>
+                          {/* Always an English word (KIND_LABEL in lib/search.ts), so it keeps its small-caps look. */}
                           <span className="text-[12px] tracking-wide text-muted-foreground uppercase">{h.kindLabel}</span>
                         </span>
                         {(h.snippet.before || h.snippet.match) && (
-                          <span className="text-sm text-muted-foreground">
+                          <span
+                            lang={textLang(`${h.snippet.before}${h.snippet.match}${h.snippet.after}`)}
+                            className="text-sm text-muted-foreground"
+                          >
                             {h.snippet.before}
                             {h.snippet.match && <mark className="rounded bg-primary/15 px-0.5 text-foreground">{h.snippet.match}</mark>}
                             {h.snippet.after}

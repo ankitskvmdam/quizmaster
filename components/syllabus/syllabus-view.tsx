@@ -3,6 +3,7 @@ import type { ChapterView, SubjectView, SyllabusView, TopicView } from '@/lib/sy
 import { Badge } from '@/components/badge'
 import { Mono, Panel, SoftPanel } from '@/components/surfaces'
 import { cn } from '@/lib/utils'
+import { textLang } from '@/lib/lang'
 
 const n = (v: number) => v.toLocaleString('en-IN')
 const perPaper = (v: number) => (Math.round(v * 10) / 10).toLocaleString('en-IN', { maximumFractionDigits: 1 })
@@ -31,7 +32,9 @@ export function SyllabusOverview({ view }: { view: SyllabusView }) {
           <li key={s.key}>
             <a href={`#${s.anchor}`} className="focus-ring group -mx-2 flex flex-col gap-1.5 rounded-lg px-2 py-2 hover:bg-soft">
               <span className="flex items-baseline justify-between gap-3">
-                <span className="min-w-0 text-[15px] font-medium break-words group-hover:text-primary">{s.name}</span>
+                <span lang={textLang(s.name)} className="min-w-0 text-[15px] font-medium break-words group-hover:text-primary">
+                  {s.name}
+                </span>
                 <span className="shrink-0 text-[13px] text-muted-foreground">
                   <Mono className="text-foreground">{perPaper(s.perPaper)}</Mono> / paper
                 </span>
@@ -56,7 +59,9 @@ function Chapter({ c, papers }: { c: ChapterView; papers: number }) {
   return (
     <li className={cn('px-4 py-4 sm:px-6', high && 'bg-[color-mix(in_oklab,var(--tint)_45%,transparent)] shadow-[inset_3px_0_0_var(--primary)]')}>
       <div className="flex flex-wrap items-start justify-between gap-x-3 gap-y-1.5">
-        <h3 className="min-w-0 text-[15px] leading-snug font-semibold break-words">{c.name}</h3>
+        <h3 lang={textLang(c.name)} className="min-w-0 text-[15px] leading-snug font-semibold break-words">
+          {c.name}
+        </h3>
         {(high || !!c.bihar || c.mostlyCurrent) && (
           <div className="flex flex-wrap gap-1.5">
             {high && (
@@ -96,7 +101,9 @@ function Topic({ t, papers, open }: { t: TopicView; papers: number; open: boolea
       <summary className="focus-ring flex cursor-pointer list-none items-center gap-3 rounded-panel px-4 py-3.5 sm:px-6 [&::-webkit-details-marker]:hidden">
         <ChevronRight aria-hidden className="size-4 shrink-0 text-muted-foreground group-open:rotate-90" />
         <span className="flex min-w-0 flex-1 flex-col">
-          <span className="font-semibold break-words">{t.name}</span>
+          <span lang={textLang(t.name)} className="font-semibold break-words">
+            {t.name}
+          </span>
           <span className="text-[13px] text-muted-foreground">
             <Mono>{t.chapters.length}</Mono> {t.chapters.length === 1 ? 'chapter' : 'chapters'} · <Mono>{n(t.questions)}</Mono>{' '}
             {t.questions === 1 ? 'question' : 'questions'}

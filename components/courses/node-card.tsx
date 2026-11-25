@@ -4,6 +4,7 @@ import type { TreeNode } from "@/lib/courses/tree";
 import { materialCounts } from "@/lib/courses/counts";
 import { Panel, Mono } from "@/components/surfaces";
 import { ProgressBar } from "@/components/progress-bar";
+import { textLang } from "@/lib/lang";
 
 /** A node of the syllabus tree (a subject, a section, a topic): its size and the person's progress. */
 export function NodeCard({ href, node }: { href: string; node: TreeNode }) {
@@ -45,14 +46,18 @@ export function NodeCard({ href, node }: { href: string; node: TreeNode }) {
     <Link href={href} className="focus-ring group rounded-panel">
       <Panel className="flex h-full flex-col gap-3 transition-colors group-hover:border-primary/40">
         <div className="flex items-start justify-between gap-3">
-          <h3 className="text-lg font-semibold">{node.name}</h3>
+          <h3 lang={textLang(node.name)} className="text-lg font-semibold">
+            {node.name}
+          </h3>
           <ChevronRight
             className="mt-1 size-4 shrink-0 text-muted-foreground"
             aria-hidden
           />
         </div>
         {node.description && (
-          <p className="text-sm text-muted-foreground">{node.description}</p>
+          <p lang={textLang(node.description)} className="text-sm text-muted-foreground">
+            {node.description}
+          </p>
         )}
         <div className="mt-auto flex flex-col gap-2 pt-2">
           {node.lessonCount > 0 && (

@@ -24,8 +24,13 @@ export const HINDI = 'hi'
 /** What a chapter quiz is called in Hindi: "<chapter title> प्रश्नोत्तरी". */
 export const QUIZ_SUFFIX_HI = 'प्रश्नोत्तरी'
 
+/**
+ * A chapter body is either the original shape ("## Gist" then "## Key facts" with at least one bullet) or a
+ * structured study page: one merged document with at least three "## " sections of its own.
+ */
 export const hasGistShape = (body: string) =>
-  /^## Gist\s*$/m.test(body) && /^## Key facts\s*$/m.test(body) && /^## Key facts[\s\S]*^\s*- \S/m.test(body)
+  (/^## Gist\s*$/m.test(body) && /^## Key facts\s*$/m.test(body) && /^## Key facts[\s\S]*^\s*- \S/m.test(body)) ||
+  (body.match(/^## \S/gm) ?? []).length >= 3
 
 async function walk(dir: string): Promise<string[]> {
   const entries = await readdir(dir, { withFileTypes: true }).catch(() => [])

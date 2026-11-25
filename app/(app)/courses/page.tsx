@@ -4,6 +4,7 @@ import { GraduationCap, ListTree } from "lucide-react";
 import { listCourses } from "@/lib/queries/courses";
 import { PageHeader } from "@/components/page-header";
 import { Panel, IconTile, Mono } from "@/components/surfaces";
+import { textLang } from "@/lib/lang";
 
 export const metadata: Metadata = { title: "Courses" };
 
@@ -26,9 +27,13 @@ export default async function CoursesPage() {
               <IconTile>
                 <GraduationCap />
               </IconTile>
-              <h2 className="text-lg font-semibold">{c.name}</h2>
+              <h2 lang={textLang(c.name)} className="text-lg font-semibold">
+                {c.name}
+              </h2>
               {c.description && (
-                <p className="text-sm text-muted-foreground">{c.description}</p>
+                <p lang={textLang(c.description)} className="text-sm text-muted-foreground">
+                  {c.description}
+                </p>
               )}
               <p className="mt-auto text-[13px] text-muted-foreground">
                 <Mono>{c.subjectCount}</Mono>{" "}

@@ -4,6 +4,7 @@ import { Markdown } from '@/components/markdown'
 import { Panel, Eyebrow, Mono, SoftPanel } from '@/components/surfaces'
 import { Badge } from '@/components/badge'
 import { cn } from '@/lib/utils'
+import { textLang } from '@/lib/lang'
 
 /** One reviewed question: your answer and the correct one, by icon and by word, then the explanation. */
 export function ReviewQuestion({ q, number }: { q: Q; number: number }) {
@@ -12,7 +13,7 @@ export function ReviewQuestion({ q, number }: { q: Q; number: number }) {
     <Panel className="flex flex-col gap-4">
       <div className="flex flex-wrap items-center justify-between gap-2">
         <Eyebrow>
-          Question <Mono>{number}</Mono> · {q.topic_name}
+          Question <Mono>{number}</Mono> · <span lang={textLang(q.topic_name)}>{q.topic_name}</span>
         </Eyebrow>
         <div className="flex gap-1.5">
           {q.marked && (
@@ -62,7 +63,7 @@ export function ReviewQuestion({ q, number }: { q: Q; number: number }) {
       </ul>
       <SoftPanel className="flex flex-col gap-1.5">
         <Eyebrow>Explanation</Eyebrow>
-        <Markdown source={q.explanation_md} className="[&_p]:my-1.5" />
+        <Markdown variant="explanation" source={q.explanation_md} />
       </SoftPanel>
     </Panel>
   )

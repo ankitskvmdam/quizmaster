@@ -8,6 +8,7 @@ import { Eyebrow, Mono, SoftPanel } from '@/components/surfaces'
 import { Button } from '@/components/ui/button'
 import { Spinner } from '@/components/loading'
 import { OptionCard, type OptionLook } from './option-card'
+import { textLang } from '@/lib/lang'
 
 function optionLook(key: string, selected: string | null, result: QuestionResult | null): { look: OptionLook; label?: string } {
   if (!result) return { look: key === selected ? 'selected' : 'idle' }
@@ -72,7 +73,8 @@ export function QuestionView({
     <section aria-labelledby="question-heading" className="flex flex-col gap-6">
       <div className="flex flex-col gap-3">
         <Eyebrow id="question-heading">
-          Question <Mono>{index + 1}</Mono> of <Mono>{total}</Mono> · {question.topic_name}
+          Question <Mono>{index + 1}</Mono> of <Mono>{total}</Mono> ·{' '}
+          <span lang={textLang(question.topic_name)}>{question.topic_name}</span>
         </Eyebrow>
         <Markdown variant="question" source={question.stem_md} />
       </div>
@@ -107,7 +109,7 @@ export function QuestionView({
             {result.is_correct ? 'Correct.' : `Not quite. The answer is ${result.correct_key}.`}
           </p>
           <Eyebrow>Explanation</Eyebrow>
-          <Markdown variant="lesson" source={result.explanation_md} className="[&_p]:my-1.5" />
+          <Markdown variant="explanation" source={result.explanation_md} />
         </SoftPanel>
       )}
 

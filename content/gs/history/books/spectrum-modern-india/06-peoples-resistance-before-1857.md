@@ -4,70 +4,233 @@ number: 6
 title: "People's Resistance Against British Before 1857"
 covers: [modern]
 ---
-## Gist
-*Book pages 136–166.*
+Book pages 136–166.
 
-Resentment against Company rule showed up long before 1857. Peasants, artisans, tribals, dispossessed rulers, soldiers and religious leaders all resisted. Urban examples: **Benares (1810, house tax)**, **Surat (1814, salt duty)** and **Bareilly (1816, police tax)**. Following **Bipan Chandra**, the book divides the resistance into **civil rebellions, tribal uprisings and peasant movements**, and adds **military revolts**. The causes were colonial land revenue settlements, new taxes, evictions, money-lenders and the ruin of handicrafts.
+## At a glance: resistance before 1857
 
-**Civil uprisings** were led by deposed rulers, zamindars and **poligars**. Their leaders were semi-feudal and looked backward, and the risings stayed local. They include the **Sanyasi (Fakir) Revolt (1763–1800)**, set off by the **famine of 1770** (leaders Majnu Shah, Bhawani Pathak, **Debi Chaudhurani**), and the **Palamau rising (1800–02)** under the **Chero chief Bhukhan Singh**. In the south, **Kattabomman** of **Panjalankurichi** led the poligars and **Pazhassi Raja ('Kerala Simham')** fought in Malabar. **Velu Thampi**, Dalawa of **Travancore**, issued the **Kundara Proclamation**. Other risings: Wazir Ali in Awadh (**Massacre of Benares, 1799**), Bundelkhand (**Ikarnamahs**), Kutch, Hathras, the **Paika Rebellion (1817)** under **Bakshi Jagabandhu Bidyadhar** in Odisha, the **Ahom revolt (1828)**, and the **Surat salt agitation (1844)**, in which the salt duty was raised from 50 paise to one rupee and then withdrawn.
+| Kind of resistance | Main examples |
+| --- | --- |
+| Civil uprisings | Sanyasi Revolt (1763–1800), Poligars' revolt (1795–1805), Paika Rebellion (1817) |
+| Religious movements | Wahabi Movement, Kuka Movement (1840) |
+| Peasant movements | Narkelberia uprising, Pagal Panthis (1825–35), Moplahs (1836–54), Faraizis (1838–57) |
+| Tribal revolts | Kol Mutiny (1831), Santhal Rebellion (1855–56), Munda rising (1899–1900) |
+| Sepoy mutinies | Vellore (1806), Barrackpore (1824) |
 
-Religious movements: the **Wahabi Movement**, founded by **Syed Ahmed of Rai Bareilly**, had its base at **Sithana** and its **important Indian centre at Patna**. It declared jihad on the Sikh kingdom; after **1849** it fought the British. The **Kuka Movement (1840)** was founded by **Bhagat Jawahar Mal**. **Baba Ram Singh** (Namdhari sect) preached **Swadeshi and boycott** and was **deported to Rangoon in 1872**.
+## Background: why people resisted
 
-**Peasant movements** with religious overtones: **Titu Mir's Narkelberia uprising** (often called the first armed peasant uprising, later merged into the Wahabi movement), the **Pagal Panthis** (Karam Shah, then his son Tipu; Hajong and Garo tribes), the **Faraizis** (Haji Shariat-Allah of **Faridpur**) and the **Moplah** risings (**22 rebellions, 1836–54**).
+Resentment against Company rule showed up long before 1857. Peasants, artisans, tribals, dispossessed rulers, soldiers and religious leaders all resisted.
 
-**Tribal revolts** were the most frequent, militant and violent. Many were in Bihar/Jharkhand. The **Pahariyas of the Rajmahal Hills (1778)** won a **damni-kol** area. The **Chuar** uprisings (Jungle Mahal) peaked under **Durjan Singh (1798)**. The **Kol Mutiny (1831)** was led by **Buddho Bhagat** in Chhotanagpur. In the **Ho** revolt the **Raja of Parahat** fought the occupation of **Singhbhum**, and the **Mundas** later rose under **Birsa Munda (1899–1900)**. In the **Santhal Rebellion (1855–56)**, **Sidhu and Kanhu** declared the area **between Bhagalpur and Rajmahal** autonomous. Elsewhere there were the **Khond** (**Chakra Bisoi**), Koya, Bhil, Koli and **Ramosi** (Chittur Singh) risings. In the north-east: the Khasi rising under **Tirath Singh** and the Singpho rebellion.
+The resistance had five causes:
 
-**Sepoy mutinies** came from pay discrimination and religious grievances. **Vellore (1806)** began over a **leather cockade** replacing the turban, and **Barrackpore (1824)** over being sent to Burma. **Lord Canning's General Service Enlistment Act (1856)** caused more anger. All these risings were local, used outdated weapons and had no national aim.
+1. Colonial land revenue settlements.
+2. New taxes.
+3. Evictions.
+4. Money-lenders.
+5. The ruin of handicrafts.
 
-## Key facts
-- Urban protests: **Benares 1810 — house tax**; **Surat 1814 — salt duty**; **Bareilly 1816 — police tax**.
-- Bipan Chandra's three forms of people's resistance: **civil rebellions, tribal uprisings, peasant movements**.
-- **Sanyasi Revolt (1763–1800)** — triggered by the **famine of 1770**; also called the **Fakir Rebellion**; subdued by **Warren Hastings**; summary places it in **Bihar and Bengal**.
-- Sanyasi leaders: **Majnu Shah, Chirag Ali, Musa Shah, Bhawani Pathak, Debi Chaudhurani**; Bankim wrote **Anandamath** and **Devi Chaudhurani** on it.
-- Midnapore and Dhalbhum revolt leaders — **Damodar Singh and Jagannath Dhal**.
-- **Moamarias** — low-caste peasants following **Aniruddhadeva (1553–1624)**; challenged the **Ahom kings**; HQ **Bhatiapar**.
-- **Major Alexander Hannay** — izaradar of **Gorakhpur and Bahraich** (1778), 22 lakh rupees; rising of **1781**.
-- Raja of **Vizianagaram** died in battle at **Padmanabham (1794)**.
-- **Dhundia Wagh** (Bednur) — killed in **September 1800** fighting forces under Wellesley.
-- **Kerala Varma Pazhassi Raja** — **'Kerala Simham'** / 'Pyche raja' of **Kottayam (Malabar)**; died at **Mavila Todu, November 1805**.
-- **Wazir Ali Khan** killed resident **George Frederik Cherry (January 1799)** — **Massacre of Benares**; given asylum by the **ruler of Jaipur**; confined at **Fort William**.
-- Ganjam–Gumsur: **Strikara Bhanj**, **Dhananjaya Bhanj**; struggle ended with arrest of **Doora Bisayi (February 1837)**.
-- **Palamau (1800–02)** — **Bhukhan Singh, a Chero chief**; suppressed by **Colonel Jones**; Bhukhan Singh died **1802**.
-- Poligars' revolt (1795–1805) — **Kattabomman Nayakan of Panjalankurichi**, betrayed by **Ettappan, Raja of Pudukottai**, and hanged; second phase from **February 1801** (escape from **Palamcotta** fort), led by **Oomathurai**.
-- North Arcot poligars (1803–05) rebelled when denied the right to collect **kaval fees**.
-- **Velu Thampi**, Dalawa of **Travancore** — **Kundara Proclamation**; killed himself to avoid capture.
-- Bundelkhand chiefs bound by contractual obligations called **Ikarnamahs**; resisters **Lakshman Dawa (Ajaygarh)**, **Darya Singh (Kalanjar)**, **Gopal Singh**.
-- Kutch: **Rao Bharamal II** raised **Arab and African troops (1819)**.
-- Bareilly 1816 turned religious with the petition of **Mufti Muhammad Aiwaz**.
-- **Hathras (1817)** — **Dayaram**; the fort was called a **'second Bharatpur'**.
-- **Paika Rebellion (1817)** — Odisha; **Bakshi Jagabandhu Bidyadhar**, supported by **Mukunda Deva**, last Raja of Khurda; spark: arrival of **Khonds from Gumsur (March 1817)**; Jagabandhu surrendered in **1825**; won large remissions and reductions in assessments.
-- **Waghera** chiefs of **Okha Mandal** — peace treaty **November 1820**.
-- **Ahom Revolt (1828)** — **Gomdhar Konwar**; Upper Assam given to **Maharaja Purandar Singh**.
-- **Surat salt agitation (1844)** — salt duty raised from **50 paise to one rupee**, then withdrawn; **1848**: Bengal Standard Weights and Measures withdrawn.
-- **Gadkaris** (Kolhapur, after 1844) occupied **Samangarh and Bhudargarh** forts.
-- **Wahabi Movement** — founded by **Syed Ahmed of Rai Bareilly**; inspired by **Abdul Wahab** and **Shah Waliullah**; base **Sithana**; **important centre in India: Patna**; jihad against the Sikh kingdom, British the sole target after **1849**.
-- **Kuka Movement** — founded **1840** by **Bhagat Jawahar Mal (Sian Saheb)**; **Baba Ram Singh** founded the **Namdhari** sect; Kukas preached **Swadeshi and boycott**; Ram Singh **deported to Rangoon (1872)**.
-- **Titu Mir (Mir Nithar Ali)** — **Narkelberia uprising**; often considered the **first armed peasant uprising** against the British; merged into the Wahabi movement.
-- **Pagal Panthis** — founded by **Karam Shah**; led by his son **Tipu**; **Hajong and Garo** tribes of **Mymensingh**; 1825–35.
-- **Faraizis** — sect founded by **Haji Shariat-Allah of Faridpur**; disturbances **1838–57**.
-- **Moplahs of Malabar** — **22 rebellions between 1836 and 1854**.
-- After 1857, Avadh peasants could not use the **1859 Bengal Rent Act**; land restored to **taluqdars**.
-- Tribal movements were the **most frequent, militant and violent**.
-- **Pahariyas of the Raj Mahal Hills (1778)** — territory declared a **damni-kol** area.
-- **Chuar** uprising — **1766–72 and 1795–1816**; **Jagannath Singh of Ghatsila (1768)**; most significant under **Durjan Singh**, zamindar of **Raipur (1798)**; also called the **Revolt of the Jungle Mahal**.
-- **Kol Mutiny (1831)** — Chhotanagpur (Ranchi, Singhbhum, Hazaribagh, Palamau, western Manbhum); led by **Buddho Bhagat**; about **a thousand outsiders** killed or burnt.
-- **Ho revolt** — organised by the **Raja of Parahat** against occupation of **Singhbhum**; joined by **Mundas (1831)**; Ho operations till **1837**.
-- **Birsa Munda** — Munda rising **1899–1900**, south of **Ranchi** (the **Ulgulan**); Birsa captured and imprisoned.
-- **Santhal Rebellion (1855–56)** — Rajmahal hills (Bihar); **Sidhu and Kanhu**; area **between Bhagalpur and Rajmahal** declared autonomous; suppressed by **1856**.
-- **Khond uprisings (1837–56)** — **Chakra Bisoi**; against suppression of **human sacrifice** and new taxes.
-- **Koya** revolts — **Tomma Sora (1879–80)**, **Raja Anantayyar (1886)**.
-- Bhils — **Govind Guru** organised them for a **Bhil Raj by 1913**.
-- **Ramosis** — rose under **Chittur Singh (1822)**; later **Umaji Naik**.
-- Bihar items in the tribal box: **Kharwar Rebellion (1870s)** against revenue settlement; **Tana Bhagat** movement (**Jatra Bhagat, Balram Bhagat**; began as a Sanskritisation movement); **Adivasi Mahasabha (1937)** replaced by the **Regional Jharkhand Party (1949)**; forest satyagraha by **Karwars of Palamau (1930s)**.
-- **Khasi Uprising** — under **Tirath Singh**; suppressed by **1833**.
-- **Singphos** — killed the British political agent in **1839**; **Nirang Phidu** led the **1843** rising.
-- North-east frontier revolts were not forest-based or agrarian; **Sanskritisation movements were almost totally absent** there.
-- **Vellore Mutiny (1806)** — leather **cockade** replacing the turban; flag of the ruler of Mysore raised.
-- **Barrackpore (1824)** — sepoys refused to go to **Burma** (crossing the sea meant loss of caste).
-- **General Service Enlistment Act (1856)** — **Lord Canning**.
-- Pre-1857 mutinies: Bengal **1764**, **47th N.I. 1824**, Grenadier Company Assam **1825**, **Sholapur 1838**, **34th N.I. 1844**, **22nd N.I. 1849**, **66th N.I. 1850**, **37th N.I. 1852**.
+The towns protested too:
+
+- **Benares (1810):** The protest was against a house tax.
+- **Surat (1814):** The protest was against a salt duty.
+- **Bareilly (1816):** The protest was against a police tax. It turned religious with the petition of Mufti Muhammad Aiwaz.
+
+Following Bipan Chandra, the book divides people's resistance into three forms: civil rebellions, tribal uprisings and peasant movements. To these it adds military revolts.
+
+## Civil uprisings
+
+Civil uprisings were led by deposed rulers, zamindars and poligars. Poligars were local chiefs of south India. The leaders were semi-feudal and looked backward, and the risings stayed local.
+
+### Sanyasi Revolt (1763–1800)
+
+- It is also called the Fakir Rebellion.
+- The book's summary places it in Bihar and Bengal.
+- **1770:** The famine of this year set off the revolt.
+- **Leaders:** Majnu Shah, Chirag Ali, Musa Shah, Bhawani Pathak and Debi Chaudhurani.
+- Warren Hastings subdued it.
+- Bankim wrote Anandamath and Devi Chaudhurani on it.
+
+### Poligars' revolt (1795–1805)
+
+1. Kattabomman Nayakan of Panjalankurichi led the poligars. Ettappan, the Raja of Pudukottai, betrayed him. Kattabomman was hanged.
+2. **February 1801:** The second phase began with an escape from Palamcotta fort. Oomathurai led this phase.
+3. **1803–05:** The poligars of North Arcot rebelled. They had been denied the right to collect kaval (village watch) fees.
+
+### Wazir Ali Khan in Awadh (1799)
+
+- **January 1799:** Wazir Ali Khan killed the resident George Frederik Cherry. This is called the Massacre of Benares.
+- The ruler of Jaipur gave him asylum.
+- He was confined at Fort William.
+
+### Palamau rising (1800–02)
+
+- Bhukhan Singh, a Chero chief, led it.
+- Colonel Jones suppressed it.
+- **1802:** Bhukhan Singh died.
+
+### Pazhassi Raja in Malabar
+
+- Kerala Varma Pazhassi Raja belonged to Kottayam in Malabar.
+- He was called 'Kerala Simham' and 'Pyche raja'.
+- He fought in Malabar.
+- **November 1805:** He died at Mavila Todu.
+
+### Paika Rebellion (1817)
+
+The Paikas were the traditional militia of Odisha.
+
+- The rebellion took place in Odisha. Bakshi Jagabandhu Bidyadhar led it.
+- Mukunda Deva, the last Raja of Khurda, supported him.
+- **March 1817:** Khonds arrived from Gumsur. This was the spark.
+- **1825:** Jagabandhu surrendered.
+- The rebellion won large remissions and reductions in assessments.
+
+### Surat salt agitation (1844)
+
+- **1844:** The salt duty was raised from 50 paise to one rupee. It was then withdrawn.
+- **1848:** The Bengal Standard Weights and Measures were withdrawn.
+
+### Other civil uprisings
+
+| Rising | Leader | What happened |
+| --- | --- | --- |
+| Midnapore and Dhalbhum revolt | Damodar Singh and Jagannath Dhal | — |
+| Moamarias | — | They were low-caste peasants who followed Aniruddhadeva (1553–1624). They challenged the Ahom kings. Their headquarters was Bhatiapar. |
+| Gorakhpur and Bahraich (1781) | — | In 1778 Major Alexander Hannay became izaradar (revenue farmer) of Gorakhpur and Bahraich, for 22 lakh rupees. The rising came in 1781. |
+| Vizianagaram (1794) | Raja of Vizianagaram | He died in battle at Padmanabham. |
+| Dhundia Wagh (1800) | Dhundia Wagh (Bednur) | He was killed in September 1800, fighting forces under Wellesley. |
+| Travancore | Velu Thampi, the Dalawa (chief minister) | He issued the Kundara Proclamation. He killed himself to avoid capture. |
+| Bundelkhand | Lakshman Dawa (Ajaygarh), Darya Singh (Kalanjar), Gopal Singh | The chiefs were bound by contractual obligations called Ikarnamahs. These three resisted. |
+| Hathras (1817) | Dayaram | The fort was called a 'second Bharatpur'. |
+| Kutch (1819) | Rao Bharamal II | He raised Arab and African troops. |
+| Okha Mandal (1820) | Waghera chiefs | A peace treaty was signed in November 1820. |
+| Ahom Revolt (1828) | Gomdhar Konwar | Upper Assam was given to Maharaja Purandar Singh. |
+| Ganjam and Gumsur (till 1837) | Strikara Bhanj, Dhananjaya Bhanj | The struggle ended with the arrest of Doora Bisayi in February 1837. |
+| Kolhapur (after 1844) | Gadkaris | They occupied the forts of Samangarh and Bhudargarh. |
+
+## Religious movements
+
+### Wahabi Movement
+
+- Syed Ahmed of Rai Bareilly founded it.
+- It was inspired by Abdul Wahab and Shah Waliullah.
+- **Base:** Sithana.
+- **Important centre in India:** Patna.
+- It declared jihad (holy war) on the Sikh kingdom.
+- **After 1849:** It fought the British. They were now its sole target.
+
+### Kuka Movement
+
+- **1840:** Bhagat Jawahar Mal, also called Sian Saheb, founded it.
+- Baba Ram Singh founded the Namdhari sect.
+- The Kukas preached Swadeshi and boycott.
+- **1872:** Ram Singh was deported to Rangoon.
+
+## Peasant movements
+
+These peasant movements had religious overtones.
+
+| Movement | Leader | Key facts |
+| --- | --- | --- |
+| Narkelberia uprising | Titu Mir (Mir Nithar Ali) | It is often considered the first armed peasant uprising against the British. It later merged into the Wahabi movement. |
+| Pagal Panthis (1825–35) | Karam Shah founded the sect. His son Tipu led the rising. | It was among the Hajong and Garo tribes of Mymensingh. |
+| Moplahs of Malabar (1836–1854) | — | There were 22 rebellions in these years. |
+| Faraizis (1838–57) | Haji Shariat-Allah of Faridpur founded the sect. | The Faraizi disturbances went on through these years. |
+
+After 1857 the peasants of Awadh could not use the Bengal Rent Act of 1859. Land was restored to the taluqdars (big landholders).
+
+## Tribal revolts
+
+Tribal movements were the most frequent, militant and violent. Many of them were in Bihar and Jharkhand.
+
+### Bihar and Jharkhand
+
+#### Chuar uprising
+
+- **1766–72 and 1795–1816:** The Chuars rose in these two periods.
+- **1768:** Jagannath Singh of Ghatsila led them.
+- **1798:** The most significant rising came under Durjan Singh, the zamindar of Raipur.
+- It is also called the Revolt of the Jungle Mahal.
+
+#### Pahariyas of the Rajmahal Hills
+
+- **1778:** The Pahariyas rose. Their territory was declared a damni-kol area.
+
+#### Kol Mutiny (1831)
+
+- It took place in Chhotanagpur: Ranchi, Singhbhum, Hazaribagh, Palamau and western Manbhum.
+- Buddho Bhagat led it.
+- About a thousand outsiders were killed or burnt.
+
+#### Ho and Munda risings
+
+- The Raja of Parahat organised the Ho revolt. It was against the occupation of Singhbhum.
+- **1831:** The Mundas joined the Hos.
+- **1837:** The Ho operations went on till this year.
+- **1899–1900:** The Mundas rose under Birsa Munda, south of Ranchi. This rising is called the Ulgulan. Birsa was captured and imprisoned.
+
+#### Santhal Rebellion (1855–56)
+
+- It took place in the Rajmahal hills (Bihar).
+- Sidhu and Kanhu led it. They declared the area between Bhagalpur and Rajmahal autonomous.
+- **1856:** The rebellion was suppressed by this year.
+
+#### Other movements in Bihar
+
+- **1870s:** The Kharwar Rebellion was against the revenue settlement.
+- **Tana Bhagat movement:** Jatra Bhagat and Balram Bhagat are linked with it. It began as a Sanskritisation movement, that is, one taking up upper-caste customs.
+- **1930s:** The Karwars of Palamau held a forest satyagraha.
+- **1949:** The Regional Jharkhand Party replaced the Adivasi Mahasabha (1937).
+
+### Other regions
+
+| Revolt | Leader | Key facts |
+| --- | --- | --- |
+| Ramosis (1822) | Chittur Singh, later Umaji Naik | — |
+| Khond uprisings (1837–56) | Chakra Bisoi | They were against the suppression of human sacrifice and against new taxes. |
+| Koya revolts | Tomma Sora (1879–80), Raja Anantayyar (1886) | — |
+| Bhils | Govind Guru | He organised them for a Bhil Raj by 1913. |
+
+The Kolis also rose.
+
+### North-east
+
+- **Khasi Uprising:** Tirath Singh led it. It was suppressed by 1833.
+- **1839:** The Singphos killed the British political agent.
+- **1843:** Nirang Phidu led the Singpho rising.
+
+The revolts of the north-east frontier were not forest-based or agrarian. Sanskritisation movements were almost totally absent there.
+
+## Sepoy mutinies
+
+The sepoy mutinies came from pay discrimination and religious grievances.
+
+1. **1764:** There was a mutiny in Bengal.
+2. **1806:** The Vellore Mutiny began over a leather cockade (a badge worn on headgear) that replaced the turban. The flag of the ruler of Mysore was raised.
+3. **1824:** At Barrackpore the sepoys refused to go to Burma. Crossing the sea meant loss of caste.
+4. **1824:** The 47th N.I. (Native Infantry) mutinied.
+5. **1825:** The Grenadier Company mutinied in Assam.
+6. **1838:** There was a mutiny at Sholapur.
+7. **1844:** The 34th N.I. mutinied.
+8. **1849:** The 22nd N.I. mutinied.
+9. **1850:** The 66th N.I. mutinied.
+10. **1852:** The 37th N.I. mutinied.
+11. **1856:** Lord Canning's General Service Enlistment Act caused more anger.
+
+## Why the risings stayed limited
+
+1. All these risings were local.
+2. They used outdated weapons.
+3. They had no national aim.
+
+> **Remember**
+>
+> - **1763–1800:** The Sanyasi (Fakir) Revolt was set off by the famine of 1770.
+> - **1800–02:** Bhukhan Singh, a Chero chief, led the Palamau rising.
+> - **1806:** The Vellore Mutiny began over a leather cockade.
+> - **1817:** Bakshi Jagabandhu Bidyadhar led the Paika Rebellion in Odisha.
+> - **1831:** Buddho Bhagat led the Kol Mutiny in Chhotanagpur.
+> - **Patna:** the important Indian centre of the Wahabi Movement.
+> - **Titu Mir:** His Narkelberia uprising is often called the first armed peasant uprising.
+> - **1855–56:** In the Santhal Rebellion, Sidhu and Kanhu declared the area between Bhagalpur and Rajmahal autonomous.
+> - **1872:** Baba Ram Singh of the Kuka Movement was deported to Rangoon.
+> - **1856:** Lord Canning's General Service Enlistment Act.

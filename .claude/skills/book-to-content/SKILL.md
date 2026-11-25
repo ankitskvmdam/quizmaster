@@ -84,6 +84,11 @@ When all agents are done:
 > "Book inconsistency: … — verify". Where a fact has since changed (a law, an office holder, a figure), follow the
 > book and add a bullet "⚠ May be outdated: …".
 >
+> **Page shape:** write the chapter page as one structured study page, following
+> `.claude/skills/study-content-writing/SKILL.md` (read it first) and checked with its `check-page.mjs --en-only`.
+> The "Gist" and "Key facts" description below says what the page must contain; that skill says how it is laid out,
+> and it replaces the two headings.
+>
 > **Gist** (`NN-<chapter-slug>.md`, 300–500 words; up to about 1,100 for very long chapters, in parts).
 > - Frontmatter: `slug`, `number`, `title` (as in the book), `covers: [<group>]`.
 > - `## Gist`, starting with `*Book pages X–Y.*` (printed pages), then a last-day-revision summary that keeps the

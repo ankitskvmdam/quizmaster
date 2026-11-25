@@ -4,46 +4,141 @@ number: 11
 title: "Indian National Congress: Foundation and the Moderate Phase"
 covers: [modern]
 ---
-## Gist
-*Book pages 247–256.*
+Book pages 247–256.
 
-A retired English civil servant, **A.O. Hume**, gave final shape to the idea of an all-India body and organised the **first session of the INC at Gokuldas Tejpal Sanskrit College, Bombay, in December 1885**: **72 delegates**, presided over by **Womesh Chandra Bonnerjee**. Two sessions of the **Indian National Conference** (1883, 1885), architected by **Surendranath Banerjea and Ananda Mohan Bose**, were its prelude. Thereafter the Congress met **every December in a different place**. **Dadabhai Naoroji** was president **thrice**. In **1890** **Kadambini Ganguly**, the **first woman graduate of Calcutta University**, addressed the Congress session.
+## Background: before the Congress
 
-The **'safety valve' theory** says Hume founded the Congress to release Indian discontent and convinced **Lord Dufferin** not to obstruct it; **Lala Lajpat Rai** believed it, and the Marxist **R.P. Dutt** offered a **'conspiracy theory'**. Modern historians dispute it: as **Bipan Chandra** observes, the early leaders used Hume as a **'lightning conductor'**, since an Indian-convened body would have faced insurmountable official opposition.
+1. **1883 and 1885:** The Indian National Conference held two sessions. Its main architects were Surendranath Banerjea and Ananda Mohan Bose. These sessions were the prelude to the Congress.
+2. A.O. Hume was a retired English civil servant. He gave final shape to the idea of an all-India body.
+3. The chapter summary notes that Hume's Indian National Union became the Indian National Congress (INC).
 
-The **Moderates (1885–1905)** — Naoroji, Pherozshah Mehta, D.E. Wacha, W.C. Bonnerjea, S.N. Banerjea — believed in **liberalism** and **constitutional agitation within the law**, using **'prayer and petition'**. A **British committee of the INC** was set up in **London in 1889** with **'India'** as its organ; a planned **London session (1892)** was dropped owing to the **British elections of 1891**.
+## Foundation of the Congress
 
-Their contributions: an **economic critique** — the **'drain theory'** (Naoroji, R.C. Dutt, Wacha), demands for lower land revenue, abolition of salt tax, lower military expenditure and **tariff protection**; **work in the legislatures**, which had **no real power till 1920** (only **45 Indians nominated 1862–1892**). The **Indian Councils Act 1892** raised non-officials in the Imperial council to **10–16** (from 6–10), introduced the **principle of representation**, and allowed **budget discussion and questions** — but no voting on the budget or supplementaries; nationalists answered with **"No taxation without representation"**. **Naoroji (1904), Gokhale (1905) and Tilak (1906)** demanded self-government like **Canada and Australia**. They also campaigned for **Indianisation of services**, **separation of judicial from executive functions**, welfare spending, and **civil rights** (outrage over **Tilak's arrest in 1897** and the **Natu brothers'** deportation without trial).
+1. **December 1885:** Hume organised the first session of the INC. It met at Gokuldas Tejpal Sanskrit College, Bombay. There were 72 delegates. Womesh Chandra Bonnerjee presided.
+2. After this the Congress met every December in a different place.
+3. Dadabhai Naoroji was Congress president thrice in the early phase.
+4. **1890:** Kadambini Ganguly addressed the Congress session. She was the first woman graduate of Calcutta University.
 
-Their **social base was narrow**; they **lacked faith in the masses**. Bipan Chandra called **1858–1905** the **"seed time of Indian nationalism"**; Lajpat Rai called it an **"opportunist movement"**. The government grew hostile, especially **after 1887**; **Dufferin** called the Congress **"a factory of sedition"**; officials backed **Sir Syed Ahmed Khan and Raja Shiv Prasad Singh of Benaras** to form the **United Indian Patriotic Association**; **Curzon (1900)** hoped to assist the Congress "to a **peaceful demise**".
+## Views on Hume's role
 
-## Key facts
-- First INC session: **December 1885, Gokuldas Tejpal Sanskrit College, Bombay**; **72 delegates**; president **Womesh Chandra Bonnerjee**.
-- **A.O. Hume** — retired English civil servant who gave final shape to the idea; the summary notes his **Indian National Union** became the INC.
-- **Indian National Conference** sessions in **1883 and 1885**; main architects **Surendranath Banerjea and Ananda Mohan Bose**.
-- **Dadabhai Naoroji** — Congress president **thrice** in the early phase.
-- **Kadambini Ganguly** — **first woman graduate of Calcutta University**; addressed the Congress in **1890**.
-- **Safety valve theory** — believed by **Lala Lajpat Rai**; Hume convinced **Lord Dufferin** not to obstruct the Congress.
-- **Conspiracy theory** — Marxist historian **R.P. Dutt**: Congress born to abort a popular uprising.
-- **'Lightning conductor'** — **Bipan Chandra's** observation that early leaders used Hume as a catalyst (the chapter summary credits the theory to G.K. Gokhale).
-- Moderate leaders: **Dadabhai Naoroji, Pherozshah Mehta, D.E. Wacha, W.C. Bonnerjea, S.N. Banerjea**; era **1885–1905**.
-- Moderate method: **constitutional agitation within the law**; **'prayer and petition'**.
-- **British committee of the INC** — **London, 1889**; organ **'India'**.
-- Proposed INC session in **London (1892)** postponed owing to the **British elections of 1891** and never revived.
-- **Drain theory** — **Dadabhai Naoroji, R.C. Dutt, Dinshaw Wacha** and others.
-- Economic demands: **reduction in land revenue**, **abolition of salt tax**, better conditions for **plantation labour**, **reduction in military expenditure**, **tariff protection** for industry.
-- Legislative councils had **no real official power till 1920**; Imperial Legislative Council created by the **Indian Councils Act 1861**.
-- Only **45 Indians** were nominated to the Imperial Legislative Council in **1862–1892**.
-- 1885–1892 demands: **expansion of councils** and **reform of councils** (more powers, control over finances).
-- **Indian Councils Act 1892**: non-officials in Imperial council **10 to 16** (earlier **6 to 10**); nominated by **Bengal Chamber of Commerce and provincial legislative councils**; **principle of representation** introduced; **budget could be discussed**, **questions could be asked**.
-- 1892 Act limitations: **official majority**; **budget could not be voted or amended**; **no supplementaries**; council met on average **13 days a year** till 1909, with only **5 of 24** unofficial Indian members present.
-- After 1892: demand for **majority of elected Indians** and **control over the budget**; slogan **"No taxation without representation"**.
-- Self-government on the lines of **Canada and Australia** demanded by **Naoroji (1904), Gokhale (1905), Tilak (1906)**.
-- Indianisation of services argued on **economic, political (salaries/pensions sent to England = drain) and moral** grounds.
-- Criticised aggressive foreign policy: **annexation of Burma**, **attack on Afghanistan**, **suppression of tribals in the North-West**.
-- Civil rights: public outrage at **arrest of Tilak (1897)** and **deportation of the Natu brothers without trial**.
-- **Ranade to Gokhale (1891)**: memorials are nominally addressed to the Government but really to **the people**.
-- **"Seed time of Indian nationalism" (1858–1905)** — **Bipan Chandra**; **"opportunist movement"** — **Lala Lajpat Rai**; "brick and mortar... in the foundation" — **Pattabhi Sitaramayya**.
-- Government hostility stiffened **after 1887**; **Dufferin**: Congress **"a factory of sedition"**; nationalists called "seditious brahmins", "disloyal babus".
-- **United Indian Patriotic Association** — organised by **Sir Syed Ahmed Khan** and **Raja Shiv Prasad Singh of Benaras** to counter the Congress.
-- **Lord Curzon (1900)**: "The Congress is tottering to its fall... **peaceful demise**".
+| View | Whose view | What it says |
+| --- | --- | --- |
+| Safety valve theory | Lala Lajpat Rai believed it. | Hume founded the Congress to release Indian discontent. He convinced Lord Dufferin not to obstruct the Congress. |
+| Conspiracy theory | R.P. Dutt, a Marxist historian, offered it. | The Congress was born to abort a popular uprising. |
+| 'Lightning conductor' | Bipan Chandra observed this. | The early leaders used Hume as a catalyst. A body convened by an Indian would have faced insurmountable official opposition. |
+
+- Modern historians dispute the safety valve theory.
+- Book inconsistency: the chapter summary credits the 'lightning conductor' theory to G.K. Gokhale. Verify.
+
+## The Moderates (1885–1905)
+
+### Leaders
+
+- The Moderate leaders were Dadabhai Naoroji, Pherozshah Mehta, D.E. Wacha (Dinshaw Wacha), W.C. Bonnerjee and S.N. Banerjea.
+- Their era ran from 1885 to 1905.
+
+### Method
+
+- The Moderates believed in liberalism.
+- They believed in constitutional agitation within the law.
+- They used 'prayer and petition'.
+
+### Work in Britain
+
+1. **1889:** A British committee of the INC was set up in London. Its organ (journal) was 'India'.
+2. **1892:** An INC session was proposed for London. It was postponed owing to the British elections of 1891. It was never revived.
+
+## Contributions of the Moderates
+
+### Economic critique
+
+- The Moderates made an economic critique of British rule.
+- Dadabhai Naoroji, R.C. Dutt, Dinshaw Wacha and others put forward the 'drain theory'. It said that India's wealth was flowing to Britain.
+
+Their economic demands:
+
+1. Reduction in land revenue.
+2. Abolition of the salt tax.
+3. Better conditions for plantation labour.
+4. Reduction in military expenditure.
+5. Tariff protection for industry.
+
+### Work in the legislatures
+
+1. **1861:** The Indian Councils Act 1861 created the Imperial Legislative Council.
+2. **1862–1892:** Only 45 Indians were nominated to the Imperial Legislative Council.
+3. **1885–1892:** The Moderates demanded expansion of councils and reform of councils. Reform meant more powers and control over finances.
+4. **1892:** The Indian Councils Act 1892 was passed.
+5. **After 1892:** The Moderates demanded a majority of elected Indians and control over the budget. Their slogan was "No taxation without representation".
+6. **Till 1909:** The council met on average 13 days a year. Only 5 of 24 unofficial Indian members were present.
+7. **Till 1920:** The legislative councils had no real official power.
+
+What the Indian Councils Act 1892 gave:
+
+- Non-officials in the Imperial council rose to between 10 and 16. Earlier they were 6 to 10.
+- They were nominated by the Bengal Chamber of Commerce and the provincial legislative councils.
+- The principle of representation was introduced.
+- Discussion of the budget was allowed.
+- Questions could be asked.
+
+What the Act did not give:
+
+- There was still an official majority.
+- The budget could not be voted or amended.
+- No supplementaries (follow-up questions) were allowed.
+
+### Demand for self-government
+
+The Moderates demanded self-government on the lines of Canada and Australia.
+
+1. **1904:** Naoroji made the demand.
+2. **1905:** Gokhale made the demand.
+3. **1906:** Tilak made the demand.
+
+### Administrative reforms
+
+- **Indianisation of services:** The Moderates argued for it on economic, political and moral grounds. Salaries and pensions sent to England were a drain.
+- **Separation of powers:** They wanted separation of judicial from executive functions.
+- **Welfare:** They campaigned for welfare spending.
+- **Foreign policy:** They criticised the aggressive foreign policy. They named the annexation of Burma, the attack on Afghanistan and the suppression of tribals in the North-West.
+
+### Civil rights
+
+- **1897:** The arrest of Tilak caused public outrage.
+- The deportation of the Natu brothers without trial also caused outrage.
+
+## An assessment of the Moderates
+
+Two weaknesses:
+
+1. Their social base was narrow.
+2. They lacked faith in the masses.
+
+- **1891:** Ranade said to Gokhale that memorials (petitions) are nominally addressed to the Government. They are really addressed to the people.
+
+| Who said it | What was said |
+| --- | --- |
+| Bipan Chandra | The years 1858–1905 were the "seed time of Indian nationalism". |
+| Lala Lajpat Rai | It was an "opportunist movement". |
+| Pattabhi Sitaramayya | "brick and mortar... in the foundation" |
+
+## Attitude of the government
+
+1. **After 1887:** The hostility of the government stiffened.
+2. Dufferin called the Congress "a factory of sedition".
+3. The nationalists were called "seditious brahmins" and "disloyal babus".
+4. Officials backed Sir Syed Ahmed Khan and Raja Shiv Prasad Singh of Benaras. The two organised the United Indian Patriotic Association to counter the Congress.
+5. **1900:** Lord Curzon said: "The Congress is tottering to its fall... peaceful demise". He hoped to assist it to that end.
+
+> **Remember**
+>
+> - **December 1885:** The first session of the INC met at Gokuldas Tejpal Sanskrit College, Bombay.
+> - **72 delegates:** Womesh Chandra Bonnerjee presided over the first session.
+> - **Dadabhai Naoroji:** Congress president thrice in the early phase.
+> - **1889:** A British committee of the INC was set up in London. Its organ was 'India'.
+> - **1890:** Kadambini Ganguly, the first woman graduate of Calcutta University, addressed the Congress.
+> - **1892:** The Indian Councils Act raised non-officials in the Imperial council to between 10 and 16.
+> - **1862–1892:** Only 45 Indians were nominated to the Imperial Legislative Council.
+> - **1904, 1905, 1906:** Naoroji, Gokhale and Tilak demanded self-government like Canada and Australia.
+> - **Lightning conductor:** Bipan Chandra's phrase for the way the early leaders used Hume.
+> - **1900:** Curzon hoped for the "peaceful demise" of the Congress.

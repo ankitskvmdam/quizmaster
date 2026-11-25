@@ -16,8 +16,15 @@ import { Breadcrumbs } from './crumbs'
 import { MarkDone } from './mark-done'
 import { MarkChapterRead } from './mark-chapter-read'
 import { cn } from '@/lib/utils'
+import { textLang, type ContentLang } from '@/lib/lang'
 
 type Ctx = { courseSlug: string; courseName: string; tree: Tree }
+
+/** A lesson or chapter title is Hindi when it is written in Devanagari (titles fall back to English one by one). */
+const titleLang = textLang
+/** Hindi titles get the Devanagari face, room for matras and no tracking; English titles keep their look. */
+const titleClass = (title: string) =>
+  cn('text-[30px] font-semibold', titleLang(title) ? 'font-hindi leading-[1.4] tracking-normal' : 'leading-tight tracking-tight')
 const nodeHref = (ctx: Ctx, path: string) => `/courses/${ctx.courseSlug}/${path}`
 
 /** Course · subject · … down to (but not including) the current page. */
@@ -50,7 +57,9 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
           node.questionCount > 0 ? (
             <ActionButton variant="secondary" action={startTopicPractice.bind(null, node.id)}>
               <Dumbbell />
-              Practice {node.name}
+              <span>
+                Practice <span lang={titleLang(node.name)}>{node.name}</span>
+              </span>
             </ActionButton>
           ) : undefined
         }
@@ -59,7 +68,7 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
         {empty && (
           <Panel>
             <EmptyState icon={<BookOpen />} title="Nothing here yet">
-              Notes and questions for {node.name} appear here as soon as they are added.
+              Notes and questions for <span lang={titleLang(node.name)}>{node.name}</span> appear here as soon as they are added.
             </EmptyState>
           </Panel>
         )}
@@ -67,7 +76,9 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
         {onlyBooks && (
           // No notes of its own: point to the book(s) that cover it rather than repeating their chapters here.
           <Panel className="flex flex-col gap-3">
-            <p className="text-sm text-muted-foreground">{node.name} is covered in:</p>
+            <p className="text-sm text-muted-foreground">
+              <span lang={titleLang(node.name)}>{node.name}</span> is covered in:
+            </p>
             <ul className="flex flex-col gap-2">
               {taggedBooks.map(({ book, subjectPath, count }) => (
                 <li key={book.id}>
@@ -76,7 +87,9 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
                     className="focus-ring -mx-2 flex items-center gap-3 rounded-lg px-2 py-2 font-medium hover:bg-soft"
                   >
                     <BookOpen className="size-4 shrink-0 text-muted-foreground" aria-hidden />
-                    <span className="flex-1">{book.title}</span>
+                    <span lang={titleLang(book.title)} className="flex-1">
+                      {book.title}
+                    </span>
                     <span className="text-[13px] text-muted-foreground">
                       <Mono>{count}</Mono> {count === 1 ? 'chapter' : 'chapters'}
                     </span>
@@ -117,7 +130,9 @@ export function NodeView({ ctx, node }: { ctx: Ctx; node: TreeNode }) {
                       className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3.5 hover:bg-soft"
                     >
                       <Mono className="w-6 text-sm text-muted-foreground">{String(i + 1).padStart(2, '0')}</Mono>
-                      <span className="flex-1 font-medium">{l.title}</span>
+                      <span lang={titleLang(l.title)} className="flex-1 font-medium">
+                        {l.title}
+                      </span>
                       {l.done && (
                         <span className="flex items-center gap-1 text-[13px] text-correct-fg">
                           <Check className="size-4" aria-hidden />
@@ -145,6 +160,7 @@ export function LessonView({
   node,
   lesson,
   body,
+  bodyLang,
   prev,
   next,
 }: {
@@ -152,6 +168,7 @@ export function LessonView({
   node: TreeNode
   lesson: RawLesson
   body: string
+  bodyLang: ContentLang
   prev: RawLesson | null
   next: RawLesson | null
 }) {
@@ -162,25 +179,31 @@ export function LessonView({
     <article className="mx-auto max-w-[70ch]">
       <GlowBackdrop still />
       <header className="mb-8 flex flex-col gap-2">
-        <h1 className="text-[30px] leading-tight font-semibold tracking-tight">{lesson.title}</h1>
+        <h1 className={titleClass(lesson.title)} lang={titleLang(lesson.title)}>
+          {lesson.title}
+        </h1>
       </header>
-      <Markdown source={body} />
+      <Markdown variant="reading" lang={bodyLang} source={body} />
       <footer className="mt-12 flex flex-col gap-6 border-t border-hairline pt-6">
         <MarkDone lessonId={lesson.id} done={lesson.done} />
         <nav aria-label="Notes" className="flex flex-wrap justify-between gap-3">
           {prev ? (
-            <Button variant="secondary" asChild>
+            <Button variant="secondary" asChild className="max-w-full">
               <Link href={`${base}/${prev.slug}`}>
                 <ArrowLeft />
-                {prev.title}
+                <span lang={titleLang(prev.title)} className="truncate">
+                  {prev.title}
+                </span>
               </Link>
             </Button>
           ) : (
             <span />
           )}
-          <Button variant="secondary" asChild>
+          <Button variant="secondary" asChild className="max-w-full">
             <Link href={next ? `${base}/${next.slug}` : base}>
-              {next ? next.title : `Back to ${node.name}`}
+              <span lang={titleLang(next ? next.title : node.name)} className="truncate">
+                {next ? next.title : `Back to ${node.name}`}
+              </span>
               <ArrowRight />
             </Link>
           </Button>
@@ -226,7 +249,9 @@ function Shelf({ kind, base, books }: { kind: BookKind; base: string; books: Boo
             <Panel className="flex h-full flex-col gap-3 transition-colors group-hover:border-primary/40">
               <IconTile>{icon}</IconTile>
               <div>
-                <h3 className="text-lg font-semibold">{b.title}</h3>
+                <h3 lang={titleLang(b.title)} className="text-lg font-semibold">
+                  {b.title}
+                </h3>
                 {(b.author || b.edition) && (
                   <p className="text-sm text-muted-foreground">{[b.author, b.edition && `${b.edition} edition`].filter(Boolean).join(' · ')}</p>
                 )}
@@ -274,7 +299,11 @@ export function BookView({
         description={
           <>
             {[book.author, book.edition && `${book.edition} edition`].filter(Boolean).join(' · ')}
-            {book.description && <span className="block">{book.description}</span>}
+            {book.description && (
+              <span lang={titleLang(book.description)} className="block">
+                {book.description}
+              </span>
+            )}
           </>
         }
       />
@@ -312,7 +341,9 @@ export function BookView({
                 <li key={c.id} className="flex flex-col gap-3 py-3.5 sm:flex-row sm:items-center sm:justify-between">
                   <Link href={`${base}/${c.slug}`} className="focus-ring flex min-w-0 items-center gap-4 rounded-lg hover:underline">
                     <Mono className="w-6 text-sm text-muted-foreground">{String(c.number).padStart(2, '0')}</Mono>
-                    <span className="font-medium">{c.title}</span>
+                    <span lang={titleLang(c.title)} className="font-medium">
+                      {c.title}
+                    </span>
                     {c.read && (
                       <Badge tone="correct">
                         <Check className="size-3" aria-hidden />
@@ -356,6 +387,7 @@ export function ChapterView({
   book,
   chapter,
   gist,
+  gistLang,
   quiz,
   prev,
   next,
@@ -365,6 +397,7 @@ export function ChapterView({
   book: BookNode
   chapter: RawChapter
   gist: string
+  gistLang: ContentLang
   quiz: { testId: string; questionCount: number; bestScore: number | null } | null
   prev: RawChapter | null
   next: RawChapter | null
@@ -377,17 +410,20 @@ export function ChapterView({
     <article className="mx-auto max-w-[70ch]">
       <GlowBackdrop still />
       <header className="mb-6 flex flex-col gap-2">
-        <Eyebrow>{book.title}</Eyebrow>
-        <h1 className="text-[30px] leading-tight font-semibold tracking-tight">
+        {/* Uppercase mono with tracking breaks Devanagari conjuncts; a Hindi book title gets the Devanagari face. */}
+        <Eyebrow lang={titleLang(book.title)} className={cn(titleLang(book.title) && 'text-[13px]')}>
+          {book.title}
+        </Eyebrow>
+        <h1 className={titleClass(chapter.title)}>
           <Mono className="mr-2 text-muted-foreground">{chapter.number}.</Mono>
-          {chapter.title}
+          <span lang={titleLang(chapter.title)}>{chapter.title}</span>
         </h1>
         {covers.length > 0 && (
           <p className="flex flex-wrap items-center gap-2 text-[13px] text-muted-foreground">
             <Tag className="size-3.5" aria-hidden />
             Covers
             {covers.map((n) => (
-              <Link key={n.id} href={nodeHref(ctx, n.path)} className="focus-ring rounded-full border border-hairline bg-panel px-2.5 py-0.5 hover:bg-soft">
+              <Link key={n.id} href={nodeHref(ctx, n.path)} lang={titleLang(n.name)} className="focus-ring rounded-full border border-hairline bg-panel px-2.5 py-0.5 hover:bg-soft">
                 {[...ctx.tree.ancestors(n.path).slice(1), n].map((x) => x.name).join(' › ') || n.name}
               </Link>
             ))}
@@ -395,7 +431,7 @@ export function ChapterView({
         )}
       </header>
 
-      <Markdown source={gist} className="[&_h2]:mt-8 [&_li]:my-2 [&_strong]:font-semibold [&_strong]:text-tint-foreground" />
+      <Markdown variant="reading" lang={gistLang} source={gist} className="[&_strong]:font-semibold [&_strong]:text-tint-foreground" />
 
       <footer className="mt-10 flex flex-col gap-6 border-t border-hairline pt-6">
         <div className="flex flex-wrap items-start justify-between gap-3">
@@ -420,18 +456,23 @@ export function ChapterView({
         </div>
         <nav aria-label="Chapters" className="flex flex-wrap justify-between gap-3">
           {prev ? (
-            <Button variant="secondary" asChild>
+            <Button variant="secondary" asChild className="max-w-full">
               <Link href={`${bookHref}/${prev.slug}`}>
                 <ArrowLeft />
-                {prev.number}. {prev.title}
+                <span lang={titleLang(prev.title)} className="truncate">
+                  {prev.number}. {prev.title}
+                </span>
               </Link>
             </Button>
           ) : (
             <span />
           )}
-          <Button variant="secondary" asChild>
+          {/* Long chapter titles truncate inside the button so a phone never scrolls sideways. */}
+          <Button variant="secondary" asChild className="max-w-full">
             <Link href={next ? `${bookHref}/${next.slug}` : bookHref}>
-              {next ? `${next.number}. ${next.title}` : `Back to ${book.title}`}
+              <span lang={titleLang(next ? next.title : book.title)} className="truncate">
+                {next ? `${next.number}. ${next.title}` : `Back to ${book.title}`}
+              </span>
               <ArrowRight />
             </Link>
           </Button>

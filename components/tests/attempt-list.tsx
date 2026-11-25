@@ -8,6 +8,7 @@ import { formatDateTime, formatDuration, formatPercent, formatScore } from '@/li
 import { Badge } from '@/components/badge'
 import { DataTable } from '@/components/data-table'
 import { Mono } from '@/components/surfaces'
+import { textLang } from '@/lib/lang'
 
 export function ModeBadge({ mode }: { mode: 'timed' | 'practice' }) {
   return <Badge tone={mode === 'timed' ? 'primary' : 'neutral'}>{mode === 'timed' ? 'Timed' : 'Practice'}</Badge>
@@ -46,7 +47,7 @@ export function AttemptList({ rows, compact = false }: { rows: AttemptRow[]; com
                 }}
               >
                 <td className="font-medium">
-                  <Link href={href(a.id)} className="focus-ring rounded hover:underline">
+                  <Link href={href(a.id)} lang={textLang(a.testTitle)} className="focus-ring rounded hover:underline">
                     {a.testTitle}
                   </Link>
                 </td>
@@ -73,7 +74,9 @@ export function AttemptList({ rows, compact = false }: { rows: AttemptRow[]; com
           <li key={a.id} className={i > 0 ? 'border-t border-hairline' : undefined}>
             <Link href={href(a.id)} className="focus-ring -mx-2 flex items-center gap-3 rounded-lg px-2 py-3 hover:bg-soft">
               <div className="min-w-0 flex-1">
-                <p className="truncate font-medium">{a.testTitle}</p>
+                <p lang={textLang(a.testTitle)} className="truncate font-medium">
+                  {a.testTitle}
+                </p>
                 <p className="mt-1 flex flex-wrap items-center gap-x-2 gap-y-1 text-[13px] text-muted-foreground">
                   <ModeBadge mode={a.mode} />
                   <Mono className="text-foreground">

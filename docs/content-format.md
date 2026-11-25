@@ -170,6 +170,19 @@ Two to five short paragraphs: what the chapter is about and why it matters, in p
 - At least one bullet. Prefer facts an exam can ask: names, dates, places, firsts, numbers.
 ```
 
+**Preferred shape: one structured study page.** Instead of `## Gist` + `## Key facts`, the body may be one merged
+page with three or more `##` sections (an at-a-glance table, the main sections with the same sub-headings in each,
+comparison tables, numbered reasons) ending in a "Remember" callout:
+
+```md
+> **Remember**
+>
+> - **May 1498:** Vasco da Gama reached Calicut.
+```
+
+How to write it, in English and Hindi, is in `.claude/skills/study-content-writing/SKILL.md`; its `check-page.mjs`
+checks a page. New pages should use this shape. The loader accepts both.
+
 `covers` links the book to the syllabus. Every path must exist under the same subject. A chapter can cover several
 nodes; tag the most specific nodes it really teaches.
 

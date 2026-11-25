@@ -128,9 +128,14 @@
 /* Tailwind names for the tokens                                       */
 /* ------------------------------------------------------------------ */
 @theme inline {
-  --font-sans: var(--font-hanken), ui-sans-serif, system-ui, sans-serif;
-  --font-mono: var(--font-jetbrains), ui-monospace, monospace;
+  /* Hanken Grotesk and JetBrains Mono have no Devanagari, so every Devanagari glyph anywhere in the app comes from
+     Noto Sans Devanagari (the face of the study text) while Latin text keeps its typeface. */
+  --font-sans: var(--font-hanken), var(--font-devanagari), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), var(--font-devanagari), ui-monospace, monospace;
   --font-heading: var(--font-sans);
+  /* Hindi text (font-hindi, and anything marked lang="hi"): Noto Sans Devanagari carries the Latin letters and digits
+     too, so mixed lines share one face and one baseline. */
+  --font-hindi: var(--font-devanagari), var(--font-hanken), ui-sans-serif, system-ui, sans-serif;
 
   --color-canvas: var(--canvas);
   --color-panel: var(--panel-bg);
@@ -241,6 +246,24 @@
 /* Fields on glass are see-through on the light theme; solid while in use. */
 :root:not([data-theme="dark"]) .glass-surface {
   --input-bg: rgb(255 255 255 / 0.45);
+}
+
+/* Hindi anywhere (an element marked lang="hi", see textLang in lib/lang.ts): the reading view's typography.
+   Unlayered, so it wins over any utility on the element (tracked uppercase mono labels, italics, tight leading),
+   which would break conjuncts or clip matras. :where() keeps it at zero specificity, so KaTeX keeps its fonts. */
+:where(:lang(hi)) {
+  /* The same stack as --font-hindi, spelled out: @theme inline doesn't promise the variable exists at runtime. */
+  font-family: var(--font-devanagari), var(--font-hanken), ui-sans-serif, system-ui, sans-serif;
+  letter-spacing: normal;
+  text-transform: none;
+  font-style: normal;
+}
+/* Room above and below the line for matras wherever a tight line-height or a clipping box would cut them. */
+:where(:lang(hi)):is(.leading-none, .leading-tight, .leading-snug) {
+  line-height: 1.4;
+}
+:where(:lang(hi)):is(.truncate) {
+  line-height: 1.6;
 }
 
 /* KaTeX defaults to 1.21em, which shouts next to body text. */

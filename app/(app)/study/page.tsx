@@ -16,6 +16,7 @@ import { SectionRetry } from '@/components/section-retry'
 import { ActionButton } from '@/components/action-button'
 import { AttemptList } from '@/components/tests/attempt-list'
 import { Button } from '@/components/ui/button'
+import { textLang } from '@/lib/lang'
 
 export const metadata: Metadata = { title: 'Study' }
 
@@ -71,7 +72,12 @@ async function ContinuePanel() {
         : c.type === 'chapter'
           ? {
               icon: <BookOpen />,
-              eyebrow: `Next chapter · ${c.bookTitle}`,
+              // The book title may be Hindi: its own lang keeps it out of the eyebrow's tracked uppercase mono.
+              eyebrow: (
+                <>
+                  Next chapter · <span lang={textLang(c.bookTitle)}>{c.bookTitle}</span>
+                </>
+              ),
               title: `${c.number}. ${c.title}`,
               sub: 'Read the gist, then take the chapter quiz',
               href: c.href,
@@ -92,8 +98,14 @@ async function ContinuePanel() {
       </IconTile>
       <div className="flex-1">
         <Eyebrow>{view.eyebrow}</Eyebrow>
-        <p className="mt-1 text-xl font-semibold">{view.title}</p>
-        {view.sub && <p className="text-sm text-muted-foreground">{view.sub}</p>}
+        <p lang={textLang(view.title)} className="mt-1 text-xl font-semibold">
+          {view.title}
+        </p>
+        {view.sub && (
+          <p lang={textLang(view.sub)} className="text-sm text-muted-foreground">
+            {view.sub}
+          </p>
+        )}
       </div>
       <Button size="lg" asChild>
         <Link href={view.href}>
@@ -139,7 +151,7 @@ async function ProgressPanel() {
           {r.data.map((t) => (
             <li key={t.topicId} className="flex flex-col gap-2">
               <div className="flex items-baseline justify-between gap-3">
-                <Link href={t.href} className="focus-ring rounded font-medium hover:underline">
+                <Link href={t.href} lang={textLang(t.name)} className="focus-ring rounded font-medium hover:underline">
                   {t.name}
                 </Link>
                 <span className="text-[13px] text-muted-foreground">

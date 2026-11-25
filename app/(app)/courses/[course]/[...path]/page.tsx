@@ -35,7 +35,7 @@ export default async function CoursePathPage({ params }: Props) {
       return <NodeView ctx={ctx} node={r.node} />
     case 'lesson': {
       const lesson = await getLessonBody(r.lesson.id)
-      return <LessonView ctx={ctx} node={r.node} lesson={r.lesson} body={lesson.body_md} prev={r.prev} next={r.next} />
+      return <LessonView ctx={ctx} node={r.node} lesson={r.lesson} body={lesson.body_md} bodyLang={lesson.bodyLang} prev={r.prev} next={r.next} />
     }
     case 'book': {
       const [quizzes, wholeQuiz] = await Promise.all([getBookQuizScores(r.book.chapters.map((c) => c.id)), getBookQuiz(r.book.id)])
@@ -50,6 +50,7 @@ export default async function CoursePathPage({ params }: Props) {
           book={r.book}
           chapter={r.chapter}
           gist={detail.gist_md}
+          gistLang={detail.gistLang}
           quiz={detail.quiz}
           prev={r.prev}
           next={r.next}

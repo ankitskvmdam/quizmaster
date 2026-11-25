@@ -4,60 +4,162 @@ number: 17
 title: "Emergence of Swarajists, Socialist Ideas, Revolutionary Activities and Other New Forces"
 covers: [modern]
 ---
-## Gist
-*Book pages 340–356.*
+Book pages 340–356.
 
-After Gandhi's arrest (**March 1922**) Congressmen split over council entry. **C.R. Das, Motilal Nehru and Ajmal Khan** wanted to enter the councils to **'end or mend'** them (the **Swarajists**); **C. Rajagopalachari, Vallabhbhai Patel, Rajendra Prasad and M.A. Ansari** (the **No-changers**) preferred constructive work. The proposal was defeated at the **Gaya session (December 1922)**, so Das and Motilal formed the **Congress-Khilafat Swarajya Party**, with **C.R. Das as president**. A **Delhi compromise (September 1923)** let Swarajists contest as a group within the Congress. Their **manifesto (October 1923)** promised **uniform, continuous and consistent obstruction**. In **November 1923** they won **42 of 141** elected seats and a clear majority in the **Central Provinces**. Gandhi, released in **February 1924**, reconciled with them; the **Belgaum session (December 1924)**, the **only session Gandhi presided over**, accepted them as part of the Congress.
+## At a glance: the new forces of the 1920s
 
-The party weakened through communal riots, the split of the **Responsivists (Lajpat Rai, Malaviya, N.C. Kelkar)**, failure to back Bengal's mostly Muslim tenants, and **C.R. Das's death (1925)**. The leadership withdrew in **March 1926** and finally walked out in **1930**. Achievements: **Vithalbhai Patel** became **Speaker of the Central Legislative Assembly (1925)**; the **Public Safety Bill** was defeated in **1928**. No-changers ran ashrams (**Kheda, Bardoli**), national schools, and khadi work.
+| Force | Began | Key names |
+| --- | --- | --- |
+| Swarajists | December 1922 | C.R. Das, Motilal Nehru |
+| CPI | 1920, Tashkent | M.N. Roy, Abani Mukherji |
+| AITUC | 1920 | Lala Lajpat Rai |
+| Self-respect movement | 1925 | Periyar |
+| HRA | October 1924, Kanpur | Ramprasad Bismil, Jogesh Chandra Chatterjee, Sachin Sanyal |
+| Punjab Naujawan Bharat Sabha | 1926 | Bhagat Singh |
+| HSRA | September 1928, Delhi | Chandra Shekhar Azad |
 
-New forces of the 1920s: a left wing under **Jawaharlal Nehru and Subhash Bose**; the **CPI formed in 1920 at Tashkent** by **M.N. Roy and Abani Mukherji**; the **Kanpur Bolshevik Conspiracy Case (1924)**; the **Kanpur conference (1925)** that formalised the CPI; the **Meerut conspiracy case (1929, 31 accused)**. The **AITUC (1920)** had **Lala Lajpat Rai** as first president; the first **May Day** was held in **Madras (1923)**; the **Bardoli Satyagraha (1928)** was led by **Vallabhbhai Patel**. Caste movements included **Periyar's Self-respect movement (1925)** and the **Yadavs in Bihar** seeking better social status.
+## Background: the split over council entry
 
-Disillusioned youth revived revolutionary activity. In **Punjab-UP-Bihar**, the **HRA** was founded at **Kanpur (October 1924)** by **Ramprasad Bismil, Jogesh Chandra Chatterjee and Sachin Sanyal**. After the **Kakori robbery (August 1925)** four were hanged: **Bismil, Ashfaqullah, Roshan Singh, Rajendra Lahiri**. At **Ferozshah Kotla, Delhi (September 1928)**, under **Chandra Shekhar Azad**, it became the **HSRA** with socialism as its goal. **Saunders** was shot in **Lahore (December 1928)** to avenge **Lajpat Rai**; **Bhagat Singh and Batukeshwar Dutt** threw harmless bombs in the **Central Legislative Assembly (April 8, 1929)**. **Jatin Das** died on the **64th day** of his fast; Azad died at **Allahabad (February 1931)**; **Bhagat Singh, Sukhdev and Rajguru** were hanged on **March 23, 1931**.
+1. **March 1922:** Gandhi was arrested.
+2. After this, Congressmen split over the question of council entry.
 
-In Bengal, **Gopinath Saha** attempted to kill **Charles Tegart (1924)**. **Surya Sen** led the **Chittagong Armoury Raid (April 1930)** with **65** activists of the **Indian Republican Army**; he was hanged in **January 1934**. Women such as **Pritilata Waddedar, Kalpana Dutt and Bina Das** took part. Ideologically, **Bhagwaticharan Vohra** wrote **The Philosophy of the Bomb**, and Bhagat Singh founded the **Punjab Naujawan Bharat Sabha (1926)**, moving towards Marxism and mass politics.
+| Group | Leaders | What they wanted |
+| --- | --- | --- |
+| Swarajists | C.R. Das, Motilal Nehru, Ajmal Khan | To enter the councils and 'end or mend' them |
+| No-changers | C. Rajagopalachari, Vallabhbhai Patel, Rajendra Prasad, M.A. Ansari | Constructive work and a continued boycott of the councils |
 
-## Key facts
-- Swarajists: **C.R. Das, Motilal Nehru, Ajmal Khan** — aim to **'end or mend'** the councils.
-- No-changers: **C. Rajagopalachari, Vallabhbhai Patel, Rajendra Prasad, M.A. Ansari** — constructive work, continued boycott.
-- Swarajists' proposal defeated at **Gaya session (December 1922)**; **Congress-Khilafat Swarajya Party** formed with **C.R. Das president**, **Motilal Nehru** a secretary.
-- Compromise at **Delhi, September 1923** — Swarajists to contest elections as a group within the Congress.
-- Swarajist manifesto, **October 1923** — strong anti-imperialist line; **uniform, continuous and consistent obstruction** if demands rejected.
-- **November 1923** elections — Swarajists won **42 of 141** elected seats; clear majority in **Central Provinces**.
-- Gandhi released on health grounds in **February 1924**.
-- **Belgaum session (December 1924)** — the **only session presided over by Gandhi**; Swarajists accepted as integral part of Congress.
-- **Responsivists**: **Lala Lajpat Rai, Madan Mohan Malaviya, N.C. Kelkar** — favoured office-holding and cooperation.
-- **C.R. Das died in 1925**; Swarajist leadership withdrew from legislatures in **March 1926**; finally walked out in **1930** (Lahore purna swaraj resolution).
-- 1926 elections: **40 seats** at the Centre; routed in **UP, CP and Punjab**.
-- **Vithalbhai Patel** — **Speaker of the Central Legislative Assembly, 1925**.
-- **Public Safety Bill** (to deport undesirable foreigners) defeated in **1928**.
-- No-changers' ashrams worked among tribals and lower castes, especially in **Kheda and Bardoli (Gujarat)**.
-- Congress left wing: **Jawaharlal Nehru and Subhash Chandra Bose**.
-- **CPI formed 1920 at Tashkent** by **M.N. Roy, Abani Mukherji** and others; **M.N. Roy** first to be elected to Comintern leadership.
-- **Kanpur Bolshevik Conspiracy Case (1924)** — **S.A. Dange, Muzaffar Ahmed, Shaukat Usmani, Nalini Gupta** jailed.
-- **Indian Communist Conference, Kanpur (1925)** formalised the CPI.
-- **Meerut conspiracy case (1929)** — **31** communists, trade unionists and left leaders tried.
-- **1928** — Jawaharlal Nehru presided over the **All Bengal Students' Conference**.
-- **Bardoli Satyagraha (1928)** — led by **Vallabhbhai Patel**.
-- **AITUC (1920)** — first president **Lala Lajpat Rai**, general secretary **Dewan Chaman Lal**; **Tilak** a moving spirit.
-- **Bombay Textile Mills** strike — **1,50,000 workers, 5 months**; in **1928** strikes involved **5 lakh** workers.
-- First **May Day** in India — **1923, Madras**.
-- **Self-respect movement (1925)** — **Periyar (E.V. Ramaswamy Naicker)**; **Radical Ezhavas** — **K. Aiyappan, C. Kesavan**; **Unionist Party** — **Fazl-i-Hussain**.
-- **Bihar**: **Yadavs** organised for improvement in social status.
-- Revolutionary books: **Bandi Jiwan — Sachin Sanyal**; **Pather Dabi — Sharatchandra Chatterjee**; journals **Atmasakti, Sarathi, Bijoli**.
-- **HRA** (Punjab-UP-Bihar) — founded **October 1924, Kanpur**, by **Ramprasad Bismil, Jogesh Chandra Chatterjee, Sachin Sanyal**; goal: **Federal Republic of United States of India** based on **adult franchise**.
-- **Kakori robbery (August 1925)** near **Lucknow** — hanged: **Bismil, Ashfaqullah, Roshan Singh, Rajendra Lahiri**.
-- **Ferozshah Kotla, Delhi (September 1928)** — HRA renamed **HSRA** under **Chandra Shekhar Azad**; socialism the official goal.
-- **Saunders** shot in **Lahore (December 1928)** by **Bhagat Singh, Azad and Rajguru** after **Lajpat Rai's** death (October 1928).
-- **April 8, 1929** — **Bhagat Singh and Batukeshwar Dutt** threw bombs in the Central Legislative Assembly against the Public Safety Bill and Trade Disputes Bill.
-- **Jatin Das** — first martyr, on the **64th day** of his fast.
-- Bid to blow up **Viceroy Irwin's** train — **December 1929**.
-- **Azad** died in a police encounter in **Allahabad, February 1931**; **Bhagat Singh, Sukhdev, Rajguru** hanged **March 23, 1931**.
-- After Das's death Bengal Congress split: **J.M. Sengupta (backed by Anushilan)** and **Subhash Bose (backed by Yugantar)**.
-- **Gopinath Saha (1924)** — attempt on **Charles Tegart**; a man named **Day** was killed; Saha hanged.
-- **Chittagong Armoury Raid (April 1930)** — **Surya Sen**, **65** activists, **Indian Republican Army—Chittagong Branch**; Sen arrested **February 1933**, hanged **January 1934**.
-- Women revolutionaries: **Pritilata Waddedar** (died in a raid), **Kalpana Dutt** (life sentence), **Santi Ghosh and Suniti Chandheri** (Comilla, December 1931), **Bina Das** (fired at the governor, February 1932).
-- **1933** — Jawaharlal Nehru sentenced to **two years** for sedition.
-- **HRA Manifesto (1925)**; HRA organ **Revolutionary** proposed nationalisation of railways and heavy industries.
-- **The Philosophy of the Bomb** — **Bhagwaticharan Vohra**.
-- **Punjab Naujawan Bharat Sabha (1926)** — **Bhagat Singh** helped establish it as an open wing of revolutionaries; **Lahore Students' Union** — Bhagat Singh and Sukhdev.
+## Swarajists
+
+### Rise of the party
+
+1. **December 1922:** The Swarajists' proposal was defeated at the Gaya session. So Das and Motilal formed the Congress-Khilafat Swarajya Party. C.R. Das was its president. Motilal Nehru was one of its secretaries.
+2. **September 1923:** A compromise was reached at Delhi. The Swarajists could contest elections as a group within the Congress.
+3. **October 1923:** The Swarajist manifesto came out. It took a strong anti-imperialist line. It promised uniform, continuous and consistent obstruction if their demands were rejected.
+4. **November 1923:** In the elections the Swarajists won 42 of the 141 elected seats. They won a clear majority in the Central Provinces.
+5. **February 1924:** Gandhi was released on health grounds. He reconciled with the Swarajists.
+6. **December 1924:** The Belgaum session accepted the Swarajists as an integral part of the Congress. It was the only session presided over by Gandhi.
+
+### Achievements
+
+- **1925:** Vithalbhai Patel became the Speaker of the Central Legislative Assembly.
+- **1928:** The Public Safety Bill was defeated. The Bill was meant to deport undesirable foreigners.
+
+### Why the party weakened
+
+1. **Communal riots:** Communal riots weakened the party.
+2. **Responsivists:** The Responsivists split away. They were Lala Lajpat Rai, Madan Mohan Malaviya and N.C. Kelkar. They favoured office-holding and cooperation.
+3. **Bengal tenants:** The party failed to back the tenants of Bengal, who were mostly Muslim.
+4. **Death of C.R. Das:** C.R. Das died in 1925.
+
+### The end
+
+1. **March 1926:** The Swarajist leadership withdrew from the legislatures.
+2. **1926:** In the elections the party won 40 seats at the Centre. It was routed in UP, CP and Punjab.
+3. **1930:** The Swarajists finally walked out. The walk-out is linked with the Lahore resolution on purna swaraj (complete independence).
+
+## No-changers
+
+- They ran ashrams. The ashrams worked among tribals and lower castes, especially in Kheda and Bardoli (Gujarat).
+- They ran national schools.
+- They did khadi (hand-spun cloth) work.
+
+## Socialist ideas and other new forces
+
+### Left wing in the Congress
+
+- A left wing grew in the Congress under Jawaharlal Nehru and Subhash Chandra Bose.
+- **1928:** Jawaharlal Nehru presided over the All Bengal Students' Conference.
+- **1933:** Jawaharlal Nehru was sentenced to two years for sedition.
+
+### Communists
+
+1. **1920:** The CPI (Communist Party of India) was formed at Tashkent. M.N. Roy, Abani Mukherji and others formed it.
+2. M.N. Roy was the first to be elected to the leadership of the Comintern (the Communist International).
+3. **1924:** In the Kanpur Bolshevik Conspiracy Case, S.A. Dange, Muzaffar Ahmed, Shaukat Usmani and Nalini Gupta were jailed.
+4. **1925:** The Indian Communist Conference at Kanpur formalised the CPI.
+5. **1929:** The Meerut conspiracy case was brought. The 31 accused were communists, trade unionists and left leaders.
+
+### Workers and peasants
+
+1. **1920:** The AITUC (All India Trade Union Congress) was formed. Its first president was Lala Lajpat Rai. Its general secretary was Dewan Chaman Lal. Tilak was a moving spirit behind it.
+2. **1923:** The first May Day in India was held in Madras.
+3. **1928:** Strikes in this year involved 5 lakh workers.
+4. **1928:** Vallabhbhai Patel led the Bardoli Satyagraha.
+
+- **Bombay Textile Mills strike:** 1,50,000 workers took part. It lasted 5 months.
+
+### Caste and regional movements
+
+- **Self-respect movement (1925):** Its leader was Periyar (E.V. Ramaswamy Naicker).
+- **Radical Ezhavas:** Their leaders were K. Aiyappan and C. Kesavan.
+- **Unionist Party:** Its leader was Fazl-i-Hussain.
+- **Bihar:** The Yadavs organised to improve their social status.
+
+## Revolutionary activity
+
+Disillusioned youth revived revolutionary activity. The revolutionary books and journals were these.
+
+| Book or journal | Writer |
+| --- | --- |
+| Bandi Jiwan (book) | Sachin Sanyal |
+| Pather Dabi (book) | Sharatchandra Chatterjee |
+| Atmasakti, Sarathi, Bijoli (journals) | — |
+
+### Punjab-UP-Bihar
+
+1. **October 1924:** The HRA (Hindustan Republican Association) was founded at Kanpur. Its founders were Ramprasad Bismil, Jogesh Chandra Chatterjee and Sachin Sanyal. Its goal was a Federal Republic of United States of India based on adult franchise.
+2. **1925:** The HRA Manifesto came out.
+3. **August 1925:** The Kakori robbery took place near Lucknow. Four men were hanged after it: Bismil, Ashfaqullah, Roshan Singh and Rajendra Lahiri.
+4. **September 1928:** At Ferozshah Kotla, Delhi, the HRA was renamed the HSRA (Hindustan Socialist Republican Association). This was done under Chandra Shekhar Azad. Socialism became its official goal.
+5. **October 1928:** Lajpat Rai died.
+6. **December 1928:** Bhagat Singh, Azad and Rajguru shot Saunders in Lahore. This was to avenge Lajpat Rai.
+7. **8 April 1929:** Bhagat Singh and Batukeshwar Dutt threw harmless bombs in the Central Legislative Assembly. They were protesting against the Public Safety Bill and the Trade Disputes Bill.
+8. Jatin Das died on the 64th day of his fast. He was the first martyr.
+9. **December 1929:** There was a bid to blow up the train of Viceroy Irwin.
+10. **February 1931:** Azad died in a police encounter at Allahabad.
+11. **23 March 1931:** Bhagat Singh, Sukhdev and Rajguru were hanged.
+
+The organ of the HRA was the Revolutionary. It proposed the nationalisation of railways and heavy industries.
+
+### Bengal
+
+After the death of Das the Bengal Congress split into two groups.
+
+- J.M. Sengupta was backed by Anushilan.
+- Subhash Bose was backed by Yugantar.
+
+The main events:
+
+1. **1924:** Gopinath Saha tried to kill Charles Tegart. A man named Day was killed. Saha was hanged.
+2. **April 1930:** Surya Sen led the Chittagong Armoury Raid. He had 65 activists with him. They belonged to the Indian Republican Army—Chittagong Branch.
+3. **February 1933:** Surya Sen was arrested.
+4. **January 1934:** Surya Sen was hanged.
+
+Women took part too.
+
+| Woman revolutionary | What is recorded |
+| --- | --- |
+| Pritilata Waddedar | Died in a raid |
+| Kalpana Dutt | Given a life sentence |
+| Santi Ghosh and Suniti Chandheri | Comilla, December 1931 |
+| Bina Das | Fired at the governor, February 1932 |
+
+### New thinking among the revolutionaries
+
+- **The Philosophy of the Bomb:** Bhagwaticharan Vohra wrote it.
+- **Punjab Naujawan Bharat Sabha (1926):** Bhagat Singh helped to establish it. It was an open wing of the revolutionaries.
+- **Lahore Students' Union:** Bhagat Singh and Sukhdev were linked with it.
+- Bhagat Singh moved towards Marxism and mass politics.
+
+> **Remember**
+>
+> - **December 1922:** After the defeat at Gaya, the Congress-Khilafat Swarajya Party was formed with C.R. Das as president.
+> - **November 1923:** The Swarajists won 42 of the 141 elected seats.
+> - **December 1924:** Belgaum was the only Congress session presided over by Gandhi.
+> - **1925:** Vithalbhai Patel became the Speaker of the Central Legislative Assembly.
+> - **1920:** The CPI was formed at Tashkent, and the AITUC was formed with Lala Lajpat Rai as first president.
+> - **1923:** The first May Day in India was held in Madras.
+> - **August 1925:** The Kakori robbery took place near Lucknow.
+> - **September 1928:** The HRA became the HSRA at Ferozshah Kotla, Delhi.
+> - **23 March 1931:** Bhagat Singh, Sukhdev and Rajguru were hanged.
+> - **April 1930:** Surya Sen led the Chittagong Armoury Raid.

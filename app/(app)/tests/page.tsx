@@ -6,6 +6,7 @@ import { PageHeader } from '@/components/page-header'
 import { Panel, IconTile, Mono } from '@/components/surfaces'
 import { EmptyState } from '@/components/empty-state'
 import { TestList } from '@/components/tests/test-list'
+import { textLang } from '@/lib/lang'
 
 export const metadata: Metadata = { title: 'Tests' }
 
@@ -43,8 +44,14 @@ export default async function TestsPage() {
                     <ChevronRight className="size-5 text-muted-foreground" aria-hidden />
                   </div>
                   <div>
-                    <h3 className="text-lg font-semibold">{e.name}</h3>
-                    {e.description && <p className="text-sm text-muted-foreground">{e.description}</p>}
+                    <h3 lang={textLang(e.name)} className="text-lg font-semibold">
+                      {e.name}
+                    </h3>
+                    {e.description && (
+                      <p lang={textLang(e.description)} className="text-sm text-muted-foreground">
+                        {e.description}
+                      </p>
+                    )}
                   </div>
                   <p className="mt-auto text-[13px] text-muted-foreground">
                     {e.paperCount === 0 ? (

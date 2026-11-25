@@ -4,44 +4,130 @@ number: 25
 title: "Independence with Partition"
 covers: [modern]
 ---
-## Gist
-*Book pages 491–500.*
+Book pages 491–500.
 
-On **February 20, 1947** British PM **Clement Attlee** announced that Britain would leave India. He fixed a deadline of **June 30, 1948** for the transfer of power, even without agreement. Power could go to a central government or, in some areas, to the **existing provincial governments**. British powers over the princely states would **lapse** and would not pass to any successor government. **Mountbatten** would replace **Wavell**. The statement hinted at partition and even **Balkanisation**, and was in essence a **reversion of the Cripps Offer**. Encouraged by it, the League launched civil disobedience to overthrow the **coalition government in Punjab**.
+## At a glance: the steps to independence
 
-Riots and the unworkable Interim Government made partition thinkable. On **March 10, 1947** Nehru said the only alternative to the Cabinet Mission Plan was the **partition of Punjab and Bengal**. In **April 1947** Congress president **Kripalani** told the viceroy, "we shall let them have their Pakistan" if Bengal and Punjab were fairly partitioned. **Mountbatten** had more informal powers and wooed both sides. His **'Plan Balkan'** (power to separate provinces) was dropped after **Nehru** reacted violently.
+| Step | Date | Main point |
+| --- | --- | --- |
+| Attlee's statement | 20 February 1947 | Britain would leave India by 30 June 1948. |
+| Plan Balkan | March–May 1947 | Power to separate provinces. It was dropped. |
+| Mountbatten Plan | 3 June 1947 | Immediate transfer of power on the basis of dominion status. |
+| Indian Independence Act | 5 July 1947 | It took effect on 15 August 1947. |
 
-The **Mountbatten Plan (June 3, 1947)** took up **V.P. Menon's** idea: immediate transfer of power on the basis of **dominion status** (with a right of secession). Punjab and Bengal assemblies would vote in **Hindu and Muslim groups** (a **simple majority** of either for partition). **Sindh** would decide for itself; **referendums** would be held in **NWFP and Sylhet**. Independence for princes and for Bengal, and **Hyderabad joining Pakistan**, were ruled out. Freedom would come on **August 15, 1947**, and a **boundary commission** would be set up. Congress accepted dominion status, though against the **Lahore (1929)** spirit, for a quick, peaceful transfer and continuity in the bureaucracy and army.
+## Attlee's statement (20 February 1947)
 
-**Results:** East Bengal and West Punjab went to Pakistan; **Sylhet** joined East Bengal; **NWFP** voted for Pakistan (Provincial Congress abstaining); **Baluchistan and Sindh** joined Pakistan. The **Indian Independence Act** was passed on **July 5, 1947**, got **royal assent on July 18** and took effect on **August 15, 1947**. Each dominion had a **governor-general**. Its constituent assembly acted as the legislature, and the **Government of India Act, 1935** applied until a new constitution. **Pakistan** became free on **August 14**, India on **August 15**. **Jinnah** became Pakistan's first Governor-General; India asked **Mountbatten** to continue. The **Radcliffe** Award was ready by **August 12** but announced **after August 15**.
+Clement Attlee was the British PM. On this day he announced that Britain would leave India.
 
-**Integration of states:** Nehru presided over the **All India State People's Conference** at **Udaipur (1945)** and **Gwalior (April 1947)**. **Patel** took over the **States Department (July 1947)**. In **Phase I**, by August 15 all states except **Kashmir, Hyderabad and Junagarh** acceded on **defence, external affairs and communication**. **Phase II** merged states into units such as the **Kathiawar Union**, with a generous **privy purse** as bait.
+### What it said
 
-**Why partition:** Congress failed to draw the **Muslim masses** into the movement and made step-by-step concessions: **Cripps (1942)**, **Gandhi-Jinnah talks (1944)**, compulsory grouping (**December 1946**), the **March 1947 CWC resolution**, and the **3rd June Plan**. **Gandhi** felt helpless before a communalised people.
+- The deadline for the transfer of power was 30 June 1948. Power would be transferred even without agreement.
+- Power could go to a central government. In some areas it could go to the existing provincial governments.
+- British powers over the princely states would lapse (come to an end). They would not pass to any successor government.
+- Mountbatten would replace Wavell.
 
-## Key facts
-- **Attlee's statement: February 20, 1947** — deadline **June 30, 1948**; **Mountbatten** to replace **Wavell**.
-- Attlee's statement was in essence a **reversion of the Cripps Offer**.
-- After the statement the League launched civil disobedience against the **coalition government in Punjab**.
-- **March 10, 1947**: Nehru — the only real alternative to the Cabinet Mission Plan was **partition of Punjab and Bengal**.
-- **April 1947**: Congress president **Kripalani** — "we shall let them have their Pakistan".
-- Mountbatten was to explore unity and division **till October 1947**.
-- **Plan Balkan** (March–May 1947): power to separate provinces; abandoned after **Nehru** reacted violently.
-- **Mountbatten Plan: June 3, 1947**; dominion-status innovation suggested by **V.P. Menon**.
-- Punjab and Bengal assemblies voted in two groups; a **simple majority** of either group could decide partition.
-- **Sindh** to decide for itself; **referendums in NWFP and Sylhet**.
-- Independence for princely states and for **Bengal** ruled out; **Hyderabad's accession to Pakistan** ruled out.
-- Congress accepted dominion status despite the **Lahore Congress (1929)** spirit.
-- **Sylhet** joined **East Bengal**; **NWFP** referendum favoured Pakistan; **two boundary commissions** were set up.
-- **Indian Independence Act**: passed **July 5, 1947**; **royal assent July 18, 1947**; implemented **August 15, 1947**.
-- Under the Act the old **Central Legislative Assembly** and **Council of States** were dissolved; **Government of India Act, 1935** governed the transition.
-- **Pakistan** independent **August 14, 1947**; **India** **August 15, 1947**.
-- First Governor-General of Pakistan: **M.A. Jinnah**; India asked **Mountbatten** to continue.
-- **Radcliffe** Boundary Award ready by **August 12, 1947**, published **after August 15**.
-- Nehru presided over **All India State People's Conference** sessions at **Udaipur (1945)** and **Gwalior (April 1947)**.
-- **Vallabhbhai Patel** took charge of the **States Department** in **July 1947**.
-- Phase I: all states except **Kashmir, Hyderabad and Junagarh** acceded by **August 15, 1947**.
-- Phase II: units like **Kathiawar Union, Vindhya and Madhya Pradesh, Rajasthan, Himachal Pradesh**; **Hyderabad, Mysore, Travancore-Cochin** kept old boundaries for some years; bait was a **privy purse**.
-- Rapid unification of the country — **Patel's greatest achievement**.
-- Steps to partition: **Cripps (1942)** → **Gandhi-Jinnah talks (1944)** → compulsory grouping accepted (**December 1946**) → **CWC resolution (March 1947)** → **3rd June Plan**.
-- **Jinnah**: "I alone with the help of my Secretary and my typewriter won Pakistan".
+### What it meant
+
+- The statement hinted at partition. It even hinted at Balkanisation (breaking up into small states).
+- It was in essence a reversion of the Cripps Offer.
+- The statement encouraged the League. The League launched civil disobedience to overthrow the coalition government in Punjab.
+
+## Towards partition (March–May 1947)
+
+1. The riots and the unworkable Interim Government made partition thinkable.
+2. **10 March 1947:** Nehru said the only real alternative to the Cabinet Mission Plan was the partition of Punjab and Bengal.
+3. **April 1947:** The Congress president Kripalani spoke to the viceroy. He said, "we shall let them have their Pakistan". His condition was a fair partition of Bengal and Punjab.
+4. Mountbatten had more informal powers. He wooed both sides. He was to explore unity and division till October 1947.
+5. **March–May 1947:** Mountbatten's 'Plan Balkan' proposed giving power to separate provinces. It was abandoned after Nehru reacted violently.
+
+## Mountbatten Plan (3 June 1947)
+
+The plan took up an idea suggested by V.P. Menon. This was the immediate transfer of power on the basis of dominion status, with a right of secession.
+
+### What it said
+
+- The assemblies of Punjab and Bengal would vote in two groups, Hindu and Muslim. A simple majority of either group could decide partition.
+- Sindh would decide for itself.
+- Referendums (direct votes) would be held in NWFP and Sylhet.
+- Independence for the princely states and for Bengal was ruled out.
+- Hyderabad's accession to Pakistan was ruled out.
+- Freedom would come on 15 August 1947.
+- A boundary commission would be set up.
+
+### Why the Congress accepted dominion status
+
+- Dominion status was against the spirit of the Lahore Congress (1929).
+- The Congress still accepted it for a quick and peaceful transfer of power.
+- It also wanted continuity in the bureaucracy and the army.
+
+### Results
+
+- East Bengal and West Punjab went to Pakistan.
+- Sylhet joined East Bengal.
+- The NWFP referendum favoured Pakistan. The Provincial Congress abstained.
+- Baluchistan and Sindh joined Pakistan.
+- Two boundary commissions were set up.
+
+## Indian Independence Act
+
+### Dates
+
+1. **5 July 1947:** The Act was passed.
+2. **18 July 1947:** It got the royal assent.
+3. **15 August 1947:** It was implemented.
+
+### What it said
+
+- Each dominion had a governor-general.
+- The constituent assembly of each dominion acted as its legislature.
+- The old Central Legislative Assembly and the Council of States were dissolved.
+- The Government of India Act, 1935 applied until a new constitution was made. It governed the transition.
+
+### Independence
+
+1. **12 August 1947:** The Radcliffe Boundary Award was ready.
+2. **14 August 1947:** Pakistan became independent. M.A. Jinnah became the first Governor-General of Pakistan.
+3. **15 August 1947:** India became independent. India asked Mountbatten to continue.
+4. The Radcliffe Award was published only after 15 August.
+
+## Integration of states
+
+1. **1945:** Nehru presided over the All India State People's Conference session at Udaipur.
+2. **April 1947:** He presided over its session at Gwalior.
+3. **July 1947:** Vallabhbhai Patel took charge of the States Department.
+
+The integration had two phases.
+
+- **Phase I:** By 15 August 1947 all states except Kashmir, Hyderabad and Junagarh had acceded. They acceded on three subjects: defence, external affairs and communication.
+- **Phase II:** States were merged into units like the Kathiawar Union, Vindhya and Madhya Pradesh, Rajasthan and Himachal Pradesh. Hyderabad, Mysore and Travancore-Cochin kept their old boundaries for some years.
+- **Privy purse:** A generous privy purse was the bait in Phase II. A privy purse was a yearly payment to a ruler.
+- **Patel's greatest achievement:** This was the rapid unification of the country.
+
+## Why partition came
+
+1. The Congress failed to draw the Muslim masses into the movement.
+2. The Congress made concessions step by step. The steps are listed below.
+3. Gandhi felt helpless before a communalised people.
+
+### Steps to partition
+
+1. **1942:** The Cripps Mission.
+2. **1944:** The Gandhi-Jinnah talks.
+3. **December 1946:** Compulsory grouping was accepted.
+4. **March 1947:** The CWC resolution.
+5. The 3rd June Plan.
+
+Jinnah said, "I alone with the help of my Secretary and my typewriter won Pakistan".
+
+> **Remember**
+>
+> - **20 February 1947:** Attlee's statement set 30 June 1948 as the deadline for the transfer of power.
+> - **March–May 1947:** Plan Balkan was abandoned after Nehru reacted violently.
+> - **3 June 1947:** The Mountbatten Plan came. V.P. Menon suggested its dominion status idea.
+> - **Referendums:** They were held in NWFP and Sylhet.
+> - **18 July 1947:** The Indian Independence Act got the royal assent.
+> - **12 August 1947:** The Radcliffe Award was ready. It was published after 15 August.
+> - **14 August 1947:** Pakistan became independent, with M.A. Jinnah as its first Governor-General.
+> - **15 August 1947:** India became independent and asked Mountbatten to continue.
+> - **July 1947:** Vallabhbhai Patel took charge of the States Department.
+> - **Kashmir, Hyderabad and Junagarh:** the three states that had not acceded by 15 August 1947.
