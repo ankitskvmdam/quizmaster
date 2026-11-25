@@ -116,6 +116,38 @@ tables row for row, the same list items, the same numbers. It is not a second, i
   even though the English page has no counterpart.
 - **One spelling per name**, in Hindi as in English (see the writing rules).
 
+## Variation: a month of current affairs
+
+A month (`content/current-affairs/<year>/books/<YYYY-MM>/`) has one page per subject area (Polity, Economy, Sports,
+Bihar…). Each page is a news digest, not a chapter, so the page shape above changes like this. Everything else in this
+skill (the fact rules, the writing rules, Hindi, the suggestions file, the checks) applies unchanged.
+
+1. **No source line, no Background, no Reasons**, unless the old page really explains a cause or a result.
+2. **At a glance** (`## At a glance`): when the area has comparable items, one table of them: awards (award, winner,
+   for what), appointments (post, person), sports results (event, winner, venue), reports and indices (report, by
+   whom, India's rank), days (date, day, theme). Leave it out when nothing is comparable.
+3. **The main sections: by sub-theme.** One `##` per kind of news in that area, named plainly: for Polity, for
+   example, "Laws and bills", "Court rulings", "Elections", "Institutions and appointments"; for Science, "Space",
+   "Health", "Technology". Use the sub-themes the month's facts actually fall into; a sub-theme with one fact joins
+   its nearest neighbour. Inside each, a list in **date order**, undated items last, each item led by its date or
+   its subject in bold (`- **12 March 2026:** …`, `- **PM-KUSUM:** …`).
+4. **What a story is.** Several facts about one story (a scheme, a summit, a mission) stay together as one item with
+   sub-points, or one short paragraph of up to three sentences, never scattered across the list.
+5. **Remember** callout at the end, 6 to 10 points: the figures, firsts, ranks and names most likely to be asked.
+6. The month page carries **no reading of significance** that the old page did not have ("this is a big step for
+   India"): current affairs pages state facts.
+
+The writing rules apply in full: the old Gist's narrative sentences and the Key facts merge, so each fact is said
+once, in a full sentence.
+
+Check a month page against the month as it was before it was restructured:
+
+```
+node .claude/skills/study-content-writing/check-page.mjs content/current-affairs/<year>/books/<YYYY-MM>/NN-<slug>.md --before ca-before-restructure
+```
+
+Its suggestions file is `.superpowers/sdd/reading/suggestions/<YYYY-MM>/NN-<slug>.md`.
+
 ## Suggestions file
 
 Write things for the owner to review to
