@@ -399,4 +399,217 @@ Rao and Manmohan Singh brought the New Economic Policy 1991. The reforms of 1991
 - **Look East policy:** Rao launched it, towards ASEAN.
 - **1993:** Rao visited China.
 
-PART-END-MARKER
+## Vajpayee's 13-day government (1996)
+
+- **1996:** The BJP won 161 seats. With its allies, the Samata Party, the Shiv Sena and the Haryana Vikas Party, it had 187.
+- **13 days:** Vajpayee resigned after 13 days.
+
+## The United Front: Deve Gowda and I.K. Gujral
+
+### Coming to power
+
+- **Deve Gowda:** He led the United Front government first.
+- **21 April 1997:** I.K. Gujral was sworn in.
+
+### Politics and elections
+
+- **Fodder Scam:** The Governor of Bihar allowed a CBI case against Chief Minister Lalu Prasad Yadav.
+- **July 1997:** Lalu formed the Rashtriya Janata Dal (RJD). The RJD kept supporting the United Front.
+
+### Foreign policy and security
+
+- **Ganga water accord:** Deve Gowda's government made it with Bangladesh.
+- **Gujral Doctrine:** It had five principles. With Nepal, Bangladesh, Bhutan, the Maldives and Sri Lanka, India does not ask for reciprocity, that is, for an equal return.
+
+### How the term ended
+
+- **Jain Commission:** It looked into the conspiracy behind the Rajiv Gandhi assassination. Its report criticised the DMK.
+- **28 November 1997:** The Congress withdrew support from Gujral. So the Jain Commission report brought the Gujral government down.
+
+## Vajpayee and the NDA (March 1998 to 2004)
+
+### Coming to power
+
+- **March 1998:** Vajpayee was sworn in as prime minister of the NDA (National Democratic Alliance).
+
+### Politics and elections
+
+1. **17 April 1999:** The government lost a confidence vote by one vote. The AIADMK had withdrawn support. Giridhar Gamang's vote is linked with this defeat.
+2. **13 October 1999:** Vajpayee was sworn in a third time. The JD(U) and the DMK were new members of the NDA.
+
+### Economy and welfare
+
+The NDA government of 1999–2004 brought these:
+
+- **Golden Quadrilateral:** a highway network.
+- **PMGSY:** the Pradhan Mantri Gram Sadak Yojana, for rural roads.
+- **VSNL:** It was privatised.
+- **Disinvestment:** The Disinvestment Commission was upgraded to a ministry.
+- **Sarva Shiksha Abhiyan:** a scheme for school education.
+- **FRBM Act 2003:** the Fiscal Responsibility and Budget Management Act.
+
+### Laws and the Constitution
+
+- **86th Amendment 2002:** It made education a right.
+- **POTA:** The Prevention of Terrorism Act came after the Parliament attack (December 2001). ⚠ May be outdated: POTA was repealed in 2004.
+
+### States and regional movements
+
+- **February 2002:** The Sabarmati Express was set on fire at Godhra. Narendra Modi was chief minister of Gujarat.
+
+### Foreign policy and security
+
+1. **February 1999:** The Delhi–Lahore bus began. Vajpayee and Nawaz Sharif signed the Lahore Declaration.
+2. **Kargil:** The incursion was planned under General Pervez Musharraf. The Army fought back with Operation Vijay and the IAF with Safed Sagar. Tiger Hill, in Drass, overlooks the Srinagar–Leh highway. The war was over by 26 July 1999.
+3. **December 1999:** Flight IC 814 was hijacked. Masood Azhar was released.
+4. **July 2001:** Vajpayee met Musharraf at the Agra summit.
+5. **December 2001:** The LeT (Lashkar-e-Taiba) and the JeM (Jaish-e-Mohammed) attacked Parliament.
+
+### Science and technology
+
+- **May 1998:** Pokhran II, called Operation Shakti, was carried out. It had five tests.
+- **People:** A.P.J. Abdul Kalam was at the DRDO (Defence Research and Development Organisation). R. Chidambaram was at the DAE (Department of Atomic Energy).
+- **11 May:** It is National Technology Day.
+- **Result abroad:** The US applied the Glenn Amendment for the first time. Pakistan answered with the tests Chagai I and II.
+
+### How the term ended
+
+- **Almost a full term:** The NDA was the first non-Congress government to almost complete its term.
+- **2004:** It lost the election after the 'India Shining' campaign.
+
+## Manmohan Singh and the UPA (2004–14)
+
+### Coming to power
+
+- **22 May 2004:** Manmohan Singh was sworn in as prime minister of the UPA (United Progressive Alliance). He was a member of the Rajya Sabha.
+- **Sonia Gandhi:** She chaired the NAC (National Advisory Council).
+- **Common Minimum Programme:** It was seen as left-of-centre.
+
+### Politics and elections
+
+1. **2007:** Pratibha Patil became the first woman President.
+2. **July 2008:** The Left withdrew support. The UPA won a trust vote.
+3. **2009:** Manmohan Singh was re-elected after completing a full term. He was the first prime minister to do so since Nehru (1962).
+4. **April 2011:** Anna Hazare, from Ralegaon Siddhi, fasted.
+5. **26 November 2012:** Arvind Kejriwal formed the AAP (Aam Aadmi Party).
+6. **Scams:** The government's years saw the 2G and coal scams.
+
+### Economy and welfare
+
+- **2005:** The NRHM (National Rural Health Mission) began.
+- **2005:** VAT (value added tax) was introduced.
+- **NREGA (2006):** The National Rural Employment Guarantee Act gave rural households 100 days of paid work. One-third of the work was for women. ⚠ May be outdated: NREGA/MGNREGA, 100 days. It was reportedly replaced in December 2025 by the Viksit Bharat–G RAM G Act (125 days); check the current scheme.
+
+### Laws and the Constitution
+
+1. **2005:** The RTI (Right to Information) Act was passed. A reply must come within thirty days.
+2. **2009:** The RTE (Right to Education) Act was passed. It gives effect to Article 21-A. It came into force on 1 April 2010. It keeps 25% of seats in non-minority private schools for weaker sections.
+3. **Women's reservation bill (33%):** It was shelved. Allies, especially the RJD, refused to support it. ⚠ May be outdated: the Nari Shakti Vandan Adhiniyam (106th Amendment), 2023 has since been passed.
+4. **December 2012:** The Delhi gang rape took place. The Justice J.S. Verma Committee followed it. The committee did not recommend the death penalty. It wanted the marital rape exception removed. It called 'failure of governance' the root cause. ⚠ May be outdated: the Nirbhaya case described as "finally settled" in 2018. The four convicts were executed in March 2020.
+5. **March 2013:** The Criminal Law (Amendment) Act was passed. ⚠ May be outdated: the Criminal Law (Amendment) Act 2013 and IPC Section 377. The IPC and the Evidence Act were replaced by the Bharatiya Nyaya Sanhita and the Bharatiya Sakshya Adhiniyam, 2023.
+6. **1 January 2014:** The Lokpal and Lokayuktas Act 2013 received assent from President Pranab Mukherjee. The prime minister is included under it. It was criticised for not being a constitutional body and for excluding the judiciary.
+
+### States and regional movements
+
+1. **November 2009:** KCR (K. Chandrashekar Rao) fasted for Telangana.
+2. **December 2010:** The Srikrishna Commission reported. The TRS (Telangana Rashtra Samithi) rejected the report.
+3. **May 2011:** In West Bengal the Left Front lost to Mamata Banerjee's Trinamool Congress (TMC). The Left Front had been in power since 1977.
+4. **February 2014:** The Telangana Bill was cleared.
+5. **June 2014:** Telangana came into existence. ⚠ May be outdated: the Telangana–Andhra shared capital (Hyderabad) for ten years. This period ended in June 2024.
+
+### Foreign policy and security
+
+1. **2006:** The Nathula Pass was reopened.
+2. **October 2008:** The Indo-US civil nuclear agreement was signed.
+3. **26/11 (2008):** The Mumbai attack took place. Ajmal Amir Kasab was captured. He was hanged in 2012.
+4. **December 2008:** The NIA (National Investigation Agency) was set up.
+
+### Science and technology
+
+- **November 2013:** Mangalyaan, the Mars Orbiter Mission, was launched.
+- **24 September 2014:** It reached Mars orbit. India was the first to do so on its first attempt.
+
+## The NDA from 2014
+
+### Coming to power
+
+- **2014 election:** The BJP won 282 seats. Its vote share rose from about 19% to about 31%. The Congress won 44, its worst result.
+- **26 May 2014:** All the SAARC (South Asian Association for Regional Cooperation) heads attended the swearing-in.
+
+### Politics and elections
+
+- **2019 election:** The NDA won 353 seats and the BJP 303. The Congress won 52. ⚠ May be outdated: "Modi the first BJP leader elected for a second time" (as of 2019). Modi won a third term in 2024 (BJP 240 seats, NDA majority).
+- **30 May 2019:** Ram Nath Kovind administered the oath. S. Jaishankar became foreign minister and Amit Shah home minister.
+- **Slogan:** 'Sabka Vishwas' was added to 'Sabka Saath, Sabka Vikas'.
+
+### Economy and welfare
+
+1. **August 2014:** The Planning Commission was scrapped.
+2. **August 2014:** Digital India began. UPI (Unified Payments Interface) and BHIM were developed.
+3. **24 August 2014:** The PM Jan Dhan Yojana was launched. It is part of the JAM trinity: Jan Dhan, Aadhaar and Mobile.
+4. **September 2014:** Make in India began.
+5. **2 October 2014:** The Swachh Bharat Mission began.
+6. **1 January 2015:** NITI Aayog was announced. It was set up by executive order. It does not allocate funds.
+7. **2015:** Beti Bachao Beti Padhao and Sukanya Samriddhi began.
+8. **March 2016:** The Aadhaar Act was passed. Aadhaar itself was launched by the UPA in January 2009.
+9. **8 November 2016:** Demonetisation took place. It applied to the Rs 500 and Rs 1,000 notes.
+10. **December 2016:** Under the PMGKY (Pradhan Mantri Garib Kalyan Yojana), a 50% fine was charged on undisclosed income.
+11. **2018:** Ayushman Bharat began.
+12. **PM-KISAN (2019):** It gives Rs 6,000 a year to farmers with less than five acres. ⚠ May be outdated: PM-KISAN only for farmers with less than five acres. It was extended to all landholding farmers in June 2019.
+
+### Laws and the Constitution
+
+1. **IBC 2016:** the Insolvency and Bankruptcy Code.
+2. **Benami Transactions (Prohibition) Amendment Act 2016:** It provides 1–7 years' jail.
+3. **RERA 2016:** a law on real estate.
+4. **HELP 2016:** a uniform hydrocarbon licence.
+5. **GST:** The goods and services tax came by the Constitution (101st Amendment) Act, 2016. The GST Council is made up of the central and state finance ministers. Five petroleum products and alcohol were left out.
+6. **August 2017:** The Supreme Court upheld the right to privacy.
+7. **April 2018:** The Fugitive Economic Offenders Act was passed.
+8. **2018:** The Supreme Court decriminalised homosexuality under Section 377. The book writes 'Article 377'. The Naz Foundation case began in 2001. The Delhi High Court ruled in 2009, and the Supreme Court reversed it in 2013.
+
+⚠ May be outdated: triple talaq, where the book says legislation "did not succeed" and the ordinance route was used. The Muslim Women (Protection of Rights on Marriage) Act was passed in July 2019.
+
+⚠ May be outdated: the Sabarimala verdict allowing women of all ages. The review was referred to a larger bench in November 2019.
+
+### States and regional movements
+
+1. **March 2015:** The PDP–BJP government was formed in J&K. It was the first time the BJP was in government in the state.
+2. **April 2016:** Mehbooba Mufti became the first woman chief minister of J&K.
+3. **July 2016:** Burhan Wani was killed.
+4. **June 2018:** The BJP pulled out of the J&K government.
+
+⚠ May be outdated: J&K is described as a state with an elected chief minister. Article 370 was effectively abrogated in August 2019, and J&K and Ladakh became union territories.
+
+### Foreign policy and security
+
+Security, in date order:
+
+1. **January 2016:** Pathankot was attacked.
+2. **18 September 2016:** Uri was attacked.
+3. **29 September 2016:** India carried out surgical strikes.
+4. **2017:** The Doklam stand-off took place. Doklam is at the junction of India, Bhutan and China, close to the Siliguri Corridor.
+5. **14 February 2019:** At Pulwama 40 CRPF (Central Reserve Police Force) personnel were killed. The JeM carried out the attack.
+6. **26 February 2019:** IAF Mirage jets struck Balakot. Wing Commander Abhinandan Varthaman was captured. He was released two days later. ⚠ May be outdated: airspace reopened in July 2019. India and Pakistan closed their airspace to each other again in April 2025.
+
+Ties abroad:
+
+- **2014:** Sushma Swaraj was the first woman to hold independent charge of External Affairs.
+- **Act East:** The Look East policy became Act East.
+- **With the US:** LEMOA was signed in 2016 and COMCASA in 2018.
+- **Export-control groups:** India joined the MTCR (Missile Technology Control Regime) in 2016, the Wassenaar Arrangement in 2017 and the Australia Group.
+- **NSG:** India's bid to join the Nuclear Suppliers Group (NSG) was pending because China opposed it. ⚠ May be outdated: India's NSG bid pending (as of 2019). This is still the position at the time of writing, but check.
+- **International Solar Alliance:** India co-founded it with France.
+
+> **Remember**
+>
+> - **9 June 1964:** Lal Bahadur Shastri was sworn in as the second prime minister.
+> - **10 January 1966:** The Tashkent Declaration was signed. Shastri died the next morning.
+> - **19 January 1966:** Indira Gandhi became the first woman prime minister.
+> - **16 December 1971:** Niazi surrendered at Ramna Race Course, Dacca.
+> - **25-26 June 1975:** The Emergency was proclaimed under Article 352(1).
+> - **23 March 1977:** Morarji Desai became the first non-Congress prime minister.
+> - **7 August 1990:** V.P. Singh announced 27% reservation for OBCs.
+> - **11 May:** National Technology Day, after Pokhran II (May 1998).
+> - **8 November 2016:** Demonetisation took place.
+> - **2019:** The NDA won 353 seats and the BJP 303.
