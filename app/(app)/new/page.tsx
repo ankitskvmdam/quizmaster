@@ -1,7 +1,7 @@
 import type { Metadata } from 'next'
 import Link from 'next/link'
 import { BookOpen, CalendarDays, ClipboardList, Library, Sparkles } from 'lucide-react'
-import { getBuilderTopics, getFeed } from '@/lib/queries/home'
+import { getBuilderCourses, getFeed } from '@/lib/queries/home'
 import { formatDate } from '@/lib/format'
 import { PageHeader } from '@/components/page-header'
 import { Panel, IconTile, Mono } from '@/components/surfaces'
@@ -13,7 +13,7 @@ import { cn } from '@/lib/utils'
 export const metadata: Metadata = { title: 'New' }
 
 export default async function NewPage() {
-  const [topics, feed] = await Promise.all([getBuilderTopics(), getFeed(20)])
+  const [courses, feed] = await Promise.all([getBuilderCourses(), getFeed(20)])
   return (
     <>
       <PageHeader title="New" description="Build your own test, and see what was added recently." />
@@ -23,10 +23,10 @@ export default async function NewPage() {
           <h2 id="build" className="text-lg font-semibold">
             Build a test
           </h2>
-          {topics.length === 0 ? (
+          {courses.length === 0 ? (
             <p className="text-sm text-muted-foreground">There are no practice questions yet.</p>
           ) : (
-            <TestBuilder topics={topics} />
+            <TestBuilder courses={courses} />
           )}
         </Panel>
       </section>
@@ -43,7 +43,7 @@ export default async function NewPage() {
           ) : (
             <ul className="-my-2 flex flex-col">
               {feed.map((item, i) => (
-                <li key={`${item.type}-${item.href}-${item.title}`} className={cn(i > 0 && 'border-t border-hairline')}>
+                <li key={`${item.type}-${item.href}-${item.title}-${i}`} className={cn(i > 0 && 'border-t border-hairline')}>
                   <Link href={item.href} className="focus-ring -mx-2 flex items-center gap-4 rounded-lg px-2 py-3 hover:bg-soft">
                     <IconTile size="sm">{item.type === 'lesson' ? <BookOpen /> : item.type === 'book' ? <Library /> : item.type === 'month' ? <CalendarDays /> : <ClipboardList />}</IconTile>
                     <div className="min-w-0 flex-1">

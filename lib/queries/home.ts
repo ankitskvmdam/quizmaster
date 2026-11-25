@@ -1,4 +1,5 @@
 import 'server-only'
+import type { BookKind } from '@/lib/courses/tree'
 import { createClient } from '@/lib/supabase/server'
 import { isNewItem, nextCaCategory, nextLesson } from '@/lib/home'
 import { formatMonth } from '@/lib/periods'
@@ -271,16 +272,40 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
   return items.sort((a, b) => Date.parse(b.publishedAt) - Date.parse(a.publishedAt)).slice(0, limit)
 }
 
-export type BuilderTopic = { id: string; name: string; subjectName: string; questionCount: number }
+export type BuilderChapter = { id: string; number: number; title: string; questionCount: number }
+export type BuilderBook = { id: string; title: string; kind: BookKind; chapters: BuilderChapter[] }
+/** A node of the syllabus tree that can be practised whole (its subtree and every chapter that covers it). */
+export type BuilderNode = { id: string; name: string; questionCount: number }
+export type BuilderSubject = BuilderNode & { sections: BuilderNode[]; books: BuilderBook[] }
+export type BuilderCourse = { slug: string; name: string; subjects: BuilderSubject[] }
 
-export async function getBuilderTopics(): Promise<BuilderTopic[]> {
+/** Courses → subjects → (whole sections, and books with their chapters), only what has questions. */
+export async function getBuilderCourses(): Promise<BuilderCourse[]> {
   const courses = await allCourses()
-  return courses.flatMap((c) =>
-    c.tree.roots.flatMap((root) => [
-      { id: root.id, name: root.name, subjectName: c.name, questionCount: root.questionCount },
-      ...root.children.map((n) => ({ id: n.id, name: `${root.name} › ${n.name}`, subjectName: c.name, questionCount: n.questionCount })),
-    ]).filter((t) => t.questionCount > 0),
-  )
+  return courses
+    .map((c) => ({
+      slug: c.slug,
+      name: c.name,
+      subjects: c.tree.roots
+        .filter((root) => root.questionCount > 0)
+        .map((root) => ({
+          id: root.id,
+          name: root.name,
+          questionCount: root.questionCount,
+          sections: root.children.filter((n) => n.questionCount > 0).map((n) => ({ id: n.id, name: n.name, questionCount: n.questionCount })),
+          books: root.books
+            .map((b) => ({
+              id: b.id,
+              title: b.title,
+              kind: b.kind,
+              chapters: b.chapters
+                .filter((ch) => (ch.questionCount ?? 0) > 0)
+                .map((ch) => ({ id: ch.id, number: ch.number, title: ch.title, questionCount: ch.questionCount ?? 0 })),
+            }))
+            .filter((b) => b.chapters.length > 0),
+        })),
+    }))
+    .filter((c) => c.subjects.length > 0)
 }
 
 export type CaProgressRow = { month: string; label: string; href: string; read: number; total: number }

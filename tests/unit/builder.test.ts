@@ -18,11 +18,15 @@ describe('defaultMinutes', () => {
 describe('parseBuilder', () => {
   it('reads topics, count, mode and minutes', () => {
     const r = parseBuilder(form([['topic', 't1'], ['topic', 't2'], ['count', '20'], ['mode', 'timed'], ['minutes', '25']]))
-    expect(r).toEqual({ ok: true, value: { topicIds: ['t1', 't2'], count: 20, mode: 'timed', durationSec: 1500 } })
+    expect(r).toEqual({ ok: true, value: { topicIds: ['t1', 't2'], chapterIds: [], count: 20, mode: 'timed', durationSec: 1500 } })
   })
   it('has no time limit in practice mode', () => {
     const r = parseBuilder(form([['topic', 't1'], ['count', '10'], ['mode', 'practice'], ['minutes', '25']]))
-    expect(r).toEqual({ ok: true, value: { topicIds: ['t1'], count: 10, mode: 'practice', durationSec: null } })
+    expect(r).toEqual({ ok: true, value: { topicIds: ['t1'], chapterIds: [], count: 10, mode: 'practice', durationSec: null } })
+  })
+  it('reads chapters, alone or with topics, without repeats', () => {
+    const r = parseBuilder(form([['chapter', 'c1'], ['chapter', 'c2'], ['chapter', 'c1'], ['count', '10'], ['mode', 'practice']]))
+    expect(r).toEqual({ ok: true, value: { topicIds: [], chapterIds: ['c1', 'c2'], count: 10, mode: 'practice', durationSec: null } })
   })
   it('needs at least one topic', () => {
     expect(parseBuilder(form([['count', '10'], ['mode', 'practice']]))).toEqual({ ok: false, error: 'Pick at least one topic.' })

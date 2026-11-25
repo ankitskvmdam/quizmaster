@@ -41,12 +41,14 @@ async function startCustom(
   count: number,
   durationSec: number | null,
   mode: 'timed' | 'practice',
+  chapterIds: string[] = [],
 ): Promise<ActionResult> {
   const supabase = await createClient()
   const created = await supabase.rpc('create_custom_test', {
     p_topic_ids: topicIds,
     p_count: count,
     ...(durationSec ? { p_duration_sec: durationSec } : {}),
+    ...(chapterIds.length ? { p_chapter_ids: chapterIds } : {}),
   })
   if (created.error) return { error: message(created.error) }
   const started = await supabase.rpc('start_attempt', { p_test_id: created.data, p_mode: mode })
@@ -58,8 +60,8 @@ async function startCustom(
 export async function createCustomTest(_prev: ActionResult, formData: FormData): Promise<ActionResult> {
   const parsed = parseBuilder(formData)
   if (!parsed.ok) return { error: parsed.error }
-  const { topicIds, count, durationSec, mode } = parsed.value
-  return startCustom(topicIds, count, durationSec, mode)
+  const { topicIds, chapterIds, count, durationSec, mode } = parsed.value
+  return startCustom(topicIds, count, durationSec, mode, chapterIds)
 }
 
 /** Ten untimed questions from topics the person has read; from every topic if they haven't read any yet. */

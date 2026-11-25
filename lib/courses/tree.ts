@@ -20,7 +20,17 @@ export type RawBook = {
   description: string
   position: number
 }
-export type RawChapter = { id: string; bookId: string; slug: string; number: number; title: string; read: boolean; coverIds: string[] }
+export type RawChapter = {
+  id: string
+  bookId: string
+  slug: string
+  number: number
+  title: string
+  read: boolean
+  coverIds: string[]
+  /** Live questions in the chapter's quiz; filled in by buildTree. */
+  questionCount?: number
+}
 
 export type TreeInput = { topics: RawTopic[]; lessons: RawLesson[]; questions: RawQuestion[]; books: RawBook[]; chapters: RawChapter[] }
 
@@ -68,8 +78,10 @@ export function buildTree(input: TreeInput): Tree {
   }
   for (const l of input.lessons) byId.get(l.topicId)?.lessons.push(l)
 
+  const perChapter = new Map<string, number>()
+  for (const q of input.questions) if (q.chapterId) perChapter.set(q.chapterId, (perChapter.get(q.chapterId) ?? 0) + 1)
   const chaptersByBook = new Map<string, RawChapter[]>()
-  for (const c of input.chapters) chaptersByBook.set(c.bookId, [...(chaptersByBook.get(c.bookId) ?? []), c])
+  for (const c of input.chapters) chaptersByBook.set(c.bookId, [...(chaptersByBook.get(c.bookId) ?? []), { ...c, questionCount: perChapter.get(c.id) ?? 0 }])
   for (const b of input.books) {
     const chapters = [...(chaptersByBook.get(b.id) ?? [])].sort((x, y) => x.number - y.number)
     byId.get(b.topicId)?.books.push({ ...b, chapters, chaptersRead: chapters.filter((c) => c.read).length })
