@@ -4,71 +4,287 @@ number: 9
 title: "A General Survey of Socio-Cultural Reform Movements"
 covers: [modern]
 ---
-## Gist
-*Book pages 206–238.*
+Book pages 206–238.
 
-**Raja Rammohan Roy (1772–1833)**, the 'father of Indian Renaissance', wrote **Gift to Monotheists (1809)** and **Precepts of Jesus (1820)**, set up the **Atmiya Sabha (1814)** and founded the **Brahmo Sabha (August 1828)**, later the **Brahmo Samaj**. He fought sati from **1818**, supported **David Hare's Hindu College (1817)** and set up a **Vedanta college (1825)**. **Radhakant Deb's Dharma Sabha (1830)** opposed him. **Debendranath Tagore**, earlier head of the **Tattvabodhini Sabha (1839)**, joined in **1842**. **Keshab Chandra Sen** was dismissed as acharya in **1865** and founded the **Brahmo Samaj of India (1866)**; Tagore's body became the **Adi Brahmo Samaj**. Keshab's daughter's marriage to the **Maharaja of Cooch-Behar (1878)** led to the **Sadharan Brahmo Samaj**. Keshab helped **Atmaram Pandurang** found the **Prarthana Samaj (1867, Bombay)**, made all-India by **M.G. Ranade**.
+## At a glance: the main reform bodies
 
-**Henry Vivian Derozio** led the **Young Bengal Movement** and was removed from Hindu College in **1831**. **Vidyasagar** became principal of Sanskrit College in **1850** and opened it to non-brahmins. In western India: **Balshastri Jambhekar** (**Darpan, 1832**; 'father of Marathi journalism'), the **Paramahansa Mandali (1849)**, **Jyotiba Phule's Satyashodhak Samaj (1873)**, **Gopalhari Deshmukh 'Lokahitawadi'**, **Gopal Ganesh Agarkar** (first editor of Kesari; **Sudharak**), **Gokhale's Servants of India Society (1905)** and **N.M. Joshi's Social Service League**.
+| Body | Founded | Founder |
+| --- | --- | --- |
+| Faraizi Movement | 1818, East Bengal | Haji Shariatullah |
+| Brahmo Sabha (later Brahmo Samaj) | August 1828 | Raja Rammohan Roy |
+| Rahnumai Mazdayasnan Sabha | 1851 | Parsi leaders, including Dadabhai Naoroji |
+| Deoband (Darul Uloom) | 1866, Saharanpur | Mohammad Qasim Nanotavi and Rashid Ahmed Gangohi |
+| Prarthana Samaj | 1867, Bombay | Atmaram Pandurang |
+| Satyashodhak Samaj | 1873 | Jyotiba Phule |
+| Arya Samaj | 1875, Bombay | Dayananda Saraswati |
+| Theosophical Society | 1875, New York | Blavatsky and Olcott |
+| M.A.O. College | 1875, Aligarh | Syed Ahmed Khan |
+| Ahmadiyya | 1889 | Mirza Ghulam Ahmad |
+| Ramakrishna Mission | 1897 | Vivekananda |
+| SNDP Yogam | Registered 1903 | Sree Narayana Guru |
 
-**Ramakrishna Paramahamsa** (Dakshineshwar) taught **"As many faiths, so many paths"**; **Vivekananda** spoke at **Chicago (1893)** and founded the **Ramakrishna Mission (1897)** (Belur). **Dayananda Saraswati** founded the **Arya Samaj (Bombay, 1875)**, wrote **Satyarth Prakash** and gave the slogan **"Back to the Vedas"**. The **D.A.V. College (Lahore, 1886)** dispute split the Samaj in **1893** into the **College Party** and **Mahatma Party**; **Swami Shraddhanand** founded the **Gurukul (1900)**, moved to **Kangri (1902)**. The Samaj also ran **shuddhi**.
+## Bengal: the Brahmo Samaj and its time
 
-Other bodies: **Seva Sadan (1908, Malabari)**, **Dev Samaj (1887, Lahore)**, **Bharat Dharma Mahamandala (1902, Varanasi)**, **Radhaswami Movement (1861, Agra)**. In the south: **Sree Narayana Guru's SNDP Yogam (1903)** for the **Ezhavas**, the **Vokkaliga Sangha (1905)**, the **Justice Movement**, **E.V. Ramaswamy Naicker's Self-Respect Movement**, and temple entry: **Vaikom Satyagraha (1924)**, **Guruvayur (1931)**, the **Travancore proclamation (12 November 1936)**. **Ranade's Indian Social Conference** first met at **Madras in 1887**.
+### Raja Rammohan Roy
 
-Muslim movements: **Wahabi/Walliullah**, **Titu Mir** (killed **1831**), **Faraizi (Haji Shariatullah, 1818)**, **Ahmadiyya (Mirza Ghulam Ahmad, 1889)**, **Syed Ahmed Khan's Aligarh Movement** (**M.A.O. College, 1875**) and **Deoband (1866)**. Parsis: **Rahnumai Mazdayasnan Sabha (1851)**. Sikhs: **Singh Sabha (Amritsar, 1873)** and the **Akali Movement**, which led to the **Sikh Gurdwaras Act (1922)**. The **Theosophical Society (New York, 1875)** moved to **Adyar (1882)**; **Annie Besant** became president in **1907**.
+Raja Rammohan Roy (1772–1833) is called the 'father of Indian Renaissance'.
 
-The movements freed individuals from priestly control and built national consciousness, but had a **narrow social base** and, by glorifying separate pasts, fed **communal consciousness**.
+1. **1809:** He wrote Gift to Monotheists.
+2. **1814:** He set up the Atmiya Sabha (Society of Friends) in Calcutta.
+3. **1817:** David Hare's Hindu College dates from this year. Rammohan supported it.
+4. **1818:** He began his fight against sati.
+5. **1820:** He wrote Precepts of Jesus.
+6. **1825:** He set up a Vedanta college.
+7. **August 1828:** He founded the Brahmo Sabha. It was later renamed the Brahmo Samaj.
+8. **1830:** Radhakant Deb's Dharma Sabha opposed him. This body was orthodox. It opposed the abolition of sati but favoured Western education.
 
-## Key facts
-- **Raja Rammohan Roy (1772–1833)** — 'father of Indian Renaissance'; wrote **Gift to Monotheists (1809)** and **Precepts of Jesus (1820)**.
-- **Atmiya Sabha** (Society of Friends) — **1814, Calcutta**, by Rammohan Roy.
-- **Brahmo Sabha** founded **August 1828**, later renamed **Brahmo Samaj**.
-- Brahmo Samaj discarded faith in **avataras** and left **karma and transmigration** to individual belief.
-- Rammohan supported **David Hare's Hindu College (1817)** and set up a **Vedanta college in 1825**.
-- **Dharma Sabha (1830)** — **Radhakant Deb**; orthodox, opposed abolition of sati but favoured Western education.
-- **Tattvabodhini Sabha (1839)** and **Tattvabodhini Patrika** — **Debendranath Tagore**, who joined the Brahmo Samaj in **1842**.
-- **Keshab Chandra Sen** made acharya after joining in **1858**; dismissed **1865**; founded **Brahmo Samaj of India (1866)**; Tagore's group became the **Adi Brahmo Samaj**.
-- **1878** Cooch-Behar marriage of Keshab's daughter led to the **Sadharan Brahmo Samaj** (Ananda Mohan Bose, Shibchandra Deb, Umesh Chandra Datta).
-- **Dayal Singh College, Lahore (1910)** — set up by the **Dayal Singh Trust** to spread Brahmo ideas.
-- **Prarthana Samaj (1867, Bombay)** — **Atmaram Pandurang** with Keshab's help; **M.G. Ranade** joined **1870**; other leaders **R.G. Bhandarkar**, **N.G. Chandavarkar**.
-- **Henry Vivian Derozio (1809–31)** — **Young Bengal Movement**; taught at Hindu College **1826–31**; 'perhaps the first nationalist poet of modern India'.
-- **Vidyasagar** — principal of **Sanskrit College (1850)**, opened it to **non-brahmins**; secretary of **Bethune School**.
-- **Balshastri Jambhekar** — **'father of Marathi journalism'**; **Darpan (1832)**, **Digdarshan (1840)**.
-- **Paramahansa Mandali (1849)** — **Dadoba Pandurang**, Mehtaji Durgaram; members ate food cooked by lower castes.
-- **Jyotiba Phule** (born **Satara**, **mali** community) — **Satyashodhak Samaj (1873)**; works **Gulamgiri** and **Sarvajanik Satyadharma**; used symbol of **Rajah Bali**; widows' home **1854**.
-- **Gopalhari Deshmukh** — pen name **'Lokahitawadi'**, wrote in weekly **Prabhakar**; "If religion does not sanction social reform, then change religion."
-- **Gopal Ganesh Agarkar** — principal of **Fergusson College**, **first editor of Kesari**, started **Sudharak**.
-- **Servants of India Society (1905)** — **Gokhale**; **Hitavada (1911)**; **Srinivasa Shastri** president after 1915.
-- **Social Service League (Bombay)** — **Narayan Malhar Joshi**, who also founded **AITUC (1920)**.
-- **Ramakrishna Paramahamsa (1836–1886)** — priest at **Dakshineshwar**; childhood name **Gadadhar Chattopadhyay**; wife **Sarada Devi**.
-- **Vivekananda (Narendranath Datta)** — **Chicago Parliament of Religions (1893)**; **Ramakrishna Mission (1897)**; land at **Belur (1898)**.
-- Subhash Chandra Bose called Vivekananda the **'spiritual father of the modern nationalist movement'** (for Bengal).
-- **Dayananda Saraswati (Mulshankar)** — born **Morvi, Gujarat**; first Arya Samaj at **Bombay (1875)**, HQ later **Lahore**; teacher **Swami Virajananda** (Mathura).
-- Arya Samaj minimum marriage age: **25 (boys), 16 (girls)**.
-- **D.A.V. College, Lahore (1886)**; Arya Samaj split **1893**: **College Party** (Lala Hansraj, Lajpat Rai) vs **Mahatma Party** (Guru Datta Vidyarthi, **Lala Munshi Ram / Swami Shraddhanand**).
-- **Gurukul** — opened **1900 at Gujaranwala**, moved **1902 to Kangri near Haridwar**.
-- **Seva Sadan (1908)** — **Behramji M. Malabari** with **Diwan Dayaram Gidumal**; Malabari edited the **Indian Spectator**.
-- **Dev Samaj (1887, Lahore)** — **Shiv Narayan Agnihotri**; teachings in **Deva Shastra**.
-- **Bharat Dharma Mahamandala (1902)** — orthodox; HQ **Varanasi**; **Madan Mohan Malaviya** prominent.
-- **Radhaswami Movement (1861)** — **Tulsi Ram (Shiv Dayal Saheb)**, a banker of **Agra**.
-- **Sree Narayana Guru** installed a Sivalinga at **Aruvippuram (1888)**; **SNDP Yogam registered 1903** — Guru permanent chairman, **Kumaran Asan** general secretary; **Dr Palpu** also acknowledged.
-- **Ezhavas** — **26 per cent** of Kerala's population, the single largest caste group.
-- **Vokkaliga Sangha** (Mysore) — anti-brahmin movement **1905**.
-- **Justice Movement** — **C.N. Mudaliar, T.M. Nair, P. Tyagaraja**; Madras Presidency Association **1917**.
-- **Self-Respect Movement** — **E.V. Ramaswamy Naicker** (a Balija Naidu), mid-1920s; weddings without brahmin priests.
-- **T.K. Madhavan** — editor of **Deshabhimani**, raised temple entry.
-- **Vaikom Satyagraha (1924)** — led by **K.P. Kesava** (as named in the book); jathas from **Punjab and Madurai**.
-- **Guruvayur (1931)** — inspired by **K. Kelappan**; led by **Subramaniyam Tirumambu, 'singing sword of Kerala'**.
-- **Travancore temple-entry proclamation — 12 November 1936**; Rajagopalachari administration in Madras followed in **1938**.
-- **Indian Social Conference** — **M.G. Ranade and Raghunath Rao**; first session **Madras, 1887**; **Pledge Movement** against child marriage.
-- **Shah Walliullah (1702–1763)** inspired the Wahabi movement; spread by **Shah Abdul Aziz** and **Syed Ahmed Barelvi**; fizzled out in the **1870s**.
-- **Titu Mir (Mir Nithar Ali)** — disciple of Syed Ahmed Barelvi; killed in action **1831**.
-- **Faraizi Movement** — **Haji Shariatullah, 1818**, East Bengal; **Dudu Mian** made it revolutionary from **1840**; arrested **1847**; died **1862**.
-- **Ahmadiyya** — **Mirza Ghulam Ahmad, 1889**; opposed jihad.
-- **Syed Ahmed Khan (1817–1898)** — Imperial Legislative Council **1878**, knighthood **1888**; **M.A.O. College, Aligarh (1875)**; magazine **Tahdhib-ul-Akhlaq**.
-- **Deoband (Darul Uloom), 1866**, Saharanpur — **Mohammad Qasim Nanotavi** and **Rashid Ahmed Gangohi**; 1888 fatwa against Syed Ahmed Khan's organisations.
-- **Shibli Numani** — **Nadwatal Ulama**, Lucknow, **1894–96**.
-- **Rahnumai Mazdayasnan Sabha (1851)** — Parsi; leaders incl. **Dadabhai Naoroji**; paper **Rast Goftar**.
-- **Singh Sabha (Amritsar, 1873)**; **Akali Movement** — **Sikh Gurdwaras Act 1922** (amended 1925), **SGPC**.
-- **Theosophical Society** — **Blavatsky and Olcott, New York, 1875**; HQ **Adyar (1882)**; **Annie Besant** (in India **1893**, president **1907**); **Central Hindu College, Benaras (1898)** → **BHU (1916)**.
-- Main limitation of reform movements: **narrow social base** (educated urban middle classes).
+Two beliefs of the Brahmo Samaj:
+
+- It discarded faith in avataras (incarnations of God).
+- It left karma and transmigration (rebirth of the soul) to individual belief.
+
+### Brahmo Samaj after Rammohan Roy
+
+1. **1839:** Debendranath Tagore headed the Tattvabodhini Sabha. The Tattvabodhini Patrika is also linked with him.
+2. **1842:** Debendranath Tagore joined the Brahmo Samaj.
+3. **1858:** Keshab Chandra Sen joined. After this he was made acharya (religious teacher).
+4. **1865:** Keshab was dismissed as acharya.
+5. **1866:** Keshab founded the Brahmo Samaj of India. Tagore's group became the Adi Brahmo Samaj.
+6. **1878:** Keshab's daughter was married to the Maharaja of Cooch-Behar. This led to the Sadharan Brahmo Samaj. Its leaders were Ananda Mohan Bose, Shibchandra Deb and Umesh Chandra Datta.
+7. **1910:** The Dayal Singh Trust set up the Dayal Singh College at Lahore. Its aim was to spread Brahmo ideas.
+
+### Young Bengal Movement
+
+- Henry Vivian Derozio (1809–31) led the Young Bengal Movement.
+- **1826–31:** He taught at Hindu College.
+- **1831:** He was removed from Hindu College.
+- He has been called 'perhaps the first nationalist poet of modern India'.
+
+### Vidyasagar
+
+- **1850:** Vidyasagar became principal of Sanskrit College. He opened it to non-brahmins.
+- He was secretary of Bethune School.
+
+## Western India
+
+### Balshastri Jambhekar
+
+- He is called the 'father of Marathi journalism'.
+- **1832:** His Darpan dates from this year.
+- **1840:** His Digdarshan dates from this year.
+
+### Paramahansa Mandali
+
+- **1849:** The Paramahansa Mandali was formed. Its leaders were Dadoba Pandurang and Mehtaji Durgaram.
+- Its members ate food cooked by lower castes.
+
+### Prarthana Samaj
+
+- **1867:** Atmaram Pandurang founded the Prarthana Samaj in Bombay. Keshab Chandra Sen helped him.
+- **1870:** M.G. Ranade joined it. He made it an all-India body.
+- Its other leaders were R.G. Bhandarkar and N.G. Chandavarkar.
+
+### Jyotiba Phule and the Satyashodhak Samaj
+
+- Jyotiba Phule was born in Satara. He belonged to the mali (gardener) community.
+- **1854:** He opened a widows' home.
+- **1873:** He founded the Satyashodhak Samaj.
+- His works are Gulamgiri and Sarvajanik Satyadharma.
+- He used the symbol of Rajah Bali.
+
+### Gopalhari Deshmukh
+
+- His pen name was 'Lokahitawadi'.
+- He wrote in the weekly Prabhakar.
+- He said: "If religion does not sanction social reform, then change religion."
+
+### Gopal Ganesh Agarkar
+
+- He was principal of Fergusson College.
+- He was the first editor of Kesari.
+- He started Sudharak.
+
+### Servants of India Society
+
+- **1905:** Gokhale founded the Servants of India Society.
+- **1911:** Hitavada dates from this year.
+- **After 1915:** Srinivasa Shastri was its president.
+
+### Social Service League
+
+- Narayan Malhar Joshi (N.M. Joshi) founded the Social Service League in Bombay.
+- **1920:** He also founded the AITUC.
+
+## Ramakrishna and Vivekananda
+
+### Ramakrishna Paramahamsa
+
+- Ramakrishna Paramahamsa (1836–1886) was a priest at Dakshineshwar.
+- His childhood name was Gadadhar Chattopadhyay.
+- His wife was Sarada Devi.
+- He taught: "As many faiths, so many paths."
+
+### Vivekananda
+
+Vivekananda's earlier name was Narendranath Datta.
+
+1. **1893:** He spoke at the Parliament of Religions in Chicago.
+2. **1897:** He founded the Ramakrishna Mission.
+3. **1898:** Land was acquired at Belur for the Mission.
+
+Subhash Chandra Bose called Vivekananda the 'spiritual father of the modern nationalist movement'. He said this of Bengal.
+
+## Arya Samaj
+
+### Dayananda Saraswati
+
+- Dayananda Saraswati's earlier name was Mulshankar. He was born at Morvi in Gujarat.
+- His teacher was Swami Virajananda of Mathura.
+- He wrote Satyarth Prakash.
+- He gave the slogan "Back to the Vedas".
+
+### The Samaj and its work
+
+1. **1875:** The first Arya Samaj was set up at Bombay. Its headquarters later moved to Lahore.
+2. **1886:** The D.A.V. College was set up at Lahore.
+3. **1893:** A dispute over the D.A.V. College split the Samaj into the College Party and the Mahatma Party.
+4. **1900:** Swami Shraddhanand founded the Gurukul. It opened at Gujaranwala.
+5. **1902:** The Gurukul moved to Kangri near Haridwar.
+
+| Party | Leaders |
+| --- | --- |
+| College Party | Lala Hansraj, Lajpat Rai |
+| Mahatma Party | Guru Datta Vidyarthi, Lala Munshi Ram (Swami Shraddhanand) |
+
+- **Marriage age:** The Arya Samaj fixed a minimum marriage age of 25 for boys and 16 for girls.
+- **Shuddhi:** The Samaj also ran shuddhi (reconversion to Hinduism).
+
+## Other Hindu bodies
+
+| Body | Founded | People and work |
+| --- | --- | --- |
+| Radhaswami Movement | 1861, Agra | Tulsi Ram (Shiv Dayal Saheb), a banker of Agra, started it. |
+| Dev Samaj | 1887, Lahore | Shiv Narayan Agnihotri founded it. Its teachings are in the Deva Shastra. |
+| Bharat Dharma Mahamandala | 1902 | It was an orthodox body. Its headquarters were at Varanasi. Madan Mohan Malaviya was prominent in it. |
+| Seva Sadan | 1908 | Behramji M. Malabari founded it with Diwan Dayaram Gidumal. Malabari edited the Indian Spectator. |
+
+## South India: caste movements and temple entry
+
+### Sree Narayana Guru and the SNDP Yogam
+
+- The Ezhavas were 26 per cent of Kerala's population. They were the single largest caste group.
+- **1888:** Sree Narayana Guru installed a Sivalinga at Aruvippuram.
+- **1903:** The SNDP Yogam was registered. It worked for the Ezhavas.
+- The Guru was its permanent chairman. Kumaran Asan was its general secretary.
+- Dr Palpu's part is also acknowledged.
+
+### Anti-brahmin movements
+
+- **Vokkaliga Sangha:** It started an anti-brahmin movement in Mysore in 1905.
+- **Justice Movement:** Its leaders were C.N. Mudaliar, T.M. Nair and P. Tyagaraja. The Madras Presidency Association dates from 1917.
+- **Self-Respect Movement:** E.V. Ramaswamy Naicker started it in the mid-1920s. He was a Balija Naidu. The movement held weddings without brahmin priests.
+
+### Temple entry
+
+1. T.K. Madhavan raised the issue of temple entry. He was the editor of Deshabhimani.
+2. **1924:** The Vaikom Satyagraha was led by K.P. Kesava (as named in the book). Jathas (bands of marchers) came from Punjab and Madurai.
+3. **1931:** The Guruvayur Satyagraha was inspired by K. Kelappan. It was led by Subramaniyam Tirumambu, the 'singing sword of Kerala'.
+4. **12 November 1936:** The Travancore temple-entry proclamation was issued.
+5. **1938:** The Rajagopalachari administration in Madras followed.
+
+## Indian Social Conference
+
+- M.G. Ranade and Raghunath Rao founded the Indian Social Conference.
+- **1887:** Its first session met at Madras.
+- It launched the Pledge Movement against child marriage.
+
+## Muslim reform movements
+
+### Wahabi (Walliullah) Movement
+
+1. Shah Walliullah (1702–1763) inspired the Wahabi movement.
+2. Shah Abdul Aziz and Syed Ahmed Barelvi spread it.
+3. **1870s:** The movement fizzled out.
+
+### Faraizi Movement
+
+1. **1818:** Haji Shariatullah started the Faraizi Movement in East Bengal.
+2. **1840:** Dudu Mian made it revolutionary from this year.
+3. **1847:** Dudu Mian was arrested.
+4. **1862:** He died.
+
+### Titu Mir
+
+- Titu Mir's name was Mir Nithar Ali. He was a disciple of Syed Ahmed Barelvi.
+- **1831:** He was killed in action.
+
+### Deoband
+
+- **1866:** The Deoband school (Darul Uloom) was founded in Saharanpur. Its founders were Mohammad Qasim Nanotavi and Rashid Ahmed Gangohi.
+- **1888:** It issued a fatwa (religious ruling) against Syed Ahmed Khan's organisations.
+
+### Syed Ahmed Khan and the Aligarh Movement
+
+Syed Ahmed Khan (1817–1898) led the Aligarh Movement.
+
+1. **1875:** He founded the M.A.O. College at Aligarh.
+2. **1878:** He became a member of the Imperial Legislative Council.
+3. **1888:** He received a knighthood.
+
+His magazine was Tahdhib-ul-Akhlaq.
+
+### Ahmadiyya
+
+- **1889:** Mirza Ghulam Ahmad founded the Ahmadiyya movement.
+- It opposed jihad.
+
+### Nadwatal Ulama
+
+- **1894–96:** Shibli Numani is linked with the Nadwatal Ulama at Lucknow.
+
+## Parsi and Sikh reform movements
+
+### Parsis
+
+- **1851:** The Rahnumai Mazdayasnan Sabha was founded. Dadabhai Naoroji was among its leaders.
+- Its paper was Rast Goftar.
+
+### Sikhs
+
+1. **1873:** The Singh Sabha was founded at Amritsar.
+2. **1922:** The Akali Movement led to the Sikh Gurdwaras Act. The SGPC is linked with it.
+3. **1925:** The Act was amended.
+
+## Theosophical Society
+
+1. **1875:** Blavatsky and Olcott founded the Theosophical Society in New York.
+2. **1882:** Its headquarters moved to Adyar.
+3. **1893:** Annie Besant came to India.
+4. **1898:** The Central Hindu College was set up at Benaras.
+5. **1907:** Annie Besant became president of the Society.
+6. **1916:** The Central Hindu College became BHU.
+
+## What the movements achieved, and their limits
+
+Two gains:
+
+1. The movements freed individuals from priestly control.
+2. They built national consciousness.
+
+Two limits:
+
+1. **Narrow social base:** The movements reached mainly the educated urban middle classes. This was their main limitation.
+2. **Communal consciousness:** The movements glorified separate pasts. This fed communal consciousness.
+
+> **Remember**
+>
+> - **August 1828:** Raja Rammohan Roy founded the Brahmo Sabha, later the Brahmo Samaj.
+> - **1866:** Keshab Chandra Sen founded the Brahmo Samaj of India. Tagore's group became the Adi Brahmo Samaj.
+> - **1867:** Atmaram Pandurang founded the Prarthana Samaj in Bombay.
+> - **1873:** Jyotiba Phule founded the Satyashodhak Samaj.
+> - **1875:** The first Arya Samaj was set up at Bombay. The M.A.O. College was founded at Aligarh.
+> - **1893:** Vivekananda spoke at the Parliament of Religions in Chicago.
+> - **1897:** Vivekananda founded the Ramakrishna Mission.
+> - **1924:** The Vaikom Satyagraha took place.
+> - **12 November 1936:** The Travancore temple-entry proclamation was issued.
+> - **Balshastri Jambhekar:** the 'father of Marathi journalism'.

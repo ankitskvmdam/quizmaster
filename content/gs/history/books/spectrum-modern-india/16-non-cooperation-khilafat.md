@@ -4,53 +4,156 @@ number: 16
 title: "Non-Cooperation Movement and Khilafat Aandolan"
 covers: [modern]
 ---
-## Gist
-*Book pages 328–339.*
+Book pages 328–339.
 
-During **1919–22** the British faced two mass movements, the **Khilafat** and the **Non-Cooperation**, which arose from separate issues but adopted a common programme of **non-violent non-cooperation**. The background: post-war economic hardship, the **Rowlatt Act**, martial law in Punjab and the **Jallianwalla Bagh massacre**, the **Hunter Committee** (an "eyewash"; the House of Lords endorsed Dyer and **The Morning Post** collected **30,000 pounds** for him), and the unsatisfying **Montagu-Chelmsford dyarchy**. Hindu-Muslim cooperation had grown through the **Lucknow Pact (1916)**, the Rowlatt agitation and the rise of radical Muslims like **Mohammad Ali, Abul Kalam Azad, Hakim Ajmal Khan and Hasan Imam**.
+## At a glance: the key meetings
 
-Indian Muslims regarded the **Sultan of Turkey as Khalifa**. After the war Turkey was dismembered and the Khalifa removed. In **early 1919** a **Khilafat Committee** was formed under the **Ali brothers (Shaukat Ali and Muhammad Ali), Maulana Azad, Ajmal Khan and Hasrat Mohani**. The **All India Khilafat Conference, Delhi (November 1919)** called for boycott of British goods. **Gandhi was president of the All India Khilafat Committee**. **Tilak** opposed an alliance over a religious issue and was sceptical of satyagraha.
+| Meeting | When | What it decided |
+| --- | --- | --- |
+| All India Khilafat Conference, Delhi | November 1919 | Boycott of British goods |
+| All-party conference, Allahabad | June 1920 | Boycott of schools, colleges and law courts |
+| Special Congress session, Calcutta | September 1920 | Approved the non-cooperation programme |
+| Nagpur session | December 1920 | Swaraj through peaceful and legitimate means |
+| Ahmedabad session | 1921 | Gandhi made the sole authority |
+| Congress Working Committee, Bardoli | February 1922 | Shift to constructive work |
 
-Timeline: **February 1920** Gandhi's announcement; **May 1920 Treaty of Sevres** dismembered Turkey; **June 1920 all-party conference at Allahabad** approved boycott of schools, colleges and courts; **August 31, 1920** the Khilafat Committee formally launched non-cooperation (**Tilak died August 1, 1920**); **September 1920 special session at Calcutta** approved the programme; **December 1920 Nagpur session** endorsed it and changed the Congress goal to **swaraj through peaceful and legitimate means**, set up a **15-member Congress Working Committee**, linguistic PCCs, and cut the fee to **four annas**. Gandhi promised **swaraj within a year**. **Jinnah, Annie Besant, G.S. Kharpade and B.C. Pal** left the Congress; **Surendranath Banerjea** founded the **Indian National Liberal Federation**.
+## Background: why the two movements arose
 
-About **800 national schools and colleges** arose, including **Jamia Millia, Kashi Vidyapeeth, Gujarat Vidyapeeth and Bihar Vidyapeeth**; **Subhash Bose** became principal of the **National College, Calcutta**. Lawyers like **Rajendra Prasad**, the Nehrus and C.R. Das gave up practice. Foreign cloth imports **fell by half**; the **Tilak Swaraj Fund** collected **one crore rupees**. In **July 1921** the Ali brothers asked Muslims to resign from the Army (arrested September). No-tax campaigns ran in **Midnapore** and **Guntur**; **J.M. Sengupta** led Assam strikes; the **Prince of Wales** visited in **November 1921**. In **Bihar**, the lower castes' sacred-thread conflict merged with the movement; **Rajendra Prasad** gave solid support there. In many places **two-thirds of those arrested were Muslims**.
+During 1919–22 the British faced two mass movements, the Khilafat and the Non-Cooperation. They arose from separate issues. But they adopted a common programme of non-violent non-cooperation.
 
-Talks with Viceroy **Reading** broke down in **May 1921**. The **Ahmedabad session (1921)** was presided over by **C.R. Das in jail** (**Hakim Ajmal Khan** acting) and made Gandhi sole authority. On **February 1, 1922** Gandhi threatened civil disobedience from **Bardoli**. At **Chauri Chaura (Gorakhpur, UP)** on **February 5, 1922**, a mob burnt the police station, killing **22 policemen**; Gandhi withdrew the movement and the CWC at **Bardoli** turned to constructive work. Gandhi was arrested in **March 1922** and sentenced to **six years**. In **November 1922** **Mustafa Kamal Pasha** stripped the sultan of power; the **caliphate was abolished in 1924**.
+1. **Economic hardship:** There was economic hardship after the war.
+2. **Rowlatt Act and Punjab:** Then came the Rowlatt Act, martial law in Punjab and the Jallianwalla Bagh massacre.
+3. **Hunter Committee:** It was an "eyewash". The House of Lords endorsed Dyer. The British public helped The Morning Post collect 30,000 pounds for General Dyer.
+4. **Montagu-Chelmsford dyarchy:** The dyarchy of the Montagu-Chelmsford reforms was unsatisfying.
 
-## Key facts
-- Khilafat and Non-Cooperation movements: **1919–22**, common programme of **non-violent non-cooperation**.
-- British public helped **The Morning Post** collect **30,000 pounds** for General Dyer; the **House of Lords** endorsed Dyer.
-- Radical Muslims who became more influential than the Aligarh school: **Mohammad Ali, Abul Kalam Azad, Hakim Ajmal Khan, Hasan Imam**.
-- **Khilafat Committee (early 1919)** — led by **Ali brothers (Shaukat Ali, Muhammad Ali), Maulana Azad, Ajmal Khan, Hasrat Mohani**.
-- **All India Khilafat Conference, Delhi, November 1919** — called for **boycott of British goods**.
-- **Gandhi** was **president of the All India Khilafat Committee**.
-- **Tilak** opposed an alliance with Muslim leaders over a religious issue and was sceptical of satyagraha (per **Prof. Ravinder Kumar**).
-- **Treaty of Sevres (May 1920)** — completely **dismembered Turkey**.
-- **June 1920** — **all-party conference at Allahabad** approved boycott of schools, colleges and law courts; asked Gandhi to lead.
-- **August 31, 1920** — Khilafat Committee formally launched non-cooperation; **Tilak died August 1, 1920**.
-- **September 1920** — **special Congress session at Calcutta** approved the non-cooperation programme.
-- **C.R. Das** was unwilling to boycott councils but bowed to discipline; elections of **November 1920** were boycotted.
-- **Nagpur session (December 1920)** — goal changed to **attainment of swaraj through peaceful and legitimate means**; **CWC of 15 members**; **linguistic** PCCs; entry fee **four annas**.
-- Gandhi declared **swaraj within a year** if the programme was fully implemented.
-- Left the Congress: **Jinnah, Annie Besant, G.S. Kharpade, B.C. Pal**; **Surendranath Banerjea** founded the **Indian National Liberal Federation**.
-- Around **800 national schools and colleges**: **Jamia Millia (Aligarh), Kashi Vidyapeeth, Gujarat Vidyapeeth, Bihar Vidyapeeth**.
-- **Subhash Bose** — principal of **National College, Calcutta**.
-- Lawyers who gave up practice included **Motilal Nehru, Jawaharlal Nehru, C.R. Das, C. Rajagopalachari, Saifuddin Kitchlew, Vallabhbhai Patel, Asaf Ali, T. Prakasam, Rajendra Prasad**.
-- Foreign cloth imports **fell by half**; **Tilak Swaraj Fund** oversubscribed — **one crore rupees**.
-- **July 1921** — Ali brothers asked Muslims to **resign from the Army**; arrested in **September**.
-- No-tax movement against union board taxes: **Midnapore (Bengal)** and **Guntur (Andhra)**.
-- **J.M. Sengupta** — leader of strikes in **Assam** tea plantations, steamers and Assam-Bengal Railways.
-- **Prince of Wales** visit — **November 1921**, met with strikes and demonstrations.
-- Local struggles: **Awadh Kisan Movement, Eka Movement (UP), Mappila Revolt (Malabar)**, Sikh agitation against **mahants**.
-- **Bihar**: the lower castes' **sacred thread** conflict with upper castes merged with the Non-Cooperation Movement.
-- **Rajendra Prasad (Bihar)** and **Vallabhbhai Patel (Gujarat)** gave solid support to the movement.
-- In many places **two-thirds of those arrested were Muslims**.
-- Talks between Gandhi and Viceroy **Reading** broke down in **May 1921**.
-- **Ahmedabad session (1921)** — presided by **C.R. Das (in jail)**; **Hakim Ajmal Khan** acting president; Gandhi made **sole authority**.
-- **February 1, 1922** — Gandhi threatened civil disobedience from **Bardoli (Gujarat)**.
-- **Chauri Chaura (Gorakhpur district, UP), February 5, 1922** — **22 policemen** killed; movement withdrawn.
-- CWC met at **Bardoli (February 1922)** and shifted to **constructive work**.
-- **March 1922** — Gandhi arrested, sentenced to **six years**.
-- **November 1922** — **Mustafa Kamal Pasha** deprived the sultan of power; **caliphate abolished 1924**.
-- Three demands: **favourable treaty for Turkey, redressal of Punjab wrongs, swaraj**.
-- Two myths of colonial rule: benevolence (exploded by **Moderates' economic critique**) and invincibility (challenged by **satyagraha**).
+### Growth of Hindu-Muslim cooperation
+
+Hindu-Muslim cooperation had grown through three things.
+
+1. The Lucknow Pact (1916).
+2. The agitation against the Rowlatt Act.
+3. The rise of radical Muslims like Muhammad Ali, Abul Kalam Azad, Hakim Ajmal Khan and Hasan Imam. They became more influential than the Aligarh school.
+
+## The Khilafat issue
+
+Indian Muslims regarded the Sultan of Turkey as their Khalifa (the religious head of Muslims). After the war Turkey was dismembered. The Khalifa was removed from power.
+
+1. **Early 1919:** A Khilafat Committee was formed. Its leaders were the Ali brothers (Shaukat Ali and Muhammad Ali), Maulana Azad, Ajmal Khan and Hasrat Mohani.
+2. **November 1919:** The All India Khilafat Conference met at Delhi. It called for a boycott of British goods.
+
+- **Gandhi:** He was the president of the All India Khilafat Committee.
+- **Tilak:** He opposed an alliance with Muslim leaders over a religious issue. He was also sceptical of satyagraha. This is the view of Prof. Ravinder Kumar.
+
+## From Khilafat to Non-Cooperation (1920)
+
+The movement had three demands.
+
+1. A favourable treaty for Turkey.
+2. Redressal of the Punjab wrongs.
+3. Swaraj (self-rule).
+
+The steps of 1920:
+
+1. **February 1920:** Gandhi made his announcement.
+2. **May 1920:** The Treaty of Sevres completely dismembered Turkey.
+3. **June 1920:** An all-party conference met at Allahabad. It approved a boycott of schools, colleges and law courts. It asked Gandhi to lead the movement.
+4. **1 August 1920:** Tilak died.
+5. **31 August 1920:** The Khilafat Committee formally launched non-cooperation.
+6. **September 1920:** A special Congress session at Calcutta approved the non-cooperation programme. C.R. Das was unwilling to boycott the councils. But he bowed to discipline.
+7. **November 1920:** The elections were boycotted.
+8. **December 1920:** The Nagpur session endorsed the programme.
+
+### Nagpur session (December 1920)
+
+- **New goal:** The goal of the Congress was changed to the attainment of swaraj through peaceful and legitimate means.
+- **Working Committee:** A Congress Working Committee (CWC) of 15 members was set up.
+- **Provincial committees:** Provincial Congress Committees (PCCs) were formed on a linguistic basis.
+- **Entry fee:** The fee was cut to four annas.
+- **Gandhi's promise:** Gandhi declared that swaraj would come within a year if the programme was fully implemented.
+
+### Who left the Congress
+
+- Jinnah, Annie Besant, G.S. Kharpade and B.C. Pal left the Congress.
+- Surendranath Banerjea founded the Indian National Liberal Federation.
+
+## Spread of the movement
+
+### Education
+
+- About 800 national schools and colleges came up.
+- They included Jamia Millia (Aligarh), Kashi Vidyapeeth, Gujarat Vidyapeeth and Bihar Vidyapeeth.
+- Subhash Bose became the principal of the National College, Calcutta.
+
+### Lawyers
+
+Many lawyers gave up their practice. They included:
+
+- Motilal Nehru and Jawaharlal Nehru
+- C.R. Das
+- C. Rajagopalachari
+- Saifuddin Kitchlew
+- Vallabhbhai Patel
+- Asaf Ali
+- T. Prakasam
+- Rajendra Prasad
+
+### Cloth and funds
+
+- Imports of foreign cloth fell by half.
+- The Tilak Swaraj Fund was oversubscribed. It collected one crore rupees.
+
+### Strikes, no-tax campaigns and protests
+
+1. **July 1921:** The Ali brothers asked Muslims to resign from the Army. They were arrested in September.
+2. **November 1921:** The Prince of Wales visited India. He was met with strikes and demonstrations.
+
+- **No-tax movement:** It was against the union board taxes. It ran in Midnapore (Bengal) and Guntur (Andhra).
+- **Assam:** J.M. Sengupta led the strikes there. The strikes were in the tea plantations, the steamers and the Assam-Bengal Railways.
+
+### Local struggles
+
+- Awadh Kisan Movement
+- Eka Movement (UP)
+- Mappila Revolt (Malabar)
+- The Sikh agitation against the mahants (priests who controlled the gurdwaras)
+
+### Who took part
+
+- **Bihar:** The lower castes were in conflict with the upper castes over the sacred thread. This conflict merged with the Non-Cooperation Movement.
+- **Solid support:** Rajendra Prasad in Bihar and Vallabhbhai Patel in Gujarat gave the movement solid support.
+- **Muslims:** In many places two-thirds of those arrested were Muslims.
+
+## The last phase and the withdrawal
+
+1. **May 1921:** Talks between Gandhi and Viceroy Reading broke down.
+2. **1921:** The Ahmedabad session was held. Its president was C.R. Das, who was in jail. Hakim Ajmal Khan was the acting president. The session made Gandhi the sole authority.
+3. **1 February 1922:** Gandhi threatened to start civil disobedience from Bardoli (Gujarat).
+4. **5 February 1922:** At Chauri Chaura a mob burnt the police station. Chauri Chaura was in Gorakhpur district, UP. 22 policemen were killed.
+5. Gandhi withdrew the movement.
+6. **February 1922:** The CWC met at Bardoli. It turned to constructive work.
+7. **March 1922:** Gandhi was arrested. He was sentenced to six years.
+
+## End of the Khilafat issue
+
+1. **November 1922:** Mustafa Kamal Pasha stripped the sultan of power.
+2. **1924:** The caliphate (the office of the Khalifa) was abolished.
+
+## Two myths of colonial rule
+
+| Myth | What broke it |
+| --- | --- |
+| British rule was benevolent | The economic critique of the Moderates exploded it |
+| British rule was invincible | Satyagraha challenged it |
+
+> **Remember**
+>
+> - **1919–22:** The years of the Khilafat and Non-Cooperation movements.
+> - **Early 1919:** The Khilafat Committee was formed under the Ali brothers.
+> - **May 1920:** The Treaty of Sevres dismembered Turkey.
+> - **31 August 1920:** The Khilafat Committee formally launched non-cooperation.
+> - **December 1920:** The Nagpur session set the goal of swaraj through peaceful and legitimate means.
+> - **15 members:** The size of the Congress Working Committee set up at Nagpur.
+> - **800:** About this many national schools and colleges came up.
+> - **5 February 1922:** 22 policemen were killed at Chauri Chaura.
+> - **March 1922:** Gandhi was arrested and sentenced to six years.
+> - **1924:** The caliphate was abolished.

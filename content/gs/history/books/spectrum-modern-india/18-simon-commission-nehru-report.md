@@ -4,46 +4,138 @@ number: 18
 title: "Simon Commission and the Nehru Report"
 covers: [modern]
 ---
-## Gist
-*Book pages 357–365.*
+Book pages 357–365.
 
-The **Government of India Act, 1919** provided for a review commission after ten years. The Conservative government of **Stanley Baldwin**, fearing defeat by Labour, set up the **all-white, seven-member Indian Statutory Commission** under **Sir John Simon** on **November 8, 1927**, earlier than due. Secretary of State **Lord Birkenhead**, who taunted Indians for being unable to frame an agreed constitution, was responsible for it. Earlier inquiries included the **Lee Commission** (recruitment of British officers), **Muddiman Commission** (deadlock in dyarchy) and **Linlithgow Commission** (agricultural crisis).
+## At a glance: the commission and the committee
 
-Indians were angered by their **exclusion**. The **Madras Congress session (December 1927)** under **M.A. Ansari** resolved to boycott it "at every stage and in every form", and Nehru got a **snap resolution for complete independence** passed. The **Jinnah faction of the Muslim League (Calcutta session)** joined the boycott, while the **Shafi faction (Lahore)** supported the government; the **Unionists (Punjab)** and **Justice Party** did not boycott. The commission landed at **Bombay on February 3, 1928** to a nationwide **hartal** and **'Simon Go Back'** slogans. Youth led by **Nehru and Subhash Bose** were energised. **Nehru and G.B. Pant** were beaten in **Lucknow**; **Lala Lajpat Rai**, hit in **October 1928**, died on **November 17, 1928**.
+| Point | Simon Commission | Nehru Committee |
+| --- | --- | --- |
+| Set up | 8 November 1927 | February 1928 |
+| Set up by | Stanley Baldwin's government | All Parties Conference |
+| Head | Sir John Simon | Motilal Nehru |
+| Report | May 1930 | August 1928 |
+| Main proposal | Provincial autonomy, but no parliamentary responsibility at the Centre | Dominion status |
 
-**Dr Ambedkar**, appointed by the **Bombay Legislative Council**, appeared in **October 1928**, demanding **universal adult franchise**, and on behalf of the **Bahishkrita Hitakarini Sabha** asked that depressed classes be treated as a **distinct minority**, with **reserved seats** (or **separate electorates** if universal franchise was not granted).
+## Background: why the commission came early
 
-The **two-volume report (May 1930)** proposed **abolition of dyarchy** and **provincial autonomy**, rejected **parliamentary responsibility at the Centre**, kept **separate electorates**, refused universal franchise, deferred federalism, and recommended separating **Sindh from Bombay** and **Burma from India**.
+1. The Government of India Act, 1919 provided for a review commission after ten years.
+2. The Conservative government of Stanley Baldwin feared defeat by Labour. So it set up the commission earlier than due.
+3. Lord Birkenhead, the Conservative Secretary of State, was responsible for its appointment.
+4. Birkenhead taunted Indians for being unable to frame an agreed constitution. He challenged them to produce one.
 
-Answering Birkenhead, an **All Parties Conference (February 1928)** appointed a sub-committee under **Motilal Nehru**; members included **Tej Bahadur Sapru, Subhash Bose, M.S. Aney, Mangal Singh, Ali Imam, Shuab Qureshi and G.R. Pradhan**. The **Nehru Report (August 1928)**, the **first major Indian attempt at a constitution**, recommended **dominion status**, **joint electorates** with reservation for Muslims only where they were in a minority, **linguistic provinces**, **19 fundamental rights**, a **500-member House of Representatives** and **200-member Senate**, and **separation of State from religion**.
+Three earlier commissions had inquired into other matters:
 
-Earlier, the Muslim League's **Delhi Proposals (December 1927)** sought joint electorates with reserved seats, **one-third** of central seats and three new Muslim-majority provinces; the **Hindu Mahasabha** opposed them. At the **Calcutta All Parties Conference (December 1928)** **Jinnah's three amendments** were rejected, and in **March 1929** he issued his **Fourteen Points**. **Jawaharlal Nehru and Subhash Bose** saw dominion status as a step backward and formed the **Independence for India League**.
+- **Lee Commission:** the failure to recruit enough British officers.
+- **Muddiman Commission:** the deadlock in dyarchy (dual rule).
+- **Linlithgow Commission:** the crisis of Indian agriculture.
 
-## Key facts
-- **Simon Commission** — all-white, **seven-member** Indian Statutory Commission, set up **November 8, 1927** under PM **Stanley Baldwin**; chairman **Sir John Simon**.
-- **Lord Birkenhead** (Conservative Secretary of State) was responsible for its appointment and challenged Indians to produce an agreed constitution.
-- **Lee Commission** — failure to recruit enough British officers; **Muddiman Commission** — deadlock in dyarchy; **Linlithgow Commission** — crisis of Indian agriculture.
-- **Madras session (December 1927)**, president **M.A. Ansari** — boycott "at every stage and in every form"; Nehru's **snap resolution** declared **complete independence** the goal.
-- Muslim League 1927: **Jinnah** session at **Calcutta** opposed the commission; **Muhammad Shafi** session at **Lahore** supported the government.
-- Did not boycott: **Unionists (Punjab)** and **Justice Party (south)**.
-- Commission landed at **Bombay, February 3, 1928** — countrywide hartal; slogan **'Simon Go Back'**.
-- Groups of the youth upsurge: **Punjab Naujawan Bharat Sabha**, Workers' and Peasants' Parties, **Hindustani Sewa Dal (Karnataka)**.
-- **Jawaharlal Nehru and G.B. Pant** beaten up in **Lucknow**.
-- **Lala Lajpat Rai** — blows in **October 1928**; died **November 17, 1928**; "last nails driven into the coffin of British Imperialism".
-- **Ambedkar** — appointed by the **Bombay Legislative Council**; appeared in **October 1928**; memorandum for **Bahishkrita Hitakarini Sabha**.
-- Ambedkar: **universal adult franchise**, **provincial autonomy** and **dyarchy at the Centre**; depressed classes a **distinct and independent minority**; reserved seats with UAF, else **separate electorate**.
-- Simon report gave depressed classes reserved seats only if candidates' competence was endorsed by the **provincial governor**.
-- Simon report: **two volumes, May 1930** — abolish dyarchy, **representative government and autonomy in provinces**, **no parliamentary responsibility at Centre**, separate electorates retained, **no universal franchise**.
-- Simon report: **Consultative Council of Greater India**; local legislatures for **NWFP and Baluchistan**; **Sindh separated from Bombay**; **Burma separated from India**; Indianisation of army with British forces retained.
-- **All Parties Conference, February 1928** — sub-committee under **Motilal Nehru**; report finalised **August 1928**; **first major Indian attempt** to draft a constitution.
-- Nehru Committee members: **Tej Bahadur Sapru, Subhash Bose, M.S. Aney, Mangal Singh, Ali Imam, Shuab Qureshi, G.R. Pradhan**.
-- Nehru Report: **dominion status**; **joint electorates**, reservation for Muslims only where in minority (not in **Punjab and Bengal**); **linguistic provinces**; **19 fundamental rights**.
-- Nehru Report Parliament: **500-member House of Representatives (5 years)**, **200-member Senate (7 years)** elected by provincial councils.
-- Nehru Report: **complete dissociation of State from religion**; confined to **British India**.
-- **Delhi Proposals (December 1927)** — joint electorates with reserved seats; **one-third** Muslim representation in Central Legislative Assembly; population-based representation in Punjab and Bengal; new provinces **Sindh, Baluchistan, NWFP**; accepted by the **Madras Congress session**.
-- **Hindu Mahasabha** opposed new Muslim-majority provinces and demanded a **strictly unitary** structure.
-- Concessions to Hindu communalists: Sindh to be detached only **after dominion status** with weightage to Hindus; **residual powers with the Centre**.
-- **Calcutta All Parties Conference (December 1928)** — **Jinnah's three amendments**: one-third central representation, population-based reservation in Bengal and Punjab till adult suffrage, **residual powers to provinces**; not accepted.
-- **Jinnah's Fourteen Points — March 1929**, given after returning to the **Shafi faction**.
-- Fourteen Points include: **one-third** Muslims in central legislature and in any cabinet, **separate electorates**, **three-fourths** minority veto on bills, separation of **Sindh**.
-- **Jawaharlal Nehru and Subhash Bose** set up the **Independence for India League**.
+## The Simon Commission
+
+### Appointment
+
+- **8 November 1927:** The Indian Statutory Commission was set up. Stanley Baldwin was the Prime Minister.
+- Its chairman was Sir John Simon. So it is called the Simon Commission.
+- It had seven members. It was an all-white commission.
+
+### Response in India
+
+Indians were angered by their exclusion from the commission.
+
+| Group | Stand on the commission |
+| --- | --- |
+| Congress (Madras session, December 1927) | Boycott |
+| Muslim League, Jinnah faction (Calcutta session, 1927) | Opposed the commission and joined the boycott |
+| Muslim League, Muhammad Shafi faction (Lahore session, 1927) | Supported the government |
+| Unionists (Punjab) | Did not boycott |
+| Justice Party (south) | Did not boycott |
+
+1. **December 1927:** The Madras Congress session met with M.A. Ansari as president. It resolved to boycott the commission "at every stage and in every form".
+2. At the same session Nehru got a snap resolution passed. It declared complete independence to be the goal.
+3. **3 February 1928:** The commission landed at Bombay. There was a countrywide hartal (strike). The slogan was 'Simon Go Back'.
+4. The youth were energised. Nehru and Subhash Bose led them.
+5. Jawaharlal Nehru and G.B. Pant were beaten up in Lucknow.
+6. **October 1928:** Lala Lajpat Rai received blows. They were called the "last nails driven into the coffin of British Imperialism".
+7. **17 November 1928:** Lala Lajpat Rai died.
+
+Three groups were part of the youth upsurge:
+
+- Punjab Naujawan Bharat Sabha.
+- Workers' and Peasants' Parties.
+- Hindustani Sewa Dal (Karnataka).
+
+### Ambedkar before the commission
+
+- Dr Ambedkar was appointed by the Bombay Legislative Council.
+- **October 1928:** He appeared before the commission.
+- He demanded universal adult franchise, provincial autonomy and dyarchy at the Centre.
+- He gave a memorandum on behalf of the Bahishkrita Hitakarini Sabha. It asked that the depressed classes be treated as a distinct and independent minority.
+- He asked for reserved seats for them if universal adult franchise was granted. If it was not granted, he asked for a separate electorate.
+
+### Recommendations
+
+The report came in two volumes in May 1930.
+
+1. **Provinces:** It proposed the abolition of dyarchy. The provinces were to have representative government and provincial autonomy.
+2. **Centre:** There was to be no parliamentary responsibility at the Centre.
+3. **Electorates:** Separate electorates were retained.
+4. **Franchise:** There was to be no universal franchise.
+5. **Federalism:** It was deferred.
+6. **Depressed classes:** They got reserved seats only if the provincial governor endorsed the competence of the candidates.
+7. **Consultative Council of Greater India:** The report proposed this body.
+8. **NWFP and Baluchistan:** They were to get local legislatures.
+9. **Separation:** Sindh was to be separated from Bombay. Burma was to be separated from India.
+10. **Army:** It was to be Indianised, but British forces were to be retained.
+
+## The Nehru Report
+
+### Appointment
+
+- **February 1928:** An All Parties Conference met. It was the answer to Birkenhead's challenge.
+- It appointed a sub-committee under Motilal Nehru.
+- The other members included Tej Bahadur Sapru, Subhash Bose, M.S. Aney, Mangal Singh, Ali Imam, Shuab Qureshi and G.R. Pradhan.
+- **August 1928:** The report was finalised. It was the first major Indian attempt at drafting a constitution.
+
+### Recommendations
+
+1. **Status:** India was to have dominion status (self-rule within the British Empire).
+2. **Electorates:** There were to be joint electorates. Seats were reserved for Muslims only where they were in a minority. So there was no reservation in Punjab and Bengal.
+3. **Provinces:** There were to be linguistic provinces.
+4. **Rights:** There were to be 19 fundamental rights.
+5. **House of Representatives:** It was to have 500 members and a term of 5 years.
+6. **Senate:** It was to have 200 members and a term of 7 years. The provincial councils were to elect it.
+7. **Religion:** There was to be complete dissociation of the State from religion, that is, the separation of the two.
+8. **Extent:** The report was confined to British India.
+
+### Response
+
+- Jawaharlal Nehru and Subhash Bose saw dominion status as a step backward.
+- They set up the Independence for India League.
+
+## The communal question
+
+1. **December 1927:** The Muslim League put forward the Delhi Proposals. The Madras Congress session accepted them.
+2. The Hindu Mahasabha opposed the new Muslim-majority provinces. It demanded a strictly unitary structure.
+3. Two concessions were made to the Hindu communalists. Sindh was to be detached only after dominion status, with weightage to Hindus. Residual powers were to rest with the Centre.
+4. **December 1928:** The Calcutta All Parties Conference met. Jinnah moved three amendments there. They were not accepted.
+5. **March 1929:** Jinnah gave his Fourteen Points. He gave them after returning to the Shafi faction.
+
+The three sets of demands compare as follows. The Fourteen Points row lists only some of the points.
+
+| Demands | Seats for Muslims | Electorates | Other demands |
+| --- | --- | --- | --- |
+| Delhi Proposals (December 1927) | One-third in the Central Legislative Assembly. Representation by population in Punjab and Bengal. | Joint electorates with reserved seats | Three new Muslim-majority provinces: Sindh, Baluchistan and NWFP |
+| Jinnah's three amendments (December 1928) | One-third at the Centre. Reservation by population in Bengal and Punjab till adult suffrage. | — | Residual powers to the provinces |
+| Fourteen Points (March 1929) | One-third in the central legislature and in any cabinet | Separate electorates | Three-fourths minority veto on bills. Separation of Sindh. |
+
+> **Remember**
+>
+> - **8 November 1927:** The all-white, seven-member Simon Commission was set up.
+> - **December 1927:** The Madras Congress session under M.A. Ansari resolved to boycott the commission.
+> - **3 February 1928:** The commission landed at Bombay to a hartal and 'Simon Go Back'.
+> - **17 November 1928:** Lala Lajpat Rai died.
+> - **May 1930:** The Simon report came in two volumes.
+> - **August 1928:** The Nehru Report was the first major Indian attempt at a constitution.
+> - **19:** the number of fundamental rights in the Nehru Report.
+> - **500 and 200:** the members of the House of Representatives and the Senate in the Nehru Report.
+> - **March 1929:** Jinnah gave his Fourteen Points.
+> - **Independence for India League:** set up by Jawaharlal Nehru and Subhash Bose.

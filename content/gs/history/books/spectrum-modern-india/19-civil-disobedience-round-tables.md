@@ -4,57 +4,229 @@ number: 19
 title: "Civil Disobedience Movement and Round Table Conferences"
 covers: [modern]
 ---
-## Gist
-*Book pages 366–400.*
+Book pages 366–400.
 
-At the **Calcutta session (December 1928)** the Congress approved the **Nehru Report** but, under pressure from younger leaders (**Jawaharlal Nehru, Subhash Bose, Satyamurthy**), gave the government **one year** to accept dominion status, failing which it would demand complete independence and launch civil disobedience. In 1929 Gandhi began a foreign-cloth boycott campaign in **Calcutta (March 1929)**; **Ramsay MacDonald's** minority Labour government came to power (May) with **Wedgewood Benn** as Secretary of State. **Irwin's Declaration (October 31, 1929)** said dominion status was the natural issue of India's constitutional progress, but set no time scale. The **Delhi Manifesto (November 2, 1929)** laid down conditions for attending a Round Table Conference; Irwin rejected them.
+## At a glance: the main steps
 
-The **Lahore session (December 1929)**, presided over by **Jawaharlal Nehru** (backed by Gandhi though **15 of 18 PCCs** opposed him), declared **purna swaraj** the goal, decided to boycott the RTC and authorised civil disobedience. Nehru hoisted the tricolour on the **banks of the Ravi** at midnight on **December 31, 1929**; **January 26, 1930** was the first Independence Day.
+On this page RTC means a Round Table Conference.
 
-Gandhi placed **eleven demands** (ultimatum **January 31, 1930**) and chose **salt** as the central theme. The **Dandi March (March 12–April 6, 1930)** with **78** Sabarmati Ashram members covered **240 miles**. Gandhi was arrested on **May 4, 1930**. Regional leaders: **C. Rajagopalachari** (Trichinapoly to **Vedaranniyam**), **K. Kelappan** (Malabar), **Gopalbandhu Chaudhuri** (Orissa), **Khan Abdul Gaffar Khan's Khudai Khidmatgars ('Red-Shirts')** in Peshawar, where **Garhwal Rifles** soldiers refused to fire. **Sholapur** saw the fiercest response; **Sarojini Naidu** led the **Dharasana** raid (**May 21, 1930**). **Rani Gaidinliu** rebelled in the Naga areas.
+| Step | Date | What it did |
+| --- | --- | --- |
+| Calcutta session | December 1928 | Gave the government one year to accept dominion status |
+| Lahore session | December 1929 | Declared purna swaraj the goal |
+| Dandi March | 12 March–6 April 1930 | Gandhi and 78 marchers covered 240 miles |
+| Gandhi-Irwin Pact | 1931 | Suspended the movement |
+| Second RTC | 7 September–1 December 1931 | Ended in deadlock over minorities |
+| Movement resumed | 29 December 1931 | Gandhi was arrested on 4 January 1932 |
+| Communal Award | 16 August 1932 | Gave the depressed classes separate electorates |
+| Poona Pact | 24 September 1932 | Raised their reserved seats to 147 |
+| Movement withdrawn | April 1934 | The Civil Disobedience Movement ended |
 
-**Bihar:** **Champaran and Saran** were the first districts to start salt satyagraha; in Patna, **Nakhas Pond** was used under **Ambika Kant Sinha**. Since salt-making was impracticable in landlocked Bihar, a powerful **no-chaukidari tax** agitation replaced it; administration collapsed in the **Barhee region of Munger**. In **Hazaribagh**, **Bonga Majhi and Somra Majhi** led a Gandhi-influenced movement.
+## Background: from Calcutta to the Delhi Manifesto
 
-The **Gandhi-Irwin (Delhi) Pact (1931)** suspended the movement; Congress agreed to attend the next RTC. The **Karachi session (March 1931)** endorsed the pact and passed resolutions on **Fundamental Rights** and the **National Economic Programme**. The **First RTC (November 1930–January 1931)**, opened by **King George V**, was boycotted by Congress; at the **Second RTC (September 7–December 1, 1931)** **Gandhi** was Congress's sole representative and it deadlocked over minorities. The **Third RTC (November 17–December 24, 1932)** led to the **White Paper (March 1933)** and the **Government of India Act, 1935**.
+1. **December 1928:** The Calcutta session of the Congress approved the Nehru Report.
+2. The younger leaders put pressure on the session. They were Jawaharlal Nehru, Subhash Bose and Satyamurthy.
+3. Under this pressure the session gave the government a one-year deadline to accept dominion status. If it failed, the Congress would demand complete independence and launch civil disobedience.
+4. **March 1929:** Gandhi began a campaign to boycott foreign cloth in Calcutta.
+5. **May 1929:** Ramsay MacDonald's minority Labour government came to power. Wedgewood Benn became the Secretary of State.
+6. **31 October 1929:** Irwin's Declaration was made. It said dominion status was the natural issue of India's constitutional progress. It promised a Round Table Conference. But it set no time scale.
+7. **2 November 1929:** The Delhi Manifesto laid down the conditions for attending the conference.
+8. Irwin rejected these conditions.
 
-Civil disobedience resumed (**December 1931**); Gandhi was arrested on **January 4, 1932** and the movement was withdrawn in **April 1934**. The **Communal Award (August 16, 1932)** gave depressed classes separate electorates; Gandhi's fast (**September 20, 1932**) led to the **Poona Pact (September 24, 1932)**, which raised their reserved seats to **147**. Gandhi then founded the **All India Anti-Untouchability League**, the weekly **Harijan** and the **Harijan Sevak Sangh**.
+The Delhi Manifesto made three demands:
 
-## Key facts
-- **Calcutta session (December 1928)** approved the **Nehru Report**; gave the government a **one-year** deadline to accept dominion status.
-- **Irwin's Declaration** — **October 31, 1929**; promised dominion status with **no time scale** and a Round Table Conference.
-- **Delhi Manifesto** — **November 2, 1929**; demanded RTC frame a dominion-status constitution, **Congress majority** representation, and **general amnesty**.
-- **Lahore session (December 1929)** — president **Jawaharlal Nehru**; **15 out of 18** Provincial Congress Committees had opposed him.
-- Tricolour hoisted by Nehru on the **banks of the Ravi** at midnight, **December 31, 1929**; **January 26, 1930** — first Independence Day.
-- Gandhi's **eleven demands** — ultimatum of **January 31, 1930**; included rupee-sterling ratio of **1s 4d** and abolition of the **salt tax**.
-- **Dandi March** — **March 12 to April 6, 1930**; **78** Sabarmati Ashram members; **240 miles**; in Gujarat **300 village officials** resigned.
-- Gandhi arrested on **May 4, 1930**, before his planned raid on **Dharasana Salt Works**.
-- After Gandhi's arrest the CWC sanctioned **no-revenue in ryotwari areas**, **no-chowkidara tax in zamindari areas**, **forest law violation in Central Provinces**.
-- **C. Rajagopalachari** — salt march from **Thiruchirapalli to Vedaranniyam** (Tanjore coast), April 1930.
-- **K. Kelappan** (Vaikom Satyagraha fame) — salt marches in **Malabar**; **P. Krishna Pillai** defended the flag on **Calicut beach** (November 1930).
-- **Gopalbandhu Chaudhuri** — salt satyagraha in **Balasore, Cuttack and Puri** (Orissa).
-- Assam — student strike against the **Cunningham Circular** (May 1930); **Chandraprabha Saikiani** incited Kachari villages to break forest laws.
-- **Bengal** gave the **largest number of arrests** and the highest violence; **Surya Sen's Chittagong** group raided two armouries.
-- **Bihar:** **Champaran and Saran** — first districts to start salt satyagraha.
-- **Patna:** salt made at **Nakhas Pond** under **Ambika Kant Sinha**.
-- **Bihar:** **no-chaukidari tax** agitation replaced salt satyagraha; administration collapsed in the **Barhee region of Munger**.
-- **Hazaribagh:** **Bonga Majhi and Somra Majhi** led a Gandhi-influenced 'sanskritising' movement; **Santhals** took up illegal liquor distillation 'under the banner of Gandhi'.
-- In Bihar **big zamindars stayed loyal**; **small landlords and better-off tenants** joined the movement.
-- **Khan Abdul Gaffar Khan** ('Badshah Khan', 'Frontier Gandhi') — started Pushto monthly **Pukhtoon**; organised the **Khudai Khidmatgars ('Red-Shirts')**.
-- **Peshawar** — section of **Garhwal Rifles** refused to fire on an unarmed crowd (1930).
-- **Sholapur** — fiercest response to Gandhi's arrest; textile workers set up a virtual **parallel government**.
-- **Dharasana raid (May 21, 1930)** — led by **Sarojini Naidu, Imam Sahib and Manilal**; reported by American journalist **Web Miller**.
-- **Rani Gaidinliu** — Naga spiritual leader, cousin of **Haipou Jadonang** (hanged 1931); captured **October 1932**; released from **Tura jail** by the Interim Government (1946).
-- Forms of mobilisation: **prabhat pheries, vanar senas, manjari senas**, secret patrikas, magic lantern shows.
-- **Gandhi-Irwin Pact (Delhi Pact)** — right to make salt in coastal villages **for personal consumption**; Irwin refused a **public inquiry into police excesses** and **commutation of Bhagat Singh's** sentence.
-- **Karachi session (March 1931)** — endorsed the Delhi Pact; resolutions on **Fundamental Rights** and **National Economic Programme**; black flags by **Punjab Naujawan Bharat Sabha**.
-- CDM vs NCM: about **three times** more people imprisoned; **no major labour upsurge**; **lower Muslim participation**.
-- **First RTC** — London, **November 1930–January 1931**; opened by **King George V (November 12, 1930)**; chaired by **Ramsay MacDonald**; Congress absent. Landlords from **Bihar**, UP and Orissa were represented.
-- **Second RTC** — **September 7 to December 1, 1931**; **Gandhi** sole Congress representative; Viceroy now **Willingdon**; Secretary of State **Samuel Hoare**.
-- Second RTC ended with MacDonald announcing two Muslim-majority provinces (**NWFP and Sindh**), an Indian Consultative Committee and three expert committees (**finance, franchise, states**).
-- **Third RTC** — **November 17 to December 24, 1932**; **White Paper (March 1933)** → **Government of India Act, 1935** (enforced July 1935).
-- CDM resumed **December 29, 1931**; Gandhi arrested **January 4, 1932**; about **80,000** jailed in the first four months; withdrawn **April 1934**.
-- Truce period: firing on political prisoners at **Hijli Jail** (Bengal), **September 1931**.
-- **Communal Award** — **Ramsay MacDonald, August 16, 1932**; based on the **Lothian Committee**; depressed classes' separate electorates for **20 years**; **3%** seats for women (except NWFP); **7 seats for Marathas** in Bombay.
-- **Poona Pact (September 24, 1932)** — signed by **B.R. Ambedkar**; reserved seats raised **from 71 to 147** in provincial legislatures and **18%** in the Central Legislature.
-- Gandhi set up the **All India Anti-Untouchability League (September 1932)**, started weekly **Harijan (January 1933)**; Harijan tour from **Wardha (November 1933–July 1934)**, **20,000 km**, for the **Harijan Sevak Sangh**.
-- **Temple Entry Bill** defeated in **August 1934**.
+- The conference should frame a constitution for dominion status.
+- The Congress should have majority representation at it.
+- There should be a general amnesty.
+
+## The Lahore session (December 1929)
+
+- Jawaharlal Nehru was the president. Gandhi backed him, though 15 out of 18 Provincial Congress Committees (PCCs) had opposed him.
+- The session declared purna swaraj (complete independence) to be the goal.
+- It decided to boycott the RTC.
+- It authorised civil disobedience.
+- **31 December 1929:** At midnight Nehru hoisted the tricolour on the banks of the Ravi.
+- **26 January 1930:** The first Independence Day was observed.
+
+## The movement begins (1930)
+
+### Eleven demands and the Dandi March
+
+1. **31 January 1930:** Gandhi placed eleven demands before the government as an ultimatum. They included a rupee-sterling ratio of 1s 4d and the abolition of the salt tax.
+2. Gandhi chose salt as the central theme of the movement.
+3. **12 March to 6 April 1930:** The Dandi March took place. Gandhi marched with 78 members of the Sabarmati Ashram. They covered 240 miles.
+4. In Gujarat 300 village officials resigned.
+5. **4 May 1930:** Gandhi was arrested. He had planned a raid on the Dharasana Salt Works.
+
+### After Gandhi's arrest
+
+After the arrest the Congress Working Committee (CWC) sanctioned three more forms of protest:
+
+- **Ryotwari areas:** no payment of revenue.
+- **Zamindari areas:** no payment of the chaukidari tax (a tax for village watchmen).
+- **Central Provinces:** violation of forest laws.
+
+### Forms of mobilisation
+
+- Prabhat pheries (morning processions).
+- Vanar senas and manjari senas.
+- Secret patrikas (news-sheets).
+- Magic lantern shows.
+
+## The movement in the regions
+
+### Tanjore coast
+
+- **April 1930:** C. Rajagopalachari led a salt march from Thiruchirapalli (Trichinapoly) to Vedaranniyam.
+
+### Malabar
+
+- K. Kelappan led salt marches here. He was known for the Vaikom Satyagraha.
+- **November 1930:** P. Krishna Pillai defended the flag on Calicut beach.
+
+### Orissa
+
+- Gopalbandhu Chaudhuri led the salt satyagraha in Balasore, Cuttack and Puri.
+
+### Assam
+
+- **May 1930:** Students went on strike against the Cunningham Circular.
+- Chandraprabha Saikiani incited Kachari villages to break the forest laws.
+
+### Bengal
+
+- Bengal gave the largest number of arrests. It also saw the highest violence.
+- Surya Sen's Chittagong group raided two armouries.
+
+### Bihar
+
+- Champaran and Saran were the first districts to start the salt satyagraha.
+- In Patna, salt was made at Nakhas Pond under Ambika Kant Sinha.
+- Bihar is landlocked, so making salt was impracticable. A powerful no-chaukidari tax agitation replaced the salt satyagraha.
+- The administration collapsed in the Barhee region of Munger.
+- In Hazaribagh, Bonga Majhi and Somra Majhi led a 'sanskritising' movement influenced by Gandhi.
+- The Santhals took up illegal liquor distillation 'under the banner of Gandhi'.
+- The big zamindars stayed loyal to the government. The small landlords and better-off tenants joined the movement.
+
+### Peshawar
+
+- Khan Abdul Gaffar Khan was also called 'Badshah Khan' and 'Frontier Gandhi'.
+- He started Pukhtoon, a Pushto monthly.
+- He organised the Khudai Khidmatgars. They were known as the 'Red-Shirts'.
+- **1930:** A section of the Garhwal Rifles refused to fire on an unarmed crowd in Peshawar.
+
+### Sholapur
+
+- Sholapur saw the fiercest response to Gandhi's arrest.
+- The textile workers set up a virtual parallel government.
+
+### Dharasana
+
+- **21 May 1930:** The raid on Dharasana took place. Sarojini Naidu, Imam Sahib and Manilal led it.
+- The American journalist Web Miller reported it.
+
+### Naga areas
+
+- Rani Gaidinliu was a Naga spiritual leader. She rebelled in the Naga areas.
+- She was a cousin of Haipou Jadonang.
+- **1931:** Haipou Jadonang was hanged.
+- **October 1932:** She was captured.
+- **1946:** The Interim Government released her from Tura jail.
+
+## Gandhi-Irwin Pact and the Karachi session (1931)
+
+### Gandhi-Irwin Pact
+
+The Gandhi-Irwin Pact of 1931 is also called the Delhi Pact.
+
+- The pact suspended the movement.
+- The Congress agreed to attend the next RTC.
+- People in coastal villages got the right to make salt for personal consumption.
+- Irwin refused a public inquiry into police excesses.
+- He also refused the commutation of Bhagat Singh's sentence (a change to a lighter punishment).
+
+### Karachi session
+
+- **March 1931:** The Karachi session endorsed the Delhi Pact.
+- It passed resolutions on Fundamental Rights and on the National Economic Programme.
+- The Punjab Naujawan Bharat Sabha showed black flags.
+
+### How this movement differed from Non-Cooperation
+
+1. About three times more people were imprisoned.
+2. There was no major labour upsurge.
+3. Muslim participation was lower.
+
+## The Round Table Conferences
+
+| Conference | Dates | Congress | Result |
+| --- | --- | --- | --- |
+| First RTC | November 1930–January 1931 | Boycotted it | — |
+| Second RTC | 7 September–1 December 1931 | Gandhi was its sole representative | Deadlock over minorities |
+| Third RTC | 17 November–24 December 1932 | — | White Paper, then the Government of India Act, 1935 |
+
+### First RTC
+
+- It was held in London.
+- **12 November 1930:** King George V opened it.
+- Ramsay MacDonald chaired it.
+- The Congress was absent.
+- Landlords from Bihar, UP and Orissa were represented.
+
+### Second RTC
+
+- Willingdon was now the Viceroy. Samuel Hoare was the Secretary of State.
+- At the end MacDonald announced two Muslim-majority provinces, NWFP and Sindh.
+- He also announced an Indian Consultative Committee.
+- He announced three expert committees: on finance, franchise and the states.
+
+### Third RTC
+
+- **March 1933:** A White Paper (a statement of government proposals) followed the conference.
+- The White Paper led to the Government of India Act, 1935. The Act was enforced in July 1935.
+
+## The second phase of the movement (1931–34)
+
+1. **September 1931:** Political prisoners were fired on at Hijli Jail in Bengal. This was during the truce period.
+2. **29 December 1931:** The Civil Disobedience Movement was resumed.
+3. **4 January 1932:** Gandhi was arrested.
+4. About 80,000 people were jailed in the first four months.
+5. **April 1934:** The movement was withdrawn.
+
+## Communal Award and Poona Pact (1932)
+
+### Communal Award
+
+- **16 August 1932:** Ramsay MacDonald announced the Communal Award.
+- It was based on the Lothian Committee.
+- It gave the depressed classes separate electorates for 20 years.
+- It gave women 3% of the seats, except in NWFP.
+- It gave the Marathas 7 seats in Bombay.
+
+### Poona Pact
+
+- **20 September 1932:** Gandhi began a fast. It led to the Poona Pact.
+- **24 September 1932:** The Poona Pact was signed. B.R. Ambedkar signed it.
+- Reserved seats for the depressed classes in the provincial legislatures were raised from 71 to 147.
+- In the Central Legislature they got 18% of the seats.
+
+### Gandhi's Harijan campaign
+
+1. **September 1932:** Gandhi set up the All India Anti-Untouchability League.
+2. **January 1933:** He started the weekly Harijan.
+3. Gandhi also founded the Harijan Sevak Sangh.
+4. **November 1933 to July 1934:** He made a Harijan tour from Wardha. It covered 20,000 km. The tour was for the Harijan Sevak Sangh.
+5. **August 1934:** The Temple Entry Bill was defeated.
+
+> **Remember**
+>
+> - **31 October 1929:** Irwin's Declaration promised dominion status with no time scale.
+> - **December 1929:** The Lahore session under Jawaharlal Nehru declared purna swaraj the goal.
+> - **26 January 1930:** the first Independence Day.
+> - **12 March to 6 April 1930:** the Dandi March, with 78 marchers over 240 miles.
+> - **Champaran and Saran:** the first districts of Bihar to start the salt satyagraha.
+> - **21 May 1930:** Sarojini Naidu led the raid on Dharasana.
+> - **March 1931:** The Karachi session passed resolutions on Fundamental Rights and the National Economic Programme.
+> - **7 September–1 December 1931:** Gandhi was the sole Congress representative at the Second RTC.
+> - **16 August 1932:** Ramsay MacDonald announced the Communal Award.
+> - **24 September 1932:** The Poona Pact raised the reserved seats from 71 to 147.

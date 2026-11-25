@@ -4,41 +4,142 @@ number: 20
 title: "Debates on the Future Strategy after Civil Disobedience Movement"
 covers: [modern]
 ---
-## Gist
-*Book pages 401–410.*
+Book pages 401–410.
 
-After the Civil Disobedience Movement was withdrawn, the nationalists debated strategy in **two stages**: first, what to do in the phase of non-mass struggle (**1934–35**); second, in **1937**, whether to accept office after provincial elections under the **Government of India Act, 1935**.
+## At a glance: the two stages of the debate
 
-In the **first stage**, three views emerged: **constructive work on Gandhian lines**; **constitutional struggle and council entry** (elections to the Central Legislature due in 1934), urged by **M.A. Ansari, Asaf Ali, Bhulabhai Desai, S. Satyamurthy and B.C. Roy**; and a **leftist** line led by **Nehru** favouring continued mass struggle. Nehru called the withdrawal and council entry **"a spiritual defeat"**, wanted **kisan sabhas and trade unions** affiliated to the Congress, and rejected Gandhi's **struggle-truce-struggle (S-T-S)** strategy in favour of **Struggle-Victory (S-V)** and "continuous direct action". Gandhi let council-entry supporters contest; the **AICC met at Patna in May 1934** to set up a **Parliamentary Board**. In **October 1934 Gandhi resigned** from the Congress. In the **November 1934** Central Legislative Assembly elections the Congress won **45 of 75** seats reserved for Indians.
+After the Civil Disobedience Movement (CDM) was withdrawn, the nationalists debated their strategy in two stages.
 
-The **1935 Act** (passed **August 1935**) proposed an **All India Federation**, conditional on states with **52 seats** in the Council of States, and **50 per cent** of the states' population, joining; it never came up, and the Centre ran under the **1919 Act until 1946**. At the Centre, subjects were divided into **reserved** (foreign affairs, defence, tribal areas, ecclesiastical affairs) and **transferred**. The **Council of States (260; 40% princes' nominees)** was oddly **directly** elected and permanent; the **Federal Assembly (375; one-third princes' nominees)** was **indirectly** elected for 5 years. **80%** of the federal budget was non-votable. **Provincial autonomy replaced dyarchy** in provinces; provinces drew authority directly from the **Crown**, but **40%** of their budget was non-votable. The Act enfranchised **14 per cent** of British Indians and could be amended only by the British Parliament. Nehru called it **"a car, all brakes and no engine"**. The Congress rejected it and demanded a **Constituent Assembly** elected on adult franchise; the **Hindu Mahasabha** and **National Liberal Foundation** favoured working it.
+| Stage | Years | Question | What the Congress did |
+| --- | --- | --- | --- |
+| First | 1934–35 | What to do in the phase of non-mass struggle | Fought the elections of November 1934 |
+| Second | 1937 | Whether to accept office after the provincial elections | Fought the elections of February 1937 and postponed the decision on office |
 
-In the **second stage**, **Nehru, Subhash Bose**, Congress socialists and communists opposed office acceptance and proposed entering councils to create **deadlocks**. Gandhi, though at first opposed, was willing by early **1936** to try ministries. The **Lucknow (1936)** and **Faizpur** sessions decided to fight elections and postpone the office question. Elections were held in **February 1937** in **eleven provinces**, including **Bihar**; **30.1 million** were enfranchised. Gandhi attended **no election meeting**. The Congress won **716 of 1,161** seats contested, a majority in all provinces except **Bengal, Assam, Punjab, Sindh and NWFP**.
+Between the two stages came the Government of India Act, 1935. The provincial elections of 1937 were held under it.
 
-## Key facts
-- Debate on strategy after CDM had **two stages** — **1934–35** (non-mass phase) and **1937** (office acceptance).
-- Council entry in 1934 advocated by **M.A. Ansari, Asaf Ali, Bhulabhai Desai, S. Satyamurthy and B.C. Roy**.
-- **Nehru** — "basic goal... **abolition of capitalism and establishment of socialism**"; called CDM withdrawal "**a spiritual defeat**".
-- Gandhi's strategy — **Struggle-Truce-Struggle (S-T-S)**; Nehru's alternative — **Struggle-Victory (S-V)**, "continuous direct action".
-- **AICC at Patna, May 1934** — set up a **Parliamentary Board** to fight elections.
-- Gandhi called the spinning wheel the "**second lung of the nation**"; he announced his **resignation from the Congress in October 1934**.
-- **November 1934** Central Legislative Assembly elections — Congress won **45 out of 75** seats reserved for Indians.
-- **Government of India Act, 1935** — passed by the British Parliament in **August 1935**.
-- All India Federation conditions: states with **52 seats** in Council of States to join, with **50 per cent** of the states' total population; it **never came up**.
-- Central government ran under the **1919 Act up to 1946**.
-- Federal reserved subjects: **foreign affairs, defence, tribal areas, ecclesiastical affairs**; administered by the governor-general with executive councillors.
-- **Council of States** — **260** members, **40%** nominated by princes, **directly** elected, permanent (one-third retire every third year).
-- **Federal Assembly** — **375** members, **one-third** nominated by princes, **indirectly** elected, **5-year** term; only it could move no-confidence.
-- Three legislative lists — **federal, provincial, concurrent**; **80%** of the federal budget non-votable; **residuary powers with the governor-general**.
-- **Provincial autonomy replaced dyarchy**; provinces derived authority directly from the **British Crown**; could borrow on their own security.
-- Provincial council of ministers headed by a **premier**; women got the vote on the same basis as men; **40%** of provincial budget non-votable.
-- The Act enfranchised **14 per cent** of British Indian population; amendment reserved for the **British Parliament**.
-- "**We are provided with a car, all brakes and no engine**" — **Jawaharlal Nehru**.
-- "We framed the Act of 1935... maintaining British influence in India" — **Lord Linlithgow** (viceroy 1936–43).
-- **Hindu Mahasabha** and **National Liberal Foundation** favoured working the 1935 Act; Congress demanded a **Constituent Assembly**.
-- Leftists' counter-strategy: enter councils to **create deadlocks** (older Swarajist strategy).
-- **Lucknow (early 1936)** and **Faizpur** sessions — fight elections, postpone decision on office acceptance.
-- **February 1937** elections in **eleven provinces**: Madras, CP, **Bihar**, Orissa, UP, Bombay, Assam, NWFP, Bengal, Punjab, Sindh.
-- **30.1 million** enfranchised (including **4.25 million women**); **15.5 million** voted.
-- **Gandhi did not attend a single election meeting** in 1937.
-- Congress won **716 of 1,161** seats contested (total **1,585** seats); no majority in **Bengal, Assam, Punjab, Sindh, NWFP**; largest party in **Bengal, Assam, NWFP**.
+## The first stage (1934–35)
+
+### The views
+
+Three views emerged.
+
+| View | Leaders | What it wanted |
+| --- | --- | --- |
+| Constructive work | — | Constructive work on Gandhian lines |
+| Council entry | M.A. Ansari, Asaf Ali, Bhulabhai Desai, S. Satyamurthy and B.C. Roy | Constitutional struggle, by fighting the elections to the Central Legislature due in 1934 |
+| Leftist | Nehru | Mass struggle to continue |
+
+Council entry meant fighting elections to enter the legislatures.
+
+Nehru's view had four points:
+
+1. He said the basic goal was the "abolition of capitalism and establishment of socialism".
+2. He called the withdrawal of the CDM and council entry "a spiritual defeat".
+3. He wanted kisan sabhas (peasant associations) and trade unions to be affiliated to the Congress.
+4. He rejected Gandhi's strategy of Struggle-Truce-Struggle (S-T-S). He wanted Struggle-Victory (S-V) instead, that is, "continuous direct action".
+
+### What followed
+
+1. Gandhi let the supporters of council entry contest the elections.
+2. **May 1934:** The All India Congress Committee (AICC) met at Patna. It set up a Parliamentary Board to fight the elections.
+3. Gandhi called the spinning wheel the "second lung of the nation".
+4. **October 1934:** Gandhi announced his resignation from the Congress.
+5. **November 1934:** Elections to the Central Legislative Assembly were held. The Congress won 45 out of the 75 seats reserved for Indians.
+
+## The Government of India Act, 1935
+
+The British Parliament passed the Act in August 1935.
+
+### The All India Federation
+
+- The Act proposed an All India Federation.
+- It set two conditions. States with 52 seats in the Council of States had to join. These states had to hold 50 per cent of the total population of the states.
+- The federation never came up.
+- The central government ran under the 1919 Act up to 1946.
+
+### The Centre
+
+- The subjects at the Centre were divided into reserved and transferred.
+- The reserved subjects were foreign affairs, defence, tribal areas and ecclesiastical affairs (church matters).
+- The governor-general administered the reserved subjects with executive councillors.
+- There were three legislative lists: federal, provincial and concurrent.
+- The residuary powers lay with the governor-general.
+- 80% of the federal budget was non-votable, that is, the legislature could not vote on it.
+
+The two houses at the Centre compare as follows.
+
+| Point | Council of States | Federal Assembly |
+| --- | --- | --- |
+| Members | 260 | 375 |
+| Nominated by the princes | 40% | One-third |
+| Election | Direct, which was odd | Indirect |
+| Term | Permanent; one-third retire every third year | 5 years |
+
+Only the Federal Assembly could move a vote of no-confidence.
+
+### The provinces
+
+- Provincial autonomy replaced dyarchy (dual rule) in the provinces.
+- The provinces derived their authority directly from the British Crown.
+- They could borrow on their own security.
+- The provincial council of ministers was headed by a premier.
+- Women got the vote on the same basis as men.
+- 40% of the provincial budget was non-votable.
+
+### Franchise and amendment
+
+- The Act enfranchised 14 per cent of the population of British India.
+- Only the British Parliament could amend the Act.
+
+### Reactions
+
+- **Jawaharlal Nehru:** "We are provided with a car, all brakes and no engine."
+- **Lord Linlithgow (viceroy 1936–43):** "We framed the Act of 1935... maintaining British influence in India."
+- **Congress:** It rejected the Act. It demanded a Constituent Assembly elected on adult franchise.
+- **Hindu Mahasabha and National Liberal Foundation:** They favoured working the Act.
+
+## The second stage (1937)
+
+Office acceptance meant forming ministries in the provinces.
+
+### The views
+
+- Nehru, Subhash Bose, the Congress socialists and the communists opposed office acceptance.
+- These leftists proposed a counter-strategy. The Congress should enter the councils to create deadlocks. This was the older Swarajist strategy.
+- Gandhi was opposed at first. By early 1936 he was willing to give ministries a trial.
+
+### What followed
+
+1. **Early 1936:** The Lucknow session decided to fight the elections. It postponed the decision on office acceptance.
+2. The Faizpur session decided the same.
+3. **February 1937:** Elections were held in eleven provinces.
+4. Gandhi did not attend a single election meeting.
+
+The eleven provinces were Madras, CP, Bihar, Orissa, UP, Bombay, Assam, NWFP, Bengal, Punjab and Sindh.
+
+### The elections of 1937 in numbers
+
+| Item | Number |
+| --- | --- |
+| People enfranchised | 30.1 million |
+| Women among them | 4.25 million |
+| People who voted | 15.5 million |
+| Total seats | 1,585 |
+| Seats the Congress contested | 1,161 |
+| Seats the Congress won | 716 |
+
+- The Congress won a majority in all provinces except five: Bengal, Assam, Punjab, Sindh and NWFP.
+- It was the largest party in three of these: Bengal, Assam and NWFP.
+
+> **Remember**
+>
+> - **May 1934:** The AICC at Patna set up a Parliamentary Board.
+> - **October 1934:** Gandhi announced his resignation from the Congress.
+> - **November 1934:** The Congress won 45 out of 75 seats in the Central Legislative Assembly.
+> - **August 1935:** The British Parliament passed the Government of India Act, 1935.
+> - **52 seats and 50 per cent:** the two conditions for the All India Federation, which never came up.
+> - **260 and 375:** the members of the Council of States and the Federal Assembly.
+> - **14 per cent:** the share of British India's population that got the vote.
+> - **"A car, all brakes and no engine":** Nehru on the 1935 Act.
+> - **February 1937:** Elections were held in eleven provinces, including Bihar.
+> - **716 of 1,161:** the seats the Congress won out of those it contested.

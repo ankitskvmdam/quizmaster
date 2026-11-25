@@ -4,44 +4,142 @@ number: 1
 title: "Sources for the History of Modern India"
 covers: [modern]
 ---
-## Gist
-*Book pages 1–12.*
+Book pages 1–12.
 
-For modern India (mid-18th to mid-20th century) historians give priority to **archives**: original records created as part of administrative, legal, social or commercial activity. The **East India Company records** cover trade during **1600–1857**; Portuguese, Dutch and French company records matter mainly for 17th–18th century economic history.
+## At a glance: the kinds of sources
 
-**Official records** fall into four groups: central government, state government, intermediate/subordinate authorities and judicial records. The **National Archives of India (New Delhi)** holds most central records. **James Rennell** became the **first Surveyor General of Bengal in 1767**, and Survey of India records also shed light on socio-economic conditions. A separate **Home Political** series began in **1907** for political and communal issues; **Reforms Office** records cover constitutional developments **1920–1937**.
+| Kind of source | One to remember |
+| --- | --- |
+| Archives | Peshwa Daftar, Pune |
+| Travel accounts | Bishop Heber's Journal |
+| Newspapers | The Bengal Gazette (1780) |
+| Literature | Anandamath (1882) |
+| Paintings | Company Paintings ('Patna Kalam') |
 
-State archives include the **Khalsa Darbar records** (Kingdom of Lahore, **1800–1849**) and the **Peshwa Daftar** in the **Alienation Office, Pune** — the most valuable single source for Maratha history. Rajasthan states' archives are at **Bikaner**; Dogra rule (from **1846**) papers are at **Jammu**. Early **Fort William** (Bengal) records were lost in the **sack of Calcutta, 1756**; **Madras** records begin in **1670**; **Bombay** records are in the Maharashtra Secretariat Record Office, Mumbai.
+## Archives
 
-French records of Chandernagore and Pondicherry went to **Paris**; the Danes sold **Tranquebar and Serampore** to the English in **1845** and moved their archives to **Copenhagen**. The earliest judicial archives are of the **Mayor's Court at Fort St. George (from 1689)**; the Bombay Mayor's Court was set up in **1728**. Private papers of nationalist leaders and INC records are in the **Nehru Memorial Museum and Library**. Abroad, the **India Office Records (London)** and **British Museum** are key; Dutch records are at **Rijksarchief, The Hague**.
+Modern India here means the period from the mid-18th century to the mid-20th century. For this period historians give priority to **archives**. Archives are original records created as part of administrative, legal, social or commercial activity.
 
-Travel accounts: **Bishop Heber's Journal**, **Abbe Dubois's Hindu Manners and Customs**, **Alexander Burnes (Travels into Bokhara)**, **James Burnes (Court of Sinde)**, **John Butler (Assam)**, Victor Jacquemont, William Moorcroft.
+The East India Company records cover trade during 1600–1857.
 
-Press: **William Bolts** planned a paper in **1776**; **James Augustus Hickey** published the first, **The Bengal Gazette or Calcutta General Advertiser (1780)**, seized within two years. Then **Calcutta Gazette (1784)**, **Madras Courier (1788)**, **Bombay Herald (1789)**. Nearly **one-third of the INC's founders (1885) were journalists**. Papers abroad: **Indian Sociologist** (London, Shyamji Krishnavarma), **Bande Matram** (Paris, Madam Cama), **Talwar** (Berlin, Virendranath Chattopadhyay), **Ghadar** (San Francisco, Lala Hardayal).
+Official records fall into four groups:
 
-Literature: **Bankim Chandra Chatterji's Anandamath (1882)** with 'Vandemataram' and the **Sanyasi Revolt**; last novel **Rajasimha**. Paintings: **Company Paintings, called 'Patna Kalam'** (Bihar link), popular until photography arrived in the **1840s**; **Kalighat painting** in Calcutta; 1857 images such as **Relief of Lucknow (Thomas Jones Barker, 1859)** and **In Memoriam (Joseph Noel Paton)**; the **Bengal School** led by **Abanindranath Tagore**, with **E.B. Havell** and **Ananda Coomaraswamy**.
+- central government records
+- state government records
+- records of intermediate and subordinate authorities
+- judicial records
 
-## Key facts
-- **James Rennell** — first **Surveyor General of Bengal (1767)**.
-- **Home Political** series of records started in **1907**; **Reforms Office** records cover **1920–1937**.
-- **Peshwa Daftar** — **Alienation Office, Pune**; most valuable single source for Maratha history.
-- **Khalsa Darbar records** — archives of the **Kingdom of Lahore, 1800–1849**.
-- Rajasthan princely archives at **Bikaner**; Dogra rule papers (from **1846**) at **Jammu**.
-- Early Fort William records were lost in the **sack of Calcutta (1756)**; Madras Presidency records begin in **1670**.
-- Danes sold **Tranquebar and Serampore** to the English Company in **1845**; their archives went to **Copenhagen**.
-- Earliest judicial archives: **Mayor's Court at Fort St. George, from 1689** (Madras Record Office); Bombay Mayor's Court set up **1728**.
-- **Supreme Court of Bengal (1774–1861)** records are in the Calcutta High Court record room.
-- INC records and nationalist leaders' papers — **Nehru Memorial Museum and Library, New Delhi**.
-- Dutch East India Company records — **Rijksarchief, The Hague**.
-- First newspaper in India: **The Bengal Gazette or Calcutta General Advertiser (1780), James Augustus Hickey**.
-- Order of early papers: **Bengal Gazette 1780 → Calcutta Gazette 1784 → Madras Courier 1788 → Bombay Herald 1789**.
-- Nearly **one-third** of the INC's founding fathers (1885) were **journalists**.
-- **Kesari** and **Mahratta** — **Tilak**; **Bengalee** — **Surendranath Banerjea**; **Sudharak** — **Gokhale**; **Voice of India** — **Dadabhai Naoroji**; **Indian Mirror** — **N.N. Sen**.
-- Book inconsistency: p. 9 links **Sudharak** to **Gokhale**, but Ch 29 (p. 559) links it to **Gopal Ganesh Agarkar** — verify.
-- **Ghadar** — **San Francisco, Lala Hardayal**; **Talwar** — **Berlin, Virendranath Chattopadhyay**.
-- **Anandamath (1882)** — **Bankim Chandra Chatterji**; depicts the **Sanyasi Revolt (1760s)**.
-- **Hind ane Britannia** — **Icharam Suryaram Desai** (Gujarati), an early political novel.
-- **Chemmeen (1956)** and **Tottiyude Makan (1948)** — **Thakazhi Siva Sankara Pillai**; **Balyakalasakhi (1944)** — **Vaikom Muhammad Basheer**.
-- Company Paintings were also called **'Patna Kalam'**.
-- **Relief of Lucknow (1859)** — **Thomas Jones Barker**; **In Memoriam** — **Joseph Noel Paton**.
-- **Bengal School** — led by **Abanindranath Tagore**, nephew of Rabindranath Tagore.
+### Central government records
+
+- The National Archives of India in New Delhi holds most of the central records.
+- **1767:** James Rennell became the first Surveyor General of Bengal. The records of the Survey of India also shed light on socio-economic conditions.
+- **1907:** A separate Home Political series of records began. It was for political and communal issues.
+- **1920–1937:** The Reforms Office records cover the constitutional developments of these years.
+
+### State archives
+
+- **Khalsa Darbar records:** These are the archives of the Kingdom of Lahore for 1800–1849.
+- **Peshwa Daftar:** It is kept in the Alienation Office, Pune. It is the most valuable single source for Maratha history.
+- **Rajasthan:** The archives of the princely states of Rajasthan are at Bikaner.
+- **Dogra rule:** Dogra rule began in 1846. Its papers are at Jammu.
+
+### Presidency records
+
+- **Madras:** The records of the Madras Presidency begin in 1670.
+- **Fort William (Bengal):** The early records were lost in the sack of Calcutta in 1756.
+- **Bombay:** The records are in the Maharashtra Secretariat Record Office, Mumbai.
+
+### Records of other European companies
+
+The records of the Portuguese, Dutch and French companies matter mainly for the economic history of the 17th–18th centuries.
+
+- **French:** The French records of Chandernagore and Pondicherry went to Paris.
+- **Danes:** In 1845 the Danes sold Tranquebar and Serampore to the English Company. They moved their archives to Copenhagen.
+- **Dutch:** The records of the Dutch East India Company are at the Rijksarchief, The Hague.
+
+### Judicial records
+
+- **From 1689:** The earliest judicial archives are those of the Mayor's Court at Fort St. George. They are in the Madras Record Office.
+- **1728:** The Bombay Mayor's Court was set up.
+- **Supreme Court of Bengal (1774–1861):** Its records are in the record room of the Calcutta High Court.
+
+### Private papers and records abroad
+
+- **Nehru Memorial Museum and Library, New Delhi:** It holds the private papers of nationalist leaders. It also holds the records of the Indian National Congress (INC).
+- **Abroad:** The India Office Records (London) and the British Museum are the key collections.
+
+## Travel accounts
+
+| Traveller | Account |
+| --- | --- |
+| Bishop Heber | Journal |
+| Abbe Dubois | Hindu Manners and Customs |
+| Alexander Burnes | Travels into Bokhara |
+| James Burnes | Court of Sinde |
+| John Butler | wrote on Assam |
+| Victor Jacquemont | — |
+| William Moorcroft | — |
+
+## Newspapers
+
+### The first newspapers
+
+1. **1776:** William Bolts planned a newspaper.
+2. **1780:** James Augustus Hickey published the first newspaper in India. It was The Bengal Gazette or Calcutta General Advertiser. It was seized within two years.
+3. **1784:** The Calcutta Gazette began.
+4. **1788:** The Madras Courier began.
+5. **1789:** The Bombay Herald began.
+
+Nearly one-third of the founders of the INC (1885) were journalists.
+
+### Newspapers of the leaders
+
+| Newspaper | Leader |
+| --- | --- |
+| Kesari and Mahratta | Tilak |
+| Bengalee | Surendranath Banerjea |
+| Sudharak | Gokhale |
+| Voice of India | Dadabhai Naoroji |
+| Indian Mirror | N.N. Sen |
+
+Book inconsistency: page 9 links Sudharak to Gokhale, but chapter 29 (page 559) links it to Gopal Ganesh Agarkar. Verify.
+
+### Newspapers published abroad
+
+| Newspaper | Place | Person |
+| --- | --- | --- |
+| Indian Sociologist | London | Shyamji Krishnavarma |
+| Bande Matram | Paris | Madam Cama |
+| Talwar | Berlin | Virendranath Chattopadhyay |
+| Ghadar | San Francisco | Lala Hardayal |
+
+## Literature
+
+| Work | Author | Note |
+| --- | --- | --- |
+| Anandamath (1882) | Bankim Chandra Chatterji | It has 'Vandemataram'. It depicts the Sanyasi Revolt (1760s). |
+| Rajasimha | Bankim Chandra Chatterji | His last novel. |
+| Hind ane Britannia | Icharam Suryaram Desai | A Gujarati work. An early political novel. |
+| Balyakalasakhi (1944) | Vaikom Muhammad Basheer | — |
+| Tottiyude Makan (1948) | Thakazhi Siva Sankara Pillai | — |
+| Chemmeen (1956) | Thakazhi Siva Sankara Pillai | — |
+
+## Paintings
+
+- **Company Paintings:** They were also called 'Patna Kalam'. They have a link with Bihar. They were popular until photography arrived in the 1840s.
+- **Kalighat painting:** This painting belonged to Calcutta.
+- **Pictures of 1857:** Thomas Jones Barker painted Relief of Lucknow (1859). Joseph Noel Paton painted In Memoriam.
+- **Bengal School:** It was led by Abanindranath Tagore. He was a nephew of Rabindranath Tagore. E.B. Havell and Ananda Coomaraswamy were with this school.
+
+> **Remember**
+>
+> - **1689:** The earliest judicial archives, of the Mayor's Court at Fort St. George, begin in this year.
+> - **1756:** The early Fort William records were lost in the sack of Calcutta.
+> - **1767:** James Rennell became the first Surveyor General of Bengal.
+> - **1780:** Hickey's Bengal Gazette was the first newspaper in India.
+> - **1882:** Anandamath depicts the Sanyasi Revolt.
+> - **1907:** The Home Political series of records began.
+> - **Peshwa Daftar:** kept in the Alienation Office, Pune; the most valuable single source for Maratha history.
+> - **One-third:** the share of journalists among the founders of the INC (1885).
+> - **Ghadar:** published from San Francisco by Lala Hardayal.
+> - **Patna Kalam:** another name for Company Paintings.

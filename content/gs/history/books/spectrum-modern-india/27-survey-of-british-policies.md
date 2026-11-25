@@ -4,45 +4,113 @@ number: 27
 title: "Survey of British Policies in India"
 covers: [modern]
 ---
-## Gist
-*Book pages 532–540.*
+Book pages 532–540.
 
-After 1857 the British gave up their earlier aim of modernising India on progressive lines and adopted **blatantly reactionary policies**, claiming Indians were unfit for self-government. They practised a naked policy of **divide and rule** — princes against states' people, region against region, caste against caste and **Hindus against Muslims**. After a spell of repression of Muslims following 1857, **after 1870** they used educated Muslims against the rising nationalist tide.
+## Background: the turn after 1857
 
-They grew **hostile to educated Indians** once the **Indian National Congress (1885)** appeared, and allied with **princes and zamindars**, hailed as 'natural' leaders; the lands of most **Awadh taluqdars** were restored. Support for **social reform was withdrawn**, and heavy spending on the army, administration and wars left **social services underdeveloped**.
+1. Before 1857 the British aim was to modernise India on progressive lines.
+2. After 1857 they gave up this aim.
+3. They adopted blatantly reactionary policies. They claimed that Indians were unfit for self-government.
 
-**Labour laws**: the first demand to regulate factory conditions came from the **Lancashire textile lobby**. The first commission was appointed in **1875**; the **Indian Factory Act, 1881** dealt with **child labour (7–12 years)** — no children under 7, **9 hours** a day, **four holidays a month**. The **Factory Act, 1891** raised the age limits to **9–14**, cut children's hours to **7**, fixed women's hours at **11** (with a 1½-hour interval) and gave a **weekly holiday** to all. These laws did not apply to **British-owned tea and coffee plantations**, where breach of contract was a **criminal offence**.
+Two remarks on British rule:
 
-**Press**: **Metcalfe** lifted restrictions in **1835**; **Lytton's Vernacular Press Act, 1878** was **repealed in 1882**; fresh curbs came in **1908 and 1910**. **White racism** kept Indians out of higher services, railway compartments, parks and clubs.
+- **Charles Wood, Secretary of State:** "Where a dominant race rules another, the mildest form of government is despotism."
+- **Anil Seal:** "Systems of nomination, representation and election were all means of enlisting Indians to work for imperial ends."
 
-**Social and cultural policy**: non-interference **till 1813**, then change driven by the **Industrial, Intellectual and French Revolutions** and the ideas of **rationalism, humanism and the doctrine of progress**. Administrators split into **Conservatives** (Warren Hastings, Burke; later **Munro, Metcalfe, Elphinstone**), **Paternalistic Imperialists** (influential after **1800**) and **Radicals** (after **1820**, backed by **Rammohan Roy**). The government chose a partial **'colonial modernisation'**; missionaries backed the Radicals, the Imperialists and business. After **1858** it sided with orthodox elements.
+## Reactionary policies after 1857
 
-**Princely states**: a policy of **subordinate union** — annexation abandoned (**depose or punish but not annex**), adoption rights respected; Queen Victoria took the title **Kaiser-i-Hind in 1876**; **Curzon** called the princes mere agents of the Crown. **Foreign policy** sought natural frontiers and kept **Russia and France** at arm's length — "the interests served were British, the money spent and the blood shed was Indian."
+### Divide and rule
 
-## Key facts
-- After **1870**, the British used educated middle and upper-class **Muslims** against nationalism.
-- "Where a dominant race rules another, the mildest form of government is **despotism**" — **Charles Wood**, Secretary of State.
-- "Systems of nomination, representation and election were all means of enlisting Indians to work for imperial ends" — **Anil Seal**.
-- Lands of most **Awadh taluqdars** confiscated before 1857 were **restored**; zamindars hailed as **'natural' and 'traditional' leaders**.
-- First demand for regulating factory conditions came from the **Lancashire textile capitalist lobby**.
-- First factory commission appointed in **1875**; first Factory Act in **1881**.
-- **Indian Factory Act 1881**: children **7 to 12** years; no employment under **7**; **9 hours** a day for children; **four holidays a month**; hazardous machinery fenced.
-- **Indian Factory Act 1891**: child age raised to **9–14**; children's hours **7** a day; women's hours **11** a day with **1½-hour** interval; men's hours unregulated; **weekly holiday** for all.
-- Factory laws did **not** apply to **British-owned tea and coffee plantations**; breach of contract was a **criminal offence**.
-- Remark on Hindu-Muslim friction ("divergence ... is least risky") — **Hamilton, Secretary of State, 1897**.
-- **Metcalfe** lifted press restrictions in **1835**.
-- **Vernacular Press Act, 1878** — **Lytton**; **repealed 1882**; press curbs again in **1908 and 1910**.
-- "We could only govern by maintaining the fact that we were the dominant race" — **Elgin**.
-- Policy of **non-interference** in social and religious life **till 1813**.
-- Three changes behind the new policy: **Industrial Revolution, Intellectual Revolution, French Revolution**.
-- New thought: **rationalism, humanism, doctrine of progress**.
-- **Conservatives**: early — **Warren Hastings, Edmund Burke**; later — **Munro, Metcalfe, Elphinstone**; most British officials were conservative.
-- **Paternalistic Imperialists** influential especially **after 1800**.
-- **Radicals** came to India **after 1820**; supported by **Raja Rammohan Roy**.
-- Partial modernisation was called **'colonial modernisation'**.
-- Christian missionaries supported the **Radicals**, the **Imperialists** and sought **business/capitalist** support.
-- Princely states: policy of **subordinate union**; **depose or punish but not annex**; right to **adopt an heir** respected.
-- Queen adopted the title **Kaiser-i-Hind (Queen Empress of India) in 1876**.
-- **Lord Curzon** said princes ruled merely as **agents of the British Crown**.
-- "The British and the princes needed one another; India's need for either was highly doubtful" — **F.G. Hutchins**.
-- Foreign policy brought conflict with **Russia and France**; "the money spent and the blood shed was **Indian**".
+- The British practised a naked policy of divide and rule. They set princes against the states' people, region against region, caste against caste and Hindus against Muslims.
+- **After 1857:** There was a spell of repression of Muslims.
+- **After 1870:** The British used educated Muslims of the middle and upper classes against the rising nationalist tide.
+- **1897:** Hamilton, the Secretary of State, made a remark on Hindu-Muslim friction. Its words include "divergence ... is least risky".
+
+### Educated Indians, princes and zamindars
+
+- **Educated Indians:** The British grew hostile to educated Indians once the Indian National Congress (1885) appeared.
+- **Princes and zamindars:** The British allied with the princes and zamindars. The zamindars were hailed as the 'natural' and 'traditional' leaders.
+- **Awadh taluqdars:** The lands of most Awadh taluqdars had been confiscated before 1857. These lands were restored.
+
+### Social reform, social services and racism
+
+- **Social reform:** Support for social reform was withdrawn.
+- **Social services:** There was heavy spending on the army, the administration and wars. So social services stayed underdeveloped.
+- **White racism:** It kept Indians out of the higher services, railway compartments, parks and clubs.
+- **Elgin:** "We could only govern by maintaining the fact that we were the dominant race."
+
+## Labour laws
+
+1. The first demand to regulate factory conditions came from the Lancashire textile capitalist lobby.
+2. **1875:** The first factory commission was appointed.
+3. **1881:** The first Factory Act was passed.
+
+The two Factory Acts compared:
+
+| Point | Indian Factory Act, 1881 | Indian Factory Act, 1891 |
+| --- | --- | --- |
+| Age of child labour | 7 to 12 years; no employment under 7 | Raised to 9 to 14 years |
+| Children's hours | 9 hours a day | 7 hours a day |
+| Women's hours | — | 11 hours a day, with a 1½-hour interval |
+| Men's hours | — | Not regulated |
+| Holidays | Four holidays a month | A weekly holiday for all |
+| Machinery | Hazardous machinery to be fenced | — |
+
+These laws did not apply to British-owned tea and coffee plantations. On the plantations a breach of contract was a criminal offence.
+
+## Press
+
+1. **1835:** Metcalfe lifted the restrictions on the press.
+2. **1878:** Lytton brought in the Vernacular Press Act.
+3. **1882:** The Act was repealed.
+4. **1908 and 1910:** Fresh curbs were put on the press.
+
+## Social and cultural policy
+
+### Why the policy changed
+
+1. **Till 1813:** The British followed a policy of non-interference in social and religious life.
+2. After that the policy changed. Three changes lay behind the new policy: the Industrial Revolution, the Intellectual Revolution and the French Revolution.
+3. The new thought had three ideas: rationalism, humanism and the doctrine of progress.
+
+### Three schools among the administrators
+
+| School | When | People |
+| --- | --- | --- |
+| Conservatives | Early and later | Early: Warren Hastings and Edmund Burke. Later: Munro, Metcalfe and Elphinstone. Most British officials were conservative. |
+| Paternalistic Imperialists | Influential especially after 1800 | — |
+| Radicals | Came to India after 1820 | Raja Rammohan Roy supported them. |
+
+### What the government chose
+
+- **Colonial modernisation:** The government chose a partial modernisation. It was called 'colonial modernisation'.
+- **Christian missionaries:** They supported the Radicals and the Imperialists. They also sought the support of business and the capitalists.
+- **After 1858:** The government sided with the orthodox elements.
+
+## Princely states
+
+- **Subordinate union:** The policy towards the princely states was one of subordinate union.
+- **No annexation:** Annexation was abandoned. The rule now was to depose or punish but not annex.
+- **Adoption:** The right to adopt an heir was respected.
+- **1876:** Queen Victoria took the title Kaiser-i-Hind (Queen Empress of India).
+- **Lord Curzon:** He said that the princes ruled merely as agents of the British Crown.
+- **F.G. Hutchins:** "The British and the princes needed one another; India's need for either was highly doubtful."
+
+## Foreign policy
+
+- The British sought natural frontiers for India.
+- They kept Russia and France at arm's length. This brought conflict with both.
+- A remark on this policy: "the interests served were British, the money spent and the blood shed was Indian."
+
+> **Remember**
+>
+> - **After 1857:** The British adopted blatantly reactionary policies and a policy of divide and rule.
+> - **After 1870:** The British used educated Muslims against nationalism.
+> - **1875:** The first factory commission was appointed.
+> - **1881:** The first Indian Factory Act dealt with child labour of 7 to 12 years.
+> - **1891:** The Factory Act of this year gave a weekly holiday to all.
+> - **1835:** Metcalfe lifted the restrictions on the press.
+> - **1878 and 1882:** Lytton's Vernacular Press Act was passed and then repealed.
+> - **Till 1813:** The policy was non-interference in social and religious life.
+> - **1876:** Queen Victoria took the title Kaiser-i-Hind.
+> - **Subordinate union:** the policy towards the princely states, to depose or punish but not annex.
