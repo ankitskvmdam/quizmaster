@@ -1,0 +1,96 @@
+# Section 3 — International Relations (April 2026)
+- slug: ca-2604-int-01
+  difficulty: easy
+  stem: "Which country mediated the two-week ceasefire between the United States and Iran in April 2026?"
+  options: { A: "Pakistan", B: "Qatar", C: "Oman", D: "Türkiye" }
+  answer: A
+  explanation: "Pakistan mediated the two-week ceasefire, which is being called the Islamabad Accord."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-02
+  difficulty: easy
+  stem: "With which country did India sign a Free Trade Agreement in April 2026 that brings a commitment to invest USD 20 billion in India?"
+  options: { A: "Australia", B: "Chile", C: "New Zealand", D: "Oman" }
+  answer: C
+  explanation: "Under the India–New Zealand FTA, New Zealand committed to invest USD 20 billion in India over 15 years."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-03
+  difficulty: easy
+  stem: "Which country announced its withdrawal from OPEC and OPEC+ with effect from 1 May 2026?"
+  options: { A: "Saudi Arabia", B: "The UAE", C: "Kuwait", D: "Iraq" }
+  answer: B
+  explanation: "The UAE announced that it would leave OPEC and OPEC+ from 1 May 2026, leaving OPEC with 11 active members."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-04
+  difficulty: easy
+  stem: "Vice-President C.P. Radhakrishnan's visit in April 2026 was the first by an Indian Vice-President to"
+  options: { A: "Nepal", B: "Mauritius", C: "Bhutan", D: "Sri Lanka" }
+  answer: D
+  explanation: "It was the first visit by a Vice-President of India to Sri Lanka."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-05
+  difficulty: medium
+  stem: "The India–Republic of Korea Strategic Vision 2026–2030 was adopted during the state visit of which South Korean President?"
+  options: { A: "Yoon Suk Yeol", B: "Moon Jae-in", C: "Lee Jae Myung", D: "Han Duck-soo" }
+  answer: C
+  explanation: "The vision was unveiled during President Lee Jae Myung's state visit to India."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-06
+  difficulty: medium
+  stem: "During the South Korean President's visit in April 2026, South Korea joined which organisation?"
+  options: { A: "Coalition for Disaster Resilient Infrastructure", B: "International Solar Alliance", C: "Global Biofuels Alliance", D: "International Big Cat Alliance" }
+  answer: B
+  explanation: "South Korea joined the International Solar Alliance, and India joined the Global Green Growth Institute."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-07
+  difficulty: medium
+  stem: "The US sanctions waiver that ended on 26 April 2026 concerned India's work at which port?"
+  options: { A: "Chabahar", B: "Bandar Abbas", C: "Gwadar", D: "Duqm" }
+  answer: A
+  explanation: "The waiver covered Iran's Chabahar Port, where India runs the Shahid Beheshti Terminal."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-08
+  difficulty: medium
+  stem: "The 9th Indian Ocean Conference was held in"
+  options: { A: "Sri Lanka", B: "Maldives", C: "Seychelles", D: "Mauritius" }
+  answer: D
+  explanation: "The 9th Indian Ocean Conference was held in Mauritius; the conference series began in 2016."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-09
+  difficulty: hard
+  stem: "Who was approved as the next Secretary-General of the Arab League, to take over from 1 July 2026?"
+  options: { A: "Ahmed Aboul Gheit", B: "Amr Moussa", C: "Sameh Shoukry", D: "Nabil Fahmy" }
+  answer: D
+  explanation: "Nabil Fahmy of Egypt will succeed Ahmed Aboul Gheit as Secretary-General."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-10
+  difficulty: hard
+  stem: "The new county created by China in Xinjiang, against which India protested in April 2026, is"
+  options: { A: "Cenling", B: "Hean", C: "Hekang", D: "Hotan" }
+  answer: A
+  explanation: "Cenling County is the third new county in Xinjiang after Hean and Hekang."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-11
+  difficulty: hard
+  stem: "'Operation Wings of Dawn', seen in the news in April 2026, was carried out by"
+  options: { A: "India, to bring back workers from the Gulf", B: "The United States, against Iran", C: "Israel, to fly Bnei Menashe people from Mizoram", D: "Sri Lanka, for cyclone relief" }
+  answer: C
+  explanation: "Israel flew about 240 members of the Bnei Menashe community from Mizoram to Tel Aviv under this operation."
+  tags: ["2026-04"]
+
+- slug: ca-2604-int-12
+  difficulty: hard
+  stem: "India extended OCI eligibility for people of Indian origin in Sri Lanka up to which generations?"
+  options: { A: "Third and fourth", B: "Fifth and sixth", C: "Fourth only", D: "Seventh and eighth" }
+  answer: B
+  explanation: "Eligibility, earlier up to the fourth generation, was extended to the fifth and sixth generations."
+  tags: ["2026-04"]

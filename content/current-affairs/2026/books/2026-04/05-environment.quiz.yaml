@@ -1,0 +1,96 @@
+# Section 5 — Environment & Ecology (April 2026)
+- slug: ca-2604-env-01
+  difficulty: easy
+  stem: "Shekha Jheel Bird Sanctuary, designated India's 99th Ramsar site, is in which State?"
+  options: { A: "Bihar", B: "Uttar Pradesh", C: "Haryana", D: "Rajasthan" }
+  answer: B
+  explanation: "Shekha Jheel is in Aligarh, Uttar Pradesh; it is the State's 12th Ramsar site."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-02
+  difficulty: easy
+  stem: "The theme of Earth Day 2026, observed on 22 April, was"
+  options: { A: "Planet vs. Plastics", B: "Invest in Our Planet", C: "Our Power, Our Planet", D: "Restore Our Earth" }
+  answer: C
+  explanation: "Earth Day 2026 was observed with the theme 'Our Power, Our Planet'."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-03
+  difficulty: easy
+  stem: "Which species was declared Endangered by the IUCN in April 2026?"
+  options: { A: "Emperor penguin", B: "Polar bear", C: "Snow leopard", D: "Adélie penguin" }
+  answer: A
+  explanation: "The IUCN declared the emperor penguin Endangered because of the effect of warming on Antarctic sea ice."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-04
+  difficulty: easy
+  stem: "India withdrew its bid to host which UN climate conference, due in 2028?"
+  options: { A: "COP30", B: "COP31", C: "COP32", D: "COP33" }
+  answer: D
+  explanation: "India withdrew its candidacy to host COP33 in 2028, leaving South Korea as the only contender."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-05
+  difficulty: medium
+  stem: "India's first water-neutral railway depot is"
+  options: { A: "Kankaria Coaching Depot, Ahmedabad", B: "Wadi Bunder Depot, Mumbai", C: "Basin Bridge Depot, Chennai", D: "Rajendra Nagar Depot, Patna" }
+  answer: A
+  explanation: "Kankaria Coaching Depot in Ahmedabad treats and reuses the water used for washing coaches."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-06
+  difficulty: medium
+  stem: "In which tiger reserve did 25 Himalayan Griffon vultures die in April 2026?"
+  options: { A: "Pilibhit", B: "Corbett", C: "Valmiki", D: "Dudhwa" }
+  answer: D
+  explanation: "The vultures died in Dudhwa Tiger Reserve, Uttar Pradesh, probably from secondary poisoning."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-07
+  difficulty: medium
+  stem: "With total wind power capacity above 56 GW, India ranks where in the world?"
+  options: { A: "Second", B: "Third", C: "Fourth", D: "Fifth" }
+  answer: C
+  explanation: "India is fourth after China, the US and Germany; it added a record 6.05 GW in 2025-26."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-08
+  difficulty: medium
+  stem: "Project Him Sarovar, launched on 10 April 2026 to store snowmelt in small water bodies, is in"
+  options: { A: "Himachal Pradesh", B: "Ladakh", C: "Sikkim", D: "Uttarakhand" }
+  answer: B
+  explanation: "The project will build 50 small water bodies in Leh and Kargil in Ladakh."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-09
+  difficulty: hard
+  stem: "According to 'State of India's Bats (2024–25)', about how many bat species are found in India?"
+  options: { A: "135", B: "75", C: "210", D: "16" }
+  answer: A
+  explanation: "India has about 135 bat species, of which 16 are endemic."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-10
+  difficulty: hard
+  stem: "India's first green methanol plant, at Deendayal Port, will use which plant as raw material?"
+  options: { A: "Lantana camara", B: "Water hyacinth", C: "Parthenium", D: "Prosopis juliflora" }
+  answer: D
+  explanation: "The plant will use the invasive shrub Prosopis juliflora from the Banni grasslands of Kutch."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-11
+  difficulty: hard
+  stem: "The mobile app 'Varudai' is being used in the synchronised survey of which animal?"
+  options: { A: "Lion-tailed macaque", B: "Nilgiri Tahr", C: "Asian elephant", D: "Great Indian Bustard" }
+  answer: B
+  explanation: "Tamil Nadu and Kerala are using the 'Varudai' app in the third synchronised Nilgiri Tahr survey."
+  tags: ["2026-04"]
+
+- slug: ca-2604-env-12
+  difficulty: hard
+  stem: "Which Indian town was chosen for the UN's '20 Cities Towards Zero Waste' initiative?"
+  options: { A: "Indore", B: "Panaji", C: "Varkala", D: "Alappuzha" }
+  answer: C
+  explanation: "Varkala in Kerala was selected among the 20 cities."
+  tags: ["2026-04"]

@@ -1,0 +1,96 @@
+# Section 4 — Science & Technology (April 2026)
+- slug: ca-2604-sci-01
+  difficulty: easy
+  stem: "Artemis II, launched on 1 April 2026 to carry astronauts around the Moon, is a mission of"
+  options: { A: "ESA", B: "ISRO", C: "JAXA", D: "NASA" }
+  answer: D
+  explanation: "NASA launched Artemis II on the Space Launch System rocket with four astronauts aboard the Orion spacecraft."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-02
+  difficulty: easy
+  stem: "The Prototype Fast Breeder Reactor that attained criticality in April 2026 is located at"
+  options: { A: "Kalpakkam", B: "Kudankulam", C: "Tarapur", D: "Kakrapar" }
+  answer: A
+  explanation: "The 500 MWe PFBR is at Kalpakkam in Tamil Nadu."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-03
+  difficulty: easy
+  stem: "Qdenga, approved in India in April 2026, is the country's first vaccine against"
+  options: { A: "Malaria", B: "Chikungunya", C: "Dengue", D: "Zika" }
+  answer: C
+  explanation: "Qdenga (TAK-003) of Takeda is the first dengue vaccine approved in India, for ages 4 to 60."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-04
+  difficulty: easy
+  stem: "Vikram-1, India's first private orbital rocket, has been built by"
+  options: { A: "Agnikul Cosmos", B: "Skyroot Aerospace", C: "Pixxel", D: "Dhruva Space" }
+  answer: B
+  explanation: "Hyderabad-based Skyroot Aerospace built Vikram-1, which can carry up to 350 kg to low Earth orbit."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-05
+  difficulty: medium
+  stem: "Who is the commander of the Artemis II mission?"
+  options: { A: "Victor Glover", B: "Jeremy Hansen", C: "Christina Koch", D: "Reid Wiseman" }
+  answer: D
+  explanation: "Reid Wiseman commands Artemis II; the other crew members are Victor Glover, Christina Koch and Jeremy Hansen."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-06
+  difficulty: medium
+  stem: "The criticality of the PFBR marks India's entry into which stage of its three-stage nuclear power programme?"
+  options: { A: "Stage 1", B: "Stage 2", C: "Stage 3", D: "A new fourth stage" }
+  answer: B
+  explanation: "Fast breeder reactors form Stage 2 of the programme, using plutonium recovered from the spent fuel of Stage 1 reactors."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-07
+  difficulty: medium
+  stem: "India's first open-access quantum testing centre, opened on World Quantum Day 2026, is at"
+  options: { A: "Amaravati", B: "Bengaluru", C: "Pune", D: "Hyderabad" }
+  answer: A
+  explanation: "The Amaravati Quantum Reference Facility in Andhra Pradesh was opened on 14 April, World Quantum Day."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-08
+  difficulty: medium
+  stem: "'Abhay', launched in April 2026 to help people check the genuineness of notices, is an AI chatbot of the"
+  options: { A: "Enforcement Directorate", B: "National Investigation Agency", C: "Central Bureau of Investigation", D: "Reserve Bank of India" }
+  answer: C
+  explanation: "The CBI launched 'Abhay' to counter digital arrest scams that use fake CBI notices."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-09
+  difficulty: hard
+  stem: "The Prototype Fast Breeder Reactor at Kalpakkam was built by"
+  options: { A: "NPCIL", B: "BARC", C: "BHAVINI", D: "BHEL" }
+  answer: C
+  explanation: "The PFBR was designed by IGCAR and built by BHAVINI."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-10
+  difficulty: hard
+  stem: "Artemis II set a record for the farthest distance travelled by humans from Earth, breaking the mark set in 1970 by"
+  options: { A: "Apollo 8", B: "Apollo 11", C: "Apollo 17", D: "Apollo 13" }
+  answer: D
+  explanation: "The earlier record was set by the crew of Apollo 13 in 1970."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-11
+  difficulty: hard
+  stem: "The 1,000 km quantum communication network built under the National Quantum Mission was developed by"
+  options: { A: "QNu Labs", B: "C-DOT", C: "Qubitech", D: "Bharat Electronics Limited" }
+  answer: A
+  explanation: "QNu Labs built the network, which uses Quantum Key Distribution."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sci-12
+  difficulty: hard
+  stem: "The indigenous dengue vaccine 'DengiAll' is being developed by the ICMR along with"
+  options: { A: "Bharat Biotech", B: "Panacea Biotec", C: "Serum Institute of India", D: "Biological E" }
+  answer: B
+  explanation: "Panacea Biotec and the ICMR are developing DengiAll."
+  tags: ["2026-04"]

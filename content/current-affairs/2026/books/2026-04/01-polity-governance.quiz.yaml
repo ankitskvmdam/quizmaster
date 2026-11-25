@@ -1,0 +1,96 @@
+# Section 1 — Polity & Governance (April 2026)
+- slug: ca-2604-pol-01
+  difficulty: easy
+  stem: "Phase I of Census 2027, the houselisting and housing census, began on"
+  options: { A: "1 January 2026", B: "1 March 2026", C: "1 April 2026", D: "1 May 2026" }
+  answer: C
+  explanation: "The houselisting phase of Census 2027 began on 1 April 2026 and runs till 30 September 2026."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-02
+  difficulty: easy
+  stem: "Who was re-elected Deputy Chairman of the Rajya Sabha for a third consecutive term in April 2026?"
+  options: { A: "Harivansh", B: "Jagdeep Dhankhar", C: "K.C. Venugopal", D: "P.J. Kurien" }
+  answer: A
+  explanation: "Harivansh was re-elected unopposed for a third consecutive term and is the first nominated member to hold the post."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-03
+  difficulty: easy
+  stem: "Which city was made the sole permanent capital of Andhra Pradesh by a Bill passed in the Lok Sabha?"
+  options: { A: "Visakhapatnam", B: "Kurnool", C: "Vijayawada", D: "Amaravati" }
+  answer: D
+  explanation: "The Andhra Pradesh Reorganisation (Amendment) Bill, 2026 makes Amaravati the sole permanent capital, with effect from 2 June 2024."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-04
+  difficulty: easy
+  stem: "The Supreme Court held that safe travel on National Highways is part of the right to life under"
+  options: { A: "Article 14", B: "Article 21", C: "Article 19", D: "Article 32" }
+  answer: B
+  explanation: "The Court read highway safety into the right to life under Article 21 and barred new commercial structures within the highway right-of-way."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-05
+  difficulty: medium
+  stem: "The Constitution (131st Amendment) Bill, 2026 proposed raising the maximum strength of the Lok Sabha from 550 to"
+  options: { A: "750", B: "800", C: "888", D: "850" }
+  answer: D
+  explanation: "The Bill proposed a maximum of 850 members: 815 from the States and 35 from the Union Territories."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-06
+  difficulty: medium
+  stem: "Who was the first citizen to complete self-enumeration in Census 2027?"
+  options: { A: "Droupadi Murmu", B: "Narendra Modi", C: "C.P. Radhakrishnan", D: "Amit Shah" }
+  answer: A
+  explanation: "President Droupadi Murmu was the first to complete online self-enumeration in India's first digital census."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-07
+  difficulty: medium
+  stem: "Which of the following is NOT one of the five new districts approved for Ladakh in April 2026?"
+  options: { A: "Nubra", B: "Zanskar", C: "Kargil", D: "Drass" }
+  answer: C
+  explanation: "The five new districts are Nubra, Sham, Changthang, Zanskar and Drass; Kargil and Leh were the two existing districts."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-08
+  difficulty: medium
+  stem: "Which two languages did the Meghalaya Cabinet approve as official languages of the State along with English?"
+  options: { A: "Khasi and Jaintia", B: "Khasi and Garo", C: "Garo and Bodo", D: "Garo and Mizo" }
+  answer: B
+  explanation: "An ordinance approved by the Meghalaya Cabinet gives official status to Khasi and Garo, using Article 345."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-09
+  difficulty: hard
+  stem: "The Constitution (131st Amendment) Bill, 2026 was defeated in the Lok Sabha. How many votes did it get in favour?"
+  options: { A: "352", B: "272", C: "298", D: "326" }
+  answer: C
+  explanation: "The Bill got 298 votes against the 352 needed for a special majority, so it failed."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-10
+  difficulty: hard
+  stem: "Sindhi, whose version of the Constitution was released in two scripts on 10 April 2026, was added to the Eighth Schedule by the"
+  options: { A: "7th Amendment Act, 1956", B: "71st Amendment Act, 1992", C: "92nd Amendment Act, 2003", D: "21st Amendment Act, 1967" }
+  answer: D
+  explanation: "Sindhi was added to the Eighth Schedule by the 21st Amendment Act, 1967."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-11
+  difficulty: hard
+  stem: "The Jan Vishwas (Amendment of Provisions) Bill, 2026, passed by the Lok Sabha, amends provisions in how many Central Acts?"
+  options: { A: "80", B: "42", C: "23", D: "183" }
+  answer: A
+  explanation: "The Bill amends 784 provisions in 80 Central Acts and decriminalises 717 of them."
+  tags: ["2026-04"]
+
+- slug: ca-2604-pol-12
+  difficulty: hard
+  stem: "The Supreme Court committee asked to prepare a plan for disabled-friendly prisons is headed by"
+  options: { A: "Justice Surya Kant", B: "Justice S. Ravindra Bhat", C: "Justice Lisa Gill", D: "Justice Sangam Kumar Sahoo" }
+  answer: B
+  explanation: "The committee is chaired by Justice S. Ravindra Bhat; it was first formed to reform open correctional institutions."
+  tags: ["2026-04"]

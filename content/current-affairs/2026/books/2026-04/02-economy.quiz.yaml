@@ -1,0 +1,104 @@
+# Section 2 — Economy & Banking (April 2026)
+- slug: ca-2604-eco-01
+  difficulty: easy
+  stem: "The Income-tax Act, 2025, which replaced the Income-tax Act, 1961, came into force on"
+  options: { A: "1 January 2026", B: "1 April 2026", C: "1 July 2026", D: "1 April 2027" }
+  answer: B
+  explanation: "The new Income-tax Act, 2025 came into force on 1 April 2026."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-02
+  difficulty: easy
+  stem: "In its April 2026 review, the RBI's Monetary Policy Committee kept the repo rate unchanged at"
+  options: { A: "5.00 per cent", B: "5.50 per cent", C: "6.00 per cent", D: "5.25 per cent" }
+  answer: D
+  explanation: "The repo rate stayed at 5.25 per cent and the stance remained neutral."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-03
+  difficulty: easy
+  stem: "India's first semiconductor fabrication plant was notified in a special economic zone at"
+  options: { A: "Dholera, Gujarat", B: "Hosur, Tamil Nadu", C: "Jewar, Uttar Pradesh", D: "Sanand, Gujarat" }
+  answer: A
+  explanation: "The country's first semiconductor fab was notified within a new SEZ at Dholera in Gujarat."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-04
+  difficulty: easy
+  stem: "Which brand became the first Indian FMCG brand to cross a turnover of Rs 1 trillion?"
+  options: { A: "Patanjali", B: "Britannia", C: "Amul", D: "Mother Dairy" }
+  answer: C
+  explanation: "Amul's brand turnover crossed Rs 1 trillion in 2025-26, a first for an Indian FMCG brand."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-05
+  difficulty: medium
+  stem: "The RBI cancelled the banking licence of which payments bank in April 2026?"
+  options: { A: "Airtel Payments Bank", B: "Fino Payments Bank", C: "India Post Payments Bank", D: "Paytm Payments Bank" }
+  answer: D
+  explanation: "The RBI cancelled the licence of Paytm Payments Bank under the Banking Regulation Act, 1949."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-06
+  difficulty: medium
+  stem: "Which major port handled the most cargo in 2025-26, when the major ports together handled a record 915.17 million tonnes?"
+  options: { A: "Paradip Port", B: "Deendayal Port", C: "Jawaharlal Nehru Port", D: "Visakhapatnam Port" }
+  answer: B
+  explanation: "Deendayal Port handled the most cargo, followed by Paradip."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-07
+  difficulty: medium
+  stem: "The Startup India Fund of Funds 2.0, with a corpus of Rs 10,000 crore, will be run by"
+  options: { A: "SIDBI", B: "NABARD", C: "SEBI", D: "EXIM Bank" }
+  answer: A
+  explanation: "SIDBI will operate the Fund of Funds 2.0, which invests through SEBI-registered alternative investment funds."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-08
+  difficulty: medium
+  stem: "Which port overtook Chennai and Ennore to become India's largest automobile export port?"
+  options: { A: "Kandla", B: "Pipavav", C: "Mundra", D: "Kamarajar" }
+  answer: C
+  explanation: "Mundra Port in Gujarat became the country's largest gateway for automobile exports."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-09
+  difficulty: hard
+  stem: "In April 2026 the RBI lowered its forecast of India's GDP growth in 2026-27 to"
+  options: { A: "6.5 per cent", B: "6.9 per cent", C: "7.4 per cent", D: "7.6 per cent" }
+  answer: B
+  explanation: "The RBI projected growth of 6.9 per cent for 2026-27 and CPI inflation of 4.6 per cent."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-10
+  difficulty: hard
+  stem: "The Union Cabinet approved the Bharat Maritime Insurance Pool with a sovereign guarantee of"
+  options: { A: "Rs 12,980 crore", B: "Rs 10,000 crore", C: "Rs 40,175 crore", D: "Rs 5,000 crore" }
+  answer: A
+  explanation: "The pool, meant to cut dependence on foreign marine insurers, has a sovereign guarantee of Rs 12,980 crore."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-11
+  difficulty: hard
+  stem: "The Kalai-II hydropower project (1,200 MW) in Arunachal Pradesh, approved by the CCEA, is on which river?"
+  options: { A: "Subansiri", B: "Siang", C: "Kameng", D: "Lohit" }
+  answer: D
+  explanation: "Kalai-II is on the Lohit river and will be built by THDC; the Kamala project (1,720 MW) will be built by NHPC."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-12
+  difficulty: hard
+  stem: "India's first private gold mine is coming up at Jonnagiri in which district?"
+  options: { A: "Kolar", B: "Raichur", C: "Kurnool", D: "Anantapur" }
+  answer: C
+  explanation: "The Jonnagiri gold project is in Kurnool district of Andhra Pradesh."
+  tags: ["2026-04"]
+
+- slug: ca-2604-eco-13
+  difficulty: medium
+  stem: "Google's AI data centre, whose foundation stone was laid on 28 April 2026, is at"
+  options: { A: "Hyderabad", B: "Bengaluru", C: "Chennai", D: "Visakhapatnam" }
+  answer: D
+  explanation: "The data centre at Visakhapatnam involves an investment of about Rs 1.35 lakh crore."
+  tags: ["2026-04"]

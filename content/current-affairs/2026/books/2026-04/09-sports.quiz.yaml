@@ -1,0 +1,96 @@
+# Section 9 — Sports (April 2026)
+- slug: ca-2604-spo-01
+  difficulty: easy
+  stem: "Which Indian won the FIDE Women's Candidates Tournament 2026?"
+  options: { A: "Koneru Humpy", B: "R. Vaishali", C: "Divya Deshmukh", D: "Harika Dronavalli" }
+  answer: B
+  explanation: "R. Vaishali won the tournament in Cyprus and became the first Indian woman to win the Women's Candidates."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-02
+  difficulty: easy
+  stem: "Who won the Masters golf tournament at Augusta on 12 April 2026?"
+  options: { A: "Scottie Scheffler", B: "Tiger Woods", C: "Jon Rahm", D: "Rory McIlroy" }
+  answer: D
+  explanation: "Rory McIlroy beat Scottie Scheffler by one stroke to win the Masters for the second year running."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-03
+  difficulty: easy
+  stem: "The first Khelo India Tribal Games were held in which State?"
+  options: { A: "Chhattisgarh", B: "Jharkhand", C: "Odisha", D: "Madhya Pradesh" }
+  answer: A
+  explanation: "The Games were held at Raipur, Jagdalpur and Surguja in Chhattisgarh from 25 March to 3 April 2026."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-04
+  difficulty: easy
+  stem: "Who became the first man to run an official marathon in under two hours, at the London Marathon 2026?"
+  options: { A: "Eliud Kipchoge", B: "Yomif Kejelcha", C: "Sabastian Sawe", D: "Jacob Kiplimo" }
+  answer: C
+  explanation: "Sabastian Sawe of Kenya ran 1:59:30 on 26 April 2026."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-05
+  difficulty: medium
+  stem: "Who won the FIDE Candidates Tournament 2026 and will challenge world champion D. Gukesh?"
+  options: { A: "Anish Giri", B: "Fabiano Caruana", C: "R. Praggnanandhaa", D: "Javokhir Sindarov" }
+  answer: D
+  explanation: "Javokhir Sindarov of Uzbekistan won with 9.5 points; Anish Giri finished second."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-06
+  difficulty: medium
+  stem: "Which Indian won silver in men's singles at the Badminton Asia Championships 2026 in Ningbo?"
+  options: { A: "Ayush Shetty", B: "Lakshya Sen", C: "H.S. Prannoy", D: "Kidambi Srikanth" }
+  answer: A
+  explanation: "Ayush Shetty lost the final to Shi Yuqi of China and took silver."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-07
+  difficulty: medium
+  stem: "Which State won the overall title at the first Khelo India Tribal Games?"
+  options: { A: "Odisha", B: "Jharkhand", C: "Karnataka", D: "Chhattisgarh" }
+  answer: C
+  explanation: "Karnataka topped the table with 23 gold medals; Odisha was second and Jharkhand third."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-08
+  difficulty: medium
+  stem: "Jannik Sinner returned to world No. 1 by beating Carlos Alcaraz in the final of which tournament on 12 April 2026?"
+  options: { A: "Miami Open", B: "Monte Carlo Masters", C: "Madrid Open", D: "Barcelona Open" }
+  answer: B
+  explanation: "Sinner won the Monte Carlo Masters final in straight sets and regained the top ranking."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-09
+  difficulty: hard
+  stem: "Sawan Barwal set a new national marathon record of 2:11:58 in April 2026. Whose 1978 record did he break?"
+  options: { A: "Gopi Thonakal", B: "Shivnath Singh", C: "Ram Singh Yadav", D: "Nitendra Singh Rawat" }
+  answer: B
+  explanation: "Shivnath Singh's record of 2:12:00 had stood since 1978; Barwal broke it at the Rotterdam Marathon."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-10
+  difficulty: hard
+  stem: "The Asian Wrestling Championships 2026, where India won 17 medals, were held in"
+  options: { A: "Ulaanbaatar", B: "Astana", C: "Amman", D: "Bishkek" }
+  answer: D
+  explanation: "The championships were held in Bishkek, Kyrgyzstan; India won 2 gold, 7 silver and 8 bronze medals."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-11
+  difficulty: hard
+  stem: "Which country beat India on penalties in the final of the SAFF U-20 Championship 2026?"
+  options: { A: "Bangladesh", B: "Nepal", C: "Maldives", D: "Bhutan" }
+  answer: A
+  explanation: "Bangladesh won 4–3 in the penalty shootout at Malé."
+  tags: ["2026-04"]
+
+- slug: ca-2604-spo-12
+  difficulty: hard
+  stem: "Who received the Lifetime Achievement Award at the Laureus World Sports Awards 2026 in Madrid?"
+  options: { A: "Rafael Nadal", B: "Usain Bolt", C: "Nadia Comăneci", D: "Serena Williams" }
+  answer: C
+  explanation: "Gymnast Nadia Comăneci received the Lifetime Achievement Award; Carlos Alcaraz and Aryna Sabalenka won the main individual awards."
+  tags: ["2026-04"]

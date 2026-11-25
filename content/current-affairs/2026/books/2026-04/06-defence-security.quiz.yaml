@@ -1,0 +1,96 @@
+# Section 6 — Defence & Security (April 2026)
+- slug: ca-2604-def-01
+  difficulty: easy
+  stem: "INS Aridaman, inducted into the Navy in April 2026, is a"
+  options: { A: "Stealth frigate", B: "Aircraft carrier", C: "Nuclear-powered ballistic missile submarine", D: "Diving support vessel" }
+  answer: C
+  explanation: "INS Aridaman is India's third nuclear-powered ballistic missile submarine (SSBN)."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-02
+  difficulty: easy
+  stem: "Exercise Dustlik is held between India and"
+  options: { A: "Uzbekistan", B: "Kazakhstan", C: "Kyrgyzstan", D: "Mongolia" }
+  answer: A
+  explanation: "Dustlik is the India–Uzbekistan joint exercise; its 7th edition was held at Namangan."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-03
+  difficulty: easy
+  stem: "Exercise Cyclone, whose fourth edition was held from 9 to 17 April 2026, is a joint special forces exercise of India and"
+  options: { A: "France", B: "Egypt", C: "Oman", D: "Saudi Arabia" }
+  answer: B
+  explanation: "Cyclone-IV, the India–Egypt special forces exercise, was held at Anshas in Egypt."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-04
+  difficulty: easy
+  stem: "According to SIPRI, where did India rank among the world's military spenders in 2025?"
+  options: { A: "Second", B: "Third", C: "Fourth", D: "Fifth" }
+  answer: D
+  explanation: "India was the fifth-largest military spender, with spending of USD 92.1 billion."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-05
+  difficulty: medium
+  stem: "In the Home Ministry's new classification, which two districts are the only 'LWE Affected Districts'?"
+  options: { A: "Sukma and Gadchiroli", B: "Bijapur and West Singhbhum", C: "Kanker and Malkangiri", D: "Narayanpur and Latehar" }
+  answer: B
+  explanation: "Only Bijapur in Chhattisgarh and West Singhbhum in Jharkhand are in the 'LWE Affected' category; Kanker is a 'District of Concern'."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-06
+  difficulty: medium
+  stem: "Which Indian Navy ship took part in DIVEX 2026, the diving exercise with Sri Lanka at Colombo?"
+  options: { A: "INS Nireekshak", B: "INS Taragiri", C: "INS Sumitra", D: "INS Nistar" }
+  answer: A
+  explanation: "INS Nireekshak, a diving support vessel, was sent to Colombo for the fourth edition of DIVEX."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-07
+  difficulty: medium
+  stem: "The SCO Defence Ministers' Meeting of April 2026 was held in"
+  options: { A: "Astana", B: "Tashkent", C: "Dushanbe", D: "Bishkek" }
+  answer: D
+  explanation: "The meeting was held in Bishkek, the capital of Kyrgyzstan."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-08
+  difficulty: medium
+  stem: "The Centre has set which year as the target for ending insurgency in the North-East?"
+  options: { A: "2027", B: "2028", C: "2029", D: "2030" }
+  answer: C
+  explanation: "The target year is 2029, with Manipur as the first priority."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-09
+  difficulty: hard
+  stem: "'Prajna', handed over by the DRDO to the Ministry of Home Affairs, is"
+  options: { A: "An anti-drone gun", B: "A light tank", C: "A coastal radar chain", D: "An AI-based satellite imagery intelligence system" }
+  answer: D
+  explanation: "Prajna, developed by DRDO's CAIR, analyses satellite images with AI to give intelligence for border and internal security."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-10
+  difficulty: hard
+  stem: "Under 'Operation Global-Hunt', which agency brought back a drug trafficker from Türkiye?"
+  options: { A: "Central Bureau of Investigation", B: "Narcotics Control Bureau", C: "National Investigation Agency", D: "Directorate of Revenue Intelligence" }
+  answer: B
+  explanation: "The Narcotics Control Bureau secured the return of Salim Dola from Türkiye, the first success of Operation Global-Hunt."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-11
+  difficulty: hard
+  stem: "Defence Minister Rajnath Singh exchanged a Defence Industrial Cooperation Roadmap in April 2026 with his counterpart from"
+  options: { A: "Germany", B: "Egypt", C: "Austria", D: "Japan" }
+  answer: A
+  explanation: "He met German Defence Minister Boris Pistorius in Berlin, where the roadmap was exchanged."
+  tags: ["2026-04"]
+
+- slug: ca-2604-def-12
+  difficulty: hard
+  stem: "INS Aridaman has launch tubes for which missiles?"
+  options: { A: "BrahMos and Nirbhay", B: "Agni-V and Prithvi", C: "K-15 and K-4", D: "Barak-8 and Dhanush" }
+  answer: C
+  explanation: "The submarine has 8 launch tubes for K-15 and K-4 submarine-launched ballistic missiles."
+  tags: ["2026-04"]

@@ -1,0 +1,96 @@
+# Section 7 — Government Schemes, Reports & Indices (April 2026)
+- slug: ca-2604-sch-01
+  difficulty: easy
+  stem: "India's rank in the World Press Freedom Index 2026 is"
+  options: { A: "142nd", B: "151st", C: "157th", D: "161st" }
+  answer: C
+  explanation: "India is 157th of 180 countries in the 2026 index, down from 151st in 2025."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-02
+  difficulty: easy
+  stem: "The World Press Freedom Index is published by"
+  options: { A: "Reporters Without Borders", B: "Freedom House", C: "Amnesty International", D: "UNESCO" }
+  answer: A
+  explanation: "Reporters Without Borders (RSF) publishes the index every year."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-03
+  difficulty: easy
+  stem: "Which scheme completed 11 years in April 2026, with about 57 crore loans sanctioned so far?"
+  options: { A: "Stand-Up India", B: "PM SVANidhi", C: "PM Jan Dhan Yojana", D: "Pradhan Mantri MUDRA Yojana" }
+  answer: D
+  explanation: "Under the Pradhan Mantri MUDRA Yojana, about 57 crore loans worth over Rs 40.07 lakh crore have been sanctioned."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-04
+  difficulty: easy
+  stem: "Which State was the best performer in the Panchayat Advancement Index 2.0?"
+  options: { A: "Kerala", B: "Tripura", C: "Odisha", D: "Gujarat" }
+  answer: B
+  explanation: "Tripura had the largest share of gram panchayats in the 'Front Runner' grade."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-05
+  difficulty: medium
+  stem: "The 8th Poshan Pakhwada (9–23 April 2026) was organised by the"
+  options: { A: "Ministry of Health and Family Welfare", B: "Ministry of Women and Child Development", C: "Ministry of Education", D: "Ministry of Rural Development" }
+  answer: B
+  explanation: "The Ministry of Women and Child Development holds Poshan Pakhwada under Poshan Abhiyaan."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-06
+  difficulty: medium
+  stem: "According to Access Now, which country had the most internet shutdowns in 2025, with India second?"
+  options: { A: "Myanmar", B: "Pakistan", C: "Iran", D: "Russia" }
+  answer: A
+  explanation: "Myanmar had 95 shutdowns and India 65, the second highest."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-07
+  difficulty: medium
+  stem: "Women trained under the e-SafeHER programme to spread safe digital habits are called"
+  options: { A: "Digital Didis", B: "Bank Sakhis", C: "Drone Didis", D: "Cyber Sakhis" }
+  answer: D
+  explanation: "e-SafeHER, run by C-DAC with the Reliance Foundation, will train one million rural women as Cyber Sakhis."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-08
+  difficulty: medium
+  stem: "The Union Cabinet extended PMGSY-III till"
+  options: { A: "March 2027", B: "March 2030", C: "March 2028", D: "March 2026" }
+  answer: C
+  explanation: "PMGSY-III was extended to March 2028 with a revised outlay of Rs 83,977 crore."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-09
+  difficulty: hard
+  stem: "The RELIEF scheme, expanded to help exporters hit by the West Asia crisis, is implemented by"
+  options: { A: "EXIM Bank", B: "DGFT", C: "SIDBI", D: "ECGC" }
+  answer: D
+  explanation: "The Export Credit Guarantee Corporation runs RELIEF under the Export Promotion Mission, with an outlay of Rs 497 crore."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-10
+  difficulty: hard
+  stem: "The report 'From Borrowers to Builders', on women's access to credit, was released by"
+  options: { A: "NITI Aayog", B: "The Reserve Bank of India", C: "NABARD", D: "The World Bank" }
+  answer: A
+  explanation: "NITI Aayog released it with TransUnion CIBIL and MicroSave Consulting; women hold Rs 76 lakh crore of credit, 26 per cent of the total."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-11
+  difficulty: hard
+  stem: "The SEED scheme of the Ministry of Social Justice and Empowerment is meant for"
+  options: { A: "Scheduled Caste entrepreneurs", B: "Senior citizens", C: "De-notified, Nomadic and Semi-Nomadic communities", D: "Persons with disabilities" }
+  answer: C
+  explanation: "SEED supports De-notified, Nomadic and Semi-Nomadic communities with coaching, health insurance, livelihood and housing help."
+  tags: ["2026-04"]
+
+- slug: ca-2604-sch-12
+  difficulty: hard
+  stem: "The deadline for completing projects under PM-KUSUM was extended by the MNRE to"
+  options: { A: "31 December 2026", B: "31 March 2027", C: "31 March 2028", D: "31 December 2027" }
+  answer: B
+  explanation: "The MNRE extended the completion deadline to 31 March 2027."
+  tags: ["2026-04"]

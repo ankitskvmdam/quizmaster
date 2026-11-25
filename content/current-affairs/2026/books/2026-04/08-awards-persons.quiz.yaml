@@ -1,0 +1,96 @@
+# Section 8 — Awards, Appointments & Persons in News (April 2026)
+- slug: ca-2604-aps-01
+  difficulty: easy
+  stem: "Which legendary playback singer, a winner of the Dadasaheb Phalke Award, died on 12 April 2026?"
+  options: { A: "Asha Bhosle", B: "Usha Mangeshkar", C: "S. Janaki", D: "Suman Kalyanpur" }
+  answer: A
+  explanation: "Asha Bhosle died in Mumbai on 12 April 2026 at the age of 92."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-02
+  difficulty: easy
+  stem: "Who was appointed Vice-Chairperson of NITI Aayog in April 2026?"
+  options: { A: "Suman Bery", B: "Rajiv Kumar", C: "Arvind Panagariya", D: "Ashok Kumar Lahiri" }
+  answer: D
+  explanation: "Economist Ashok Kumar Lahiri succeeded Suman Bery as Vice-Chairperson."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-03
+  difficulty: easy
+  stem: "World Health Day is observed on"
+  options: { A: "5 April", B: "7 April", C: "21 April", D: "25 April" }
+  answer: B
+  explanation: "World Health Day is 7 April; the 2026 theme was 'Together for Health: Stand with Science'."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-04
+  difficulty: easy
+  stem: "National Panchayati Raj Day is observed on"
+  options: { A: "14 April", B: "21 April", C: "24 April", D: "22 April" }
+  answer: C
+  explanation: "National Panchayati Raj Day is 24 April; the 2026 theme was 'Sashakt Panchayat, Sarvangeen Vikas'."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-05
+  difficulty: medium
+  stem: "Who received the Lata Deenanath Mangeshkar Award 2026?"
+  options: { A: "Amitabh Bachchan", B: "A.R. Rahman", C: "Kailash Satyarthi", D: "Sudha Murty" }
+  answer: C
+  explanation: "Nobel laureate Kailash Satyarthi was chosen for the award, presented in Pune on 24 April 2026."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-06
+  difficulty: medium
+  stem: "Justice Lisa Gill became the first woman Chief Justice of which High Court?"
+  options: { A: "Punjab and Haryana High Court", B: "Andhra Pradesh High Court", C: "Telangana High Court", D: "Patna High Court" }
+  answer: B
+  explanation: "Justice Lisa Gill was appointed Chief Justice of the Andhra Pradesh High Court, the first woman in the post."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-07
+  difficulty: medium
+  stem: "Raghu Rai, who died on 26 April 2026, was a famous"
+  options: { A: "Photographer", B: "Sculptor", C: "Film director", D: "Cartoonist" }
+  answer: A
+  explanation: "Raghu Rai was a photojournalist and the first Indian photographer nominated to Magnum Photos."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-08
+  difficulty: medium
+  stem: "Who became India's first openly queer Member of Parliament in April 2026?"
+  options: { A: "Arundhati Katju", B: "Indira Jaising", C: "Karuna Nundy", D: "Menaka Guruswamy" }
+  answer: D
+  explanation: "Senior advocate Menaka Guruswamy took oath as a Rajya Sabha member from West Bengal."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-09
+  difficulty: hard
+  stem: "Parveen Shaikh won the Whitley Award 2026 for her work to protect which bird?"
+  options: { A: "Great Indian Bustard", B: "Sarus Crane", C: "Black-necked Crane", D: "Indian Skimmer" }
+  answer: D
+  explanation: "She was honoured for community-led conservation of the Indian Skimmer along the Ganga."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-10
+  difficulty: hard
+  stem: "Who will succeed Tim Cook as the CEO of Apple on 1 September 2026?"
+  options: { A: "Jeff Williams", B: "John Ternus", C: "Craig Federighi", D: "Greg Joswiak" }
+  answer: B
+  explanation: "Apple named John Ternus, its hardware engineering chief, as the next CEO; Tim Cook becomes Executive Chairman."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-11
+  difficulty: hard
+  stem: "Who received the 9th Prof. M.S. Swaminathan Award?"
+  options: { A: "Dr Ch. Srinivasa Rao", B: "Dr Himanshu Pathak", C: "Dr Trilochan Mohapatra", D: "Dr Ashok Dalwai" }
+  answer: A
+  explanation: "Dr Ch. Srinivasa Rao, Director of ICAR-NAARM, received the award for work on climate-resilient and dryland farming."
+  tags: ["2026-04"]
+
+- slug: ca-2604-aps-12
+  difficulty: hard
+  stem: "Sadhvi Satish Sail, winner of Femina Miss India 2026, represented which State?"
+  options: { A: "Karnataka", B: "Maharashtra", C: "Goa", D: "Odisha" }
+  answer: C
+  explanation: "She represented Goa and won the title at Bhubaneswar on 18 April 2026."
+  tags: ["2026-04"]
