@@ -17,6 +17,11 @@ export function pick(lang: ContentLang, en: string, hi: string | null | undefine
   return lang === 'hi' && hi ? hi : en
 }
 
+/** The language `pick` actually shows: Hindi only when it was asked for and exists. */
+export function shownLang(lang: ContentLang, hi: string | null | undefined): ContentLang {
+  return lang === 'hi' && hi ? 'hi' : 'en'
+}
+
 type Option = { key: string; text_md: string }
 
 /** Hindi options only when they carry exactly the English letters, so the answer key always lines up. */

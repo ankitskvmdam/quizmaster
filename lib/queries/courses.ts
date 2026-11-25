@@ -4,7 +4,7 @@ import { createClient } from '@/lib/supabase/server'
 import { selectAll } from '@/lib/content/select-all'
 import { buildTree, type Tree } from '@/lib/courses/tree'
 import { materialCounts, toBookKind, type Count } from '@/lib/courses/counts'
-import { pick } from '@/lib/lang'
+import { pick, shownLang } from '@/lib/lang'
 import { getContentLang } from './user'
 
 function fail(what: string, error: { message: string } | null): never {
@@ -154,7 +154,13 @@ export async function getLessonBody(lessonId: string) {
   const [supabase, lang] = await Promise.all([createClient(), getContentLang()])
   const { data, error } = await supabase.from('lessons').select('id, title, body_md, title_hi, body_md_hi').eq('id', lessonId).single()
   if (error) fail('lesson', error)
-  return { id: data.id, title: pick(lang, data.title, data.title_hi), body_md: pick(lang, data.body_md, data.body_md_hi) }
+  return {
+    id: data.id,
+    title: pick(lang, data.title, data.title_hi),
+    body_md: pick(lang, data.body_md, data.body_md_hi),
+    /** The language of body_md as shown: English when the Hindi text is missing. */
+    bodyLang: shownLang(lang, data.body_md_hi),
+  }
 }
 
 /** A chapter's gist and its quiz (the kind='chapter' test) with the person's best score. */
@@ -175,6 +181,7 @@ export async function getChapterDetail(chapterId: string) {
     id: ch.id,
     title: pick(lang, ch.title, ch.title_hi),
     gist_md: pick(lang, ch.gist_md, ch.gist_md_hi),
+    gistLang: shownLang(lang, ch.gist_md_hi),
     quiz: quiz ? { testId: quiz.id, questionCount: quiz.test_questions[0]?.count ?? 0, bestScore } : null,
   }
 }
