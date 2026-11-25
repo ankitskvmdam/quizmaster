@@ -50,23 +50,28 @@ function Chip({ name, value, on, onToggle, label, count }: { name: string; value
 }
 
 /**
- * Three steps: a course; then what to practise in it (a whole subject or section, or single chapters of its books,
- * topics and months); then the length and mode. The test starts straight away.
+ * Three steps: one or more courses; then what to practise, mixed freely across courses and subjects (a whole subject or
+ * section, or single chapters of its books, topics and months); then the length and mode. The test starts straight away.
  */
 export function TestBuilder({ courses }: { courses: BuilderCourse[] }) {
   const [state, action] = useActionState<ActionResult, FormData>(createCustomTest, undefined)
-  const [courseSlug, setCourseSlug] = useState(courses[0]?.slug ?? '')
+  const [courseSlugs, setCourseSlugs] = useState<Set<string>>(() => new Set(courses[0] ? [courses[0].slug] : []))
   const [nodes, setNodes] = useState<Set<string>>(new Set())
   const [chapters, setChapters] = useState<Set<string>>(new Set())
   const [count, setCount] = useState<Count>('10')
   const [mode, setMode] = useState<Mode>('practice')
   const [minutes, setMinutes] = useState<string | null>(null) // null = follow the default for the count
 
-  const course = courses.find((c) => c.slug === courseSlug) ?? courses[0]
-  const pickCourse = (slug: string) => {
-    setCourseSlug(slug)
-    setNodes(new Set())
-    setChapters(new Set())
+  const shown = courses.filter((c) => courseSlugs.has(c.slug))
+  const several = shown.length > 1
+  // Turning a course off also drops whatever was picked in it, so hidden picks never reach the test.
+  const toggleCourse = (c: BuilderCourse) => {
+    const on = !courseSlugs.has(c.slug)
+    setCourseSlugs((prev) => flip(prev, [c.slug], on))
+    if (!on) {
+      setNodes((prev) => flip(prev, c.subjects.flatMap((x) => [x.id, ...x.sections.map((n) => n.id)]), false))
+      setChapters((prev) => flip(prev, c.subjects.flatMap((x) => x.books.flatMap((b) => b.chapters.map((ch) => ch.id))), false))
+    }
   }
   const flip = (set: Set<string>, ids: string[], on: boolean) => {
     const next = new Set(set)
@@ -80,22 +85,26 @@ export function TestBuilder({ courses }: { courses: BuilderCourse[] }) {
   const toggleChapters = (ids: string[], on: boolean) => setChapters((s) => flip(s, ids, on))
 
   // An upper bound for the warning: a whole subject already contains its chapters, so this may count some twice.
-  const allNodes: BuilderNode[] = course?.subjects.flatMap((s) => [s, ...s.sections]) ?? []
-  const allChapters = course?.subjects.flatMap((s) => s.books.flatMap((b) => b.chapters)) ?? []
+  const subjects = shown.flatMap((c) => c.subjects.map((x) => ({ ...x, courseName: c.name })))
+  const allNodes: BuilderNode[] = subjects.flatMap((x) => [x, ...x.sections])
+  const allChapters = subjects.flatMap((x) => x.books.flatMap((b) => b.chapters))
   const available =
     allNodes.filter((n) => nodes.has(n.id)).reduce((t, n) => t + n.questionCount, 0) +
     allChapters.filter((c) => chapters.has(c.id)).reduce((t, c) => t + c.questionCount, 0)
   const picked = nodes.size + chapters.size
+  const subjectsPicked = subjects.filter(
+    (x) => nodes.has(x.id) || x.sections.some((n) => nodes.has(n.id)) || x.books.some((b) => b.chapters.some((ch) => chapters.has(ch.id))),
+  ).length
 
-  if (!course) return null
   return (
     <form action={action} className="flex flex-col gap-8">
       <FormError message={state?.error} />
 
-      <Step n={1} title="Course">
-        <div className="flex flex-wrap gap-2" role="radiogroup" aria-label="Course">
+      <Step n={1} title="Courses">
+        <p className="-mt-2 text-[13px] text-muted-foreground">Pick one or more; you can mix topics from all of them.</p>
+        <div className="flex flex-wrap gap-2">
           {courses.map((c) => {
-            const on = c.slug === course.slug
+            const on = courseSlugs.has(c.slug)
             return (
               <label
                 key={c.slug}
@@ -105,7 +114,7 @@ export function TestBuilder({ courses }: { courses: BuilderCourse[] }) {
                   on ? 'border-primary bg-tint text-tint-foreground' : 'border-hairline bg-panel hover:bg-soft',
                 )}
               >
-                <input type="radio" name="course" value={c.slug} checked={on} onChange={() => pickCourse(c.slug)} className="sr-only" />
+                <input type="checkbox" checked={on} onChange={() => toggleCourse(c)} className="sr-only" />
                 {on && <Check className="size-3.5" aria-hidden />}
                 {c.name}
               </label>
@@ -116,9 +125,15 @@ export function TestBuilder({ courses }: { courses: BuilderCourse[] }) {
 
       <Step n={2} title="Topics">
         <div className="flex flex-col gap-6">
-          {course.subjects.map((s) => (
+          {subjects.length === 0 && <p className="text-sm text-muted-foreground">Pick a course first.</p>}
+          {subjects.map((s) => (
             <div key={s.id} className="flex flex-col gap-3">
               <h3 className="text-[15px] font-semibold" lang={textLang(s.name)}>
+                {several && (
+                  <span className="font-normal text-muted-foreground" lang={textLang(s.courseName)}>
+                    {s.courseName} ›{' '}
+                  </span>
+                )}
                 {s.name}
               </h3>
               <div className="flex flex-wrap gap-2">
@@ -187,6 +202,12 @@ export function TestBuilder({ courses }: { courses: BuilderCourse[] }) {
             </div>
           ))}
         </div>
+        {picked > 0 && (
+          <p className="text-[13px] text-muted-foreground">
+            <Mono className="text-foreground">{picked}</Mono> picked from <Mono className="text-foreground">{subjectsPicked}</Mono>{' '}
+            {subjectsPicked === 1 ? 'subject' : 'subjects'}; questions are mixed across all of them.
+          </p>
+        )}
         {picked > 0 && available < Number(count) && (
           <p className="text-[13px] text-review-fg">
             What you picked has <Mono>{available}</Mono> questions, so the test will have <Mono>{available}</Mono>.
