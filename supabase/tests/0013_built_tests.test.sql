@@ -1,10 +1,12 @@
 -- The step-by-step test builder: sections of chapters, an even split, no repeats, grouped by section.
 begin;
 create extension if not exists pgtap with schema extensions;
-select plan(9);
+select plan(18);
 
-insert into public.allowed_emails (email) values ('built1@test.dev');
-insert into auth.users (id, email) values ('73333333-3333-3333-3333-333333333333', 'built1@test.dev');
+insert into public.allowed_emails (email) values ('built1@test.dev'), ('built2@test.dev');
+insert into auth.users (id, email) values
+  ('73333333-3333-3333-3333-333333333333', 'built1@test.dev'),
+  ('74444444-4444-4444-4444-444444444444', 'built2@test.dev');
 set local role authenticated;
 set local request.jwt.claims to '{"sub":"73333333-3333-3333-3333-333333333333","role":"authenticated"}';
 reset role;
@@ -59,6 +61,36 @@ select throws_ok($$select public.create_built_test('[{"chapter_ids":[]}]', 10)$$
   'every section needs a topic');
 select throws_ok($$select public.create_built_test('[{"chapter_ids":["c2000000-0000-0000-0000-0000000000f1"]}]', 151)$$, 'P0001',
   'Choose between 5 and 150 questions', 'the count is limited');
+
+-- Privacy: another person sees nothing of these tests and can't use or delete them.
+insert into ids values ('att', public.start_attempt((select id from ids where name = 'capped'), 'practice'));
+reset role;
+set local role authenticated;
+set local request.jwt.claims to '{"sub":"74444444-4444-4444-4444-444444444444","role":"authenticated"}';
+select is((select count(*) from public.tests where created_by = '73333333-3333-3333-3333-333333333333'), 0::bigint,
+  'nobody else can see a built test');
+select is((select count(*) from public.test_questions where test_id = (select id from ids where name = 'capped')), 0::bigint,
+  'nobody else can see a built test''s questions');
+select is((select count(*) from public.attempts where test_id = (select id from ids where name = 'capped')), 0::bigint,
+  'nobody else can see attempts on it');
+select throws_ok(format('select public.start_attempt(%L, %L)', (select id from ids where name = 'capped'), 'practice'),
+  'P0001', 'Test not found', 'nobody else can start a built test');
+select throws_ok(format('select public.delete_my_test(%L)', (select id from ids where name = 'capped')),
+  'P0001', 'Test not found', 'nobody else can delete a built test, and is not told it exists');
+
+-- Deleting: only one's own built tests, and their attempts go too.
+reset role;
+set local role authenticated;
+set local request.jwt.claims to '{"sub":"73333333-3333-3333-3333-333333333333","role":"authenticated"}';
+select lives_ok(format('select public.delete_my_test(%L)', (select id from ids where name = 'capped')), 'the owner can delete it');
+select is((select count(*) from public.tests where id = (select id from ids where name = 'capped')), 0::bigint, 'the test is gone');
+select is((select count(*) from public.attempts where id = (select id from ids where name = 'att')), 0::bigint, 'and its attempts');
+reset role;
+insert into public.tests (id, title, kind, published, published_at) values
+  ('c4000000-0000-0000-0000-0000000000f9', 'Official', 'mock', true, now());
+set local role authenticated;
+select throws_ok($$select public.delete_my_test('c4000000-0000-0000-0000-0000000000f9')$$, 'P0001', 'Test not found',
+  'an official test cannot be deleted');
 
 select * from finish();
 rollback;

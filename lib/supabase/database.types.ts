@@ -544,6 +544,9 @@ isOneToOne: false
 "create_period_test":
 { Args: { "p_categories"?: (string)[],"p_count"?: number,"p_from": string,"p_seconds_per_question"?: number,"p_to": string }; Returns: string
                            },
+"delete_my_test":
+{ Args: { "p_test_id": string }; Returns: undefined
+                           },
 "get_attempt":
 { Args: { "p_attempt_id": string }; Returns: Json
                            },

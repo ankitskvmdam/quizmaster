@@ -74,6 +74,15 @@ export async function createBuiltTest(_prev: ActionResult, formData: FormData): 
   redirect(`/attempt/${started.data}`)
 }
 
+/** Deletes a test the person built (the database refuses anyone else's), with its attempts. */
+export async function deleteMyTest(testId: string): Promise<ActionResult> {
+  const supabase = await createClient()
+  const { error } = await supabase.rpc('delete_my_test', { p_test_id: testId })
+  if (error) return { error: message(error) }
+  revalidatePath('/new')
+  revalidatePath('/past')
+}
+
 /** Ten untimed questions from topics the person has read; from every topic if they haven't read any yet. */
 export async function startQuickPractice(): Promise<ActionResult> {
   const supabase = await createClient()

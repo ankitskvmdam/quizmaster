@@ -35,6 +35,7 @@ export default async function NewPage() {
         <Panel>
           <TestList
             tests={built}
+            deletable
             empty={
               <EmptyState icon={<SquareStack />} title="No tests built yet">
                 Mix any subjects and topics into a test of your own. It stays here, so you can take it again.
