@@ -535,6 +535,9 @@ isOneToOne: false
         isOneToOne: true
         isSetofReturn: false
       } },
+"create_built_test":
+{ Args: { "p_count": number,"p_duration_sec"?: number,"p_sections": Json,"p_title"?: string }; Returns: string
+                           },
 "create_custom_test":
 { Args: { "p_chapter_ids"?: (string)[],"p_count": number,"p_duration_sec"?: number,"p_topic_ids": (string)[] }; Returns: string
                            },

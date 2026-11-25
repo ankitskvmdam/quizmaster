@@ -241,7 +241,7 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
   ]
   const { data: books, error: bErr } = await supabase
     .from('books')
-    .select('id, slug, title, title_hi, published_at, topics(path, name, name_hi, subjects(slug, name, name_hi)), book_chapters(id, chapter_progress(chapter_id))')
+    .select('id, slug, kind, title, title_hi, published_at, topics(path, name, name_hi, subjects(slug, name, name_hi)), book_chapters(id, chapter_progress(chapter_id))')
     .not('published_at', 'is', null)
     .order('published_at', { ascending: false })
     .limit(limit)
@@ -251,7 +251,7 @@ export async function getFeed(limit = 20): Promise<FeedItem[]> {
       type: 'book',
       title: pick(lang, b.title, b.title_hi),
       href: `/courses/${b.topics?.subjects?.slug}/${b.topics?.path}/books/${b.slug}`,
-      where: `${pick(lang, b.topics?.subjects?.name ?? '', b.topics?.subjects?.name_hi)} · ${pick(lang, b.topics?.name ?? '', b.topics?.name_hi)} · Book`,
+      where: `${pick(lang, b.topics?.subjects?.name ?? '', b.topics?.subjects?.name_hi)} · ${pick(lang, b.topics?.name ?? '', b.topics?.name_hi)} · ${b.kind === 'monthly' ? 'Month' : b.kind === 'topic' ? 'Topic-wise notes' : 'Book summary'}`,
       publishedAt: b.published_at!,
       isNew: isNewItem(b.published_at, b.book_chapters.some((c) => c.chapter_progress.length > 0), now),
     })

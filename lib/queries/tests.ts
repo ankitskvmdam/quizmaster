@@ -196,3 +196,38 @@ export async function listMyAttempts(page: number, pageSize = 20): Promise<{ row
   })
   return { rows, hasMore: data.length > pageSize }
 }
+
+/** Tests the caller built (the New tab's builder and "Practice this"), newest first, with their best score. */
+export async function listMyBuiltTests(limit = 50): Promise<(TestRow & { createdAt: string })[]> {
+  const supabase = await createClient()
+  const {
+    data: { user },
+  } = await supabase.auth.getUser()
+  if (!user) return []
+  const { data, error } = await supabase
+    .from('tests')
+    .select('id, slug, title, year, duration_sec, marks_correct, marks_wrong, created_at, test_questions(count)')
+    .eq('kind', 'custom')
+    .eq('created_by', user.id)
+    .order('created_at', { ascending: false })
+    .limit(limit)
+  if (error) fail('your tests', error)
+  const best = await bestScores(supabase, data.map((t) => t.id))
+  return data.map((t) => {
+    const questionCount = t.test_questions[0]?.count ?? 0
+    return {
+      id: t.id,
+      slug: t.slug,
+      title: t.title,
+      year: t.year,
+      questionCount,
+      durationSec: t.duration_sec,
+      marksCorrect: Number(t.marks_correct),
+      marksWrong: Number(t.marks_wrong),
+      maxScore: questionCount * Number(t.marks_correct),
+      bestScore: best.get(t.id) ?? null,
+      isCurrentAffairs: false,
+      createdAt: t.created_at,
+    }
+  })
+}
